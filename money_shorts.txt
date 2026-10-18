@@ -2,7 +2,7 @@
   {
     "cat": "Earnings",
     "tk": "KAVP",
-    "title": "Kaveri Power Q2 profit jumps 18% on better plant load",
+    "title": "Gokul Ghee Q2 profit jumps 12% on better plant load",
     "summary": "Kaveri Power reported a second-quarter net profit of ₹412 crore, up 18% from a year earlier, as a higher plant load factor and lower fuel costs lifted margins. Revenue grew 9% to ₹3,150 crore. Operating margin improved to 31% from 28%. Management said its 1,200 MW capacity addition is on track and debt should fall further by March, improving interest coverage.",
     "source": "Business Daily",
     "ago": "2h",
