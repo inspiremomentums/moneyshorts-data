@@ -1,0 +1,58 @@
+[
+  {
+    "cat": "Earnings",
+    "tk": "KAVP",
+    "title": "Kaveri Power Q2 profit jumps 18% on better plant load",
+    "summary": "Kaveri Power reported a second-quarter net profit of ₹412 crore, up 18% from a year earlier, as a higher plant load factor and lower fuel costs lifted margins. Revenue grew 9% to ₹3,150 crore. Operating margin improved to 31% from 28%. Management said its 1,200 MW capacity addition is on track and debt should fall further by March, improving interest coverage.",
+    "source": "Business Daily",
+    "ago": "2h",
+    "impact": "Positive",
+    "why": "Margin and debt trend improve",
+    "url": "https://example.com/source/1",
+    "chips": {"P/E": "14.2", "ROE": "16%", "Debt/Eq": "0.8", "Rev growth": "9%"},
+    "trend": [0.1, 0.25, 0.2, 0.5, 0.45, 0.8, 0.95],
+    "color": "0F766E"
+  },
+  {
+    "cat": "IPO",
+    "tk": "ZENT",
+    "title": "Zentra Foods IPO opens Monday with price band ₹310-326",
+    "summary": "Zentra Foods will open its initial public offering on Monday with a price band of ₹310 to ₹326 per share. The company plans to raise ₹1,800 crore, of which 60% is a fresh issue to fund new plants and repay borrowings. Revenue grew 22% annually over three years, though net margin remains thin at 4.5%. The issue closes on Wednesday.",
+    "source": "Market Wire",
+    "ago": "3h",
+    "impact": "Neutral",
+    "why": "Valuation depends on margin recovery",
+    "url": "https://example.com/source/2",
+    "chips": {"Issue size": "₹1,800 Cr", "Rev CAGR": "22%", "Net margin": "4.5%"},
+    "trend": [0.5, 0.55, 0.45, 0.5, 0.47, 0.52, 0.5],
+    "color": "B7791F"
+  },
+  {
+    "cat": "Economy",
+    "tk": "NIFTY",
+    "title": "Retail inflation eases to 4.1%, giving room for rate pause",
+    "summary": "Retail inflation fell to 4.1% last month from 4.8%, helped by cheaper vegetables and a stable fuel basket. Core inflation, which excludes food and fuel, stayed near 3.9%. Economists say the central bank can hold interest rates at its next review. Lower rates generally support borrowing-heavy sectors such as banks, housing finance, real estate and autos.",
+    "source": "Economic Ledger",
+    "ago": "5h",
+    "impact": "Positive",
+    "why": "Supports rate-sensitive sectors",
+    "url": "https://example.com/source/3",
+    "chips": {"CPI": "4.1%", "Core CPI": "3.9%", "Repo view": "Hold"},
+    "trend": [0.9, 0.8, 0.85, 0.6, 0.55, 0.3, 0.2],
+    "color": "2B6CB0"
+  },
+  {
+    "cat": "Earnings",
+    "tk": "BRLX",
+    "title": "Barlox Steel posts loss as steel prices and exports slide",
+    "summary": "Barlox Steel swung to a quarterly net loss of ₹138 crore against a profit a year ago. Realisations fell 11% as global steel prices weakened, while export volumes dropped 15%. Debt-to-equity rose to 1.4 after fresh borrowing for a blast furnace upgrade. The company expects demand to recover in the second half, but analysts want clearer evidence of margin improvement.",
+    "source": "Business Daily",
+    "ago": "6h",
+    "impact": "Negative",
+    "why": "Losses and higher leverage",
+    "url": "https://example.com/source/4",
+    "chips": {"ROE": "-3%", "Debt/Eq": "1.4", "Rev growth": "-8%"},
+    "trend": [0.95, 0.85, 0.7, 0.6, 0.4, 0.3, 0.1],
+    "color": "9B2C2C"
+  }
+]
