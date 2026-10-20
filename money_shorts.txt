@@ -1,6 +1,34 @@
 [
   {
     "v": 2,
+    "cat": "Finance",
+    "tk": "FINANCE",
+    "title": "Why is the RBI closely reviewing massive foreign investments over $1 billion?",
+    "summary": "Amid a falling rupee, the Reserve Bank of India has introduced a standardized checklist for major banks. This new requirement mandates detailed information regarding overseas direct investments that exceed $1 billion. The central bank distributed this checklist last week as part of its heightened monitoring of large financial outflows heading abroad. These steps reflect increased attention on significant cross-border capital movements during currency fluctuations.",
+    "source": "Business Standard / Bloomberg",
+    "published": "2026-10-20T03:57:30+00:00",
+    "ago": "1h",
+    "impact": "Neutral",
+    "why": "Regulatory check on large foreign investments.",
+    "url": "https://www.business-standard.com/finance/investment/rbi-steps-up-scrutiny-of-large-overseas-investments-as-rupee-slides-126102000130_1.html",
+    "chips": {
+      "Investment threshold": "$1 billion"
+    },
+    "trend": [
+      0.5,
+      0.55,
+      0.45,
+      0.5,
+      0.47,
+      0.52,
+      0.5
+    ],
+    "color": "B7791F",
+    "premium": false,
+    "hi_tries": 1
+  },
+  {
+    "v": 2,
     "cat": "Markets",
     "tk": "MARKETS",
     "title": "Why did Brent crude fall to $109.06 a barrel?",
@@ -312,7 +340,7 @@
     ],
     "color": "0F766E",
     "premium": true,
-    "hi_tries": 1
+    "hi_tries": 2
   },
   {
     "v": 2,
@@ -575,5 +603,119 @@
       "Q2 मुनाफा": "₹33 करोड़",
       "Q2 राजस्व": "₹967.06 करोड़"
     }
+  },
+  {
+    "v": 2,
+    "cat": "Markets",
+    "tk": "MARKETS",
+    "title": "Private lenders drag equity markets down while PSU banks rise",
+    "summary": "Indian equity markets faced pressure as private sector lenders reported disappointing earnings. At the same time, information technology stocks retreated from their previous levels. Despite the broader market selloff and weakness across financial services, public sector undertaking banks managed to buck the declining trend, emerging as the only sectoral gainers during the trading session.",
+    "source": "Business Standard",
+    "published": "2026-10-19T16:25:41+00:00",
+    "ago": "13h",
+    "impact": "Neutral",
+    "why": "Mixed sector performance balancing market pressures.",
+    "url": "https://www.business-standard.com/markets/news/private-lenders-weigh-on-equity-markets-as-psu-banks-buck-the-selloff-126101901036_1.html",
+    "chips": {},
+    "trend": [
+      0.5,
+      0.55,
+      0.45,
+      0.5,
+      0.47,
+      0.52,
+      0.5
+    ],
+    "color": "B7791F",
+    "premium": false,
+    "hi_tries": 1
+  },
+  {
+    "v": 2,
+    "cat": "Industry",
+    "tk": "PERNOD",
+    "title": "Tax authorities investigate bulk Scotch imports by Pernod and Diageo",
+    "summary": "Tax officials are currently examining whether bulk Scotch whiskey imports qualify for lower import duties under the India-UK pact. Industry majors Pernod and Diageo have stated that they are cooperating fully with the investigating authorities during this process. The probe focuses on compliance with trade agreement rules for these alcoholic beverage shipments.",
+    "source": "Business Standard / Reuters",
+    "published": "2026-10-19T15:27:13+00:00",
+    "ago": "14h",
+    "impact": "Neutral",
+    "why": "Routine verification of trade pact duties.",
+    "url": "https://www.business-standard.com/industry/news/tax-dept-probes-pernod-diageo-scotch-imports-under-uk-trade-pact-126101901170_1.html",
+    "chips": {},
+    "trend": [
+      0.5,
+      0.55,
+      0.45,
+      0.5,
+      0.47,
+      0.52,
+      0.5
+    ],
+    "color": "B7791F",
+    "premium": false,
+    "title_hi": "Pernod और Diageo के स्कॉच आयात की टैक्स विभाग कर रहा जांच",
+    "summary_hi": "टैक्स अधिकारी इस बात की जांच कर रहे हैं कि क्या भारत-यूके समझौते के तहत थोक में आने वाले स्कॉच आयात पर कम ड्यूटी मिलने की पात्रता है या नहीं। Pernod और Diageo ने कहा है कि वे जांच अधिकारियों के साथ पूरा सहयोग कर रहे हैं।",
+    "why_hi": "टैक्स समझौते की शर्तों की जांच हो रही है।",
+    "chips_hi": {}
+  },
+  {
+    "v": 2,
+    "cat": "IPO",
+    "tk": "FINANCE",
+    "title": "How to selectively read an IPO prospectus for fundamentals",
+    "summary": "When evaluating an initial public offering based on its fundamentals, investors should focus on targeted sections of the offer document rather than reading it completely. By knowing which parts of the prospectus to review and which details to overlook, individuals can efficiently assess the core financial health and business viability of the company before making any assessment decisions.",
+    "source": "Business Standard",
+    "published": "2026-10-19T14:39:44+00:00",
+    "ago": "15h",
+    "impact": "Neutral",
+    "why": "General guidance on reading IPO offer documents.",
+    "url": "https://www.business-standard.com/finance/personal-finance/ipo-offer-document-what-to-read-what-to-skip-when-assessing-fundamentals-126101901121_1.html",
+    "chips": {},
+    "trend": [
+      0.5,
+      0.55,
+      0.45,
+      0.5,
+      0.47,
+      0.52,
+      0.5
+    ],
+    "color": "B7791F",
+    "premium": false,
+    "hi_tries": 1,
+    "title_hi": "आईपीओ डॉक्युमेंट पढ़ने का सही तरीका, किन बातों पर दें ध्यान?",
+    "summary_hi": "किसी भी कंपनी के आईपीओ में पैसा लगाने से पहले उसका पूरा प्रॉस्पेक्टस पढ़ने की जरूरत नहीं है। निवेशक कुछ चुनिंदा हिस्सों पर ध्यान देकर आसानी से कंपनी की वित्तीय सेहत और कारोबार का हाल समझ सकते हैं। इससे सही फैसला लेने में मदद मिलती है।",
+    "why_hi": "आईपीओ के ऑफर डॉक्यूमेंट को आसानी से पढ़ने के लिए सामान्य मार्गदर्शन।",
+    "chips_hi": {}
+  },
+  {
+    "v": 2,
+    "cat": "Companies",
+    "tk": "TATA TRUSTS",
+    "title": "Tata Trusts responds to trustee complaints before Charity Commissioner",
+    "summary": "Sir Dorabji Tata Trust has officially submitted its reply regarding governance complaints raised by two trustees. The Maharashtra Charity Commissioner is now reviewing the submissions and will soon determine the next steps in the matter. This administrative process follows internal disputes brought forward by the trustees, and the final decision rests with the regulatory authority.",
+    "source": "Business Standard",
+    "published": "2026-10-19T14:25:14+00:00",
+    "ago": "15h",
+    "impact": "Neutral",
+    "why": "Awaiting regulatory decision on governance complaints.",
+    "url": "https://www.business-standard.com/companies/news/tata-trusts-replies-on-sdtt-complaint-charity-commissioner-to-decide-soon-126101901109_1.html",
+    "chips": {},
+    "trend": [
+      0.5,
+      0.55,
+      0.45,
+      0.5,
+      0.47,
+      0.52,
+      0.5
+    ],
+    "color": "B7791F",
+    "premium": false,
+    "title_hi": "Tata Trusts ने Charity Commissioner के सामने दिया जवाब",
+    "summary_hi": "Sir Dorabji Tata Trust ने दो trustees द्वारा उठाई गई governance संबंधी शिकायतों पर अपना जवाब सौंप दिया है। महाराष्ट्र के Charity Commissioner अब इस मामले में आगे की कार्रवाई का फैसला करेंगे। यह प्रशासनिक प्रक्रिया आंतरिक विवादों के बाद शुरू हुई है और इस पर अंतिम निर्णय नियामक प्राधिकरण को लेना है।",
+    "why_hi": "नियामक के फैसले का इंतजार है।",
+    "chips_hi": {}
   }
 ]
