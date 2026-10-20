@@ -18,7 +18,9 @@ from email.utils import parsedate_to_datetime
 
 FEED_URL = "https://www.business-standard.com/rss/latest.rss"
 OUT_FILE = "money_shorts.txt"
-MODEL = os.environ.get("GEMINI_MODEL", "gemini-2.5-flash-lite")
+# Tried in this order; if a name is not available for your key, the next one is used.
+MODELS = [m for m in [os.environ.get("GEMINI_MODEL", ""),
+                      "gemini-3.5-flash-lite", "gemini-3.1-flash-lite"] if m]
 API_KEY = os.environ.get("GEMINI_API_KEY", "")
 BS = "{https://www.business-standard.com/rss/}"
 
@@ -133,14 +135,9 @@ def category(i):
 
 
 # ---------- Gemini ----------
-def call_gemini(title, desc, note=""):
-    url = f"https://generativelanguage.googleapis.com/v1beta/models/{MODEL}:generateContent"
-    body = {
-        "systemInstruction": {"parts": [{"text": SYSTEM}]},
-        "contents": [{"role": "user", "parts": [
-            {"text": f"Headline: {title}\nDescription: {desc}\n{note}"}]}],
-        "generationConfig": {"temperature": 0.2, "responseMimeType": "application/json"},
-    }
+def _post(model, body):
+    """Returns (status, result): 'ok', 'missing' (model not found) or 'fail'."""
+    url = f"https://generativelanguage.googleapis.com/v1beta/models/{model}:generateContent"
     req = urllib.request.Request(
         url, data=json.dumps(body).encode("utf-8"),
         headers={"Content-Type": "application/json", "x-goog-api-key": API_KEY})
@@ -148,15 +145,36 @@ def call_gemini(title, desc, note=""):
         try:
             with urllib.request.urlopen(req, timeout=60) as r:
                 resp = json.loads(r.read())
-            return json.loads(resp["candidates"][0]["content"]["parts"][0]["text"])
+            return "ok", json.loads(resp["candidates"][0]["content"]["parts"][0]["text"])
         except urllib.error.HTTPError as e:
+            if e.code == 404:
+                print(f"  model {model} not available for this key")
+                return "missing", None
             if e.code in (429, 500, 503) and attempt < 3:
                 print(f"  AI busy (code {e.code}), waiting...")
                 time.sleep(30 * (attempt + 1))
                 continue
-            print(f"  AI error code {e.code}")
-            return None
+            print(f"  AI error code {e.code} ({model})")
+            return "fail", None
         except (KeyError, IndexError, ValueError):
+            return "fail", None
+    return "fail", None
+
+
+def call_gemini(title, desc, note=""):
+    body = {
+        "systemInstruction": {"parts": [{"text": SYSTEM}]},
+        "contents": [{"role": "user", "parts": [
+            {"text": f"Headline: {title}\nDescription: {desc}\n{note}"}]}],
+        "generationConfig": {"temperature": 0.2, "responseMimeType": "application/json"},
+    }
+    for model in list(MODELS):
+        status, result = _post(model, body)
+        if status == "ok":
+            MODELS.remove(model)
+            MODELS.insert(0, model)  # remember the one that works
+            return result
+        if status == "fail":
             return None
     return None
 
