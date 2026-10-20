@@ -1,18 +1,52 @@
 [
   {
+    "v": 2,
     "cat": "Markets",
     "tk": "MARKETS",
-    "title": "Stock market holiday: BSE, NSE shut for trading today due to Dussehra",
-    "summary": "Domestic stock exchanges BSE and NSE are closed for trading today on account of Dussehra. Normal trading activities on Dalal Street will resume on Wednesday, October 21, following this one-day break.",
-    "source": "Business Standard",
-    "published": "2026-10-20T01:44:06+00:00",
-    "ago": "12m",
+    "title": "Why did Brent crude fall to $109.06 a barrel?",
+    "summary": "Crude oil futures saw a decline as potential relief from Russian sanctions helped balance out supply concerns originating from the Gulf region. Brent crude futures decreased by 49 cents, reaching $109.06 a barrel.",
+    "source": "Business Standard / Reuters",
+    "published": "2026-10-20T02:19:23+00:00",
+    "ago": "16m",
     "impact": "Neutral",
-    "why": "Routine market closure for a public holiday",
-    "url": "https://www.business-standard.com/markets/news/stock-market-holiday-bse-nse-shut-for-trading-today-due-to-dussehra-126101900660_1.html",
+    "why": "Sanction relief offsets supply risks.",
+    "url": "https://www.business-standard.com/markets/commodities/oil-prices-ease-as-russia-sanctions-relief-offsets-gulf-supply-risks-126102000063_1.html",
     "chips": {
-      "Date": "October 21"
+      "Brent crude": "$109.06 a barrel",
+      "Decline": "49 cents"
     },
+    "trend": [
+      0.5,
+      0.55,
+      0.45,
+      0.5,
+      0.47,
+      0.52,
+      0.5
+    ],
+    "color": "B7791F",
+    "premium": false,
+    "title_hi": "रूस पर प्रतिबंधों से राहत के बाद ब्रेंट क्रूड क्यों फिसला?",
+    "summary_hi": "रूस पर प्रतिबंधों में राहत मिलने से खाड़ी देशों से जुड़ी आपूर्ति की चिंताएं कम हुईं, जिससे कच्चे तेल के दाम नीचे आ गए। ब्रेंट क्रूड फ्यूचर्स में 49 सेंट की गिरावट दर्ज की गई और यह $109.06 प्रति बैरल पर आ गया।",
+    "why_hi": "प्रतिबंधों से राहत ने आपूर्ति जोखिम को संतुलित किया।",
+    "chips_hi": {
+      "ब्रेंट क्रूड": "$109.06 प्रति बैरल",
+      "गिरावट": "49 सेंट"
+    }
+  },
+  {
+    "v": 2,
+    "cat": "Markets",
+    "tk": "MARKETS",
+    "title": "Why are BSE and NSE closed for trading today?",
+    "summary": "Domestic stock exchanges, including the BSE and NSE, remained closed for trading today on account of the Dussehra festival. Market participants experienced a one-day pause in regular trading sessions across Dalal Street. Normal trading operations and activities are scheduled to resume tomorrow, Wednesday, October 21, as the markets reopen for investors.",
+    "source": "Business Standard",
+    "published": "2026-10-20T01:44:31+00:00",
+    "ago": "51m",
+    "impact": "Neutral",
+    "why": "Routine market holiday for a festival.",
+    "url": "https://www.business-standard.com/markets/news/stock-market-holiday-bse-nse-shut-for-trading-today-due-to-dussehra-126101900660_1.html",
+    "chips": {},
     "trend": [
       0.5,
       0.55,
@@ -26,19 +60,18 @@
     "premium": false
   },
   {
+    "v": 2,
     "cat": "Economy",
     "tk": "ECONOMY",
-    "title": "Uttar Pradesh Textile and Garmenting Policy, 2022: Incentives, eligibility and implementation",
-    "summary": "The Uttar Pradesh Textile and Garmenting Policy, 2022 offers incentives, outlines eligibility, and details implementation. It applies to a wide textile value chain, ranging from sericulture, spinning, weaving, and knitting to processing, garment manufacturing, technical textiles, and shared infrastructure development.",
+    "title": "What does the Uttar Pradesh Textile and Garmenting Policy cover?",
+    "summary": "The Uttar Pradesh Textile and Garmenting Policy, 2022 encompasses a wide range of activities within the textile value chain. This covers various stages of production from sericulture, spinning, weaving, and knitting to processing and garment manufacturing. Additionally, the policy includes technical textiles and the development of common infrastructure to support the sector.",
     "source": "Business Standard",
     "published": "2026-10-20T01:30:52+00:00",
-    "ago": "26m",
+    "ago": "1h",
     "impact": "Positive",
     "why": "Policy supports textile value chain growth.",
     "url": "https://www.business-standard.com/economy/uttar-pradesh/uttar-pradesh-textile-and-garmenting-policy-2022-incentives-eligibility-and-implementation-126101900731_1.html",
-    "chips": {
-      "Policy year": "2022"
-    },
+    "chips": {},
     "trend": [
       0.1,
       0.25,
@@ -49,22 +82,27 @@
       0.95
     ],
     "color": "0F766E",
-    "premium": false
+    "premium": false,
+    "title_hi": "उत्तर प्रदेश टेक्सटाइल एंड गार्मेंटिंग पॉलिसी, 2022 में क्या शामिल है?",
+    "summary_hi": "उत्तर प्रदेश टेक्सटाइल एंड गार्मेंटिंग पॉलिसी, 2022 कपड़ा मूल्य श्रृंखला की एक विस्तृत श्रृंखला को कवर करती है। इसमें सेरीकल्चर, कताई, बुनाई और निटवेअर से लेकर प्रोसेसिंग और गारमेंट निर्माण तक के चरण शामिल हैं। इसके अलावा, इस नीति में तकनीकी वस्त्र और बुनियादी ढांचे का विकास भी शामिल है।",
+    "why_hi": "नीति से कपड़ा क्षेत्र को समर्थन मिलेगा।",
+    "chips_hi": {}
   },
   {
+    "v": 2,
     "cat": "Industry",
     "tk": "INDUSTRY",
-    "title": "Air India, IndiGo, AAIB to appear before parliamentary panel on Nov 2",
-    "summary": "Representatives from Air India, IndiGo, and the Aircraft Accident Investigation Bureau are scheduled to appear before a parliamentary panel on November 2. The committee is reviewing the performance of civil sector public undertakings and holding related discussions, according to a Lok Sabha Secretariat notice.",
+    "title": "Air India and IndiGo summoned before parliamentary panel on November 2",
+    "summary": "Representatives from Air India, IndiGo, and the Aircraft Accident Investigation Bureau are scheduled to appear before a parliamentary panel. The meeting on November 2 is part of a review focusing on the performance of civil sector public undertakings. The 22-member Parliamentary Standing Committee on Public Undertakings, led by BJP MP Baijayant Panda, issued a notice regarding these scheduled discussions concerning aviation sector entities.",
     "source": "Business Standard / Press Trust of India",
     "published": "2026-10-19T19:21:24+00:00",
-    "ago": "6h",
+    "ago": "7h",
     "impact": "Neutral",
-    "why": "Routine parliamentary review meeting.",
+    "why": "Routine regulatory review of aviation sector entities.",
     "url": "https://www.business-standard.com/industry/aviation/air-india-indigo-aaib-to-appear-before-parliamentary-panel-on-nov-2-126101901091_1.html",
     "chips": {
-      "Date": "Nov 2",
-      "Committee members": "22-member"
+      "Meeting date": "November 2",
+      "Committee members": "22 members"
     },
     "trend": [
       0.5,
@@ -76,22 +114,30 @@
       0.5
     ],
     "color": "B7791F",
-    "premium": false
+    "premium": false,
+    "title_hi": "Air India और IndiGo नवंबर 2 को संसदीय समिति के समक्ष पेश होंगे",
+    "summary_hi": "Air India, IndiGo और Aircraft Accident Investigation Bureau के प्रतिनिधि संसदीय समिति के सामने पेश होंगे। यह बैठक 2 नवंबर को विमानन क्षेत्र के सार्वजनिक उपक्रमों के प्रदर्शन की समीक्षा के सिलसिले में तय की गई है। लोकसभा सचिवालय के नोटिस के अनुसार, समिति इन संस्थाओं के कामकाज की जांच कर रही है।",
+    "why_hi": "विमानन क्षेत्र के सार्वजनिक उपक्रमों की नियमित समीक्षा।",
+    "chips_hi": {
+      "बैठक की तारीख": "नवंबर 2",
+      "समिति के सदस्य": "22 सदस्य"
+    }
   },
   {
+    "v": 2,
     "cat": "IPO",
     "tk": "MARKETS",
-    "title": "Jio IPO anchor book sees over 30x demand, draws record bids worth ₹2.5 trn",
-    "summary": "Jio Platforms attracted over ₹2.5 trillion in bids for its anchor book, generating demand of more than 30 times. Mutual funds, insurers, and global investors participated in the share allocation ahead of the upcoming public offering.",
+    "title": "Jio IPO anchor book attracts record bids worth over ₹2.5 trillion",
+    "summary": "The anchor book for Jio Platforms drew immense interest with bids crossing ₹2.5 trillion, representing over 30 times demand. Global investors, mutual funds, and insurance companies participated heavily ahead of the upcoming public offering. The total size of the anchor book stands at ₹8,110 crore, while the main initial public offering aims to raise ₹30,213 crore.",
     "source": "Business Standard",
     "published": "2026-10-19T18:24:36+00:00",
-    "ago": "7h",
+    "ago": "8h",
     "impact": "Positive",
-    "why": "Strong institutional demand for share offering.",
+    "why": "Strong institutional demand for the share offering.",
     "url": "https://www.business-standard.com/markets/ipo/jio-ipo-anchor-book-sees-over-30x-demand-draws-record-bids-worth-2-5-trn-126101901316_1.html",
     "chips": {
       "Anchor book": "₹8,110 crore",
-      "Bid value": "₹2.5 trillion",
+      "Anchor bids": "₹2.5 trillion",
       "IPO size": "₹30,213 crore"
     },
     "trend": [
@@ -104,23 +150,29 @@
       0.95
     ],
     "color": "0F766E",
-    "premium": false
+    "premium": false,
+    "title_hi": "Jio IPO के एंकर बुक को मिले ₹2.5 लाख करोड़ से ज्यादा के रिकॉर्ड आवेदन",
+    "summary_hi": "Jio Platforms के एंकर बुक में 30 गुना से अधिक मांग देखी गई, जिसमें वैश्विक निवेशकों, म्यूचुअल फंडों और बीमा कंपनियों ने भाग लिया। इस एंकर बुक का आकार ₹8,110 करोड़ है, जबकि कुल आईपीओ का आकार ₹30,213 करोड़ है।",
+    "why_hi": "शेयर पेशकश के लिए मजबूत संस्थागत मांग।",
+    "chips_hi": {
+      "एंकर बुक": "₹8,110 करोड़",
+      "एंकर बोलियां": "₹2.5 लाख करोड़",
+      "IPO आकार": "₹30,213 करोड़"
+    }
   },
   {
+    "v": 2,
     "cat": "Industry",
     "tk": "MIAL",
-    "title": "MIAL reiterates summer 2027 flight shift plan despite airlines' objections",
-    "summary": "Mumbai International Airport plans to reduce its passenger capacity by five million starting in the summer of 2027. Despite opposition from airlines, the airport operator insists that carriers must choose between shifting their operations to the Navi Mumbai facility or looking into other alternatives.",
+    "title": "Will airlines shift flights as Mumbai airport cuts capacity?",
+    "summary": "Mumbai International Airport has confirmed its plan to reduce capacity by 5 million passengers starting from the summer of 2027. Despite objections raised by airlines, the airport operator stated that carriers have the option to relocate their flights to the Navi Mumbai facility or look into other alternatives. The airport management is moving forward with the schedule while leaving the operational choices to the individual airlines.",
     "source": "Business Standard",
     "published": "2026-10-19T18:17:34+00:00",
-    "ago": "7h",
+    "ago": "8h",
     "impact": "Neutral",
-    "why": "Airport capacity reduction amid airline objections.",
+    "why": "Operational shift involves capacity and airline choices.",
     "url": "https://www.business-standard.com/industry/aviation/mial-reiterates-summer-2027-flight-shift-plan-despite-airlines-objections-126101901143_1.html",
-    "chips": {
-      "Capacity cut": "5 million passengers",
-      "Shift timeline": "summer 2027"
-    },
+    "chips": {},
     "trend": [
       0.5,
       0.55,
@@ -134,15 +186,16 @@
     "premium": false
   },
   {
+    "v": 2,
     "cat": "Industry",
     "tk": "INDUSTRY",
-    "title": "Contractors face penalties for accident-prone spots on national highways",
-    "summary": "New guidelines for national highway construction impose financial penalties on contractors for recurring fatal incidents. Additionally, the road ministry has limited subcontracting to a maximum of thirty percent of the total project value to improve safety standards.",
+    "title": "Road ministry sets penalties and caps subcontracting for fatal accidents",
+    "summary": "The road ministry has tightened highway construction norms by introducing penalties for contractors facing repeat fatal accidents. Additionally, subcontracting has been capped at a specific percentage of the total project value to ensure better accountability and safety standards across national highway developments.",
     "source": "Business Standard",
     "published": "2026-10-19T18:09:26+00:00",
-    "ago": "7h",
+    "ago": "8h",
     "impact": "Negative",
-    "why": "Stricter norms and penalties increase operational risk.",
+    "why": "Penalties and strict caps increase contractor risks.",
     "url": "https://www.business-standard.com/industry/news/contractors-face-penalties-for-accident-prone-spots-on-national-highways-126101901311_1.html",
     "chips": {
       "Subcontracting cap": "30%"
@@ -157,62 +210,12 @@
       0.1
     ],
     "color": "9B2C2C",
-    "premium": true
-  },
-  {
-    "cat": "Earnings",
-    "tk": "PIRAMAL FINANCE",
-    "title": "Piramal Finance Q2FY27 results: Net profit zooms 67% to ₹545 crore",
-    "summary": "Piramal Finance registered a 67 percent rise in net profit for the September quarter, reaching Rs 545 crore. The growth was driven by higher core income and better cost management, alongside a 35 percent increase in core net interest income and an expanded net income margin.",
-    "source": "Business Standard / Press Trust of India",
-    "published": "2026-10-19T17:58:08+00:00",
-    "ago": "7h",
-    "impact": "Positive",
-    "why": "Strong profit and core income growth.",
-    "url": "https://www.business-standard.com/companies/news/piramal-finance-q2fy27-results-net-profit-zooms-67-to-545-crore-126101901131_1.html",
-    "chips": {
-      "Net profit": "Rs 545 crore",
-      "Net interest income": "Rs 1,530 crore",
-      "Net income margin": "6.5 per cent"
-    },
-    "trend": [
-      0.1,
-      0.25,
-      0.2,
-      0.5,
-      0.45,
-      0.8,
-      0.95
-    ],
-    "color": "0F766E",
-    "premium": false
-  },
-  {
-    "cat": "Earnings",
-    "tk": "PUNJAB & SIND",
-    "title": "Punjab & Sind Bank Q2 net profit surges 40% to ₹412 cr on improved income",
-    "summary": "Punjab & Sind Bank registered a 40 percent growth in net profit, reaching Rs 412 crore for the second quarter, driven by higher core income and lower bad assets. Total income and interest income both saw increases compared to the same period in the previous year. Additionally, the bank reported improvements in net interest income and operating profit, along with a significant reduction in the cost-to-income ratio.",
-    "source": "Business Standard / Press Trust of India",
-    "published": "2026-10-19T17:51:42+00:00",
-    "ago": "8h",
-    "impact": "Positive",
-    "why": "Higher net profit and improved income metrics.",
-    "url": "https://www.business-standard.com/companies/news/punjab-sind-bank-q2-net-profit-surges-40-pc-to-rs-412-cr-on-improved-income-126101700865_1.html",
-    "chips": {
-      "Net profit": "Rs 412 crore",
-      "Total income": "Rs 3,747 crore",
-      "Operating profit": "Rs 617 crore"
-    },
-    "trend": [
-      0.1,
-      0.25,
-      0.2,
-      0.5,
-      0.45,
-      0.8,
-      0.95
-    ],
-    "color": "0F766E",
-    "premium": false
+    "premium": true,
+    "title_hi": "सड़क मंत्रालय ने घातक हादसों पर कॉन्ट्रैक्टरों के लिए सजा और कैप तय की",
+    "summary_hi": "सड़क मंत्रालय ने हाईवे निर्माण के नियमों को सख्त कर दिया है। इसके तहत बार-बार होने वाले घातक हादसों के लिए कॉन्ट्रैक्टरों पर जुर्माना लगाया जाएगा। साथ ही, प्रोजेक्ट वैल्यू का एक तय हिस्सा ही सबकॉन्ट्रैक्टर को देने की सीमा तय की गई है।",
+    "why_hi": "सख्त नियमों और जुर्माने से कॉन्ट्रैक्टरों पर दबाव बढ़ेगा।",
+    "chips_hi": {
+      "सबकॉन्ट्रैक्टिंग कैप": "30%"
+    }
   }
 ]
