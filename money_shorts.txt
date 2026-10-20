@@ -57,7 +57,8 @@
       0.5
     ],
     "color": "B7791F",
-    "premium": false
+    "premium": false,
+    "hi_tries": 1
   },
   {
     "v": 2,
@@ -183,7 +184,8 @@
       0.5
     ],
     "color": "B7791F",
-    "premium": false
+    "premium": false,
+    "hi_tries": 1
   },
   {
     "v": 2,
@@ -216,6 +218,175 @@
     "why_hi": "सख्त नियमों और जुर्माने से कॉन्ट्रैक्टरों पर दबाव बढ़ेगा।",
     "chips_hi": {
       "सबकॉन्ट्रैक्टिंग कैप": "30%"
+    }
+  },
+  {
+    "v": 2,
+    "cat": "Earnings",
+    "tk": "PIRAMAL FINANCE",
+    "title": "Piramal Finance posts 67 percent jump in net profit",
+    "summary": "Piramal Finance announced a 67 percent increase in net profit reaching Rs 545 crore for the September quarter. The growth was driven by core income improvements and better cost management. Core net interest income rose 35 percent to Rs 1,530 crore, supported by a 24 percent expansion in assets under management and a higher net income margin of 6.5 percent. The cost-to-income ratio improved from 61.2 percent to 52.1 percent during the period.",
+    "source": "Business Standard / Press Trust of India",
+    "published": "2026-10-19T17:58:08+00:00",
+    "ago": "8h",
+    "impact": "Positive",
+    "why": "Profit surged on higher core income and costs.",
+    "url": "https://www.business-standard.com/companies/news/piramal-finance-q2fy27-results-net-profit-zooms-67-to-545-crore-126101901131_1.html",
+    "chips": {
+      "Net profit": "Rs 545 crore",
+      "Net interest income": "Rs 1,530 crore",
+      "Net income margin": "6.5 percent"
+    },
+    "trend": [
+      0.1,
+      0.25,
+      0.2,
+      0.5,
+      0.45,
+      0.8,
+      0.95
+    ],
+    "color": "0F766E",
+    "premium": false,
+    "title_hi": "Piramal Finance का शुद्ध लाभ 67 प्रतिशत उछला",
+    "summary_hi": "Piramal Finance ने सितंबर तिमाही में 67 प्रतिशत की वृद्धि के साथ 545 करोड़ रुपये का शुद्ध लाभ दर्ज किया है। कोर आय में वृद्धि और लागत में सुधार से कंपनी को यह लाभ मिला। कुल शुद्ध ब्याज आय 35 प्रतिशत बढ़कर 1,530 करोड़ रुपये हो गई, जो एसेट्स अंडर मैनेजमेंट में 24 प्रतिशत की वृद्धि और 6.5 प्रतिशत के शुद्ध आय मार्जिन के कारण संभव हुई।",
+    "why_hi": "बेहतर आय और लागत से मुनाफा बढ़ा।",
+    "chips_hi": {
+      "शुद्ध लाभ": "₹545 करोड़",
+      "शुद्ध ब्याज आय": "₹1,530 करोड़",
+      "शुद्ध आय मार्जिन": "6.5 प्रतिशत"
+    }
+  },
+  {
+    "v": 2,
+    "cat": "Markets",
+    "tk": "LTM",
+    "title": "How is West Asia exposure affecting IT major LTM today?",
+    "summary": "IT major LTM faced revenue growth pressure in Q2FY27 due to its exposure to the Middle East. Margin and foreign exchange pressures also persisted during the period. However, the company has potential recovery prospects driven by increasing artificial intelligence-led deals and improving demand from the banking, financial services, and insurance sector. These opposing factors shape the near-term business performance for the information technology firm.",
+    "source": "Business Standard",
+    "published": "2026-10-19T17:43:11+00:00",
+    "ago": "9h",
+    "impact": "Neutral",
+    "why": "Mixed growth drivers offset regional pressures.",
+    "url": "https://www.business-standard.com/markets/news/west-asia-exposure-may-impact-it-major-ltm-s-near-term-performance-126101901119_1.html",
+    "chips": {},
+    "trend": [
+      0.5,
+      0.55,
+      0.45,
+      0.5,
+      0.47,
+      0.52,
+      0.5
+    ],
+    "color": "B7791F",
+    "premium": true,
+    "title_hi": "West Asia exposure का IT major LTM पर क्या असर पड़ा है?",
+    "summary_hi": "IT major LTM की Q2FY27 में revenue growth पर Middle East exposure का दबाव देखा गया। इस दौरान margin और forex pressure भी बने रहे। हालांकि, AI-led deals में बढ़ोतरी और BFSI demand में सुधार से रिकवरी की उम्मीदें भी मिल रही हैं।",
+    "why_hi": "मिश्रित कारकों से मिला-जुला असर दिख रहा है।",
+    "chips_hi": {}
+  },
+  {
+    "v": 2,
+    "cat": "IPO",
+    "tk": "TONBO IMAGING",
+    "title": "Tonbo Imaging India IPO sees massive demand, subscribing nearly 136 times",
+    "summary": "The initial public offering of Tonbo Imaging India witnessed strong interest from investors, achieving an overall subscription of nearly 136 times. Data from Chittorgarh shows the share sale received a total of 55,24,267 applications. Qualified institutional buyers led the demand by subscribing 293.56 times, while non-institutional investors booked their portion 170.94 times.",
+    "source": "Business Standard",
+    "published": "2026-10-19T17:29:36+00:00",
+    "ago": "9h",
+    "impact": "Positive",
+    "why": "High institutional demand for share sale.",
+    "url": "https://www.business-standard.com/markets/news/tonbo-imaging-india-ipo-subscribed-nearly-136-times-led-by-qib-demand-126101901284_1.html",
+    "chips": {
+      "Subscription": "136 times",
+      "Applications": "55,24,267",
+      "QIB subscription": "293.56 times"
+    },
+    "trend": [
+      0.1,
+      0.25,
+      0.2,
+      0.5,
+      0.45,
+      0.8,
+      0.95
+    ],
+    "color": "0F766E",
+    "premium": false,
+    "title_hi": "Tonbo Imaging India IPO को मिला जबरदस्त रिस्पॉन्स, लगभग 136 गुना हुआ सब्सक्राइब",
+    "summary_hi": "Tonbo Imaging India के इश्यू को निवेशकों से भारी मांग मिली, जिससे यह लगभग 136 गुना सब्सक्राइब हुआ। चित्तौड़गढ़ के डेटा के अनुसार, इस शेयर बिक्री को कुल 55,24,267 आवेदन प्राप्त हुए। क्वालिफाइड इंस्टीट्यूशनल बायर्स ने 293.56 गुना और नॉन-इन्स्टिट्यूशनल निवेशकों ने 170.94 गुना सब्सक्रिप्शन के साथ इसमें सबसे आगे बढ़कर हिस्सा लिया।",
+    "why_hi": "शेयर बिक्री के लिए उच्च संस्थागत मांग।",
+    "chips_hi": {
+      "सब्सक्रिप्शन": "136 गुना",
+      "आवेदन": "55,24,267",
+      "QIB सब्सक्रिप्शन": "293.56 गुना"
+    }
+  },
+  {
+    "v": 2,
+    "cat": "Economy",
+    "tk": "ECONOMY",
+    "title": "Why India needs green energy for expanding data centres",
+    "summary": "Economist Nicholas Stern stated that India must speed up its transition to renewable energy sources. This shift is essential to decrease the country's exposure to unstable oil prices and geopolitical disruptions. Stern highlighted the importance of clean power supplies particularly for expanding data centres.",
+    "source": "Business Standard",
+    "published": "2026-10-19T16:56:42+00:00",
+    "ago": "9h",
+    "impact": "Neutral",
+    "why": "Focuses on clean energy policy.",
+    "url": "https://www.business-standard.com/economy/interviews/india-should-make-data-centres-expand-clean-power-supply-nicholas-stern-126101901009_1.html",
+    "chips": {},
+    "trend": [
+      0.5,
+      0.55,
+      0.45,
+      0.5,
+      0.47,
+      0.52,
+      0.5
+    ],
+    "color": "B7791F",
+    "premium": true,
+    "title_hi": "क्यों डेटा सेंटर्स के विस्तार के लिए ग्रीन एनर्जी जरूरी है",
+    "summary_hi": "निकोला स्टर्न ने कहा कि भारत को अस्थिर तेल की कीमतों और भू-राजनीतिक झटकों से बचने के लिए नवीकरणीय ऊर्जा की ओर बदलाव तेज करना चाहिए। उन्होंने डेटा सेंटर्स के विस्तार के बीच स्वच्छ ऊर्जा आपूर्ति बढ़ाने पर जोर दिया।",
+    "why_hi": "स्वच्छ ऊर्जा नीति पर ध्यान।",
+    "chips_hi": {}
+  },
+  {
+    "v": 2,
+    "cat": "Earnings",
+    "tk": "COMPANIES",
+    "title": "Why did Just Dial profit fall despite higher revenue?",
+    "summary": "Just Dial Ltd reported a 9.73 per cent decline in its consolidated net profit to Rs 107.8 crore for the September quarter of FY27, compared to Rs 119.44 crore in the previous year. This drop occurred despite a 13.11 per cent growth in revenue from operations, which reached Rs 342.82 crore. Meanwhile, total expenses rose by 14.6 per cent to Rs 262.81 crore, and total income increased by 5.6 per cent to Rs 397.38 crore.",
+    "source": "Business Standard / Press Trust of India",
+    "published": "2026-10-19T16:50:59+00:00",
+    "ago": "9h",
+    "impact": "Negative",
+    "why": "Net profit declined despite higher revenue.",
+    "url": "https://www.business-standard.com/companies/quarterly-results/just-dial-q2-profit-declines-9-73-to-107-8-cr-despite-13-revenue-growth-126101901202_1.html",
+    "chips": {
+      "Net profit": "Rs 107.8 crore",
+      "Revenue growth": "13.11 per cent",
+      "Total expenses": "Rs 262.81 crore"
+    },
+    "trend": [
+      0.95,
+      0.85,
+      0.7,
+      0.6,
+      0.4,
+      0.3,
+      0.1
+    ],
+    "color": "9B2C2C",
+    "premium": false,
+    "title_hi": "बढ़ी हुई आय के बावजूद Just Dial का मुनाफा क्यों घटा?",
+    "summary_hi": "Just Dial Ltd ने वित्त वर्ष 27 की सितंबर तिमाही में अपने समेकित शुद्ध लाभ में 9.73 प्रतिशत की गिरावट दर्ज की है, जो घटकर ₹107.8 करोड़ रह गया। एक साल पहले इसी अवधि में यह ₹119.44 करोड़ था। यह गिरावट तब आई जब परिचालन से राजस्व 13.11 प्रतिशत बढ़कर ₹342.82 करोड़ हो गया। इस बीच, कुल खर्च 14.6 प्रतिशत बढ़कर ₹262.81 करोड़ पर पहुंच गया, जबकि कुल आय 5.6 प्रतिशत बढ़ी।",
+    "why_hi": "राजस्व बढ़ने के बावजूद शुद्ध लाभ में गिरावट आई।",
+    "chips_hi": {
+      "शुद्ध लाभ": "₹107.8 करोड़",
+      "राजस्व वृद्धि": "13.11 प्रतिशत",
+      "कुल खर्च": "₹262.81 करोड़"
     }
   }
 ]
