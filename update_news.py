@@ -165,11 +165,10 @@ def _post(model, body):
     return "fail", None
 
 
-def call_gemini(title, desc, note=""):
+def call_json(system, user):
     body = {
-        "systemInstruction": {"parts": [{"text": SYSTEM}]},
-        "contents": [{"role": "user", "parts": [
-            {"text": f"Headline: {title}\nDescription: {desc}\n{note}"}]}],
+        "systemInstruction": {"parts": [{"text": system}]},
+        "contents": [{"role": "user", "parts": [{"text": user}]}],
         "generationConfig": {"temperature": 0.2, "responseMimeType": "application/json"},
     }
     for model in list(MODELS):
@@ -181,6 +180,10 @@ def call_gemini(title, desc, note=""):
         if status == "fail":
             return None
     return None
+
+
+def call_gemini(title, desc, note=""):
+    return call_json(SYSTEM, f"Headline: {title}\nDescription: {desc}\n{note}")
 
 
 def trim_to_limit(summary):
@@ -298,6 +301,32 @@ def make_story(i, r):
     return story
 
 
+HINDI_SYSTEM = """You translate finished stock-market news cards from English into natural, simple Hindi (Devanagari) for everyday Indian readers. Do not translate word by word. Add no facts and no numbers. Keep company names and terms like IPO, NSE, Sensex in English letters. Write numbers with digits 0-9 and use words like करोड़ and लाख. title: at most 14 words, curiosity-driven like the English one. chips: same number and order as the input chips, with Hindi labels and values (for example "₹545 करोड़").
+Reply with JSON only: {"title": "...", "summary": "...", "why": "...", "chips": [{"label": "...", "value": "..."}]}"""
+
+
+def add_hindi(story):
+    """Translate a finished English card. Returns True if the Hindi passed the checks."""
+    card = {"title": story["title"], "summary": story["summary"], "why": story["why"],
+            "chips": [{"label": k, "value": v} for k, v in story["chips"].items()]}
+    source = (story["title"] + " " + story["summary"] + " "
+              + " ".join(story["chips"].values())).replace(",", "")
+    h = clean_hindi(call_json(HINDI_SYSTEM, json.dumps(card, ensure_ascii=False)), source)
+    story["hi_tries"] = story.get("hi_tries", 0) + 1
+    if h is None:
+        return False
+    chips_hi = {}
+    for n, (k, v) in enumerate(story["chips"].items()):
+        c = h["chips"][n] if n < len(h["chips"]) and isinstance(h["chips"][n], dict) else {}
+        label, value = clean(str(c.get("label", "")))[:20], clean(str(c.get("value", "")))[:20]
+        if not (value and nums(value) and numbers_ok(value, source)):
+            value = v
+        chips_hi[label or k] = value
+    story.update({"title_hi": h["title"], "summary_hi": h["summary"],
+                  "why_hi": h["why"], "chips_hi": chips_hi})
+    return True
+
+
 # ---------- main ----------
 def main():
     if not API_KEY:
@@ -336,6 +365,15 @@ def main():
             added.append(make_story(i, r))
         if n < len(todo) - 1:
             time.sleep(PAUSE)
+
+    # Hindi for any story that does not have it yet (new ones that failed, or older ones)
+    fix = [x for x in added + old if "title_hi" not in x and x.get("hi_tries", 0) < 2][:MAX_NEW]
+    done = 0
+    for x in fix:
+        print(f"- Hindi for: {x['title'][:60]}")
+        done += add_hindi(x)
+        time.sleep(PAUSE)
+    print(f"Hindi added for {done} of {len(fix)} stories.")
 
     stories = sorted(added + old, key=lambda s: s.get("published", ""), reverse=True)[:MAX_TOTAL]
     if not stories:
