@@ -38,17 +38,21 @@ TRENDS = {  # decorative picture only, NOT real price data
     "Negative": [0.95, 0.85, 0.7, 0.6, 0.4, 0.3, 0.1],
 }
 
-SYSTEM = """You write short stock-market news cards for retail investors in India.
-Rules:
+SYSTEM = """You write short stock-market news cards for retail investors in India, in English and Hindi.
+Rules for all text:
 - Use ONLY the headline and description given. Never add facts, numbers, names, causes or predictions that are not in them.
-- Write in your own words, in plain neutral English. Do not copy sentences from the source.
+- Write in your own words, in plain neutral language. Do not copy sentences from the source.
 - Do not give investment advice. Never say buy, sell, hold, target price or recommend.
-- Length: 60 to 80 words if the source has enough information. If it is thin, write fewer words rather than guessing or padding, but never fewer than 30.
-- impact: Positive, Neutral or Negative for the fundamentals of the company or sector in the story. Use Neutral when unclear or when the story is not about a company or sector.
-- why: at most 8 words explaining the impact.
-- company: the main company named in the headline, or an empty string if none.
-- chips: up to 3 key figures copied exactly from the text, each with a short label (for example label "Net profit", value "Rs 545 crore"). Use an empty list if there are no clear figures.
-Reply with JSON only: {"summary": "...", "impact": "...", "why": "...", "company": "...", "chips": [{"label": "...", "value": "..."}]}"""
+
+title: a punchy, curiosity-driven headline of at most 12 words. Lead with the most striking real fact in the source. You may pose a question or tease the "why" or "how", but the headline must still state the key fact. Never exaggerate or mislead. No exclamation marks, no ALL CAPS, no clickbait phrases. Every number must come from the source. Do not reuse the source headline.
+summary: 60 to 80 words if the source has enough information. If it is thin, write fewer words rather than guessing or padding, but never fewer than 30.
+impact: Positive, Neutral or Negative for the fundamentals of the company or sector in the story. Use Neutral when unclear or when the story is not about a company or sector.
+why: at most 8 words explaining the impact.
+company: the main company named in the headline, or an empty string if none.
+chips: up to 3 key figures copied exactly from the text, each with a short label (for example label "Net profit", value "Rs 545 crore"). Use an empty list if there are no clear figures.
+hi: the same card in natural, simple Hindi (Devanagari) for everyday Indian readers, not a word-by-word translation. Keep company names and terms like IPO, NSE, Sensex in English letters. Write numbers with digits 0-9 and use words like करोड़ and लाख. hi.title has at most 14 words and the same curiosity-driven style. hi.chips must have the same number and order as chips, with Hindi labels and values (for example "₹545 करोड़").
+Reply with JSON only:
+{"title": "...", "summary": "...", "impact": "...", "why": "...", "company": "...", "chips": [{"label": "...", "value": "..."}], "hi": {"title": "...", "summary": "...", "why": "...", "chips": [{"label": "...", "value": "..."}]}}"""
 
 
 # ---------- helpers ----------
@@ -194,7 +198,37 @@ def nums(s):
     return re.findall(r"\d[\d,]*\.?\d*", s)
 
 
-def check(res, title, desc):
+HYPE = re.compile(r"won't believe|shocking|secret|must[- ]buy|multibagger|rocket|jackpot|"
+                  r"you need to know|blast|bloodbath", re.I)
+DEVANAGARI = re.compile(r"[\u0900-\u097F]")
+
+
+def numbers_ok(text, source):
+    return all(t.replace(",", "") in source for t in nums(text))
+
+
+def good_title(t, source, max_words):
+    return (3 <= words(t) <= max_words and "!" not in t and not t.isupper()
+            and not HYPE.search(t) and numbers_ok(t, source))
+
+
+def clean_hindi(h, source):
+    """Return the checked Hindi card, or None if anything looks wrong."""
+    if not isinstance(h, dict):
+        return None
+    summary = clean(str(h.get("summary", "")))
+    title = clean(str(h.get("title", "")))
+    if not (DEVANAGARI.search(summary) and DEVANAGARI.search(title)):
+        return None
+    if not (25 <= words(summary) <= 110) or not good_title(title, source, 16):
+        return None
+    if not numbers_ok(summary, source):
+        return None
+    return {"title": title, "summary": summary, "why": clean(str(h.get("why", "")))[:80],
+            "chips": h.get("chips") if isinstance(h.get("chips"), list) else []}
+
+
+def check(res, title, desc, need_hi=True):
     """Return a cleaned result, or None if it fails our safety checks."""
     if not isinstance(res, dict) or not isinstance(res.get("summary"), str):
         return None
@@ -205,8 +239,17 @@ def check(res, title, desc):
                  summary, re.I):
         return None
     source = (title + " " + desc).replace(",", "")
-    chips = {}
-    for c in (res.get("chips") or [])[:3]:
+    if not numbers_ok(summary, source):
+        return None
+    new_title = clean(str(res.get("title", "")))
+    if not good_title(new_title, source, 12):
+        new_title = title  # fall back to the original headline
+    hi = clean_hindi(res.get("hi"), source)
+    if need_hi and hi is None:
+        return None
+    chips, chips_hi = {}, {}
+    hi_chips = hi["chips"] if hi else []
+    for n, c in enumerate((res.get("chips") or [])[:3]):
         if not isinstance(c, dict):
             continue
         label, value = clean(str(c.get("label", "")))[:20], clean(str(c.get("value", "")))[:20]
@@ -214,12 +257,22 @@ def check(res, title, desc):
         # keep a chip only if every number in it really appears in the source
         if label and value and tokens and all(t.replace(",", "") in source for t in tokens):
             chips[label] = value
+            h = hi_chips[n] if n < len(hi_chips) and isinstance(hi_chips[n], dict) else {}
+            h_label, h_value = clean(str(h.get("label", "")))[:20], clean(str(h.get("value", "")))[:20]
+            if not (h_value and nums(h_value) and numbers_ok(h_value, source)):
+                h_value = value
+            chips_hi[h_label or label] = h_value
     impact = res.get("impact") if res.get("impact") in COLORS else "Neutral"
     company = clean(str(res.get("company", "")))
     if company.lower() not in title.lower():
         company = ""
-    return {"summary": summary, "impact": impact,
-            "why": clean(str(res.get("why", "")))[:60], "company": company, "chips": chips}
+    out = {"title": new_title, "summary": summary, "impact": impact,
+           "why": clean(str(res.get("why", "")))[:60], "company": company, "chips": chips,
+           "hi": None}
+    if hi:
+        out["hi"] = {"title": hi["title"], "summary": hi["summary"], "why": hi["why"],
+                     "chips": chips_hi}
+    return out
 
 
 def make_story(i, r):
@@ -233,12 +286,16 @@ def make_story(i, r):
     src = "Business Standard"
     if i["source"] and i["source"] != "Business Standard":
         src += f" / {i['source']}"
-    return {
-        "cat": category(i), "tk": tk, "title": i["title"], "summary": r["summary"],
+    story = {
+        "v": 2, "cat": category(i), "tk": tk, "title": r["title"], "summary": r["summary"],
         "source": src, "published": i["published"], "ago": ago(i["published"]),
         "impact": r["impact"], "why": r["why"], "url": i["url"], "chips": r["chips"],
         "trend": TRENDS[r["impact"]], "color": COLORS[r["impact"]], "premium": i["premium"],
     }
+    if r["hi"]:
+        story.update({"title_hi": r["hi"]["title"], "summary_hi": r["hi"]["summary"],
+                      "why_hi": r["hi"]["why"], "chips_hi": r["hi"]["chips"]})
+    return story
 
 
 # ---------- main ----------
@@ -257,7 +314,8 @@ def main():
             old = json.load(f)
     except Exception:
         old = []
-    old = [s for s in old if "example.com" not in s.get("url", "")]  # drop sample stories
+    # keep only stories made by this version (older ones are redone, with titles and Hindi)
+    old = [s for s in old if s.get("v") == 2 and "example.com" not in s.get("url", "")]
     seen = {s["url"] for s in old}
 
     good = sorted((i for i in items if wanted(i)), key=lambda i: i["published"], reverse=True)
@@ -271,7 +329,7 @@ def main():
         if r is None:
             r = check(call_gemini(i["title"], i["desc"],
                                   "Reminder: write 60-80 words using every fact in the source."),
-                      i["title"], i["desc"])
+                      i["title"], i["desc"], need_hi=False)
         if r is None:
             print("  skipped (summary did not pass checks)")
         else:
