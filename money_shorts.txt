@@ -1,58 +1,218 @@
 [
   {
-    "cat": "Earnings",
-    "tk": "KAVP",
-    "title": "Gokul Ghee Q2 profit jumps 12% on better plant load",
-    "summary": "Kaveri Power reported a second-quarter net profit of ₹412 crore, up 18% from a year earlier, as a higher plant load factor and lower fuel costs lifted margins. Revenue grew 9% to ₹3,150 crore. Operating margin improved to 31% from 28%. Management said its 1,200 MW capacity addition is on track and debt should fall further by March, improving interest coverage.",
-    "source": "Business Daily",
-    "ago": "2h",
-    "impact": "Positive",
-    "why": "Margin and debt trend improve",
-    "url": "https://example.com/source/1",
-    "chips": {"P/E": "14.2", "ROE": "16%", "Debt/Eq": "0.8", "Rev growth": "9%"},
-    "trend": [0.1, 0.25, 0.2, 0.5, 0.45, 0.8, 0.95],
-    "color": "0F766E"
-  },
-  {
-    "cat": "IPO",
-    "tk": "ZENT",
-    "title": "Zentra Foods IPO opens Monday with price band ₹310-326",
-    "summary": "Zentra Foods will open its initial public offering on Monday with a price band of ₹310 to ₹326 per share. The company plans to raise ₹1,800 crore, of which 60% is a fresh issue to fund new plants and repay borrowings. Revenue grew 22% annually over three years, though net margin remains thin at 4.5%. The issue closes on Wednesday.",
-    "source": "Market Wire",
-    "ago": "3h",
+    "cat": "Markets",
+    "tk": "MARKETS",
+    "title": "Stock market holiday: BSE, NSE shut for trading today due to Dussehra",
+    "summary": "Domestic stock exchanges BSE and NSE are closed for trading today on account of Dussehra. Normal trading activities on Dalal Street will resume on Wednesday, October 21, following this one-day break.",
+    "source": "Business Standard",
+    "published": "2026-10-20T01:44:06+00:00",
+    "ago": "12m",
     "impact": "Neutral",
-    "why": "Valuation depends on margin recovery",
-    "url": "https://example.com/source/2",
-    "chips": {"Issue size": "₹1,800 Cr", "Rev CAGR": "22%", "Net margin": "4.5%"},
-    "trend": [0.5, 0.55, 0.45, 0.5, 0.47, 0.52, 0.5],
-    "color": "B7791F"
+    "why": "Routine market closure for a public holiday",
+    "url": "https://www.business-standard.com/markets/news/stock-market-holiday-bse-nse-shut-for-trading-today-due-to-dussehra-126101900660_1.html",
+    "chips": {
+      "Date": "October 21"
+    },
+    "trend": [
+      0.5,
+      0.55,
+      0.45,
+      0.5,
+      0.47,
+      0.52,
+      0.5
+    ],
+    "color": "B7791F",
+    "premium": false
   },
   {
     "cat": "Economy",
-    "tk": "NIFTY",
-    "title": "Retail inflation eases to 4.1%, giving room for rate pause",
-    "summary": "Retail inflation fell to 4.1% last month from 4.8%, helped by cheaper vegetables and a stable fuel basket. Core inflation, which excludes food and fuel, stayed near 3.9%. Economists say the central bank can hold interest rates at its next review. Lower rates generally support borrowing-heavy sectors such as banks, housing finance, real estate and autos.",
-    "source": "Economic Ledger",
-    "ago": "5h",
+    "tk": "ECONOMY",
+    "title": "Uttar Pradesh Textile and Garmenting Policy, 2022: Incentives, eligibility and implementation",
+    "summary": "The Uttar Pradesh Textile and Garmenting Policy, 2022 offers incentives, outlines eligibility, and details implementation. It applies to a wide textile value chain, ranging from sericulture, spinning, weaving, and knitting to processing, garment manufacturing, technical textiles, and shared infrastructure development.",
+    "source": "Business Standard",
+    "published": "2026-10-20T01:30:52+00:00",
+    "ago": "26m",
     "impact": "Positive",
-    "why": "Supports rate-sensitive sectors",
-    "url": "https://example.com/source/3",
-    "chips": {"CPI": "4.1%", "Core CPI": "3.9%", "Repo view": "Hold"},
-    "trend": [0.9, 0.8, 0.85, 0.6, 0.55, 0.3, 0.2],
-    "color": "2B6CB0"
+    "why": "Policy supports textile value chain growth.",
+    "url": "https://www.business-standard.com/economy/uttar-pradesh/uttar-pradesh-textile-and-garmenting-policy-2022-incentives-eligibility-and-implementation-126101900731_1.html",
+    "chips": {
+      "Policy year": "2022"
+    },
+    "trend": [
+      0.1,
+      0.25,
+      0.2,
+      0.5,
+      0.45,
+      0.8,
+      0.95
+    ],
+    "color": "0F766E",
+    "premium": false
+  },
+  {
+    "cat": "Industry",
+    "tk": "INDUSTRY",
+    "title": "Air India, IndiGo, AAIB to appear before parliamentary panel on Nov 2",
+    "summary": "Representatives from Air India, IndiGo, and the Aircraft Accident Investigation Bureau are scheduled to appear before a parliamentary panel on November 2. The committee is reviewing the performance of civil sector public undertakings and holding related discussions, according to a Lok Sabha Secretariat notice.",
+    "source": "Business Standard / Press Trust of India",
+    "published": "2026-10-19T19:21:24+00:00",
+    "ago": "6h",
+    "impact": "Neutral",
+    "why": "Routine parliamentary review meeting.",
+    "url": "https://www.business-standard.com/industry/aviation/air-india-indigo-aaib-to-appear-before-parliamentary-panel-on-nov-2-126101901091_1.html",
+    "chips": {
+      "Date": "Nov 2",
+      "Committee members": "22-member"
+    },
+    "trend": [
+      0.5,
+      0.55,
+      0.45,
+      0.5,
+      0.47,
+      0.52,
+      0.5
+    ],
+    "color": "B7791F",
+    "premium": false
+  },
+  {
+    "cat": "IPO",
+    "tk": "MARKETS",
+    "title": "Jio IPO anchor book sees over 30x demand, draws record bids worth ₹2.5 trn",
+    "summary": "Jio Platforms attracted over ₹2.5 trillion in bids for its anchor book, generating demand of more than 30 times. Mutual funds, insurers, and global investors participated in the share allocation ahead of the upcoming public offering.",
+    "source": "Business Standard",
+    "published": "2026-10-19T18:24:36+00:00",
+    "ago": "7h",
+    "impact": "Positive",
+    "why": "Strong institutional demand for share offering.",
+    "url": "https://www.business-standard.com/markets/ipo/jio-ipo-anchor-book-sees-over-30x-demand-draws-record-bids-worth-2-5-trn-126101901316_1.html",
+    "chips": {
+      "Anchor book": "₹8,110 crore",
+      "Bid value": "₹2.5 trillion",
+      "IPO size": "₹30,213 crore"
+    },
+    "trend": [
+      0.1,
+      0.25,
+      0.2,
+      0.5,
+      0.45,
+      0.8,
+      0.95
+    ],
+    "color": "0F766E",
+    "premium": false
+  },
+  {
+    "cat": "Industry",
+    "tk": "MIAL",
+    "title": "MIAL reiterates summer 2027 flight shift plan despite airlines' objections",
+    "summary": "Mumbai International Airport plans to reduce its passenger capacity by five million starting in the summer of 2027. Despite opposition from airlines, the airport operator insists that carriers must choose between shifting their operations to the Navi Mumbai facility or looking into other alternatives.",
+    "source": "Business Standard",
+    "published": "2026-10-19T18:17:34+00:00",
+    "ago": "7h",
+    "impact": "Neutral",
+    "why": "Airport capacity reduction amid airline objections.",
+    "url": "https://www.business-standard.com/industry/aviation/mial-reiterates-summer-2027-flight-shift-plan-despite-airlines-objections-126101901143_1.html",
+    "chips": {
+      "Capacity cut": "5 million passengers",
+      "Shift timeline": "summer 2027"
+    },
+    "trend": [
+      0.5,
+      0.55,
+      0.45,
+      0.5,
+      0.47,
+      0.52,
+      0.5
+    ],
+    "color": "B7791F",
+    "premium": false
+  },
+  {
+    "cat": "Industry",
+    "tk": "INDUSTRY",
+    "title": "Contractors face penalties for accident-prone spots on national highways",
+    "summary": "New guidelines for national highway construction impose financial penalties on contractors for recurring fatal incidents. Additionally, the road ministry has limited subcontracting to a maximum of thirty percent of the total project value to improve safety standards.",
+    "source": "Business Standard",
+    "published": "2026-10-19T18:09:26+00:00",
+    "ago": "7h",
+    "impact": "Negative",
+    "why": "Stricter norms and penalties increase operational risk.",
+    "url": "https://www.business-standard.com/industry/news/contractors-face-penalties-for-accident-prone-spots-on-national-highways-126101901311_1.html",
+    "chips": {
+      "Subcontracting cap": "30%"
+    },
+    "trend": [
+      0.95,
+      0.85,
+      0.7,
+      0.6,
+      0.4,
+      0.3,
+      0.1
+    ],
+    "color": "9B2C2C",
+    "premium": true
   },
   {
     "cat": "Earnings",
-    "tk": "BRLX",
-    "title": "Barlox Steel posts loss as steel prices and exports slide",
-    "summary": "Barlox Steel swung to a quarterly net loss of ₹138 crore against a profit a year ago. Realisations fell 11% as global steel prices weakened, while export volumes dropped 15%. Debt-to-equity rose to 1.4 after fresh borrowing for a blast furnace upgrade. The company expects demand to recover in the second half, but analysts want clearer evidence of margin improvement.",
-    "source": "Business Daily",
-    "ago": "6h",
-    "impact": "Negative",
-    "why": "Losses and higher leverage",
-    "url": "https://example.com/source/4",
-    "chips": {"ROE": "-3%", "Debt/Eq": "1.4", "Rev growth": "-8%"},
-    "trend": [0.95, 0.85, 0.7, 0.6, 0.4, 0.3, 0.1],
-    "color": "9B2C2C"
+    "tk": "PIRAMAL FINANCE",
+    "title": "Piramal Finance Q2FY27 results: Net profit zooms 67% to ₹545 crore",
+    "summary": "Piramal Finance registered a 67 percent rise in net profit for the September quarter, reaching Rs 545 crore. The growth was driven by higher core income and better cost management, alongside a 35 percent increase in core net interest income and an expanded net income margin.",
+    "source": "Business Standard / Press Trust of India",
+    "published": "2026-10-19T17:58:08+00:00",
+    "ago": "7h",
+    "impact": "Positive",
+    "why": "Strong profit and core income growth.",
+    "url": "https://www.business-standard.com/companies/news/piramal-finance-q2fy27-results-net-profit-zooms-67-to-545-crore-126101901131_1.html",
+    "chips": {
+      "Net profit": "Rs 545 crore",
+      "Net interest income": "Rs 1,530 crore",
+      "Net income margin": "6.5 per cent"
+    },
+    "trend": [
+      0.1,
+      0.25,
+      0.2,
+      0.5,
+      0.45,
+      0.8,
+      0.95
+    ],
+    "color": "0F766E",
+    "premium": false
+  },
+  {
+    "cat": "Earnings",
+    "tk": "PUNJAB & SIND",
+    "title": "Punjab & Sind Bank Q2 net profit surges 40% to ₹412 cr on improved income",
+    "summary": "Punjab & Sind Bank registered a 40 percent growth in net profit, reaching Rs 412 crore for the second quarter, driven by higher core income and lower bad assets. Total income and interest income both saw increases compared to the same period in the previous year. Additionally, the bank reported improvements in net interest income and operating profit, along with a significant reduction in the cost-to-income ratio.",
+    "source": "Business Standard / Press Trust of India",
+    "published": "2026-10-19T17:51:42+00:00",
+    "ago": "8h",
+    "impact": "Positive",
+    "why": "Higher net profit and improved income metrics.",
+    "url": "https://www.business-standard.com/companies/news/punjab-sind-bank-q2-net-profit-surges-40-pc-to-rs-412-cr-on-improved-income-126101700865_1.html",
+    "chips": {
+      "Net profit": "Rs 412 crore",
+      "Total income": "Rs 3,747 crore",
+      "Operating profit": "Rs 617 crore"
+    },
+    "trend": [
+      0.1,
+      0.25,
+      0.2,
+      0.5,
+      0.45,
+      0.8,
+      0.95
+    ],
+    "color": "0F766E",
+    "premium": false
   }
 ]
