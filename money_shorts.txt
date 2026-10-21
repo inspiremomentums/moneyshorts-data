@@ -1,6 +1,247 @@
 [
   {
     "v": 2,
+    "cat": "Markets",
+    "tk": "MARKETS",
+    "title": "Why are MRF, Swiggy, and Biocon hitting 52-week lows?",
+    "summary": "Several notable stocks including MRF, Swiggy, Biocon, Yes Bank, PI Industries, NMDC, Tube Investments of India, Vishal Mega Mart, Voltas, and Max Financial Services have hit their respective 52-week lows. This comes as the broader market indexes, specifically the Midcap 100 and Smallcap 100, both recorded a decline of 1 percent during the trading session.",
+    "source": "Business Standard",
+    "published": "2026-10-21T05:44:11+00:00",
+    "ago": "12m",
+    "impact": "Negative",
+    "why": "Multiple stocks hit 52-week lows.",
+    "url": "https://www.business-standard.com/markets/news/midcap-100-smallcap-100-index-down-1-mrf-biocon-swiggy-at-52-week-lows-126102100269_1.html",
+    "chips": {},
+    "trend": [
+      0.95,
+      0.85,
+      0.7,
+      0.6,
+      0.4,
+      0.3,
+      0.1
+    ],
+    "color": "9B2C2C",
+    "premium": false,
+    "title_hi": "MRF, Swiggy और Biocon क्यों पहुंचे 52-हफ्ते के सबसे निचले स्तर पर?",
+    "summary_hi": "MRF, Swiggy, Biocon, Yes Bank, PI Industries, NMDC, Tube Investments of India, Vishal Mega Mart, Voltas और Max Financial Services जैसे कई प्रमुख शेयर अपने 52-हफ्ते के निचले स्तर पर आ गए हैं। इस दौरान Midcap 100 और Smallcap 100 सूचकांकों में 1 प्रतिशत की गिरावट दर्ज की गई।",
+    "why_hi": "कई शेयरों के भाव गिरे।",
+    "chips_hi": {}
+  },
+  {
+    "v": 2,
+    "cat": "Industry",
+    "tk": "INDUSTRY",
+    "title": "SBI probes suspected dark web leak involving 3,897 customer records",
+    "summary": "State Bank of India is investigating a suspected data leak on the dark web. A preliminary analysis of roughly 375,000 dark web records revealed that 3,897 customer records included personal information. The bank stated that a detailed investigation is currently under way to examine the situation thoroughly. Authorities and customers await further findings as the lender continues its review of the compromised data.",
+    "source": "Business Standard",
+    "published": "2026-10-21T05:35:20+00:00",
+    "ago": "21m",
+    "impact": "Negative",
+    "why": "Customer data leak investigation raises security concerns.",
+    "url": "https://www.business-standard.com/industry/banking/sbi-customer-data-dark-web-cybersecurity-pii-cert-in-126102100304_1.html",
+    "chips": {
+      "Dark web records": "375,000",
+      "Customer records": "3,897"
+    },
+    "trend": [
+      0.95,
+      0.85,
+      0.7,
+      0.6,
+      0.4,
+      0.3,
+      0.1
+    ],
+    "color": "9B2C2C",
+    "premium": false,
+    "title_hi": "SBI जांच कर रहा है dark web पर 3,897 ग्राहकों के डेटा लीक की",
+    "summary_hi": "State Bank of India dark web पर मिले संदिग्ध डेटा लीक की जांच कर रहा है। लगभग 3,75,000 dark web रिकॉर्ड्स के शुरुआती विश्लेषण में 3,897 ग्राहकों की व्यक्तिगत जानकारी वाले रिकॉर्ड्स की पहचान की गई है। बैंक ने बताया कि मामले की विस्तृत जांच अभी जारी है।",
+    "why_hi": "ग्राहकों के डेटा लीक की जांच शुरू हुई।",
+    "chips_hi": {
+      "डार्क वेब रिकॉर्ड्स": "3,75,000",
+      "ग्राहक रिकॉर्ड्स": "3,897"
+    }
+  },
+  {
+    "v": 2,
+    "cat": "Markets",
+    "tk": "MARKETS",
+    "title": "Why are markets rising as Sensex climbs 800 points?",
+    "summary": "Indian stock markets saw an intraday rise with the Sensex moving up by 800 points and the Nifty crossing the 23,100 mark. According to market experts, this upward movement is driven by improving earnings growth, fair valuations of large-cap companies, and strong domestic liquidity which provides support when the market declines.",
+    "source": "Business Standard",
+    "published": "2026-10-21T05:01:35+00:00",
+    "ago": "55m",
+    "impact": "Positive",
+    "why": "Strong earnings and domestic liquidity support markets.",
+    "url": "https://www.business-standard.com/markets/news/why-are-markets-rising-today-sensex-up-800-pts-intraday-nifty-tops-23-100-126102100246_1.html",
+    "chips": {
+      "Sensex": "up 800 pts",
+      "Nifty": "tops 23,100"
+    },
+    "trend": [
+      0.1,
+      0.25,
+      0.2,
+      0.5,
+      0.45,
+      0.8,
+      0.95
+    ],
+    "color": "0F766E",
+    "premium": false,
+    "title_hi": "Sensex में 800 अंकों की तेजी के पीछे क्या है कारण?",
+    "summary_hi": "भारतीय शेयर बाजारों में तेजी देखी गई जिसमें Sensex intraday में 800 अंक ऊपर चढ़ गया और Nifty ने 23,100 का स्तर पार कर लिया। विशेषज्ञों के अनुसार, बेहतर होती कमाई, बड़े शेयरों के उचित मूल्यांकन और मजबूत घरेलू नकदी के कारण बाजार में गिरावट के समय भी समर्थन मिल रहा है।",
+    "why_hi": "बेहतर कमाई और मजबूत घरेलू नकदी का समर्थन।",
+    "chips_hi": {
+      "Sensex": "800 अंक ऊपर",
+      "Nifty": "23,100 के पार"
+    }
+  },
+  {
+    "v": 2,
+    "cat": "Finance",
+    "tk": "FINANCE",
+    "title": "How did the rupee rise 29 paise against the US dollar?",
+    "summary": "The rupee gained 29 paise against the US dollar during early trade, reaching 94.62. This movement was supported by domestic market sentiment, RBI backing, and foreign dollar inflows linked to the Jio IPO public subscription. High crude oil prices and a strong US currency limited further appreciation. The forex market had previously closed for Dussehra, following a two-paise decline in the currency's settlement.",
+    "source": "Business Standard / Press Trust of India",
+    "published": "2026-10-21T04:58:00+00:00",
+    "ago": "59m",
+    "impact": "Positive",
+    "why": "Rupee appreciated against US dollar.",
+    "url": "https://www.business-standard.com/finance/news/rupee-rises-29-paise-to-94-62-against-us-dollar-during-early-trade-126102100233_1.html",
+    "chips": {
+      "Rupee rise": "29 paise",
+      "Exchange rate": "94.62",
+      "Previous close": "94.91"
+    },
+    "trend": [
+      0.1,
+      0.25,
+      0.2,
+      0.5,
+      0.45,
+      0.8,
+      0.95
+    ],
+    "color": "0F766E",
+    "premium": false,
+    "title_hi": "रुपया शुरुआती कारोबार में अमेरिकी डॉलर के मुकाबले 29 पैसे क्यों मजबूत हुआ?",
+    "summary_hi": "शुरुआती कारोबार में रुपया अमेरिकी डॉलर के मुकाबले 29 पैसे बढ़कर 94.62 पर पहुंच गया। इस तेजी को घरेलू बाजार के सकारात्मक रुख, आरबीआई के समर्थन और Jio IPO से जुड़े विदेशी डॉलर प्रवाह का साथ मिला। हालांकि, ऊंचे कच्चे तेल के दामों और मजबूत अमेरिकी डॉलर ने इस बढ़त को सीमित रखा। इससे पहले सोमवार को रुपया 94.91 पर बंद हुआ था और मंगलवार को दशहरा के कारण बाजार बंद था।",
+    "why_hi": "डॉलर के मुकाबले रुपया मजबूत हुआ।",
+    "chips_hi": {
+      "रुपया बढ़त": "29 पैसे",
+      "विनिमय दर": "94.62",
+      "पिछला बंद": "94.91"
+    }
+  },
+  {
+    "v": 2,
+    "cat": "Markets",
+    "tk": "MARKETS",
+    "title": "Why did the Nifty IT index hit an eight-month high?",
+    "summary": "The Nifty IT index reached an eight-month peak in October, driven by a 16 percent rally so far this month. Major technology firms including TCS, Tech Mahindra, Wipro, Infosys, and Mphasis recorded gains between 18 and 23 percent. Additionally, L&T Technology Services saw a 15 percent surge on Wednesday. These market movements followed positive second-quarter earnings reports across the sector.",
+    "source": "Business Standard",
+    "published": "2026-10-21T04:56:18+00:00",
+    "ago": "1h",
+    "impact": "Positive",
+    "why": "Strong Q2 earnings drove IT stock gains.",
+    "url": "https://www.business-standard.com/markets/news/nifty-it-index-hits-8-month-high-ltts-zooms-15-on-wednesday-here-s-why-126102100228_1.html",
+    "chips": {
+      "IT index rally": "16%",
+      "LTTS surge": "15%",
+      "Tech stocks surge": "18-23%"
+    },
+    "trend": [
+      0.1,
+      0.25,
+      0.2,
+      0.5,
+      0.45,
+      0.8,
+      0.95
+    ],
+    "color": "0F766E",
+    "premium": false,
+    "title_hi": "Nifty IT इंडेक्स 8 महीने के उच्चतम स्तर पर क्यों पहुंचा?",
+    "summary_hi": "अक्टूबर में अब तक Nifty IT इंडेक्स में 16 प्रतिशत की तेजी आई है। दूसरी तिमाही के नतीजों के बीच TCS, Tech Mahindra, Wipro, Infosys और Mphasis के शेयरों में 18 से 23 प्रतिशत की बढ़त दर्ज की गई। इसके अलावा, बुधवार को LTTS के शेयरों में भी 15 प्रतिशत का उछाल आया।",
+    "why_hi": "शानदार तिमाही नतीजों से आईटी शेयरों में तेजी।",
+    "chips_hi": {
+      "IT इंडेक्स तेजी": "16%",
+      "LTTS उछाल": "15%",
+      "टेक शेयर बढ़त": "18-23%"
+    }
+  },
+  {
+    "v": 2,
+    "cat": "Markets",
+    "tk": "MARKETS",
+    "title": "Why did gold and silver fall globally?",
+    "summary": "Precious metals experienced a decline in the international market due to rising crude oil prices, which triggered renewed concerns over potential interest rate hikes. On the Comex platform, gold futures traded near $4,140 per ounce, while silver hovered close to $57.60 per ounce.",
+    "source": "Business Standard",
+    "published": "2026-10-21T04:50:36+00:00",
+    "ago": "1h",
+    "impact": "Negative",
+    "why": "Higher oil prices revived rate-hike worries.",
+    "url": "https://www.business-standard.com/markets/commodities/gold-silver-fall-as-higher-crude-oil-prices-revive-rate-hike-concerns-126102100241_1.html",
+    "chips": {
+      "Gold futures": "$4,140 per ounce",
+      "Silver": "$57.60 per ounce"
+    },
+    "trend": [
+      0.95,
+      0.85,
+      0.7,
+      0.6,
+      0.4,
+      0.3,
+      0.1
+    ],
+    "color": "9B2C2C",
+    "premium": false,
+    "title_hi": "क्यों गिरे सोने और चांदी के दाम?",
+    "summary_hi": "कच्चे तेल की कीमतें बढ़ने से ब्याज दरें बढ़ने की चिंताएं फिर से पैदा हुईं, जिससे वैश्विक बाजार में कीमती धातुओं में गिरावट आई। Comex पर सोने के वायदा भाव $4,140 प्रति औंस के आसपास और चांदी $57.60 प्रति औंस के आसपास ट्रेड कर रहे थे।",
+    "why_hi": "तेल कीमतें बढ़ने से रेट-हाइके चिंताएं जगीं।",
+    "chips_hi": {
+      "Gold futures": "$4,140 प्रति औंस",
+      "Silver": "$57.60 प्रति औंस"
+    }
+  },
+  {
+    "v": 2,
+    "cat": "Industry",
+    "tk": "SBI",
+    "title": "SBI faces data leak exposing 3,897 customer records online",
+    "summary": "State Bank of India reported a cyberattack that resulted in the exposure of 3,897 customer records on the dark web. An analysis revealed that the compromised data included sensitive information such as customer names, mobile numbers, dates of birth, email addresses, residential addresses, brand and customer identifiers, as well as loan records. The bank shared details regarding the nature of the exposed information following the analysis.",
+    "source": "Business Standard / Reuters",
+    "published": "2026-10-21T04:40:58+00:00",
+    "ago": "1h",
+    "impact": "Negative",
+    "why": "Cyberattack exposed customer data and loan records.",
+    "url": "https://www.business-standard.com/industry/banking/sbi-reports-cyberattack-exposing-3-897-customer-records-on-dark-web-126102100192_1.html",
+    "chips": {
+      "Exposed records": "3,897"
+    },
+    "trend": [
+      0.95,
+      0.85,
+      0.7,
+      0.6,
+      0.4,
+      0.3,
+      0.1
+    ],
+    "color": "9B2C2C",
+    "premium": false,
+    "title_hi": "SBI पर साइबर हमला, dark web पर लीक हुए 3,897 ग्राहकों के रिकॉर्ड",
+    "summary_hi": "State Bank of India ने एक साइबर हमले की सूचना दी है जिसके कारण dark web पर 3,897 ग्राहकों के रिकॉर्ड लीक हो गए। एक विश्लेषण से पता चला कि उजागर जानकारी में ग्राहकों के नाम, मोबाइल नंबर, जन्म तिथि, ईमेल पते, आवासीय पते, ब्रांड और ग्राहक पहचानकर्ता के साथ-साथ लोन रिकॉर्ड भी शामिल थे। बैंक ने विश्लेषण के बाद उजागर जानकारी की प्रकृति के बारे में विवरण साझा किया।",
+    "why_hi": "साइबर हमले में ग्राहकों का डेटा हुआ लीक।",
+    "chips_hi": {
+      "लीक रिकॉर्ड": "3,897"
+    }
+  },
+  {
+    "v": 2,
     "cat": "Companies",
     "tk": "MATCH GROUP",
     "title": "Tinder and Hinge introduce new safety features and checks in India",
@@ -139,7 +380,7 @@
     ],
     "color": "0F766E",
     "premium": true,
-    "hi_tries": 1
+    "hi_tries": 2
   },
   {
     "v": 2,
@@ -198,7 +439,7 @@
     ],
     "color": "0F766E",
     "premium": true,
-    "hi_tries": 1
+    "hi_tries": 2
   },
   {
     "v": 2,
@@ -511,229 +752,6 @@
     "chips_hi": {
       "ब्रेंट क्रूड": "$109.06 प्रति बैरल",
       "गिरावट": "49 सेंट"
-    }
-  },
-  {
-    "v": 2,
-    "cat": "Markets",
-    "tk": "MARKETS",
-    "title": "Why are BSE and NSE closed for trading today?",
-    "summary": "Domestic stock exchanges, including the BSE and NSE, remained closed for trading today on account of the Dussehra festival. Market participants experienced a one-day pause in regular trading sessions across Dalal Street. Normal trading operations and activities are scheduled to resume tomorrow, Wednesday, October 21, as the markets reopen for investors.",
-    "source": "Business Standard",
-    "published": "2026-10-20T01:44:31+00:00",
-    "ago": "51m",
-    "impact": "Neutral",
-    "why": "Routine market holiday for a festival.",
-    "url": "https://www.business-standard.com/markets/news/stock-market-holiday-bse-nse-shut-for-trading-today-due-to-dussehra-126101900660_1.html",
-    "chips": {},
-    "trend": [
-      0.5,
-      0.55,
-      0.45,
-      0.5,
-      0.47,
-      0.52,
-      0.5
-    ],
-    "color": "B7791F",
-    "premium": false,
-    "hi_tries": 2
-  },
-  {
-    "v": 2,
-    "cat": "Economy",
-    "tk": "ECONOMY",
-    "title": "What does the Uttar Pradesh Textile and Garmenting Policy cover?",
-    "summary": "The Uttar Pradesh Textile and Garmenting Policy, 2022 encompasses a wide range of activities within the textile value chain. This covers various stages of production from sericulture, spinning, weaving, and knitting to processing and garment manufacturing. Additionally, the policy includes technical textiles and the development of common infrastructure to support the sector.",
-    "source": "Business Standard",
-    "published": "2026-10-20T01:30:52+00:00",
-    "ago": "1h",
-    "impact": "Positive",
-    "why": "Policy supports textile value chain growth.",
-    "url": "https://www.business-standard.com/economy/uttar-pradesh/uttar-pradesh-textile-and-garmenting-policy-2022-incentives-eligibility-and-implementation-126101900731_1.html",
-    "chips": {},
-    "trend": [
-      0.1,
-      0.25,
-      0.2,
-      0.5,
-      0.45,
-      0.8,
-      0.95
-    ],
-    "color": "0F766E",
-    "premium": false,
-    "title_hi": "उत्तर प्रदेश टेक्सटाइल एंड गार्मेंटिंग पॉलिसी, 2022 में क्या शामिल है?",
-    "summary_hi": "उत्तर प्रदेश टेक्सटाइल एंड गार्मेंटिंग पॉलिसी, 2022 कपड़ा मूल्य श्रृंखला की एक विस्तृत श्रृंखला को कवर करती है। इसमें सेरीकल्चर, कताई, बुनाई और निटवेअर से लेकर प्रोसेसिंग और गारमेंट निर्माण तक के चरण शामिल हैं। इसके अलावा, इस नीति में तकनीकी वस्त्र और बुनियादी ढांचे का विकास भी शामिल है।",
-    "why_hi": "नीति से कपड़ा क्षेत्र को समर्थन मिलेगा।",
-    "chips_hi": {}
-  },
-  {
-    "v": 2,
-    "cat": "Industry",
-    "tk": "INDUSTRY",
-    "title": "Air India and IndiGo summoned before parliamentary panel on November 2",
-    "summary": "Representatives from Air India, IndiGo, and the Aircraft Accident Investigation Bureau are scheduled to appear before a parliamentary panel. The meeting on November 2 is part of a review focusing on the performance of civil sector public undertakings. The 22-member Parliamentary Standing Committee on Public Undertakings, led by BJP MP Baijayant Panda, issued a notice regarding these scheduled discussions concerning aviation sector entities.",
-    "source": "Business Standard / Press Trust of India",
-    "published": "2026-10-19T19:21:24+00:00",
-    "ago": "7h",
-    "impact": "Neutral",
-    "why": "Routine regulatory review of aviation sector entities.",
-    "url": "https://www.business-standard.com/industry/aviation/air-india-indigo-aaib-to-appear-before-parliamentary-panel-on-nov-2-126101901091_1.html",
-    "chips": {
-      "Meeting date": "November 2",
-      "Committee members": "22 members"
-    },
-    "trend": [
-      0.5,
-      0.55,
-      0.45,
-      0.5,
-      0.47,
-      0.52,
-      0.5
-    ],
-    "color": "B7791F",
-    "premium": false,
-    "title_hi": "Air India और IndiGo नवंबर 2 को संसदीय समिति के समक्ष पेश होंगे",
-    "summary_hi": "Air India, IndiGo और Aircraft Accident Investigation Bureau के प्रतिनिधि संसदीय समिति के सामने पेश होंगे। यह बैठक 2 नवंबर को विमानन क्षेत्र के सार्वजनिक उपक्रमों के प्रदर्शन की समीक्षा के सिलसिले में तय की गई है। लोकसभा सचिवालय के नोटिस के अनुसार, समिति इन संस्थाओं के कामकाज की जांच कर रही है।",
-    "why_hi": "विमानन क्षेत्र के सार्वजनिक उपक्रमों की नियमित समीक्षा।",
-    "chips_hi": {
-      "बैठक की तारीख": "नवंबर 2",
-      "समिति के सदस्य": "22 सदस्य"
-    }
-  },
-  {
-    "v": 2,
-    "cat": "IPO",
-    "tk": "MARKETS",
-    "title": "Jio IPO anchor book attracts record bids worth over ₹2.5 trillion",
-    "summary": "The anchor book for Jio Platforms drew immense interest with bids crossing ₹2.5 trillion, representing over 30 times demand. Global investors, mutual funds, and insurance companies participated heavily ahead of the upcoming public offering. The total size of the anchor book stands at ₹8,110 crore, while the main initial public offering aims to raise ₹30,213 crore.",
-    "source": "Business Standard",
-    "published": "2026-10-19T18:24:36+00:00",
-    "ago": "8h",
-    "impact": "Positive",
-    "why": "Strong institutional demand for the share offering.",
-    "url": "https://www.business-standard.com/markets/ipo/jio-ipo-anchor-book-sees-over-30x-demand-draws-record-bids-worth-2-5-trn-126101901316_1.html",
-    "chips": {
-      "Anchor book": "₹8,110 crore",
-      "Anchor bids": "₹2.5 trillion",
-      "IPO size": "₹30,213 crore"
-    },
-    "trend": [
-      0.1,
-      0.25,
-      0.2,
-      0.5,
-      0.45,
-      0.8,
-      0.95
-    ],
-    "color": "0F766E",
-    "premium": false,
-    "title_hi": "Jio IPO के एंकर बुक को मिले ₹2.5 लाख करोड़ से ज्यादा के रिकॉर्ड आवेदन",
-    "summary_hi": "Jio Platforms के एंकर बुक में 30 गुना से अधिक मांग देखी गई, जिसमें वैश्विक निवेशकों, म्यूचुअल फंडों और बीमा कंपनियों ने भाग लिया। इस एंकर बुक का आकार ₹8,110 करोड़ है, जबकि कुल आईपीओ का आकार ₹30,213 करोड़ है।",
-    "why_hi": "शेयर पेशकश के लिए मजबूत संस्थागत मांग।",
-    "chips_hi": {
-      "एंकर बुक": "₹8,110 करोड़",
-      "एंकर बोलियां": "₹2.5 लाख करोड़",
-      "IPO आकार": "₹30,213 करोड़"
-    }
-  },
-  {
-    "v": 2,
-    "cat": "Industry",
-    "tk": "MIAL",
-    "title": "Will airlines shift flights as Mumbai airport cuts capacity?",
-    "summary": "Mumbai International Airport has confirmed its plan to reduce capacity by 5 million passengers starting from the summer of 2027. Despite objections raised by airlines, the airport operator stated that carriers have the option to relocate their flights to the Navi Mumbai facility or look into other alternatives. The airport management is moving forward with the schedule while leaving the operational choices to the individual airlines.",
-    "source": "Business Standard",
-    "published": "2026-10-19T18:17:34+00:00",
-    "ago": "8h",
-    "impact": "Neutral",
-    "why": "Operational shift involves capacity and airline choices.",
-    "url": "https://www.business-standard.com/industry/aviation/mial-reiterates-summer-2027-flight-shift-plan-despite-airlines-objections-126101901143_1.html",
-    "chips": {},
-    "trend": [
-      0.5,
-      0.55,
-      0.45,
-      0.5,
-      0.47,
-      0.52,
-      0.5
-    ],
-    "color": "B7791F",
-    "premium": false,
-    "hi_tries": 2
-  },
-  {
-    "v": 2,
-    "cat": "Industry",
-    "tk": "INDUSTRY",
-    "title": "Road ministry sets penalties and caps subcontracting for fatal accidents",
-    "summary": "The road ministry has tightened highway construction norms by introducing penalties for contractors facing repeat fatal accidents. Additionally, subcontracting has been capped at a specific percentage of the total project value to ensure better accountability and safety standards across national highway developments.",
-    "source": "Business Standard",
-    "published": "2026-10-19T18:09:26+00:00",
-    "ago": "8h",
-    "impact": "Negative",
-    "why": "Penalties and strict caps increase contractor risks.",
-    "url": "https://www.business-standard.com/industry/news/contractors-face-penalties-for-accident-prone-spots-on-national-highways-126101901311_1.html",
-    "chips": {
-      "Subcontracting cap": "30%"
-    },
-    "trend": [
-      0.95,
-      0.85,
-      0.7,
-      0.6,
-      0.4,
-      0.3,
-      0.1
-    ],
-    "color": "9B2C2C",
-    "premium": true,
-    "title_hi": "सड़क मंत्रालय ने घातक हादसों पर कॉन्ट्रैक्टरों के लिए सजा और कैप तय की",
-    "summary_hi": "सड़क मंत्रालय ने हाईवे निर्माण के नियमों को सख्त कर दिया है। इसके तहत बार-बार होने वाले घातक हादसों के लिए कॉन्ट्रैक्टरों पर जुर्माना लगाया जाएगा। साथ ही, प्रोजेक्ट वैल्यू का एक तय हिस्सा ही सबकॉन्ट्रैक्टर को देने की सीमा तय की गई है।",
-    "why_hi": "सख्त नियमों और जुर्माने से कॉन्ट्रैक्टरों पर दबाव बढ़ेगा।",
-    "chips_hi": {
-      "सबकॉन्ट्रैक्टिंग कैप": "30%"
-    }
-  },
-  {
-    "v": 2,
-    "cat": "Earnings",
-    "tk": "PIRAMAL FINANCE",
-    "title": "Piramal Finance posts 67 percent jump in net profit",
-    "summary": "Piramal Finance announced a 67 percent increase in net profit reaching Rs 545 crore for the September quarter. The growth was driven by core income improvements and better cost management. Core net interest income rose 35 percent to Rs 1,530 crore, supported by a 24 percent expansion in assets under management and a higher net income margin of 6.5 percent. The cost-to-income ratio improved from 61.2 percent to 52.1 percent during the period.",
-    "source": "Business Standard / Press Trust of India",
-    "published": "2026-10-19T17:58:08+00:00",
-    "ago": "8h",
-    "impact": "Positive",
-    "why": "Profit surged on higher core income and costs.",
-    "url": "https://www.business-standard.com/companies/news/piramal-finance-q2fy27-results-net-profit-zooms-67-to-545-crore-126101901131_1.html",
-    "chips": {
-      "Net profit": "Rs 545 crore",
-      "Net interest income": "Rs 1,530 crore",
-      "Net income margin": "6.5 percent"
-    },
-    "trend": [
-      0.1,
-      0.25,
-      0.2,
-      0.5,
-      0.45,
-      0.8,
-      0.95
-    ],
-    "color": "0F766E",
-    "premium": false,
-    "title_hi": "Piramal Finance का शुद्ध लाभ 67 प्रतिशत उछला",
-    "summary_hi": "Piramal Finance ने सितंबर तिमाही में 67 प्रतिशत की वृद्धि के साथ 545 करोड़ रुपये का शुद्ध लाभ दर्ज किया है। कोर आय में वृद्धि और लागत में सुधार से कंपनी को यह लाभ मिला। कुल शुद्ध ब्याज आय 35 प्रतिशत बढ़कर 1,530 करोड़ रुपये हो गई, जो एसेट्स अंडर मैनेजमेंट में 24 प्रतिशत की वृद्धि और 6.5 प्रतिशत के शुद्ध आय मार्जिन के कारण संभव हुई।",
-    "why_hi": "बेहतर आय और लागत से मुनाफा बढ़ा।",
-    "chips_hi": {
-      "शुद्ध लाभ": "₹545 करोड़",
-      "शुद्ध ब्याज आय": "₹1,530 करोड़",
-      "शुद्ध आय मार्जिन": "6.5 प्रतिशत"
     }
   }
 ]
