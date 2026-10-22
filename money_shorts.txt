@@ -1,6 +1,266 @@
 [
   {
     "v": 2,
+    "cat": "Earnings",
+    "tk": "SWIGGY",
+    "title": "Swiggy Q2 loss narrows to Rs 922 crore on rising revenue",
+    "summary": "Swiggy reported its quarterly financial results, showing a narrowing net loss of Rs 922 crore, which is a 15.6 per cent improvement. The company also recorded a 36 per cent rise in revenue. Its food delivery adjusted EBITDA increased by Rs 101 crore compared to the previous year, reaching Rs 341 crore. Additionally, the gross order value for Instamart saw a sequential growth of 16.7 per cent during the same period.",
+    "source": "Business Standard",
+    "published": "2026-10-22T13:49:05+00:00",
+    "ago": "13m",
+    "impact": "Positive",
+    "why": "Losses narrowed and key revenue segments grew.",
+    "url": "https://www.business-standard.com/companies/quarterly-results/swiggy-q2-net-loss-narrows-15-6-to-922-crore-revenue-rises-36-126102201389_1.html",
+    "chips": {
+      "Net loss": "Rs 922 crore",
+      "Revenue growth": "36%",
+      "EBITDA": "Rs 341 crore"
+    },
+    "trend": [
+      0.1,
+      0.25,
+      0.2,
+      0.5,
+      0.45,
+      0.8,
+      0.95
+    ],
+    "color": "0F766E",
+    "premium": false,
+    "title_hi": "Swiggy का Q2 घाटा कम होकर ₹922 करोड़ हुआ, आय बढ़ी",
+    "summary_hi": "Swiggy ने तिमाही नतीजे जारी किए, जिसमें उसका शुद्ध घाटा 15.6 प्रतिशत घटकर ₹922 करोड़ रह गया। कंपनी की आय में 36 प्रतिशत की वृद्धि दर्ज की गई। खाद्य वितरण का समायोजित EBITDA पिछले वर्ष की तुलना में ₹101 करोड़ बढ़कर ₹341 करोड़ हो गया। इसके अलावा, Instamart का सकल ऑर्डर मूल्य पिछली तिमाही के मुकाबले 16.7 प्रतिशत बढ़कर ₹9,230 करोड़ पहुंच गया।",
+    "why_hi": "घाटा कम हुआ और राजस्व में वृद्धि हुई।",
+    "chips_hi": {
+      "शुद्ध घाटा": "₹922 करोड़",
+      "आय वृद्धि": "36%",
+      "EBITDA": "₹341 करोड़"
+    }
+  },
+  {
+    "v": 2,
+    "cat": "Economy",
+    "tk": "ECONOMY",
+    "title": "Small e-commerce sellers can access simplified GST registration from November 1",
+    "summary": "Starting November 1, small e-commerce sellers will gain access to a simplified Goods and Services Tax registration facility. This upcoming change enables these vendors to expand their business operations across different states without the need to establish physical offices in those locations. Detailed official notifications outlining the complete process and guidelines are expected to be released soon by the authorities.",
+    "source": "Business Standard",
+    "published": "2026-10-22T13:48:17+00:00",
+    "ago": "15m",
+    "impact": "Positive",
+    "why": "Facilitates multi-state expansion without physical offices.",
+    "url": "https://www.business-standard.com/economy/news/gst-registration-for-small-e-commerce-sellers-to-begin-from-november-1-126102201388_1.html",
+    "chips": {
+      "Start date": "November 1"
+    },
+    "trend": [
+      0.1,
+      0.25,
+      0.2,
+      0.5,
+      0.45,
+      0.8,
+      0.95
+    ],
+    "color": "0F766E",
+    "premium": false,
+    "title_hi": "छोटे ई-कॉमर्स विक्रेताओं के लिए 1 नवंबर से शुरू होगी जीएसटी रजिस्ट्रेशन सुविधा",
+    "summary_hi": "1 नवंबर से छोटे ई-कॉमर्स विक्रेताओं के लिए एक सरलीकृत वस्तु और सेवा कर यानी जीएसटी रजिस्ट्रेशन सुविधा शुरू की जाएगी। इस नई सुविधा से ये विक्रेता बिना किसी दूसरे राज्य में भौतिक कार्यालय स्थापित किए ही विभिन्न राज्यों में अपना कारोबार बढ़ा सकेंगे। इस व्यवस्था से जुड़ी विस्तृत आधिकारिक अधिसूचनाएं जल्द ही जारी होने की उम्मीद है।",
+    "why_hi": "बिना भौतिक कार्यालय के दूसरे राज्यों में विस्तार आसान होगा।",
+    "chips_hi": {
+      "शुरू होने की तारीख": "1 नवंबर"
+    }
+  },
+  {
+    "v": 2,
+    "cat": "Finance",
+    "tk": "FINANCE",
+    "title": "Why did the rupee snap its eight-day winning streak?",
+    "summary": "The Indian rupee weakened against the dollar, halting a winning streak that lasted eight sessions. Higher crude oil prices and dollar purchases by participants countered the foreign fund inflows associated with the Jio Platforms public offering, pushing the currency down to 94.83 against the dollar.",
+    "source": "Business Standard",
+    "published": "2026-10-22T13:42:01+00:00",
+    "ago": "25m",
+    "impact": "Neutral",
+    "why": "Mixed currency drivers balance out.",
+    "url": "https://www.business-standard.com/finance/news/rupee-snaps-eight-day-winning-streak-as-rise-in-crude-offsets-inflows-126102201371_1.html",
+    "chips": {
+      "Rupee value": "94.83"
+    },
+    "trend": [
+      0.5,
+      0.55,
+      0.45,
+      0.5,
+      0.47,
+      0.52,
+      0.5
+    ],
+    "color": "B7791F",
+    "premium": false,
+    "title_hi": "रुपये की लगातार आठ दिनों की तेजी पर विराम क्यों लगा?",
+    "summary_hi": "कच्चे तेल की कीमतों में बढ़त और डॉलर की लिवाली के कारण भारतीय रुपया अमेरिकी डॉलर के मुकाबले कमजोर हो गया और इसकी लगातार आठ सत्रों की तेजी थम गई। जियो प्लेटफॉर्म्स आईपीओ से जुड़े विदेशी फंड प्रवाह के बावजूद इन कारकों ने रुपये पर असर डाला, जिससे यह डॉलर के मुकाबले 94.83 पर आ गया।",
+    "why_hi": "मुद्रा के कारक संतुलित रहे।",
+    "chips_hi": {
+      "रुपये का मूल्य": "94.83"
+    }
+  },
+  {
+    "v": 2,
+    "cat": "Markets",
+    "tk": "MARKETS",
+    "title": "How does Sebi's new margin relief work for traders?",
+    "summary": "Market regulator Sebi has permitted margin relief for subsequent cash market trades when securities are accepted through early pay-in. This move is designed to ease the margin requirements for clients who have net sell obligations in the market.",
+    "source": "Business Standard / Press Trust of India",
+    "published": "2026-10-22T13:27:22+00:00",
+    "ago": "41m",
+    "impact": "Positive",
+    "why": "Eases margin requirements for net sellers.",
+    "url": "https://www.business-standard.com/markets/news/sebi-allows-margin-relief-on-subsequent-trades-against-early-pay-in-126102201148_1.html",
+    "chips": {},
+    "trend": [
+      0.1,
+      0.25,
+      0.2,
+      0.5,
+      0.45,
+      0.8,
+      0.95
+    ],
+    "color": "0F766E",
+    "premium": false,
+    "title_hi": "Sebi ने early pay-in पर margin relief की दी अनुमति",
+    "summary_hi": "मार्केट रेगुलेटर Sebi ने सिक्योरिटीज के early pay-in पर कैश-मार्केट के बाद के ट्रेडों के लिए margin relief की अनुमति दे दी है। इस कदम का उद्देश्य नेट सेल ऑब्लिगेशन वाले ग्राहकों के लिए मार्जिन आवश्यकताओं को आसान बनाना है।",
+    "why_hi": "नेट सेलर्स के लिए मार्जिन आवश्यकताएं आसान हुईं।",
+    "chips_hi": {}
+  },
+  {
+    "v": 2,
+    "cat": "Industry",
+    "tk": "EMUDHRA",
+    "title": "Why is eMudhra stepping away from the global certificate business?",
+    "summary": "Digital security company eMudhra has announced its decision to voluntarily step down from the global SSL and TLS certificate business. This move follows the discovery of certain vulnerabilities within its certificates. The security flaws raised notable concerns regarding digital safety standards, prompting the company to completely withdraw from this specific international market segment.",
+    "source": "Business Standard / Reuters",
+    "published": "2026-10-22T13:26:31+00:00",
+    "ago": "43m",
+    "impact": "Negative",
+    "why": "Security flaws prompt business exit.",
+    "url": "https://www.business-standard.com/industry/news/emudhra-to-exit-global-ssl-tls-certificate-business-after-security-flaws-126102201129_1.html",
+    "chips": {},
+    "trend": [
+      0.95,
+      0.85,
+      0.7,
+      0.6,
+      0.4,
+      0.3,
+      0.1
+    ],
+    "color": "9B2C2C",
+    "premium": false,
+    "title_hi": "eMudhra ने क्यों छोड़ा ग्लोबल सर्टिफिकेट बिजनेस?",
+    "summary_hi": "डिजिटल सिक्योरिटी कंपनी eMudhra ने अपने ग्लोबल SSL और TLS सर्टिफिकेट बिजनेस से स्वेच्छा से बाहर होने का फैसला किया है। उसके सर्टिफिकेट्स में कुछ कमियां मिलने के बाद यह कदम उठाया गया है। इन कमियों की वजह से डिजिटल सुरक्षा को लेकर चिंताएं बढ़ गई थीं, जिसके बाद कंपनी ने इस अंतरराष्ट्रीय सेगमेंट से हटने की घोषणा की है।",
+    "why_hi": "सुरक्षा खामियों के कारण बिजनेस बंद।",
+    "chips_hi": {}
+  },
+  {
+    "v": 2,
+    "cat": "Economy",
+    "tk": "ECONOMY",
+    "title": "India allows 6,500 tonnes of silver imports amid weak demand",
+    "summary": "India has given permission for the import of roughly 6,500 metric tons of silver over a period of six months. This decision comes even though domestic demand for the metal remains weak. The move is anticipated to bring down local premiums within the country while simultaneously providing support to silver prices globally.",
+    "source": "Business Standard / Reuters",
+    "published": "2026-10-22T13:14:14+00:00",
+    "ago": "57m",
+    "impact": "Neutral",
+    "why": "Imports allowed despite weak demand.",
+    "url": "https://www.business-standard.com/economy/news/india-permits-6-500-tonnes-of-silver-imports-despite-weak-demand-126102201297_1.html",
+    "chips": {
+      "Silver imports": "6,500 metric tons"
+    },
+    "trend": [
+      0.5,
+      0.55,
+      0.45,
+      0.5,
+      0.47,
+      0.52,
+      0.5
+    ],
+    "color": "B7791F",
+    "premium": false,
+    "title_hi": "कम मांग के बावजूद भारत ने दी 6,500 टन चांदी आयात की अनुमति",
+    "summary_hi": "भारत ने घरेलू मांग कमजोर होने के बावजूद छह महीने की अवधि में लगभग 6,500 मीट्रिक टन चांदी के आयात की अनुमति दे दी है। इस कदम से स्थानीय प्रीमियम में नरमी आने और वैश्विक कीमतों को समर्थन मिलने की उम्मीद है।",
+    "why_hi": "कम मांग के बावजूद आयात की अनुमति।",
+    "chips_hi": {
+      "चांदी आयात": "6,500 मीट्रिक टन"
+    }
+  },
+  {
+    "v": 2,
+    "cat": "Earnings",
+    "tk": "HPCL",
+    "title": "HPCL Q2 profit falls 9% to ₹3,483 cr on higher costs, tax expenses",
+    "summary": "Hindustan Petroleum Corporation reported a 9 percent decline in its net profit for the second quarter, totaling ₹3,483 crore. The drop happened because of increased crude oil prices and higher tax expenses which impacted margins. This occurred even though product sales grew significantly by 26.2 percent to reach ₹1.39 trillion during the same period.",
+    "source": "Business Standard / Reuters",
+    "published": "2026-10-22T12:43:02+00:00",
+    "ago": "1h",
+    "impact": "Negative",
+    "why": "Profit fell due to rising costs.",
+    "url": "https://www.business-standard.com/companies/quarterly-results/hpcl-q2-profit-falls-9-to-3-483-cr-on-higher-costs-tax-expenses-126102201213_1.html",
+    "chips": {
+      "Net profit": "₹3,483 crore",
+      "Product sales": "₹1.39 trillion"
+    },
+    "trend": [
+      0.95,
+      0.85,
+      0.7,
+      0.6,
+      0.4,
+      0.3,
+      0.1
+    ],
+    "color": "9B2C2C",
+    "premium": false,
+    "hi_tries": 1
+  },
+  {
+    "v": 2,
+    "cat": "Earnings",
+    "tk": "ADANI TOTAL GAS",
+    "title": "Adani Total Gas Q2 profit inches up 3 percent on higher sales",
+    "summary": "Adani Total Gas reported a 3 percent rise in net profit for the second quarter, reaching 167 crore rupees. The company's revenue saw a sharp jump of 34 percent to 2,102 crore rupees. This performance was supported by increased sales of compressed natural gas and piped natural gas, even as the cost of natural gas went up by 43 percent during the same period.",
+    "source": "Business Standard / Press Trust of India",
+    "published": "2026-10-22T12:41:49+00:00",
+    "ago": "1h",
+    "impact": "Positive",
+    "why": "Profit and revenue both showed growth.",
+    "url": "https://www.business-standard.com/companies/quarterly-results/adani-total-gas-q2-profit-rises-3-to-167-cr-as-revenue-jumps-34-126102201242_1.html",
+    "chips": {
+      "Net profit": "₹167 crore",
+      "Revenue": "₹2,102 crore",
+      "Gas cost rise": "43%"
+    },
+    "trend": [
+      0.1,
+      0.25,
+      0.2,
+      0.5,
+      0.45,
+      0.8,
+      0.95
+    ],
+    "color": "0F766E",
+    "premium": false,
+    "title_hi": "Adani Total Gas का Q2 मुनाफा 3 प्रतिशत बढ़ा, जानिए मुख्य आंकड़े",
+    "summary_hi": "Adani Total Gas का दूसरी तिमाही का शुद्ध मुनाफा 3 प्रतिशत बढ़कर 167 करोड़ रुपये पर पहुंच गया। इस दौरान कंपनी का राजस्व 34 प्रतिशत की छलांग के साथ 2,102 करोड़ रुपये हो गया। सीएनजी और पीएनजी की अधिक बिक्री के दम पर यह बढ़ोतरी दर्ज की गई, हालांकि प्राकृतिक गैस की लागत में 43 प्रतिशत की तेजी भी आई थी।",
+    "why_hi": "मुनाफे और राजस्व में बढ़ोतरी हुई।",
+    "chips_hi": {
+      "शुद्ध मुनाफा": "₹167 करोड़",
+      "राजस्व": "₹2,102 करोड़",
+      "गैस लागत वृद्धि": "43%"
+    }
+  },
+  {
+    "v": 2,
     "cat": "Markets",
     "tk": "HDFC BANK",
     "title": "Why is HDFC Bank stock dipping amid an internal review?",
@@ -540,258 +800,6 @@
     "title_hi": "Marco Rubio और Mukesh Ambani ने जामनगर में ऊर्जा और तकनीक पर की चर्चा",
     "summary_hi": "US Secretary of State Marco Rubio ने Reliance की जामनगर रिफाइनरी का दौरा किया। इस दौरान उन्होंने Mukesh Ambani के साथ ऊर्जा आपूर्ति, तकनीक, डेटा सेंटर और संभावित व्यावसायिक साझेबारी को लेकर बातचीत की।",
     "why_hi": "रणनीतिक बैठक, कोई वित्तीय आंकड़ा नहीं।",
-    "chips_hi": {}
-  },
-  {
-    "v": 2,
-    "cat": "Industry",
-    "tk": "INDUSTRY",
-    "title": "Why did EV sales jump 26 percent despite severe supply shortages?",
-    "summary": "Electric vehicle sales recorded a notable growth of 26 percent during Navratri. This surge was primarily driven by higher petrol prices, which encouraged more consumers to look at electric options. However, dealers faced significant hurdles in fulfilling festive orders. Supply shortages, component constraints, and rising bookings created a mismatch, leaving the supply chain struggling to keep pace with the high demand during the festive period.",
-    "source": "Business Standard",
-    "published": "2026-10-21T18:15:43+00:00",
-    "ago": "7h",
-    "impact": "Neutral",
-    "why": "Demand rose but supply shortages created hurdles.",
-    "url": "https://www.business-standard.com/industry/news/ev-supply-struggles-to-keep-pace-with-surging-demand-during-festive-season-126102101377_1.html",
-    "chips": {
-      "Sales growth": "26%"
-    },
-    "trend": [
-      0.5,
-      0.55,
-      0.45,
-      0.5,
-      0.47,
-      0.52,
-      0.5
-    ],
-    "color": "B7791F",
-    "premium": true,
-    "hi_tries": 2
-  },
-  {
-    "v": 2,
-    "cat": "Economy",
-    "tk": "ECONOMY",
-    "title": "India aims to launch trade talks with African bloc by year-end",
-    "summary": "India is looking to begin trade discussions with a five-nation African bloc before the end of the year. Both sides are developing economies that share overlapping interests in certain sectors while also offering potential complementarities in others. This initiative could pave the way for closer economic ties between the regions as they explore new avenues for cooperation and partnership.",
-    "source": "Business Standard",
-    "published": "2026-10-21T17:59:29+00:00",
-    "ago": "7h",
-    "impact": "Positive",
-    "why": "Trade talks could boost economic ties.",
-    "url": "https://www.business-standard.com/economy/news/india-targets-year-end-start-for-trade-talks-with-five-nation-african-bloc-126102101246_1.html",
-    "chips": {},
-    "trend": [
-      0.1,
-      0.25,
-      0.2,
-      0.5,
-      0.45,
-      0.8,
-      0.95
-    ],
-    "color": "0F766E",
-    "premium": true,
-    "hi_tries": 1,
-    "title_hi": "भारत इस साल के अंत तक अफ्रीकी देशों के साथ शुरू करेगा व्यापार चर्चा",
-    "summary_hi": "भारत इस साल के खत्म होने से पहले पांच देशों के एक अफ्रीकी समूह के साथ व्यापार पर बातचीत शुरू करने की तैयारी कर रहा है। दोनों पक्षों की अर्थव्यवस्थाएं विकास के दौर में हैं और कई क्षेत्रों में उनकी साझी दिलचस्पी है। इस पहल से दोनों क्षेत्रों के बीच आर्थिक रिश्ते मजबूत हो सकते हैं और सहयोग के नए रास्ते खुल सकते हैं।",
-    "why_hi": "व्यापार चर्चा से आर्थिक रिश्ते मजबूत हो सकते हैं।",
-    "chips_hi": {}
-  },
-  {
-    "v": 2,
-    "cat": "Industry",
-    "tk": "INDUSTRY",
-    "title": "How data centre projects are driving fresh IT investment growth",
-    "summary": "New data centre projects are helping lift investment announcements within the information technology sector across India. However, the expansion faces ongoing operational hurdles. Specifically, limitations related to power and water supplies are creating execution risks for these upcoming facilities. While capital commitments are rising due to the infrastructure push, developers must address resource availability to ensure smooth project implementation and long-term viability in the growing market.",
-    "source": "Business Standard",
-    "published": "2026-10-21T17:47:50+00:00",
-    "ago": "8h",
-    "impact": "Neutral",
-    "why": "Growth brings resource challenges.",
-    "url": "https://www.business-standard.com/industry/news/india-s-data-centre-boom-lifts-it-investments-but-challenges-persist-126102101149_1.html",
-    "chips": {},
-    "trend": [
-      0.5,
-      0.55,
-      0.45,
-      0.5,
-      0.47,
-      0.52,
-      0.5
-    ],
-    "color": "B7791F",
-    "premium": false,
-    "title_hi": "डेटा सेंटर प्रोजेक्ट्स से आईटी निवेश में तेजी, लेकिन क्या चुनौतियां हैं?",
-    "summary_hi": "भारत में नए डेटा सेंटर प्रोजेक्ट्स के कारण आईटी क्षेत्र में निवेश की घोषणाओं में बढ़ोतरी हुई है। हालांकि, इस विस्तार के सामने कुछ व्यावहारिक दिक्कतें बनी हुई हैं। विशेष रूप से, बिजली और पानी की उपलब्धता से जुड़ी सीमाएं इन प्रोजेक्ट्स के क्रियान्वयन के लिए जोखिम पैदा कर रही हैं। बुनियादी ढांचे पर जोर दिए जाने के कारण पूंजी प्रतिबद्धताएं बढ़ रही हैं, लेकिन डेवलपर्स को इस बढ़ते बाजार में सुचारू कामकाज के लिए संसाधनों की कमी से निपटना होगा।",
-    "why_hi": "विकास के साथ संसाधन चुनौतियां जुड़ी हैं।",
-    "chips_hi": {}
-  },
-  {
-    "v": 2,
-    "cat": "Markets",
-    "tk": "MARKETS",
-    "title": "Edelweiss Alternative Asset Advisors sets price band for upcoming initial share sale",
-    "summary": "Edelweiss Alternative Asset Advisors has announced a price band for its upcoming initial public offering. The share sale aims to raise funds from the market. Meanwhile, Sundaram Mutual Fund has entered a new segment, and Choice Mutual Fund has introduced its first active equity scheme.",
-    "source": "Business Standard",
-    "published": "2026-10-21T17:38:36+00:00",
-    "ago": "8h",
-    "impact": "Neutral",
-    "why": "Mixed corporate updates across mutual fund houses.",
-    "url": "https://www.business-standard.com/markets/news/sundaram-mf-enters-sif-space-choice-mf-launches-first-active-equity-fund-126102101488_1.html",
-    "chips": {
-      "Price band": "Rs 1,585-1,665",
-      "IPO size": "Rs 1,200 crore"
-    },
-    "trend": [
-      0.5,
-      0.55,
-      0.45,
-      0.5,
-      0.47,
-      0.52,
-      0.5
-    ],
-    "color": "B7791F",
-    "premium": false,
-    "title_hi": "Edelweiss Alternative Asset Advisors ने आईपीओ के लिए तय किया प्राइस बैंड",
-    "summary_hi": "Edelweiss Alternative Asset Advisors ने अपने आगामी इश्यू के लिए प्राइस बैंड की घोषणा कर दी है। इस शेयर बिक्री का उद्देश्य बाजार से पूंजी जुटाना है। इस बीच, Sundaram Mutual Fund ने एक नए सेगमेंट में प्रवेश किया है और Choice Mutual Fund ने अपनी पहली एक्टिव इक्विटी योजना शुरू की है।",
-    "why_hi": "म्यूचुअल फंड हाउसों और आईपीओ से जुड़े मिश्रित अपडेट।",
-    "chips_hi": {
-      "प्राइस बैंड": "₹1,585-1,665",
-      "आईपीओ आकार": "₹1,200 करोड़"
-    }
-  },
-  {
-    "v": 2,
-    "cat": "Industry",
-    "tk": "INDUSTRY",
-    "title": "Why did RBI cap withdrawals at Puducherry Co-op Urban Bank?",
-    "summary": "The Reserve Bank of India placed restrictions on Puducherry Co-operative Urban Bank due to a worsening financial position. Customer withdrawals are capped at Rs 5,000 for six months starting Wednesday. Eligible depositors can claim up to Rs 5 lakh from DICGC. The central bank previously engaged with management to improve operations, but noted a lack of concrete efforts to address supervisory concerns and protect depositor interests.",
-    "source": "Business Standard / Press Trust of India",
-    "published": "2026-10-21T17:29:50+00:00",
-    "ago": "8h",
-    "impact": "Negative",
-    "why": "Withdrawal caps due to financial deterioration.",
-    "url": "https://www.business-standard.com/industry/banking/rbi-imposes-restrictions-on-puducherry-co-op-urban-bank-caps-withdrawals-126102101251_1.html",
-    "chips": {
-      "Withdrawal limit": "Rs 5,000",
-      "Insurance claim": "Rs 5 lakh"
-    },
-    "trend": [
-      0.95,
-      0.85,
-      0.7,
-      0.6,
-      0.4,
-      0.3,
-      0.1
-    ],
-    "color": "9B2C2C",
-    "premium": false,
-    "title_hi": "RBI ने Puducherry Co-op Urban Bank पर क्यों लगाई निकासी सीमा?",
-    "summary_hi": "भारतीय रिजर्व बैंक ने पुडुचेरी कोऑपरेटिव अर्बन बैंक की बिगड़ती वित्तीय स्थिति को देखते हुए पाबंदियां लगाई हैं। बुधवार से छह महीने के लिए ग्राहक खाते से केवल 5,000 रुपये तक ही निकाल सकेंगे। पात्र जमाकर्ता DICGC से 5 लाख रुपये तक का दावा पा सकते हैं। केंद्रीय बैंक ने पहले भी कामकाज सुधारने को कहा था, लेकिन बैंक ने जमाकर्ताओं के हितों की रक्षा के लिए ठोस कदम नहीं उठाए।",
-    "why_hi": "वित्तीय स्थिति बिगड़ने से निकासी पर पाबंदी।",
-    "chips_hi": {
-      "निकासी सीमा": "₹5,000",
-      "बीमा दावा": "₹5 लाख"
-    }
-  },
-  {
-    "v": 2,
-    "cat": "Markets",
-    "tk": "HERO MOTORS",
-    "title": "Hero Motors stock drops thirty one percent from its peak",
-    "summary": "Shares of Hero Motors hit the ten percent lower circuit at one hundred twenty two rupees and seventy paise on Wednesday. The stock has now fallen thirty one percent from its post listing peak of one hundred seventy nine rupees recorded on October fifth, two thousand twenty six, on the BSE.",
-    "source": "Business Standard",
-    "published": "2026-10-21T09:46:28+00:00",
-    "ago": "12m",
-    "impact": "Negative",
-    "why": "Stock fell sharply to lower circuit.",
-    "url": "https://www.business-standard.com/markets/news/hero-motors-sml-mahindra-wheels-india-locked-at-10-lower-circuits-126102100650_1.html",
-    "chips": {
-      "Lower circuit": "10%",
-      "Share price": "Rs 122.70",
-      "Fall": "31%"
-    },
-    "trend": [
-      0.95,
-      0.85,
-      0.7,
-      0.6,
-      0.4,
-      0.3,
-      0.1
-    ],
-    "color": "9B2C2C",
-    "premium": false,
-    "title_hi": "Hero Motors का शेयर अपने उच्च स्तर से तीस प्रतिशत से ज्यादा गिरा",
-    "summary_hi": "बुधवार को Hero Motors का शेयर दस प्रतिशत के निचले सर्किट के साथ एक सौ बाईस रुपये सत्तर पैसे पर बंद हुआ। यह स्टॉक पांच अक्टूबर दो हजार छब्बीस को बने एक सौ उनासी रुपये के अपने उच्च स्तर से इकतीस प्रतिशत नीचे आ गया है।",
-    "why_hi": "शेयर में भारी गिरावट दर्ज हुई।",
-    "chips_hi": {
-      "निचला सर्किट": "10%",
-      "शेयर भाव": "₹122.70",
-      "गिरावट": "31%"
-    }
-  },
-  {
-    "v": 2,
-    "cat": "Companies",
-    "tk": "COMPANIES",
-    "title": "Dr Reddy's wins Indian approval for new cancer treatment use",
-    "summary": "Pharmaceutical firm Dr Reddy's Laboratories has received clearance from the Drugs Controller General of India to market toripalimab for an additional use. The approval permits its application alongside cisplatin and paclitaxel as an initial therapy for adult patients dealing with unresectable advanced, recurrent or metastatic ESCC.",
-    "source": "Business Standard",
-    "published": "2026-10-21T09:27:21+00:00",
-    "ago": "31m",
-    "impact": "Positive",
-    "why": "New product approval expands market reach.",
-    "url": "https://www.business-standard.com/companies/news/dr-reddys-zytorvi-dcgi-approval-oesophageal-cancer-toripalimab-126102100639_1.html",
-    "chips": {},
-    "trend": [
-      0.1,
-      0.25,
-      0.2,
-      0.5,
-      0.45,
-      0.8,
-      0.95
-    ],
-    "color": "0F766E",
-    "premium": false,
-    "title_hi": "Dr Reddy's को कैंसर दवा के नए उपयोग के लिए भारत में मंजूरी मिली",
-    "summary_hi": "फार्मास्युटिकल कंपनी डॉ रेड्डीज लेबोरेटरीज को ड्रग्स कंट्रोलर जनरल ऑफ इंडिया से toripalimab के नए उपयोग के लिए मंजूरी मिल गई है। इस अनुमति से इस दवा का उपयोग वयस्कों में कुछ विशेष प्रकार के एडवांस या मेटास्टैटिक ESCC के शुरुआती इलाज के लिए अन्य दवाओं के साथ किया जा सकेगा।",
-    "why_hi": "नई मंजूरी से बाजार का दायरा बढ़ेगा।",
-    "chips_hi": {}
-  },
-  {
-    "v": 2,
-    "cat": "Companies",
-    "tk": "SCHAEFFLER INDIA",
-    "title": "Schaeffler India CEO detained after factory accident claims two lives",
-    "summary": "The chief executive officer of Schaeffler India has been taken into custody following a fatal incident at a company facility. Two contractor workers lost their lives due to an unexpected release of carbon dioxide gas. The tragic event occurred on June 9 during a routine procedure involving the replacement of gas cylinders. Authorities are investigating the circumstances surrounding the sudden discharge that led to the fatalities.",
-    "source": "Business Standard",
-    "published": "2026-10-21T09:24:16+00:00",
-    "ago": "35m",
-    "impact": "Negative",
-    "why": "Management detention over fatal incident.",
-    "url": "https://www.business-standard.com/companies/news/schaeffler-india-ceo-taken-into-custody-over-fatal-june-factory-accident-126102100629_1.html",
-    "chips": {},
-    "trend": [
-      0.95,
-      0.85,
-      0.7,
-      0.6,
-      0.4,
-      0.3,
-      0.1
-    ],
-    "color": "9B2C2C",
-    "premium": false,
-    "title_hi": "फैक्ट्री हादसे में दो मौतें होने पर Schaeffler India के CEO हिरासत में",
-    "summary_hi": "Schaeffler India के मुख्य कार्यकारी अधिकारी को एक फैक्‍ट्री हादसे के सिलसिले में हिरासत में लिया गया है। कंपनी के परिसर में हुए इस हादसे में सेवा प्रदाता के दो कर्मचारियों की जान चली गई थी। यह घटना 9 जून को सिलेंडर बदलने के दौरान अचानक कार्बन गैस के रिसाव के कारण हुई थी।",
-    "why_hi": "दुर्घटना के बाद प्रबंधन पर कार्रवाई।",
     "chips_hi": {}
   }
 ]
