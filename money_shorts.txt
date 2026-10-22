@@ -1,6 +1,235 @@
 [
   {
     "v": 2,
+    "cat": "Markets",
+    "tk": "KEI INDUSTRIES",
+    "title": "Why did KEI Industries shares plunge 10 percent recently?",
+    "summary": "Shares of KEI Industries dropped significantly, moving close to their fifty-two-week low. Analysts at Motilal Oswal noted that while the company's earnings before interest, taxes, depreciation, and amortization for the second quarter of financial year twenty twenty-seven matched estimates, there were underlying weaknesses. The engineering, procurement, and construction division posted a loss, and margins in the cable and wire segment fell short of market expectations.",
+    "source": "Business Standard",
+    "published": "2026-10-22T05:40:47+00:00",
+    "ago": "15m",
+    "impact": "Negative",
+    "why": "Weak segment margins and EPC loss.",
+    "url": "https://www.business-standard.com/markets/news/kei-industries-share-price-plunges-10-nears-52-week-low-here-s-why-126102200355_1.html",
+    "chips": {
+      "Share price fall": "10%",
+      "Quarter": "Q2FY27"
+    },
+    "trend": [
+      0.95,
+      0.85,
+      0.7,
+      0.6,
+      0.4,
+      0.3,
+      0.1
+    ],
+    "color": "9B2C2C",
+    "premium": false,
+    "title_hi": "KEI Industries के शेयरों में 10 प्रतिशत की भारी गिरावट क्यों आई?",
+    "summary_hi": "KEI Industries के शेयरों में बड़ी गिरावट दर्ज की गई और यह अपने बावन हफ्ते के निचले स्तर के करीब पहुंच गए। Motilal Oswal के विश्लेषकों के अनुसार, कंपनी का दूसरी तिमाही का EBITDA अनुमानों के मुताबिक था, लेकिन EPC कारोबार में घाटा हुआ और C&W मार्जिन उम्मीद से कम रहा।",
+    "why_hi": "EPC घाटा और कमजोर मार्जिन।",
+    "chips_hi": {
+      "शेयर गिरावट": "10%",
+      "तिमाही": "Q2FY27"
+    }
+  },
+  {
+    "v": 2,
+    "cat": "Earnings",
+    "tk": "MAHINDRA FINANCE",
+    "title": "Mahindra Finance shares plunge to 52-week low despite profit surge",
+    "summary": "Mahindra Finance saw its stock price drop to a 52-week low of ₹268 on the NSE during Thursday's trading session. This downward movement occurred even though the company reported a 55% increase in its standalone profit for the second quarter, reaching ₹882 crore.",
+    "source": "Business Standard",
+    "published": "2026-10-22T05:31:53+00:00",
+    "ago": "24m",
+    "impact": "Negative",
+    "why": "Stock dropped despite higher profit.",
+    "url": "https://www.business-standard.com/markets/news/mahindra-finance-tanks-10-hits-52-week-low-despite-55-surge-in-q2-profit-126102200356_1.html",
+    "chips": {
+      "52-week low": "₹268",
+      "Profit surge": "55%",
+      "Q2 standalone profit": "₹882 crore"
+    },
+    "trend": [
+      0.95,
+      0.85,
+      0.7,
+      0.6,
+      0.4,
+      0.3,
+      0.1
+    ],
+    "color": "9B2C2C",
+    "premium": false,
+    "title_hi": "मुनाफे में भारी बढ़ोतरी के बावजूद क्यों लुढ़के Mahindra Finance के शेयर?",
+    "summary_hi": "गुरुवार के कारोबारी सत्र में NSE पर Mahindra Finance का शेयर भाव 52 हफ्ते के निचले स्तर ₹268 पर आ गया। यह गिरावट तब आई जब कंपनी ने अपने दूसरी तिमाही के स्टैंडअलोन मुनाफे में 55% की वृद्धि दर्ज की, जिससे मुनाफा ₹882 करोड़ पहुंच गया।",
+    "why_hi": "मुनाफा बढ़ने के बावजूद शेयर में गिरावट।",
+    "chips_hi": {
+      "52-हफ्ते का निचला स्": "₹268",
+      "मुनाफा वृद्धि": "55%",
+      "Q2 स्टैंडअलोन मुनाफा": "₹882 करोड़"
+    }
+  },
+  {
+    "v": 2,
+    "cat": "Earnings",
+    "tk": "IGIL",
+    "title": "IGIL shares surge to 10 percent upper circuit after profit jumps",
+    "summary": "Shares of IGIL reached a ten percent upper circuit following the release of its September quarter financial results. The company posted a consolidated profit after tax of 185.8 crore rupees, marking a 43 percent increase compared to the same period last year. Strong operational execution and healthy demand helped drive this significant growth in the quarterly earnings.",
+    "source": "Business Standard",
+    "published": "2026-10-22T05:27:25+00:00",
+    "ago": "29m",
+    "impact": "Positive",
+    "why": "Profit jumped 43 percent in Q2.",
+    "url": "https://www.business-standard.com/markets/news/q2-result-impact-igil-shares-hit-10-upper-circuit-pat-up-43-to-185-cr-126102200363_1.html",
+    "chips": {
+      "PAT": "₹185.8 crore",
+      "Growth": "43%",
+      "Circuit": "10%"
+    },
+    "trend": [
+      0.1,
+      0.25,
+      0.2,
+      0.5,
+      0.45,
+      0.8,
+      0.95
+    ],
+    "color": "0F766E",
+    "premium": false,
+    "hi_tries": 1
+  },
+  {
+    "v": 2,
+    "cat": "Earnings",
+    "tk": "INDIAN HOTELS",
+    "title": "Why did Indian Hotels jump 3% after rising earnings estimates?",
+    "summary": "Indian Hotels saw a 3% increase in its shares after analysts raised their earnings estimates following positive quarterly financial results. The company reported a 23 per cent increase in consolidated profit, reaching ₹349 crore for the period. Additionally, total revenue grew by 21 per cent compared to the previous year, touching ₹2,566 crore, which drove the positive market sentiment.",
+    "source": "Business Standard",
+    "published": "2026-10-22T05:13:22+00:00",
+    "ago": "43m",
+    "impact": "Positive",
+    "why": "Higher profit and revenue growth reported.",
+    "url": "https://www.business-standard.com/markets/news/indian-hotels-share-price-gains-3-as-analysts-raise-earnings-estimates-target-post-q2-126102200329_1.html",
+    "chips": {
+      "Consolidated profit": "₹349 crore",
+      "Revenue growth": "21 per cent"
+    },
+    "trend": [
+      0.1,
+      0.25,
+      0.2,
+      0.5,
+      0.45,
+      0.8,
+      0.95
+    ],
+    "color": "0F766E",
+    "premium": false,
+    "title_hi": "शानदार तिमाही नतीजों के बाद Indian Hotels के शेयरों में तेजी क्यों आई?",
+    "summary_hi": "विश्लेषकों द्वारा कमाई के अनुमान बढ़ाने के बाद Indian Hotels के शेयरों में 3% की बढ़त दर्ज की गई। कंपनी का समेकित मुनाफा 23 प्रतिशत बढ़कर ₹349 करोड़ पर पहुंच गया। इसके अलावा, पिछले वर्ष की तुलना में कुल राजस्व में 21 प्रतिशत की वृद्धि हुई और यह ₹2,566 करोड़ रहा, जिससे बाजार में सकारात्मक प्रतिक्रिया देखने को मिली।",
+    "why_hi": "मुनाफे और राजस्व में बढ़ोतरी दर्ज हुई।",
+    "chips_hi": {
+      "समेकित मुनाफा": "₹349 करोड़",
+      "राजस्व वृद्धि": "21 प्रतिशत"
+    }
+  },
+  {
+    "v": 2,
+    "cat": "Finance",
+    "tk": "FINANCE",
+    "title": "Will rising repo rates make your home loan longer?",
+    "summary": "An increase in repo rates can result in extended loan tenures instead of higher monthly instalments. Borrowers face the possibility of paying off their home loans over a longer period, which ultimately raises the total borrowing costs. While monthly payments might remain unchanged, the extended duration increases the overall financial commitment for individuals with existing housing loans.",
+    "source": "Business Standard",
+    "published": "2026-10-22T04:59:50+00:00",
+    "ago": "57m",
+    "impact": "Negative",
+    "why": "Longer loan tenures increase total borrowing costs.",
+    "url": "https://www.business-standard.com/finance/personal-finance/home-loan-alert-your-emi-may-stay-the-same-but-your-loan-could-get-longer-126102200277_1.html",
+    "chips": {},
+    "trend": [
+      0.95,
+      0.85,
+      0.7,
+      0.6,
+      0.4,
+      0.3,
+      0.1
+    ],
+    "color": "9B2C2C",
+    "premium": false,
+    "title_hi": "बढ़ते रेपो रेट से क्या आपका होम लोन लंबा हो जाएगा?",
+    "summary_hi": "रेपो रेट बढ़ने पर मासिक किस्तों में बढ़ोतरी के बजाय लोन की अवधि लंबी हो सकती है। कर्ज लेने वालों को लंबे समय तक होम लोन चुकाना पड़ सकता है, जिससे कुल खर्च बढ़ जाता है। मासिक भुगतान भले ही एक समान रहे, लेकिन बढ़ी हुई अवधि के कारण मौजूदा हाउसिंग लोन वाले लोगों पर वित्तीय बोझ बढ़ जाता है।",
+    "why_hi": "लोन अवधि बढ़ने से कुल खर्च बढ़ता है।",
+    "chips_hi": {}
+  },
+  {
+    "v": 2,
+    "cat": "Markets",
+    "tk": "MARUTI",
+    "title": "Lupin and Maruti hit 52-week lows as 74 BSE 500 stocks drop",
+    "summary": "Benchmark indices declined for the third straight session due to selling across various sectors. Market sentiment was pressured by rising crude oil prices and worries regarding corporate earnings. A total of 74 stocks in the BSE 500 index touched their 52-week low levels during the session, including prominent names like Lupin, SRF, TMPV, Maruti, and NTPC.",
+    "source": "Business Standard",
+    "published": "2026-10-22T04:37:55+00:00",
+    "ago": "1h",
+    "impact": "Negative",
+    "why": "Multiple stocks hit yearly lows amid selling.",
+    "url": "https://www.business-standard.com/markets/news/lupin-srf-tmpv-maruti-ntpc-among-74-bse-500-stocks-hit-52-week-lows-on-thursday-126102200219_1.html",
+    "chips": {
+      "Stocks hit lows": "74"
+    },
+    "trend": [
+      0.95,
+      0.85,
+      0.7,
+      0.6,
+      0.4,
+      0.3,
+      0.1
+    ],
+    "color": "9B2C2C",
+    "premium": false,
+    "title_hi": "Lupin और Maruti सहित BSE 500 के 74 शेयर 52-हफ्ते के निचले स्तर पर",
+    "summary_hi": "क्रूड ऑयल की ऊंची कीमतों और कॉरपोरेट कमाई को लेकर चिंताओं के कारण बिकवाली से बेंचमार्क इंडेक्स लगातार तीसरे सत्र में नीचे कारोबार कर रहे थे। इसके चलते BSE 500 इंडेक्स के 74 शेयर 52-हफ्ते के सबसे निचले स्तर पर पहुंच गए, जिनमें Lupin, SRF, TMPV, Maruti और NTPC शामिल हैं।",
+    "why_hi": "बिकवाली से कई शेयर निचले स्तर पर।",
+    "chips_hi": {
+      "शेयर निचले स्तर पर": "74"
+    }
+  },
+  {
+    "v": 2,
+    "cat": "IPO",
+    "tk": "FUSION CX",
+    "title": "Fusion CX makes strong market debut with listing gains",
+    "summary": "Fusion CX shares made their stock market debut after receiving strong interest with a 3.3 times subscription. On the BSE, the company's stock started trading at Rs 292, which was a 1.04 per cent increase over the initial public offering price. Meanwhile, on the NSE, the shares opened at Rs 305, marking a higher premium of 5.54 per cent.",
+    "source": "Business Standard",
+    "published": "2026-10-22T04:30:02+00:00",
+    "ago": "1h",
+    "impact": "Positive",
+    "why": "Positive market debut above issue price.",
+    "url": "https://www.business-standard.com/markets/news/fusion-cx-lists-at-5-premium-over-ipo-price-after-3-3x-subscription-126102200222_1.html",
+    "chips": {
+      "Subscription": "3.3x",
+      "BSE listing price": "₹292",
+      "NSE listing price": "₹305"
+    },
+    "trend": [
+      0.1,
+      0.25,
+      0.2,
+      0.5,
+      0.45,
+      0.8,
+      0.95
+    ],
+    "color": "0F766E",
+    "premium": false,
+    "hi_tries": 1
+  },
+  {
+    "v": 2,
     "cat": "Companies",
     "tk": "META",
     "title": "Meta faces $25 billion penalty in data privacy case",
@@ -89,7 +318,7 @@
     ],
     "color": "B7791F",
     "premium": true,
-    "hi_tries": 1
+    "hi_tries": 2
   },
   {
     "v": 2,
@@ -538,234 +767,5 @@
       "Sensex": "800 अंक ऊपर",
       "Nifty": "23,100 के पार"
     }
-  },
-  {
-    "v": 2,
-    "cat": "Finance",
-    "tk": "FINANCE",
-    "title": "How did the rupee rise 29 paise against the US dollar?",
-    "summary": "The rupee gained 29 paise against the US dollar during early trade, reaching 94.62. This movement was supported by domestic market sentiment, RBI backing, and foreign dollar inflows linked to the Jio IPO public subscription. High crude oil prices and a strong US currency limited further appreciation. The forex market had previously closed for Dussehra, following a two-paise decline in the currency's settlement.",
-    "source": "Business Standard / Press Trust of India",
-    "published": "2026-10-21T04:58:00+00:00",
-    "ago": "59m",
-    "impact": "Positive",
-    "why": "Rupee appreciated against US dollar.",
-    "url": "https://www.business-standard.com/finance/news/rupee-rises-29-paise-to-94-62-against-us-dollar-during-early-trade-126102100233_1.html",
-    "chips": {
-      "Rupee rise": "29 paise",
-      "Exchange rate": "94.62",
-      "Previous close": "94.91"
-    },
-    "trend": [
-      0.1,
-      0.25,
-      0.2,
-      0.5,
-      0.45,
-      0.8,
-      0.95
-    ],
-    "color": "0F766E",
-    "premium": false,
-    "title_hi": "रुपया शुरुआती कारोबार में अमेरिकी डॉलर के मुकाबले 29 पैसे क्यों मजबूत हुआ?",
-    "summary_hi": "शुरुआती कारोबार में रुपया अमेरिकी डॉलर के मुकाबले 29 पैसे बढ़कर 94.62 पर पहुंच गया। इस तेजी को घरेलू बाजार के सकारात्मक रुख, आरबीआई के समर्थन और Jio IPO से जुड़े विदेशी डॉलर प्रवाह का साथ मिला। हालांकि, ऊंचे कच्चे तेल के दामों और मजबूत अमेरिकी डॉलर ने इस बढ़त को सीमित रखा। इससे पहले सोमवार को रुपया 94.91 पर बंद हुआ था और मंगलवार को दशहरा के कारण बाजार बंद था।",
-    "why_hi": "डॉलर के मुकाबले रुपया मजबूत हुआ।",
-    "chips_hi": {
-      "रुपया बढ़त": "29 पैसे",
-      "विनिमय दर": "94.62",
-      "पिछला बंद": "94.91"
-    }
-  },
-  {
-    "v": 2,
-    "cat": "Markets",
-    "tk": "MARKETS",
-    "title": "Why did the Nifty IT index hit an eight-month high?",
-    "summary": "The Nifty IT index reached an eight-month peak in October, driven by a 16 percent rally so far this month. Major technology firms including TCS, Tech Mahindra, Wipro, Infosys, and Mphasis recorded gains between 18 and 23 percent. Additionally, L&T Technology Services saw a 15 percent surge on Wednesday. These market movements followed positive second-quarter earnings reports across the sector.",
-    "source": "Business Standard",
-    "published": "2026-10-21T04:56:18+00:00",
-    "ago": "1h",
-    "impact": "Positive",
-    "why": "Strong Q2 earnings drove IT stock gains.",
-    "url": "https://www.business-standard.com/markets/news/nifty-it-index-hits-8-month-high-ltts-zooms-15-on-wednesday-here-s-why-126102100228_1.html",
-    "chips": {
-      "IT index rally": "16%",
-      "LTTS surge": "15%",
-      "Tech stocks surge": "18-23%"
-    },
-    "trend": [
-      0.1,
-      0.25,
-      0.2,
-      0.5,
-      0.45,
-      0.8,
-      0.95
-    ],
-    "color": "0F766E",
-    "premium": false,
-    "title_hi": "Nifty IT इंडेक्स 8 महीने के उच्चतम स्तर पर क्यों पहुंचा?",
-    "summary_hi": "अक्टूबर में अब तक Nifty IT इंडेक्स में 16 प्रतिशत की तेजी आई है। दूसरी तिमाही के नतीजों के बीच TCS, Tech Mahindra, Wipro, Infosys और Mphasis के शेयरों में 18 से 23 प्रतिशत की बढ़त दर्ज की गई। इसके अलावा, बुधवार को LTTS के शेयरों में भी 15 प्रतिशत का उछाल आया।",
-    "why_hi": "शानदार तिमाही नतीजों से आईटी शेयरों में तेजी।",
-    "chips_hi": {
-      "IT इंडेक्स तेजी": "16%",
-      "LTTS उछाल": "15%",
-      "टेक शेयर बढ़त": "18-23%"
-    }
-  },
-  {
-    "v": 2,
-    "cat": "Markets",
-    "tk": "MARKETS",
-    "title": "Why did gold and silver fall globally?",
-    "summary": "Precious metals experienced a decline in the international market due to rising crude oil prices, which triggered renewed concerns over potential interest rate hikes. On the Comex platform, gold futures traded near $4,140 per ounce, while silver hovered close to $57.60 per ounce.",
-    "source": "Business Standard",
-    "published": "2026-10-21T04:50:36+00:00",
-    "ago": "1h",
-    "impact": "Negative",
-    "why": "Higher oil prices revived rate-hike worries.",
-    "url": "https://www.business-standard.com/markets/commodities/gold-silver-fall-as-higher-crude-oil-prices-revive-rate-hike-concerns-126102100241_1.html",
-    "chips": {
-      "Gold futures": "$4,140 per ounce",
-      "Silver": "$57.60 per ounce"
-    },
-    "trend": [
-      0.95,
-      0.85,
-      0.7,
-      0.6,
-      0.4,
-      0.3,
-      0.1
-    ],
-    "color": "9B2C2C",
-    "premium": false,
-    "title_hi": "क्यों गिरे सोने और चांदी के दाम?",
-    "summary_hi": "कच्चे तेल की कीमतें बढ़ने से ब्याज दरें बढ़ने की चिंताएं फिर से पैदा हुईं, जिससे वैश्विक बाजार में कीमती धातुओं में गिरावट आई। Comex पर सोने के वायदा भाव $4,140 प्रति औंस के आसपास और चांदी $57.60 प्रति औंस के आसपास ट्रेड कर रहे थे।",
-    "why_hi": "तेल कीमतें बढ़ने से रेट-हाइके चिंताएं जगीं।",
-    "chips_hi": {
-      "Gold futures": "$4,140 प्रति औंस",
-      "Silver": "$57.60 प्रति औंस"
-    }
-  },
-  {
-    "v": 2,
-    "cat": "Industry",
-    "tk": "SBI",
-    "title": "SBI faces data leak exposing 3,897 customer records online",
-    "summary": "State Bank of India reported a cyberattack that resulted in the exposure of 3,897 customer records on the dark web. An analysis revealed that the compromised data included sensitive information such as customer names, mobile numbers, dates of birth, email addresses, residential addresses, brand and customer identifiers, as well as loan records. The bank shared details regarding the nature of the exposed information following the analysis.",
-    "source": "Business Standard / Reuters",
-    "published": "2026-10-21T04:40:58+00:00",
-    "ago": "1h",
-    "impact": "Negative",
-    "why": "Cyberattack exposed customer data and loan records.",
-    "url": "https://www.business-standard.com/industry/banking/sbi-reports-cyberattack-exposing-3-897-customer-records-on-dark-web-126102100192_1.html",
-    "chips": {
-      "Exposed records": "3,897"
-    },
-    "trend": [
-      0.95,
-      0.85,
-      0.7,
-      0.6,
-      0.4,
-      0.3,
-      0.1
-    ],
-    "color": "9B2C2C",
-    "premium": false,
-    "title_hi": "SBI पर साइबर हमला, dark web पर लीक हुए 3,897 ग्राहकों के रिकॉर्ड",
-    "summary_hi": "State Bank of India ने एक साइबर हमले की सूचना दी है जिसके कारण dark web पर 3,897 ग्राहकों के रिकॉर्ड लीक हो गए। एक विश्लेषण से पता चला कि उजागर जानकारी में ग्राहकों के नाम, मोबाइल नंबर, जन्म तिथि, ईमेल पते, आवासीय पते, ब्रांड और ग्राहक पहचानकर्ता के साथ-साथ लोन रिकॉर्ड भी शामिल थे। बैंक ने विश्लेषण के बाद उजागर जानकारी की प्रकृति के बारे में विवरण साझा किया।",
-    "why_hi": "साइबर हमले में ग्राहकों का डेटा हुआ लीक।",
-    "chips_hi": {
-      "लीक रिकॉर्ड": "3,897"
-    }
-  },
-  {
-    "v": 2,
-    "cat": "Companies",
-    "tk": "MATCH GROUP",
-    "title": "Tinder and Hinge introduce new safety features and checks in India",
-    "summary": "Match Group's Senior Vice President Yoel Roth stated that safety remains a key priority. Following this, the popular dating platforms Tinder and Hinge have rolled out specific safety features along with biometric verification checks tailored for users in India.",
-    "source": "Business Standard",
-    "published": "2026-10-21T00:35:52+00:00",
-    "ago": "1h",
-    "impact": "Neutral",
-    "why": "New safety features rolled out in India.",
-    "url": "https://www.business-standard.com/companies/news/focus-on-safety-paramount-says-match-group-s-senior-v-p-yoel-roth-126102000593_1.html",
-    "chips": {},
-    "trend": [
-      0.5,
-      0.55,
-      0.45,
-      0.5,
-      0.47,
-      0.52,
-      0.5
-    ],
-    "color": "B7791F",
-    "premium": true,
-    "title_hi": "Tinder और Hinge ने भारत में पेश किए नए सुरक्षा फीचर्स",
-    "summary_hi": "मैच ग्रुप के सीनियर वाइस प्रेसिडेंट योएल रॉथ ने कहा कि सुरक्षा सबसे महत्वपूर्ण है। इसके बाद, डेटिंग प्लेटफॉर्म Tinder और Hinge ने भारत में उपयोगकर्ताओं के लिए विशेष सुरक्षा फीचर्स और बायोमेट्रिक चेक शुरू किए हैं।",
-    "why_hi": "भारत में नए सुरक्षा फीचर्स शुरू हुए।",
-    "chips_hi": {}
-  },
-  {
-    "v": 2,
-    "cat": "Markets",
-    "tk": "MARKETS",
-    "title": "Are defensive sectors showing recovery signs despite headwinds?",
-    "summary": "Defensive stocks face pressure from weak demand, concerns over growth driven by artificial intelligence, and export hurdles in the United States. However, recent moderation in valuations is pointing towards possible new opportunities in these sectors, as market participants watch for signs of a turnaround.",
-    "source": "Business Standard",
-    "published": "2026-10-20T18:13:06+00:00",
-    "ago": "7h",
-    "impact": "Neutral",
-    "why": "Mixed signals leave the direction unclear.",
-    "url": "https://www.business-standard.com/markets/news/back-to-front-green-shoots-in-defensive-sectors-signal-potential-recovery-126102000710_1.html",
-    "chips": {},
-    "trend": [
-      0.5,
-      0.55,
-      0.45,
-      0.5,
-      0.47,
-      0.52,
-      0.5
-    ],
-    "color": "B7791F",
-    "premium": true,
-    "title_hi": "क्या डिफेंसिव सेक्टर में रिकवरी के संकेत मिल रहे हैं?",
-    "summary_hi": "कमजोर मांग, आर्टिफिशियल इंटेलिजेंस से जुड़ी ग्रोथ की चिंताएं और अमेरिका को होने वाले निर्यात में बाधाओं के कारण डिफेंसिव शेयरों पर दबाव है। हालांकि, वैल्यूएशन में कमी इन सेक्टरों में संभावित अवसरों की ओर इशारा कर रही है।",
-    "why_hi": "मिश्रित संकेतों के कारण दिशा स्पष्ट नहीं है।",
-    "chips_hi": {}
-  },
-  {
-    "v": 2,
-    "cat": "Economy",
-    "tk": "ECONOMY",
-    "title": "Why are goods producers finally regaining their pricing power?",
-    "summary": "Makers of goods are seeing pricing power return as demand increases. This upward trend is led by manufacturing and mining goods. Even with this recent growth, current prices stay below the level seen in the financial year 23 base year.",
-    "source": "Business Standard",
-    "published": "2026-10-20T18:10:08+00:00",
-    "ago": "7h",
-    "impact": "Positive",
-    "why": "Pricing power rises with demand.",
-    "url": "https://www.business-standard.com/markets/news/datanomics-finally-goods-producers-get-pricing-power-as-demand-picks-up-126102000515_1.html",
-    "chips": {},
-    "trend": [
-      0.1,
-      0.25,
-      0.2,
-      0.5,
-      0.45,
-      0.8,
-      0.95
-    ],
-    "color": "0F766E",
-    "premium": false,
-    "title_hi": "क्यों मिल रही है गुड्स प्रोड्यूसर्स को अपनी pricing power वापस?",
-    "summary_hi": "डिमांड बढ़ने के कारण गुड्स बनाने वालों को फिर से प्राइसिंग पावर मिल रही है। इस बढ़त में मैन्युफैक्चरिंग और माइनिंग गुड्स सबसे आगे हैं। इस बढ़ोतरी के बावजूद, कीमतें अभी भी वित्त वर्ष 23 के बेस ईयर के स्तर से नीचे बनी हुई हैं।",
-    "why_hi": "डिमांड बढ़ने से बढ़ी pricing power.",
-    "chips_hi": {}
   }
 ]
