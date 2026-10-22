@@ -2,6 +2,248 @@
   {
     "v": 2,
     "cat": "Markets",
+    "tk": "HDFC BANK",
+    "title": "Why is HDFC Bank stock dipping amid an internal review?",
+    "summary": "Shares of HDFC Bank declined by two percent on high trading volume, marking a third consecutive day of losses. This downward movement follows reports that the bank started an internal review concerning two senior executives. The review relates to allegations that confidential information was shared with outsiders.",
+    "source": "Business Standard",
+    "published": "2026-10-22T09:42:40+00:00",
+    "ago": "17m",
+    "impact": "Negative",
+    "why": "Internal review and falling stock price.",
+    "url": "https://www.business-standard.com/markets/news/hdfc-bank-stock-dips-2-on-huge-volume-trades-lower-for-third-straight-day-126102200723_1.html",
+    "chips": {
+      "Stock dip": "2%"
+    },
+    "trend": [
+      0.95,
+      0.85,
+      0.7,
+      0.6,
+      0.4,
+      0.3,
+      0.1
+    ],
+    "color": "9B2C2C",
+    "premium": false,
+    "title_hi": "इंटरनल रिव्यू के बीच HDFC Bank का शेयर क्यों गिरा?",
+    "summary_hi": "HDFC Bank के शेयरों में भारी वॉल्यूम के साथ दो प्रतिशत की गिरावट दर्ज की गई, जिससे लगातार तीसरे दिन शेयर नीचे कारोबार करते दिखे। रिपोर्ट्स के मुताबिक, बैंक ने दो सीनियर अधिकारियों द्वारा बाहरी लोगों के साथ गोपनीय जानकारी कथित तौर पर साझा किए जाने को लेकर एक आंतरिक समीक्षा शुरू की है।",
+    "why_hi": "इंटरनल रिव्यू और शेयर में गिरावट।",
+    "chips_hi": {
+      "शेयर गिरावट": "2%"
+    }
+  },
+  {
+    "v": 2,
+    "cat": "Earnings",
+    "tk": "JSW STEEL",
+    "title": "JSW Steel Q2 results preview: Adj. PAT could grow 60-110% YoY, say analysts",
+    "summary": "Analysts estimate that JSW Steel may report a significant year-on-year increase in adjusted net profit for the second quarter. Reports indicate that steady steel demand and inventory replenishment by distribution channels prior to anticipated price increases contributed to this growth outlook.",
+    "source": "Business Standard",
+    "published": "2026-10-22T09:19:15+00:00",
+    "ago": "41m",
+    "impact": "Positive",
+    "why": "Anticipated strong profit growth and resilient demand.",
+    "url": "https://www.business-standard.com/markets/news/jsw-steel-q2-results-preview-adj-pat-could-grow-60-110-yoy-say-analysts-126102200722_1.html",
+    "chips": {
+      "Adj. PAT growth": "60-110% YoY"
+    },
+    "trend": [
+      0.1,
+      0.25,
+      0.2,
+      0.5,
+      0.45,
+      0.8,
+      0.95
+    ],
+    "color": "0F766E",
+    "premium": false,
+    "title_hi": "क्या JSW Steel का Q2 मुनाफा 60 से 110 प्रतिशत बढ़ सकता है?",
+    "summary_hi": "विश्लेषकों का अनुमान है कि JSW Steel की दूसरी तिमाही में शुद्ध आय में पिछले साल की समान अवधि के मुकाबले भारी वृद्धि हो सकती है। रिपोर्ट के अनुसार, मजबूत मांग और कीमतों में संभावित बढ़ोतरी से पहले डीलरों द्वारा माल स्टॉक करने के कारण यह स्थिति बनी है।",
+    "why_hi": "मुनाफे में अनुमानित तेजी और मजबूत मांग।",
+    "chips_hi": {
+      "शुद्ध लाभ वृद्धि": "60-110% YoY"
+    }
+  },
+  {
+    "v": 2,
+    "cat": "Finance",
+    "tk": "FINANCE",
+    "title": "Sonu Sood leases out Mumbai commercial unit for ₹3.52 crore",
+    "summary": "Actor Sonu Sood has leased out a commercial property located in Versova, Mumbai, with the deal valued at ₹3.52 crore. Additionally, real estate records reveal details regarding another property transaction involving the sale of a flat by him, which amounted to ₹8.1 crore. These transactions highlight significant real estate activity surrounding the actor's properties in the city.",
+    "source": "Business Standard",
+    "published": "2026-10-22T09:15:31+00:00",
+    "ago": "45m",
+    "impact": "Neutral",
+    "why": "Property deals without direct financial impact.",
+    "url": "https://www.business-standard.com/finance/personal-finance/sonu-sood-rents-out-mumbai-commercial-unit-lease-deal-valued-at-3-52-cr-126102200702_1.html",
+    "chips": {
+      "Versova lease": "₹3.52 crore",
+      "Flat sale": "₹8.1 crore"
+    },
+    "trend": [
+      0.5,
+      0.55,
+      0.45,
+      0.5,
+      0.47,
+      0.52,
+      0.5
+    ],
+    "color": "B7791F",
+    "premium": false,
+    "title_hi": "Sonu Sood ने मुंबई में Versova कमर्शियल यूनिट ₹3.52 करोड़ में किराये पर दी",
+    "summary_hi": "अभिनेता Sonu Sood ने मुंबई के Versova इलाके में एक कमर्शियल प्रॉपर्टी किराये पर दी है, जिसकी कुल डील ₹3.52 करोड़ की है। इसके अलावा, एक अन्य संपत्ति से जुड़े दस्तावेजों से उनके एक फ्लैट की बिक्री का भी पता चला है, जिसकी कीमत ₹8.1 करोड़ थी।",
+    "why_hi": "संपत्ति के सौदों का सीधा वित्तीय असर नहीं।",
+    "chips_hi": {
+      "Versova लीज": "₹3.52 करोड़",
+      "फ्लैट बिक्री": "₹8.1 करोड़"
+    }
+  },
+  {
+    "v": 2,
+    "cat": "Companies",
+    "tk": "COMPANIES",
+    "title": "BCGCL starts construction on massive Rs 25,000 crore coal gasification project",
+    "summary": "Bharat Coal Gasification and Chemicals Ltd, a joint venture between Coal India Ltd and BHEL, has begun ground construction for its Rs 25,000 crore coal gasification project in Odisha. Most tenders for the venture have been awarded. This initiative supports India's National Coal Gasification Mission, which aims to achieve 100 million tonne of coal gasification capacity by 2030 to reduce import dependence for chemicals like LNG, urea, ammonia, and methanol.",
+    "source": "Business Standard / Press Trust of India",
+    "published": "2026-10-22T09:11:29+00:00",
+    "ago": "49m",
+    "impact": "Positive",
+    "why": "Advances large coal gasification capacity.",
+    "url": "https://www.business-standard.com/companies/news/bcgcl-begins-construction-work-on-25-000-crore-coal-gasification-project-126102200671_1.html",
+    "chips": {
+      "Project cost": "Rs 25,000 crore",
+      "Target capacity": "100 million tonne",
+      "Target year": "2030"
+    },
+    "trend": [
+      0.1,
+      0.25,
+      0.2,
+      0.5,
+      0.45,
+      0.8,
+      0.95
+    ],
+    "color": "0F766E",
+    "premium": false,
+    "hi_tries": 1,
+    "title_hi": "25,000 करोड़ के बड़े कोल गैसीफिकेशन प्रोजेक्ट पर शुरू हुआ काम",
+    "summary_hi": "Coal India और BHEL की कंपनी BCGCL ने ओडिशा में अपने विशाल कोयला गैसीफिकेशन प्रोजेक्ट पर काम शुरू कर दिया है। इससे LNG, अमोनिया और यूरिया जैसे केमिकल्स के लिए विदेशों पर निर्भरता कम होगी और देश में क्लीन एनर्जी को बढ़ावा मिलेगा।",
+    "why_hi": "देश की सबसे बड़ी कोल गैसीफिकेशन क्षमता को बढ़ावा मिलेगा।",
+    "chips_hi": {
+      "प्रोजेक्ट लागत": "₹25,000 करोड़",
+      "टारगेट क्षमता": "100 मिलियन टन",
+      "टारगेट वर्ष": "2030"
+    }
+  },
+  {
+    "v": 2,
+    "cat": "Markets",
+    "tk": "MARKETS",
+    "title": "Why did silver exchange-traded funds fall nearly 3 percent?",
+    "summary": "Several silver exchange-traded funds declined as worries about interest rate hikes outweighed the metal's safe-haven appeal. Funds managed by HDFC, Tata, SBI, Kotak, UTI, Axis, Mirae Asset, and DSP all recorded drops of over 2 percent during the session.",
+    "source": "Business Standard",
+    "published": "2026-10-22T09:00:28+00:00",
+    "ago": "1h",
+    "impact": "Negative",
+    "why": "Rate hike fears overshadowed safe-haven appeal.",
+    "url": "https://www.business-standard.com/markets/news/silver-etfs-dip-nearly-3-as-rate-hike-fears-overshadow-safe-haven-appeal-126102200681_1.html",
+    "chips": {
+      "HDFC Silver ETF drop": "2.7 per cent"
+    },
+    "trend": [
+      0.95,
+      0.85,
+      0.7,
+      0.6,
+      0.4,
+      0.3,
+      0.1
+    ],
+    "color": "9B2C2C",
+    "premium": false,
+    "title_hi": "ब्याज दर बढ़ने के डर से सिल्वर ईटीएफ में क्यों आई गिरावट?",
+    "summary_hi": "ब्याज दरों में बढ़ोतरी की आशंकाओं के चलते कई सिल्वर एक्सचेंज-traded फंड में गिरावट दर्ज की गई। एचडीएफसी, टाटा, एसबीआई, कोटक, यूटीआई, एक्सिस, मीरा एसेट और डीएसपी के सिल्वर ईटीएफ में दो प्रतिशत से अधिक की गिरावट आई।",
+    "why_hi": "ब्याज दर बढ़ने की आशंका से गिरावट।",
+    "chips_hi": {
+      "HDFC Silver ETF गिरा": "2.7 प्रतिशत"
+    }
+  },
+  {
+    "v": 2,
+    "cat": "Economy",
+    "tk": "ECONOMY",
+    "title": "Can coal gasification save India ₹1.96 trillion in import costs?",
+    "summary": "Domestic manufacturing of items linked to coal gasification might help the country cut down on foreign purchases of natural gas, urea, ammonia, and methanol. According to A&M, this shift could also assist in the creation of fresh industrial clusters and employment opportunities. Expanding local output aims to address heavy reliance on overseas supply for these essential industrial materials.",
+    "source": "Business Standard",
+    "published": "2026-10-22T09:00:27+00:00",
+    "ago": "1h",
+    "impact": "Positive",
+    "why": "Reduces imports and creates new jobs.",
+    "url": "https://www.business-standard.com/economy/news/india-coal-gasification-import-substitution-alvarez-marsal-report-126102200691_1.html",
+    "chips": {
+      "Import savings": "₹1.96 trillion"
+    },
+    "trend": [
+      0.1,
+      0.25,
+      0.2,
+      0.5,
+      0.45,
+      0.8,
+      0.95
+    ],
+    "color": "0F766E",
+    "premium": false,
+    "title_hi": "क्या कोल गैसिफिकेसन भारत के ₹1.96 लाख करोड़ के आयात बचा सकता है?",
+    "summary_hi": "कोल गैसिफिकेसन से जुड़े उत्पादों के घरेलू उत्पादन से नेचुरल गैस, यूरिया, अमोनिया और मिथेनॉल के आयात में कमी आ सकती है। ए एंड एम के अनुसार, इस बदलाव से नए औद्योगिक क्लस्टर और रोजगार भी बढ़ेंगे।",
+    "why_hi": "आयात कम होगा और रोजगार बढ़ेंगे।",
+    "chips_hi": {
+      "आयात बचत": "₹1.96 लाख करोड़"
+    }
+  },
+  {
+    "v": 2,
+    "cat": "Industry",
+    "tk": "INDUSTRY",
+    "title": "How India Post crossed the 4,000 crore revenue mark twice",
+    "summary": "The Department of Posts crossed the Rs 4,000 crore revenue mark for two consecutive quarters for the first time in its history. Union Communications Minister Jyotiraditya Scindia stated that second-quarter revenue reached Rs 4,202 crore, marking a 25 per cent growth from the previous year. Strong performance was driven by the parcel segment, Postal Life Insurance, and international business. Overall first-half revenue grew by nearly 24 per cent compared to the same period last year.",
+    "source": "Business Standard / Press Trust of India",
+    "published": "2026-10-22T08:40:01+00:00",
+    "ago": "1h",
+    "impact": "Positive",
+    "why": "Revenue and key business segments grew significantly.",
+    "url": "https://www.business-standard.com/industry/news/india-post-revenue-crosses-4-000-cr-for-second-straight-quarter-scindia-126102200613_1.html",
+    "chips": {
+      "Q2 revenue": "Rs 4,202 crore",
+      "Q2 growth": "25 per cent",
+      "Parcel growth": "71 per cent"
+    },
+    "trend": [
+      0.1,
+      0.25,
+      0.2,
+      0.5,
+      0.45,
+      0.8,
+      0.95
+    ],
+    "color": "0F766E",
+    "premium": false,
+    "title_hi": "कैसे India Post ने लगातार दूसरी बार 4,000 करोड़ का राजस्व पार किया",
+    "summary_hi": "डिपार्टमेंट ऑफ पोस्ट्स ने अपने इतिहास में पहली बार लगातार दो तिमाहियों में 4,000 करोड़ रुपये के राजस्व आंकड़े को पार कर लिया है। केंद्रीय संचार मंत्री ज्योतिरादित्य सिंधिया ने बताया कि सितंबर में समाप्त दूसरी तिमाही में राजस्व 25 प्रतिशत बढ़कर 4,202 करोड़ रुपये हो गया। पार्सल, पोस्टल लाइफ इंश्योरेंस और अंतरराष्ट्रीय कारोबार में मजबूत वृद्धि के चलते पहली छमाही का राजस्व भी पिछले साल की तुलना में लगभग 24 प्रतिशत बढ़ा है।",
+    "why_hi": "राजस्व और प्रमुख کاروبारी सेगमेंट में मजबूत वृद्धि।",
+    "chips_hi": {
+      "Q2 राजस्व": "₹4,202 करोड़",
+      "Q2 वृद्धि": "25 प्रतिशत",
+      "पार्सल वृद्धि": "71 प्रतिशत"
+    }
+  },
+  {
+    "v": 2,
+    "cat": "Markets",
     "tk": "KEI INDUSTRIES",
     "title": "Why did KEI Industries shares plunge 10 percent recently?",
     "summary": "Shares of KEI Industries dropped significantly, moving close to their fifty-two-week low. Analysts at Motilal Oswal noted that while the company's earnings before interest, taxes, depreciation, and amortization for the second quarter of financial year twenty twenty-seven matched estimates, there were underlying weaknesses. The engineering, procurement, and construction division posted a loss, and margins in the cable and wire segment fell short of market expectations.",
@@ -99,7 +341,7 @@
     ],
     "color": "0F766E",
     "premium": false,
-    "hi_tries": 1
+    "hi_tries": 2
   },
   {
     "v": 2,
@@ -226,7 +468,15 @@
     ],
     "color": "0F766E",
     "premium": false,
-    "hi_tries": 1
+    "hi_tries": 2,
+    "title_hi": "Fusion CX की शेयर बाजार में शानदार शुरुआत, निवेशकों को मिला मुनाफा",
+    "summary_hi": "Fusion CX के शेयरों की शेयर बाजार में मजबूत एंट्री हुई है। इसे निवेशकों से अच्छा रिस्पॉन्स मिला था और यह 3.3 गुना सब्सक्राइब हुआ था। BSE पर कंपनी का शेयर 292 रुपये पर लिस्ट हुआ, जो इश्यू प्राइस से 1.04 प्रतिशत ज्यादा है। वहीं NSE पर शेयर 305 रुपये के भाव पर खुला, जिस पर 5.54 प्रतिशत का फायदा मिला।",
+    "why_hi": "इश्यू प्राइस से ऊपर मजबूत लिस्टिंग होना।",
+    "chips_hi": {
+      "सब्सक्रिप्शन": "3.3x",
+      "BSE लिस्टिंग प्राइस": "₹292",
+      "NSE लिस्टिंग प्राइस": "₹305"
+    }
   },
   {
     "v": 2,
@@ -543,229 +793,5 @@
     "summary_hi": "Schaeffler India के मुख्य कार्यकारी अधिकारी को एक फैक्‍ट्री हादसे के सिलसिले में हिरासत में लिया गया है। कंपनी के परिसर में हुए इस हादसे में सेवा प्रदाता के दो कर्मचारियों की जान चली गई थी। यह घटना 9 जून को सिलेंडर बदलने के दौरान अचानक कार्बन गैस के रिसाव के कारण हुई थी।",
     "why_hi": "दुर्घटना के बाद प्रबंधन पर कार्रवाई।",
     "chips_hi": {}
-  },
-  {
-    "v": 2,
-    "cat": "Industry",
-    "tk": "INDUSTRY",
-    "title": "Rubio meets Adani, Tata Sons chiefs ahead of Reliance Jamnagar visit",
-    "summary": "US Secretary of State Marco Rubio met Adani Group chairman Gautam Adani and Tata Sons chairman N Chandrasekaran in Mumbai. Following these meetings, he traveled to Gujarat to tour Reliance Industries' massive oil-refining complex in Jamnagar, alongside Vantara and upcoming giga factories. While the official agendas for the discussions between Rubio and the Indian business leaders were not disclosed, the visit highlights key engagements with top executives of major Indian conglomerates.",
-    "source": "Business Standard / Press Trust of India",
-    "published": "2026-10-21T09:14:15+00:00",
-    "ago": "45m",
-    "impact": "Neutral",
-    "why": "High-level diplomatic meetings without financial details.",
-    "url": "https://www.business-standard.com/industry/news/rubio-meets-adani-tata-sons-chiefs-ahead-of-reliance-jamnagar-visit-126102100606_1.html",
-    "chips": {},
-    "trend": [
-      0.5,
-      0.55,
-      0.45,
-      0.5,
-      0.47,
-      0.52,
-      0.5
-    ],
-    "color": "B7791F",
-    "premium": false,
-    "title_hi": "यूएस सेक्रेटरी ऑफ स्टेट रुबियो ने अडानी और टाटा प्रमुखों से की मुलाकात",
-    "summary_hi": "यूएस सेक्रेटरी ऑफ स्टेट मार्को रुबियो ने मुंबई में अडानी ग्रुप के चेयरमैन गौतम अडानी और टाटा संस के चेयरमैन एन चंद्रशेखरन से मुलाकात की। इसके बाद, वह रिलायंस इंडस्ट्रीज के जामनगर स्थित विशाल ऑयल-रिफाइनिंग कॉम्प्लेक्स, वंतारा और गiga फैक्ट्रियों का दौरा करने गुजरात गए। हालांकि बैठकों का आधिकारिक एजेंडा सार्वजनिक नहीं किया गया है, लेकिन इस दौरे में भारत के बड़े उद्योगपतियों के साथ उच्च-स्तरीय बातचीत शामिल रही।",
-    "why_hi": "वित्तीय विवरण के बिना उच्च-स्तरीय कूटनीतिक बैठकें।",
-    "chips_hi": {}
-  },
-  {
-    "v": 2,
-    "cat": "Economy",
-    "tk": "INDIAN OIL",
-    "title": "Why is Indian Oil reducing annual crude imports from West Asia?",
-    "summary": "Indian refiners are planning to cut down their annual crude oil imports from West Asia amid the ongoing Iran conflict. Traditionally, these refiners depended on the region for over half of their yearly crude supplies. This reliance was mainly due to geographic closeness and the availability of heavier, high-sulphur oil grades from the area.",
-    "source": "Business Standard / Reuters",
-    "published": "2026-10-21T08:57:29+00:00",
-    "ago": "1h",
-    "impact": "Negative",
-    "why": "Lower imports could disrupt crude supply chains.",
-    "url": "https://www.business-standard.com/economy/news/indian-oil-to-trim-west-asian-oil-imports-under-annual-deals-amid-iran-war-126102100579_1.html",
-    "chips": {},
-    "trend": [
-      0.95,
-      0.85,
-      0.7,
-      0.6,
-      0.4,
-      0.3,
-      0.1
-    ],
-    "color": "9B2C2C",
-    "premium": false,
-    "hi_tries": 1,
-    "title_hi": "Indian Oil वेस्ट एशिया से क्यों घटा रही है कच्चे तेल की इम्पोर्ट?",
-    "summary_hi": "Iran संघर्ष के चलते भारतीय रिफाइनर वेस्ट एशिया से अपने सालाना कच्चे तेल के इम्पोर्ट में कटौती की योजना बना रहे हैं। पारंपरिक रूप से, ये रिफाइनर सालभर की अपनी जरूरत के आधे से ज्यादा तेल के लिए इसी क्षेत्र पर निर्भर थे।",
-    "why_hi": "कम इम्पोर्ट से कच्चे तेल की सप्लाई चेन प्रभावित हो सकती है।",
-    "chips_hi": {}
-  },
-  {
-    "v": 2,
-    "cat": "Finance",
-    "tk": "BAJAJ FINANCE",
-    "title": "Are gold loans showing early signs of stress for lenders?",
-    "summary": "Lenders including Bajaj Finance and Piramal Finance have noticed initial signs of stress regarding consumer gold loans. Indian banks and non-bank financial companies have previously increased lending against gold holdings, viewing these secured loans as a safer option for expanding their credit portfolios.",
-    "source": "Business Standard / Reuters",
-    "published": "2026-10-21T08:41:40+00:00",
-    "ago": "1h",
-    "impact": "Negative",
-    "why": "Early stress signs in gold lending.",
-    "url": "https://www.business-standard.com/finance/news/bajaj-finance-piramal-finance-flag-early-signs-of-stress-in-gold-loans-126102100525_1.html",
-    "chips": {},
-    "trend": [
-      0.95,
-      0.85,
-      0.7,
-      0.6,
-      0.4,
-      0.3,
-      0.1
-    ],
-    "color": "9B2C2C",
-    "premium": false,
-    "title_hi": "क्या गोल्ड लोन में शुरुआती तनाव के संकेत दिख रहे हैं?",
-    "summary_hi": "Bajaj Finance और Piramal Finance सहित कुछ उधारदाताओं ने कंज्यूमर गोल्ड लोन में शुरुआती तनाव की ओर इशारा किया है। भारतीय बैंकों और नॉन-बैंक वित्तीय कंपनियों ने पहले गोल्ड होल्डिंग्स के खिलाफ लोन देने में तेजी दिखाई थी, क्योंकि वे इन सुरक्षित लोन को ज्यादा सुरक्षित मानते हैं।",
-    "why_hi": "गोल्ड लोन में शुरुआती तनाव के संकेत।",
-    "chips_hi": {}
-  },
-  {
-    "v": 2,
-    "cat": "Earnings",
-    "tk": "VISHAL MEGA MART",
-    "title": "Vishal Mega Mart dips 6 percent despite profit rise",
-    "summary": "Vishal Mega Mart has posted a consolidated net profit of 157.9 crore rupees for the second quarter, marking a 3.7 percent increase compared to the same period last year. Despite the earnings growth, the company witnessed a drop of 6 percent in its share price as profit margins contracted to 4.6 percent during the quarter, with festive shifts also weighing on same-store sales growth.",
-    "source": "Business Standard",
-    "published": "2026-10-21T08:32:37+00:00",
-    "ago": "1h",
-    "impact": "Negative",
-    "why": "Profit margins contracted despite profit growth.",
-    "url": "https://www.business-standard.com/markets/news/vishal-mega-mart-falls-6-as-festive-shift-weighs-on-margins-sssg-in-q2-126102100565_1.html",
-    "chips": {
-      "Net profit": "₹157.9 crore",
-      "Profit growth": "3.7 per cent",
-      "Profit margin": "4.6 per cent"
-    },
-    "trend": [
-      0.95,
-      0.85,
-      0.7,
-      0.6,
-      0.4,
-      0.3,
-      0.1
-    ],
-    "color": "9B2C2C",
-    "premium": false,
-    "title_hi": "मुनाफे में बढ़त के बावजूद Vishal Mega Mart के शेयर गिरे",
-    "summary_hi": "Vishal Mega Mart ने दूसरी तिमाही में 157.9 करोड़ रुपये का समेकित शुद्ध लाभ दर्ज किया है, जो पिछले वर्ष की इसी अवधि से 3.7 प्रतिशत अधिक है। हालांकि, तिमाही के दौरान इसका मुनाफा मार्जिन घटकर 4.6 प्रतिशत रह गया और त्योहारी सीजन के समय में बदलाव के कारण शेयरों में 6 प्रतिशत की गिरावट आई।",
-    "why_hi": "मुनाफा मार्जिन कम होने से शेयर गिरे।",
-    "chips_hi": {
-      "शुद्ध लाभ": "₹157.9 करोड़",
-      "लाभ वृद्धि": "3.7 प्रतिशत",
-      "मुनाफा मार्जिन": "4.6 प्रतिशत"
-    }
-  },
-  {
-    "v": 2,
-    "cat": "Markets",
-    "tk": "MARKETS",
-    "title": "Why are MRF, Swiggy, and Biocon hitting 52-week lows?",
-    "summary": "Several notable stocks including MRF, Swiggy, Biocon, Yes Bank, PI Industries, NMDC, Tube Investments of India, Vishal Mega Mart, Voltas, and Max Financial Services have hit their respective 52-week lows. This comes as the broader market indexes, specifically the Midcap 100 and Smallcap 100, both recorded a decline of 1 percent during the trading session.",
-    "source": "Business Standard",
-    "published": "2026-10-21T05:44:11+00:00",
-    "ago": "12m",
-    "impact": "Negative",
-    "why": "Multiple stocks hit 52-week lows.",
-    "url": "https://www.business-standard.com/markets/news/midcap-100-smallcap-100-index-down-1-mrf-biocon-swiggy-at-52-week-lows-126102100269_1.html",
-    "chips": {},
-    "trend": [
-      0.95,
-      0.85,
-      0.7,
-      0.6,
-      0.4,
-      0.3,
-      0.1
-    ],
-    "color": "9B2C2C",
-    "premium": false,
-    "title_hi": "MRF, Swiggy और Biocon क्यों पहुंचे 52-हफ्ते के सबसे निचले स्तर पर?",
-    "summary_hi": "MRF, Swiggy, Biocon, Yes Bank, PI Industries, NMDC, Tube Investments of India, Vishal Mega Mart, Voltas और Max Financial Services जैसे कई प्रमुख शेयर अपने 52-हफ्ते के निचले स्तर पर आ गए हैं। इस दौरान Midcap 100 और Smallcap 100 सूचकांकों में 1 प्रतिशत की गिरावट दर्ज की गई।",
-    "why_hi": "कई शेयरों के भाव गिरे।",
-    "chips_hi": {}
-  },
-  {
-    "v": 2,
-    "cat": "Industry",
-    "tk": "INDUSTRY",
-    "title": "SBI probes suspected dark web leak involving 3,897 customer records",
-    "summary": "State Bank of India is investigating a suspected data leak on the dark web. A preliminary analysis of roughly 375,000 dark web records revealed that 3,897 customer records included personal information. The bank stated that a detailed investigation is currently under way to examine the situation thoroughly. Authorities and customers await further findings as the lender continues its review of the compromised data.",
-    "source": "Business Standard",
-    "published": "2026-10-21T05:35:20+00:00",
-    "ago": "21m",
-    "impact": "Negative",
-    "why": "Customer data leak investigation raises security concerns.",
-    "url": "https://www.business-standard.com/industry/banking/sbi-customer-data-dark-web-cybersecurity-pii-cert-in-126102100304_1.html",
-    "chips": {
-      "Dark web records": "375,000",
-      "Customer records": "3,897"
-    },
-    "trend": [
-      0.95,
-      0.85,
-      0.7,
-      0.6,
-      0.4,
-      0.3,
-      0.1
-    ],
-    "color": "9B2C2C",
-    "premium": false,
-    "title_hi": "SBI जांच कर रहा है dark web पर 3,897 ग्राहकों के डेटा लीक की",
-    "summary_hi": "State Bank of India dark web पर मिले संदिग्ध डेटा लीक की जांच कर रहा है। लगभग 3,75,000 dark web रिकॉर्ड्स के शुरुआती विश्लेषण में 3,897 ग्राहकों की व्यक्तिगत जानकारी वाले रिकॉर्ड्स की पहचान की गई है। बैंक ने बताया कि मामले की विस्तृत जांच अभी जारी है।",
-    "why_hi": "ग्राहकों के डेटा लीक की जांच शुरू हुई।",
-    "chips_hi": {
-      "डार्क वेब रिकॉर्ड्स": "3,75,000",
-      "ग्राहक रिकॉर्ड्स": "3,897"
-    }
-  },
-  {
-    "v": 2,
-    "cat": "Markets",
-    "tk": "MARKETS",
-    "title": "Why are markets rising as Sensex climbs 800 points?",
-    "summary": "Indian stock markets saw an intraday rise with the Sensex moving up by 800 points and the Nifty crossing the 23,100 mark. According to market experts, this upward movement is driven by improving earnings growth, fair valuations of large-cap companies, and strong domestic liquidity which provides support when the market declines.",
-    "source": "Business Standard",
-    "published": "2026-10-21T05:01:35+00:00",
-    "ago": "55m",
-    "impact": "Positive",
-    "why": "Strong earnings and domestic liquidity support markets.",
-    "url": "https://www.business-standard.com/markets/news/why-are-markets-rising-today-sensex-up-800-pts-intraday-nifty-tops-23-100-126102100246_1.html",
-    "chips": {
-      "Sensex": "up 800 pts",
-      "Nifty": "tops 23,100"
-    },
-    "trend": [
-      0.1,
-      0.25,
-      0.2,
-      0.5,
-      0.45,
-      0.8,
-      0.95
-    ],
-    "color": "0F766E",
-    "premium": false,
-    "title_hi": "Sensex में 800 अंकों की तेजी के पीछे क्या है कारण?",
-    "summary_hi": "भारतीय शेयर बाजारों में तेजी देखी गई जिसमें Sensex intraday में 800 अंक ऊपर चढ़ गया और Nifty ने 23,100 का स्तर पार कर लिया। विशेषज्ञों के अनुसार, बेहतर होती कमाई, बड़े शेयरों के उचित मूल्यांकन और मजबूत घरेलू नकदी के कारण बाजार में गिरावट के समय भी समर्थन मिल रहा है।",
-    "why_hi": "बेहतर कमाई और मजबूत घरेलू नकदी का समर्थन।",
-    "chips_hi": {
-      "Sensex": "800 अंक ऊपर",
-      "Nifty": "23,100 के पार"
-    }
   }
 ]
