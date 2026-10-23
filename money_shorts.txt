@@ -1,6 +1,252 @@
 [
   {
     "v": 2,
+    "cat": "Markets",
+    "tk": "MARKETS",
+    "title": "Why is Nifty recording its third longest correction in history?",
+    "summary": "The Nifty index is on track to mark its third longest time-wise technical correction since January 2012, lasting a total of 160 days. Market data shows the benchmark has continued to trade below its long-term average, specifically sitting under the 200-day moving average since February 2026. This period highlights an extended phase of consolidation for the index without dropping sharply.",
+    "source": "Business Standard",
+    "published": "2026-10-23T01:40:11+00:00",
+    "ago": "19m",
+    "impact": "Neutral",
+    "why": "Extended index consolidation period below average.",
+    "url": "https://www.business-standard.com/markets/news/nifty-logs-third-longest-technical-correction-shallowest-in-its-history-126102300066_1.html",
+    "chips": {
+      "Duration": "160 days",
+      "Key date": "Feb 27, 2026"
+    },
+    "trend": [
+      0.5,
+      0.55,
+      0.45,
+      0.5,
+      0.47,
+      0.52,
+      0.5
+    ],
+    "color": "B7791F",
+    "premium": false,
+    "title_hi": "Nifty इतिहास में अपना तीसरा सबसे लंबा करेक्शन क्यों दर्ज कर रहा है?",
+    "summary_hi": "Nifty सूचकांक जनवरी 2012 के बाद से अपने सबसे लंबे समय तक चलने वाले तकनीकी करेक्शन को दर्ज करने की राह पर है, जो कुल 160 दिन का है। बाजार के आंकड़ों से पता चलता है कि बेंचमार्क अपने लंबे समय के औसत से नीचे कारोबार कर रहा है और फरवरी 2026 से 200-DMA के नीचे बना हुआ है।",
+    "why_hi": "लंबी अवधि का इंडेक्स कंसोलिडेशन",
+    "chips_hi": {
+      "अवधि": "160 दिन",
+      "मुख्य तारीख": "27 फरवरी 2026"
+    }
+  },
+  {
+    "v": 2,
+    "cat": "Earnings",
+    "tk": "BARCLAYS",
+    "title": "Barclays plans 5,000 job cuts despite a 12% profit rise",
+    "summary": "Barclays is reducing its workforce by about 5,000 roles, representing five percent of its total employees. The bank is implementing these job cuts this year to lower expenses through artificial intelligence. This cost-reduction initiative comes alongside financial results showing a twelve percent increase in third-quarter profit, which reached £2.3 billion.",
+    "source": "Business Standard / Reuters",
+    "published": "2026-10-22T18:31:38+00:00",
+    "ago": "7h",
+    "impact": "Positive",
+    "why": "Profit rose and costs will drop.",
+    "url": "https://www.business-standard.com/companies/news/barclays-to-cut-5-000-jobs-in-ai-led-cost-drive-as-q3-profit-rises-12-126102201741_1.html",
+    "chips": {
+      "Job cuts": "5,000",
+      "Profit rise": "12%",
+      "Q3 profit": "£2.3 billion"
+    },
+    "trend": [
+      0.1,
+      0.25,
+      0.2,
+      0.5,
+      0.45,
+      0.8,
+      0.95
+    ],
+    "color": "0F766E",
+    "premium": false,
+    "title_hi": "प्रॉफिट बढ़ने के बावजूद Barclays कम करेगा 5,000 नौकरियां",
+    "summary_hi": "Barclays इस साल अपने लगभग 5,000 कर्मचारियों को हटाने की तैयारी में है, जो कुल वर्कफोर्स का 5 प्रतिशत है। बैंक खर्च कम करने के लिए आर्टिफिशियल इंटेलिजेंस का इस्तेमाल कर रहा है। यह फैसला तब आया है जब तीसरी तिमाही का प्रॉफिट 12 प्रतिशत बढ़कर £2.3 बिलियन पहुंच गया।",
+    "why_hi": "प्रॉफिट बढ़ा और खर्च घटेगा।",
+    "chips_hi": {
+      "नौकरियां कम": "5,000",
+      "प्रॉफिट वृद्धि": "12%",
+      "Q3 प्रॉफिट": "£2.3 बिलियन"
+    }
+  },
+  {
+    "v": 2,
+    "cat": "Industry",
+    "tk": "INDUSTRY",
+    "title": "New central scheme aims to strengthen renewable energy transmission",
+    "summary": "A fresh initiative has been launched by the central government to enhance the transmission infrastructure for renewable energy across various states. The program focuses on improving how clean power is moved within state boundaries, addressing key logistical needs of the growing green energy sector without detailing specific funding figures or timelines.",
+    "source": "Business Standard",
+    "published": "2026-10-22T18:19:24+00:00",
+    "ago": "7h",
+    "impact": "Positive",
+    "why": "Improves green energy transmission infrastructure.",
+    "url": "https://www.business-standard.com/industry/news/state-power-playbook-new-scheme-to-improve-renewable-energy-transmission-126102201745_1.html",
+    "chips": {},
+    "trend": [
+      0.1,
+      0.25,
+      0.2,
+      0.5,
+      0.45,
+      0.8,
+      0.95
+    ],
+    "color": "0F766E",
+    "premium": true,
+    "title_hi": "रिन्यूएबल एनर्जी ट्रांसमिशन को बेहतर बनाने के लिए नई योजना",
+    "summary_hi": "केंद्र सरकार द्वारा राज्यों के भीतर रिन्यूएबल एनर्जी के ट्रांसमिशन को मजबूत करने के लिए एक नई योजना शुरू की गई है। इस पहल का मुख्य उद्देश्य राज्यों की सीमाओं के अंदर स्वच्छ ऊर्जा के आवागमन और वितरण के बुनियादी ढांचे को बेहतर बनाना है।",
+    "why_hi": "ग्रीन एनर्जी ट्रांसमिशन बुनियादी ढांचे में सुधार।",
+    "chips_hi": {}
+  },
+  {
+    "v": 2,
+    "cat": "Economy",
+    "tk": "ECONOMY",
+    "title": "Will fresh import permits ease silver supply constraints ahead of Diwali?",
+    "summary": "Fresh import permits are expected to ease supply constraints and premiums for silver in India ahead of the Diwali festival. However, even with the relaxation of import curbs, overall demand for the precious metal is projected to remain lower compared to the previous year.",
+    "source": "Business Standard / Bloomberg",
+    "published": "2026-10-22T18:05:57+00:00",
+    "ago": "7h",
+    "impact": "Positive",
+    "why": "Import curbs eased ahead of Diwali.",
+    "url": "https://www.business-standard.com/economy/news/silver-inflows-likely-to-rebound-as-import-curbs-eased-for-diwali-126102201737_1.html",
+    "chips": {},
+    "trend": [
+      0.1,
+      0.25,
+      0.2,
+      0.5,
+      0.45,
+      0.8,
+      0.95
+    ],
+    "color": "0F766E",
+    "premium": false,
+    "title_hi": "क्या दिवाली से पहले नए आयात परमिट चांदी की कमी को दूर करेंगे?",
+    "summary_hi": "दिवाली से पहले भारत में चांदी की आपूर्ति की बाधाओं और प्रीमियम को कम करने के लिए नए आयात परमिट तैयार हैं। हालांकि आयात प्रतिबंधों में ढील मिलने के बावजूद, कुल मांग पिछले साल के स्तर से कम रहने की उम्मीद है।",
+    "why_hi": "दिवाली से पहले आयात प्रतिबंध हटे।",
+    "chips_hi": {}
+  },
+  {
+    "v": 2,
+    "cat": "Companies",
+    "tk": "COMPANIES",
+    "title": "Why are CDMO players betting on biologics and peptides?",
+    "summary": "Industry executives state that the next phase of growth for CDMO players relies on complex products. These key offerings include biologics, peptides, and drug-device combinations. Companies are focusing on these advanced segments to drive their future expansion in the market, according to industry leaders.",
+    "source": "Business Standard",
+    "published": "2026-10-22T17:46:03+00:00",
+    "ago": "8h",
+    "impact": "Positive",
+    "why": "Focus on complex products drives growth.",
+    "url": "https://www.business-standard.com/companies/news/cdmo-players-bet-on-complex-products-such-as-biologics-peptides-for-growth-126102201723_1.html",
+    "chips": {},
+    "trend": [
+      0.1,
+      0.25,
+      0.2,
+      0.5,
+      0.45,
+      0.8,
+      0.95
+    ],
+    "color": "0F766E",
+    "premium": true,
+    "title_hi": "CDMO कंपनियां biologics और peptides पर क्यों दांव लगा रही हैं?",
+    "summary_hi": "इंडस्ट्री के अधिकारियों के अनुसार, CDMO खिलाड़ियों की अगली वृद्धि बायोलॉजिक्स, पेप्टाइड्स और ड्रग-डिवाइस कॉम्बिनेशन जैसे जटिल उत्पादों पर निर्भर करती है। कंपनियां बाजार में अपने भविष्य के विस्तार को गति देने के लिए इन उन्नत क्षेत्रों पर ध्यान केंद्रित कर रही हैं।",
+    "why_hi": "जटिल उत्पादों पर फोकस से विकास.",
+    "chips_hi": {}
+  },
+  {
+    "v": 2,
+    "cat": "Industry",
+    "tk": "INDUSTRY",
+    "title": "Why is FMCG stocking uneven across India before Diwali?",
+    "summary": "Ahead of Diwali, the stocking of fast-moving consumer goods across regions shows mixed trends. While higher inflation has created pressure on demand in the eastern and western parts of the country, sales of packaged food are moving up in the central and northern regions.",
+    "source": "Business Standard",
+    "published": "2026-10-22T17:45:17+00:00",
+    "ago": "8h",
+    "impact": "Neutral",
+    "why": "Mixed demand trends seen across different regions.",
+    "url": "https://www.business-standard.com/industry/news/some-pockets-of-stress-emerge-in-india-s-fmcg-demand-ahead-of-diwali-126102201722_1.html",
+    "chips": {},
+    "trend": [
+      0.5,
+      0.55,
+      0.45,
+      0.5,
+      0.47,
+      0.52,
+      0.5
+    ],
+    "color": "B7791F",
+    "premium": true,
+    "title_hi": "Diwali से पहले FMCG मांग में अलग-अलग रुख क्यों दिख रहा है?",
+    "summary_hi": "दिवाली से पहले एफएमसीजी उत्पादों की स्टॉकिंग देश के अलग-अलग हिस्सों में एक जैसी नहीं है। महंगाई के कारण पूर्वी और पश्चिमी क्षेत्रों में मांग पर असर पड़ा है, जबकि केंद्रीय और उत्तरी भारत में पैक्ड फूड की बिक्री में बढ़ोतरी दर्ज की गई है।",
+    "why_hi": "क्षेत्रों के हिसाब से मांग में अंतर।",
+    "chips_hi": {}
+  },
+  {
+    "v": 2,
+    "cat": "Finance",
+    "tk": "FINANCE",
+    "title": "Will a milder interest rate hike still strain household budgets?",
+    "summary": "Even a mild cycle of interest rate hikes might put pressure on household finances. Borrowers face the combined challenge of increased equated monthly installments, high inflation, and unpredictable wage growth. These factors together continue to create financial stress for individuals managing debt.",
+    "source": "Business Standard",
+    "published": "2026-10-22T17:36:00+00:00",
+    "ago": "8h",
+    "impact": "Negative",
+    "why": "Higher EMIs and inflation strain household budgets.",
+    "url": "https://www.business-standard.com/finance/news/shallow-rate-hike-cycle-likely-to-still-test-borrowers-this-time-126102201715_1.html",
+    "chips": {},
+    "trend": [
+      0.95,
+      0.85,
+      0.7,
+      0.6,
+      0.4,
+      0.3,
+      0.1
+    ],
+    "color": "9B2C2C",
+    "premium": true,
+    "title_hi": "क्या ब्याज दरों में हल्की बढ़ोतरी भी घरेलू बजट पर भारी पड़ेगी?",
+    "summary_hi": "ब्याज दरों में कम बढ़ोतरी का चक्र भी पारिवारिक वित्त पर दबाव बना सकता है। कर्ज लेने वालों को बढ़ी हुई मासिक किस्तों, उच्च महंगाई और अनिश्चित वेतन वृद्धि का सामना करना पड़ रहा है। ये सभी कारक मिलकर कर्ज चुकाने वाले लोगों के लिए वित्तीय तनाव पैदा कर रहे हैं।",
+    "why_hi": "बढ़ी हुई ईएमआई और महंगाई ने बजट पर दबाव डाला।",
+    "chips_hi": {}
+  },
+  {
+    "v": 2,
+    "cat": "Industry",
+    "tk": "INDUSTRY",
+    "title": "Will EPFO raise the minimum monthly pension on November 19?",
+    "summary": "The Central Board of Trustees of the EPFO is set to discuss a possible increase in the minimum monthly pension under EPS during its upcoming meeting. Scheduled for November 19 in Gujarat, this discussion comes in response to persistent demands from various trade unions and pensioners. No final decision or details regarding the hike amount have been mentioned yet, as the board will only consider the proposal during this meeting.",
+    "source": "Business Standard",
+    "published": "2026-10-22T17:30:56+00:00",
+    "ago": "8h",
+    "impact": "Neutral",
+    "why": "Meeting scheduled to discuss pension hike.",
+    "url": "https://www.business-standard.com/industry/news/epfo-board-may-consider-a-hike-in-minimum-pension-at-november-19-meeting-126101900890_1.html",
+    "chips": {},
+    "trend": [
+      0.5,
+      0.55,
+      0.45,
+      0.5,
+      0.47,
+      0.52,
+      0.5
+    ],
+    "color": "B7791F",
+    "premium": true,
+    "title_hi": "क्या 19 नवंबर को न्यूनतम मासिक पेंशन बढ़ाने पर होगा विचार?",
+    "summary_hi": "EPFO के सेंट्रल बोर्ड ऑफ ट्रस्टीज की बैठक में EPS के तहत न्यूनतम मासिक पेंशन बढ़ाने पर चर्चा होने की संभावना है। गुजरात में 19 नवंबर को होने वाली इस बैठक में यह मुद्दा ट्रेड यूनियनों और पेंशनभोगियों की लंबे समय से चली आ रही मांगों के कारण उठाया जाएगा।",
+    "why_hi": "पेंशन बढ़ाने पर चर्चा के लिए बैठक।",
+    "chips_hi": {}
+  },
+  {
+    "v": 2,
     "cat": "Earnings",
     "tk": "SWIGGY",
     "title": "Swiggy Q2 loss narrows to Rs 922 crore on rising revenue",
@@ -220,7 +466,7 @@
     ],
     "color": "9B2C2C",
     "premium": false,
-    "hi_tries": 1
+    "hi_tries": 2
   },
   {
     "v": 2,
@@ -535,271 +781,5 @@
       "शेयर गिरावट": "10%",
       "तिमाही": "Q2FY27"
     }
-  },
-  {
-    "v": 2,
-    "cat": "Earnings",
-    "tk": "MAHINDRA FINANCE",
-    "title": "Mahindra Finance shares plunge to 52-week low despite profit surge",
-    "summary": "Mahindra Finance saw its stock price drop to a 52-week low of ₹268 on the NSE during Thursday's trading session. This downward movement occurred even though the company reported a 55% increase in its standalone profit for the second quarter, reaching ₹882 crore.",
-    "source": "Business Standard",
-    "published": "2026-10-22T05:31:53+00:00",
-    "ago": "24m",
-    "impact": "Negative",
-    "why": "Stock dropped despite higher profit.",
-    "url": "https://www.business-standard.com/markets/news/mahindra-finance-tanks-10-hits-52-week-low-despite-55-surge-in-q2-profit-126102200356_1.html",
-    "chips": {
-      "52-week low": "₹268",
-      "Profit surge": "55%",
-      "Q2 standalone profit": "₹882 crore"
-    },
-    "trend": [
-      0.95,
-      0.85,
-      0.7,
-      0.6,
-      0.4,
-      0.3,
-      0.1
-    ],
-    "color": "9B2C2C",
-    "premium": false,
-    "title_hi": "मुनाफे में भारी बढ़ोतरी के बावजूद क्यों लुढ़के Mahindra Finance के शेयर?",
-    "summary_hi": "गुरुवार के कारोबारी सत्र में NSE पर Mahindra Finance का शेयर भाव 52 हफ्ते के निचले स्तर ₹268 पर आ गया। यह गिरावट तब आई जब कंपनी ने अपने दूसरी तिमाही के स्टैंडअलोन मुनाफे में 55% की वृद्धि दर्ज की, जिससे मुनाफा ₹882 करोड़ पहुंच गया।",
-    "why_hi": "मुनाफा बढ़ने के बावजूद शेयर में गिरावट।",
-    "chips_hi": {
-      "52-हफ्ते का निचला स्": "₹268",
-      "मुनाफा वृद्धि": "55%",
-      "Q2 स्टैंडअलोन मुनाफा": "₹882 करोड़"
-    }
-  },
-  {
-    "v": 2,
-    "cat": "Earnings",
-    "tk": "IGIL",
-    "title": "IGIL shares surge to 10 percent upper circuit after profit jumps",
-    "summary": "Shares of IGIL reached a ten percent upper circuit following the release of its September quarter financial results. The company posted a consolidated profit after tax of 185.8 crore rupees, marking a 43 percent increase compared to the same period last year. Strong operational execution and healthy demand helped drive this significant growth in the quarterly earnings.",
-    "source": "Business Standard",
-    "published": "2026-10-22T05:27:25+00:00",
-    "ago": "29m",
-    "impact": "Positive",
-    "why": "Profit jumped 43 percent in Q2.",
-    "url": "https://www.business-standard.com/markets/news/q2-result-impact-igil-shares-hit-10-upper-circuit-pat-up-43-to-185-cr-126102200363_1.html",
-    "chips": {
-      "PAT": "₹185.8 crore",
-      "Growth": "43%",
-      "Circuit": "10%"
-    },
-    "trend": [
-      0.1,
-      0.25,
-      0.2,
-      0.5,
-      0.45,
-      0.8,
-      0.95
-    ],
-    "color": "0F766E",
-    "premium": false,
-    "hi_tries": 2
-  },
-  {
-    "v": 2,
-    "cat": "Earnings",
-    "tk": "INDIAN HOTELS",
-    "title": "Why did Indian Hotels jump 3% after rising earnings estimates?",
-    "summary": "Indian Hotels saw a 3% increase in its shares after analysts raised their earnings estimates following positive quarterly financial results. The company reported a 23 per cent increase in consolidated profit, reaching ₹349 crore for the period. Additionally, total revenue grew by 21 per cent compared to the previous year, touching ₹2,566 crore, which drove the positive market sentiment.",
-    "source": "Business Standard",
-    "published": "2026-10-22T05:13:22+00:00",
-    "ago": "43m",
-    "impact": "Positive",
-    "why": "Higher profit and revenue growth reported.",
-    "url": "https://www.business-standard.com/markets/news/indian-hotels-share-price-gains-3-as-analysts-raise-earnings-estimates-target-post-q2-126102200329_1.html",
-    "chips": {
-      "Consolidated profit": "₹349 crore",
-      "Revenue growth": "21 per cent"
-    },
-    "trend": [
-      0.1,
-      0.25,
-      0.2,
-      0.5,
-      0.45,
-      0.8,
-      0.95
-    ],
-    "color": "0F766E",
-    "premium": false,
-    "title_hi": "शानदार तिमाही नतीजों के बाद Indian Hotels के शेयरों में तेजी क्यों आई?",
-    "summary_hi": "विश्लेषकों द्वारा कमाई के अनुमान बढ़ाने के बाद Indian Hotels के शेयरों में 3% की बढ़त दर्ज की गई। कंपनी का समेकित मुनाफा 23 प्रतिशत बढ़कर ₹349 करोड़ पर पहुंच गया। इसके अलावा, पिछले वर्ष की तुलना में कुल राजस्व में 21 प्रतिशत की वृद्धि हुई और यह ₹2,566 करोड़ रहा, जिससे बाजार में सकारात्मक प्रतिक्रिया देखने को मिली।",
-    "why_hi": "मुनाफे और राजस्व में बढ़ोतरी दर्ज हुई।",
-    "chips_hi": {
-      "समेकित मुनाफा": "₹349 करोड़",
-      "राजस्व वृद्धि": "21 प्रतिशत"
-    }
-  },
-  {
-    "v": 2,
-    "cat": "Finance",
-    "tk": "FINANCE",
-    "title": "Will rising repo rates make your home loan longer?",
-    "summary": "An increase in repo rates can result in extended loan tenures instead of higher monthly instalments. Borrowers face the possibility of paying off their home loans over a longer period, which ultimately raises the total borrowing costs. While monthly payments might remain unchanged, the extended duration increases the overall financial commitment for individuals with existing housing loans.",
-    "source": "Business Standard",
-    "published": "2026-10-22T04:59:50+00:00",
-    "ago": "57m",
-    "impact": "Negative",
-    "why": "Longer loan tenures increase total borrowing costs.",
-    "url": "https://www.business-standard.com/finance/personal-finance/home-loan-alert-your-emi-may-stay-the-same-but-your-loan-could-get-longer-126102200277_1.html",
-    "chips": {},
-    "trend": [
-      0.95,
-      0.85,
-      0.7,
-      0.6,
-      0.4,
-      0.3,
-      0.1
-    ],
-    "color": "9B2C2C",
-    "premium": false,
-    "title_hi": "बढ़ते रेपो रेट से क्या आपका होम लोन लंबा हो जाएगा?",
-    "summary_hi": "रेपो रेट बढ़ने पर मासिक किस्तों में बढ़ोतरी के बजाय लोन की अवधि लंबी हो सकती है। कर्ज लेने वालों को लंबे समय तक होम लोन चुकाना पड़ सकता है, जिससे कुल खर्च बढ़ जाता है। मासिक भुगतान भले ही एक समान रहे, लेकिन बढ़ी हुई अवधि के कारण मौजूदा हाउसिंग लोन वाले लोगों पर वित्तीय बोझ बढ़ जाता है।",
-    "why_hi": "लोन अवधि बढ़ने से कुल खर्च बढ़ता है।",
-    "chips_hi": {}
-  },
-  {
-    "v": 2,
-    "cat": "Markets",
-    "tk": "MARUTI",
-    "title": "Lupin and Maruti hit 52-week lows as 74 BSE 500 stocks drop",
-    "summary": "Benchmark indices declined for the third straight session due to selling across various sectors. Market sentiment was pressured by rising crude oil prices and worries regarding corporate earnings. A total of 74 stocks in the BSE 500 index touched their 52-week low levels during the session, including prominent names like Lupin, SRF, TMPV, Maruti, and NTPC.",
-    "source": "Business Standard",
-    "published": "2026-10-22T04:37:55+00:00",
-    "ago": "1h",
-    "impact": "Negative",
-    "why": "Multiple stocks hit yearly lows amid selling.",
-    "url": "https://www.business-standard.com/markets/news/lupin-srf-tmpv-maruti-ntpc-among-74-bse-500-stocks-hit-52-week-lows-on-thursday-126102200219_1.html",
-    "chips": {
-      "Stocks hit lows": "74"
-    },
-    "trend": [
-      0.95,
-      0.85,
-      0.7,
-      0.6,
-      0.4,
-      0.3,
-      0.1
-    ],
-    "color": "9B2C2C",
-    "premium": false,
-    "title_hi": "Lupin और Maruti सहित BSE 500 के 74 शेयर 52-हफ्ते के निचले स्तर पर",
-    "summary_hi": "क्रूड ऑयल की ऊंची कीमतों और कॉरपोरेट कमाई को लेकर चिंताओं के कारण बिकवाली से बेंचमार्क इंडेक्स लगातार तीसरे सत्र में नीचे कारोबार कर रहे थे। इसके चलते BSE 500 इंडेक्स के 74 शेयर 52-हफ्ते के सबसे निचले स्तर पर पहुंच गए, जिनमें Lupin, SRF, TMPV, Maruti और NTPC शामिल हैं।",
-    "why_hi": "बिकवाली से कई शेयर निचले स्तर पर।",
-    "chips_hi": {
-      "शेयर निचले स्तर पर": "74"
-    }
-  },
-  {
-    "v": 2,
-    "cat": "IPO",
-    "tk": "FUSION CX",
-    "title": "Fusion CX makes strong market debut with listing gains",
-    "summary": "Fusion CX shares made their stock market debut after receiving strong interest with a 3.3 times subscription. On the BSE, the company's stock started trading at Rs 292, which was a 1.04 per cent increase over the initial public offering price. Meanwhile, on the NSE, the shares opened at Rs 305, marking a higher premium of 5.54 per cent.",
-    "source": "Business Standard",
-    "published": "2026-10-22T04:30:02+00:00",
-    "ago": "1h",
-    "impact": "Positive",
-    "why": "Positive market debut above issue price.",
-    "url": "https://www.business-standard.com/markets/news/fusion-cx-lists-at-5-premium-over-ipo-price-after-3-3x-subscription-126102200222_1.html",
-    "chips": {
-      "Subscription": "3.3x",
-      "BSE listing price": "₹292",
-      "NSE listing price": "₹305"
-    },
-    "trend": [
-      0.1,
-      0.25,
-      0.2,
-      0.5,
-      0.45,
-      0.8,
-      0.95
-    ],
-    "color": "0F766E",
-    "premium": false,
-    "hi_tries": 2,
-    "title_hi": "Fusion CX की शेयर बाजार में शानदार शुरुआत, निवेशकों को मिला मुनाफा",
-    "summary_hi": "Fusion CX के शेयरों की शेयर बाजार में मजबूत एंट्री हुई है। इसे निवेशकों से अच्छा रिस्पॉन्स मिला था और यह 3.3 गुना सब्सक्राइब हुआ था। BSE पर कंपनी का शेयर 292 रुपये पर लिस्ट हुआ, जो इश्यू प्राइस से 1.04 प्रतिशत ज्यादा है। वहीं NSE पर शेयर 305 रुपये के भाव पर खुला, जिस पर 5.54 प्रतिशत का फायदा मिला।",
-    "why_hi": "इश्यू प्राइस से ऊपर मजबूत लिस्टिंग होना।",
-    "chips_hi": {
-      "सब्सक्रिप्शन": "3.3x",
-      "BSE लिस्टिंग प्राइस": "₹292",
-      "NSE लिस्टिंग प्राइस": "₹305"
-    }
-  },
-  {
-    "v": 2,
-    "cat": "Companies",
-    "tk": "META",
-    "title": "Meta faces $25 billion penalty in data privacy case",
-    "summary": "A New Mexico court has directed Meta to pay a massive $25 billion penalty following a jury verdict. The court determined there were 43 million violations of state consumer protection laws. This legal action stems from the Cambridge Analytica data privacy scandal, which brought user data protection practices into question. The company now faces this financial consequence after the extensive jury findings regarding state law breaches.",
-    "source": "Business Standard / NYT",
-    "published": "2026-10-21T18:45:28+00:00",
-    "ago": "7h",
-    "impact": "Negative",
-    "why": "Massive penalty impacts financials severely.",
-    "url": "https://www.business-standard.com/companies/news/us-court-orders-meta-to-pay-25-bn-for-misleading-users-on-data-privacy-126102200010_1.html",
-    "chips": {
-      "Penalty": "$25 billion",
-      "Violations": "43 million"
-    },
-    "trend": [
-      0.95,
-      0.85,
-      0.7,
-      0.6,
-      0.4,
-      0.3,
-      0.1
-    ],
-    "color": "9B2C2C",
-    "premium": false,
-    "title_hi": "डाटा प्राइवेसी मामले में Meta पर 25 अरब डॉलर का जुर्माना",
-    "summary_hi": "न्यू मैक्सिको की एक अदालत ने Meta को 25 अरब डॉलर का भारी जुर्माना चुकाने का आदेश दिया है। एक जूरी द्वारा राज्य के उपभोक्ता संरक्षण कानूनों के 43 मिलियन उल्लंघनों का पता चलने के बाद यह फैसला आया है। यह पूरा मामला कैम्ब्रिज एनालिटिका डाटा प्राइवेसी स्कैंडल से जुड़ा हुआ है। अदालत के इस बड़े आदेश से कंपनी को तगड़ा झटका लगा है।",
-    "why_hi": "भारी जुर्माने से वित्तीय स्थिति पर असर।",
-    "chips_hi": {
-      "जुर्माना": "$25 अरब",
-      "उल्लंघन": "43 मिलियन"
-    }
-  },
-  {
-    "v": 2,
-    "cat": "Economy",
-    "tk": "ECONOMY",
-    "title": "Marco Rubio and Mukesh Ambani discuss partnerships in Jamnagar",
-    "summary": "US Secretary of State Marco Rubio visited the Jamnagar refinery operated by Reliance during a tour. During the visit, he held discussions with Mukesh Ambani concerning energy supplies, technology initiatives, data centres, and potential commercial collaborations between the two sides.",
-    "source": "Business Standard",
-    "published": "2026-10-21T18:27:33+00:00",
-    "ago": "7h",
-    "impact": "Neutral",
-    "why": "Strategic meeting without immediate financial figures.",
-    "url": "https://www.business-standard.com/economy/news/rubio-mukesh-ambani-discuss-energy-technology-partnerships-at-jamnagar-126102101510_1.html",
-    "chips": {},
-    "trend": [
-      0.5,
-      0.55,
-      0.45,
-      0.5,
-      0.47,
-      0.52,
-      0.5
-    ],
-    "color": "B7791F",
-    "premium": false,
-    "title_hi": "Marco Rubio और Mukesh Ambani ने जामनगर में ऊर्जा और तकनीक पर की चर्चा",
-    "summary_hi": "US Secretary of State Marco Rubio ने Reliance की जामनगर रिफाइनरी का दौरा किया। इस दौरान उन्होंने Mukesh Ambani के साथ ऊर्जा आपूर्ति, तकनीक, डेटा सेंटर और संभावित व्यावसायिक साझेबारी को लेकर बातचीत की।",
-    "why_hi": "रणनीतिक बैठक, कोई वित्तीय आंकड़ा नहीं।",
-    "chips_hi": {}
   }
 ]
