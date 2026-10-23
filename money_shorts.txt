@@ -3,6 +3,253 @@
     "v": 2,
     "cat": "Markets",
     "tk": "MARKETS",
+    "title": "Small-caps may outpace large-caps with 30 percent earnings growth",
+    "summary": "Small-cap company earnings are projected to expand at a 30 percent rate in the current financial year. This growth projection stands well above the mid-teens rate expected for large-cap companies. The outlook for small-caps over the upcoming year appears promising according to insights from Mayur Patel of 360 ONE Asset.",
+    "source": "Business Standard",
+    "published": "2026-10-23T05:50:45+00:00",
+    "ago": "6m",
+    "impact": "Positive",
+    "why": "Strong projected earnings growth for small-caps.",
+    "url": "https://www.business-standard.com/markets/interviews/small-caps-likely-to-do-well-over-the-next-year-360-one-s-mayur-patel-126102300267_1.html",
+    "chips": {
+      "Small-cap earnings g": "30 percent"
+    },
+    "trend": [
+      0.1,
+      0.25,
+      0.2,
+      0.5,
+      0.45,
+      0.8,
+      0.95
+    ],
+    "color": "0F766E",
+    "premium": false,
+    "title_hi": "स्मॉल-कैप कंपनियों की आय में 30 प्रतिशत की हो सकती है वृद्धि",
+    "summary_hi": "चालू वित्त वर्ष में स्मॉल-कैप कंपनियों की आय 30 प्रतिशत की दर से बढ़ सकती है। यह वृद्धि लार्ज-कैप कंपनियों के लिए अनुमानित मिड-टीन दर से काफी अधिक है। 360 ONE Asset के मयूर पटेल के अनुसार आने वाले एक साल में स्मॉल-कैप का प्रदर्शन बेहतर रहने की संभावना है।",
+    "why_hi": "स्मॉल-कैप आय में मजबूत वृद्धि का अनुमान।",
+    "chips_hi": {
+      "स्मॉल-कैप आय वृद्धि": "30 प्रतिशत"
+    }
+  },
+  {
+    "v": 2,
+    "cat": "Markets",
+    "tk": "MARKETS",
+    "title": "Why did silver ETFs drop up to 5% recently?",
+    "summary": "Silver exchange-traded funds experienced a drop of up to 5 percent. This decline followed a recent dip in both silver and gold prices over the past two sessions. During Friday's intraday trading, the yellow metal fell by 2 percent, while silver dropped by 1 percent. Rising oil prices and concerns regarding inflation heavily impacted the bullion markets during this period.",
+    "source": "Business Standard",
+    "published": "2026-10-23T05:43:22+00:00",
+    "ago": "13m",
+    "impact": "Negative",
+    "why": "Bullion markets hit by inflation and oil.",
+    "url": "https://www.business-standard.com/markets/news/silver-etfs-fall-up-to-5-as-oil-surge-inflation-fears-hit-bullion-markets-126102300376_1.html",
+    "chips": {
+      "Silver ETFs fall": "up to 5%",
+      "Gold dip": "2 per cent",
+      "Silver intraday down": "1 per cent"
+    },
+    "trend": [
+      0.95,
+      0.85,
+      0.7,
+      0.6,
+      0.4,
+      0.3,
+      0.1
+    ],
+    "color": "9B2C2C",
+    "premium": false,
+    "title_hi": "ऑयल में तेजी और महंगाई से Silver ETFs क्यों गिरे?",
+    "summary_hi": "Silver ETFs में 5 प्रतिशत तक की गिरावट दर्ज की गई। पिछले दो सत्रों में चांदी और सोने की कीमतों में नरमी देखने को मिली। शुक्रवार को इंट्राडे कारोबार के दौरान पीले धातु में 2 प्रतिशत और चांदी में 1 प्रतिशत की गिरावट आई। बुलियन बाजारों पर तेल की बढ़ती कीमतों और महंगाई की चिंताओं का असर साफ दिखाई दिया।",
+    "why_hi": "महंगाई और ऑयल से बुलियन पर असर।",
+    "chips_hi": {
+      "Silver ETFs गिरावट": "5% तक",
+      "Gold गिरावट": "2 प्रतिशत",
+      "Silver इंट्राडे गिरा": "1 प्रतिशत"
+    }
+  },
+  {
+    "v": 2,
+    "cat": "Markets",
+    "tk": "MARKETS",
+    "title": "Sensex plunges 1,279 points as high crude oil prices weigh",
+    "summary": "Indian stock markets experienced a sharp downturn, with the Sensex dropping 1,279 points from its intraday peak and the Nifty testing the 22,400 level. According to Hariselvan Radhakrishnan of HST Wealth, elevated crude oil prices remain a major challenge for oil-sensitive sectors. This persistent headwind is hindering any broad-based recovery in the equity markets.",
+    "source": "Business Standard",
+    "published": "2026-10-23T05:27:38+00:00",
+    "ago": "29m",
+    "impact": "Negative",
+    "why": "Crude prices hinder broad-based equity recovery.",
+    "url": "https://www.business-standard.com/markets/news/market-crash-sensex-sinks-1-279-pts-from-day-s-high-nifty-tests-22-400-126102300346_1.html",
+    "chips": {
+      "Sensex drop": "1,279 pts",
+      "Nifty level": "22,400",
+      "Brent oil": "$114"
+    },
+    "trend": [
+      0.95,
+      0.85,
+      0.7,
+      0.6,
+      0.4,
+      0.3,
+      0.1
+    ],
+    "color": "9B2C2C",
+    "premium": false,
+    "title_hi": "क्रूड ऑयल के ऊंचे दामों से Sensex में 1,279 अंकों की भारी गिरावट",
+    "summary_hi": "भारतीय शेयर बाजारों में बड़ी गिरावट दर्ज की गई, जहां Sensex अपने दिन के उच्च स्तर से 1,279 अंक नीचे आ गया और Nifty ने 22,400 का स्तर जांचा। HST Wealth के हरिसल्वन राधाकृष्णन के अनुसार, ऊंचे क्रूड ऑयल के दाम ऑयल-संवेदनशील सेक्टर के लिए बड़ी बाधा बने हुए हैं। इस वजह से शेयरों में व्यापक रिकवरी आना मुश्किल हो रहा है।",
+    "why_hi": "क्रूड कीमतों से शेयरों में रिकवरी मुश्किल।",
+    "chips_hi": {
+      "Sensex गिरावट": "1,279 अंक",
+      "Nifty स्तर": "22,400",
+      "ब्रेंट क्रूड": "$114"
+    }
+  },
+  {
+    "v": 2,
+    "cat": "Finance",
+    "tk": "FINANCE",
+    "title": "88% of homes listed for sale in India are ready to move in, Delhi leads",
+    "summary": "Data from listings collected on October 10, 2026, shows that out of 7.53 lakh residential properties advertised for sale across India, 6.63 lakh homes are ready for possession. This indicates a major focus on completed housing inventory in the country, with Delhi taking the lead in these listings according to the analysis.",
+    "source": "Business Standard",
+    "published": "2026-10-23T05:14:46+00:00",
+    "ago": "42m",
+    "impact": "Neutral",
+    "why": "High share of ready homes listed.",
+    "url": "https://www.business-standard.com/finance/personal-finance/88-of-homes-listed-for-sale-in-india-are-ready-to-move-in-delhi-leads-126102300320_1.html",
+    "chips": {
+      "Ready homes": "6.63 lakh",
+      "Total properties": "7.53 lakh"
+    },
+    "trend": [
+      0.5,
+      0.55,
+      0.45,
+      0.5,
+      0.47,
+      0.52,
+      0.5
+    ],
+    "color": "B7791F",
+    "premium": false,
+    "title_hi": "बिक्री के लिए सूचीबद्ध 88 प्रतिशत घर रहने के लिए क्यों तैयार हैं",
+    "summary_hi": "10 अक्टूबर 2026 को एकत्रित 99acres लिस्टिंग के विश्लेषण के अनुसार, भारत में बिक्री के लिए विज्ञापित 7.53 लाख आवासीय संपत्तियों में से 6.63 लाख रहने के लिए तैयार हैं। इस आंकड़े से पता चलता है कि देश में तैयार आवासों की सूची में दिल्ली सबसे आगे है।",
+    "why_hi": "तैयार घरों की उच्च हिस्सेदारी।",
+    "chips_hi": {
+      "तैयार घर": "6.63 लाख",
+      "कुल संपत्तियां": "7.53 लाख"
+    }
+  },
+  {
+    "v": 2,
+    "cat": "Markets",
+    "tk": "MARKETS",
+    "title": "Why did the Microcap 250 index slip and hit a June low?",
+    "summary": "Over the past five trading sessions, the Nifty Microcap 250 index dropped 7 percent. During this decline, the index reached its lowest level since June 12, 2026. Individual stocks within the broader market, including Aeroflex, Rallis, and Bluestone, experienced slides of up to 8 percent, while the overall index saw a 2 percent decrease.",
+    "source": "Business Standard",
+    "published": "2026-10-23T05:01:54+00:00",
+    "ago": "55m",
+    "impact": "Negative",
+    "why": "Index fell 7% to multi-month low.",
+    "url": "https://www.business-standard.com/markets/news/microcap-250-index-slips-2-aeroflex-rallis-bluestone-slide-up-to-8-126102300230_1.html",
+    "chips": {
+      "Index drop": "2%",
+      "Five-day decline": "7%"
+    },
+    "trend": [
+      0.95,
+      0.85,
+      0.7,
+      0.6,
+      0.4,
+      0.3,
+      0.1
+    ],
+    "color": "9B2C2C",
+    "premium": false,
+    "title_hi": "Microcap 250 इंडेक्स में भारी गिरावट, क्यों पहुंचा जून के निचले स्तर पर?",
+    "summary_hi": "पिछले पांच कारोबारी सत्रों में Nifty Microcap 250 इंडेक्स 7 प्रतिशत नीचे आ गया। इस गिरावट के साथ यह जून 12, 2026 के बाद के अपने सबसे निचले स्तर पर पहुंच गया। इस दौरान Aeroflex, Rallis और Bluestone जैसे शेयरों में 8 प्रतिशत तक की गिरावट दर्ज की गई, जबकि यह इंडेक्स कुल 2 प्रतिशत फिसला।",
+    "why_hi": "इंडेक्स 7% गिरकर निचले स्तर पर।",
+    "chips_hi": {
+      "इंडेक्स गिरावट": "2%",
+      "पांच दिन की गिरावट": "7%"
+    }
+  },
+  {
+    "v": 2,
+    "cat": "Finance",
+    "tk": "FINANCE",
+    "title": "How did the rupee move by 3 paise against the dollar?",
+    "summary": "The Indian rupee gained 3 paise to trade at 94.78 against the US dollar in early trade on Friday. This movement occurred within a narrow range while crude oil prices remained elevated and foreign funds continued to flow out. Market participants noted ongoing pressure on the currency from global macroeconomic factors, including a stronger US dollar and Brent crude staying near USD 113 per barrel. Meanwhile, the dollar index stood at 101.64.",
+    "source": "Business Standard / Press Trust of India",
+    "published": "2026-10-23T04:36:03+00:00",
+    "ago": "1h",
+    "impact": "Neutral",
+    "why": "Mixed macroeconomic factors drive currency movement.",
+    "url": "https://www.business-standard.com/finance/news/rupee-rises-3-paise-to-94-78-against-us-dollar-during-early-trade-126102300217_1.html",
+    "chips": {
+      "Exchange rate": "94.78",
+      "Dollar index": "101.64",
+      "Brent crude": "USD 113.65 per barre"
+    },
+    "trend": [
+      0.5,
+      0.55,
+      0.45,
+      0.5,
+      0.47,
+      0.52,
+      0.5
+    ],
+    "color": "B7791F",
+    "premium": false,
+    "title_hi": "रुपया शुरुआती कारोबार में अमेरिकी डॉलर के मुकाबले 3 पैसे क्यों बढ़ा?",
+    "summary_hi": "शुक्रवार को शुरुआती कारोबार के दौरान भारतीय रुपया 3 पैसे की मामूली बढ़त के साथ अमेरिकी डॉलर के मुकाबले 94.78 पर पहुंच गया। यह सीमित दायरे में कारोबार कर रहा था, जबकि इस दौरान कच्चे तेल की कीमतें ऊंची बनी रहीं और विदेशी फंडों की निकासी भी जारी रही। वैश्विक डॉलर की मजबूती और ब्रेंट क्रूड के ऊंचे स्तर के कारण मुद्रा पर दबाव बना हुआ है। इस बीच डॉलर इंडेक्स 101.64 पर कारोबार कर रहा था।",
+    "why_hi": "विपरीत आर्थिक कारकों के बीच मुद्रा में सीमित बदलाव।",
+    "chips_hi": {
+      "विनिमय दर": "94.78",
+      "डॉलर इंडेक्स": "101.64",
+      "ब्रेंट क्रूड": "USD 113.65 प्रति बैर"
+    }
+  },
+  {
+    "v": 2,
+    "cat": "IPO",
+    "tk": "BONFIGLIOLI",
+    "title": "Bonfiglioli Transmissions lists at par with IPO price despite massive 46x demand",
+    "summary": "Bonfiglioli Transmissions began its stock market journey flat, listing at ₹586 on both the BSE and the National Stock Exchange. This debut matched its initial public offering price completely. The flat opening occurred even though the share sale had attracted strong interest, receiving bids reaching 46 times the total offered quantity from investors.",
+    "source": "Business Standard",
+    "published": "2026-10-23T04:35:24+00:00",
+    "ago": "1h",
+    "impact": "Neutral",
+    "why": "Flat listing despite strong initial bidding.",
+    "url": "https://www.business-standard.com/markets/news/bonfiglioli-transmissions-shares-list-at-par-to-ipo-price-despite-46x-bids-126102300255_1.html",
+    "chips": {
+      "Listing price": "₹586"
+    },
+    "trend": [
+      0.5,
+      0.55,
+      0.45,
+      0.5,
+      0.47,
+      0.52,
+      0.5
+    ],
+    "color": "B7791F",
+    "premium": false,
+    "title_hi": "भारी मांग के बावजूद Bonfiglioli Transmissions की फ्लैट लिस्टिंग, जानिए कीमत",
+    "summary_hi": "Bonfiglioli Transmissions के शेयरों ने बीएसई और नेशनल स्टॉक एक्सचेंज पर ₹586 के भाव के साथ सपाट शुरुआत की। यह कीमत इसके आईपीओ मूल्य के बिल्कुल बराबर है। हालांकि इस शेयर बिक्री को निवेशकों से जबरदस्त प्रतिक्रिया मिली थी और कुल पेशकश से 46 गुना अधिक बोलियां प्राप्त हुई थीं, फिर भी यह बिना किसी प्रीमियम के सूचीबद्ध हुआ।",
+    "why_hi": "भारी बोलियों के बावजूद फ्लैट शुरुआत।",
+    "chips_hi": {
+      "लिस्टिंग मूल्य": "₹586"
+    }
+  },
+  {
+    "v": 2,
+    "cat": "Markets",
+    "tk": "MARKETS",
     "title": "Why is Nifty recording its third longest correction in history?",
     "summary": "The Nifty index is on track to mark its third longest time-wise technical correction since January 2012, lasting a total of 160 days. Market data shows the benchmark has continued to trade below its long-term average, specifically sitting under the 200-day moving average since February 2026. This period highlights an extended phase of consolidation for the index without dropping sharply.",
     "source": "Business Standard",
@@ -536,250 +783,6 @@
     "why_hi": "इंटरनल रिव्यू और शेयर में गिरावट।",
     "chips_hi": {
       "शेयर गिरावट": "2%"
-    }
-  },
-  {
-    "v": 2,
-    "cat": "Earnings",
-    "tk": "JSW STEEL",
-    "title": "JSW Steel Q2 results preview: Adj. PAT could grow 60-110% YoY, say analysts",
-    "summary": "Analysts estimate that JSW Steel may report a significant year-on-year increase in adjusted net profit for the second quarter. Reports indicate that steady steel demand and inventory replenishment by distribution channels prior to anticipated price increases contributed to this growth outlook.",
-    "source": "Business Standard",
-    "published": "2026-10-22T09:19:15+00:00",
-    "ago": "41m",
-    "impact": "Positive",
-    "why": "Anticipated strong profit growth and resilient demand.",
-    "url": "https://www.business-standard.com/markets/news/jsw-steel-q2-results-preview-adj-pat-could-grow-60-110-yoy-say-analysts-126102200722_1.html",
-    "chips": {
-      "Adj. PAT growth": "60-110% YoY"
-    },
-    "trend": [
-      0.1,
-      0.25,
-      0.2,
-      0.5,
-      0.45,
-      0.8,
-      0.95
-    ],
-    "color": "0F766E",
-    "premium": false,
-    "title_hi": "क्या JSW Steel का Q2 मुनाफा 60 से 110 प्रतिशत बढ़ सकता है?",
-    "summary_hi": "विश्लेषकों का अनुमान है कि JSW Steel की दूसरी तिमाही में शुद्ध आय में पिछले साल की समान अवधि के मुकाबले भारी वृद्धि हो सकती है। रिपोर्ट के अनुसार, मजबूत मांग और कीमतों में संभावित बढ़ोतरी से पहले डीलरों द्वारा माल स्टॉक करने के कारण यह स्थिति बनी है।",
-    "why_hi": "मुनाफे में अनुमानित तेजी और मजबूत मांग।",
-    "chips_hi": {
-      "शुद्ध लाभ वृद्धि": "60-110% YoY"
-    }
-  },
-  {
-    "v": 2,
-    "cat": "Finance",
-    "tk": "FINANCE",
-    "title": "Sonu Sood leases out Mumbai commercial unit for ₹3.52 crore",
-    "summary": "Actor Sonu Sood has leased out a commercial property located in Versova, Mumbai, with the deal valued at ₹3.52 crore. Additionally, real estate records reveal details regarding another property transaction involving the sale of a flat by him, which amounted to ₹8.1 crore. These transactions highlight significant real estate activity surrounding the actor's properties in the city.",
-    "source": "Business Standard",
-    "published": "2026-10-22T09:15:31+00:00",
-    "ago": "45m",
-    "impact": "Neutral",
-    "why": "Property deals without direct financial impact.",
-    "url": "https://www.business-standard.com/finance/personal-finance/sonu-sood-rents-out-mumbai-commercial-unit-lease-deal-valued-at-3-52-cr-126102200702_1.html",
-    "chips": {
-      "Versova lease": "₹3.52 crore",
-      "Flat sale": "₹8.1 crore"
-    },
-    "trend": [
-      0.5,
-      0.55,
-      0.45,
-      0.5,
-      0.47,
-      0.52,
-      0.5
-    ],
-    "color": "B7791F",
-    "premium": false,
-    "title_hi": "Sonu Sood ने मुंबई में Versova कमर्शियल यूनिट ₹3.52 करोड़ में किराये पर दी",
-    "summary_hi": "अभिनेता Sonu Sood ने मुंबई के Versova इलाके में एक कमर्शियल प्रॉपर्टी किराये पर दी है, जिसकी कुल डील ₹3.52 करोड़ की है। इसके अलावा, एक अन्य संपत्ति से जुड़े दस्तावेजों से उनके एक फ्लैट की बिक्री का भी पता चला है, जिसकी कीमत ₹8.1 करोड़ थी।",
-    "why_hi": "संपत्ति के सौदों का सीधा वित्तीय असर नहीं।",
-    "chips_hi": {
-      "Versova लीज": "₹3.52 करोड़",
-      "फ्लैट बिक्री": "₹8.1 करोड़"
-    }
-  },
-  {
-    "v": 2,
-    "cat": "Companies",
-    "tk": "COMPANIES",
-    "title": "BCGCL starts construction on massive Rs 25,000 crore coal gasification project",
-    "summary": "Bharat Coal Gasification and Chemicals Ltd, a joint venture between Coal India Ltd and BHEL, has begun ground construction for its Rs 25,000 crore coal gasification project in Odisha. Most tenders for the venture have been awarded. This initiative supports India's National Coal Gasification Mission, which aims to achieve 100 million tonne of coal gasification capacity by 2030 to reduce import dependence for chemicals like LNG, urea, ammonia, and methanol.",
-    "source": "Business Standard / Press Trust of India",
-    "published": "2026-10-22T09:11:29+00:00",
-    "ago": "49m",
-    "impact": "Positive",
-    "why": "Advances large coal gasification capacity.",
-    "url": "https://www.business-standard.com/companies/news/bcgcl-begins-construction-work-on-25-000-crore-coal-gasification-project-126102200671_1.html",
-    "chips": {
-      "Project cost": "Rs 25,000 crore",
-      "Target capacity": "100 million tonne",
-      "Target year": "2030"
-    },
-    "trend": [
-      0.1,
-      0.25,
-      0.2,
-      0.5,
-      0.45,
-      0.8,
-      0.95
-    ],
-    "color": "0F766E",
-    "premium": false,
-    "hi_tries": 1,
-    "title_hi": "25,000 करोड़ के बड़े कोल गैसीफिकेशन प्रोजेक्ट पर शुरू हुआ काम",
-    "summary_hi": "Coal India और BHEL की कंपनी BCGCL ने ओडिशा में अपने विशाल कोयला गैसीफिकेशन प्रोजेक्ट पर काम शुरू कर दिया है। इससे LNG, अमोनिया और यूरिया जैसे केमिकल्स के लिए विदेशों पर निर्भरता कम होगी और देश में क्लीन एनर्जी को बढ़ावा मिलेगा।",
-    "why_hi": "देश की सबसे बड़ी कोल गैसीफिकेशन क्षमता को बढ़ावा मिलेगा।",
-    "chips_hi": {
-      "प्रोजेक्ट लागत": "₹25,000 करोड़",
-      "टारगेट क्षमता": "100 मिलियन टन",
-      "टारगेट वर्ष": "2030"
-    }
-  },
-  {
-    "v": 2,
-    "cat": "Markets",
-    "tk": "MARKETS",
-    "title": "Why did silver exchange-traded funds fall nearly 3 percent?",
-    "summary": "Several silver exchange-traded funds declined as worries about interest rate hikes outweighed the metal's safe-haven appeal. Funds managed by HDFC, Tata, SBI, Kotak, UTI, Axis, Mirae Asset, and DSP all recorded drops of over 2 percent during the session.",
-    "source": "Business Standard",
-    "published": "2026-10-22T09:00:28+00:00",
-    "ago": "1h",
-    "impact": "Negative",
-    "why": "Rate hike fears overshadowed safe-haven appeal.",
-    "url": "https://www.business-standard.com/markets/news/silver-etfs-dip-nearly-3-as-rate-hike-fears-overshadow-safe-haven-appeal-126102200681_1.html",
-    "chips": {
-      "HDFC Silver ETF drop": "2.7 per cent"
-    },
-    "trend": [
-      0.95,
-      0.85,
-      0.7,
-      0.6,
-      0.4,
-      0.3,
-      0.1
-    ],
-    "color": "9B2C2C",
-    "premium": false,
-    "title_hi": "ब्याज दर बढ़ने के डर से सिल्वर ईटीएफ में क्यों आई गिरावट?",
-    "summary_hi": "ब्याज दरों में बढ़ोतरी की आशंकाओं के चलते कई सिल्वर एक्सचेंज-traded फंड में गिरावट दर्ज की गई। एचडीएफसी, टाटा, एसबीआई, कोटक, यूटीआई, एक्सिस, मीरा एसेट और डीएसपी के सिल्वर ईटीएफ में दो प्रतिशत से अधिक की गिरावट आई।",
-    "why_hi": "ब्याज दर बढ़ने की आशंका से गिरावट।",
-    "chips_hi": {
-      "HDFC Silver ETF गिरा": "2.7 प्रतिशत"
-    }
-  },
-  {
-    "v": 2,
-    "cat": "Economy",
-    "tk": "ECONOMY",
-    "title": "Can coal gasification save India ₹1.96 trillion in import costs?",
-    "summary": "Domestic manufacturing of items linked to coal gasification might help the country cut down on foreign purchases of natural gas, urea, ammonia, and methanol. According to A&M, this shift could also assist in the creation of fresh industrial clusters and employment opportunities. Expanding local output aims to address heavy reliance on overseas supply for these essential industrial materials.",
-    "source": "Business Standard",
-    "published": "2026-10-22T09:00:27+00:00",
-    "ago": "1h",
-    "impact": "Positive",
-    "why": "Reduces imports and creates new jobs.",
-    "url": "https://www.business-standard.com/economy/news/india-coal-gasification-import-substitution-alvarez-marsal-report-126102200691_1.html",
-    "chips": {
-      "Import savings": "₹1.96 trillion"
-    },
-    "trend": [
-      0.1,
-      0.25,
-      0.2,
-      0.5,
-      0.45,
-      0.8,
-      0.95
-    ],
-    "color": "0F766E",
-    "premium": false,
-    "title_hi": "क्या कोल गैसिफिकेसन भारत के ₹1.96 लाख करोड़ के आयात बचा सकता है?",
-    "summary_hi": "कोल गैसिफिकेसन से जुड़े उत्पादों के घरेलू उत्पादन से नेचुरल गैस, यूरिया, अमोनिया और मिथेनॉल के आयात में कमी आ सकती है। ए एंड एम के अनुसार, इस बदलाव से नए औद्योगिक क्लस्टर और रोजगार भी बढ़ेंगे।",
-    "why_hi": "आयात कम होगा और रोजगार बढ़ेंगे।",
-    "chips_hi": {
-      "आयात बचत": "₹1.96 लाख करोड़"
-    }
-  },
-  {
-    "v": 2,
-    "cat": "Industry",
-    "tk": "INDUSTRY",
-    "title": "How India Post crossed the 4,000 crore revenue mark twice",
-    "summary": "The Department of Posts crossed the Rs 4,000 crore revenue mark for two consecutive quarters for the first time in its history. Union Communications Minister Jyotiraditya Scindia stated that second-quarter revenue reached Rs 4,202 crore, marking a 25 per cent growth from the previous year. Strong performance was driven by the parcel segment, Postal Life Insurance, and international business. Overall first-half revenue grew by nearly 24 per cent compared to the same period last year.",
-    "source": "Business Standard / Press Trust of India",
-    "published": "2026-10-22T08:40:01+00:00",
-    "ago": "1h",
-    "impact": "Positive",
-    "why": "Revenue and key business segments grew significantly.",
-    "url": "https://www.business-standard.com/industry/news/india-post-revenue-crosses-4-000-cr-for-second-straight-quarter-scindia-126102200613_1.html",
-    "chips": {
-      "Q2 revenue": "Rs 4,202 crore",
-      "Q2 growth": "25 per cent",
-      "Parcel growth": "71 per cent"
-    },
-    "trend": [
-      0.1,
-      0.25,
-      0.2,
-      0.5,
-      0.45,
-      0.8,
-      0.95
-    ],
-    "color": "0F766E",
-    "premium": false,
-    "title_hi": "कैसे India Post ने लगातार दूसरी बार 4,000 करोड़ का राजस्व पार किया",
-    "summary_hi": "डिपार्टमेंट ऑफ पोस्ट्स ने अपने इतिहास में पहली बार लगातार दो तिमाहियों में 4,000 करोड़ रुपये के राजस्व आंकड़े को पार कर लिया है। केंद्रीय संचार मंत्री ज्योतिरादित्य सिंधिया ने बताया कि सितंबर में समाप्त दूसरी तिमाही में राजस्व 25 प्रतिशत बढ़कर 4,202 करोड़ रुपये हो गया। पार्सल, पोस्टल लाइफ इंश्योरेंस और अंतरराष्ट्रीय कारोबार में मजबूत वृद्धि के चलते पहली छमाही का राजस्व भी पिछले साल की तुलना में लगभग 24 प्रतिशत बढ़ा है।",
-    "why_hi": "राजस्व और प्रमुख کاروبारी सेगमेंट में मजबूत वृद्धि।",
-    "chips_hi": {
-      "Q2 राजस्व": "₹4,202 करोड़",
-      "Q2 वृद्धि": "25 प्रतिशत",
-      "पार्सल वृद्धि": "71 प्रतिशत"
-    }
-  },
-  {
-    "v": 2,
-    "cat": "Markets",
-    "tk": "KEI INDUSTRIES",
-    "title": "Why did KEI Industries shares plunge 10 percent recently?",
-    "summary": "Shares of KEI Industries dropped significantly, moving close to their fifty-two-week low. Analysts at Motilal Oswal noted that while the company's earnings before interest, taxes, depreciation, and amortization for the second quarter of financial year twenty twenty-seven matched estimates, there were underlying weaknesses. The engineering, procurement, and construction division posted a loss, and margins in the cable and wire segment fell short of market expectations.",
-    "source": "Business Standard",
-    "published": "2026-10-22T05:40:47+00:00",
-    "ago": "15m",
-    "impact": "Negative",
-    "why": "Weak segment margins and EPC loss.",
-    "url": "https://www.business-standard.com/markets/news/kei-industries-share-price-plunges-10-nears-52-week-low-here-s-why-126102200355_1.html",
-    "chips": {
-      "Share price fall": "10%",
-      "Quarter": "Q2FY27"
-    },
-    "trend": [
-      0.95,
-      0.85,
-      0.7,
-      0.6,
-      0.4,
-      0.3,
-      0.1
-    ],
-    "color": "9B2C2C",
-    "premium": false,
-    "title_hi": "KEI Industries के शेयरों में 10 प्रतिशत की भारी गिरावट क्यों आई?",
-    "summary_hi": "KEI Industries के शेयरों में बड़ी गिरावट दर्ज की गई और यह अपने बावन हफ्ते के निचले स्तर के करीब पहुंच गए। Motilal Oswal के विश्लेषकों के अनुसार, कंपनी का दूसरी तिमाही का EBITDA अनुमानों के मुताबिक था, लेकिन EPC कारोबार में घाटा हुआ और C&W मार्जिन उम्मीद से कम रहा।",
-    "why_hi": "EPC घाटा और कमजोर मार्जिन।",
-    "chips_hi": {
-      "शेयर गिरावट": "10%",
-      "तिमाही": "Q2FY27"
     }
   }
 ]
