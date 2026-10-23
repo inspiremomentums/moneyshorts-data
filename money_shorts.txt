@@ -1,6 +1,244 @@
 [
   {
     "v": 2,
+    "cat": "Earnings",
+    "tk": "TORRENT PHARMA",
+    "title": "Why did Torrent Pharma's profit drop despite soaring revenue?",
+    "summary": "Torrent Pharma reported a 9.6 percent decline in its net profit for the second quarter to ₹534 crore. This drop occurred even as the company's revenue increased by 50.8 percent during the same period. Higher finance costs and depreciation exerted pressure on the overall earnings, offsetting the strong revenue growth.",
+    "source": "Business Standard",
+    "published": "2026-10-23T13:47:40+00:00",
+    "ago": "16m",
+    "impact": "Negative",
+    "why": "Higher costs weighed on net profit.",
+    "url": "https://www.business-standard.com/companies/quarterly-results/torrent-pharma-q2-profit-falls-9-6-to-534-crore-revenue-rises-51-126102301344_1.html",
+    "chips": {
+      "Net profit": "₹534 crore",
+      "Profit change": "-9.6%",
+      "Revenue growth": "50.8%"
+    },
+    "trend": [
+      0.95,
+      0.85,
+      0.7,
+      0.6,
+      0.4,
+      0.3,
+      0.1
+    ],
+    "color": "9B2C2C",
+    "premium": false,
+    "title_hi": "रेवेन्यू बढ़ने के बावजूद Torrent Pharma का मुनाफा क्यों घटा?",
+    "summary_hi": "Torrent Pharma का दूसरी तिमाही का नेट प्रॉफिट 9.6 प्रतिशत घटकर ₹534 करोड़ रह गया। यह गिरावट तब आई जब कंपनी का रेवेन्यू 50.8 प्रतिशत बढ़ गया था। अधिक वित्तीय लागत और डिप्रेशिएन के कारण कमाई पर दबाव पड़ा, जिससे मुनाफे में कमी आई।",
+    "why_hi": "बढ़े हुए खर्चों से मुनाफा कम हुआ।",
+    "chips_hi": {
+      "नेट प्रॉफिट": "₹534 करोड़",
+      "प्रॉफिट बदलाव": "-9.6%",
+      "रेवेन्यू ग्रोथ": "50.8%"
+    }
+  },
+  {
+    "v": 2,
+    "cat": "Economy",
+    "tk": "ECONOMY",
+    "title": "How will NSO expand the platform worker survey starting January?",
+    "summary": "The National Statistical Office is planning to introduce a separate sampling stratum specifically for digital platform workers. Additionally, the Periodic Labour Force Survey will feature new questions focusing on unpaid household work, caregiving responsibilities, and labour underutilisation. These upcoming survey changes and expansions are scheduled to be implemented starting from January, aiming to capture a more detailed picture of the changing employment landscape.",
+    "source": "Business Standard",
+    "published": "2026-10-23T13:38:37+00:00",
+    "ago": "25m",
+    "impact": "Neutral",
+    "why": "Survey updates do not impact fundamentals.",
+    "url": "https://www.business-standard.com/economy/news/plfs-to-expand-coverage-of-platform-workers-and-unpaid-work-from-january-126102301330_1.html",
+    "chips": {},
+    "trend": [
+      0.5,
+      0.55,
+      0.45,
+      0.5,
+      0.47,
+      0.52,
+      0.5
+    ],
+    "color": "B7791F",
+    "premium": false,
+    "hi_tries": 1
+  },
+  {
+    "v": 2,
+    "cat": "Industry",
+    "tk": "SWELECT ENERGY",
+    "title": "Swelect Energy plans a Rs 4,500 crore push into wafers",
+    "summary": "Swelect Energy has announced plans to invest Rs 4,500 crore to expand its renewable energy portfolio. The company intends to grow its independent power producer portfolio to 1 GW over the next three years. Additionally, it aims to enter the ingot and wafer manufacturing sector as part of this major expansion strategy.",
+    "source": "Business Standard",
+    "published": "2026-10-23T13:29:27+00:00",
+    "ago": "35m",
+    "impact": "Positive",
+    "why": "Expansion and new manufacturing entry.",
+    "url": "https://www.business-standard.com/industry/news/swelect-energy-plans-4-500-cr-investment-eyes-ingot-wafer-manufacturing-126102301312_1.html",
+    "chips": {
+      "Investment": "Rs 4,500 cr",
+      "Portfolio target": "1 GW"
+    },
+    "trend": [
+      0.1,
+      0.25,
+      0.2,
+      0.5,
+      0.45,
+      0.8,
+      0.95
+    ],
+    "color": "0F766E",
+    "premium": false,
+    "title_hi": "Swelect Energy की 4,500 करोड़ रुपये के निवेश की योजना",
+    "summary_hi": "Swelect Energy ने अपने नवीकरणीय ऊर्जा कारोबार को बढ़ाने के लिए 4,500 करोड़ रुपये के निवेश की योजना बनाई है। कंपनी अगले तीन वर्षों में अपने स्वतंत्र बिजली उत्पादक पोर्टफोलियो को 1 GW तक बढ़ाना चाहती है। इसके अलावा, वह इंगोट और वेफर निर्माण क्षेत्र में भी उतरने की तैयारी कर रही है।",
+    "why_hi": "विस्तार और नए निर्माण में प्रवेश।",
+    "chips_hi": {
+      "निवेश": "₹4,500 करोड़",
+      "पोर्टफोलियो लक्ष्य": "1 GW"
+    }
+  },
+  {
+    "v": 2,
+    "cat": "Finance",
+    "tk": "FINANCE",
+    "title": "Why paying only the minimum credit card bill gets costly",
+    "summary": "Clearing just the minimum due on a credit card helps skip late fees during a cash crunch. However, this practice leads to interest charges accumulating on both previous and fresh purchases. Relying on this approach can make temporary financial tightness much more expensive than expected over time.",
+    "source": "Business Standard",
+    "published": "2026-10-23T13:15:52+00:00",
+    "ago": "49m",
+    "impact": "Negative",
+    "why": "Higher interest costs on credit card purchases.",
+    "url": "https://www.business-standard.com/finance/personal-finance/paying-only-the-minimum-credit-card-bill-here-s-what-it-may-cost-you-126102301286_1.html",
+    "chips": {},
+    "trend": [
+      0.95,
+      0.85,
+      0.7,
+      0.6,
+      0.4,
+      0.3,
+      0.1
+    ],
+    "color": "9B2C2C",
+    "premium": false,
+    "title_hi": "क्रेडिट कार्ड का सिर्फ न्यूनतम बिल चुकाना क्यों महंगा पड़ता है?",
+    "summary_hi": "न्यूनतम राशि चुकाकर लेट फीस से बचा जा सकता है, लेकिन पुरानी और नई दोनों खरीद पर ब्याज लगता है। इससे पैसों की तंगी के दौरान यह आदत काफी महंगी साबित हो सकती है।",
+    "why_hi": "क्रेडिट कार्ड खरीद पर अधिक ब्याज लागत।",
+    "chips_hi": {}
+  },
+  {
+    "v": 2,
+    "cat": "Companies",
+    "tk": "IBM INDIA",
+    "title": "Why did IBM India lease space in Bengaluru for a decade?",
+    "summary": "IBM India has secured a large office space spanning 2.83 lakh square feet at a technology park in Bengaluru. The agreement lasts for ten years. The arrangement includes a monthly rent payment along with a security deposit and separate costs for interior setups.",
+    "source": "Business Standard",
+    "published": "2026-10-23T13:11:37+00:00",
+    "ago": "53m",
+    "impact": "Neutral",
+    "why": "Long-term lease without major fundamental impact.",
+    "url": "https://www.business-standard.com/companies/news/ibm-india-leases-2-83-lakh-sq-ft-at-bagmane-tech-park-in-bengaluru-126102301281_1.html",
+    "chips": {
+      "Office space": "2.83 lakh sq. ft.",
+      "Monthly rent": "₹2.49 crore",
+      "Deposit": "₹14.96 crore"
+    },
+    "trend": [
+      0.5,
+      0.55,
+      0.45,
+      0.5,
+      0.47,
+      0.52,
+      0.5
+    ],
+    "color": "B7791F",
+    "premium": false,
+    "title_hi": "IBM India ने बेंगलुरु में 10 साल के लिए क्यों लिया ऑफिस स्पेस?",
+    "summary_hi": "IBM India ने बेंगलुरु के एक टेक पार्क में 2.83 लाख वर्ग फीट जगह किराए पर ली है। यह समझौता 10 साल के लिए किया गया है। इसके तहत मासिक किराया, सिक्योरिटी डिपॉजिट और इंटीरियर का खर्च शामिल है।",
+    "why_hi": "लंबी अवधि का लीज समझौता।",
+    "chips_hi": {
+      "ऑफ़िस स्पेस": "2.83 लाख वर्ग फीट",
+      "मासिक किराया": "₹2.49 करोड़",
+      "डिपॉजिट": "₹14.96 करोड़"
+    }
+  },
+  {
+    "v": 2,
+    "cat": "Industry",
+    "tk": "INDUSTRY",
+    "title": "Why did Mumbai property registrations drop 25% during Navratri?",
+    "summary": "Mumbai witnessed a decline in property registrations, dropping to 4,680 units during Navratri 2026 compared to 6,238 units in the previous year. This marks the first such dip in three years. Additionally, property registration revenue saw a decrease of 15 percent, falling to ₹499 crore, according to data from Knight Frank.",
+    "source": "Business Standard",
+    "published": "2026-10-23T13:02:48+00:00",
+    "ago": "1h",
+    "impact": "Negative",
+    "why": "Registrations and revenue fell during Navratri.",
+    "url": "https://www.business-standard.com/industry/news/mumbai-property-registrations-fall-25-during-navratri-first-dip-in-3-yrs-126102301272_1.html",
+    "chips": {
+      "Registrations": "4,680",
+      "Previous registratio": "6,238",
+      "Revenue": "₹499 crore"
+    },
+    "trend": [
+      0.95,
+      0.85,
+      0.7,
+      0.6,
+      0.4,
+      0.3,
+      0.1
+    ],
+    "color": "9B2C2C",
+    "premium": true,
+    "title_hi": "नवरात्र के दौरान मुंबई में प्रॉपर्टी रजिस्ट्रेशन में 25% की गिरावट क्यों आई?",
+    "summary_hi": "Knight Frank के अनुसार, नवरात्र 2026 के दौरान मुंबई में प्रॉपर्टी रजिस्ट्रेशन घटकर 4,680 रह गए, जो एक साल पहले 6,238 थे। तीन साल में यह पहली बार आई गिरावट है। इसके अलावा, रजिस्ट्रेशन से होने वाला राजस्व 15 प्रतिशत घटकर ₹499 करोड़ रह गया।",
+    "why_hi": "रजिस्ट्रेशन और राजस्व में गिरावट आई।",
+    "chips_hi": {
+      "रजिस्ट्रेशन": "4,680",
+      "पिछले रजिस्ट्रेशन": "6,238",
+      "राजस्व": "₹499 करोड़"
+    }
+  },
+  {
+    "v": 2,
+    "cat": "Industry",
+    "tk": "INDUSTRY",
+    "title": "Fintech funding rounds drop 41 percent while capital raised grows",
+    "summary": "Fintech funding rounds experienced a decline of 41 per cent down to 153 deals during the January to September 2026 period. Even with this drop in the number of rounds, the total capital raised saw a 14 per cent increase, reaching $2.2 billion. This trend highlights a market shift toward established firms, while upcoming regulations like the DPDP Act could potentially create further funding pressure.",
+    "source": "Business Standard",
+    "published": "2026-10-23T13:00:49+00:00",
+    "ago": "1h",
+    "impact": "Negative",
+    "why": "Fewer funding rounds signal tighter capital access.",
+    "url": "https://www.business-standard.com/industry/banking/flight-to-safety-hits-fintech-funding-dpdp-act-may-lead-to-further-squeeze-126102301262_1.html",
+    "chips": {
+      "Decline": "41 per cent",
+      "Funding rounds": "153",
+      "Capital raised": "$2.2 billion"
+    },
+    "trend": [
+      0.95,
+      0.85,
+      0.7,
+      0.6,
+      0.4,
+      0.3,
+      0.1
+    ],
+    "color": "9B2C2C",
+    "premium": true,
+    "title_hi": "फिनटेक फंडिंग राउंड में 41 प्रतिशत की गिरावट और पूंजी बढ़ी",
+    "summary_hi": "जनवरी से सितंबर 2026 के दौरान फिनटेक फंडिंग राउंड 41 प्रतिशत घटकर 153 रह गए। इसके बावजूद जुटाई गई कुल पूंजी में 14 प्रतिशत की बढ़ोतरी हुई और यह 2.2 अरब डॉलर पर पहुंच गई। यह बदलाव स्थापित कंपनियों की ओर झुकाव को दर्शाता है, जबकि DPDP Act जैसे नियम आगे चलकर फंडिंग पर और दबाव बना सकते हैं।",
+    "why_hi": "कम फंडिंग राउंड पूंजी तक पहुंच घटने का संकेत।",
+    "chips_hi": {
+      "गिरावट": "41 प्रतिशत",
+      "फंडिंग राउंड": "153",
+      "पूंजी जुटाई गई": "$2.2 अरब"
+    }
+  },
+  {
+    "v": 2,
     "cat": "Companies",
     "tk": "MEESHO",
     "title": "Why did Meesho Mall orders triple on festive sale day?",
@@ -582,225 +820,6 @@
     "title_hi": "CDMO कंपनियां biologics और peptides पर क्यों दांव लगा रही हैं?",
     "summary_hi": "इंडस्ट्री के अधिकारियों के अनुसार, CDMO खिलाड़ियों की अगली वृद्धि बायोलॉजिक्स, पेप्टाइड्स और ड्रग-डिवाइस कॉम्बिनेशन जैसे जटिल उत्पादों पर निर्भर करती है। कंपनियां बाजार में अपने भविष्य के विस्तार को गति देने के लिए इन उन्नत क्षेत्रों पर ध्यान केंद्रित कर रही हैं।",
     "why_hi": "जटिल उत्पादों पर फोकस से विकास.",
-    "chips_hi": {}
-  },
-  {
-    "v": 2,
-    "cat": "Industry",
-    "tk": "INDUSTRY",
-    "title": "Why is FMCG stocking uneven across India before Diwali?",
-    "summary": "Ahead of Diwali, the stocking of fast-moving consumer goods across regions shows mixed trends. While higher inflation has created pressure on demand in the eastern and western parts of the country, sales of packaged food are moving up in the central and northern regions.",
-    "source": "Business Standard",
-    "published": "2026-10-22T17:45:17+00:00",
-    "ago": "8h",
-    "impact": "Neutral",
-    "why": "Mixed demand trends seen across different regions.",
-    "url": "https://www.business-standard.com/industry/news/some-pockets-of-stress-emerge-in-india-s-fmcg-demand-ahead-of-diwali-126102201722_1.html",
-    "chips": {},
-    "trend": [
-      0.5,
-      0.55,
-      0.45,
-      0.5,
-      0.47,
-      0.52,
-      0.5
-    ],
-    "color": "B7791F",
-    "premium": true,
-    "title_hi": "Diwali से पहले FMCG मांग में अलग-अलग रुख क्यों दिख रहा है?",
-    "summary_hi": "दिवाली से पहले एफएमसीजी उत्पादों की स्टॉकिंग देश के अलग-अलग हिस्सों में एक जैसी नहीं है। महंगाई के कारण पूर्वी और पश्चिमी क्षेत्रों में मांग पर असर पड़ा है, जबकि केंद्रीय और उत्तरी भारत में पैक्ड फूड की बिक्री में बढ़ोतरी दर्ज की गई है।",
-    "why_hi": "क्षेत्रों के हिसाब से मांग में अंतर।",
-    "chips_hi": {}
-  },
-  {
-    "v": 2,
-    "cat": "Finance",
-    "tk": "FINANCE",
-    "title": "Will a milder interest rate hike still strain household budgets?",
-    "summary": "Even a mild cycle of interest rate hikes might put pressure on household finances. Borrowers face the combined challenge of increased equated monthly installments, high inflation, and unpredictable wage growth. These factors together continue to create financial stress for individuals managing debt.",
-    "source": "Business Standard",
-    "published": "2026-10-22T17:36:00+00:00",
-    "ago": "8h",
-    "impact": "Negative",
-    "why": "Higher EMIs and inflation strain household budgets.",
-    "url": "https://www.business-standard.com/finance/news/shallow-rate-hike-cycle-likely-to-still-test-borrowers-this-time-126102201715_1.html",
-    "chips": {},
-    "trend": [
-      0.95,
-      0.85,
-      0.7,
-      0.6,
-      0.4,
-      0.3,
-      0.1
-    ],
-    "color": "9B2C2C",
-    "premium": true,
-    "title_hi": "क्या ब्याज दरों में हल्की बढ़ोतरी भी घरेलू बजट पर भारी पड़ेगी?",
-    "summary_hi": "ब्याज दरों में कम बढ़ोतरी का चक्र भी पारिवारिक वित्त पर दबाव बना सकता है। कर्ज लेने वालों को बढ़ी हुई मासिक किस्तों, उच्च महंगाई और अनिश्चित वेतन वृद्धि का सामना करना पड़ रहा है। ये सभी कारक मिलकर कर्ज चुकाने वाले लोगों के लिए वित्तीय तनाव पैदा कर रहे हैं।",
-    "why_hi": "बढ़ी हुई ईएमआई और महंगाई ने बजट पर दबाव डाला।",
-    "chips_hi": {}
-  },
-  {
-    "v": 2,
-    "cat": "Industry",
-    "tk": "INDUSTRY",
-    "title": "Will EPFO raise the minimum monthly pension on November 19?",
-    "summary": "The Central Board of Trustees of the EPFO is set to discuss a possible increase in the minimum monthly pension under EPS during its upcoming meeting. Scheduled for November 19 in Gujarat, this discussion comes in response to persistent demands from various trade unions and pensioners. No final decision or details regarding the hike amount have been mentioned yet, as the board will only consider the proposal during this meeting.",
-    "source": "Business Standard",
-    "published": "2026-10-22T17:30:56+00:00",
-    "ago": "8h",
-    "impact": "Neutral",
-    "why": "Meeting scheduled to discuss pension hike.",
-    "url": "https://www.business-standard.com/industry/news/epfo-board-may-consider-a-hike-in-minimum-pension-at-november-19-meeting-126101900890_1.html",
-    "chips": {},
-    "trend": [
-      0.5,
-      0.55,
-      0.45,
-      0.5,
-      0.47,
-      0.52,
-      0.5
-    ],
-    "color": "B7791F",
-    "premium": true,
-    "title_hi": "क्या 19 नवंबर को न्यूनतम मासिक पेंशन बढ़ाने पर होगा विचार?",
-    "summary_hi": "EPFO के सेंट्रल बोर्ड ऑफ ट्रस्टीज की बैठक में EPS के तहत न्यूनतम मासिक पेंशन बढ़ाने पर चर्चा होने की संभावना है। गुजरात में 19 नवंबर को होने वाली इस बैठक में यह मुद्दा ट्रेड यूनियनों और पेंशनभोगियों की लंबे समय से चली आ रही मांगों के कारण उठाया जाएगा।",
-    "why_hi": "पेंशन बढ़ाने पर चर्चा के लिए बैठक।",
-    "chips_hi": {}
-  },
-  {
-    "v": 2,
-    "cat": "Earnings",
-    "tk": "SWIGGY",
-    "title": "Swiggy Q2 loss narrows to Rs 922 crore on rising revenue",
-    "summary": "Swiggy reported its quarterly financial results, showing a narrowing net loss of Rs 922 crore, which is a 15.6 per cent improvement. The company also recorded a 36 per cent rise in revenue. Its food delivery adjusted EBITDA increased by Rs 101 crore compared to the previous year, reaching Rs 341 crore. Additionally, the gross order value for Instamart saw a sequential growth of 16.7 per cent during the same period.",
-    "source": "Business Standard",
-    "published": "2026-10-22T13:49:05+00:00",
-    "ago": "13m",
-    "impact": "Positive",
-    "why": "Losses narrowed and key revenue segments grew.",
-    "url": "https://www.business-standard.com/companies/quarterly-results/swiggy-q2-net-loss-narrows-15-6-to-922-crore-revenue-rises-36-126102201389_1.html",
-    "chips": {
-      "Net loss": "Rs 922 crore",
-      "Revenue growth": "36%",
-      "EBITDA": "Rs 341 crore"
-    },
-    "trend": [
-      0.1,
-      0.25,
-      0.2,
-      0.5,
-      0.45,
-      0.8,
-      0.95
-    ],
-    "color": "0F766E",
-    "premium": false,
-    "title_hi": "Swiggy का Q2 घाटा कम होकर ₹922 करोड़ हुआ, आय बढ़ी",
-    "summary_hi": "Swiggy ने तिमाही नतीजे जारी किए, जिसमें उसका शुद्ध घाटा 15.6 प्रतिशत घटकर ₹922 करोड़ रह गया। कंपनी की आय में 36 प्रतिशत की वृद्धि दर्ज की गई। खाद्य वितरण का समायोजित EBITDA पिछले वर्ष की तुलना में ₹101 करोड़ बढ़कर ₹341 करोड़ हो गया। इसके अलावा, Instamart का सकल ऑर्डर मूल्य पिछली तिमाही के मुकाबले 16.7 प्रतिशत बढ़कर ₹9,230 करोड़ पहुंच गया।",
-    "why_hi": "घाटा कम हुआ और राजस्व में वृद्धि हुई।",
-    "chips_hi": {
-      "शुद्ध घाटा": "₹922 करोड़",
-      "आय वृद्धि": "36%",
-      "EBITDA": "₹341 करोड़"
-    }
-  },
-  {
-    "v": 2,
-    "cat": "Economy",
-    "tk": "ECONOMY",
-    "title": "Small e-commerce sellers can access simplified GST registration from November 1",
-    "summary": "Starting November 1, small e-commerce sellers will gain access to a simplified Goods and Services Tax registration facility. This upcoming change enables these vendors to expand their business operations across different states without the need to establish physical offices in those locations. Detailed official notifications outlining the complete process and guidelines are expected to be released soon by the authorities.",
-    "source": "Business Standard",
-    "published": "2026-10-22T13:48:17+00:00",
-    "ago": "15m",
-    "impact": "Positive",
-    "why": "Facilitates multi-state expansion without physical offices.",
-    "url": "https://www.business-standard.com/economy/news/gst-registration-for-small-e-commerce-sellers-to-begin-from-november-1-126102201388_1.html",
-    "chips": {
-      "Start date": "November 1"
-    },
-    "trend": [
-      0.1,
-      0.25,
-      0.2,
-      0.5,
-      0.45,
-      0.8,
-      0.95
-    ],
-    "color": "0F766E",
-    "premium": false,
-    "title_hi": "छोटे ई-कॉमर्स विक्रेताओं के लिए 1 नवंबर से शुरू होगी जीएसटी रजिस्ट्रेशन सुविधा",
-    "summary_hi": "1 नवंबर से छोटे ई-कॉमर्स विक्रेताओं के लिए एक सरलीकृत वस्तु और सेवा कर यानी जीएसटी रजिस्ट्रेशन सुविधा शुरू की जाएगी। इस नई सुविधा से ये विक्रेता बिना किसी दूसरे राज्य में भौतिक कार्यालय स्थापित किए ही विभिन्न राज्यों में अपना कारोबार बढ़ा सकेंगे। इस व्यवस्था से जुड़ी विस्तृत आधिकारिक अधिसूचनाएं जल्द ही जारी होने की उम्मीद है।",
-    "why_hi": "बिना भौतिक कार्यालय के दूसरे राज्यों में विस्तार आसान होगा।",
-    "chips_hi": {
-      "शुरू होने की तारीख": "1 नवंबर"
-    }
-  },
-  {
-    "v": 2,
-    "cat": "Finance",
-    "tk": "FINANCE",
-    "title": "Why did the rupee snap its eight-day winning streak?",
-    "summary": "The Indian rupee weakened against the dollar, halting a winning streak that lasted eight sessions. Higher crude oil prices and dollar purchases by participants countered the foreign fund inflows associated with the Jio Platforms public offering, pushing the currency down to 94.83 against the dollar.",
-    "source": "Business Standard",
-    "published": "2026-10-22T13:42:01+00:00",
-    "ago": "25m",
-    "impact": "Neutral",
-    "why": "Mixed currency drivers balance out.",
-    "url": "https://www.business-standard.com/finance/news/rupee-snaps-eight-day-winning-streak-as-rise-in-crude-offsets-inflows-126102201371_1.html",
-    "chips": {
-      "Rupee value": "94.83"
-    },
-    "trend": [
-      0.5,
-      0.55,
-      0.45,
-      0.5,
-      0.47,
-      0.52,
-      0.5
-    ],
-    "color": "B7791F",
-    "premium": false,
-    "title_hi": "रुपये की लगातार आठ दिनों की तेजी पर विराम क्यों लगा?",
-    "summary_hi": "कच्चे तेल की कीमतों में बढ़त और डॉलर की लिवाली के कारण भारतीय रुपया अमेरिकी डॉलर के मुकाबले कमजोर हो गया और इसकी लगातार आठ सत्रों की तेजी थम गई। जियो प्लेटफॉर्म्स आईपीओ से जुड़े विदेशी फंड प्रवाह के बावजूद इन कारकों ने रुपये पर असर डाला, जिससे यह डॉलर के मुकाबले 94.83 पर आ गया।",
-    "why_hi": "मुद्रा के कारक संतुलित रहे।",
-    "chips_hi": {
-      "रुपये का मूल्य": "94.83"
-    }
-  },
-  {
-    "v": 2,
-    "cat": "Markets",
-    "tk": "MARKETS",
-    "title": "How does Sebi's new margin relief work for traders?",
-    "summary": "Market regulator Sebi has permitted margin relief for subsequent cash market trades when securities are accepted through early pay-in. This move is designed to ease the margin requirements for clients who have net sell obligations in the market.",
-    "source": "Business Standard / Press Trust of India",
-    "published": "2026-10-22T13:27:22+00:00",
-    "ago": "41m",
-    "impact": "Positive",
-    "why": "Eases margin requirements for net sellers.",
-    "url": "https://www.business-standard.com/markets/news/sebi-allows-margin-relief-on-subsequent-trades-against-early-pay-in-126102201148_1.html",
-    "chips": {},
-    "trend": [
-      0.1,
-      0.25,
-      0.2,
-      0.5,
-      0.45,
-      0.8,
-      0.95
-    ],
-    "color": "0F766E",
-    "premium": false,
-    "title_hi": "Sebi ने early pay-in पर margin relief की दी अनुमति",
-    "summary_hi": "मार्केट रेगुलेटर Sebi ने सिक्योरिटीज के early pay-in पर कैश-मार्केट के बाद के ट्रेडों के लिए margin relief की अनुमति दे दी है। इस कदम का उद्देश्य नेट सेल ऑब्लिगेशन वाले ग्राहकों के लिए मार्जिन आवश्यकताओं को आसान बनाना है।",
-    "why_hi": "नेट सेलर्स के लिए मार्जिन आवश्यकताएं आसान हुईं।",
     "chips_hi": {}
   }
 ]
