@@ -1,6 +1,185 @@
 [
   {
     "v": 2,
+    "cat": "Companies",
+    "tk": "MEESHO",
+    "title": "Why did Meesho Mall orders triple on festive sale day?",
+    "summary": "Meesho Mall witnessed a significant surge as its net merchandise value grew by 93% compared to the previous year during the June quarter. Additionally, orders recorded on the opening day of its festive sale multiplied by more than three times. This growth highlights the rising popularity and demand for branded items among consumers residing in smaller towns across the country.",
+    "source": "Business Standard",
+    "published": "2026-10-23T09:44:27+00:00",
+    "ago": "14m",
+    "impact": "Positive",
+    "why": "Higher sales and growing brand demand.",
+    "url": "https://www.business-standard.com/companies/news/meesho-s-branded-push-reaches-deeper-into-small-town-india-as-demand-grows-126102300795_1.html",
+    "chips": {
+      "NMVs growth": "93%"
+    },
+    "trend": [
+      0.1,
+      0.25,
+      0.2,
+      0.5,
+      0.45,
+      0.8,
+      0.95
+    ],
+    "color": "0F766E",
+    "premium": false,
+    "title_hi": "Meesho Mall के फेस्टिव सेल के पहले दिन ऑर्डर तीन गुना क्यों बढ़े?",
+    "summary_hi": "जून तिमाही में Meesho Mall का नेट मर्चेंडाइज वैल्यू पिछले साल के मुकाबले 93% बढ़ गया। इसके अलावा, फेस्टिव सेल के पहले दिन के ऑर्डर में तीन गुना से ज्यादा की बढ़ोतरी दर्ज की गई। छोटे शहरों में ब्रांडेड सामानों की मांग तेजी से बढ़ने के कारण यह बढ़त देखने को मिली है।",
+    "why_hi": "बिक्री में तेजी और ब्रांड की मांग बढ़ना।",
+    "chips_hi": {
+      "NMVs वृद्धि": "93%"
+    }
+  },
+  {
+    "v": 2,
+    "cat": "Earnings",
+    "tk": "BLUESTONE",
+    "title": "Why did BlueStone Jewellery stock plunge 13% in Q2?",
+    "summary": "BlueStone Jewellery shares dropped by 13 percent after the company returned to making losses during the second quarter. Despite this recent decline, the stock is still up 47 percent on a year-to-date basis and 27 percent higher over the past six months. However, the stock performance remains flat over the last year, showing a loss of nearly 2 percent.",
+    "source": "Business Standard",
+    "published": "2026-10-23T09:34:47+00:00",
+    "ago": "23m",
+    "impact": "Negative",
+    "why": "Company swung back to losses.",
+    "url": "https://www.business-standard.com/markets/news/bluestone-jewellery-stock-plunges-13-as-firm-swings-back-to-losses-in-q2-126102300774_1.html",
+    "chips": {
+      "Stock plunge": "13%",
+      "YTD gain": "47%",
+      "Six-month gain": "27%"
+    },
+    "trend": [
+      0.95,
+      0.85,
+      0.7,
+      0.6,
+      0.4,
+      0.3,
+      0.1
+    ],
+    "color": "9B2C2C",
+    "premium": false,
+    "title_hi": "Q2 में नुकसान में जाने से BlueStone Jewellery का शेयर 13% क्यों गिरा?",
+    "summary_hi": "BlueStone Jewellery के शेयरों में 13 प्रतिशत की भारी गिरावट आई है क्योंकि कंपनी दूसरी तिमाही में फिर से नुकसान में आ गई है। इस हालिया गिरावट के बावजूद, यह स्टॉक साल-दर-साल के आधार पर 47 प्रतिशत और पिछले छह महीनों में 27 प्रतिशत ऊपर है। हालांकि, पिछले एक साल में स्टॉक का प्रदर्शन सपाट रहा है और इसमें लगभग 2 प्रतिशत की गिरावट आई है।",
+    "why_hi": "कंपनी फिर से नुकसान में आई।",
+    "chips_hi": {
+      "शेयर गिरावट": "13%",
+      "YTD बढ़त": "47%",
+      "छह-महीने की बढ़त": "27%"
+    }
+  },
+  {
+    "v": 2,
+    "cat": "Earnings",
+    "tk": "WESTLIFE",
+    "title": "Westlife Foodworld surges 20 percent following second quarter performance updates",
+    "summary": "Westlife Foodworld shares jumped twenty percent and recovered significantly from their lowest point of the day after releasing their second quarter results. The growth seen during the quarter came from multiple channels and regions. This positive movement was driven by the ongoing strength of the firm's value options, new menu items, and its approach to omnichannel convenience.",
+    "source": "Business Standard",
+    "published": "2026-10-23T09:30:28+00:00",
+    "ago": "28m",
+    "impact": "Positive",
+    "why": "Strong broad-based growth reported in Q2.",
+    "url": "https://www.business-standard.com/markets/news/westlife-foodworld-soars-20-rebounds-24-from-days-low-post-q2-results-126102300727_1.html",
+    "chips": {
+      "Share price surge": "20%",
+      "Rebound from low": "24%"
+    },
+    "trend": [
+      0.1,
+      0.25,
+      0.2,
+      0.5,
+      0.45,
+      0.8,
+      0.95
+    ],
+    "color": "0F766E",
+    "premium": false,
+    "title_hi": "Q2 रिजल्ट्स के बाद Westlife Foodworld के शेयरों में 20 प्रतिशत की तेजी",
+    "summary_hi": "दूसरी तिमाही के नतीजे आने के बाद Westlife Foodworld के शेयरों में बीस प्रतिशत की जोरदार तेजी आई और यह दिन के निचले स्तर से उबर गए। कंपनी की इस तिमाही में विभिन्न क्षेत्रों और चैनलों पर व्यापक वृद्धि दर्ज की गई। इसके पीछे मेनू में नए बदलाव, वैल्यू ऑफरिंग की मजबूती और ओम्नीचैनल सुविधा रणनीति का हाथ रहा।",
+    "why_hi": "Q2 में मजबूत और व्यापक वृद्धि दर्ज हुई।",
+    "chips_hi": {
+      "शेयर में तेजी": "20%",
+      "निचले स्तर से रिकवरी": "24%"
+    }
+  },
+  {
+    "v": 2,
+    "cat": "Earnings",
+    "tk": "SHREE CEMENT",
+    "title": "How did Shree Cement bounce back despite a net profit drop?",
+    "summary": "Shree Cement saw its stock rise over 5% from the day's lowest point following its second-quarter financial update. The company posted a 15.2% year-on-year decline in consolidated net profit, totaling 263 crore rupees. At the same time, operations generated a revenue of 5,897 crore rupees, marking a 23.9% increase compared to the same period in the previous year.",
+    "source": "Business Standard",
+    "published": "2026-10-23T09:16:06+00:00",
+    "ago": "43m",
+    "impact": "Neutral",
+    "why": "Profit fell despite rising revenue.",
+    "url": "https://www.business-standard.com/markets/news/shree-cement-rebounds-gains-over-5-from-day-s-low-post-q2-results-126102300733_1.html",
+    "chips": {
+      "Net profit drop": "15.2% YoY",
+      "Net profit": "₹263 crore",
+      "Revenue": "₹5,897 crore"
+    },
+    "trend": [
+      0.5,
+      0.55,
+      0.45,
+      0.5,
+      0.47,
+      0.52,
+      0.5
+    ],
+    "color": "B7791F",
+    "premium": false,
+    "title_hi": "मुफे मुनाफे में गिरावट के बावजूद Shree Cement के शेयरों में तेजी क्यों आई?",
+    "summary_hi": "Shree Cement के शेयरों में निचले स्तर से 5% से अधिक की बढ़त दर्ज की गई। कंपनी ने चालू वित्त वर्ष की दूसरी तिमाही में 263 करोड़ रुपये का समेकित शुद्ध लाभ दर्ज किया, जो पिछले वर्ष की तुलना में 15.2% कम है। हालांकि, इस दौरान परिचालन से होने वाला राजस्व 23.9% बढ़कर 5,897 करोड़ रुपये पर पहुंच गया।",
+    "why_hi": "मुनाफा घटने पर भी राजस्व बढ़ा।",
+    "chips_hi": {
+      "शुद्ध लाभ गिरावट": "15.2% YoY",
+      "शुद्ध लाभ": "₹263 करोड़",
+      "राजस्व": "₹5,897 करोड़"
+    }
+  },
+  {
+    "v": 2,
+    "cat": "Economy",
+    "tk": "ECONOMY",
+    "title": "Adani Total Gas hikes CNG prices by ₹4.45/kg amid rising procurement costs",
+    "summary": "Adani Total Gas Limited has increased the price of Compressed Natural Gas by Rs 4.45 for every kilogram. The company stated that higher procurement costs caused this revision. These increased expenses are driven by rising global Liquefied Natural Gas prices, lower domestic gas availability, and supply reductions from upstream sources. Following this change, CNG prices have reached Rs 98.47 per kg in Ahmedabad, Rs 102.60 per kg in Faridabad, and Rs 100 per kg in Jalandhar.",
+    "source": "Business Standard / Press Trust of India",
+    "published": "2026-10-23T09:11:44+00:00",
+    "ago": "48m",
+    "impact": "Negative",
+    "why": "Higher procurement costs can hurt margins.",
+    "url": "https://www.business-standard.com/economy/news/adani-total-gas-hikes-cng-prices-by-4-45-kg-amid-rising-procurement-costs-126102300700_1.html",
+    "chips": {
+      "CNG price hike": "Rs 4.45/kg",
+      "Ahmedabad CNG price": "Rs 98.47/kg",
+      "Faridabad CNG price": "Rs 102.60/kg"
+    },
+    "trend": [
+      0.95,
+      0.85,
+      0.7,
+      0.6,
+      0.4,
+      0.3,
+      0.1
+    ],
+    "color": "9B2C2C",
+    "premium": false,
+    "title_hi": "Adani Total Gas ने CNG के दाम क्यों बढ़ाए?",
+    "summary_hi": "Adani Total Gas Limited ने कंप्रेस्ड नेचुरल गैस यानी CNG की कीमतों में 4.45 रुपये प्रति किलोग्राम की बढ़ोतरी की है। कंपनी का कहना है कि अंतरराष्ट्रीय बाजार में गैस की ऊंची कीमतों और घरेलू स्तर पर गैस की कम उपलब्धता के कारण खरीद लागत बढ़ गई है, जिसकी वजह से दाम बढ़ाने पड़े हैं। इस संशोधन के बाद अहमदाबाद में CNG की नई कीमत 98.47 रुपये प्रति किलोग्राम हो गई है।",
+    "why_hi": "बढ़ी हुई खरीद लागत से मुनाफा घटेगा।",
+    "chips_hi": {
+      "CNG मूल्य वृद्धि": "₹4.45/kg",
+      "अहमदाबाद CNG कीमत": "₹98.47/kg",
+      "फरीदाबाद CNG कीमत": "₹102.60/kg"
+    }
+  },
+  {
+    "v": 2,
     "cat": "Markets",
     "tk": "MARKETS",
     "title": "Small-caps may outpace large-caps with 30 percent earnings growth",
@@ -623,166 +802,5 @@
     "summary_hi": "मार्केट रेगुलेटर Sebi ने सिक्योरिटीज के early pay-in पर कैश-मार्केट के बाद के ट्रेडों के लिए margin relief की अनुमति दे दी है। इस कदम का उद्देश्य नेट सेल ऑब्लिगेशन वाले ग्राहकों के लिए मार्जिन आवश्यकताओं को आसान बनाना है।",
     "why_hi": "नेट सेलर्स के लिए मार्जिन आवश्यकताएं आसान हुईं।",
     "chips_hi": {}
-  },
-  {
-    "v": 2,
-    "cat": "Industry",
-    "tk": "EMUDHRA",
-    "title": "Why is eMudhra stepping away from the global certificate business?",
-    "summary": "Digital security company eMudhra has announced its decision to voluntarily step down from the global SSL and TLS certificate business. This move follows the discovery of certain vulnerabilities within its certificates. The security flaws raised notable concerns regarding digital safety standards, prompting the company to completely withdraw from this specific international market segment.",
-    "source": "Business Standard / Reuters",
-    "published": "2026-10-22T13:26:31+00:00",
-    "ago": "43m",
-    "impact": "Negative",
-    "why": "Security flaws prompt business exit.",
-    "url": "https://www.business-standard.com/industry/news/emudhra-to-exit-global-ssl-tls-certificate-business-after-security-flaws-126102201129_1.html",
-    "chips": {},
-    "trend": [
-      0.95,
-      0.85,
-      0.7,
-      0.6,
-      0.4,
-      0.3,
-      0.1
-    ],
-    "color": "9B2C2C",
-    "premium": false,
-    "title_hi": "eMudhra ने क्यों छोड़ा ग्लोबल सर्टिफिकेट बिजनेस?",
-    "summary_hi": "डिजिटल सिक्योरिटी कंपनी eMudhra ने अपने ग्लोबल SSL और TLS सर्टिफिकेट बिजनेस से स्वेच्छा से बाहर होने का फैसला किया है। उसके सर्टिफिकेट्स में कुछ कमियां मिलने के बाद यह कदम उठाया गया है। इन कमियों की वजह से डिजिटल सुरक्षा को लेकर चिंताएं बढ़ गई थीं, जिसके बाद कंपनी ने इस अंतरराष्ट्रीय सेगमेंट से हटने की घोषणा की है।",
-    "why_hi": "सुरक्षा खामियों के कारण बिजनेस बंद।",
-    "chips_hi": {}
-  },
-  {
-    "v": 2,
-    "cat": "Economy",
-    "tk": "ECONOMY",
-    "title": "India allows 6,500 tonnes of silver imports amid weak demand",
-    "summary": "India has given permission for the import of roughly 6,500 metric tons of silver over a period of six months. This decision comes even though domestic demand for the metal remains weak. The move is anticipated to bring down local premiums within the country while simultaneously providing support to silver prices globally.",
-    "source": "Business Standard / Reuters",
-    "published": "2026-10-22T13:14:14+00:00",
-    "ago": "57m",
-    "impact": "Neutral",
-    "why": "Imports allowed despite weak demand.",
-    "url": "https://www.business-standard.com/economy/news/india-permits-6-500-tonnes-of-silver-imports-despite-weak-demand-126102201297_1.html",
-    "chips": {
-      "Silver imports": "6,500 metric tons"
-    },
-    "trend": [
-      0.5,
-      0.55,
-      0.45,
-      0.5,
-      0.47,
-      0.52,
-      0.5
-    ],
-    "color": "B7791F",
-    "premium": false,
-    "title_hi": "कम मांग के बावजूद भारत ने दी 6,500 टन चांदी आयात की अनुमति",
-    "summary_hi": "भारत ने घरेलू मांग कमजोर होने के बावजूद छह महीने की अवधि में लगभग 6,500 मीट्रिक टन चांदी के आयात की अनुमति दे दी है। इस कदम से स्थानीय प्रीमियम में नरमी आने और वैश्विक कीमतों को समर्थन मिलने की उम्मीद है।",
-    "why_hi": "कम मांग के बावजूद आयात की अनुमति।",
-    "chips_hi": {
-      "चांदी आयात": "6,500 मीट्रिक टन"
-    }
-  },
-  {
-    "v": 2,
-    "cat": "Earnings",
-    "tk": "HPCL",
-    "title": "HPCL Q2 profit falls 9% to ₹3,483 cr on higher costs, tax expenses",
-    "summary": "Hindustan Petroleum Corporation reported a 9 percent decline in its net profit for the second quarter, totaling ₹3,483 crore. The drop happened because of increased crude oil prices and higher tax expenses which impacted margins. This occurred even though product sales grew significantly by 26.2 percent to reach ₹1.39 trillion during the same period.",
-    "source": "Business Standard / Reuters",
-    "published": "2026-10-22T12:43:02+00:00",
-    "ago": "1h",
-    "impact": "Negative",
-    "why": "Profit fell due to rising costs.",
-    "url": "https://www.business-standard.com/companies/quarterly-results/hpcl-q2-profit-falls-9-to-3-483-cr-on-higher-costs-tax-expenses-126102201213_1.html",
-    "chips": {
-      "Net profit": "₹3,483 crore",
-      "Product sales": "₹1.39 trillion"
-    },
-    "trend": [
-      0.95,
-      0.85,
-      0.7,
-      0.6,
-      0.4,
-      0.3,
-      0.1
-    ],
-    "color": "9B2C2C",
-    "premium": false,
-    "hi_tries": 2
-  },
-  {
-    "v": 2,
-    "cat": "Earnings",
-    "tk": "ADANI TOTAL GAS",
-    "title": "Adani Total Gas Q2 profit inches up 3 percent on higher sales",
-    "summary": "Adani Total Gas reported a 3 percent rise in net profit for the second quarter, reaching 167 crore rupees. The company's revenue saw a sharp jump of 34 percent to 2,102 crore rupees. This performance was supported by increased sales of compressed natural gas and piped natural gas, even as the cost of natural gas went up by 43 percent during the same period.",
-    "source": "Business Standard / Press Trust of India",
-    "published": "2026-10-22T12:41:49+00:00",
-    "ago": "1h",
-    "impact": "Positive",
-    "why": "Profit and revenue both showed growth.",
-    "url": "https://www.business-standard.com/companies/quarterly-results/adani-total-gas-q2-profit-rises-3-to-167-cr-as-revenue-jumps-34-126102201242_1.html",
-    "chips": {
-      "Net profit": "₹167 crore",
-      "Revenue": "₹2,102 crore",
-      "Gas cost rise": "43%"
-    },
-    "trend": [
-      0.1,
-      0.25,
-      0.2,
-      0.5,
-      0.45,
-      0.8,
-      0.95
-    ],
-    "color": "0F766E",
-    "premium": false,
-    "title_hi": "Adani Total Gas का Q2 मुनाफा 3 प्रतिशत बढ़ा, जानिए मुख्य आंकड़े",
-    "summary_hi": "Adani Total Gas का दूसरी तिमाही का शुद्ध मुनाफा 3 प्रतिशत बढ़कर 167 करोड़ रुपये पर पहुंच गया। इस दौरान कंपनी का राजस्व 34 प्रतिशत की छलांग के साथ 2,102 करोड़ रुपये हो गया। सीएनजी और पीएनजी की अधिक बिक्री के दम पर यह बढ़ोतरी दर्ज की गई, हालांकि प्राकृतिक गैस की लागत में 43 प्रतिशत की तेजी भी आई थी।",
-    "why_hi": "मुनाफे और राजस्व में बढ़ोतरी हुई।",
-    "chips_hi": {
-      "शुद्ध मुनाफा": "₹167 करोड़",
-      "राजस्व": "₹2,102 करोड़",
-      "गैस लागत वृद्धि": "43%"
-    }
-  },
-  {
-    "v": 2,
-    "cat": "Markets",
-    "tk": "HDFC BANK",
-    "title": "Why is HDFC Bank stock dipping amid an internal review?",
-    "summary": "Shares of HDFC Bank declined by two percent on high trading volume, marking a third consecutive day of losses. This downward movement follows reports that the bank started an internal review concerning two senior executives. The review relates to allegations that confidential information was shared with outsiders.",
-    "source": "Business Standard",
-    "published": "2026-10-22T09:42:40+00:00",
-    "ago": "17m",
-    "impact": "Negative",
-    "why": "Internal review and falling stock price.",
-    "url": "https://www.business-standard.com/markets/news/hdfc-bank-stock-dips-2-on-huge-volume-trades-lower-for-third-straight-day-126102200723_1.html",
-    "chips": {
-      "Stock dip": "2%"
-    },
-    "trend": [
-      0.95,
-      0.85,
-      0.7,
-      0.6,
-      0.4,
-      0.3,
-      0.1
-    ],
-    "color": "9B2C2C",
-    "premium": false,
-    "title_hi": "इंटरनल रिव्यू के बीच HDFC Bank का शेयर क्यों गिरा?",
-    "summary_hi": "HDFC Bank के शेयरों में भारी वॉल्यूम के साथ दो प्रतिशत की गिरावट दर्ज की गई, जिससे लगातार तीसरे दिन शेयर नीचे कारोबार करते दिखे। रिपोर्ट्स के मुताबिक, बैंक ने दो सीनियर अधिकारियों द्वारा बाहरी लोगों के साथ गोपनीय जानकारी कथित तौर पर साझा किए जाने को लेकर एक आंतरिक समीक्षा शुरू की है।",
-    "why_hi": "इंटरनल रिव्यू और शेयर में गिरावट।",
-    "chips_hi": {
-      "शेयर गिरावट": "2%"
-    }
   }
 ]
