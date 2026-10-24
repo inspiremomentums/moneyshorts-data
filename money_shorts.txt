@@ -1,6 +1,70 @@
 [
   {
     "v": 2,
+    "cat": "Industry",
+    "tk": "INDUSTRY",
+    "title": "FICCI Seeks Deeper Dutch Ties in Indian Manufacturing and Technology",
+    "summary": "Industry body FICCI has invited increased investment from the Netherlands into India's manufacturing and technology sectors. FICCI Secretary General Anant Swarup noted that Commerce and Industry Minister Piyush Goyal's current visit to the Netherlands can help convert investment talks into actual projects. The chamber emphasized four priority areas, including manufacturing partnerships, technology collaborations, supply chain integration, and project tracking, while encouraging joint ventures and capacity expansion in engineering, equipment, and food processing.",
+    "source": "Business Standard / Press Trust of India",
+    "published": "2026-10-24T11:36:45+00:00",
+    "ago": "2h",
+    "impact": "Positive",
+    "why": "Boosts foreign investment and bilateral partnerships.",
+    "url": "https://www.business-standard.com/industry/news/ficci-seeks-greater-dutch-investment-in-india-s-mfg-tech-sectors-126102400738_1.html",
+    "chips": {},
+    "trend": [
+      0.1,
+      0.25,
+      0.2,
+      0.5,
+      0.45,
+      0.8,
+      0.95
+    ],
+    "color": "0F766E",
+    "premium": false,
+    "hi_tries": 1
+  },
+  {
+    "v": 2,
+    "cat": "Earnings",
+    "tk": "COMPANIES",
+    "title": "JK Cement posts 6.3% profit rise as revenue jumps on volume gains",
+    "summary": "JK Cement reported a 6.31 percent increase in consolidated net profit to Rs 169.3 crore for the September quarter of FY2026-27, driven by volume gains and higher profitability despite cost pressures. Revenue from operations rose 23.65 percent to Rs 3,733.42 crore compared to the year-ago period. Grey cement sales volume grew 21 percent to 5.37 million tonnes, while white cement volume increased 13 percent to 0.49 million tonnes. Total expenses rose 24.34 percent to Rs 3,515.71 crore.",
+    "source": "Business Standard / Press Trust of India",
+    "published": "2026-10-24T11:27:03+00:00",
+    "ago": "2h",
+    "impact": "Positive",
+    "why": "Higher profit and revenue growth.",
+    "url": "https://www.business-standard.com/companies/quarterly-results/jk-cement-q2fy27-result-profit-rises-6-3-pc-to-rs-169-cr-126102400740_1.html",
+    "chips": {
+      "Net profit": "Rs 169.3 crore",
+      "Revenue": "Rs 3,733.42 crore",
+      "Grey cement sales": "5.37 MT"
+    },
+    "trend": [
+      0.1,
+      0.25,
+      0.2,
+      0.5,
+      0.45,
+      0.8,
+      0.95
+    ],
+    "color": "0F766E",
+    "premium": false,
+    "hi_tries": 1,
+    "title_hi": "JK Cement का मुनाफा बढ़ा, बिक्री में जोरदार उछाल",
+    "summary_hi": "JK Cement का सितंबर तिमाही में कंसोलिडेटेड मुनाफा 6.31 प्रतिशत बढ़कर 169.3 करोड़ रुपये हो गया है। बिक्री बढ़ने से कंपनी के मुनाफे में यह बढ़त आई है। इस दौरान ऑपरेशनल रेवेन्यू भी 23.65 प्रतिशत बढ़कर 3,733.42 करोड़ रुपये पर पहुंच गया। ग्रे सीमेंट और व्हाइट सीमेंट दोनों की बिक्री में अच्छी तेजी दर्ज की गई है।",
+    "why_hi": "मजबूत बिक्री और वॉल्यूम बढ़ने के कारण कंपनी का मुनाफा और रेवेन्यू दोनों बढ़े हैं",
+    "chips_hi": {
+      "नेट प्रॉफिट": "₹169.3 करोड़",
+      "रेवेन्यू": "₹3,733.42 करोड़",
+      "ग्रे सीमेंट बिक्री": "5.37 MT"
+    }
+  },
+  {
+    "v": 2,
     "cat": "Earnings",
     "tk": "COMPANIES",
     "title": "Why did BPCL profit drop 22.5% despite higher revenue?",
@@ -27,7 +91,7 @@
     ],
     "color": "9B2C2C",
     "premium": false,
-    "hi_tries": 1
+    "hi_tries": 2
   },
   {
     "v": 2,
@@ -423,6 +487,43 @@
   },
   {
     "v": 2,
+    "cat": "Earnings",
+    "tk": "COFORGE",
+    "title": "Coforge Q2 results: Net profit surges 56.5% to ₹588 cr, revenue up 53.6%",
+    "summary": "Coforge reported a 56.5 percent rise in consolidated net profit to Rs 588 crore for the second quarter ending September 30, 2026, compared to Rs 375.8 crore a year ago. Revenue from operations increased by 53.6 percent to Rs 6,171 crore from Rs 4,016 crore. Growth was driven by AI-led execution in fixed-price projects. The firm signed 8 large deals with a total contract value of USD 1.04 billion and raised its operational profit margin guidance to 17 percent.",
+    "source": "Business Standard / Press Trust of India",
+    "published": "2026-10-23T18:01:49+00:00",
+    "ago": "19h",
+    "impact": "Positive",
+    "why": "Higher profit, revenue, and deal wins.",
+    "url": "https://www.business-standard.com/companies/news/coforge-q2-results-net-profit-surges-56-5-to-588-cr-revenue-up-53-6-126102301329_1.html",
+    "chips": {
+      "Net profit": "Rs 588 crore",
+      "Revenue": "Rs 6,171 crore",
+      "New orders": "USD 1.04 billion"
+    },
+    "trend": [
+      0.1,
+      0.25,
+      0.2,
+      0.5,
+      0.45,
+      0.8,
+      0.95
+    ],
+    "color": "0F766E",
+    "premium": false,
+    "title_hi": "Coforge का शुद्ध मुनाफा दूसरी तिमाही में 56.5 प्रतिशत क्यों बढ़ा?",
+    "summary_hi": "30 सितंबर 2026 को समाप्त दूसरी तिमाही में Coforge का समेकित शुद्ध मुनाफा 56.5 प्रतिशत बढ़कर ₹588 करोड़ हो गया, जबकि पिछले साल यह ₹375.8 करोड़ था। संचालन से प्राप्त राजस्व 53.6 प्रतिशत बढ़कर ₹6,171 करोड़ पहुंच गया। एआई आधारित काम और बड़े सौदों से यह बढ़त आई। कंपनी ने ₹1.04 अरब डॉलर के नए ऑर्डर हासिल किए और अगले साल के लिए परिचालन मार्जिन अनुमान को बढ़ाकर 17 प्रतिशत कर दिया।",
+    "why_hi": "मुनाफे, राजस्व और नए ऑर्डर में वृद्धि।",
+    "chips_hi": {
+      "शुद्ध मुनाफा": "₹588 करोड़",
+      "राजस्व": "₹6,171 करोड़",
+      "नए ऑर्डर": "USD 1.04 अरब"
+    }
+  },
+  {
+    "v": 2,
     "cat": "Finance",
     "tk": "FINANCE",
     "title": "What are the new financial stability risks flagged by FSDC?",
@@ -678,104 +779,6 @@
       "मिडकैप गिरावट": "5.6%",
       "स्मॉलकैप गिरावट": "7.3%",
       "समय अवधि": "20 महीने"
-    }
-  },
-  {
-    "v": 2,
-    "cat": "Earnings",
-    "tk": "TORRENT PHARMA",
-    "title": "Why did Torrent Pharma's profit drop despite soaring revenue?",
-    "summary": "Torrent Pharma reported a 9.6 percent decline in its net profit for the second quarter to ₹534 crore. This drop occurred even as the company's revenue increased by 50.8 percent during the same period. Higher finance costs and depreciation exerted pressure on the overall earnings, offsetting the strong revenue growth.",
-    "source": "Business Standard",
-    "published": "2026-10-23T13:47:40+00:00",
-    "ago": "16m",
-    "impact": "Negative",
-    "why": "Higher costs weighed on net profit.",
-    "url": "https://www.business-standard.com/companies/quarterly-results/torrent-pharma-q2-profit-falls-9-6-to-534-crore-revenue-rises-51-126102301344_1.html",
-    "chips": {
-      "Net profit": "₹534 crore",
-      "Profit change": "-9.6%",
-      "Revenue growth": "50.8%"
-    },
-    "trend": [
-      0.95,
-      0.85,
-      0.7,
-      0.6,
-      0.4,
-      0.3,
-      0.1
-    ],
-    "color": "9B2C2C",
-    "premium": false,
-    "title_hi": "रेवेन्यू बढ़ने के बावजूद Torrent Pharma का मुनाफा क्यों घटा?",
-    "summary_hi": "Torrent Pharma का दूसरी तिमाही का नेट प्रॉफिट 9.6 प्रतिशत घटकर ₹534 करोड़ रह गया। यह गिरावट तब आई जब कंपनी का रेवेन्यू 50.8 प्रतिशत बढ़ गया था। अधिक वित्तीय लागत और डिप्रेशिएन के कारण कमाई पर दबाव पड़ा, जिससे मुनाफे में कमी आई।",
-    "why_hi": "बढ़े हुए खर्चों से मुनाफा कम हुआ।",
-    "chips_hi": {
-      "नेट प्रॉफिट": "₹534 करोड़",
-      "प्रॉफिट बदलाव": "-9.6%",
-      "रेवेन्यू ग्रोथ": "50.8%"
-    }
-  },
-  {
-    "v": 2,
-    "cat": "Economy",
-    "tk": "ECONOMY",
-    "title": "How will NSO expand the platform worker survey starting January?",
-    "summary": "The National Statistical Office is planning to introduce a separate sampling stratum specifically for digital platform workers. Additionally, the Periodic Labour Force Survey will feature new questions focusing on unpaid household work, caregiving responsibilities, and labour underutilisation. These upcoming survey changes and expansions are scheduled to be implemented starting from January, aiming to capture a more detailed picture of the changing employment landscape.",
-    "source": "Business Standard",
-    "published": "2026-10-23T13:38:37+00:00",
-    "ago": "25m",
-    "impact": "Neutral",
-    "why": "Survey updates do not impact fundamentals.",
-    "url": "https://www.business-standard.com/economy/news/plfs-to-expand-coverage-of-platform-workers-and-unpaid-work-from-january-126102301330_1.html",
-    "chips": {},
-    "trend": [
-      0.5,
-      0.55,
-      0.45,
-      0.5,
-      0.47,
-      0.52,
-      0.5
-    ],
-    "color": "B7791F",
-    "premium": false,
-    "hi_tries": 2
-  },
-  {
-    "v": 2,
-    "cat": "Industry",
-    "tk": "SWELECT ENERGY",
-    "title": "Swelect Energy plans a Rs 4,500 crore push into wafers",
-    "summary": "Swelect Energy has announced plans to invest Rs 4,500 crore to expand its renewable energy portfolio. The company intends to grow its independent power producer portfolio to 1 GW over the next three years. Additionally, it aims to enter the ingot and wafer manufacturing sector as part of this major expansion strategy.",
-    "source": "Business Standard",
-    "published": "2026-10-23T13:29:27+00:00",
-    "ago": "35m",
-    "impact": "Positive",
-    "why": "Expansion and new manufacturing entry.",
-    "url": "https://www.business-standard.com/industry/news/swelect-energy-plans-4-500-cr-investment-eyes-ingot-wafer-manufacturing-126102301312_1.html",
-    "chips": {
-      "Investment": "Rs 4,500 cr",
-      "Portfolio target": "1 GW"
-    },
-    "trend": [
-      0.1,
-      0.25,
-      0.2,
-      0.5,
-      0.45,
-      0.8,
-      0.95
-    ],
-    "color": "0F766E",
-    "premium": false,
-    "title_hi": "Swelect Energy की 4,500 करोड़ रुपये के निवेश की योजना",
-    "summary_hi": "Swelect Energy ने अपने नवीकरणीय ऊर्जा कारोबार को बढ़ाने के लिए 4,500 करोड़ रुपये के निवेश की योजना बनाई है। कंपनी अगले तीन वर्षों में अपने स्वतंत्र बिजली उत्पादक पोर्टफोलियो को 1 GW तक बढ़ाना चाहती है। इसके अलावा, वह इंगोट और वेफर निर्माण क्षेत्र में भी उतरने की तैयारी कर रही है।",
-    "why_hi": "विस्तार और नए निर्माण में प्रवेश।",
-    "chips_hi": {
-      "निवेश": "₹4,500 करोड़",
-      "पोर्टफोलियो लक्ष्य": "1 GW"
     }
   }
 ]
