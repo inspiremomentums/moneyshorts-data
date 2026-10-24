@@ -2,6 +2,261 @@
   {
     "v": 2,
     "cat": "Earnings",
+    "tk": "COMPANIES",
+    "title": "Why did BPCL profit drop 22.5% despite higher revenue?",
+    "summary": "Bharat Petroleum Corporation Ltd reported a decline in second quarter net profit to Rs 4,993 crore compared to the previous year. Revenue from operations increased to Rs 1.58 lakh crore, while EBITDA dropped nearly 14 per cent. Earnings were impacted as gains from higher gross refining margins were wiped out by losses from a retail fuel price freeze during rising costs.",
+    "source": "Business Standard / Press Trust of India",
+    "published": "2026-10-24T09:41:53+00:00",
+    "ago": "12m",
+    "impact": "Negative",
+    "why": "Retail price freeze lowered quarterly earnings.",
+    "url": "https://www.business-standard.com/companies/quarterly-results/bpcl-q2-profit-falls-22-5-to-4-993-cr-as-fuel-price-freeze-hits-earnings-126102400659_1.html",
+    "chips": {
+      "Net profit": "Rs 4,993 crore",
+      "Revenue": "Rs 1.58 lakh crore",
+      "EBITDA": "Rs 9,437 crore"
+    },
+    "trend": [
+      0.95,
+      0.85,
+      0.7,
+      0.6,
+      0.4,
+      0.3,
+      0.1
+    ],
+    "color": "9B2C2C",
+    "premium": false,
+    "hi_tries": 1
+  },
+  {
+    "v": 2,
+    "cat": "Markets",
+    "tk": "MARKETS",
+    "title": "Sebi examines short selling rules and plans artificial intelligence sandbox",
+    "summary": "The market regulator is reviewing short selling and securities lending and borrowing rules. It also plans to introduce an artificial intelligence sandbox and bond market-making measures. Additionally, the regulator is finalising responsible artificial intelligence guidelines, creating graded compliance norms for brokers, and working on steps to improve supervision and capital efficiency.",
+    "source": "Business Standard",
+    "published": "2026-10-24T09:21:21+00:00",
+    "ago": "33m",
+    "impact": "Neutral",
+    "why": "Regulatory updates across multiple market segments.",
+    "url": "https://www.business-standard.com/markets/news/sebi-short-selling-slb-ai-sandbox-market-making-tuhin-kanta-pandey-126102400650_1.html",
+    "chips": {},
+    "trend": [
+      0.5,
+      0.55,
+      0.45,
+      0.5,
+      0.47,
+      0.52,
+      0.5
+    ],
+    "color": "B7791F",
+    "premium": false,
+    "title_hi": "Sebi ने शॉर्ट सेलिंग नियमों की समीक्षा की और AI सैंडबॉक्स की योजना बनाई",
+    "summary_hi": "बाजार नियामक शॉर्ट सेलिंग और सिक्योरिटीज लेंडिंग एवं बॉरोइंग नियमों की समीक्षा कर रहा है। इसके साथ ही, एक आर्टिफिशियल इंटेलिजेंस सैंडबॉक्स और बॉन्ड मार्केट-मार्किंग उपाय लाने की योजना है। इसके अलावा, नियामक जिम्मेदार आर्टिफिशियल इंटेलिजेंस दिशा-निर्देशों को अंतिम रूप दे रहा है, ब्रोकरों के लिए श्रेणीबद्ध अनुपालन मानदंड विकसित कर रहा है, और पूंजी दक्षता व निगरानी में सुधार के उपायों पर काम कर रहा है।",
+    "why_hi": "विभिन्न बाजार खंडों में विनियामक बदलाव।",
+    "chips_hi": {}
+  },
+  {
+    "v": 2,
+    "cat": "Earnings",
+    "tk": "KOTAK MAHINDRA",
+    "title": "How did Kotak Mahindra Bank grow its Q2 net profit?",
+    "summary": "Kotak Mahindra Bank reported a 26 percent increase in its consolidated net profit for the second quarter, reaching 5,645 crore rupees. The bank's standalone profit grew by 29 percent, supported by a 16 percent rise in net interest income and lower provisions. Meanwhile, large FCNR(B) inflows caused the net interest margin to decline to 4.31 percent.",
+    "source": "Business Standard",
+    "published": "2026-10-24T09:11:41+00:00",
+    "ago": "43m",
+    "impact": "Positive",
+    "why": "Higher standalone profit and net interest income.",
+    "url": "https://www.business-standard.com/companies/quarterly-results/kotak-mahindra-bank-q2-fy27-profit-nii-fcnr-deposits-asset-quality-126102400637_1.html",
+    "chips": {
+      "Consolidated net pro": "Rs 5,645 crore",
+      "Consolidated profit ": "26%",
+      "Net interest margin": "4.31%"
+    },
+    "trend": [
+      0.1,
+      0.25,
+      0.2,
+      0.5,
+      0.45,
+      0.8,
+      0.95
+    ],
+    "color": "0F766E",
+    "premium": false,
+    "title_hi": "Kotak Mahindra Bank का Q2 शुद्ध लाभ कैसे बढ़ा?",
+    "summary_hi": "Kotak Mahindra Bank का दूसरी तिमाही का कंसोलिडेटेड शुद्ध लाभ 26 प्रतिशत बढ़कर 5,645 करोड़ रुपये हो गया। नेट इंटरेस्ट इनकम में 16 प्रतिशत की वृद्धि और कम प्रावधानों के कारण स्टैंडअलोन लाभ में 29 प्रतिशत की बढ़ोतरी हुई। हालांकि, अधिक FCNR(B) इनफ्लो की वजह से नेट इंटरेस्ट मार्जिन घटकर 4.31 प्रतिशत पर आ गया।",
+    "why_hi": "स्टैंडअलोन लाभ और आय में वृद्धि हुई।",
+    "chips_hi": {
+      "कंसोलिडेटेड शुद्ध ला": "₹5,645 करोड़",
+      "कंसोलिडेटेड लाभ वृद्": "26%",
+      "नेट इंटरेस्ट मार्जिन": "4.31%"
+    }
+  },
+  {
+    "v": 2,
+    "cat": "Industry",
+    "tk": "INDUSTRY",
+    "title": "Wheat acreage expected to hold steady despite deficient monsoon rainfall",
+    "summary": "Despite weak monsoon rainfall, wheat acreage is likely to remain steady. Officials attribute this expectation to adequate irrigation and favorable soil moisture in key growing states, which will support sowing activities. Additionally, the government has established a specific production target for the upcoming period.",
+    "source": "Business Standard",
+    "published": "2026-10-24T08:21:38+00:00",
+    "ago": "1h",
+    "impact": "Neutral",
+    "why": "Steady acreage despite weak monsoon rainfall.",
+    "url": "https://www.business-standard.com/industry/agriculture/wheat-acreage-likely-to-remain-steady-despite-weak-monsoon-rainfall-126102400528_1.html",
+    "chips": {
+      "Production target": "121 million tonnes"
+    },
+    "trend": [
+      0.5,
+      0.55,
+      0.45,
+      0.5,
+      0.47,
+      0.52,
+      0.5
+    ],
+    "color": "B7791F",
+    "premium": false,
+    "title_hi": "कम मानसून बारिश के बावजूद गेहूं का रकबा स्थिर रहने की उम्मीद",
+    "summary_hi": "कम मानसून बारिश के बावजूद गेहूं का रकबा स्थिर रहने की संभावना है। अधिकारियों का मानना है कि प्रमुख उत्पादक राज्यों में सिंचाई की सुविधा और अनुकूल मिट्टी की नमी से बुआई को समर्थन मिलेगा। इसके अलावा, सरकार ने इसके लिए उत्पादन लक्ष्य भी तय किया है।",
+    "why_hi": "कम बारिश के बावजूद स्थिर रकबा।",
+    "chips_hi": {
+      "उत्पादन लक्ष्य": "121 मिलियन टन"
+    }
+  },
+  {
+    "v": 2,
+    "cat": "Economy",
+    "tk": "ECONOMY",
+    "title": "Why are German firms treating India as more than a market?",
+    "summary": "Commerce and Industry Minister Piyush Goyal stated that German companies now view India as a strategic hub for manufacturing, research and development, and innovation, rather than just a consumer market. Following his meetings with representatives from firms like Siemens Healthcare, Bertelsmann Investment, Volkswagen, and Skoda, the minister highlighted that about 2,000 German companies currently operate in the country, aiming to combine German precision with Indian skill and talent.",
+    "source": "Business Standard / Press Trust of India",
+    "published": "2026-10-24T08:04:30+00:00",
+    "ago": "1h",
+    "impact": "Positive",
+    "why": "Increased foreign business investment and manufacturing hubs",
+    "url": "https://www.business-standard.com/economy/news/german-firms-see-india-as-manufacturing-r-d-innovation-hub-goyal-126102400401_1.html",
+    "chips": {
+      "German firms": "2,000"
+    },
+    "trend": [
+      0.1,
+      0.25,
+      0.2,
+      0.5,
+      0.45,
+      0.8,
+      0.95
+    ],
+    "color": "0F766E",
+    "premium": false,
+    "title_hi": "German कंपनियां भारत को केवल बाजार क्यों नहीं मान रही हैं?",
+    "summary_hi": "वाणिज्य और उद्योग मंत्री पीयूष गोयल ने बताया कि German कंपनियां अब भारत को केवल एक उपभोक्ता बाजार के बजाय विनिर्माण, अनुसंधान और विकास तथा नवाचार के एक रणनीतिक केंद्र के रूप में देख रही हैं। Siemens Healthcare, Bertelsmann Investment, Volkswagen और Skoda जैसी कंपनियों के प्रतिनिधियों के साथ बैठक के बाद उन्होंने कहा कि वर्तमान में लगभग 2,000 German कंपनियों का भारत में परिचालन है।",
+    "why_hi": "विदेशी कारोबारी निवेश और विनिर्माण केंद्रों में वृद्धि।",
+    "chips_hi": {
+      "German कंपनियां": "2,000"
+    }
+  },
+  {
+    "v": 2,
+    "cat": "Markets",
+    "tk": "MARKETS",
+    "title": "Why is the NSE reviewing network vulnerabilities amid rising cyber threats?",
+    "summary": "The National Stock Exchange is currently reviewing its network vulnerabilities due to an increase in artificial intelligence-driven cyber threats. Ashish Kumar Chauhan, the chief of NSE, has urged all stockbrokers to treat cybersecurity as a core operational function. Furthermore, the exchange head has called for the establishment of an industry-wide task force. This dedicated group will be responsible for identifying and addressing these emerging risks effectively.",
+    "source": "Business Standard",
+    "published": "2026-10-24T07:07:16+00:00",
+    "ago": "2h",
+    "impact": "Neutral",
+    "why": "Focuses on security measures without financial impact.",
+    "url": "https://www.business-standard.com/markets/news/nse-ai-cybersecurity-network-vulnerabilities-ashishkumar-chauhan-126102400408_1.html",
+    "chips": {},
+    "trend": [
+      0.5,
+      0.55,
+      0.45,
+      0.5,
+      0.47,
+      0.52,
+      0.5
+    ],
+    "color": "B7791F",
+    "premium": false,
+    "title_hi": "AI cyber threats बढ़ने पर NSE क्यों कर रहा है नेटवर्क कमज़ोरियों की समीक्षा?",
+    "summary_hi": "National Stock Exchange ने आर्टिफिशियल इंटेलिजेंस आधारित साइबर खतरों के बढ़ने के कारण अपने नेटवर्क की कमज़ोरियों की समीक्षा शुरू कर दी है। NSE प्रमुख Ashish Kumar Chauhan ने सभी स्टॉकब्रोकर से साइबर सुरक्षा को एक मुख्य कार्य बनाने का आग्रह किया है। इसके साथ ही, उन्होंने उभरते हुए जोखिमों की पहचान करने और उनका समाधान करने के लिए एक उद्योग कार्य बल के गठन की मांग भी की है।",
+    "why_hi": "सुरक्षा उपायों पर ध्यान, वित्तीय प्रभाव स्पष्ट नहीं।",
+    "chips_hi": {}
+  },
+  {
+    "v": 2,
+    "cat": "Industry",
+    "tk": "INDUSTRY",
+    "title": "Government achieves 110 million farmer ID target five months early",
+    "summary": "The government successfully reached the 110 million farmer ID target on October 23, beating the original deadline by five months. Agriculture Minister Chouhan noted that linking these IDs with fertiliser sales systems has resulted in sharp sales reductions in specific border and pilot districts.",
+    "source": "Business Standard",
+    "published": "2026-10-24T06:37:07+00:00",
+    "ago": "3h",
+    "impact": "Positive",
+    "why": "Target reached early and fertilizer sales optimized.",
+    "url": "https://www.business-standard.com/industry/agriculture/farmer-id-target-agristack-fertiliser-sales-government-126102400381_1.html",
+    "chips": {
+      "Farmer ID target": "110 mn",
+      "Target date": "October 23"
+    },
+    "trend": [
+      0.1,
+      0.25,
+      0.2,
+      0.5,
+      0.45,
+      0.8,
+      0.95
+    ],
+    "color": "0F766E",
+    "premium": false,
+    "title_hi": "सरकार ने 11 करोड़ किसान आईडी का लक्ष्य 5 महीने पहले किया पूरा",
+    "summary_hi": "सरकार ने निर्धारित समय से पांच महीने पहले ही 23 अक्टूबर को 11 करोड़ किसान आईडी का लक्ष्य हासिल कर लिया। कृषि मंत्री चौहान ने बताया कि इसे उर्वरक बिक्री प्रणालियों के साथ जोड़ने से चुनिंदा सीमावर्ती और पायलट जिलों में बिक्री में भारी कमी आई है।",
+    "why_hi": "लक्ष्य समय से पहले पूरा हुआ और उर्वरक बिक्री सुधरी।",
+    "chips_hi": {
+      "किसान आईडी लक्ष्य": "11 करोड़",
+      "प्राप्ति तिथि": "23 अक्टूबर"
+    }
+  },
+  {
+    "v": 2,
+    "cat": "Industry",
+    "tk": "DIAGEO",
+    "title": "Does India's Scotch whisky probe undermine the new UK trade pact?",
+    "summary": "The liquor industry group representing major brands Diageo and Pernod Ricard stated that India's decision to exclude bulk Scotch imports from reduced tariffs contradicts the ongoing trade agreement. According to the International Spirits and Wines Association of India, this regulatory scrutiny threatens to undermine the intended benefits of the UK pact for these global beverage makers.",
+    "source": "Business Standard / Reuters",
+    "published": "2026-10-24T05:40:22+00:00",
+    "ago": "4h",
+    "impact": "Negative",
+    "why": "Excludes bulk Scotch from reduced tariffs.",
+    "url": "https://www.business-standard.com/industry/news/india-s-scotch-probe-of-diageo-pernod-undermines-uk-pact-benefits-iswai-126102301418_1.html",
+    "chips": {},
+    "trend": [
+      0.95,
+      0.85,
+      0.7,
+      0.6,
+      0.4,
+      0.3,
+      0.1
+    ],
+    "color": "9B2C2C",
+    "premium": false,
+    "title_hi": "क्या भारत की स्कॉच जांच से यूके व्यापार समझौते को नुकसान पहुंचेगा?",
+    "summary_hi": "डिएगो और पर्नाड रिकार्ड का प्रतिनिधित्व करने वाले लिकर इंडस्ट्री ग्रुप ने कहा कि भारत द्वारा बल्क स्कॉच आयात को कम टैरिफ से बाहर रखना व्यापार समझौते के विपरीत है।",
+    "why_hi": "बल्क स्कॉच को कम टैरिफ से बाहर रखा गया।",
+    "chips_hi": {}
+  },
+  {
+    "v": 2,
+    "cat": "Earnings",
     "tk": "IDFC FIRST BANK",
     "title": "IDFC First Bank and over 30 companies report Q2 earnings",
     "summary": "More than 30 companies, including IDFC First Bank, Castrol India, and JK Cement, are set to announce their July-September financial results. Other firms releasing their Q2 numbers today include Kotak Mahindra, AU Small Finance Bank, Kajaria Ceramics, Netweb Technologies, and Apollo Micro Systems.",
@@ -521,288 +776,6 @@
     "chips_hi": {
       "निवेश": "₹4,500 करोड़",
       "पोर्टफोलियो लक्ष्य": "1 GW"
-    }
-  },
-  {
-    "v": 2,
-    "cat": "Finance",
-    "tk": "FINANCE",
-    "title": "Why paying only the minimum credit card bill gets costly",
-    "summary": "Clearing just the minimum due on a credit card helps skip late fees during a cash crunch. However, this practice leads to interest charges accumulating on both previous and fresh purchases. Relying on this approach can make temporary financial tightness much more expensive than expected over time.",
-    "source": "Business Standard",
-    "published": "2026-10-23T13:15:52+00:00",
-    "ago": "49m",
-    "impact": "Negative",
-    "why": "Higher interest costs on credit card purchases.",
-    "url": "https://www.business-standard.com/finance/personal-finance/paying-only-the-minimum-credit-card-bill-here-s-what-it-may-cost-you-126102301286_1.html",
-    "chips": {},
-    "trend": [
-      0.95,
-      0.85,
-      0.7,
-      0.6,
-      0.4,
-      0.3,
-      0.1
-    ],
-    "color": "9B2C2C",
-    "premium": false,
-    "title_hi": "क्रेडिट कार्ड का सिर्फ न्यूनतम बिल चुकाना क्यों महंगा पड़ता है?",
-    "summary_hi": "न्यूनतम राशि चुकाकर लेट फीस से बचा जा सकता है, लेकिन पुरानी और नई दोनों खरीद पर ब्याज लगता है। इससे पैसों की तंगी के दौरान यह आदत काफी महंगी साबित हो सकती है।",
-    "why_hi": "क्रेडिट कार्ड खरीद पर अधिक ब्याज लागत।",
-    "chips_hi": {}
-  },
-  {
-    "v": 2,
-    "cat": "Companies",
-    "tk": "IBM INDIA",
-    "title": "Why did IBM India lease space in Bengaluru for a decade?",
-    "summary": "IBM India has secured a large office space spanning 2.83 lakh square feet at a technology park in Bengaluru. The agreement lasts for ten years. The arrangement includes a monthly rent payment along with a security deposit and separate costs for interior setups.",
-    "source": "Business Standard",
-    "published": "2026-10-23T13:11:37+00:00",
-    "ago": "53m",
-    "impact": "Neutral",
-    "why": "Long-term lease without major fundamental impact.",
-    "url": "https://www.business-standard.com/companies/news/ibm-india-leases-2-83-lakh-sq-ft-at-bagmane-tech-park-in-bengaluru-126102301281_1.html",
-    "chips": {
-      "Office space": "2.83 lakh sq. ft.",
-      "Monthly rent": "₹2.49 crore",
-      "Deposit": "₹14.96 crore"
-    },
-    "trend": [
-      0.5,
-      0.55,
-      0.45,
-      0.5,
-      0.47,
-      0.52,
-      0.5
-    ],
-    "color": "B7791F",
-    "premium": false,
-    "title_hi": "IBM India ने बेंगलुरु में 10 साल के लिए क्यों लिया ऑफिस स्पेस?",
-    "summary_hi": "IBM India ने बेंगलुरु के एक टेक पार्क में 2.83 लाख वर्ग फीट जगह किराए पर ली है। यह समझौता 10 साल के लिए किया गया है। इसके तहत मासिक किराया, सिक्योरिटी डिपॉजिट और इंटीरियर का खर्च शामिल है।",
-    "why_hi": "लंबी अवधि का लीज समझौता।",
-    "chips_hi": {
-      "ऑफ़िस स्पेस": "2.83 लाख वर्ग फीट",
-      "मासिक किराया": "₹2.49 करोड़",
-      "डिपॉजिट": "₹14.96 करोड़"
-    }
-  },
-  {
-    "v": 2,
-    "cat": "Industry",
-    "tk": "INDUSTRY",
-    "title": "Why did Mumbai property registrations drop 25% during Navratri?",
-    "summary": "Mumbai witnessed a decline in property registrations, dropping to 4,680 units during Navratri 2026 compared to 6,238 units in the previous year. This marks the first such dip in three years. Additionally, property registration revenue saw a decrease of 15 percent, falling to ₹499 crore, according to data from Knight Frank.",
-    "source": "Business Standard",
-    "published": "2026-10-23T13:02:48+00:00",
-    "ago": "1h",
-    "impact": "Negative",
-    "why": "Registrations and revenue fell during Navratri.",
-    "url": "https://www.business-standard.com/industry/news/mumbai-property-registrations-fall-25-during-navratri-first-dip-in-3-yrs-126102301272_1.html",
-    "chips": {
-      "Registrations": "4,680",
-      "Previous registratio": "6,238",
-      "Revenue": "₹499 crore"
-    },
-    "trend": [
-      0.95,
-      0.85,
-      0.7,
-      0.6,
-      0.4,
-      0.3,
-      0.1
-    ],
-    "color": "9B2C2C",
-    "premium": true,
-    "title_hi": "नवरात्र के दौरान मुंबई में प्रॉपर्टी रजिस्ट्रेशन में 25% की गिरावट क्यों आई?",
-    "summary_hi": "Knight Frank के अनुसार, नवरात्र 2026 के दौरान मुंबई में प्रॉपर्टी रजिस्ट्रेशन घटकर 4,680 रह गए, जो एक साल पहले 6,238 थे। तीन साल में यह पहली बार आई गिरावट है। इसके अलावा, रजिस्ट्रेशन से होने वाला राजस्व 15 प्रतिशत घटकर ₹499 करोड़ रह गया।",
-    "why_hi": "रजिस्ट्रेशन और राजस्व में गिरावट आई।",
-    "chips_hi": {
-      "रजिस्ट्रेशन": "4,680",
-      "पिछले रजिस्ट्रेशन": "6,238",
-      "राजस्व": "₹499 करोड़"
-    }
-  },
-  {
-    "v": 2,
-    "cat": "Industry",
-    "tk": "INDUSTRY",
-    "title": "Fintech funding rounds drop 41 percent while capital raised grows",
-    "summary": "Fintech funding rounds experienced a decline of 41 per cent down to 153 deals during the January to September 2026 period. Even with this drop in the number of rounds, the total capital raised saw a 14 per cent increase, reaching $2.2 billion. This trend highlights a market shift toward established firms, while upcoming regulations like the DPDP Act could potentially create further funding pressure.",
-    "source": "Business Standard",
-    "published": "2026-10-23T13:00:49+00:00",
-    "ago": "1h",
-    "impact": "Negative",
-    "why": "Fewer funding rounds signal tighter capital access.",
-    "url": "https://www.business-standard.com/industry/banking/flight-to-safety-hits-fintech-funding-dpdp-act-may-lead-to-further-squeeze-126102301262_1.html",
-    "chips": {
-      "Decline": "41 per cent",
-      "Funding rounds": "153",
-      "Capital raised": "$2.2 billion"
-    },
-    "trend": [
-      0.95,
-      0.85,
-      0.7,
-      0.6,
-      0.4,
-      0.3,
-      0.1
-    ],
-    "color": "9B2C2C",
-    "premium": true,
-    "title_hi": "फिनटेक फंडिंग राउंड में 41 प्रतिशत की गिरावट और पूंजी बढ़ी",
-    "summary_hi": "जनवरी से सितंबर 2026 के दौरान फिनटेक फंडिंग राउंड 41 प्रतिशत घटकर 153 रह गए। इसके बावजूद जुटाई गई कुल पूंजी में 14 प्रतिशत की बढ़ोतरी हुई और यह 2.2 अरब डॉलर पर पहुंच गई। यह बदलाव स्थापित कंपनियों की ओर झुकाव को दर्शाता है, जबकि DPDP Act जैसे नियम आगे चलकर फंडिंग पर और दबाव बना सकते हैं।",
-    "why_hi": "कम फंडिंग राउंड पूंजी तक पहुंच घटने का संकेत।",
-    "chips_hi": {
-      "गिरावट": "41 प्रतिशत",
-      "फंडिंग राउंड": "153",
-      "पूंजी जुटाई गई": "$2.2 अरब"
-    }
-  },
-  {
-    "v": 2,
-    "cat": "Companies",
-    "tk": "MEESHO",
-    "title": "Why did Meesho Mall orders triple on festive sale day?",
-    "summary": "Meesho Mall witnessed a significant surge as its net merchandise value grew by 93% compared to the previous year during the June quarter. Additionally, orders recorded on the opening day of its festive sale multiplied by more than three times. This growth highlights the rising popularity and demand for branded items among consumers residing in smaller towns across the country.",
-    "source": "Business Standard",
-    "published": "2026-10-23T09:44:27+00:00",
-    "ago": "14m",
-    "impact": "Positive",
-    "why": "Higher sales and growing brand demand.",
-    "url": "https://www.business-standard.com/companies/news/meesho-s-branded-push-reaches-deeper-into-small-town-india-as-demand-grows-126102300795_1.html",
-    "chips": {
-      "NMVs growth": "93%"
-    },
-    "trend": [
-      0.1,
-      0.25,
-      0.2,
-      0.5,
-      0.45,
-      0.8,
-      0.95
-    ],
-    "color": "0F766E",
-    "premium": false,
-    "title_hi": "Meesho Mall के फेस्टिव सेल के पहले दिन ऑर्डर तीन गुना क्यों बढ़े?",
-    "summary_hi": "जून तिमाही में Meesho Mall का नेट मर्चेंडाइज वैल्यू पिछले साल के मुकाबले 93% बढ़ गया। इसके अलावा, फेस्टिव सेल के पहले दिन के ऑर्डर में तीन गुना से ज्यादा की बढ़ोतरी दर्ज की गई। छोटे शहरों में ब्रांडेड सामानों की मांग तेजी से बढ़ने के कारण यह बढ़त देखने को मिली है।",
-    "why_hi": "बिक्री में तेजी और ब्रांड की मांग बढ़ना।",
-    "chips_hi": {
-      "NMVs वृद्धि": "93%"
-    }
-  },
-  {
-    "v": 2,
-    "cat": "Earnings",
-    "tk": "BLUESTONE",
-    "title": "Why did BlueStone Jewellery stock plunge 13% in Q2?",
-    "summary": "BlueStone Jewellery shares dropped by 13 percent after the company returned to making losses during the second quarter. Despite this recent decline, the stock is still up 47 percent on a year-to-date basis and 27 percent higher over the past six months. However, the stock performance remains flat over the last year, showing a loss of nearly 2 percent.",
-    "source": "Business Standard",
-    "published": "2026-10-23T09:34:47+00:00",
-    "ago": "23m",
-    "impact": "Negative",
-    "why": "Company swung back to losses.",
-    "url": "https://www.business-standard.com/markets/news/bluestone-jewellery-stock-plunges-13-as-firm-swings-back-to-losses-in-q2-126102300774_1.html",
-    "chips": {
-      "Stock plunge": "13%",
-      "YTD gain": "47%",
-      "Six-month gain": "27%"
-    },
-    "trend": [
-      0.95,
-      0.85,
-      0.7,
-      0.6,
-      0.4,
-      0.3,
-      0.1
-    ],
-    "color": "9B2C2C",
-    "premium": false,
-    "title_hi": "Q2 में नुकसान में जाने से BlueStone Jewellery का शेयर 13% क्यों गिरा?",
-    "summary_hi": "BlueStone Jewellery के शेयरों में 13 प्रतिशत की भारी गिरावट आई है क्योंकि कंपनी दूसरी तिमाही में फिर से नुकसान में आ गई है। इस हालिया गिरावट के बावजूद, यह स्टॉक साल-दर-साल के आधार पर 47 प्रतिशत और पिछले छह महीनों में 27 प्रतिशत ऊपर है। हालांकि, पिछले एक साल में स्टॉक का प्रदर्शन सपाट रहा है और इसमें लगभग 2 प्रतिशत की गिरावट आई है।",
-    "why_hi": "कंपनी फिर से नुकसान में आई।",
-    "chips_hi": {
-      "शेयर गिरावट": "13%",
-      "YTD बढ़त": "47%",
-      "छह-महीने की बढ़त": "27%"
-    }
-  },
-  {
-    "v": 2,
-    "cat": "Earnings",
-    "tk": "WESTLIFE",
-    "title": "Westlife Foodworld surges 20 percent following second quarter performance updates",
-    "summary": "Westlife Foodworld shares jumped twenty percent and recovered significantly from their lowest point of the day after releasing their second quarter results. The growth seen during the quarter came from multiple channels and regions. This positive movement was driven by the ongoing strength of the firm's value options, new menu items, and its approach to omnichannel convenience.",
-    "source": "Business Standard",
-    "published": "2026-10-23T09:30:28+00:00",
-    "ago": "28m",
-    "impact": "Positive",
-    "why": "Strong broad-based growth reported in Q2.",
-    "url": "https://www.business-standard.com/markets/news/westlife-foodworld-soars-20-rebounds-24-from-days-low-post-q2-results-126102300727_1.html",
-    "chips": {
-      "Share price surge": "20%",
-      "Rebound from low": "24%"
-    },
-    "trend": [
-      0.1,
-      0.25,
-      0.2,
-      0.5,
-      0.45,
-      0.8,
-      0.95
-    ],
-    "color": "0F766E",
-    "premium": false,
-    "title_hi": "Q2 रिजल्ट्स के बाद Westlife Foodworld के शेयरों में 20 प्रतिशत की तेजी",
-    "summary_hi": "दूसरी तिमाही के नतीजे आने के बाद Westlife Foodworld के शेयरों में बीस प्रतिशत की जोरदार तेजी आई और यह दिन के निचले स्तर से उबर गए। कंपनी की इस तिमाही में विभिन्न क्षेत्रों और चैनलों पर व्यापक वृद्धि दर्ज की गई। इसके पीछे मेनू में नए बदलाव, वैल्यू ऑफरिंग की मजबूती और ओम्नीचैनल सुविधा रणनीति का हाथ रहा।",
-    "why_hi": "Q2 में मजबूत और व्यापक वृद्धि दर्ज हुई।",
-    "chips_hi": {
-      "शेयर में तेजी": "20%",
-      "निचले स्तर से रिकवरी": "24%"
-    }
-  },
-  {
-    "v": 2,
-    "cat": "Earnings",
-    "tk": "SHREE CEMENT",
-    "title": "How did Shree Cement bounce back despite a net profit drop?",
-    "summary": "Shree Cement saw its stock rise over 5% from the day's lowest point following its second-quarter financial update. The company posted a 15.2% year-on-year decline in consolidated net profit, totaling 263 crore rupees. At the same time, operations generated a revenue of 5,897 crore rupees, marking a 23.9% increase compared to the same period in the previous year.",
-    "source": "Business Standard",
-    "published": "2026-10-23T09:16:06+00:00",
-    "ago": "43m",
-    "impact": "Neutral",
-    "why": "Profit fell despite rising revenue.",
-    "url": "https://www.business-standard.com/markets/news/shree-cement-rebounds-gains-over-5-from-day-s-low-post-q2-results-126102300733_1.html",
-    "chips": {
-      "Net profit drop": "15.2% YoY",
-      "Net profit": "₹263 crore",
-      "Revenue": "₹5,897 crore"
-    },
-    "trend": [
-      0.5,
-      0.55,
-      0.45,
-      0.5,
-      0.47,
-      0.52,
-      0.5
-    ],
-    "color": "B7791F",
-    "premium": false,
-    "title_hi": "मुफे मुनाफे में गिरावट के बावजूद Shree Cement के शेयरों में तेजी क्यों आई?",
-    "summary_hi": "Shree Cement के शेयरों में निचले स्तर से 5% से अधिक की बढ़त दर्ज की गई। कंपनी ने चालू वित्त वर्ष की दूसरी तिमाही में 263 करोड़ रुपये का समेकित शुद्ध लाभ दर्ज किया, जो पिछले वर्ष की तुलना में 15.2% कम है। हालांकि, इस दौरान परिचालन से होने वाला राजस्व 23.9% बढ़कर 5,897 करोड़ रुपये पर पहुंच गया।",
-    "why_hi": "मुनाफा घटने पर भी राजस्व बढ़ा।",
-    "chips_hi": {
-      "शुद्ध लाभ गिरावट": "15.2% YoY",
-      "शुद्ध लाभ": "₹263 करोड़",
-      "राजस्व": "₹5,897 करोड़"
     }
   }
 ]
