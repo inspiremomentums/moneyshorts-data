@@ -2,6 +2,230 @@
   {
     "v": 2,
     "cat": "Earnings",
+    "tk": "GODREJ",
+    "title": "How did Godrej Properties see a 62 percent profit drop?",
+    "summary": "Godrej Properties reported a 62 percent decline in net profit to Rs 154 crore for the second quarter. Despite the quarterly drop in earnings, the company experienced higher cash collections and record bookings for the first half of the financial year. Additionally, total income increased by 38 percent compared to the same period in the previous year, helping balance the weak quarterly performance.",
+    "source": "Business Standard",
+    "published": "2026-10-23T18:59:59+00:00",
+    "ago": "6h",
+    "impact": "Neutral",
+    "why": "Mixed results balance profit drop and income growth.",
+    "url": "https://www.business-standard.com/companies/news/godrej-properties-q2fy27-results-net-profit-falls-62-to-154-crore-126102400024_1.html",
+    "chips": {
+      "Net profit drop": "62%",
+      "Net profit": "Rs 154 crore",
+      "Total income rise": "38%"
+    },
+    "trend": [
+      0.5,
+      0.55,
+      0.45,
+      0.5,
+      0.47,
+      0.52,
+      0.5
+    ],
+    "color": "B7791F",
+    "premium": false,
+    "title_hi": "Godrej Properties का मुनाफा 62% गिरने के बाद भी आय क्यों बढ़ी?",
+    "summary_hi": "Godrej Properties का दूसरी तिमाही में नेट प्रॉफिट 62 प्रतिशत घटकर 154 करोड़ रुपये रह गया। तिमाही आय कमजोर रहने के बावजूद, कंपनी को रिकॉर्ड बुकिंग और बेहतर कैश कलेक्शन का लाभ मिला। इसके अलावा, पिछले साल की समान अवधि की तुलना में कुल आय में 38 प्रतिशत की वृद्धि दर्ज की गई।",
+    "why_hi": "कमजोर मुनाफे के साथ आय में भी बढ़ोतरी हुई।",
+    "chips_hi": {
+      "मुनाफे में गिरावट": "62%",
+      "नेट प्रॉफिट": "₹154 करोड़",
+      "कुल आय में वृद्धि": "38%"
+    }
+  },
+  {
+    "v": 2,
+    "cat": "Companies",
+    "tk": "WAZIRX",
+    "title": "WazirX pivots to recovery and AI tools after rebuilding trust",
+    "summary": "WazirX is directing its attention toward recovering value for customers and creditors following a year of rebuilding. Alongside restoring trust, the platform plans to integrate artificial intelligence tools to enhance trading outcomes. This strategic shift follows a year since the company restarted its operations.",
+    "source": "Business Standard / Press Trust of India",
+    "published": "2026-10-23T18:16:55+00:00",
+    "ago": "7h",
+    "impact": "Neutral",
+    "why": "Strategic shift toward recovery and AI.",
+    "url": "https://www.business-standard.com/companies/people/wazirx-shifts-focus-to-recovery-ai-after-year-of-rebuilding-shetty-126102301053_1.html",
+    "chips": {},
+    "trend": [
+      0.5,
+      0.55,
+      0.45,
+      0.5,
+      0.47,
+      0.52,
+      0.5
+    ],
+    "color": "B7791F",
+    "premium": false,
+    "title_hi": "रिबिल्डिंग के एक साल बाद WazirX का फोकस रिकवरी और AI पर",
+    "summary_hi": "ऑपरेशन दोबारा शुरू करने के एक साल बाद WazirX ग्राहकों और लेनदारों के लिए वैल्यू रिकवर करने, भरोसा दोबारा कायम करने और ट्रेडिंग के नतीजे बेहतर बनाने के लिए आर्टिफिशियल इंटेलिजेंस टूल्स का इस्तेमाल करने पर ध्यान दे रहा है।",
+    "why_hi": "रिकवरी और AI पर रणनीतिक ध्यान।",
+    "chips_hi": {}
+  },
+  {
+    "v": 2,
+    "cat": "Markets",
+    "tk": "MARKETS",
+    "title": "Sebi considers automatic approval route for market infrastructure investments",
+    "summary": "Market regulator Sebi has floated a proposal to introduce an automatic approval system for specific activities and investments undertaken by market infrastructure institutions. This potential regulatory shift would apply under specific financial limits and strict governance safeguards, according to the latest proposal. The move aims to streamline operational processes for these institutions while maintaining necessary regulatory oversight through defined financial and governance boundaries.",
+    "source": "Business Standard / Press Trust of India",
+    "published": "2026-10-23T18:15:57+00:00",
+    "ago": "7h",
+    "impact": "Neutral",
+    "why": "Streamlines regulatory approvals for infrastructure institut",
+    "url": "https://www.business-standard.com/markets/news/sebi-mulls-automatic-approval-for-investments-activities-by-exchanges-126102301079_1.html",
+    "chips": {},
+    "trend": [
+      0.5,
+      0.55,
+      0.45,
+      0.5,
+      0.47,
+      0.52,
+      0.5
+    ],
+    "color": "B7791F",
+    "premium": false,
+    "title_hi": "Sebi बाजार के बुनियादी ढांचे के निवेश के लिए स्वचालित मंजूरी पर कर रहा विचार",
+    "summary_hi": "मार्केट रेगुलेटर सेबी ने मार्केट इन्फ्रास्ट्रक्चर संस्थानों द्वारा किए जाने वाले कुछ निवेश और गतिविधियों के लिए एक स्वचालित मंजूरी मार्ग का प्रस्ताव रखा है। यह संभावित बदलाव वित्तीय सीमाओं और कड़े शासन सुरक्षा उपायों के अधीन होगा, ताकि इन संस्थानों के लिए परिचालन प्रक्रियाओं को सरल बनाया जा सके।",
+    "why_hi": "बुनियादी ढांचा संस्थानों के लिए मंजूरी आसान होगी।",
+    "chips_hi": {}
+  },
+  {
+    "v": 2,
+    "cat": "Markets",
+    "tk": "AVADHUT SATHE",
+    "title": "Why did Sebi order a major refund of 546 crore rupees?",
+    "summary": "Market regulator Sebi has directed Avadhut Sathe Trading Academy and its founder to refund over 546 crore rupees collected from participants. The authorities found that the academy offered unregistered investment advisory and research services through paid programs and messaging groups without valid registration. Additionally, the entities face substantial penalties and a two-year ban from accessing the securities market until the refund is completed.",
+    "source": "Business Standard / Press Trust of India",
+    "published": "2026-10-23T18:06:25+00:00",
+    "ago": "7h",
+    "impact": "Negative",
+    "why": "Regulatory penalties and ban imposed for violations.",
+    "url": "https://www.business-standard.com/markets/news/sebi-orders-avadhut-sathe-trading-academy-and-its-founder-to-refund-546-cr-126102301645_1.html",
+    "chips": {
+      "Refund amount": "Rs 546.17 crore",
+      "Interest amount": "Rs 67.87 crore",
+      "Total penalty": "Rs 11.5 crore"
+    },
+    "trend": [
+      0.95,
+      0.85,
+      0.7,
+      0.6,
+      0.4,
+      0.3,
+      0.1
+    ],
+    "color": "9B2C2C",
+    "premium": false,
+    "title_hi": "Sebi ने Avadhut Sathe Trading Academy को 546 करोड़ रुपये लौटाने का आदेश क्यों दिया?",
+    "summary_hi": "मार्केट रेगुलेटर सेबी ने Avadhut Sathe Trading Academy और उसके संस्थापक को निवेशकों से जुटाए गए 546 करोड़ रुपये से अधिक की राशि ब्याज के साथ वापस करने का निर्देश दिया है। जांच में पाया गया कि यह संस्थान बिना पंजीकरण के भुगतान वाले कार्यक्रमों और मैसेजिंग ग्रुप के जरिए निवेश सलाह दे रहा था। इसके अलावा, संस्था और संबंधित लोगों पर जुर्माना लगाया गया है और उन्हें दो साल के लिए बाजार से प्रतिबंधित कर दिया गया है।",
+    "why_hi": "नियमों के उल्लंघन पर रेगुलेटर ने कार्रवाई की।",
+    "chips_hi": {
+      "रिफंड राशि": "₹546.17 करोड़",
+      "ब्याज राशि": "₹67.87 करोड़",
+      "कुल जुर्माना": "₹11.5 करोड़"
+    }
+  },
+  {
+    "v": 2,
+    "cat": "Finance",
+    "tk": "FINANCE",
+    "title": "What are the new financial stability risks flagged by FSDC?",
+    "summary": "The Financial Stability and Development Council, led by Finance Minister Nirmala Sitharaman, has highlighted potential risks to financial stability. The panel pointed out concerns arising from rising global bond yields and the rapid expansion of artificial intelligence. It also stressed the need for enhanced financial safeguards to address these challenges, alongside ongoing geopolitical uncertainties that could impact markets.",
+    "source": "Business Standard",
+    "published": "2026-10-23T17:58:33+00:00",
+    "ago": "8h",
+    "impact": "Neutral",
+    "why": "Identifies macro risks without company impact.",
+    "url": "https://www.business-standard.com/finance/news/fsdc-flags-ai-boom-rising-global-bond-yields-as-financial-stability-risks-126102301466_1.html",
+    "chips": {},
+    "trend": [
+      0.5,
+      0.55,
+      0.45,
+      0.5,
+      0.47,
+      0.52,
+      0.5
+    ],
+    "color": "B7791F",
+    "premium": true,
+    "hi_tries": 1
+  },
+  {
+    "v": 2,
+    "cat": "Markets",
+    "tk": "MARKETS",
+    "title": "Why did Sebi relax call-recording rules for research analysts?",
+    "summary": "Market regulator Sebi has removed the mandatory requirement for research analysts to keep call recordings of their interactions with institutional investors. This decision aims to ease the compliance burden and improve the ease of doing business. However, these professionals must still maintain records of interactions with all clients for five years through other verifiable methods like emails or signed physical documents. Records concerning active disputes or specific regulatory directions must also be preserved.",
+    "source": "Business Standard / Press Trust of India",
+    "published": "2026-10-23T17:56:16+00:00",
+    "ago": "8h",
+    "impact": "Positive",
+    "why": "Reduces compliance burden for research analysts.",
+    "url": "https://www.business-standard.com/markets/news/sebi-eases-call-recording-mandate-for-research-analysts-dealing-with-funds-126102301112_1.html",
+    "chips": {},
+    "trend": [
+      0.1,
+      0.25,
+      0.2,
+      0.5,
+      0.45,
+      0.8,
+      0.95
+    ],
+    "color": "0F766E",
+    "premium": false,
+    "title_hi": "Sebi ने research analysts के लिए call-recording के नियम क्यों आसान किए?",
+    "summary_hi": "मार्केट रेगुलेटर सेबी ने institutional investors के साथ बातचीत की कॉल रिकॉर्डिंग रखने की अनिवार्यता को खत्म कर दिया है। इसका उद्देश्य अनुपालन के बोझ को कम करना और कारोबार को आसान बनाना है। हालांकि, अन्य ग्राहकों के साथ बातचीत के रिकॉर्ड को पांच साल तक संभाल कर रखना होगा।",
+    "why_hi": "अनुपालन का बोझ कम हुआ है।",
+    "chips_hi": {}
+  },
+  {
+    "v": 2,
+    "cat": "Companies",
+    "tk": "APPLE INDIA",
+    "title": "Apple India revenue crosses 1 trillion rupees as FY26 sales jump 32%",
+    "summary": "iPhone maker Apple India saw its annual revenue increase by more than 32 per cent, crossing the one trillion rupee mark to reach Rs 1,04,607 crore for FY26 compared to Rs 79,060.5 crore in the previous fiscal year. Market intelligence data from Tofler also shows that the net profit for the period rose by 66 per cent to Rs 5,311 crore, while total expenses stood at Rs 96,224 crore during the same time.",
+    "source": "Business Standard / Press Trust of India",
+    "published": "2026-10-23T17:46:00+00:00",
+    "ago": "8h",
+    "impact": "Positive",
+    "why": "Strong revenue and net profit growth.",
+    "url": "https://www.business-standard.com/companies/news/apple-india-revenue-grows-32-to-cross-1-trillion-mark-in-fy26-tofler-126102301658_1.html",
+    "chips": {
+      "Revenue FY26": "Rs 1,04,607 crore",
+      "Net profit": "Rs 5,311 crore",
+      "Revenue growth": "32 per cent"
+    },
+    "trend": [
+      0.1,
+      0.25,
+      0.2,
+      0.5,
+      0.45,
+      0.8,
+      0.95
+    ],
+    "color": "0F766E",
+    "premium": false,
+    "title_hi": "Apple India की आय FY26 में 32% बढ़कर 1 लाख करोड़ रुपये के पार",
+    "summary_hi": "मार्केट इंटेलिजेंस फर्म Tofler के आंकड़ों के अनुसार, iPhone बनाने वाली कंपनी Apple India का रेवेन्यू FY26 में 32 प्रतिशत से अधिक बढ़कर 1,04,607 करोड़ रुपये हो गया। इससे पिछले वित्त वर्ष में यह आंकड़ा 79,060.5 करोड़ रुपये था। इसी अवधि के दौरान कंपनी का शुद्ध लाभ 66 प्रतिशत की बढ़ोतरी के साथ 5,311 करोड़ रुपये दर्ज किया गया, जबकि कुल खर्च 96,224 करोड़ रुपये रहा।",
+    "why_hi": "मजबूत आय और मुनाफे में बढ़ोतरी।",
+    "chips_hi": {
+      "रेवेन्यू FY26": "₹1,04,607 करोड़",
+      "शुद्ध लाभ": "₹5,311 करोड़",
+      "रेवेन्यू ग्रोथ": "32 प्रतिशत"
+    }
+  },
+  {
+    "v": 2,
+    "cat": "Earnings",
     "tk": "TORRENT PHARMA",
     "title": "Why did Torrent Pharma's profit drop despite soaring revenue?",
     "summary": "Torrent Pharma reported a 9.6 percent decline in its net profit for the second quarter to ₹534 crore. This drop occurred even as the company's revenue increased by 50.8 percent during the same period. Higher finance costs and depreciation exerted pressure on the overall earnings, offsetting the strong revenue growth.",
@@ -60,7 +284,7 @@
     ],
     "color": "B7791F",
     "premium": false,
-    "hi_tries": 1
+    "hi_tries": 2
   },
   {
     "v": 2,
@@ -592,234 +816,5 @@
       "इंडेक्स गिरावट": "2%",
       "पांच दिन की गिरावट": "7%"
     }
-  },
-  {
-    "v": 2,
-    "cat": "Finance",
-    "tk": "FINANCE",
-    "title": "How did the rupee move by 3 paise against the dollar?",
-    "summary": "The Indian rupee gained 3 paise to trade at 94.78 against the US dollar in early trade on Friday. This movement occurred within a narrow range while crude oil prices remained elevated and foreign funds continued to flow out. Market participants noted ongoing pressure on the currency from global macroeconomic factors, including a stronger US dollar and Brent crude staying near USD 113 per barrel. Meanwhile, the dollar index stood at 101.64.",
-    "source": "Business Standard / Press Trust of India",
-    "published": "2026-10-23T04:36:03+00:00",
-    "ago": "1h",
-    "impact": "Neutral",
-    "why": "Mixed macroeconomic factors drive currency movement.",
-    "url": "https://www.business-standard.com/finance/news/rupee-rises-3-paise-to-94-78-against-us-dollar-during-early-trade-126102300217_1.html",
-    "chips": {
-      "Exchange rate": "94.78",
-      "Dollar index": "101.64",
-      "Brent crude": "USD 113.65 per barre"
-    },
-    "trend": [
-      0.5,
-      0.55,
-      0.45,
-      0.5,
-      0.47,
-      0.52,
-      0.5
-    ],
-    "color": "B7791F",
-    "premium": false,
-    "title_hi": "रुपया शुरुआती कारोबार में अमेरिकी डॉलर के मुकाबले 3 पैसे क्यों बढ़ा?",
-    "summary_hi": "शुक्रवार को शुरुआती कारोबार के दौरान भारतीय रुपया 3 पैसे की मामूली बढ़त के साथ अमेरिकी डॉलर के मुकाबले 94.78 पर पहुंच गया। यह सीमित दायरे में कारोबार कर रहा था, जबकि इस दौरान कच्चे तेल की कीमतें ऊंची बनी रहीं और विदेशी फंडों की निकासी भी जारी रही। वैश्विक डॉलर की मजबूती और ब्रेंट क्रूड के ऊंचे स्तर के कारण मुद्रा पर दबाव बना हुआ है। इस बीच डॉलर इंडेक्स 101.64 पर कारोबार कर रहा था।",
-    "why_hi": "विपरीत आर्थिक कारकों के बीच मुद्रा में सीमित बदलाव।",
-    "chips_hi": {
-      "विनिमय दर": "94.78",
-      "डॉलर इंडेक्स": "101.64",
-      "ब्रेंट क्रूड": "USD 113.65 प्रति बैर"
-    }
-  },
-  {
-    "v": 2,
-    "cat": "IPO",
-    "tk": "BONFIGLIOLI",
-    "title": "Bonfiglioli Transmissions lists at par with IPO price despite massive 46x demand",
-    "summary": "Bonfiglioli Transmissions began its stock market journey flat, listing at ₹586 on both the BSE and the National Stock Exchange. This debut matched its initial public offering price completely. The flat opening occurred even though the share sale had attracted strong interest, receiving bids reaching 46 times the total offered quantity from investors.",
-    "source": "Business Standard",
-    "published": "2026-10-23T04:35:24+00:00",
-    "ago": "1h",
-    "impact": "Neutral",
-    "why": "Flat listing despite strong initial bidding.",
-    "url": "https://www.business-standard.com/markets/news/bonfiglioli-transmissions-shares-list-at-par-to-ipo-price-despite-46x-bids-126102300255_1.html",
-    "chips": {
-      "Listing price": "₹586"
-    },
-    "trend": [
-      0.5,
-      0.55,
-      0.45,
-      0.5,
-      0.47,
-      0.52,
-      0.5
-    ],
-    "color": "B7791F",
-    "premium": false,
-    "title_hi": "भारी मांग के बावजूद Bonfiglioli Transmissions की फ्लैट लिस्टिंग, जानिए कीमत",
-    "summary_hi": "Bonfiglioli Transmissions के शेयरों ने बीएसई और नेशनल स्टॉक एक्सचेंज पर ₹586 के भाव के साथ सपाट शुरुआत की। यह कीमत इसके आईपीओ मूल्य के बिल्कुल बराबर है। हालांकि इस शेयर बिक्री को निवेशकों से जबरदस्त प्रतिक्रिया मिली थी और कुल पेशकश से 46 गुना अधिक बोलियां प्राप्त हुई थीं, फिर भी यह बिना किसी प्रीमियम के सूचीबद्ध हुआ।",
-    "why_hi": "भारी बोलियों के बावजूद फ्लैट शुरुआत।",
-    "chips_hi": {
-      "लिस्टिंग मूल्य": "₹586"
-    }
-  },
-  {
-    "v": 2,
-    "cat": "Markets",
-    "tk": "MARKETS",
-    "title": "Why is Nifty recording its third longest correction in history?",
-    "summary": "The Nifty index is on track to mark its third longest time-wise technical correction since January 2012, lasting a total of 160 days. Market data shows the benchmark has continued to trade below its long-term average, specifically sitting under the 200-day moving average since February 2026. This period highlights an extended phase of consolidation for the index without dropping sharply.",
-    "source": "Business Standard",
-    "published": "2026-10-23T01:40:11+00:00",
-    "ago": "19m",
-    "impact": "Neutral",
-    "why": "Extended index consolidation period below average.",
-    "url": "https://www.business-standard.com/markets/news/nifty-logs-third-longest-technical-correction-shallowest-in-its-history-126102300066_1.html",
-    "chips": {
-      "Duration": "160 days",
-      "Key date": "Feb 27, 2026"
-    },
-    "trend": [
-      0.5,
-      0.55,
-      0.45,
-      0.5,
-      0.47,
-      0.52,
-      0.5
-    ],
-    "color": "B7791F",
-    "premium": false,
-    "title_hi": "Nifty इतिहास में अपना तीसरा सबसे लंबा करेक्शन क्यों दर्ज कर रहा है?",
-    "summary_hi": "Nifty सूचकांक जनवरी 2012 के बाद से अपने सबसे लंबे समय तक चलने वाले तकनीकी करेक्शन को दर्ज करने की राह पर है, जो कुल 160 दिन का है। बाजार के आंकड़ों से पता चलता है कि बेंचमार्क अपने लंबे समय के औसत से नीचे कारोबार कर रहा है और फरवरी 2026 से 200-DMA के नीचे बना हुआ है।",
-    "why_hi": "लंबी अवधि का इंडेक्स कंसोलिडेशन",
-    "chips_hi": {
-      "अवधि": "160 दिन",
-      "मुख्य तारीख": "27 फरवरी 2026"
-    }
-  },
-  {
-    "v": 2,
-    "cat": "Earnings",
-    "tk": "BARCLAYS",
-    "title": "Barclays plans 5,000 job cuts despite a 12% profit rise",
-    "summary": "Barclays is reducing its workforce by about 5,000 roles, representing five percent of its total employees. The bank is implementing these job cuts this year to lower expenses through artificial intelligence. This cost-reduction initiative comes alongside financial results showing a twelve percent increase in third-quarter profit, which reached £2.3 billion.",
-    "source": "Business Standard / Reuters",
-    "published": "2026-10-22T18:31:38+00:00",
-    "ago": "7h",
-    "impact": "Positive",
-    "why": "Profit rose and costs will drop.",
-    "url": "https://www.business-standard.com/companies/news/barclays-to-cut-5-000-jobs-in-ai-led-cost-drive-as-q3-profit-rises-12-126102201741_1.html",
-    "chips": {
-      "Job cuts": "5,000",
-      "Profit rise": "12%",
-      "Q3 profit": "£2.3 billion"
-    },
-    "trend": [
-      0.1,
-      0.25,
-      0.2,
-      0.5,
-      0.45,
-      0.8,
-      0.95
-    ],
-    "color": "0F766E",
-    "premium": false,
-    "title_hi": "प्रॉफिट बढ़ने के बावजूद Barclays कम करेगा 5,000 नौकरियां",
-    "summary_hi": "Barclays इस साल अपने लगभग 5,000 कर्मचारियों को हटाने की तैयारी में है, जो कुल वर्कफोर्स का 5 प्रतिशत है। बैंक खर्च कम करने के लिए आर्टिफिशियल इंटेलिजेंस का इस्तेमाल कर रहा है। यह फैसला तब आया है जब तीसरी तिमाही का प्रॉफिट 12 प्रतिशत बढ़कर £2.3 बिलियन पहुंच गया।",
-    "why_hi": "प्रॉफिट बढ़ा और खर्च घटेगा।",
-    "chips_hi": {
-      "नौकरियां कम": "5,000",
-      "प्रॉफिट वृद्धि": "12%",
-      "Q3 प्रॉफिट": "£2.3 बिलियन"
-    }
-  },
-  {
-    "v": 2,
-    "cat": "Industry",
-    "tk": "INDUSTRY",
-    "title": "New central scheme aims to strengthen renewable energy transmission",
-    "summary": "A fresh initiative has been launched by the central government to enhance the transmission infrastructure for renewable energy across various states. The program focuses on improving how clean power is moved within state boundaries, addressing key logistical needs of the growing green energy sector without detailing specific funding figures or timelines.",
-    "source": "Business Standard",
-    "published": "2026-10-22T18:19:24+00:00",
-    "ago": "7h",
-    "impact": "Positive",
-    "why": "Improves green energy transmission infrastructure.",
-    "url": "https://www.business-standard.com/industry/news/state-power-playbook-new-scheme-to-improve-renewable-energy-transmission-126102201745_1.html",
-    "chips": {},
-    "trend": [
-      0.1,
-      0.25,
-      0.2,
-      0.5,
-      0.45,
-      0.8,
-      0.95
-    ],
-    "color": "0F766E",
-    "premium": true,
-    "title_hi": "रिन्यूएबल एनर्जी ट्रांसमिशन को बेहतर बनाने के लिए नई योजना",
-    "summary_hi": "केंद्र सरकार द्वारा राज्यों के भीतर रिन्यूएबल एनर्जी के ट्रांसमिशन को मजबूत करने के लिए एक नई योजना शुरू की गई है। इस पहल का मुख्य उद्देश्य राज्यों की सीमाओं के अंदर स्वच्छ ऊर्जा के आवागमन और वितरण के बुनियादी ढांचे को बेहतर बनाना है।",
-    "why_hi": "ग्रीन एनर्जी ट्रांसमिशन बुनियादी ढांचे में सुधार।",
-    "chips_hi": {}
-  },
-  {
-    "v": 2,
-    "cat": "Economy",
-    "tk": "ECONOMY",
-    "title": "Will fresh import permits ease silver supply constraints ahead of Diwali?",
-    "summary": "Fresh import permits are expected to ease supply constraints and premiums for silver in India ahead of the Diwali festival. However, even with the relaxation of import curbs, overall demand for the precious metal is projected to remain lower compared to the previous year.",
-    "source": "Business Standard / Bloomberg",
-    "published": "2026-10-22T18:05:57+00:00",
-    "ago": "7h",
-    "impact": "Positive",
-    "why": "Import curbs eased ahead of Diwali.",
-    "url": "https://www.business-standard.com/economy/news/silver-inflows-likely-to-rebound-as-import-curbs-eased-for-diwali-126102201737_1.html",
-    "chips": {},
-    "trend": [
-      0.1,
-      0.25,
-      0.2,
-      0.5,
-      0.45,
-      0.8,
-      0.95
-    ],
-    "color": "0F766E",
-    "premium": false,
-    "title_hi": "क्या दिवाली से पहले नए आयात परमिट चांदी की कमी को दूर करेंगे?",
-    "summary_hi": "दिवाली से पहले भारत में चांदी की आपूर्ति की बाधाओं और प्रीमियम को कम करने के लिए नए आयात परमिट तैयार हैं। हालांकि आयात प्रतिबंधों में ढील मिलने के बावजूद, कुल मांग पिछले साल के स्तर से कम रहने की उम्मीद है।",
-    "why_hi": "दिवाली से पहले आयात प्रतिबंध हटे।",
-    "chips_hi": {}
-  },
-  {
-    "v": 2,
-    "cat": "Companies",
-    "tk": "COMPANIES",
-    "title": "Why are CDMO players betting on biologics and peptides?",
-    "summary": "Industry executives state that the next phase of growth for CDMO players relies on complex products. These key offerings include biologics, peptides, and drug-device combinations. Companies are focusing on these advanced segments to drive their future expansion in the market, according to industry leaders.",
-    "source": "Business Standard",
-    "published": "2026-10-22T17:46:03+00:00",
-    "ago": "8h",
-    "impact": "Positive",
-    "why": "Focus on complex products drives growth.",
-    "url": "https://www.business-standard.com/companies/news/cdmo-players-bet-on-complex-products-such-as-biologics-peptides-for-growth-126102201723_1.html",
-    "chips": {},
-    "trend": [
-      0.1,
-      0.25,
-      0.2,
-      0.5,
-      0.45,
-      0.8,
-      0.95
-    ],
-    "color": "0F766E",
-    "premium": true,
-    "title_hi": "CDMO कंपनियां biologics और peptides पर क्यों दांव लगा रही हैं?",
-    "summary_hi": "इंडस्ट्री के अधिकारियों के अनुसार, CDMO खिलाड़ियों की अगली वृद्धि बायोलॉजिक्स, पेप्टाइड्स और ड्रग-डिवाइस कॉम्बिनेशन जैसे जटिल उत्पादों पर निर्भर करती है। कंपनियां बाजार में अपने भविष्य के विस्तार को गति देने के लिए इन उन्नत क्षेत्रों पर ध्यान केंद्रित कर रही हैं।",
-    "why_hi": "जटिल उत्पादों पर फोकस से विकास.",
-    "chips_hi": {}
   }
 ]
