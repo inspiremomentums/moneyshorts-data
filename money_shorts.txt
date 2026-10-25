@@ -2,6 +2,109 @@
   {
     "v": 2,
     "cat": "Industry",
+    "tk": "AIR INDIA",
+    "title": "Air India and other carriers suspend Saudi Arabia flights amid tensions",
+    "summary": "Air India and Air India Express have extended the cancellation of flights to Riyadh and Dammam until November 7, while Jeddah services remain suspended until October 31. IndiGo and Akasa Air have also called off flights to Saudi Arabian cities due to rising regional tensions and airport attacks in the Gulf. Affected travelers with bookings made on or before October 24 can choose flexible rebooking or receive a complete refund.",
+    "source": "Business Standard / Press Trust of India",
+    "published": "2026-10-24T17:51:52+00:00",
+    "ago": "8h",
+    "impact": "Negative",
+    "why": "Flight cancellations disrupt operations amid tensions.",
+    "url": "https://www.business-standard.com/industry/aviation/air-india-and-ai-express-cancel-riyadh-dammam-flights-till-nov-7-126102401155_1.html",
+    "chips": {},
+    "trend": [
+      0.95,
+      0.85,
+      0.7,
+      0.6,
+      0.4,
+      0.3,
+      0.1
+    ],
+    "color": "9B2C2C",
+    "premium": false,
+    "title_hi": "तनाव के चलते एयर इंडिया और अन्य विमान कंपनियों ने रोकीं उड़ानें",
+    "summary_hi": "क्षेत्रीय तनाव और हमलों के कारण एयर इंडिया और एयर इंडिया Express ने रियाद तथा दम्माम के लिए उड़ानों को 7 नवंबर तक रद्द कर दिया है, जबकि जेद्दा की सेवाएं 31 अक्टूबर तक स्थगित रहेंगी। IndiGo और Akasa Air ने भी सऊदी अरब के शहरों के लिए अपनी सेवाएं रोक दी हैं। 24 अक्टूबर या उससे पहले बुक टिकट वाले यात्री रीबुकिंग या पूरे रिफंड का विकल्प चुन सकते हैं।",
+    "why_hi": "तनाव के बीच उड़ानें रद्द होने से कामकाज प्रभावित।",
+    "chips_hi": {}
+  },
+  {
+    "v": 2,
+    "cat": "Economy",
+    "tk": "ECONOMY",
+    "title": "Delhi begins verifying 4.4 lakh old-age pension beneficiaries to clear ineligible names",
+    "summary": "The Delhi government has initiated a verification campaign to remove ineligible recipients from its old-age pension program, which currently covers about 4.4 lakh senior citizens. Following clearance for third-party Aadhaar authentication, personnel are conducting door-to-door biometric checks. Authorities aim to finish this process in three months, anticipating that duplicate records, deceased individuals, and those receiving other state aid will free up twenty to twenty-five percent of the slots.",
+    "source": "Business Standard / Press Trust of India",
+    "published": "2026-10-24T17:24:59+00:00",
+    "ago": "8h",
+    "impact": "Neutral",
+    "why": "Administrative verification drive with no direct financial i",
+    "url": "https://www.business-standard.com/economy/news/delhi-govt-begins-identifying-ineligible-old-age-pension-beneficiaries-126102401123_1.html",
+    "chips": {
+      "Total beneficiaries": "4.4 lakh",
+      "Monthly pension (60-": "Rs 2,000",
+      "Monthly pension (70+": "Rs 2,500"
+    },
+    "trend": [
+      0.5,
+      0.55,
+      0.45,
+      0.5,
+      0.47,
+      0.52,
+      0.5
+    ],
+    "color": "B7791F",
+    "premium": false,
+    "title_hi": "Delhi में बुजुर्ग पेंशन योजना के अयोग्य लाभार्थियों की पहचान के लिए शुरू हुई जांच",
+    "summary_hi": "दिल्ली सरकार ने पुरानी पेंशन योजना के अयोग्य लाभार्थियों को हटाने के लिए एक सत्यापन अभियान शुरू किया है, जिसमें लगभग 4.4 लाख वरिष्ठ नागरिक शामिल हैं। थर्ड-पार्टी आधार प्रमाणीकरण की अनुमति मिलने के बाद घर-घर जाकर बायोमेट्रिक जांच की जा रही है। अधिकारियों का अनुमान है कि यह प्रक्रिया तीन महीने में पूरी होगी और मृत या दोहरी सहायता पाने वाले लोगों को हटाने से 20 से 25 प्रतिशत जगह खाली हो सकती है। सरकार इस योजना के तहत 2,000 रुपये और 2,500 रुपये महीना देती है।",
+    "why_hi": "प्रशासनिक जांच प्रक्रिया, कोई सीधा वित्तीय असर नहीं।",
+    "chips_hi": {
+      "कुल लाभार्थी": "4.4 लाख",
+      "मासिक पेंशन (60-69 व": "₹2,000",
+      "मासिक पेंशन (70+ वर्": "₹2,500"
+    }
+  },
+  {
+    "v": 2,
+    "cat": "Markets",
+    "tk": "MARKETS",
+    "title": "Utssav CZ Gold Jewels approves 1:1 bonus issue to double capital",
+    "summary": "Utssav CZ Gold Jewels Ltd has announced a 1:1 bonus share issue, which will double its paid-up equity share capital to Rs 49.996 crore. The board approved issuing one new share for every existing share held, pending shareholder and regulatory approvals. This move will increase the total number of equity shares from 2.5 crore to 5 crore using reserves and retained earnings, with shares expected to be credited within 60 days.",
+    "source": "Business Standard / Press Trust of India",
+    "published": "2026-10-24T17:08:57+00:00",
+    "ago": "8h",
+    "impact": "Neutral",
+    "why": "Bonus issue expands capital without changing value.",
+    "url": "https://www.business-standard.com/markets/news/utssav-cz-gold-jewels-approves-1-1-bonus-issue-to-double-equity-capital-126102400806_1.html",
+    "chips": {
+      "Bonus ratio": "1:1",
+      "New equity capital": "Rs 49.996 crore",
+      "Total shares after i": "5 crore"
+    },
+    "trend": [
+      0.5,
+      0.55,
+      0.45,
+      0.5,
+      0.47,
+      0.52,
+      0.5
+    ],
+    "color": "B7791F",
+    "premium": false,
+    "title_hi": "Utssav CZ Gold Jewels ने 1:1 बोनस शेयर को दी मंजूरी",
+    "summary_hi": "Utssav CZ Gold Jewels Ltd ने 1:1 बोनस शेयर जारी करने को मंजूरी दे दी है, जिससे इसकी चुकता इक्विटी शेयर पूंजी बढ़कर ₹49.996 करोड़ हो जाएगी। बोर्ड ने मौजूदा शेयरधारकों को प्रत्येक शेयर पर एक नया शेयर देने का प्रस्ताव पास किया है। इस प्रक्रिया से कुल शेयरों की संख्या 2.5 करोड़ से बढ़कर 5 करोड़ हो जाएगी। इसके लिए कंपनी अपने रिजर्व और retained earnings का उपयोग करेगी।",
+    "why_hi": "बोनस शेयर जारी होने से पूंजी दोगुनी होगी।",
+    "chips_hi": {
+      "बोनस अनुपात": "1:1",
+      "नई इक्विटी पूंजी": "₹49.996 करोड़",
+      "कुल शेयर": "5 करोड़"
+    }
+  },
+  {
+    "v": 2,
+    "cat": "Industry",
     "tk": "INDUSTRY",
     "title": "FICCI Seeks Deeper Dutch Ties in Indian Manufacturing and Technology",
     "summary": "Industry body FICCI has invited increased investment from the Netherlands into India's manufacturing and technology sectors. FICCI Secretary General Anant Swarup noted that Commerce and Industry Minister Piyush Goyal's current visit to the Netherlands can help convert investment talks into actual projects. The chamber emphasized four priority areas, including manufacturing partnerships, technology collaborations, supply chain integration, and project tracking, while encouraging joint ventures and capacity expansion in engineering, equipment, and food processing.",
@@ -23,7 +126,7 @@
     ],
     "color": "0F766E",
     "premium": false,
-    "hi_tries": 1
+    "hi_tries": 2
   },
   {
     "v": 2,
@@ -61,6 +164,43 @@
       "नेट प्रॉफिट": "₹169.3 करोड़",
       "रेवेन्यू": "₹3,733.42 करोड़",
       "ग्रे सीमेंट बिक्री": "5.37 MT"
+    }
+  },
+  {
+    "v": 2,
+    "cat": "Earnings",
+    "tk": "AU SMALL FINANCE",
+    "title": "AU Small Finance Bank Q2FY27 result: Net profit jumps 53% to ₹858 crore",
+    "summary": "AU Small Finance Bank announced a 53 percent jump in its net profit for the quarter ending September 30, 2026, reaching Rs 858 crore compared to Rs 561 crore previously. Higher interest income helped total income rise to Rs 6,382 crore. The bank also reported improvements in net interest income, net interest margins, and asset quality during the same period.",
+    "source": "Business Standard / Press Trust of India",
+    "published": "2026-10-24T11:17:28+00:00",
+    "ago": "14h",
+    "impact": "Positive",
+    "why": "Higher net profit and improved asset quality.",
+    "url": "https://www.business-standard.com/companies/quarterly-results/au-small-finance-bank-q2fy27-result-net-profit-jumps-53-to-858-crore-126102400743_1.html",
+    "chips": {
+      "Net profit": "Rs 858 crore",
+      "Total income": "Rs 6,382 crore",
+      "Net interest income": "Rs 2,820 crore"
+    },
+    "trend": [
+      0.1,
+      0.25,
+      0.2,
+      0.5,
+      0.45,
+      0.8,
+      0.95
+    ],
+    "color": "0F766E",
+    "premium": false,
+    "title_hi": "AU Small Finance Bank का नेट प्रॉफिट 53 प्रतिशत कैसे बढ़ा?",
+    "summary_hi": "AU Small Finance Bank ने 30 सितंबर, 2026 को समाप्त तिमाही के लिए अपने नेट प्रॉफिट में 53 प्रतिशत की वृद्धि दर्ज की, जो पिछले साल के 561 करोड़ रुपये से बढ़कर 858 करोड़ रुपये हो गया। अधिक ब्याज आय के कारण कुल आय बढ़कर 6,382 करोड़ रुपये हो गई। बैंक ने इस दौरान नेट ब्याज आय, मार्جिन और परिसंपत्ति की गुणवत्ता में भी सुधार दिखाया।",
+    "why_hi": "बेहतर नेट प्रॉफिट और मजबूत आय वृद्धि।",
+    "chips_hi": {
+      "नेट प्रॉफिट": "₹858 करोड़",
+      "कुल आय": "₹6,382 करोड़",
+      "नेट ब्याज आय": "₹2,820 करोड़"
     }
   },
   {
@@ -647,138 +787,6 @@
     "chips_hi": {
       "शिकायतें मिलीं": "25",
       "अवधि": "FY26"
-    }
-  },
-  {
-    "v": 2,
-    "cat": "Industry",
-    "tk": "INDUSTRY",
-    "title": "Why did fertiliser sales plunge sharply in select border districts?",
-    "summary": "Fertiliser sales dropped significantly in specific border districts following the implementation of farmer-ID checks. This steep reduction in offtake has brought attention to potential past diversion of fertilisers, which includes the possible smuggling of subsidised urea across the border. Authorities are examining the situation as sales patterns shift in these sensitive regions.",
-    "source": "Business Standard",
-    "published": "2026-10-23T17:34:56+00:00",
-    "ago": "12h",
-    "impact": "Neutral",
-    "why": "Sales drop follows new ID checks.",
-    "url": "https://www.business-standard.com/industry/agriculture/fertiliser-sales-plunge-in-select-border-districts-after-farmer-id-checks-126102301680_1.html",
-    "chips": {},
-    "trend": [
-      0.5,
-      0.55,
-      0.45,
-      0.5,
-      0.47,
-      0.52,
-      0.5
-    ],
-    "color": "B7791F",
-    "premium": true,
-    "title_hi": "कुछ सीमावर्ती जिलों में अचानक क्यों घट गई उर्वरक की बिक्री?",
-    "summary_hi": "किसान पहचान पत्र जांच शुरू होने के बाद चुनिंदा सीमावर्ती जिलों में उर्वरक की बिक्री में भारी गिरावट दर्ज की गई है। इस अचानक आई गिरावट ने पहले होने वाले उर्वरक डायवर्जन के दायरे पर सवाल खड़े कर दिए हैं, जिसमें सब्सिडी वाले यूरिया की सीमा पार तस्करी की आशंका भी शामिल है।",
-    "why_hi": "पहचान पत्र जांच के बाद बिक्री घटी।",
-    "chips_hi": {}
-  },
-  {
-    "v": 2,
-    "cat": "Industry",
-    "tk": "INDUSTRY",
-    "title": "Why are upper-layer NBFCs facing stock exchange listing mandates?",
-    "summary": "Reserve Bank of India Governor Sanjay Malhotra stated that upper-layer non-banking financial companies are required to list on stock exchanges. These comments arrived during ongoing discussions regarding whether Tata Sons, the core holding entity of the Tata group, needs to launch a public offering.",
-    "source": "Business Standard",
-    "published": "2026-10-23T17:27:30+00:00",
-    "ago": "12h",
-    "impact": "Neutral",
-    "why": "Regulatory requirement discussed without clear fundamental e",
-    "url": "https://www.business-standard.com/industry/banking/upper-layer-cics-must-list-on-exchanges-says-rbi-governor-sanjay-malhotra-126102301588_1.html",
-    "chips": {},
-    "trend": [
-      0.5,
-      0.55,
-      0.45,
-      0.5,
-      0.47,
-      0.52,
-      0.5
-    ],
-    "color": "B7791F",
-    "premium": false,
-    "title_hi": "अपर-लेयर एनबीएफसी को स्टॉक एक्सचेंज पर लिस्ट होने की क्यों है जरूरत?",
-    "summary_hi": "भारतीय रिजर्व बैंक के गवर्नर संजय मल्होत्रा ​​ने कहा कि अपर-लेयर एनबीएफसी को स्टॉक एक्सचेंजों पर सूचीबद्ध होना आवश्यक है। यह बयान टाटा संस के पब्लिक होने की आवश्यकता पर चल रही बहस के बीच आया है।",
-    "why_hi": "नियामक आवश्यकता स्पष्ट प्रभाव के बिना चर्चा की गई।",
-    "chips_hi": {}
-  },
-  {
-    "v": 2,
-    "cat": "IPO",
-    "tk": "JIO PLATFORMS",
-    "title": "Jio Platforms IPO sees massive institutional demand with 22.19 times subscription",
-    "summary": "The initial share sale of Jio Platforms achieved an overall subscription of 22.19 times, driven heavily by institutional investors. Qualified institutional buyers placed bids for 70.6 times their allocated portion. Meanwhile, individual retail investors subscribed to their reserved segment by 2.7 times.",
-    "source": "Business Standard",
-    "published": "2026-10-23T17:25:57+00:00",
-    "ago": "12h",
-    "impact": "Positive",
-    "why": "Strong institutional demand boosted the overall subscription",
-    "url": "https://www.business-standard.com/markets/news/jio-platforms-ipo-rides-institutional-demand-to-22-19-times-subscription-126102301595_1.html",
-    "chips": {
-      "Total subscription": "22.19x",
-      "QIB quota": "70.6x",
-      "Retail segment": "2.7x"
-    },
-    "trend": [
-      0.1,
-      0.25,
-      0.2,
-      0.5,
-      0.45,
-      0.8,
-      0.95
-    ],
-    "color": "0F766E",
-    "premium": false,
-    "title_hi": "Jio Platforms IPO को संस्थागत निवेशकों की भारी मांग से मिला 22.19 गुना सब्सक्रिप्शन",
-    "summary_hi": "Jio Platforms के शुरुआती शेयर इश्यू को कुल मिलाकर 22.19 गुना सब्सक्रिप्शन मिला, जिसमें संस्थागत निवेशकों की ओर से सबसे ज्यादा मांग देखने को मिली। योग्य संस्थागत खरीदारों ने अपने कोटे से 70.6 गुना बोलियां लगाईं। वहीं, रिटेल सेगमेंट के निवेशकों ने अपने लिए आरक्षित हिस्से का 2.7 गुना खरीदा।",
-    "why_hi": "मजबूत संस्थागत मांग से सब्सक्रिप्शन में इजाफा हुआ।",
-    "chips_hi": {
-      "कुल सब्सक्रिप्शन": "22.19x",
-      "QIB कोटा": "70.6x",
-      "रिटेल सेगमेंट": "2.7x"
-    }
-  },
-  {
-    "v": 2,
-    "cat": "Markets",
-    "tk": "MARKETS",
-    "title": "Midcap and smallcap stocks record their sharpest weekly drop in 20 months",
-    "summary": "Indian midcap and smallcap stocks faced their steepest weekly decline in 20 months, with drops of 5.6% and 7.3% respectively. Market sentiment was shaken by escalating geopolitical tensions and climbing crude oil prices, leading to widespread losses across these segments during the tumultuous week.",
-    "source": "Business Standard",
-    "published": "2026-10-23T17:19:00+00:00",
-    "ago": "12h",
-    "impact": "Negative",
-    "why": "Sharp losses driven by external market pressures.",
-    "url": "https://www.business-standard.com/markets/news/tumultuous-week-midcaps-and-smallcaps-suffer-worst-losses-in-20-months-126102301443_1.html",
-    "chips": {
-      "Midcap fall": "5.6%",
-      "Smallcap fall": "7.3%",
-      "Time period": "20 months"
-    },
-    "trend": [
-      0.95,
-      0.85,
-      0.7,
-      0.6,
-      0.4,
-      0.3,
-      0.1
-    ],
-    "color": "9B2C2C",
-    "premium": false,
-    "title_hi": "मिडकैप और स्मॉलकैप शेयरों में 20 महीनों की सबसे बड़ी साप्ताहिक गिरावट",
-    "summary_hi": "मिडकैप और स्मॉलकैप शेयरों ने 20 महीनों में अपना सबसे खराब साप्ताहिक नुकसान दर्ज किया, जिसमें कच्चे तेल की बढ़ती कीमतों और भू-राजनीतिक तनाव के कारण क्रमशः 5.6% और 7.3% की गिरावट आई।",
-    "why_hi": "बाहरी दबाव के कारण शेयरों में भारी गिरावट।",
-    "chips_hi": {
-      "मिडकैप गिरावट": "5.6%",
-      "स्मॉलकैप गिरावट": "7.3%",
-      "समय अवधि": "20 महीने"
     }
   }
 ]
