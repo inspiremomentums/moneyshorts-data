@@ -2,6 +2,64 @@
   {
     "v": 2,
     "cat": "Industry",
+    "tk": "NMDC",
+    "title": "NMDC targets foreign mining assets across four continents for diversification",
+    "summary": "State-owned NMDC is looking for mining assets internationally across four continents. The company aims to reduce its reliance on its core steel-making raw material. It plans to generate at least one-fifth of its total revenue from selling other minerals. Currently, the firm fulfills a significant portion of domestic iron ore requirements.",
+    "source": "Business Standard / Press Trust of India",
+    "published": "2026-10-25T05:48:06+00:00",
+    "ago": "6m",
+    "impact": "Positive",
+    "why": "Diversification into new minerals boosts growth potential.",
+    "url": "https://www.business-standard.com/industry/news/nmdc-scouts-for-mining-assets-across-four-continents-to-diversify-portfolio-126102500102_1.html",
+    "chips": {},
+    "trend": [
+      0.1,
+      0.25,
+      0.2,
+      0.5,
+      0.45,
+      0.8,
+      0.95
+    ],
+    "color": "0F766E",
+    "premium": false,
+    "title_hi": "NMDC ने पोर्टफोलियो diversification के लिए चार महाद्वीपों में खंगाली खदानें",
+    "summary_hi": "NMDC ने अपने कारोबार को फैलाने के लिए चार महाद्वीपों में खनन संपत्तियों की तलाश शुरू कर दी है। कंपनी ने मुख्य इस्पात कच्चे माल के अलावा अन्य खनिजों की बिक्री से कम से कम 20 प्रतिशत आय अर्जित करने का लक्ष्य रखा है। यह कंपनी देश की एक चौथाई लौह अयस्क की मांग को पूरा करती है।",
+    "why_hi": "अन्य खनिजों से आय बढ़ने की उम्मीद।",
+    "chips_hi": {}
+  },
+  {
+    "v": 2,
+    "cat": "Companies",
+    "tk": "INDIAN HOTELS",
+    "title": "Indian Hotels upgrades revenue growth guidance for FY27",
+    "summary": "Indian Hotels has raised its revenue growth outlook for FY27 following solid performance in the second quarter. High room rates and strong occupancy levels drove this positive momentum. Market experts are also optimistic about the future performance of the company based on these ongoing trends in the hospitality sector.",
+    "source": "Business Standard",
+    "published": "2026-10-25T02:15:20+00:00",
+    "ago": "3h",
+    "impact": "Positive",
+    "why": "Higher room rates and occupancy boost revenue.",
+    "url": "https://www.business-standard.com/markets/news/demand-supply-mismatch-to-drive-revenue-growth-gains-for-indian-hotels-126102500052_1.html",
+    "chips": {},
+    "trend": [
+      0.1,
+      0.25,
+      0.2,
+      0.5,
+      0.45,
+      0.8,
+      0.95
+    ],
+    "color": "0F766E",
+    "premium": false,
+    "title_hi": "Indian Hotels ने FY27 के लिए बढ़ाई रेवेन्यू ग्रोथ गाइडेंस",
+    "summary_hi": "मजबूत रूम रेट और ऑक्यूपेंसी के दम पर Indian Hotels ने FY27 के लिए अपनी रेवेन्यू ग्रोथ गाइडेंस को बढ़ा दिया है। Q2FY27 में कंपनी का प्रदर्शन शानदार रहा, जिसके बाद जानकारों ने भी कंपनी के भविष्य को लेकर सकारात्मक रुख दिखाया है।",
+    "why_hi": "बेहतर रूम दरों और ऑक्यूपेंसी से बढ़ी आय।",
+    "chips_hi": {}
+  },
+  {
+    "v": 2,
+    "cat": "Industry",
     "tk": "AIR INDIA",
     "title": "Air India and other carriers suspend Saudi Arabia flights amid tensions",
     "summary": "Air India and Air India Express have extended the cancellation of flights to Riyadh and Dammam until November 7, while Jeddah services remain suspended until October 31. IndiGo and Akasa Air have also called off flights to Saudi Arabian cities due to rising regional tensions and airport attacks in the Gulf. Affected travelers with bookings made on or before October 24 can choose flexible rebooking or receive a complete refund.",
@@ -101,6 +159,35 @@
       "नई इक्विटी पूंजी": "₹49.996 करोड़",
       "कुल शेयर": "5 करोड़"
     }
+  },
+  {
+    "v": 2,
+    "cat": "Finance",
+    "tk": "FINANCE",
+    "title": "MCA extends financial filing deadlines to January 31 with fee waiver",
+    "summary": "The Ministry of Corporate Affairs has extended the deadlines for submitting financial statements and annual returns for the financial year. Companies now have until December 31 to submit financial statements and until January 31 to file annual returns. Additionally, extra fees have been waived off for these filings following concerns raised about portal glitches. This move aims to provide relief to businesses experiencing technical difficulties while completing their mandatory submissions on the official platform.",
+    "source": "Business Standard",
+    "published": "2026-10-24T16:39:19+00:00",
+    "ago": "13h",
+    "impact": "Neutral",
+    "why": "Deadline extension due to technical glitches.",
+    "url": "https://www.business-standard.com/finance/news/mca-extends-annual-filing-deadlines-waives-extra-fees-for-fy26-filings-126102401098_1.html",
+    "chips": {
+      "Financial statements": "December 31",
+      "Annual returns deadl": "January 31"
+    },
+    "trend": [
+      0.5,
+      0.55,
+      0.45,
+      0.5,
+      0.47,
+      0.52,
+      0.5
+    ],
+    "color": "B7791F",
+    "premium": false,
+    "hi_tries": 1
   },
   {
     "v": 2,
@@ -687,106 +774,5 @@
     "color": "B7791F",
     "premium": true,
     "hi_tries": 2
-  },
-  {
-    "v": 2,
-    "cat": "Markets",
-    "tk": "MARKETS",
-    "title": "Why did Sebi relax call-recording rules for research analysts?",
-    "summary": "Market regulator Sebi has removed the mandatory requirement for research analysts to keep call recordings of their interactions with institutional investors. This decision aims to ease the compliance burden and improve the ease of doing business. However, these professionals must still maintain records of interactions with all clients for five years through other verifiable methods like emails or signed physical documents. Records concerning active disputes or specific regulatory directions must also be preserved.",
-    "source": "Business Standard / Press Trust of India",
-    "published": "2026-10-23T17:56:16+00:00",
-    "ago": "8h",
-    "impact": "Positive",
-    "why": "Reduces compliance burden for research analysts.",
-    "url": "https://www.business-standard.com/markets/news/sebi-eases-call-recording-mandate-for-research-analysts-dealing-with-funds-126102301112_1.html",
-    "chips": {},
-    "trend": [
-      0.1,
-      0.25,
-      0.2,
-      0.5,
-      0.45,
-      0.8,
-      0.95
-    ],
-    "color": "0F766E",
-    "premium": false,
-    "title_hi": "Sebi ने research analysts के लिए call-recording के नियम क्यों आसान किए?",
-    "summary_hi": "मार्केट रेगुलेटर सेबी ने institutional investors के साथ बातचीत की कॉल रिकॉर्डिंग रखने की अनिवार्यता को खत्म कर दिया है। इसका उद्देश्य अनुपालन के बोझ को कम करना और कारोबार को आसान बनाना है। हालांकि, अन्य ग्राहकों के साथ बातचीत के रिकॉर्ड को पांच साल तक संभाल कर रखना होगा।",
-    "why_hi": "अनुपालन का बोझ कम हुआ है।",
-    "chips_hi": {}
-  },
-  {
-    "v": 2,
-    "cat": "Companies",
-    "tk": "APPLE INDIA",
-    "title": "Apple India revenue crosses 1 trillion rupees as FY26 sales jump 32%",
-    "summary": "iPhone maker Apple India saw its annual revenue increase by more than 32 per cent, crossing the one trillion rupee mark to reach Rs 1,04,607 crore for FY26 compared to Rs 79,060.5 crore in the previous fiscal year. Market intelligence data from Tofler also shows that the net profit for the period rose by 66 per cent to Rs 5,311 crore, while total expenses stood at Rs 96,224 crore during the same time.",
-    "source": "Business Standard / Press Trust of India",
-    "published": "2026-10-23T17:46:00+00:00",
-    "ago": "8h",
-    "impact": "Positive",
-    "why": "Strong revenue and net profit growth.",
-    "url": "https://www.business-standard.com/companies/news/apple-india-revenue-grows-32-to-cross-1-trillion-mark-in-fy26-tofler-126102301658_1.html",
-    "chips": {
-      "Revenue FY26": "Rs 1,04,607 crore",
-      "Net profit": "Rs 5,311 crore",
-      "Revenue growth": "32 per cent"
-    },
-    "trend": [
-      0.1,
-      0.25,
-      0.2,
-      0.5,
-      0.45,
-      0.8,
-      0.95
-    ],
-    "color": "0F766E",
-    "premium": false,
-    "title_hi": "Apple India की आय FY26 में 32% बढ़कर 1 लाख करोड़ रुपये के पार",
-    "summary_hi": "मार्केट इंटेलिजेंस फर्म Tofler के आंकड़ों के अनुसार, iPhone बनाने वाली कंपनी Apple India का रेवेन्यू FY26 में 32 प्रतिशत से अधिक बढ़कर 1,04,607 करोड़ रुपये हो गया। इससे पिछले वित्त वर्ष में यह आंकड़ा 79,060.5 करोड़ रुपये था। इसी अवधि के दौरान कंपनी का शुद्ध लाभ 66 प्रतिशत की बढ़ोतरी के साथ 5,311 करोड़ रुपये दर्ज किया गया, जबकि कुल खर्च 96,224 करोड़ रुपये रहा।",
-    "why_hi": "मजबूत आय और मुनाफे में बढ़ोतरी।",
-    "chips_hi": {
-      "रेवेन्यू FY26": "₹1,04,607 करोड़",
-      "शुद्ध लाभ": "₹5,311 करोड़",
-      "रेवेन्यू ग्रोथ": "32 प्रतिशत"
-    }
-  },
-  {
-    "v": 2,
-    "cat": "Markets",
-    "tk": "MARKETS",
-    "title": "Whistleblower tips on insider trading surge as Sebi receives 25 in FY26",
-    "summary": "Insider trading whistleblower tips have seen a sharp rise as the market expands. Experts have called for greater transparency, stronger safeguards, and a wider coverage of violations following the increase in reports received by Sebi.",
-    "source": "Business Standard",
-    "published": "2026-10-23T17:35:49+00:00",
-    "ago": "12h",
-    "impact": "Neutral",
-    "why": "Rise in whistleblower tips and expert calls.",
-    "url": "https://www.business-standard.com/markets/news/whistleblower-tipoffs-on-insider-trading-up-sharply-as-sebi-gets-25-in-fy26-126102301683_1.html",
-    "chips": {
-      "Tipoffs received": "25",
-      "Period": "FY26"
-    },
-    "trend": [
-      0.5,
-      0.55,
-      0.45,
-      0.5,
-      0.47,
-      0.52,
-      0.5
-    ],
-    "color": "B7791F",
-    "premium": true,
-    "title_hi": "FY26 में insider trading पर whistleblower की शिकायतें बढ़कर 25 हुईं",
-    "summary_hi": "बाज़ार के विस्तार के साथ whistleblower की रिपोर्ट में इज़ाफ़ा हुआ है। Sebi को मिली इन शिकायतों के बाद विशेषज्ञों ने अधिक पारदर्शिता, मज़बूत सुरक्षा उपायों और उल्लंघनों के दायरे को बढ़ाने की मांग की है।",
-    "why_hi": "शिकायतें बढ़ने से पारदर्शिता और सुरक्षा की मांग।",
-    "chips_hi": {
-      "शिकायतें मिलीं": "25",
-      "अवधि": "FY26"
-    }
   }
 ]
