@@ -2,6 +2,241 @@
   {
     "v": 2,
     "cat": "Industry",
+    "tk": "GODREJ",
+    "title": "Godrej Properties expects record ₹41,500 crore sales bookings this fiscal",
+    "summary": "Realty firm Godrej Properties anticipates a 22 per cent rise in sales bookings to reach a record Rs 41,500 crore this fiscal year. Chairperson Pirojsha Godrej stated that strong consumer demand across new and ongoing residential projects is driving the growth. Despite global uncertainties, housing demand remains steady. The company is on track to meet or exceed its annual guidance across key metrics, including sales bookings, new launches, fund collections, and land acquisitions.",
+    "source": "Business Standard / Press Trust of India",
+    "published": "2026-10-25T09:17:59+00:00",
+    "ago": "36m",
+    "impact": "Positive",
+    "why": "Higher sales bookings driven by strong demand.",
+    "url": "https://www.business-standard.com/industry/news/godrej-properties-eyes-record-41-500-crore-sales-bookings-on-strong-demand-126102500287_1.html",
+    "chips": {
+      "Sales bookings": "Rs 41,500 crore",
+      "Growth": "22 per cent"
+    },
+    "trend": [
+      0.1,
+      0.25,
+      0.2,
+      0.5,
+      0.45,
+      0.8,
+      0.95
+    ],
+    "color": "0F766E",
+    "premium": false,
+    "title_hi": "Godrej Properties को इस वित्त वर्ष ₹41,500 करोड़ के रिकॉर्ड sales की उम्मीद",
+    "summary_hi": "रियल एस्टेट कंपनी Godrej Properties की sales bookings इस वित्त वर्ष 22 प्रतिशत बढ़कर रिकॉर्ड Rs 41,500 करोड़ तक पहुंचने की उम्मीद है। Chairperson Pirojsha Godrej के अनुसार, नए और चल रहे आवासीय प्रोजेक्ट्स में मजबूत consumer demand के कारण कंपनी यह लक्ष्य हासिल कर रही है। वैश्विक अनिश्चितताओं के बावजूद housing demand स्थिर बनी हुई है।",
+    "why_hi": "मजबूत मांग से sales में बढ़ोतरी।",
+    "chips_hi": {
+      "Sales bookings": "₹41,500 करोड़",
+      "वृद्धि": "22 प्रतिशत"
+    }
+  },
+  {
+    "v": 2,
+    "cat": "Companies",
+    "tk": "COMPANIES",
+    "title": "HCLTech CEO sees artificial intelligence reshaping the technology industry",
+    "summary": "HCL Technologies CEO and Managing Director C Vijayakumar stated that the technology sector has reached an inflection point due to artificial intelligence. Marking ten years since taking charge of the company, he noted that the future belongs to those who continuously reinvent themselves rather than just the largest players. He highlighted how business models have been disrupted and industry boundaries shifted over the past decade.",
+    "source": "Business Standard / Press Trust of India",
+    "published": "2026-10-25T09:17:52+00:00",
+    "ago": "36m",
+    "impact": "Neutral",
+    "why": "Reflections on industry trends and company leadership.",
+    "url": "https://www.business-standard.com/companies/news/ai-at-inflection-point-future-belongs-to-those-who-reinvent-hcltech-ceo-126102500320_1.html",
+    "chips": {},
+    "trend": [
+      0.5,
+      0.55,
+      0.45,
+      0.5,
+      0.47,
+      0.52,
+      0.5
+    ],
+    "color": "B7791F",
+    "premium": false,
+    "title_hi": "HCLTech CEO ने कहा, आर्टिफिशियल इंटेलिजेंस से बदल रहा है टेक सेक्टर",
+    "summary_hi": "HCL Technologies के CEO और मैनेजिंग डायरेक्टर सी विजयकुमार ने कहा है कि आर्टिफिशियल इंटेलिजेंस की वजह से टेक सेक्टर एक महत्वपूर्ण मोड़ पर आ गया है। कंपनी की कमान संभालने के दस साल पूरे होने पर उन्होंने बताया कि भविष्य उन लोगों का है जो लगातार खुद को बदलते रहते हैं, न कि केवल सबसे बड़े खिलाड़ियों का।",
+    "why_hi": "इंडस्ट्री के ट्रेंड्स और लीडरशिप पर विचार।",
+    "chips_hi": {}
+  },
+  {
+    "v": 2,
+    "cat": "Industry",
+    "tk": "INDUSTRY",
+    "title": "China's Export Curbs Threaten Solar Supply Chain, Warns Solex Chief",
+    "summary": "India must boost domestic production of solar equipment to prevent a supply crunch caused by China's proposed export restrictions on key photovoltaic technologies. China currently controls a major share of the global solar supply chain. Industry leader Chetan Shah highlighted a gap between India's module manufacturing capacity and its cell capacity, warning that delays in building domestic cell capacity could lead to project delays and tariff pressures.",
+    "source": "Business Standard / Press Trust of India",
+    "published": "2026-10-25T09:17:29+00:00",
+    "ago": "36m",
+    "impact": "Negative",
+    "why": "Export curbs risk local supply chain bottlenecks.",
+    "url": "https://www.business-standard.com/industry/news/india-must-boost-solar-manufacturing-amid-china-export-curbs-solex-chief-126102500247_1.html",
+    "chips": {
+      "Module capacity": "262 GW",
+      "Cell capacity": "37 GW"
+    },
+    "trend": [
+      0.95,
+      0.85,
+      0.7,
+      0.6,
+      0.4,
+      0.3,
+      0.1
+    ],
+    "color": "9B2C2C",
+    "premium": false,
+    "title_hi": "चीन के निर्यात प्रतिबंधों से सोलर सप्लाई चेन पर मंडराया खतरा",
+    "summary_hi": "चीन द्वारा सोलर उपकरणों से जुड़ी तकनीकों के निर्यात पर प्रस्तावित प्रतिबंधों के बीच भारत को घरेलू उत्पादन बढ़ाने की जरूरत है। सोलेक्स एनर्जी के चेयरमैन चेतन शाह ने चेतावनी दी है कि यदि समय पर घरेलू सेल क्षमता नहीं बढ़ाई गई, तो सप्लाई संकट, प्रोजेक्ट में देरी और टैरिफ पर दबाव बढ़ सकता है। रिपोर्ट के अनुसार, भारत के पास मॉड्यूल निर्माण क्षमता और सेल क्षमता के बीच बड़ा अंतर है।",
+    "why_hi": "निर्यात प्रतिबंधों से घरेलू आपूर्ति बाधित होने की आशंका।",
+    "chips_hi": {
+      "मॉड्यूल क्षमता": "262 GW",
+      "सेल क्षमता": "37 GW"
+    }
+  },
+  {
+    "v": 2,
+    "cat": "Industry",
+    "tk": "INDUSTRY",
+    "title": "Can airlines claim GST refunds on cancelled tickets under specific conditions?",
+    "summary": "The GST Appellate Tribunal ruled that GST paid on cancelled airline tickets qualifies for a refund if the airline returns both the fare and GST to passengers with proof. The tribunal directed the revenue department to process Singapore Airlines' eight refund claims totaling Rs 45,92,528 within two weeks along with interest. The case involved flights cancelled due to COVID-19 between October 2019 and March 2021 where fares and taxes were given back to travellers.",
+    "source": "Business Standard / Press Trust of India",
+    "published": "2026-10-25T08:53:50+00:00",
+    "ago": "1h",
+    "impact": "Positive",
+    "why": "Refunds and interest approved for airline.",
+    "url": "https://www.business-standard.com/industry/aviation/gstat-allows-gst-refund-on-cancelled-air-tickets-if-fare-taxes-returned-126102500262_1.html",
+    "chips": {
+      "Refund claims total": "Rs 45,92,528",
+      "Period": "October 2019 and Mar"
+    },
+    "trend": [
+      0.1,
+      0.25,
+      0.2,
+      0.5,
+      0.45,
+      0.8,
+      0.95
+    ],
+    "color": "0F766E",
+    "premium": false,
+    "hi_tries": 1
+  },
+  {
+    "v": 2,
+    "cat": "Markets",
+    "tk": "MARKETS",
+    "title": "Top firms lose Rs 1.55 trillion as key stocks decline",
+    "summary": "The combined market valuation of eight of the top ten valuable firms dropped by Rs 1,55,671.9 crore last week, led by declines in HDFC Bank and Bajaj Finance. During the holiday-truncated week, the BSE Sensex fell 1,605.44 points and the NSE Nifty dropped 546.15 points. The total market capitalisation of BSE-listed firms decreased to Rs 4,51,83,393.14 crore over four sessions. Meanwhile, TCS and Larsen & Toubro recorded valuation gains.",
+    "source": "Business Standard / Press Trust of India",
+    "published": "2026-10-25T08:53:21+00:00",
+    "ago": "1h",
+    "impact": "Negative",
+    "why": "Top firms lost major market valuation.",
+    "url": "https://www.business-standard.com/markets/news/top-10-firms-lose-1-55-trillion-in-mcap-as-hdfc-bank-bajaj-finance-fall-126102500268_1.html",
+    "chips": {
+      "Sensex fall": "1,605.44 points",
+      "Nifty fall": "546.15 points",
+      "Top firms loss": "Rs 1,55,671.9 crore"
+    },
+    "trend": [
+      0.95,
+      0.85,
+      0.7,
+      0.6,
+      0.4,
+      0.3,
+      0.1
+    ],
+    "color": "9B2C2C",
+    "premium": false,
+    "title_hi": "शीर्ष कंपनियों के बाजार मूल्यांकन में 1.55 लाख करोड़ रुपये की गिरावट",
+    "summary_hi": "पिछले सप्ताह देश की आठ शीर्ष मूल्यवान कंपनियों का कुल बाजार मूल्यांकन 1,55,671.9 करोड़ रुपये घट गया, जिसमें सबसे बड़ा नुकसान HDFC Bank और Bajaj Finance को हुआ। इस छोटे कारोबारी हफ्ते के दौरान बीएसई सेंसेक्स 1,605.44 अंक और एनएसई निफ्टी 546.15 अंक गिर गया। इसके अलावा, बीएसई-सूचीबद्ध कंपनियों का कुल बाजार पूंजीकरण घटकर 4,51,83,393.14 करोड़ रुपये रह गया। हालांकि, इस दौरान टीसीएस और लार्सन एंड टुब्रो को लाभ हुआ।",
+    "why_hi": "शीर्ष कंपनियों का बाजार मूल्यांकन कम हुआ।",
+    "chips_hi": {
+      "सेंसेक्स गिरावट": "1,605.44 अंक",
+      "निफ्टी गिरावट": "546.15 अंक",
+      "शीर्ष कंपनियों का नु": "₹1,55,671.9 करोड़"
+    }
+  },
+  {
+    "v": 2,
+    "cat": "Markets",
+    "tk": "MARKETS",
+    "title": "Five IPOs to raise nearly ₹2,600 crore as primary market stays active",
+    "summary": "Five firms, featuring EAAA India Alternatives, SFC Environmental Technologies, and M K Sons Fine Jewels, plan to launch initial public offerings next week. BLS Polymers and Bombay Coated and Special Steels will also release their maiden public offerings, targeting nearly 2,600 crore from the primary market. Merchant bankers report that several additional companies remain in the pipeline with launch plans expected by November 5, ahead of the regional holiday period.",
+    "source": "Business Standard / Press Trust of India",
+    "published": "2026-10-25T07:36:49+00:00",
+    "ago": "2h",
+    "impact": "Positive",
+    "why": "Increased primary market activity and fundraising.",
+    "url": "https://www.business-standard.com/markets/news/five-ipos-to-raise-nearly-2-600-crore-as-primary-market-stays-active-126102500208_1.html",
+    "chips": {
+      "Fundraising amount": "Rs 2,600 crore",
+      "Upcoming IPO count": "5 companies",
+      "Launch plans deadlin": "November 5"
+    },
+    "trend": [
+      0.1,
+      0.25,
+      0.2,
+      0.5,
+      0.45,
+      0.8,
+      0.95
+    ],
+    "color": "0F766E",
+    "premium": false,
+    "title_hi": "पाच कंपनियाँ शुरुआती शेयर बिक्री के जरिए लगभग 2,600 करोड़ जुटाने को तैयार",
+    "summary_hi": "EAAA इंडिया ऑल्टरनेटिव्स, SFC एनवायरनमेंटल टेक्नोलॉजीज और M Kसंस फाइन ज्वेल्स सहित पाँच कंपनियाँ अगले सप्ताह अपने शुरुआती सार्वजनिक निर्गम लाने जा रही हैं। BLS पॉलिमर और बॉम्बे कोटेड एंड स्पेशल स्टील्स भी प्राथमिक बाजार से लगभग 2,600 करोड़ जुटाने के लिए अपने निर्गम प्रस्तुत करेंगे। मर्चेंट बैंकरों के अनुसार, कई अन्य कंपनियाँ भी कतार में हैं और उनकी योजनाएँ 5 नवंबर तक आने की उम्मीद है।",
+    "why_hi": "प्राथमिक बाजार में बढ़ी हुई गतिविधियाँ।",
+    "chips_hi": {
+      "जुटाने की राशि": "₹2,600 करोड़",
+      "आगामी आईपीओ संख्या": "5 कंपनियाँ",
+      "योजना की अंतिम तिथि": "5 नवंबर"
+    }
+  },
+  {
+    "v": 2,
+    "cat": "Companies",
+    "tk": "L'OREAL",
+    "title": "How is L'Oreal accelerating its growth across the Indian market?",
+    "summary": "French cosmetics company L'Oreal is experiencing a strong turnaround in its India operations. This momentum is supported by better team capabilities, increased localisation, faster online commerce, and higher demand for skincare and haircare items. The consumer products division reported double-digit growth in India during the September quarter. Additionally, the broader SAPMENA-SSA region, which includes India, posted an adjusted like-for-like growth of 19.2 percent in the third quarter.",
+    "source": "Business Standard / Press Trust of India",
+    "published": "2026-10-25T07:20:47+00:00",
+    "ago": "2h",
+    "impact": "Positive",
+    "why": "Strong sales and regional growth momentum.",
+    "url": "https://www.business-standard.com/companies/news/l-oreal-sees-india-biz-gaining-momentum-expands-skincare-online-presence-126102500132_1.html",
+    "chips": {
+      "Quarter growth": "19.2 per cent"
+    },
+    "trend": [
+      0.1,
+      0.25,
+      0.2,
+      0.5,
+      0.45,
+      0.8,
+      0.95
+    ],
+    "color": "0F766E",
+    "premium": false,
+    "title_hi": "L'Oreal का भारत में बिजनेस कैसे तेजी से बढ़ रहा है?",
+    "summary_hi": "फ्रेंच कॉस्मेटिक्स कंपनी L'Oreal का भारत में कारोबार काफी बेहतर हो रहा है। इस तेजी के पीछे बेहतर टीम क्षमताएं, स्थानीय स्तर पर निर्माण, ऑनलाइन बिक्री में तेजी और स्किनकेयर व हेयरकेयर उत्पादों की बढ़ती मांग है। सितंबर तिमाही में कंपनी के कंज्यूमर प्रोडक्ट्स डिवीजन ने भारत में डबल-डिजिट ग्रोथ दर्ज की। इसके अलावा, SAPMENA-SSA क्षेत्र में तीसरी तिमाही के दौरान 19.2 प्रतिशत की बढ़त दर्ज की गई।",
+    "why_hi": "मजबूत बिक्री और क्षेत्रीय वृद्धि गति।",
+    "chips_hi": {
+      "तिमाही वृद्धि": "19.2 प्रतिशत"
+    }
+  },
+  {
+    "v": 2,
+    "cat": "Industry",
     "tk": "NMDC",
     "title": "NMDC targets foreign mining assets across four continents for diversification",
     "summary": "State-owned NMDC is looking for mining assets internationally across four continents. The company aims to reduce its reliance on its core steel-making raw material. It plans to generate at least one-fifth of its total revenue from selling other minerals. Currently, the firm fulfills a significant portion of domestic iron ore requirements.",
@@ -187,7 +422,7 @@
     ],
     "color": "B7791F",
     "premium": false,
-    "hi_tries": 1
+    "hi_tries": 2
   },
   {
     "v": 2,
@@ -544,235 +779,5 @@
     "summary_hi": "डिएगो और पर्नाड रिकार्ड का प्रतिनिधित्व करने वाले लिकर इंडस्ट्री ग्रुप ने कहा कि भारत द्वारा बल्क स्कॉच आयात को कम टैरिफ से बाहर रखना व्यापार समझौते के विपरीत है।",
     "why_hi": "बल्क स्कॉच को कम टैरिफ से बाहर रखा गया।",
     "chips_hi": {}
-  },
-  {
-    "v": 2,
-    "cat": "Earnings",
-    "tk": "IDFC FIRST BANK",
-    "title": "IDFC First Bank and over 30 companies report Q2 earnings",
-    "summary": "More than 30 companies, including IDFC First Bank, Castrol India, and JK Cement, are set to announce their July-September financial results. Other firms releasing their Q2 numbers today include Kotak Mahindra, AU Small Finance Bank, Kajaria Ceramics, Netweb Technologies, and Apollo Micro Systems.",
-    "source": "Business Standard",
-    "published": "2026-10-24T05:02:16+00:00",
-    "ago": "52m",
-    "impact": "Neutral",
-    "why": "Scheduled financial results announcements.",
-    "url": "https://www.business-standard.com/companies/quarterly-results/q2-results-idfc-first-bank-castrol-india-jk-cement-30-more-on-oct-24-126102400225_1.html",
-    "chips": {
-      "Companies": "30+",
-      "Period": "Q2FY27"
-    },
-    "trend": [
-      0.5,
-      0.55,
-      0.45,
-      0.5,
-      0.47,
-      0.52,
-      0.5
-    ],
-    "color": "B7791F",
-    "premium": false,
-    "title_hi": "IDFC First Bank सहित 30 से अधिक कंपनियां आज देंगी Q2 नतीजे",
-    "summary_hi": "IDFC First Bank, Castrol India और JK Cement सहित 30 से अधिक कंपनियां अपने जुलाई-सितंबर तिमाही के वित्तीय परिणाम घोषित करने वाली हैं। इसके अलावा कोटक महिंद्रा, AU स्मॉल फाइनेंस बैंक, कजारिया सेरेमिक्स और नेटवेब टेक्नोलॉजीज जैसी अन्य फर्में भी आज अपने Q2 नतीजे जारी करेंगी।",
-    "why_hi": "निर्धारित वित्तीय परिणाम घोषणाएं।",
-    "chips_hi": {
-      "कंपनियां": "30+",
-      "अवधि": "Q2FY27"
-    }
-  },
-  {
-    "v": 2,
-    "cat": "Earnings",
-    "tk": "GODREJ",
-    "title": "How did Godrej Properties see a 62 percent profit drop?",
-    "summary": "Godrej Properties reported a 62 percent decline in net profit to Rs 154 crore for the second quarter. Despite the quarterly drop in earnings, the company experienced higher cash collections and record bookings for the first half of the financial year. Additionally, total income increased by 38 percent compared to the same period in the previous year, helping balance the weak quarterly performance.",
-    "source": "Business Standard",
-    "published": "2026-10-23T18:59:59+00:00",
-    "ago": "6h",
-    "impact": "Neutral",
-    "why": "Mixed results balance profit drop and income growth.",
-    "url": "https://www.business-standard.com/companies/news/godrej-properties-q2fy27-results-net-profit-falls-62-to-154-crore-126102400024_1.html",
-    "chips": {
-      "Net profit drop": "62%",
-      "Net profit": "Rs 154 crore",
-      "Total income rise": "38%"
-    },
-    "trend": [
-      0.5,
-      0.55,
-      0.45,
-      0.5,
-      0.47,
-      0.52,
-      0.5
-    ],
-    "color": "B7791F",
-    "premium": false,
-    "title_hi": "Godrej Properties का मुनाफा 62% गिरने के बाद भी आय क्यों बढ़ी?",
-    "summary_hi": "Godrej Properties का दूसरी तिमाही में नेट प्रॉफिट 62 प्रतिशत घटकर 154 करोड़ रुपये रह गया। तिमाही आय कमजोर रहने के बावजूद, कंपनी को रिकॉर्ड बुकिंग और बेहतर कैश कलेक्शन का लाभ मिला। इसके अलावा, पिछले साल की समान अवधि की तुलना में कुल आय में 38 प्रतिशत की वृद्धि दर्ज की गई।",
-    "why_hi": "कमजोर मुनाफे के साथ आय में भी बढ़ोतरी हुई।",
-    "chips_hi": {
-      "मुनाफे में गिरावट": "62%",
-      "नेट प्रॉफिट": "₹154 करोड़",
-      "कुल आय में वृद्धि": "38%"
-    }
-  },
-  {
-    "v": 2,
-    "cat": "Companies",
-    "tk": "WAZIRX",
-    "title": "WazirX pivots to recovery and AI tools after rebuilding trust",
-    "summary": "WazirX is directing its attention toward recovering value for customers and creditors following a year of rebuilding. Alongside restoring trust, the platform plans to integrate artificial intelligence tools to enhance trading outcomes. This strategic shift follows a year since the company restarted its operations.",
-    "source": "Business Standard / Press Trust of India",
-    "published": "2026-10-23T18:16:55+00:00",
-    "ago": "7h",
-    "impact": "Neutral",
-    "why": "Strategic shift toward recovery and AI.",
-    "url": "https://www.business-standard.com/companies/people/wazirx-shifts-focus-to-recovery-ai-after-year-of-rebuilding-shetty-126102301053_1.html",
-    "chips": {},
-    "trend": [
-      0.5,
-      0.55,
-      0.45,
-      0.5,
-      0.47,
-      0.52,
-      0.5
-    ],
-    "color": "B7791F",
-    "premium": false,
-    "title_hi": "रिबिल्डिंग के एक साल बाद WazirX का फोकस रिकवरी और AI पर",
-    "summary_hi": "ऑपरेशन दोबारा शुरू करने के एक साल बाद WazirX ग्राहकों और लेनदारों के लिए वैल्यू रिकवर करने, भरोसा दोबारा कायम करने और ट्रेडिंग के नतीजे बेहतर बनाने के लिए आर्टिफिशियल इंटेलिजेंस टूल्स का इस्तेमाल करने पर ध्यान दे रहा है।",
-    "why_hi": "रिकवरी और AI पर रणनीतिक ध्यान।",
-    "chips_hi": {}
-  },
-  {
-    "v": 2,
-    "cat": "Markets",
-    "tk": "MARKETS",
-    "title": "Sebi considers automatic approval route for market infrastructure investments",
-    "summary": "Market regulator Sebi has floated a proposal to introduce an automatic approval system for specific activities and investments undertaken by market infrastructure institutions. This potential regulatory shift would apply under specific financial limits and strict governance safeguards, according to the latest proposal. The move aims to streamline operational processes for these institutions while maintaining necessary regulatory oversight through defined financial and governance boundaries.",
-    "source": "Business Standard / Press Trust of India",
-    "published": "2026-10-23T18:15:57+00:00",
-    "ago": "7h",
-    "impact": "Neutral",
-    "why": "Streamlines regulatory approvals for infrastructure institut",
-    "url": "https://www.business-standard.com/markets/news/sebi-mulls-automatic-approval-for-investments-activities-by-exchanges-126102301079_1.html",
-    "chips": {},
-    "trend": [
-      0.5,
-      0.55,
-      0.45,
-      0.5,
-      0.47,
-      0.52,
-      0.5
-    ],
-    "color": "B7791F",
-    "premium": false,
-    "title_hi": "Sebi बाजार के बुनियादी ढांचे के निवेश के लिए स्वचालित मंजूरी पर कर रहा विचार",
-    "summary_hi": "मार्केट रेगुलेटर सेबी ने मार्केट इन्फ्रास्ट्रक्चर संस्थानों द्वारा किए जाने वाले कुछ निवेश और गतिविधियों के लिए एक स्वचालित मंजूरी मार्ग का प्रस्ताव रखा है। यह संभावित बदलाव वित्तीय सीमाओं और कड़े शासन सुरक्षा उपायों के अधीन होगा, ताकि इन संस्थानों के लिए परिचालन प्रक्रियाओं को सरल बनाया जा सके।",
-    "why_hi": "बुनियादी ढांचा संस्थानों के लिए मंजूरी आसान होगी।",
-    "chips_hi": {}
-  },
-  {
-    "v": 2,
-    "cat": "Markets",
-    "tk": "AVADHUT SATHE",
-    "title": "Why did Sebi order a major refund of 546 crore rupees?",
-    "summary": "Market regulator Sebi has directed Avadhut Sathe Trading Academy and its founder to refund over 546 crore rupees collected from participants. The authorities found that the academy offered unregistered investment advisory and research services through paid programs and messaging groups without valid registration. Additionally, the entities face substantial penalties and a two-year ban from accessing the securities market until the refund is completed.",
-    "source": "Business Standard / Press Trust of India",
-    "published": "2026-10-23T18:06:25+00:00",
-    "ago": "7h",
-    "impact": "Negative",
-    "why": "Regulatory penalties and ban imposed for violations.",
-    "url": "https://www.business-standard.com/markets/news/sebi-orders-avadhut-sathe-trading-academy-and-its-founder-to-refund-546-cr-126102301645_1.html",
-    "chips": {
-      "Refund amount": "Rs 546.17 crore",
-      "Interest amount": "Rs 67.87 crore",
-      "Total penalty": "Rs 11.5 crore"
-    },
-    "trend": [
-      0.95,
-      0.85,
-      0.7,
-      0.6,
-      0.4,
-      0.3,
-      0.1
-    ],
-    "color": "9B2C2C",
-    "premium": false,
-    "title_hi": "Sebi ने Avadhut Sathe Trading Academy को 546 करोड़ रुपये लौटाने का आदेश क्यों दिया?",
-    "summary_hi": "मार्केट रेगुलेटर सेबी ने Avadhut Sathe Trading Academy और उसके संस्थापक को निवेशकों से जुटाए गए 546 करोड़ रुपये से अधिक की राशि ब्याज के साथ वापस करने का निर्देश दिया है। जांच में पाया गया कि यह संस्थान बिना पंजीकरण के भुगतान वाले कार्यक्रमों और मैसेजिंग ग्रुप के जरिए निवेश सलाह दे रहा था। इसके अलावा, संस्था और संबंधित लोगों पर जुर्माना लगाया गया है और उन्हें दो साल के लिए बाजार से प्रतिबंधित कर दिया गया है।",
-    "why_hi": "नियमों के उल्लंघन पर रेगुलेटर ने कार्रवाई की।",
-    "chips_hi": {
-      "रिफंड राशि": "₹546.17 करोड़",
-      "ब्याज राशि": "₹67.87 करोड़",
-      "कुल जुर्माना": "₹11.5 करोड़"
-    }
-  },
-  {
-    "v": 2,
-    "cat": "Earnings",
-    "tk": "COFORGE",
-    "title": "Coforge Q2 results: Net profit surges 56.5% to ₹588 cr, revenue up 53.6%",
-    "summary": "Coforge reported a 56.5 percent rise in consolidated net profit to Rs 588 crore for the second quarter ending September 30, 2026, compared to Rs 375.8 crore a year ago. Revenue from operations increased by 53.6 percent to Rs 6,171 crore from Rs 4,016 crore. Growth was driven by AI-led execution in fixed-price projects. The firm signed 8 large deals with a total contract value of USD 1.04 billion and raised its operational profit margin guidance to 17 percent.",
-    "source": "Business Standard / Press Trust of India",
-    "published": "2026-10-23T18:01:49+00:00",
-    "ago": "19h",
-    "impact": "Positive",
-    "why": "Higher profit, revenue, and deal wins.",
-    "url": "https://www.business-standard.com/companies/news/coforge-q2-results-net-profit-surges-56-5-to-588-cr-revenue-up-53-6-126102301329_1.html",
-    "chips": {
-      "Net profit": "Rs 588 crore",
-      "Revenue": "Rs 6,171 crore",
-      "New orders": "USD 1.04 billion"
-    },
-    "trend": [
-      0.1,
-      0.25,
-      0.2,
-      0.5,
-      0.45,
-      0.8,
-      0.95
-    ],
-    "color": "0F766E",
-    "premium": false,
-    "title_hi": "Coforge का शुद्ध मुनाफा दूसरी तिमाही में 56.5 प्रतिशत क्यों बढ़ा?",
-    "summary_hi": "30 सितंबर 2026 को समाप्त दूसरी तिमाही में Coforge का समेकित शुद्ध मुनाफा 56.5 प्रतिशत बढ़कर ₹588 करोड़ हो गया, जबकि पिछले साल यह ₹375.8 करोड़ था। संचालन से प्राप्त राजस्व 53.6 प्रतिशत बढ़कर ₹6,171 करोड़ पहुंच गया। एआई आधारित काम और बड़े सौदों से यह बढ़त आई। कंपनी ने ₹1.04 अरब डॉलर के नए ऑर्डर हासिल किए और अगले साल के लिए परिचालन मार्जिन अनुमान को बढ़ाकर 17 प्रतिशत कर दिया।",
-    "why_hi": "मुनाफे, राजस्व और नए ऑर्डर में वृद्धि।",
-    "chips_hi": {
-      "शुद्ध मुनाफा": "₹588 करोड़",
-      "राजस्व": "₹6,171 करोड़",
-      "नए ऑर्डर": "USD 1.04 अरब"
-    }
-  },
-  {
-    "v": 2,
-    "cat": "Finance",
-    "tk": "FINANCE",
-    "title": "What are the new financial stability risks flagged by FSDC?",
-    "summary": "The Financial Stability and Development Council, led by Finance Minister Nirmala Sitharaman, has highlighted potential risks to financial stability. The panel pointed out concerns arising from rising global bond yields and the rapid expansion of artificial intelligence. It also stressed the need for enhanced financial safeguards to address these challenges, alongside ongoing geopolitical uncertainties that could impact markets.",
-    "source": "Business Standard",
-    "published": "2026-10-23T17:58:33+00:00",
-    "ago": "8h",
-    "impact": "Neutral",
-    "why": "Identifies macro risks without company impact.",
-    "url": "https://www.business-standard.com/finance/news/fsdc-flags-ai-boom-rising-global-bond-yields-as-financial-stability-risks-126102301466_1.html",
-    "chips": {},
-    "trend": [
-      0.5,
-      0.55,
-      0.45,
-      0.5,
-      0.47,
-      0.52,
-      0.5
-    ],
-    "color": "B7791F",
-    "premium": true,
-    "hi_tries": 2
   }
 ]
