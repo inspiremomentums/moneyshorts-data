@@ -1,6 +1,251 @@
 [
   {
     "v": 2,
+    "cat": "Earnings",
+    "tk": "DHANLAXMI BANK",
+    "title": "Dhanlaxmi Bank Q2 net profit more than doubles to ₹48.55 crore",
+    "summary": "Dhanlaxmi Bank announced a more than two-fold rise in net profit, reaching Rs 48.55 crore for the second quarter of FY27, compared to Rs 23.20 crore in the same period of FY26. The private sector bank's interest income grew by 23 per cent to Rs 471 crore. Additionally, asset quality improved as gross non-performing assets dropped to 1.76 per cent from 3.10 per cent year-on-year. Meanwhile, company shares traded lower on the BSE.",
+    "source": "Business Standard / Press Trust of India",
+    "published": "2026-10-26T09:37:39+00:00",
+    "ago": "30m",
+    "impact": "Positive",
+    "why": "Net profit and interest income rose significantly.",
+    "url": "https://www.business-standard.com/companies/quarterly-results/dhanlaxmi-bank-q2-results-net-profit-more-than-doubles-to-48-55-crore-126102600661_1.html",
+    "chips": {
+      "Net profit": "Rs 48.55 crore",
+      "Interest income": "Rs 471 crore",
+      "Gross NPAs": "1.76 per cent"
+    },
+    "trend": [
+      0.1,
+      0.25,
+      0.2,
+      0.5,
+      0.45,
+      0.8,
+      0.95
+    ],
+    "color": "0F766E",
+    "premium": false,
+    "title_hi": "Dhanlaxmi Bank का Q2 नेट प्रॉफिट दोगुना से अधिक होकर ₹48.55 करोड़ हुआ",
+    "summary_hi": "Dhanlaxmi Bank ने वित्त वर्ष 27 की दूसरी तिमाही में अपने नेट प्रॉफिट में दोगुने से अधिक की बढ़ोतरी दर्ज की, जो ₹48.55 करोड़ पर पहुंच गया। पिछले वित्त वर्ष की इसी तिमाही में यह ₹23.20 करोड़ था। बैंक की ब्याज आय 23 प्रतिशत बढ़कर ₹471 करोड़ हो गई। इसके अलावा, ग्रॉस एनपीए सुधरकर 1.76 प्रतिशत पर आ गया। इस बीच, बीएसई पर बैंक के शेयर गिरावट के साथ कारोबार कर रहे थे।",
+    "why_hi": "नेट प्रॉफिट और ब्याज आय में भारी बढ़ोतरी।",
+    "chips_hi": {
+      "नेट प्रॉफिट": "₹48.55 करोड़",
+      "ब्याज आय": "₹471 करोड़",
+      "ग्रॉस एनपीए": "1.76 प्रतिशत"
+    }
+  },
+  {
+    "v": 2,
+    "cat": "Industry",
+    "tk": "INDUSTRY",
+    "title": "Why was Britannia fined for its whole wheat bread claims?",
+    "summary": "The Central Consumer Protection Authority has penalized Britannia Industries Ltd one lakh rupees for misleading advertisements. The ads claimed the product was one hundred percent whole wheat bread, while the packaging showed a wheat content of sixty-two percent. The regulator ordered the company to stop the advertisement immediately across all media platforms and submit a compliance report within fifteen days following its suo motu cognisance.",
+    "source": "Business Standard / Press Trust of India",
+    "published": "2026-10-26T09:33:38+00:00",
+    "ago": "35m",
+    "impact": "Negative",
+    "why": "Misleading ad penalty damages brand trust.",
+    "url": "https://www.business-standard.com/industry/news/ccpa-imposes-1-lakh-fine-on-britannia-over-100-whole-wheat-bread-claim-126102600645_1.html",
+    "chips": {
+      "Fine": "Rs 1 lakh",
+      "Wheat content": "62 per cent",
+      "Compliance time": "15 days"
+    },
+    "trend": [
+      0.95,
+      0.85,
+      0.7,
+      0.6,
+      0.4,
+      0.3,
+      0.1
+    ],
+    "color": "9B2C2C",
+    "premium": false,
+    "title_hi": "Britannia को 100% whole wheat bread के दावे पर क्यों लगा जुर्माना?",
+    "summary_hi": "Central Consumer Protection Authority ने Britannia Industries Ltd पर misleading advertisement के लिए 1 लाख रुपये का जुर्माना लगाया है। विज्ञापन में 100% whole wheat bread होने का दावा किया गया था, जबकि प्रोडक्ट में गेहूं की मात्रा केवल 62 प्रतिशत थी। रेगुलेटर ने कंपनी को सभी प्लेटफॉर्म्स पर तुरंत विज्ञापन बंद करने और 15 दिन के भीतर कंप्लायंस रिपोर्ट जमा करने का निर्देश दिया है।",
+    "why_hi": "भ्रामक विज्ञापन के कारण कंपनी पर लगा जुर्माना।",
+    "chips_hi": {
+      "जुर्माना": "₹1 लाख",
+      "गेहूं की मात्रा": "62 प्रतिशत",
+      "समय सीमा": "15 दिन"
+    }
+  },
+  {
+    "v": 2,
+    "cat": "Companies",
+    "tk": "COMPANIES",
+    "title": "HCL opens two Indian centres for Japanese chipmaker Rapidus",
+    "summary": "HCL Technologies has launched two development facilities in Bengaluru and Hubli to assist Rapidus Corporation with its semiconductor engineering requirements. These centres will provide services such as mask design, layout design, and process design kit development. Additionally, HCLTech will work with the Japanese chipmaker to build a talent pipeline in India to support its engineering needs in Japan.",
+    "source": "Business Standard / Press Trust of India",
+    "published": "2026-10-26T09:33:08+00:00",
+    "ago": "35m",
+    "impact": "Positive",
+    "why": "Expands advanced semiconductor engineering service capabilit",
+    "url": "https://www.business-standard.com/companies/news/hcl-opens-2-development-centres-to-support-rapidus-chip-engineering-needs-126102600638_1.html",
+    "chips": {},
+    "trend": [
+      0.1,
+      0.25,
+      0.2,
+      0.5,
+      0.45,
+      0.8,
+      0.95
+    ],
+    "color": "0F766E",
+    "premium": false,
+    "title_hi": "HCL ने जापानी चिपमेकर Rapidus के लिए खोले दो केंद्र",
+    "summary_hi": "HCL Technologies ने जापानी चिपमेकर Rapidus Corporation के सहयोग से बेंगलुरु और हुबली में दो नए विकास केंद्र शुरू किए हैं। ये केंद्र मास्क डिज़ाइन, लेआउट डिज़ाइन और प्रोसेस डिज़ाइन किट जैसी सेमीकंडक्टर इंजीनियरिंग सेवाएं प्रदान करेंगे। इसके अलावा, कंपनी जापान में Rapidus की प्रतिभा आवश्यकताओं को पूरा करने के लिए भारत में इंजीनियरों का एक दल तैयार करेगी।",
+    "why_hi": "सेमीकंडक्टर इंजीनियरिंग सेवाओं का विस्तार हुआ।",
+    "chips_hi": {}
+  },
+  {
+    "v": 2,
+    "cat": "Industry",
+    "tk": "INDUSTRY",
+    "title": "How a 25-year licence triggered a major power crisis in Haryana",
+    "summary": "A 25-year licence granted to Eleven Power has created a major dispute between Haryana's power regulator and the state government. This decision has sparked serious concerns regarding parallel distribution networks and the overall financial stability of state-run power distribution companies in the region.",
+    "source": "Business Standard",
+    "published": "2026-10-26T09:27:30+00:00",
+    "ago": "41m",
+    "impact": "Negative",
+    "why": "Threatens state discom financial health.",
+    "url": "https://www.business-standard.com/industry/news/haryana-electricity-row-eleven-power-private-licence-discom-explained-126102600662_1.html",
+    "chips": {
+      "Licence period": "25-year"
+    },
+    "trend": [
+      0.95,
+      0.85,
+      0.7,
+      0.6,
+      0.4,
+      0.3,
+      0.1
+    ],
+    "color": "9B2C2C",
+    "premium": false,
+    "title_hi": "Haryana में 25 साल के लाइसेंस से कैसे शुरू हुआ बिजली संकट",
+    "summary_hi": "Eleven Power को मिले 25 साल के लाइसेंस की वजह से Haryana के बिजली नियामक और सरकार आमने-सामने आ गए हैं। इस कदम से पैरेलल डिस्ट्रीब्यूशन और सरकारी बिजली कंपनियों की वित्तीय सेहत को लेकर चिंताएं बढ़ गई हैं।",
+    "why_hi": "सरकारी बिजली कंपनियों की वित्तीय सेहत पर असर।",
+    "chips_hi": {
+      "लाइसेंस अवधि": "25 साल"
+    }
+  },
+  {
+    "v": 2,
+    "cat": "Earnings",
+    "tk": "TAMILNAD",
+    "title": "Tamilnad Mercantile Bank Q2 net profit jumps 42% to Rs 451 crore",
+    "summary": "Tamilnad Mercantile Bank announced its financial results for the September quarter. The private sector lender posted a net profit of Rs 451 crore, showing a 42 percent increase compared to the previous year. Interest income also grew to Rs 1,820 crore. Additionally, the bank saw an improvement in asset quality as gross non-performing assets dropped to 0.61 percent of gross advances during the quarter.",
+    "source": "Business Standard / Press Trust of India",
+    "published": "2026-10-26T09:23:55+00:00",
+    "ago": "45m",
+    "impact": "Positive",
+    "why": "Profit surged and bad loans declined.",
+    "url": "https://www.business-standard.com/companies/quarterly-results/tamilnad-mercantile-bank-q2-results-net-profit-up-42-to-451-crore-126102600618_1.html",
+    "chips": {
+      "Net profit": "Rs 451 crore",
+      "Interest income": "Rs 1,820 crore",
+      "Gross NPAs": "0.61 percent"
+    },
+    "trend": [
+      0.1,
+      0.25,
+      0.2,
+      0.5,
+      0.45,
+      0.8,
+      0.95
+    ],
+    "color": "0F766E",
+    "premium": false,
+    "title_hi": "Tamilnad Mercantile Bank का Q2 मुनाफा 42% बढ़कर ₹451 करोड़ हुआ",
+    "summary_hi": "Tamilnad Mercantile Bank ने सितंबर तिमाही के अपने वित्तीय नतीजे जारी किए हैं। प्राइवेट सेक्टर के इस बैंक का शुद्ध लाभ 42 प्रतिशत बढ़कर 451 करोड़ रुपये पर पहुंच गया है। इस दौरान बैंक की ब्याज से होने वाली आय भी बढ़कर 1,820 करोड़ रुपये हो गई। इसके अलावा, बैंक की संपत्ति की गुणवत्ता में भी सुधार हुआ है और सकल एनपीए घटकर 0.61 प्रतिशत रह गया है।",
+    "why_hi": "मुनाफा बढ़ा और एनपीए कम हुआ।",
+    "chips_hi": {
+      "शुद्ध लाभ": "₹451 करोड़",
+      "ब्याज आय": "₹1,820 करोड़",
+      "सकल एनपीए": "0.61 प्रतिशत"
+    }
+  },
+  {
+    "v": 2,
+    "cat": "Earnings",
+    "tk": "COMPANIES",
+    "title": "Indian Overseas Bank sees 56% net profit jump in Q2",
+    "summary": "Indian Overseas Bank reported a 56 percent growth in net profit, reaching Rs 1,912 crore for the quarter ended September 30. The public sector lender benefited from higher interest income, which rose 17 percent to Rs 9,201 crore. Additionally, the bank's asset quality improved as gross non-performing assets decreased to 1.19 percent.",
+    "source": "Business Standard / Press Trust of India",
+    "published": "2026-10-26T09:11:31+00:00",
+    "ago": "58m",
+    "impact": "Positive",
+    "why": "Higher profit and improved asset quality.",
+    "url": "https://www.business-standard.com/companies/quarterly-results/iob-q2-net-profit-rises-56-pc-to-rs-1-912-cr-on-higher-interest-income-126102600566_1.html",
+    "chips": {
+      "Net profit": "Rs 1,912 crore",
+      "Interest income": "Rs 9,201 crore",
+      "Gross NPAs": "1.19 per cent"
+    },
+    "trend": [
+      0.1,
+      0.25,
+      0.2,
+      0.5,
+      0.45,
+      0.8,
+      0.95
+    ],
+    "color": "0F766E",
+    "premium": false,
+    "title_hi": "Indian Overseas Bank का Q2 में शुद्ध लाभ 56% बढ़ा",
+    "summary_hi": "Indian Overseas Bank ने 30 सितंबर को समाप्त तिमाही के लिए अपने शुद्ध लाभ में 56 प्रतिशत की वृद्धि दर्ज की, जो 1,912 करोड़ रुपये रहा। बैंक की ब्याज आय बढ़कर 9,201 करोड़ रुपये हो गई। इसके साथ ही, बैंक के सकल एनपीए में भी सुधार देखा गया।",
+    "why_hi": "बढ़ा हुआ मुनाफा और बेहतर एसेट क्वालिटी।",
+    "chips_hi": {
+      "शुद्ध लाभ": "₹1,912 करोड़",
+      "ब्याज आय": "₹9,201 करोड़",
+      "सकल एनपीए": "1.19 प्रतिशत"
+    }
+  },
+  {
+    "v": 2,
+    "cat": "Industry",
+    "tk": "HYUNDAI",
+    "title": "Hyundai aims for 250,000 mid-size SUV sales in 2027",
+    "summary": "Hyundai is aiming to sell 250,000 mid-size SUVs by the year 2027 through the Creta and Bayon models. Managing Director and Chief Executive Officer Tarun Garg noted that this projection serves as a baseline rather than an upper limit. The company anticipates that these two vehicles will attract distinct groups of buyers within the mid-size SUV market segment.",
+    "source": "Business Standard",
+    "published": "2026-10-26T09:03:10+00:00",
+    "ago": "1h",
+    "impact": "Positive",
+    "why": "Higher targeted sales boost growth outlook.",
+    "url": "https://www.business-standard.com/industry/auto/hyundai-mid-size-suv-sales-2027-creta-bayon-tarun-garg-126102600623_1.html",
+    "chips": {
+      "Target sales": "250,000",
+      "Target year": "2027"
+    },
+    "trend": [
+      0.1,
+      0.25,
+      0.2,
+      0.5,
+      0.45,
+      0.8,
+      0.95
+    ],
+    "color": "0F766E",
+    "premium": false,
+    "title_hi": "Hyundai का 2027 तक 250,000 mid-size SUV बेचने का लक्ष्य",
+    "summary_hi": "Hyundai ने Creta और Bayon के दम पर 2027 तक 250,000 mid-size SUV बेचने का लक्ष्य रखा है। Managing Director और CEO Tarun Garg के अनुसार, यह आंकड़ा किसी सीमा की जगह एक शुरुआती आधार है। कंपनी को उम्मीद है कि ये दोनों गाड़ियां mid-size SUV के बाजार में अलग-अलग तरह के ग्राहकों को आकर्षित करेंगी।",
+    "why_hi": "बिक्री का बड़ा लक्ष्य विकास को दर्शाता है।",
+    "chips_hi": {
+      "लक्ष्य बिक्री": "250,000",
+      "लक्ष्य वर्ष": "2027"
+    }
+  },
+  {
+    "v": 2,
     "cat": "Markets",
     "tk": "SHRIRAM FINANCE",
     "title": "Shriram Finance slips 10% in 2 days, hits 11-month low; here's why",
@@ -60,7 +305,7 @@
     ],
     "color": "9B2C2C",
     "premium": false,
-    "hi_tries": 1
+    "hi_tries": 2
   },
   {
     "v": 2,
@@ -539,243 +784,6 @@
     "why_hi": "बॉंड राइट-ऑफ पर अदालती फैसले की समीक्षा।",
     "chips_hi": {
       "AT-1 बॉंड राइट-ऑफ": "₹8,415 करोड़"
-    }
-  },
-  {
-    "v": 2,
-    "cat": "Companies",
-    "tk": "SHRIRAM FINANCE",
-    "title": "Shriram Finance targets ₹20,000 crore gold loan book with EV push",
-    "summary": "Shriram Finance plans to double the share of gold loans in its assets under management to 5 percent within two years. Alongside this goal, the company is focusing on expanding its electric vehicle financing segment and is exploring business partnerships with automotive manufacturers from Japan.",
-    "source": "Business Standard",
-    "published": "2026-10-25T11:39:24+00:00",
-    "ago": "2h",
-    "impact": "Positive",
-    "why": "Expansion plans in gold and EV loans.",
-    "url": "https://www.business-standard.com/companies/people/shriram-finance-eyes-20-000-crore-gold-loan-book-bets-big-on-ev-growth-126102500447_1.html",
-    "chips": {
-      "Target book": "₹20,000 crore",
-      "Target share": "5 per cent"
-    },
-    "trend": [
-      0.1,
-      0.25,
-      0.2,
-      0.5,
-      0.45,
-      0.8,
-      0.95
-    ],
-    "color": "0F766E",
-    "premium": false,
-    "title_hi": "Shriram Finance का लक्ष्य ₹20,000 करोड़ का गोल्ड लोन बुक और EV पर जोर",
-    "summary_hi": "Shriram Finance ने आगामी दो वर्षों में अपनी परिसंपत्तियों में गोल्ड लोन की हिस्सेदारी को बढ़ाकर 5 प्रतिशत करने की योजना बनाई है। इसके साथ ही, कंपनी इलेक्ट्रिक वाहन फाइनेंसिंग का विस्तार कर रही है और जापानी ऑटोमेकर कंपनियों के साथ साझेदारी की संभावना तलाश रही है।",
-    "why_hi": "गोल्ड और EV लोन में विस्तार योजना।",
-    "chips_hi": {
-      "लक्ष्य बुक": "₹20,000 करोड़",
-      "लक्ष्य हिस्सा": "5 प्रतिशत"
-    }
-  },
-  {
-    "v": 2,
-    "cat": "Industry",
-    "tk": "GODREJ",
-    "title": "Godrej Properties expects record ₹41,500 crore sales bookings this fiscal",
-    "summary": "Realty firm Godrej Properties anticipates a 22 per cent rise in sales bookings to reach a record Rs 41,500 crore this fiscal year. Chairperson Pirojsha Godrej stated that strong consumer demand across new and ongoing residential projects is driving the growth. Despite global uncertainties, housing demand remains steady. The company is on track to meet or exceed its annual guidance across key metrics, including sales bookings, new launches, fund collections, and land acquisitions.",
-    "source": "Business Standard / Press Trust of India",
-    "published": "2026-10-25T09:17:59+00:00",
-    "ago": "36m",
-    "impact": "Positive",
-    "why": "Higher sales bookings driven by strong demand.",
-    "url": "https://www.business-standard.com/industry/news/godrej-properties-eyes-record-41-500-crore-sales-bookings-on-strong-demand-126102500287_1.html",
-    "chips": {
-      "Sales bookings": "Rs 41,500 crore",
-      "Growth": "22 per cent"
-    },
-    "trend": [
-      0.1,
-      0.25,
-      0.2,
-      0.5,
-      0.45,
-      0.8,
-      0.95
-    ],
-    "color": "0F766E",
-    "premium": false,
-    "title_hi": "Godrej Properties को इस वित्त वर्ष ₹41,500 करोड़ के रिकॉर्ड sales की उम्मीद",
-    "summary_hi": "रियल एस्टेट कंपनी Godrej Properties की sales bookings इस वित्त वर्ष 22 प्रतिशत बढ़कर रिकॉर्ड Rs 41,500 करोड़ तक पहुंचने की उम्मीद है। Chairperson Pirojsha Godrej के अनुसार, नए और चल रहे आवासीय प्रोजेक्ट्स में मजबूत consumer demand के कारण कंपनी यह लक्ष्य हासिल कर रही है। वैश्विक अनिश्चितताओं के बावजूद housing demand स्थिर बनी हुई है।",
-    "why_hi": "मजबूत मांग से sales में बढ़ोतरी।",
-    "chips_hi": {
-      "Sales bookings": "₹41,500 करोड़",
-      "वृद्धि": "22 प्रतिशत"
-    }
-  },
-  {
-    "v": 2,
-    "cat": "Companies",
-    "tk": "COMPANIES",
-    "title": "HCLTech CEO sees artificial intelligence reshaping the technology industry",
-    "summary": "HCL Technologies CEO and Managing Director C Vijayakumar stated that the technology sector has reached an inflection point due to artificial intelligence. Marking ten years since taking charge of the company, he noted that the future belongs to those who continuously reinvent themselves rather than just the largest players. He highlighted how business models have been disrupted and industry boundaries shifted over the past decade.",
-    "source": "Business Standard / Press Trust of India",
-    "published": "2026-10-25T09:17:52+00:00",
-    "ago": "36m",
-    "impact": "Neutral",
-    "why": "Reflections on industry trends and company leadership.",
-    "url": "https://www.business-standard.com/companies/news/ai-at-inflection-point-future-belongs-to-those-who-reinvent-hcltech-ceo-126102500320_1.html",
-    "chips": {},
-    "trend": [
-      0.5,
-      0.55,
-      0.45,
-      0.5,
-      0.47,
-      0.52,
-      0.5
-    ],
-    "color": "B7791F",
-    "premium": false,
-    "title_hi": "HCLTech CEO ने कहा, आर्टिफिशियल इंटेलिजेंस से बदल रहा है टेक सेक्टर",
-    "summary_hi": "HCL Technologies के CEO और मैनेजिंग डायरेक्टर सी विजयकुमार ने कहा है कि आर्टिफिशियल इंटेलिजेंस की वजह से टेक सेक्टर एक महत्वपूर्ण मोड़ पर आ गया है। कंपनी की कमान संभालने के दस साल पूरे होने पर उन्होंने बताया कि भविष्य उन लोगों का है जो लगातार खुद को बदलते रहते हैं, न कि केवल सबसे बड़े खिलाड़ियों का।",
-    "why_hi": "इंडस्ट्री के ट्रेंड्स और लीडरशिप पर विचार।",
-    "chips_hi": {}
-  },
-  {
-    "v": 2,
-    "cat": "Industry",
-    "tk": "INDUSTRY",
-    "title": "China's Export Curbs Threaten Solar Supply Chain, Warns Solex Chief",
-    "summary": "India must boost domestic production of solar equipment to prevent a supply crunch caused by China's proposed export restrictions on key photovoltaic technologies. China currently controls a major share of the global solar supply chain. Industry leader Chetan Shah highlighted a gap between India's module manufacturing capacity and its cell capacity, warning that delays in building domestic cell capacity could lead to project delays and tariff pressures.",
-    "source": "Business Standard / Press Trust of India",
-    "published": "2026-10-25T09:17:29+00:00",
-    "ago": "36m",
-    "impact": "Negative",
-    "why": "Export curbs risk local supply chain bottlenecks.",
-    "url": "https://www.business-standard.com/industry/news/india-must-boost-solar-manufacturing-amid-china-export-curbs-solex-chief-126102500247_1.html",
-    "chips": {
-      "Module capacity": "262 GW",
-      "Cell capacity": "37 GW"
-    },
-    "trend": [
-      0.95,
-      0.85,
-      0.7,
-      0.6,
-      0.4,
-      0.3,
-      0.1
-    ],
-    "color": "9B2C2C",
-    "premium": false,
-    "title_hi": "चीन के निर्यात प्रतिबंधों से सोलर सप्लाई चेन पर मंडराया खतरा",
-    "summary_hi": "चीन द्वारा सोलर उपकरणों से जुड़ी तकनीकों के निर्यात पर प्रस्तावित प्रतिबंधों के बीच भारत को घरेलू उत्पादन बढ़ाने की जरूरत है। सोलेक्स एनर्जी के चेयरमैन चेतन शाह ने चेतावनी दी है कि यदि समय पर घरेलू सेल क्षमता नहीं बढ़ाई गई, तो सप्लाई संकट, प्रोजेक्ट में देरी और टैरिफ पर दबाव बढ़ सकता है। रिपोर्ट के अनुसार, भारत के पास मॉड्यूल निर्माण क्षमता और सेल क्षमता के बीच बड़ा अंतर है।",
-    "why_hi": "निर्यात प्रतिबंधों से घरेलू आपूर्ति बाधित होने की आशंका।",
-    "chips_hi": {
-      "मॉड्यूल क्षमता": "262 GW",
-      "सेल क्षमता": "37 GW"
-    }
-  },
-  {
-    "v": 2,
-    "cat": "Industry",
-    "tk": "INDUSTRY",
-    "title": "Can airlines claim GST refunds on cancelled tickets under specific conditions?",
-    "summary": "The GST Appellate Tribunal ruled that GST paid on cancelled airline tickets qualifies for a refund if the airline returns both the fare and GST to passengers with proof. The tribunal directed the revenue department to process Singapore Airlines' eight refund claims totaling Rs 45,92,528 within two weeks along with interest. The case involved flights cancelled due to COVID-19 between October 2019 and March 2021 where fares and taxes were given back to travellers.",
-    "source": "Business Standard / Press Trust of India",
-    "published": "2026-10-25T08:53:50+00:00",
-    "ago": "1h",
-    "impact": "Positive",
-    "why": "Refunds and interest approved for airline.",
-    "url": "https://www.business-standard.com/industry/aviation/gstat-allows-gst-refund-on-cancelled-air-tickets-if-fare-taxes-returned-126102500262_1.html",
-    "chips": {
-      "Refund claims total": "Rs 45,92,528",
-      "Period": "October 2019 and Mar"
-    },
-    "trend": [
-      0.1,
-      0.25,
-      0.2,
-      0.5,
-      0.45,
-      0.8,
-      0.95
-    ],
-    "color": "0F766E",
-    "premium": false,
-    "hi_tries": 2
-  },
-  {
-    "v": 2,
-    "cat": "Markets",
-    "tk": "MARKETS",
-    "title": "Top firms lose Rs 1.55 trillion as key stocks decline",
-    "summary": "The combined market valuation of eight of the top ten valuable firms dropped by Rs 1,55,671.9 crore last week, led by declines in HDFC Bank and Bajaj Finance. During the holiday-truncated week, the BSE Sensex fell 1,605.44 points and the NSE Nifty dropped 546.15 points. The total market capitalisation of BSE-listed firms decreased to Rs 4,51,83,393.14 crore over four sessions. Meanwhile, TCS and Larsen & Toubro recorded valuation gains.",
-    "source": "Business Standard / Press Trust of India",
-    "published": "2026-10-25T08:53:21+00:00",
-    "ago": "1h",
-    "impact": "Negative",
-    "why": "Top firms lost major market valuation.",
-    "url": "https://www.business-standard.com/markets/news/top-10-firms-lose-1-55-trillion-in-mcap-as-hdfc-bank-bajaj-finance-fall-126102500268_1.html",
-    "chips": {
-      "Sensex fall": "1,605.44 points",
-      "Nifty fall": "546.15 points",
-      "Top firms loss": "Rs 1,55,671.9 crore"
-    },
-    "trend": [
-      0.95,
-      0.85,
-      0.7,
-      0.6,
-      0.4,
-      0.3,
-      0.1
-    ],
-    "color": "9B2C2C",
-    "premium": false,
-    "title_hi": "शीर्ष कंपनियों के बाजार मूल्यांकन में 1.55 लाख करोड़ रुपये की गिरावट",
-    "summary_hi": "पिछले सप्ताह देश की आठ शीर्ष मूल्यवान कंपनियों का कुल बाजार मूल्यांकन 1,55,671.9 करोड़ रुपये घट गया, जिसमें सबसे बड़ा नुकसान HDFC Bank और Bajaj Finance को हुआ। इस छोटे कारोबारी हफ्ते के दौरान बीएसई सेंसेक्स 1,605.44 अंक और एनएसई निफ्टी 546.15 अंक गिर गया। इसके अलावा, बीएसई-सूचीबद्ध कंपनियों का कुल बाजार पूंजीकरण घटकर 4,51,83,393.14 करोड़ रुपये रह गया। हालांकि, इस दौरान टीसीएस और लार्सन एंड टुब्रो को लाभ हुआ।",
-    "why_hi": "शीर्ष कंपनियों का बाजार मूल्यांकन कम हुआ।",
-    "chips_hi": {
-      "सेंसेक्स गिरावट": "1,605.44 अंक",
-      "निफ्टी गिरावट": "546.15 अंक",
-      "शीर्ष कंपनियों का नु": "₹1,55,671.9 करोड़"
-    }
-  },
-  {
-    "v": 2,
-    "cat": "Markets",
-    "tk": "MARKETS",
-    "title": "Five IPOs to raise nearly ₹2,600 crore as primary market stays active",
-    "summary": "Five firms, featuring EAAA India Alternatives, SFC Environmental Technologies, and M K Sons Fine Jewels, plan to launch initial public offerings next week. BLS Polymers and Bombay Coated and Special Steels will also release their maiden public offerings, targeting nearly 2,600 crore from the primary market. Merchant bankers report that several additional companies remain in the pipeline with launch plans expected by November 5, ahead of the regional holiday period.",
-    "source": "Business Standard / Press Trust of India",
-    "published": "2026-10-25T07:36:49+00:00",
-    "ago": "2h",
-    "impact": "Positive",
-    "why": "Increased primary market activity and fundraising.",
-    "url": "https://www.business-standard.com/markets/news/five-ipos-to-raise-nearly-2-600-crore-as-primary-market-stays-active-126102500208_1.html",
-    "chips": {
-      "Fundraising amount": "Rs 2,600 crore",
-      "Upcoming IPO count": "5 companies",
-      "Launch plans deadlin": "November 5"
-    },
-    "trend": [
-      0.1,
-      0.25,
-      0.2,
-      0.5,
-      0.45,
-      0.8,
-      0.95
-    ],
-    "color": "0F766E",
-    "premium": false,
-    "title_hi": "पाच कंपनियाँ शुरुआती शेयर बिक्री के जरिए लगभग 2,600 करोड़ जुटाने को तैयार",
-    "summary_hi": "EAAA इंडिया ऑल्टरनेटिव्स, SFC एनवायरनमेंटल टेक्नोलॉजीज और M Kसंस फाइन ज्वेल्स सहित पाँच कंपनियाँ अगले सप्ताह अपने शुरुआती सार्वजनिक निर्गम लाने जा रही हैं। BLS पॉलिमर और बॉम्बे कोटेड एंड स्पेशल स्टील्स भी प्राथमिक बाजार से लगभग 2,600 करोड़ जुटाने के लिए अपने निर्गम प्रस्तुत करेंगे। मर्चेंट बैंकरों के अनुसार, कई अन्य कंपनियाँ भी कतार में हैं और उनकी योजनाएँ 5 नवंबर तक आने की उम्मीद है।",
-    "why_hi": "प्राथमिक बाजार में बढ़ी हुई गतिविधियाँ।",
-    "chips_hi": {
-      "जुटाने की राशि": "₹2,600 करोड़",
-      "आगामी आईपीओ संख्या": "5 कंपनियाँ",
-      "योजना की अंतिम तिथि": "5 नवंबर"
     }
   }
 ]
