@@ -1,6 +1,194 @@
 [
   {
     "v": 2,
+    "cat": "Companies",
+    "tk": "TATA SONS",
+    "title": "Tata Trusts defends staying private as board meetings approach",
+    "summary": "Tata Trusts has defended its decision to remain private as upcoming board meetings for Tata Steel and Tata Sons draw attention. The Charity Commissioner will make the final decision on the matter. Key figures including Chandrasekaran and Noel are in focus ahead of these discussions. The ongoing developments center around the governance structure and the private status of Tata Trusts.",
+    "source": "Business Standard",
+    "published": "2026-10-25T18:35:34+00:00",
+    "ago": "7h",
+    "impact": "Neutral",
+    "why": "Board meetings and governance discussions underway.",
+    "url": "https://www.business-standard.com/companies/news/chandrasekaran-noel-in-focus-ahead-of-tata-steel-tata-sons-board-meets-126102500668_1.html",
+    "chips": {},
+    "trend": [
+      0.5,
+      0.55,
+      0.45,
+      0.5,
+      0.47,
+      0.52,
+      0.5
+    ],
+    "color": "B7791F",
+    "premium": true,
+    "title_hi": "Tata Steel और Tata Sons की बैठक से पहले चर्चा में आए चंद्रशेखरन और नोएल",
+    "summary_hi": "Tata Trusts ने प्राइवेट बने रहने के अपने कदम का बचाव किया है, और अब इस पर चैरिटी कमिश्नर फैसला लेंगे। Tata Steel और Tata Sons के बोर्ड की बैठकों से पहले चंद्रशेखरन और नोएल चर्चा के केंद्र में हैं। यह पूरा मामला ट्रस्ट के निजी स्वरूप और उससे जुड़े फैसलों से जुड़ा हुआ है।",
+    "why_hi": "बोर्ड बैठकों से पहले नेतृत्व चर्चा में।",
+    "chips_hi": {}
+  },
+  {
+    "v": 2,
+    "cat": "Industry",
+    "tk": "INDUSTRY",
+    "title": "Delhi urbanises 48 villages, opening new avenues for realty developers",
+    "summary": "The decision to urbanise 48 rural villages in Delhi has created potential new opportunities for real estate developers. However, the success of this move will largely depend on crucial factors such as infrastructure development, obtaining proper land-use permissions, and effective overall implementation.",
+    "source": "Business Standard",
+    "published": "2026-10-25T18:03:41+00:00",
+    "ago": "8h",
+    "impact": "Positive",
+    "why": "Urbanisation opens new real estate opportunities.",
+    "url": "https://www.business-standard.com/industry/news/delhi-urbanises-48-villages-opening-new-avenues-for-realty-developers-126102500437_1.html",
+    "chips": {
+      "Villages urbanised": "48"
+    },
+    "trend": [
+      0.1,
+      0.25,
+      0.2,
+      0.5,
+      0.45,
+      0.8,
+      0.95
+    ],
+    "color": "0F766E",
+    "premium": true,
+    "title_hi": "दिल्ली ने 48 गांवों को शहरीकृत किया, रियल्टी डेवलपर्स के लिए नए रास्ते खुले",
+    "summary_hi": "दिल्ली के 48 ग्रामीण गांवों को शहरीकृत करने के फैसले से रियल सेक्टर में नए अवसर खुल सकते हैं। हालांकि, इस कदम की सफलता बुनियादी ढांचे के विकास, भूमि उपयोग की अनुमति और सही क्रियान्वयन पर निर्भर करेगी।",
+    "why_hi": "शहरीकरण से नए रियल एस्टेट अवसर खुलते हैं।",
+    "chips_hi": {
+      "शहरीकृत गांव": "48"
+    }
+  },
+  {
+    "v": 2,
+    "cat": "Industry",
+    "tk": "RBL BANK",
+    "title": "How a branch merger will expand RBL Bank by Rs 11,000 crore",
+    "summary": "RBL Bank anticipates a substantial expansion of its balance sheet following the integration of three branches from Emirates NBD. The bank's leadership states that this merger will add between Rs 10,000 crore and Rs 11,000 crore to its asset base. Additionally, the institution is aiming for an annual growth rate of at least 20 percent going forward.",
+    "source": "Business Standard",
+    "published": "2026-10-25T18:00:10+00:00",
+    "ago": "8h",
+    "impact": "Positive",
+    "why": "Significant balance sheet expansion and growth targets.",
+    "url": "https://www.business-standard.com/industry/banking/emirates-nbd-branch-merger-to-lift-rbl-bank-asset-base-by-11k-cr-md-ceo-126102500406_1.html",
+    "chips": {
+      "Asset addition": "Rs 10,000-11,000 cro",
+      "Target annual growth": "20%"
+    },
+    "trend": [
+      0.1,
+      0.25,
+      0.2,
+      0.5,
+      0.45,
+      0.8,
+      0.95
+    ],
+    "color": "0F766E",
+    "premium": true,
+    "title_hi": "एमिरेट्स एनबीडी शाखा विलय से RBL Bank की संपत्ति में 11,000 करोड़ रुपये की बढ़त",
+    "summary_hi": "RBL Bank को एमिरेट्स एनबीडी की तीन शाखाओं के विलय से अपनी बैलेंस शीट में 10,000 से 11,000 करोड़ रुपये जुड़ने की उम्मीद है। बैंक के नेतृत्व का कहना है कि इस कदम से संपत्ति का दायरा बढ़ेगा। इसके अलावा, बैंक ने कम से कम 20 प्रतिशत की वार्षिक वृद्धि दर हासिल करने का लक्ष्य रखा है।",
+    "why_hi": "बैलेंस शीट विस्तार और विकास लक्ष्य से मजबूती",
+    "chips_hi": {
+      "संपत्ति वृद्धि": "₹10,000-11,000 करोड़",
+      "वार्षिक वृद्धि लक्ष्": "20%"
+    }
+  },
+  {
+    "v": 2,
+    "cat": "Economy",
+    "tk": "ECONOMY",
+    "title": "Indian oil prices hit a 15-year high, straining government finances",
+    "summary": "Average Indian oil prices have reached a 15-year peak, creating pressure for fuel retailers and government finances. This significant surge raises concerns about rising inflation and a growing fiscal deficit.",
+    "source": "Business Standard",
+    "published": "2026-10-25T17:50:32+00:00",
+    "ago": "8h",
+    "impact": "Negative",
+    "why": "Higher oil prices strain margins and finances.",
+    "url": "https://www.business-standard.com/economy/news/avg-india-oil-prices-hit-15-year-high-threaten-omc-margins-strain-centre-126102500796_1.html",
+    "chips": {},
+    "trend": [
+      0.95,
+      0.85,
+      0.7,
+      0.6,
+      0.4,
+      0.3,
+      0.1
+    ],
+    "color": "9B2C2C",
+    "premium": true,
+    "title_hi": "भारतीय तेल के दाम 15 साल के उच्चतम स्तर पर पहुंचे",
+    "summary_hi": "भारत में औसत तेल कीमतें 15 साल के सबसे ऊंचे स्तर पर पहुंच गई हैं, जिससे ईंधन खुदरा विक्रेताओं और सरकारी वित्त पर दबाव बढ़ रहा है। इस भारी बढ़ोतरी से महंगाई और राजकोषीय घाटे को लेकर चिंताएं बढ़ गई हैं।",
+    "why_hi": "तेल महंगा होने से मार्जिन और finances पर दबाव।",
+    "chips_hi": {}
+  },
+  {
+    "v": 2,
+    "cat": "Markets",
+    "tk": "MARKETS",
+    "title": "Will high energy prices stall broader market rerating prospects?",
+    "summary": "High energy prices may keep pressure on inflation and corporate profit margins, according to S Bharath. However, resilient corporate earnings and private capital expenditure provide support for the long-term outlook and potential outperformance of the broader market. While energy costs present near-term hurdles, ongoing private investments and steady earnings report card offer strong backing for future market growth.",
+    "source": "Business Standard",
+    "published": "2026-10-25T17:04:19+00:00",
+    "ago": "9h",
+    "impact": "Neutral",
+    "why": "Mixed factors balance earnings and energy costs.",
+    "url": "https://www.business-standard.com/markets/interviews/earnings-resilient-but-energy-prices-cap-rerating-prospects-bharath-s-126102500053_1.html",
+    "chips": {},
+    "trend": [
+      0.5,
+      0.55,
+      0.45,
+      0.5,
+      0.47,
+      0.52,
+      0.5
+    ],
+    "color": "B7791F",
+    "premium": true,
+    "title_hi": "क्या अधिक ऊर्जा कीमतें बाजार के विकास को रोकेंगी?",
+    "summary_hi": "एस भरत के अनुसार, ऊंचे तेल दाम महंगाई और कॉरपोरेट मुनाफे पर दबाव बना सकते हैं। हालांकि, मजबूत आय और निजी पूंजीगत व्यय व्यापक बाजार के लंबे समय के प्रदर्शन को समर्थन देते हैं।",
+    "why_hi": "मिले-जुले कारणों से प्रभाव स्पष्ट नहीं है।",
+    "chips_hi": {}
+  },
+  {
+    "v": 2,
+    "cat": "Markets",
+    "tk": "MARKETS",
+    "title": "Jio Platforms commands a 22% grey market premium ahead of listing",
+    "summary": "Stockbrokers are considering the implementation of stricter suitability checks for futures and options trading. At the same time, a commodity exchange is reassessing its plans for migrating its data centre. Additionally, Jio Platforms is seeing a grey market premium of 22 percent in anticipation of its upcoming market listing.",
+    "source": "Business Standard",
+    "published": "2026-10-25T16:55:45+00:00",
+    "ago": "9h",
+    "impact": "Neutral",
+    "why": "Mixed updates across different market segments.",
+    "url": "https://www.business-standard.com/markets/news/street-signs-suitability-check-for-f-o-trading-migration-rethink-more-126102500413_1.html",
+    "chips": {
+      "Grey market premium": "22%"
+    },
+    "trend": [
+      0.5,
+      0.55,
+      0.45,
+      0.5,
+      0.47,
+      0.52,
+      0.5
+    ],
+    "color": "B7791F",
+    "premium": true,
+    "title_hi": "Listing से पहले Jio Platforms का ग्रे मार्केट प्रीमियम 22% पहुंचा",
+    "summary_hi": "स्टॉकब्रोकर फ्यूचर्स और ऑप्शंस ट्रेडिंग के लिए सख्त उपयुक्तता जांच पर विचार कर रहे हैं। इस बीच, एक कमोडिटी एक्सचेंज अपने डेटा सेंटर माइग्रेशन प्लान की समीक्षा कर रहा है। इसके अलावा, Jio Platforms की लिस्टिंग से पहले उसका ग्रे मार्केट प्रीमियम 22 प्रतिशत पर चल रहा है।",
+    "why_hi": "बाजार के विभिन्न segmentos पर मिश्रित अपडेट।",
+    "chips_hi": {
+      "ग्रे मार्केट प्रीमिय": "22%"
+    }
+  },
+  {
+    "v": 2,
     "cat": "Markets",
     "tk": "MARKETS",
     "title": "Why are crude oil surges testing gold and silver prices?",
@@ -586,194 +774,5 @@
       "नई इक्विटी पूंजी": "₹49.996 करोड़",
       "कुल शेयर": "5 करोड़"
     }
-  },
-  {
-    "v": 2,
-    "cat": "Finance",
-    "tk": "FINANCE",
-    "title": "MCA extends financial filing deadlines to January 31 with fee waiver",
-    "summary": "The Ministry of Corporate Affairs has extended the deadlines for submitting financial statements and annual returns for the financial year. Companies now have until December 31 to submit financial statements and until January 31 to file annual returns. Additionally, extra fees have been waived off for these filings following concerns raised about portal glitches. This move aims to provide relief to businesses experiencing technical difficulties while completing their mandatory submissions on the official platform.",
-    "source": "Business Standard",
-    "published": "2026-10-24T16:39:19+00:00",
-    "ago": "13h",
-    "impact": "Neutral",
-    "why": "Deadline extension due to technical glitches.",
-    "url": "https://www.business-standard.com/finance/news/mca-extends-annual-filing-deadlines-waives-extra-fees-for-fy26-filings-126102401098_1.html",
-    "chips": {
-      "Financial statements": "December 31",
-      "Annual returns deadl": "January 31"
-    },
-    "trend": [
-      0.5,
-      0.55,
-      0.45,
-      0.5,
-      0.47,
-      0.52,
-      0.5
-    ],
-    "color": "B7791F",
-    "premium": false,
-    "hi_tries": 2
-  },
-  {
-    "v": 2,
-    "cat": "Industry",
-    "tk": "INDUSTRY",
-    "title": "FICCI Seeks Deeper Dutch Ties in Indian Manufacturing and Technology",
-    "summary": "Industry body FICCI has invited increased investment from the Netherlands into India's manufacturing and technology sectors. FICCI Secretary General Anant Swarup noted that Commerce and Industry Minister Piyush Goyal's current visit to the Netherlands can help convert investment talks into actual projects. The chamber emphasized four priority areas, including manufacturing partnerships, technology collaborations, supply chain integration, and project tracking, while encouraging joint ventures and capacity expansion in engineering, equipment, and food processing.",
-    "source": "Business Standard / Press Trust of India",
-    "published": "2026-10-24T11:36:45+00:00",
-    "ago": "2h",
-    "impact": "Positive",
-    "why": "Boosts foreign investment and bilateral partnerships.",
-    "url": "https://www.business-standard.com/industry/news/ficci-seeks-greater-dutch-investment-in-india-s-mfg-tech-sectors-126102400738_1.html",
-    "chips": {},
-    "trend": [
-      0.1,
-      0.25,
-      0.2,
-      0.5,
-      0.45,
-      0.8,
-      0.95
-    ],
-    "color": "0F766E",
-    "premium": false,
-    "hi_tries": 2
-  },
-  {
-    "v": 2,
-    "cat": "Earnings",
-    "tk": "COMPANIES",
-    "title": "JK Cement posts 6.3% profit rise as revenue jumps on volume gains",
-    "summary": "JK Cement reported a 6.31 percent increase in consolidated net profit to Rs 169.3 crore for the September quarter of FY2026-27, driven by volume gains and higher profitability despite cost pressures. Revenue from operations rose 23.65 percent to Rs 3,733.42 crore compared to the year-ago period. Grey cement sales volume grew 21 percent to 5.37 million tonnes, while white cement volume increased 13 percent to 0.49 million tonnes. Total expenses rose 24.34 percent to Rs 3,515.71 crore.",
-    "source": "Business Standard / Press Trust of India",
-    "published": "2026-10-24T11:27:03+00:00",
-    "ago": "2h",
-    "impact": "Positive",
-    "why": "Higher profit and revenue growth.",
-    "url": "https://www.business-standard.com/companies/quarterly-results/jk-cement-q2fy27-result-profit-rises-6-3-pc-to-rs-169-cr-126102400740_1.html",
-    "chips": {
-      "Net profit": "Rs 169.3 crore",
-      "Revenue": "Rs 3,733.42 crore",
-      "Grey cement sales": "5.37 MT"
-    },
-    "trend": [
-      0.1,
-      0.25,
-      0.2,
-      0.5,
-      0.45,
-      0.8,
-      0.95
-    ],
-    "color": "0F766E",
-    "premium": false,
-    "hi_tries": 1,
-    "title_hi": "JK Cement का मुनाफा बढ़ा, बिक्री में जोरदार उछाल",
-    "summary_hi": "JK Cement का सितंबर तिमाही में कंसोलिडेटेड मुनाफा 6.31 प्रतिशत बढ़कर 169.3 करोड़ रुपये हो गया है। बिक्री बढ़ने से कंपनी के मुनाफे में यह बढ़त आई है। इस दौरान ऑपरेशनल रेवेन्यू भी 23.65 प्रतिशत बढ़कर 3,733.42 करोड़ रुपये पर पहुंच गया। ग्रे सीमेंट और व्हाइट सीमेंट दोनों की बिक्री में अच्छी तेजी दर्ज की गई है।",
-    "why_hi": "मजबूत बिक्री और वॉल्यूम बढ़ने के कारण कंपनी का मुनाफा और रेवेन्यू दोनों बढ़े हैं",
-    "chips_hi": {
-      "नेट प्रॉफिट": "₹169.3 करोड़",
-      "रेवेन्यू": "₹3,733.42 करोड़",
-      "ग्रे सीमेंट बिक्री": "5.37 MT"
-    }
-  },
-  {
-    "v": 2,
-    "cat": "Earnings",
-    "tk": "AU SMALL FINANCE",
-    "title": "AU Small Finance Bank Q2FY27 result: Net profit jumps 53% to ₹858 crore",
-    "summary": "AU Small Finance Bank announced a 53 percent jump in its net profit for the quarter ending September 30, 2026, reaching Rs 858 crore compared to Rs 561 crore previously. Higher interest income helped total income rise to Rs 6,382 crore. The bank also reported improvements in net interest income, net interest margins, and asset quality during the same period.",
-    "source": "Business Standard / Press Trust of India",
-    "published": "2026-10-24T11:17:28+00:00",
-    "ago": "14h",
-    "impact": "Positive",
-    "why": "Higher net profit and improved asset quality.",
-    "url": "https://www.business-standard.com/companies/quarterly-results/au-small-finance-bank-q2fy27-result-net-profit-jumps-53-to-858-crore-126102400743_1.html",
-    "chips": {
-      "Net profit": "Rs 858 crore",
-      "Total income": "Rs 6,382 crore",
-      "Net interest income": "Rs 2,820 crore"
-    },
-    "trend": [
-      0.1,
-      0.25,
-      0.2,
-      0.5,
-      0.45,
-      0.8,
-      0.95
-    ],
-    "color": "0F766E",
-    "premium": false,
-    "title_hi": "AU Small Finance Bank का नेट प्रॉफिट 53 प्रतिशत कैसे बढ़ा?",
-    "summary_hi": "AU Small Finance Bank ने 30 सितंबर, 2026 को समाप्त तिमाही के लिए अपने नेट प्रॉफिट में 53 प्रतिशत की वृद्धि दर्ज की, जो पिछले साल के 561 करोड़ रुपये से बढ़कर 858 करोड़ रुपये हो गया। अधिक ब्याज आय के कारण कुल आय बढ़कर 6,382 करोड़ रुपये हो गई। बैंक ने इस दौरान नेट ब्याज आय, मार्جिन और परिसंपत्ति की गुणवत्ता में भी सुधार दिखाया।",
-    "why_hi": "बेहतर नेट प्रॉफिट और मजबूत आय वृद्धि।",
-    "chips_hi": {
-      "नेट प्रॉफिट": "₹858 करोड़",
-      "कुल आय": "₹6,382 करोड़",
-      "नेट ब्याज आय": "₹2,820 करोड़"
-    }
-  },
-  {
-    "v": 2,
-    "cat": "Earnings",
-    "tk": "COMPANIES",
-    "title": "Why did BPCL profit drop 22.5% despite higher revenue?",
-    "summary": "Bharat Petroleum Corporation Ltd reported a decline in second quarter net profit to Rs 4,993 crore compared to the previous year. Revenue from operations increased to Rs 1.58 lakh crore, while EBITDA dropped nearly 14 per cent. Earnings were impacted as gains from higher gross refining margins were wiped out by losses from a retail fuel price freeze during rising costs.",
-    "source": "Business Standard / Press Trust of India",
-    "published": "2026-10-24T09:41:53+00:00",
-    "ago": "12m",
-    "impact": "Negative",
-    "why": "Retail price freeze lowered quarterly earnings.",
-    "url": "https://www.business-standard.com/companies/quarterly-results/bpcl-q2-profit-falls-22-5-to-4-993-cr-as-fuel-price-freeze-hits-earnings-126102400659_1.html",
-    "chips": {
-      "Net profit": "Rs 4,993 crore",
-      "Revenue": "Rs 1.58 lakh crore",
-      "EBITDA": "Rs 9,437 crore"
-    },
-    "trend": [
-      0.95,
-      0.85,
-      0.7,
-      0.6,
-      0.4,
-      0.3,
-      0.1
-    ],
-    "color": "9B2C2C",
-    "premium": false,
-    "hi_tries": 2
-  },
-  {
-    "v": 2,
-    "cat": "Markets",
-    "tk": "MARKETS",
-    "title": "Sebi examines short selling rules and plans artificial intelligence sandbox",
-    "summary": "The market regulator is reviewing short selling and securities lending and borrowing rules. It also plans to introduce an artificial intelligence sandbox and bond market-making measures. Additionally, the regulator is finalising responsible artificial intelligence guidelines, creating graded compliance norms for brokers, and working on steps to improve supervision and capital efficiency.",
-    "source": "Business Standard",
-    "published": "2026-10-24T09:21:21+00:00",
-    "ago": "33m",
-    "impact": "Neutral",
-    "why": "Regulatory updates across multiple market segments.",
-    "url": "https://www.business-standard.com/markets/news/sebi-short-selling-slb-ai-sandbox-market-making-tuhin-kanta-pandey-126102400650_1.html",
-    "chips": {},
-    "trend": [
-      0.5,
-      0.55,
-      0.45,
-      0.5,
-      0.47,
-      0.52,
-      0.5
-    ],
-    "color": "B7791F",
-    "premium": false,
-    "title_hi": "Sebi ने शॉर्ट सेलिंग नियमों की समीक्षा की और AI सैंडबॉक्स की योजना बनाई",
-    "summary_hi": "बाजार नियामक शॉर्ट सेलिंग और सिक्योरिटीज लेंडिंग एवं बॉरोइंग नियमों की समीक्षा कर रहा है। इसके साथ ही, एक आर्टिफिशियल इंटेलिजेंस सैंडबॉक्स और बॉन्ड मार्केट-मार्किंग उपाय लाने की योजना है। इसके अलावा, नियामक जिम्मेदार आर्टिफिशियल इंटेलिजेंस दिशा-निर्देशों को अंतिम रूप दे रहा है, ब्रोकरों के लिए श्रेणीबद्ध अनुपालन मानदंड विकसित कर रहा है, और पूंजी दक्षता व निगरानी में सुधार के उपायों पर काम कर रहा है।",
-    "why_hi": "विभिन्न बाजार खंडों में विनियामक बदलाव।",
-    "chips_hi": {}
   }
 ]
