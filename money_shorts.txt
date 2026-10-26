@@ -1,6 +1,203 @@
 [
   {
     "v": 2,
+    "cat": "Markets",
+    "tk": "SHRIRAM FINANCE",
+    "title": "Shriram Finance slips 10% in 2 days, hits 11-month low; here's why",
+    "summary": "Shriram Finance experienced a 10 percent decline over two days, touching an 11-month low. Market concerns are driven by a moderated credit growth guidance of 15 to 17 per cent, alongside rising credit costs linked to volatile monsoon conditions. On the other hand, the recent drop in valuation has created potential upside opportunities for the company, according to observations.",
+    "source": "Business Standard",
+    "published": "2026-10-26T05:14:54+00:00",
+    "ago": "44m",
+    "impact": "Negative",
+    "why": "Credit growth slowed and costs increased.",
+    "url": "https://www.business-standard.com/markets/news/shriram-finance-shre-price-slips-10-in-2-days-hits-11-month-low-here-s-why-126102600193_1.html",
+    "chips": {
+      "Credit growth guidan": "15-17 per cent",
+      "Stock drop": "10%",
+      "Low": "11-month low"
+    },
+    "trend": [
+      0.95,
+      0.85,
+      0.7,
+      0.6,
+      0.4,
+      0.3,
+      0.1
+    ],
+    "color": "9B2C2C",
+    "premium": false,
+    "title_hi": "Shriram Finance के शेयरों में 2 दिन में 10 प्रतिशत की गिरावट",
+    "summary_hi": "Shriram Finance के शेयर में दो दिनों में 10 प्रतिशत की गिरावट आई है और यह 11 महीने के निचले स्तर पर पहुंच गया है। क्रेडिट ग्रोथ अनुमान के 15 से 17 प्रतिशत तक सीमित रहने और मानसून की अनिश्चितता के बीच बढ़ते क्रेडिट लागत को लेकर चिंताएं बनी हुई हैं। हालांकि, वैल्यूएशन में आई हालिया गिरावट से ऊपर बढ़ने की संभावना भी दिख रही है।",
+    "why_hi": "क्रेडिट ग्रोथ धीमी हुई और लागत बढ़ी।",
+    "chips_hi": {
+      "क्रेडिट ग्रोथ": "15-17 प्रतिशत",
+      "गिरावट": "10%",
+      "निचला स्तर": "11-महीने का निचला स्"
+    }
+  },
+  {
+    "v": 2,
+    "cat": "Earnings",
+    "tk": "MARKETS",
+    "title": "Why did AU SFB shares drop over 9 percent?",
+    "summary": "Shares of AU Small Finance Bank experienced a sharp decline of more than 9 percent following the release of their second-quarter financial results. In response to the performance and ongoing macroeconomic uncertainties, brokerage firm Emkay Global chose to maintain a reduce rating on the stock, pointing out that current valuations provide a limited margin of safety for investors navigating the volatile market conditions.",
+    "source": "Business Standard",
+    "published": "2026-10-26T05:08:49+00:00",
+    "ago": "50m",
+    "impact": "Negative",
+    "why": "Shares dropped and brokerages expressed caution.",
+    "url": "https://www.business-standard.com/markets/news/au-sfb-share-price-tank-over-9-post-q2-results-brokerages-mixed-on-outlook-126102600228_1.html",
+    "chips": {},
+    "trend": [
+      0.95,
+      0.85,
+      0.7,
+      0.6,
+      0.4,
+      0.3,
+      0.1
+    ],
+    "color": "9B2C2C",
+    "premium": false,
+    "hi_tries": 1
+  },
+  {
+    "v": 2,
+    "cat": "Earnings",
+    "tk": "MARKETS",
+    "title": "Dr Reddy's shares jump 4 percent following recent earnings report",
+    "summary": "Shares of Dr Reddy's Laboratories increased by 4 percent after the company announced its second-quarter earnings. Following the financial results, market analysts updated their stance on the stock. Systematix Institutional Research changed its rating from Hold to Buy. At the same time, Elara Securities moved its rating from Reduce to Accumulate.",
+    "source": "Business Standard",
+    "published": "2026-10-26T05:02:09+00:00",
+    "ago": "58m",
+    "impact": "Positive",
+    "why": "Brokerage upgrades after positive earnings results.",
+    "url": "https://www.business-standard.com/markets/news/dr-reddy-s-share-price-spurts-4-post-q2-earnings-analysts-upgrade-rating-126102600209_1.html",
+    "chips": {
+      "Share price rise": "4%",
+      "Quarter": "Q2"
+    },
+    "trend": [
+      0.1,
+      0.25,
+      0.2,
+      0.5,
+      0.45,
+      0.8,
+      0.95
+    ],
+    "color": "0F766E",
+    "premium": false,
+    "title_hi": "Q2 नतीजों के बाद Dr Reddy's के शेयरों में 4 प्रतिशत की तेजी",
+    "summary_hi": "डॉ रेड्डीज लैबोरेटरीज के शेयरों में दूसरी तिमाही के नतीजों के बाद 4 प्रतिशत की बढ़ोतरी हुई। इस वित्तीय प्रदर्शन के बाद बाजार विश्लेषकों ने स्टॉक पर अपनी रेटिंग में सुधार किया है। सिस्टमैटिक्स इंस्टीट्यूशनल रिसर्च ने अपनी रेटिंग को होल्ड से बदलकर बाय कर दिया। वहीं, एंवारा सिक्योरिटीज ने अपनी रेटिंग को रिड्यूस से बदलकर एक्युमलेट कर दिया।",
+    "why_hi": "बेहतर नतीजों के बाद ब्रोकरेज रेटिंग सुधरी",
+    "chips_hi": {
+      "शेयर उछाल": "4%",
+      "तिमाही": "Q2"
+    }
+  },
+  {
+    "v": 2,
+    "cat": "Earnings",
+    "tk": "PAYTM",
+    "title": "Paytm and Tata Consumer Products to announce Q2 results today",
+    "summary": "A total of 98 companies are scheduled to release their financial results for the July to September period today. Notable firms on the release list include Paytm, REC, and Tata Consumer Products. Other businesses such as Mankind Pharma, Dalmia Bharat, APL Apollo Tubes, and Aegis Logistics will also disclose their earnings performance for the second quarter.",
+    "source": "Business Standard",
+    "published": "2026-10-26T04:46:07+00:00",
+    "ago": "1h",
+    "impact": "Neutral",
+    "why": "Routine corporate earnings announcements.",
+    "url": "https://www.business-standard.com/companies/quarterly-results/q2-results-paytm-rec-tata-consumer-products-among-98-firms-on-october-26-126102600226_1.html",
+    "chips": {
+      "Firms": "98"
+    },
+    "trend": [
+      0.5,
+      0.55,
+      0.45,
+      0.5,
+      0.47,
+      0.52,
+      0.5
+    ],
+    "color": "B7791F",
+    "premium": false,
+    "title_hi": "Paytm और Tata Consumer Products आज जारी करेंगे Q2 नतीजे",
+    "summary_hi": "आज जुलाई से सितंबर अवधि के वित्तीय परिणामों की घोषणा करने के लिए कुल 98 कंपनियाँ निर्धारित हैं। इस सूची में Paytm, REC और Tata Consumer Products जैसी प्रमुख कंपनियाँ शामिल हैं। इसके अलावा, Mankind Pharma, Dalmia Bharat, APL Apollo Tubes और Aegis Logistics जैसी अन्य कंपनियाँ भी आज अपने दूसरी तिमाही के आय परिणाम साझा करेंगी।",
+    "why_hi": "नियमित तिमाही आय घोषणाएँ।",
+    "chips_hi": {
+      "कंपनियाँ": "98"
+    }
+  },
+  {
+    "v": 2,
+    "cat": "Industry",
+    "tk": "INDUSTRY",
+    "title": "Why are some bank branches shut today?",
+    "summary": "Physical bank branches in select states remain closed today due to Valmiki Jayanti. This holiday is part of the Reserve Bank of India schedule for October 2026. While physical operations are halted in the affected regions, customers can still use digital banking services. The holiday schedule varies across different states according to official listings.",
+    "source": "Business Standard / BS Rich Content",
+    "published": "2026-10-26T04:45:33+00:00",
+    "ago": "1h",
+    "impact": "Neutral",
+    "why": "Routine holiday closure with no fundamental impact.",
+    "url": "https://www.business-standard.com/industry/banking/bank-holiday-today-are-banks-open-or-closed-due-to-valmiki-jayanti-2026-nc-126102600203_1.html",
+    "chips": {},
+    "trend": [
+      0.5,
+      0.55,
+      0.45,
+      0.5,
+      0.47,
+      0.52,
+      0.5
+    ],
+    "color": "B7791F",
+    "premium": false,
+    "title_hi": "क्यों बंद हैं आज कुछ बैंक?",
+    "summary_hi": "RBI की अक्टूबर 2026 की सूची के अनुसार वाल्मीकि जयंती के कारण आज कुछ राज्यों में बैंक शाखाएं बंद हैं। अलग-अलग राज्यों में शारीरिक कामकाज के लिए बैंक बंद रहेंगे।",
+    "why_hi": "नियमित अवकाश जिसके कोई वित्तीय परिणाम नहीं हैं।",
+    "chips_hi": {}
+  },
+  {
+    "v": 2,
+    "cat": "Finance",
+    "tk": "FINANCE",
+    "title": "Why did the rupee drop to 94.98 against the US dollar?",
+    "summary": "The Indian rupee declined by 5 paise to reach 94.98 against the US dollar during early trade on Monday. Market participants noted that elevated crude oil prices and ongoing geopolitical tensions in the Middle East drove the currency lower. Meanwhile, a softer US dollar and lower US treasury yields helped limit further losses. The currency had previously closed at 94.93 on Friday following a 12 paise depreciation.",
+    "source": "Business Standard / Press Trust of India",
+    "published": "2026-10-26T04:45:07+00:00",
+    "ago": "1h",
+    "impact": "Neutral",
+    "why": "Currency movement driven by global factors.",
+    "url": "https://www.business-standard.com/finance/news/rupee-falls-5-paise-to-94-98-against-us-dollar-during-early-trade-126102600204_1.html",
+    "chips": {
+      "Rupee fall": "5 paise",
+      "Exchange rate": "94.98",
+      "Previous close": "94.93"
+    },
+    "trend": [
+      0.5,
+      0.55,
+      0.45,
+      0.5,
+      0.47,
+      0.52,
+      0.5
+    ],
+    "color": "B7791F",
+    "premium": false,
+    "title_hi": "US dollar के मुकाबले रुपया क्यों गिरकर 94.98 पर आया?",
+    "summary_hi": "सोमवार को शुरुआती कारोबार में भारतीय रुपया 5 पैसे की गिरावट के साथ US dollar के मुकाबले 94.98 पर आ गया। बाजार के जानकारों के मुताबिक, कच्चे तेल की ऊंची कीमतों और मध्य पूर्व में जारी भू-राजनीतिक तनाव के कारण रुपये पर दबाव देखा गया। हालांकि, US dollar में नरमी और अमेरिकी बॉन्ड यील्ड घटने से इसमें बड़ी गिरावट टल गई। इससे पहले शुक्रवार को रुपया 12 पैसे टूटकर बंद हुआ था।",
+    "why_hi": "वैश्विक कारणों से मुद्रा में उतार-चढ़ाव।",
+    "chips_hi": {
+      "रुपये में गिरावट": "5 पैसे",
+      "विनिमय दर": "94.98",
+      "पिछला बंद": "94.93"
+    }
+  },
+  {
+    "v": 2,
     "cat": "Companies",
     "tk": "TATA SONS",
     "title": "Tata Trusts defends staying private as board meetings approach",
@@ -579,200 +776,6 @@
       "जुटाने की राशि": "₹2,600 करोड़",
       "आगामी आईपीओ संख्या": "5 कंपनियाँ",
       "योजना की अंतिम तिथि": "5 नवंबर"
-    }
-  },
-  {
-    "v": 2,
-    "cat": "Companies",
-    "tk": "L'OREAL",
-    "title": "How is L'Oreal accelerating its growth across the Indian market?",
-    "summary": "French cosmetics company L'Oreal is experiencing a strong turnaround in its India operations. This momentum is supported by better team capabilities, increased localisation, faster online commerce, and higher demand for skincare and haircare items. The consumer products division reported double-digit growth in India during the September quarter. Additionally, the broader SAPMENA-SSA region, which includes India, posted an adjusted like-for-like growth of 19.2 percent in the third quarter.",
-    "source": "Business Standard / Press Trust of India",
-    "published": "2026-10-25T07:20:47+00:00",
-    "ago": "2h",
-    "impact": "Positive",
-    "why": "Strong sales and regional growth momentum.",
-    "url": "https://www.business-standard.com/companies/news/l-oreal-sees-india-biz-gaining-momentum-expands-skincare-online-presence-126102500132_1.html",
-    "chips": {
-      "Quarter growth": "19.2 per cent"
-    },
-    "trend": [
-      0.1,
-      0.25,
-      0.2,
-      0.5,
-      0.45,
-      0.8,
-      0.95
-    ],
-    "color": "0F766E",
-    "premium": false,
-    "title_hi": "L'Oreal का भारत में बिजनेस कैसे तेजी से बढ़ रहा है?",
-    "summary_hi": "फ्रेंच कॉस्मेटिक्स कंपनी L'Oreal का भारत में कारोबार काफी बेहतर हो रहा है। इस तेजी के पीछे बेहतर टीम क्षमताएं, स्थानीय स्तर पर निर्माण, ऑनलाइन बिक्री में तेजी और स्किनकेयर व हेयरकेयर उत्पादों की बढ़ती मांग है। सितंबर तिमाही में कंपनी के कंज्यूमर प्रोडक्ट्स डिवीजन ने भारत में डबल-डिजिट ग्रोथ दर्ज की। इसके अलावा, SAPMENA-SSA क्षेत्र में तीसरी तिमाही के दौरान 19.2 प्रतिशत की बढ़त दर्ज की गई।",
-    "why_hi": "मजबूत बिक्री और क्षेत्रीय वृद्धि गति।",
-    "chips_hi": {
-      "तिमाही वृद्धि": "19.2 प्रतिशत"
-    }
-  },
-  {
-    "v": 2,
-    "cat": "Industry",
-    "tk": "NMDC",
-    "title": "NMDC targets foreign mining assets across four continents for diversification",
-    "summary": "State-owned NMDC is looking for mining assets internationally across four continents. The company aims to reduce its reliance on its core steel-making raw material. It plans to generate at least one-fifth of its total revenue from selling other minerals. Currently, the firm fulfills a significant portion of domestic iron ore requirements.",
-    "source": "Business Standard / Press Trust of India",
-    "published": "2026-10-25T05:48:06+00:00",
-    "ago": "6m",
-    "impact": "Positive",
-    "why": "Diversification into new minerals boosts growth potential.",
-    "url": "https://www.business-standard.com/industry/news/nmdc-scouts-for-mining-assets-across-four-continents-to-diversify-portfolio-126102500102_1.html",
-    "chips": {},
-    "trend": [
-      0.1,
-      0.25,
-      0.2,
-      0.5,
-      0.45,
-      0.8,
-      0.95
-    ],
-    "color": "0F766E",
-    "premium": false,
-    "title_hi": "NMDC ने पोर्टफोलियो diversification के लिए चार महाद्वीपों में खंगाली खदानें",
-    "summary_hi": "NMDC ने अपने कारोबार को फैलाने के लिए चार महाद्वीपों में खनन संपत्तियों की तलाश शुरू कर दी है। कंपनी ने मुख्य इस्पात कच्चे माल के अलावा अन्य खनिजों की बिक्री से कम से कम 20 प्रतिशत आय अर्जित करने का लक्ष्य रखा है। यह कंपनी देश की एक चौथाई लौह अयस्क की मांग को पूरा करती है।",
-    "why_hi": "अन्य खनिजों से आय बढ़ने की उम्मीद।",
-    "chips_hi": {}
-  },
-  {
-    "v": 2,
-    "cat": "Companies",
-    "tk": "INDIAN HOTELS",
-    "title": "Indian Hotels upgrades revenue growth guidance for FY27",
-    "summary": "Indian Hotels has raised its revenue growth outlook for FY27 following solid performance in the second quarter. High room rates and strong occupancy levels drove this positive momentum. Market experts are also optimistic about the future performance of the company based on these ongoing trends in the hospitality sector.",
-    "source": "Business Standard",
-    "published": "2026-10-25T02:15:20+00:00",
-    "ago": "3h",
-    "impact": "Positive",
-    "why": "Higher room rates and occupancy boost revenue.",
-    "url": "https://www.business-standard.com/markets/news/demand-supply-mismatch-to-drive-revenue-growth-gains-for-indian-hotels-126102500052_1.html",
-    "chips": {},
-    "trend": [
-      0.1,
-      0.25,
-      0.2,
-      0.5,
-      0.45,
-      0.8,
-      0.95
-    ],
-    "color": "0F766E",
-    "premium": false,
-    "title_hi": "Indian Hotels ने FY27 के लिए बढ़ाई रेवेन्यू ग्रोथ गाइडेंस",
-    "summary_hi": "मजबूत रूम रेट और ऑक्यूपेंसी के दम पर Indian Hotels ने FY27 के लिए अपनी रेवेन्यू ग्रोथ गाइडेंस को बढ़ा दिया है। Q2FY27 में कंपनी का प्रदर्शन शानदार रहा, जिसके बाद जानकारों ने भी कंपनी के भविष्य को लेकर सकारात्मक रुख दिखाया है।",
-    "why_hi": "बेहतर रूम दरों और ऑक्यूपेंसी से बढ़ी आय।",
-    "chips_hi": {}
-  },
-  {
-    "v": 2,
-    "cat": "Industry",
-    "tk": "AIR INDIA",
-    "title": "Air India and other carriers suspend Saudi Arabia flights amid tensions",
-    "summary": "Air India and Air India Express have extended the cancellation of flights to Riyadh and Dammam until November 7, while Jeddah services remain suspended until October 31. IndiGo and Akasa Air have also called off flights to Saudi Arabian cities due to rising regional tensions and airport attacks in the Gulf. Affected travelers with bookings made on or before October 24 can choose flexible rebooking or receive a complete refund.",
-    "source": "Business Standard / Press Trust of India",
-    "published": "2026-10-24T17:51:52+00:00",
-    "ago": "8h",
-    "impact": "Negative",
-    "why": "Flight cancellations disrupt operations amid tensions.",
-    "url": "https://www.business-standard.com/industry/aviation/air-india-and-ai-express-cancel-riyadh-dammam-flights-till-nov-7-126102401155_1.html",
-    "chips": {},
-    "trend": [
-      0.95,
-      0.85,
-      0.7,
-      0.6,
-      0.4,
-      0.3,
-      0.1
-    ],
-    "color": "9B2C2C",
-    "premium": false,
-    "title_hi": "तनाव के चलते एयर इंडिया और अन्य विमान कंपनियों ने रोकीं उड़ानें",
-    "summary_hi": "क्षेत्रीय तनाव और हमलों के कारण एयर इंडिया और एयर इंडिया Express ने रियाद तथा दम्माम के लिए उड़ानों को 7 नवंबर तक रद्द कर दिया है, जबकि जेद्दा की सेवाएं 31 अक्टूबर तक स्थगित रहेंगी। IndiGo और Akasa Air ने भी सऊदी अरब के शहरों के लिए अपनी सेवाएं रोक दी हैं। 24 अक्टूबर या उससे पहले बुक टिकट वाले यात्री रीबुकिंग या पूरे रिफंड का विकल्प चुन सकते हैं।",
-    "why_hi": "तनाव के बीच उड़ानें रद्द होने से कामकाज प्रभावित।",
-    "chips_hi": {}
-  },
-  {
-    "v": 2,
-    "cat": "Economy",
-    "tk": "ECONOMY",
-    "title": "Delhi begins verifying 4.4 lakh old-age pension beneficiaries to clear ineligible names",
-    "summary": "The Delhi government has initiated a verification campaign to remove ineligible recipients from its old-age pension program, which currently covers about 4.4 lakh senior citizens. Following clearance for third-party Aadhaar authentication, personnel are conducting door-to-door biometric checks. Authorities aim to finish this process in three months, anticipating that duplicate records, deceased individuals, and those receiving other state aid will free up twenty to twenty-five percent of the slots.",
-    "source": "Business Standard / Press Trust of India",
-    "published": "2026-10-24T17:24:59+00:00",
-    "ago": "8h",
-    "impact": "Neutral",
-    "why": "Administrative verification drive with no direct financial i",
-    "url": "https://www.business-standard.com/economy/news/delhi-govt-begins-identifying-ineligible-old-age-pension-beneficiaries-126102401123_1.html",
-    "chips": {
-      "Total beneficiaries": "4.4 lakh",
-      "Monthly pension (60-": "Rs 2,000",
-      "Monthly pension (70+": "Rs 2,500"
-    },
-    "trend": [
-      0.5,
-      0.55,
-      0.45,
-      0.5,
-      0.47,
-      0.52,
-      0.5
-    ],
-    "color": "B7791F",
-    "premium": false,
-    "title_hi": "Delhi में बुजुर्ग पेंशन योजना के अयोग्य लाभार्थियों की पहचान के लिए शुरू हुई जांच",
-    "summary_hi": "दिल्ली सरकार ने पुरानी पेंशन योजना के अयोग्य लाभार्थियों को हटाने के लिए एक सत्यापन अभियान शुरू किया है, जिसमें लगभग 4.4 लाख वरिष्ठ नागरिक शामिल हैं। थर्ड-पार्टी आधार प्रमाणीकरण की अनुमति मिलने के बाद घर-घर जाकर बायोमेट्रिक जांच की जा रही है। अधिकारियों का अनुमान है कि यह प्रक्रिया तीन महीने में पूरी होगी और मृत या दोहरी सहायता पाने वाले लोगों को हटाने से 20 से 25 प्रतिशत जगह खाली हो सकती है। सरकार इस योजना के तहत 2,000 रुपये और 2,500 रुपये महीना देती है।",
-    "why_hi": "प्रशासनिक जांच प्रक्रिया, कोई सीधा वित्तीय असर नहीं।",
-    "chips_hi": {
-      "कुल लाभार्थी": "4.4 लाख",
-      "मासिक पेंशन (60-69 व": "₹2,000",
-      "मासिक पेंशन (70+ वर्": "₹2,500"
-    }
-  },
-  {
-    "v": 2,
-    "cat": "Markets",
-    "tk": "MARKETS",
-    "title": "Utssav CZ Gold Jewels approves 1:1 bonus issue to double capital",
-    "summary": "Utssav CZ Gold Jewels Ltd has announced a 1:1 bonus share issue, which will double its paid-up equity share capital to Rs 49.996 crore. The board approved issuing one new share for every existing share held, pending shareholder and regulatory approvals. This move will increase the total number of equity shares from 2.5 crore to 5 crore using reserves and retained earnings, with shares expected to be credited within 60 days.",
-    "source": "Business Standard / Press Trust of India",
-    "published": "2026-10-24T17:08:57+00:00",
-    "ago": "8h",
-    "impact": "Neutral",
-    "why": "Bonus issue expands capital without changing value.",
-    "url": "https://www.business-standard.com/markets/news/utssav-cz-gold-jewels-approves-1-1-bonus-issue-to-double-equity-capital-126102400806_1.html",
-    "chips": {
-      "Bonus ratio": "1:1",
-      "New equity capital": "Rs 49.996 crore",
-      "Total shares after i": "5 crore"
-    },
-    "trend": [
-      0.5,
-      0.55,
-      0.45,
-      0.5,
-      0.47,
-      0.52,
-      0.5
-    ],
-    "color": "B7791F",
-    "premium": false,
-    "title_hi": "Utssav CZ Gold Jewels ने 1:1 बोनस शेयर को दी मंजूरी",
-    "summary_hi": "Utssav CZ Gold Jewels Ltd ने 1:1 बोनस शेयर जारी करने को मंजूरी दे दी है, जिससे इसकी चुकता इक्विटी शेयर पूंजी बढ़कर ₹49.996 करोड़ हो जाएगी। बोर्ड ने मौजूदा शेयरधारकों को प्रत्येक शेयर पर एक नया शेयर देने का प्रस्ताव पास किया है। इस प्रक्रिया से कुल शेयरों की संख्या 2.5 करोड़ से बढ़कर 5 करोड़ हो जाएगी। इसके लिए कंपनी अपने रिजर्व और retained earnings का उपयोग करेगी।",
-    "why_hi": "बोनस शेयर जारी होने से पूंजी दोगुनी होगी।",
-    "chips_hi": {
-      "बोनस अनुपात": "1:1",
-      "नई इक्विटी पूंजी": "₹49.996 करोड़",
-      "कुल शेयर": "5 करोड़"
     }
   }
 ]
