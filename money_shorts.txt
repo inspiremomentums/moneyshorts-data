@@ -1,6 +1,237 @@
 [
   {
     "v": 2,
+    "cat": "Finance",
+    "tk": "FINANCE",
+    "title": "Sebi makes direct plans default to save investors money",
+    "summary": "Market regulator Sebi is making direct mutual fund plans the default option. Investors choosing regular plans must now be explicitly informed about higher costs. This regulatory change aims to boost transparency and safeguard the interests of mutual fund investors by making them aware of fee differences.",
+    "source": "Business Standard",
+    "published": "2026-10-30T10:03:11+00:00",
+    "ago": "11m",
+    "impact": "Neutral",
+    "why": "Improves transparency for mutual fund investors.",
+    "url": "https://www.business-standard.com/finance/personal-finance/sebi-makes-direct-plans-default-know-how-much-investors-can-save-on-sips-126103000975_1.html",
+    "chips": {},
+    "trend": [
+      0.5,
+      0.55,
+      0.45,
+      0.5,
+      0.47,
+      0.52,
+      0.5
+    ],
+    "color": "B7791F",
+    "premium": false,
+    "title_hi": "Sebi ने direct plans को किया default, निवेशकों को होगा फायदा",
+    "summary_hi": "मार्केट रेगुलेटर Sebi ने म्यूचुअल फंड में direct plans को default विकल्प बना दिया है। regular plans चुनने वाले निवेशकों को अब उनकी ज्यादा लागत के बारे में बताना होगा। इस नियम का मकसद पारदर्शिता बढ़ाना और निवेशकों के हितों की रक्षा करना है।",
+    "why_hi": "म्यूचुअल फंड निवेशकों के लिए पारदर्शिता बढ़ती है।",
+    "chips_hi": {}
+  },
+  {
+    "v": 2,
+    "cat": "Industry",
+    "tk": "HYATT",
+    "title": "Hyatt and Saraca sign deals for four North Indian hotels",
+    "summary": "Hyatt and Saraca have entered into agreements for four properties located in North India. This development includes two operational hotels situated in Lucknow and Corbett that will be rebranded under Hyatt names. Additionally, the plans involve two newly built hotels positioned close to Jim Corbett National Park.",
+    "source": "Business Standard",
+    "published": "2026-10-30T10:01:51+00:00",
+    "ago": "12m",
+    "impact": "Positive",
+    "why": "Expands hospitality footprint in North India.",
+    "url": "https://www.business-standard.com/industry/news/hyatt-saraca-hotels-four-properties-uttar-pradesh-uttarakhand-126103000963_1.html",
+    "chips": {},
+    "trend": [
+      0.1,
+      0.25,
+      0.2,
+      0.5,
+      0.45,
+      0.8,
+      0.95
+    ],
+    "color": "0F766E",
+    "premium": false,
+    "title_hi": "Hyatt और Saraca ने उत्तर भारत में चार होटलों के लिए किया करार",
+    "summary_hi": "Hyatt और Saraca ने उत्तर भारत में चार संपत्तियों के लिए समझौतों पर हस्ताक्षर किए हैं। इसमें लखनऊ और कॉर्बेट की दो मौजूदा प्रॉपर्टी शामिल हैं जो Hyatt ब्रांड से जुड़ेंगी, साथ ही जिम कॉर्बेट नेशनल पार्क के पास दो नए होटल भी शामिल हैं।",
+    "why_hi": "उत्तर भारत में हॉस्पिटैलिटी का विस्तार।",
+    "chips_hi": {}
+  },
+  {
+    "v": 2,
+    "cat": "Earnings",
+    "tk": "AIRTEL AFRICA",
+    "title": "How did Airtel Africa grow its Q2 profit to $254 million?",
+    "summary": "Airtel Africa reported a 16 percent rise in profit after tax to $254 million for the second quarter ending September 30, 2026, compared to $219 million in the previous year. Revenue grew by 26 percent to $1,970 million, supported by an increase in total customers to 193.9 million. Smartphone penetration reached 51.6 percent, boosting data usage per customer to 13.3 GB.",
+    "source": "Business Standard / Press Trust of India",
+    "published": "2026-10-30T09:53:22+00:00",
+    "ago": "21m",
+    "impact": "Positive",
+    "why": "Higher profit and revenue growth.",
+    "url": "https://www.business-standard.com/companies/quarterly-results/airtel-africa-q2-profit-rises-16-to-254-million-revenue-up-26-126103000910_1.html",
+    "chips": {
+      "Profit": "$254 million",
+      "Revenue": "$1,970 million",
+      "Customers": "193.9 million"
+    },
+    "trend": [
+      0.1,
+      0.25,
+      0.2,
+      0.5,
+      0.45,
+      0.8,
+      0.95
+    ],
+    "color": "0F766E",
+    "premium": false,
+    "title_hi": "Airtel Africa का Q2 मुनाफा बढ़कर $254 मिलियन कैसे हुआ?",
+    "summary_hi": "Airtel Africa ने 30 सितंबर 2026 को समाप्त दूसरी तिमाही में 16 प्रतिशत की वृद्धि के साथ $254 मिलियन का मुनाफा दर्ज किया। कंपनी का राजस्व 26 प्रतिशत बढ़कर $1,970 मिलियन हो गया। कुल ग्राहक आधार बढ़कर 193.9 मिलियन हो गया, जबकि स्मार्टफोन पैठ 51.6 प्रतिशत तक पहुंच गई।",
+    "why_hi": "मुनाफे और राजस्व में वृद्धि।",
+    "chips_hi": {
+      "मुनाफा": "$254 million",
+      "राजस्व": "$1,970 million",
+      "ग्राहक": "193.9 million"
+    }
+  },
+  {
+    "v": 2,
+    "cat": "Markets",
+    "tk": "MARKETS",
+    "title": "Why did the Nifty Pharma index reach a record high?",
+    "summary": "The Nifty Pharma index touched a record high during Friday's trading session. Several major drug maker stocks saw significant gains. Shares of companies including Sun, Laurus, Zydus, and Sai recorded rallies of up to 6 percent. Meanwhile, stocks such as Mankind Pharma, Ipca Laboratories, Torrent Pharmaceuticals, Divis Laboratories, Cipla, and Aurobindo Pharma each moved up by 2 percent.",
+    "source": "Business Standard",
+    "published": "2026-10-30T09:42:55+00:00",
+    "ago": "32m",
+    "impact": "Positive",
+    "why": "Index hit record high with surging stocks.",
+    "url": "https://www.business-standard.com/markets/news/nifty-pharma-index-hits-record-high-sun-laurus-zydus-sai-rally-up-to-6-126103000861_1.html",
+    "chips": {
+      "Max rally": "up to 6%",
+      "Other gains": "2%"
+    },
+    "trend": [
+      0.1,
+      0.25,
+      0.2,
+      0.5,
+      0.45,
+      0.8,
+      0.95
+    ],
+    "color": "0F766E",
+    "premium": false,
+    "title_hi": "Nifty Pharma index ने नया रिकॉर्ड स्तर क्यों छुआ?",
+    "summary_hi": "शुक्रवार के कारोबार में Nifty Pharma index ने एक नया रिकॉर्ड उच्च स्तर छुआ। कई प्रमुख दवा कंपनियों के शेयरों में जोरदार तेजी दर्ज की गई। Sun, Laurus, Zydus और Sai के शेयरों में 6 प्रतिशत तक की तेजी आई। इसके अलावा, Mankind Pharma, Ipca Laboratories, Torrent Pharmaceuticals, Divis Laboratories, Cipla और Aurobindo Pharma के शेयर भी 2 प्रतिशत तक चढ़े।",
+    "why_hi": "इंडेक्स में रिकॉर्ड तेजी और शेयरों में बढ़त।",
+    "chips_hi": {
+      "अधिकतम तेजी": "6% तक",
+      "अन्य बढ़त": "2%"
+    }
+  },
+  {
+    "v": 2,
+    "cat": "Industry",
+    "tk": "INDUSTRY",
+    "title": "Why will bank holidays vary across Indian states this November?",
+    "summary": "Bank closures in November 2026 will differ across states depending on local festivals. The Reserve Bank of India has specified dates for scheduled and non-scheduled banks to remain closed. Customers should check the state-wise list to plan their branch visits accordingly, as holidays are determined by regional celebrations and official schedules.",
+    "source": "Business Standard / BS Rich Content",
+    "published": "2026-10-30T09:34:20+00:00",
+    "ago": "40m",
+    "impact": "Neutral",
+    "why": "Routine holiday schedule announcement.",
+    "url": "https://www.business-standard.com/industry/banking/bank-holidays-in-november-2026-check-state-wise-list-of-closures-in-india-nc-126103000855_1.html",
+    "chips": {},
+    "trend": [
+      0.5,
+      0.55,
+      0.45,
+      0.5,
+      0.47,
+      0.52,
+      0.5
+    ],
+    "color": "B7791F",
+    "premium": false,
+    "title_hi": "नवंबर में राज्यों के अनुसार क्यों अलग होंगे बैंक अवकाश?",
+    "summary_hi": "नवंबर 2026 में स्थानीय त्योहारों के आधार पर देश के अलग-अलग राज्यों में बैंक बंद रहेंगे। भारतीय रिजर्व बैंक ने अनुसूचित और गैर-अनुसूचित बैंकों के लिए छुट्टियों की तारीखें तय कर दी हैं। क्षेत्रीय आयोजनों और आधिकारिक सूचियों के मुताबिक बैंक शाखाओं की बंदी तय होगी।",
+    "why_hi": "नियमित अवकाश सूची की घोषणा।",
+    "chips_hi": {}
+  },
+  {
+    "v": 2,
+    "cat": "Economy",
+    "tk": "ECONOMY",
+    "title": "Cabinet Clears Rs 10,000 Crore Scheme to Boost Container Manufacturing",
+    "summary": "The government has cleared a massive financial outlay to significantly boost local container production capacity. This initiative is designed to push annual output to much higher levels, generate new employment opportunities, and lower the country's dependence on foreign imports for containers. The program focuses on expanding domestic industrial capabilities in this sector.",
+    "source": "Business Standard",
+    "published": "2026-10-30T09:32:05+00:00",
+    "ago": "43m",
+    "impact": "Positive",
+    "why": "Boosts local production and cuts import dependence.",
+    "url": "https://www.business-standard.com/economy/news/india-container-manufacturing-scheme-maritime-trade-shipping-imports-126103000871_1.html",
+    "chips": {
+      "Scheme outlay": "Rs 10,000 cr",
+      "Target capacity": "750,000 TEUs"
+    },
+    "trend": [
+      0.1,
+      0.25,
+      0.2,
+      0.5,
+      0.45,
+      0.8,
+      0.95
+    ],
+    "color": "0F766E",
+    "premium": false,
+    "title_hi": "कंटेनर निर्माण को बढ़ावा देने के लिए 10,000 करोड़ रुपये की योजना मंजूर",
+    "summary_hi": "सरकार ने देश में कंटेनर उत्पादन क्षमता बढ़ाने के लिए एक बड़ी योजना को मंजूरी दी है। इस कदम का उद्देश्य घरेलू विनिर्माण को दस गुना बढ़ाना, रोजगार के नए अवसर पैदा करना और कंटेनर आयात पर निर्भरता को कम करना है।",
+    "why_hi": "घरेलू उत्पादन बढ़ेगा और आयात पर निर्भरता घटेगी।",
+    "chips_hi": {
+      "योजना राशि": "₹10,000 करोड़",
+      "लक्ष्य क्षमता": "7,50,000 TEUs"
+    }
+  },
+  {
+    "v": 2,
+    "cat": "Earnings",
+    "tk": "COMPANIES",
+    "title": "How did Varun Beverages grow its September quarter profit by 13.5 percent?",
+    "summary": "Varun Beverages posted a consolidated net profit of Rs 830.6 crore for the September quarter of 2026, marking a 13.54 percent increase from the previous year. The growth was supported by volume gains across domestic and international markets. Revenue from operations rose 33.3 percent to Rs 6,815.58 crore compared to the same period last year. Meanwhile, total expenses increased by 35.77 percent to reach Rs 5,880.55 crore during the quarter.",
+    "source": "Business Standard / Press Trust of India",
+    "published": "2026-10-30T08:39:28+00:00",
+    "ago": "1h",
+    "impact": "Positive",
+    "why": "Higher net profit and revenue growth.",
+    "url": "https://www.business-standard.com/companies/quarterly-results/varun-beverages-q3-results-profit-rises-13-5-to-830-6-cr-revenue-up-33-126103000724_1.html",
+    "chips": {
+      "Net profit": "Rs 830.6 crore",
+      "Revenue": "Rs 6,815.58 crore",
+      "Total expenses": "Rs 5,880.55 crore"
+    },
+    "trend": [
+      0.1,
+      0.25,
+      0.2,
+      0.5,
+      0.45,
+      0.8,
+      0.95
+    ],
+    "color": "0F766E",
+    "premium": false,
+    "title_hi": "Varun Beverages का सितंबर तिमाही का मुनाफा 13.5 प्रतिशत कैसे बढ़ा?",
+    "summary_hi": "Varun Beverages ने सितंबर 2026 तिमाही में अपने समेकित शुद्ध लाभ में 13.54 प्रतिशत की बढ़ोतरी दर्ज की, जो 830.6 करोड़ रुपये रहा। घरेलू और अंतरराष्ट्रीय बाजारों में मजबूत वॉल्यूम के दम पर कंपनी का परिचालन से राजस्व 33.3 प्रतिशत बढ़कर 6,815.58 करोड़ रुपये पर पहुंच गया। इस बीच, समीक्षाधीन तिमाही में कंपनी का कुल खर्च भी 35.77 प्रतिशत बढ़कर 5,880.55 करोड़ रुपये हो गया।",
+    "why_hi": "शुद्ध लाभ और राजस्व में वृद्धि।",
+    "chips_hi": {
+      "शुद्ध लाभ": "₹830.6 करोड़",
+      "राजस्व": "₹6,815.58 करोड़",
+      "कुल खर्च": "₹5,880.55 करोड़"
+    }
+  },
+  {
+    "v": 2,
     "cat": "Markets",
     "tk": "MARKETS",
     "title": "BSE IT index heads for its second biggest monthly gain",
@@ -562,245 +793,5 @@
     "summary_hi": "HCL Technologies ने जापानी चिपमेकर Rapidus Corporation के सहयोग से बेंगलुरु और हुबली में दो नए विकास केंद्र शुरू किए हैं। ये केंद्र मास्क डिज़ाइन, लेआउट डिज़ाइन और प्रोसेस डिज़ाइन किट जैसी सेमीकंडक्टर इंजीनियरिंग सेवाएं प्रदान करेंगे। इसके अलावा, कंपनी जापान में Rapidus की प्रतिभा आवश्यकताओं को पूरा करने के लिए भारत में इंजीनियरों का एक दल तैयार करेगी।",
     "why_hi": "सेमीकंडक्टर इंजीनियरिंग सेवाओं का विस्तार हुआ।",
     "chips_hi": {}
-  },
-  {
-    "v": 2,
-    "cat": "Industry",
-    "tk": "INDUSTRY",
-    "title": "How a 25-year licence triggered a major power crisis in Haryana",
-    "summary": "A 25-year licence granted to Eleven Power has created a major dispute between Haryana's power regulator and the state government. This decision has sparked serious concerns regarding parallel distribution networks and the overall financial stability of state-run power distribution companies in the region.",
-    "source": "Business Standard",
-    "published": "2026-10-26T09:27:30+00:00",
-    "ago": "41m",
-    "impact": "Negative",
-    "why": "Threatens state discom financial health.",
-    "url": "https://www.business-standard.com/industry/news/haryana-electricity-row-eleven-power-private-licence-discom-explained-126102600662_1.html",
-    "chips": {
-      "Licence period": "25-year"
-    },
-    "trend": [
-      0.95,
-      0.85,
-      0.7,
-      0.6,
-      0.4,
-      0.3,
-      0.1
-    ],
-    "color": "9B2C2C",
-    "premium": false,
-    "title_hi": "Haryana में 25 साल के लाइसेंस से कैसे शुरू हुआ बिजली संकट",
-    "summary_hi": "Eleven Power को मिले 25 साल के लाइसेंस की वजह से Haryana के बिजली नियामक और सरकार आमने-सामने आ गए हैं। इस कदम से पैरेलल डिस्ट्रीब्यूशन और सरकारी बिजली कंपनियों की वित्तीय सेहत को लेकर चिंताएं बढ़ गई हैं।",
-    "why_hi": "सरकारी बिजली कंपनियों की वित्तीय सेहत पर असर।",
-    "chips_hi": {
-      "लाइसेंस अवधि": "25 साल"
-    }
-  },
-  {
-    "v": 2,
-    "cat": "Earnings",
-    "tk": "TAMILNAD",
-    "title": "Tamilnad Mercantile Bank Q2 net profit jumps 42% to Rs 451 crore",
-    "summary": "Tamilnad Mercantile Bank announced its financial results for the September quarter. The private sector lender posted a net profit of Rs 451 crore, showing a 42 percent increase compared to the previous year. Interest income also grew to Rs 1,820 crore. Additionally, the bank saw an improvement in asset quality as gross non-performing assets dropped to 0.61 percent of gross advances during the quarter.",
-    "source": "Business Standard / Press Trust of India",
-    "published": "2026-10-26T09:23:55+00:00",
-    "ago": "45m",
-    "impact": "Positive",
-    "why": "Profit surged and bad loans declined.",
-    "url": "https://www.business-standard.com/companies/quarterly-results/tamilnad-mercantile-bank-q2-results-net-profit-up-42-to-451-crore-126102600618_1.html",
-    "chips": {
-      "Net profit": "Rs 451 crore",
-      "Interest income": "Rs 1,820 crore",
-      "Gross NPAs": "0.61 percent"
-    },
-    "trend": [
-      0.1,
-      0.25,
-      0.2,
-      0.5,
-      0.45,
-      0.8,
-      0.95
-    ],
-    "color": "0F766E",
-    "premium": false,
-    "title_hi": "Tamilnad Mercantile Bank का Q2 मुनाफा 42% बढ़कर ₹451 करोड़ हुआ",
-    "summary_hi": "Tamilnad Mercantile Bank ने सितंबर तिमाही के अपने वित्तीय नतीजे जारी किए हैं। प्राइवेट सेक्टर के इस बैंक का शुद्ध लाभ 42 प्रतिशत बढ़कर 451 करोड़ रुपये पर पहुंच गया है। इस दौरान बैंक की ब्याज से होने वाली आय भी बढ़कर 1,820 करोड़ रुपये हो गई। इसके अलावा, बैंक की संपत्ति की गुणवत्ता में भी सुधार हुआ है और सकल एनपीए घटकर 0.61 प्रतिशत रह गया है।",
-    "why_hi": "मुनाफा बढ़ा और एनपीए कम हुआ।",
-    "chips_hi": {
-      "शुद्ध लाभ": "₹451 करोड़",
-      "ब्याज आय": "₹1,820 करोड़",
-      "सकल एनपीए": "0.61 प्रतिशत"
-    }
-  },
-  {
-    "v": 2,
-    "cat": "Earnings",
-    "tk": "COMPANIES",
-    "title": "Indian Overseas Bank sees 56% net profit jump in Q2",
-    "summary": "Indian Overseas Bank reported a 56 percent growth in net profit, reaching Rs 1,912 crore for the quarter ended September 30. The public sector lender benefited from higher interest income, which rose 17 percent to Rs 9,201 crore. Additionally, the bank's asset quality improved as gross non-performing assets decreased to 1.19 percent.",
-    "source": "Business Standard / Press Trust of India",
-    "published": "2026-10-26T09:11:31+00:00",
-    "ago": "58m",
-    "impact": "Positive",
-    "why": "Higher profit and improved asset quality.",
-    "url": "https://www.business-standard.com/companies/quarterly-results/iob-q2-net-profit-rises-56-pc-to-rs-1-912-cr-on-higher-interest-income-126102600566_1.html",
-    "chips": {
-      "Net profit": "Rs 1,912 crore",
-      "Interest income": "Rs 9,201 crore",
-      "Gross NPAs": "1.19 per cent"
-    },
-    "trend": [
-      0.1,
-      0.25,
-      0.2,
-      0.5,
-      0.45,
-      0.8,
-      0.95
-    ],
-    "color": "0F766E",
-    "premium": false,
-    "title_hi": "Indian Overseas Bank का Q2 में शुद्ध लाभ 56% बढ़ा",
-    "summary_hi": "Indian Overseas Bank ने 30 सितंबर को समाप्त तिमाही के लिए अपने शुद्ध लाभ में 56 प्रतिशत की वृद्धि दर्ज की, जो 1,912 करोड़ रुपये रहा। बैंक की ब्याज आय बढ़कर 9,201 करोड़ रुपये हो गई। इसके साथ ही, बैंक के सकल एनपीए में भी सुधार देखा गया।",
-    "why_hi": "बढ़ा हुआ मुनाफा और बेहतर एसेट क्वालिटी।",
-    "chips_hi": {
-      "शुद्ध लाभ": "₹1,912 करोड़",
-      "ब्याज आय": "₹9,201 करोड़",
-      "सकल एनपीए": "1.19 प्रतिशत"
-    }
-  },
-  {
-    "v": 2,
-    "cat": "Industry",
-    "tk": "HYUNDAI",
-    "title": "Hyundai aims for 250,000 mid-size SUV sales in 2027",
-    "summary": "Hyundai is aiming to sell 250,000 mid-size SUVs by the year 2027 through the Creta and Bayon models. Managing Director and Chief Executive Officer Tarun Garg noted that this projection serves as a baseline rather than an upper limit. The company anticipates that these two vehicles will attract distinct groups of buyers within the mid-size SUV market segment.",
-    "source": "Business Standard",
-    "published": "2026-10-26T09:03:10+00:00",
-    "ago": "1h",
-    "impact": "Positive",
-    "why": "Higher targeted sales boost growth outlook.",
-    "url": "https://www.business-standard.com/industry/auto/hyundai-mid-size-suv-sales-2027-creta-bayon-tarun-garg-126102600623_1.html",
-    "chips": {
-      "Target sales": "250,000",
-      "Target year": "2027"
-    },
-    "trend": [
-      0.1,
-      0.25,
-      0.2,
-      0.5,
-      0.45,
-      0.8,
-      0.95
-    ],
-    "color": "0F766E",
-    "premium": false,
-    "title_hi": "Hyundai का 2027 तक 250,000 mid-size SUV बेचने का लक्ष्य",
-    "summary_hi": "Hyundai ने Creta और Bayon के दम पर 2027 तक 250,000 mid-size SUV बेचने का लक्ष्य रखा है। Managing Director और CEO Tarun Garg के अनुसार, यह आंकड़ा किसी सीमा की जगह एक शुरुआती आधार है। कंपनी को उम्मीद है कि ये दोनों गाड़ियां mid-size SUV के बाजार में अलग-अलग तरह के ग्राहकों को आकर्षित करेंगी।",
-    "why_hi": "बिक्री का बड़ा लक्ष्य विकास को दर्शाता है।",
-    "chips_hi": {
-      "लक्ष्य बिक्री": "250,000",
-      "लक्ष्य वर्ष": "2027"
-    }
-  },
-  {
-    "v": 2,
-    "cat": "Markets",
-    "tk": "SHRIRAM FINANCE",
-    "title": "Shriram Finance slips 10% in 2 days, hits 11-month low; here's why",
-    "summary": "Shriram Finance experienced a 10 percent decline over two days, touching an 11-month low. Market concerns are driven by a moderated credit growth guidance of 15 to 17 per cent, alongside rising credit costs linked to volatile monsoon conditions. On the other hand, the recent drop in valuation has created potential upside opportunities for the company, according to observations.",
-    "source": "Business Standard",
-    "published": "2026-10-26T05:14:54+00:00",
-    "ago": "44m",
-    "impact": "Negative",
-    "why": "Credit growth slowed and costs increased.",
-    "url": "https://www.business-standard.com/markets/news/shriram-finance-shre-price-slips-10-in-2-days-hits-11-month-low-here-s-why-126102600193_1.html",
-    "chips": {
-      "Credit growth guidan": "15-17 per cent",
-      "Stock drop": "10%",
-      "Low": "11-month low"
-    },
-    "trend": [
-      0.95,
-      0.85,
-      0.7,
-      0.6,
-      0.4,
-      0.3,
-      0.1
-    ],
-    "color": "9B2C2C",
-    "premium": false,
-    "title_hi": "Shriram Finance के शेयरों में 2 दिन में 10 प्रतिशत की गिरावट",
-    "summary_hi": "Shriram Finance के शेयर में दो दिनों में 10 प्रतिशत की गिरावट आई है और यह 11 महीने के निचले स्तर पर पहुंच गया है। क्रेडिट ग्रोथ अनुमान के 15 से 17 प्रतिशत तक सीमित रहने और मानसून की अनिश्चितता के बीच बढ़ते क्रेडिट लागत को लेकर चिंताएं बनी हुई हैं। हालांकि, वैल्यूएशन में आई हालिया गिरावट से ऊपर बढ़ने की संभावना भी दिख रही है।",
-    "why_hi": "क्रेडिट ग्रोथ धीमी हुई और लागत बढ़ी।",
-    "chips_hi": {
-      "क्रेडिट ग्रोथ": "15-17 प्रतिशत",
-      "गिरावट": "10%",
-      "निचला स्तर": "11-महीने का निचला स्"
-    }
-  },
-  {
-    "v": 2,
-    "cat": "Earnings",
-    "tk": "MARKETS",
-    "title": "Why did AU SFB shares drop over 9 percent?",
-    "summary": "Shares of AU Small Finance Bank experienced a sharp decline of more than 9 percent following the release of their second-quarter financial results. In response to the performance and ongoing macroeconomic uncertainties, brokerage firm Emkay Global chose to maintain a reduce rating on the stock, pointing out that current valuations provide a limited margin of safety for investors navigating the volatile market conditions.",
-    "source": "Business Standard",
-    "published": "2026-10-26T05:08:49+00:00",
-    "ago": "50m",
-    "impact": "Negative",
-    "why": "Shares dropped and brokerages expressed caution.",
-    "url": "https://www.business-standard.com/markets/news/au-sfb-share-price-tank-over-9-post-q2-results-brokerages-mixed-on-outlook-126102600228_1.html",
-    "chips": {},
-    "trend": [
-      0.95,
-      0.85,
-      0.7,
-      0.6,
-      0.4,
-      0.3,
-      0.1
-    ],
-    "color": "9B2C2C",
-    "premium": false,
-    "hi_tries": 2
-  },
-  {
-    "v": 2,
-    "cat": "Earnings",
-    "tk": "MARKETS",
-    "title": "Dr Reddy's shares jump 4 percent following recent earnings report",
-    "summary": "Shares of Dr Reddy's Laboratories increased by 4 percent after the company announced its second-quarter earnings. Following the financial results, market analysts updated their stance on the stock. Systematix Institutional Research changed its rating from Hold to Buy. At the same time, Elara Securities moved its rating from Reduce to Accumulate.",
-    "source": "Business Standard",
-    "published": "2026-10-26T05:02:09+00:00",
-    "ago": "58m",
-    "impact": "Positive",
-    "why": "Brokerage upgrades after positive earnings results.",
-    "url": "https://www.business-standard.com/markets/news/dr-reddy-s-share-price-spurts-4-post-q2-earnings-analysts-upgrade-rating-126102600209_1.html",
-    "chips": {
-      "Share price rise": "4%",
-      "Quarter": "Q2"
-    },
-    "trend": [
-      0.1,
-      0.25,
-      0.2,
-      0.5,
-      0.45,
-      0.8,
-      0.95
-    ],
-    "color": "0F766E",
-    "premium": false,
-    "title_hi": "Q2 नतीजों के बाद Dr Reddy's के शेयरों में 4 प्रतिशत की तेजी",
-    "summary_hi": "डॉ रेड्डीज लैबोरेटरीज के शेयरों में दूसरी तिमाही के नतीजों के बाद 4 प्रतिशत की बढ़ोतरी हुई। इस वित्तीय प्रदर्शन के बाद बाजार विश्लेषकों ने स्टॉक पर अपनी रेटिंग में सुधार किया है। सिस्टमैटिक्स इंस्टीट्यूशनल रिसर्च ने अपनी रेटिंग को होल्ड से बदलकर बाय कर दिया। वहीं, एंवारा सिक्योरिटीज ने अपनी रेटिंग को रिड्यूस से बदलकर एक्युमलेट कर दिया।",
-    "why_hi": "बेहतर नतीजों के बाद ब्रोकरेज रेटिंग सुधरी",
-    "chips_hi": {
-      "शेयर उछाल": "4%",
-      "तिमाही": "Q2"
-    }
   }
 ]
