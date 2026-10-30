@@ -1,6 +1,235 @@
 [
   {
     "v": 2,
+    "cat": "Markets",
+    "tk": "BINANCE",
+    "title": "Binance faces $3 billion crypto freeze amid possible record-breaking hack",
+    "summary": "A potential cyber attack has led to the freezing of $3 billion worth of digital assets. Analytics firm Chainalysis indicates this incident could become the largest cryptocurrency theft in history. The immediate market fallout emerged during early trading hours in Asia on Friday, reflecting sudden concerns across the digital currency ecosystem.",
+    "source": "Business Standard / Reuters",
+    "published": "2026-10-30T01:55:30+00:00",
+    "ago": "17m",
+    "impact": "Negative",
+    "why": "Potential record hack freezes billions.",
+    "url": "https://www.business-standard.com/markets/cryptocurrency/binance-s-possible-hack-triggers-3-billion-freeze-in-crypto-assets-126103000072_1.html",
+    "chips": {
+      "Frozen assets": "$3 billion"
+    },
+    "trend": [
+      0.95,
+      0.85,
+      0.7,
+      0.6,
+      0.4,
+      0.3,
+      0.1
+    ],
+    "color": "9B2C2C",
+    "premium": false,
+    "title_hi": "संभावित बड़े हैक के बाद Binance पर 3 अरब डॉलर के क्रिप्टो फ्रीज",
+    "summary_hi": "एक संभावित साइबर हमले के कारण 3 अरब डॉलर मूल्य की डिजिटल संपत्ति को फ्रीज कर दिया गया है। एनालिटिक्स फर्म Chainalysis के अनुसार, यह घटना इतिहास की सबसे बड़ी क्रिप्टोकरेंसी चोरी साबित हो सकती है। शुक्रवार को एशियाई बाजार में शुरुआती कारोबार के दौरान इसका असर तुरंत देखने को मिला।",
+    "why_hi": "बड़ी हैक की आशंका से अरबों फ्रीज।",
+    "chips_hi": {
+      "फ्रीज संपत्ति": "$3 अरब"
+    }
+  },
+  {
+    "v": 2,
+    "cat": "Economy",
+    "tk": "ECONOMY",
+    "title": "Did IMF keep India's growth engine running despite weather risks?",
+    "summary": "The International Monetary Fund stated that weather risks like the Super El Nino have not yet materialised for India. However, the IMF noted potential dangers such as reduced crop yields, higher food inflation, and lower household purchasing power. The IMF recently upgraded India's economic growth projections for fiscal year 2027 and fiscal year 2028 to 7 percent. Officials stated they will reassess these numbers in the upcoming World Economic Outlook update if weather risks materialize.",
+    "source": "Business Standard / Press Trust of India",
+    "published": "2026-10-29T19:39:37+00:00",
+    "ago": "6h",
+    "impact": "Neutral",
+    "why": "Growth remains strong despite unmaterialised risks.",
+    "url": "https://www.business-standard.com/economy/news/india-remains-growth-engine-super-el-nino-impact-yet-to-materialise-imf-126102901811_1.html",
+    "chips": {
+      "FY27 forecast": "7 per cent",
+      "FY28 forecast": "7 per cent"
+    },
+    "trend": [
+      0.5,
+      0.55,
+      0.45,
+      0.5,
+      0.47,
+      0.52,
+      0.5
+    ],
+    "color": "B7791F",
+    "premium": false,
+    "title_hi": "क्या मौसम के जोखिम के बावजूद भारत की विकास रफ्तार बरकरार है?",
+    "summary_hi": "अंतरराष्ट्रीय मुद्रा कोष ने कहा कि भारत के लिए सुपर अल नीनो जैसे मौसम के प्रभाव अभी सामने नहीं आए हैं। आईएमएफ ने कम फसल पैदावार, बढ़ती खाद्य महंगाई और घरेलू क्रय शक्ति पर असर जैसे जोखिमों का जिक्र किया। आईएमएफ ने हाल ही में वित्त वर्ष 2027 और वित्त वर्ष 2028 के लिए भारत के विकास अनुमान को बढ़ाकर 7 प्रतिशत कर दिया। अधिकारियों ने कहा कि जोखिम सामने आने पर वे जनवरी की रिपोर्ट में इन अनुमानों की फिर से समीक्षा करेंगे।",
+    "why_hi": "जोखिम अभी असर नहीं दिखा पाए हैं।",
+    "chips_hi": {
+      "वित्त वर्ष 2027 अनुम": "7 प्रतिशत",
+      "वित्त वर्ष 2028 अनुम": "7 प्रतिशत"
+    }
+  },
+  {
+    "v": 2,
+    "cat": "Companies",
+    "tk": "VOLKSWAGEN",
+    "title": "Why is the government clashing over a $1.2 billion tax dispute?",
+    "summary": "India has defended an import duty demand of $1.2 billion against Volkswagen in court. The two parties are currently locked in a legal clash over this record tax dispute. The government stands by its tax demand, while the automaker challenges the matter.",
+    "source": "Business Standard / Reuters",
+    "published": "2026-10-29T18:02:30+00:00",
+    "ago": "8h",
+    "impact": "Negative",
+    "why": "Significant tax dispute poses legal risks.",
+    "url": "https://www.business-standard.com/companies/news/govt-volkswagen-clash-in-court-over-record-1-2-billion-tax-dispute-126102901520_1.html",
+    "chips": {
+      "Tax dispute": "$1.2 billion"
+    },
+    "trend": [
+      0.95,
+      0.85,
+      0.7,
+      0.6,
+      0.4,
+      0.3,
+      0.1
+    ],
+    "color": "9B2C2C",
+    "premium": false,
+    "title_hi": "सरकार और Volkswagen के बीच 1.2 अरब डॉलर के टैक्स विवाद पर क्यों भिड़ंत?",
+    "summary_hi": "भारत सरकार ने अदालत में Volkswagen के खिलाफ 1.2 अरब डॉलर के आयात शुल्क की मांग का बचाव किया है। यह भारी-भरकम टैक्स विवाद दोनों पक्षों के बीच कानूनी लड़ाई का विषय बना हुआ है।",
+    "why_hi": "बड़ा टैक्स विवाद कानूनी जोखिम पैदा करता है।",
+    "chips_hi": {
+      "टैक्स विवाद": "$1.2 अरब"
+    }
+  },
+  {
+    "v": 2,
+    "cat": "Companies",
+    "tk": "COMPANIES",
+    "title": "PNB settles claims worth Rs 43 lakh after branch fraud allegations",
+    "summary": "Punjab National Bank has settled three claims totaling Rs 43 lakh following alleged financial irregularities in customer deposit accounts at its Greater Noida branch. The bank stated that it is examining the situation on a priority basis and cooperating with authorities to verify the facts. Emphasizing a zero-tolerance policy towards fraud, the lender assured customers that all genuine claims will be honored.",
+    "source": "Business Standard / Press Trust of India",
+    "published": "2026-10-29T17:58:43+00:00",
+    "ago": "8h",
+    "impact": "Negative",
+    "why": "Branch fraud allegations create reputational and operational",
+    "url": "https://www.business-standard.com/companies/news/pnb-settles-43-lakh-in-claims-amid-greater-noida-branch-fraud-allegations-126102901895_1.html",
+    "chips": {
+      "Settled claims": "Rs 43 lakh"
+    },
+    "trend": [
+      0.95,
+      0.85,
+      0.7,
+      0.6,
+      0.4,
+      0.3,
+      0.1
+    ],
+    "color": "9B2C2C",
+    "premium": false,
+    "title_hi": "Greater Noida branch में धोखाधड़ी के आरोपों के बीच PNB ने ₹43 लाख के दावे निपटाए",
+    "summary_hi": "Punjab National Bank ने ग्रेटर नोएडा शाखा में ग्राहकों के खातों में कथित वित्तीय अनियमितताओं के बाद तीन दावे निपटाए हैं, जिनकी कुल राशि 43 लाख रुपये है। बैंक ने कहा है कि वह इस मामले की प्राथमिकता से जांच कर रहा है और अधिकारियों को पूरा सहयोग दे रहा है। बैंक ने यह भी आश्वासन दिया है कि सभी वैध दावों का भुगतान किया जाएगा।",
+    "why_hi": "शाखा में धोखाधड़ी के आरोपों से चिंता बढ़ी।",
+    "chips_hi": {
+      "निपटाए गए दावे": "₹43 लाख"
+    }
+  },
+  {
+    "v": 2,
+    "cat": "Companies",
+    "tk": "ALPHABET",
+    "title": "Alphabet loses over $500 billion as AI hits search business",
+    "summary": "Alphabet experienced a drop of over $500 billion in its market value following lower-than-anticipated search and advertising revenue. This decline highlighted growing worries about how artificial intelligence is affecting Google's main operations, alongside rising infrastructure expenses.",
+    "source": "Business Standard / Bloomberg",
+    "published": "2026-10-29T17:54:02+00:00",
+    "ago": "8h",
+    "impact": "Negative",
+    "why": "Falling sales and rising costs concern investors.",
+    "url": "https://www.business-standard.com/companies/news/alphabet-loses-over-500-billion-in-market-value-as-ai-hits-google-search-126102901917_1.html",
+    "chips": {
+      "Market value lost": "over $500 billion"
+    },
+    "trend": [
+      0.95,
+      0.85,
+      0.7,
+      0.6,
+      0.4,
+      0.3,
+      0.1
+    ],
+    "color": "9B2C2C",
+    "premium": false,
+    "title_hi": "Google search पर AI के असर से Alphabet को $500 अरब से अधिक का नुकसान",
+    "summary_hi": "Alphabet के बाजार मूल्य में 500 अरब डॉलर से अधिक की गिरावट आई है। यह कमी उम्मीद से कम सर्च और विज्ञापन बिक्री के कारण हुई, जिससे Google के मुख्य कारोबार पर आर्टिफिशियल इंटेलिजेंस के प्रभाव और बढ़ते बुनियादी ढांचे के खर्च को लेकर चिंताएं बढ़ गई हैं।",
+    "why_hi": "बिक्री घटने और खर्च बढ़ने से चिंता।",
+    "chips_hi": {
+      "मार्केट वैल्यू का नु": "अक्सर $500 अरब से ज्"
+    }
+  },
+  {
+    "v": 2,
+    "cat": "Economy",
+    "tk": "ECONOMY",
+    "title": "Odisha plans integrated rare-earth corridor for mineral processing",
+    "summary": "The government of Odisha has proposed an integrated rare-earth corridor to enhance mineral processing in the region. The planned Gopalpur cluster aims to combine mineral extraction, processing, and permanent-magnet manufacturing into a single system. This initiative is designed to strengthen the critical mineral value chain within the state.",
+    "source": "Business Standard",
+    "published": "2026-10-29T17:48:02+00:00",
+    "ago": "8h",
+    "impact": "Positive",
+    "why": "Strengthens the critical mineral value chain.",
+    "url": "https://www.business-standard.com/economy/news/odisha-plans-integrated-rare-earth-corridor-to-boost-mineral-processing-126102901903_1.html",
+    "chips": {},
+    "trend": [
+      0.1,
+      0.25,
+      0.2,
+      0.5,
+      0.45,
+      0.8,
+      0.95
+    ],
+    "color": "0F766E",
+    "premium": true,
+    "title_hi": "ओडिशा मिनरल प्रोसेसिंग को बढ़ावा देने के लिए बनाएगा रेयर-अर्थ कॉरिडोर",
+    "summary_hi": "ओडिशा सरकार ने क्षेत्र में मिनरल प्रोसेसिंग को बेहतर बनाने के लिए एक एकीकृत रेयर-अर्थ कॉरिडोर का प्रस्ताव रखा है। नियोजित गोपालपुर क्लस्टर का उद्देश्य मिनरल निष्कर्षण, प्रोसेसिंग और परमानेंट-मैग्नेट मैन्युफैक्चरिंग को एक साथ जोड़ना है। इस पहल का उद्देश्य राज्य के भीतर क्रिटिकल मिनरल वैल्यू चेन को मजबूत करना है।",
+    "why_hi": "क्रिटिकल मिनरल वैल्यू चेन मजबूत होगी।",
+    "chips_hi": {}
+  },
+  {
+    "v": 2,
+    "cat": "Markets",
+    "tk": "EMUDHRA",
+    "title": "Why did eMudhra shares bounce back 11% after falling?",
+    "summary": "Shares of eMudhra have staged an 11 percent recovery over three trading sessions following a steep selloff triggered by security worries. Market analysts anticipate that the recent security concerns will have a limited effect on the firm's long-term earnings growth trajectory. The stock experienced this rebound as market sentiment stabilized after the initial decline.",
+    "source": "Business Standard",
+    "published": "2026-10-29T17:47:51+00:00",
+    "ago": "8h",
+    "impact": "Positive",
+    "why": "Stock recovered 11 percent after recent worries.",
+    "url": "https://www.business-standard.com/markets/news/emudhra-stock-recovers-slightly-after-sharp-fall-over-security-concerns-126102901616_1.html",
+    "chips": {
+      "Stock recovery": "11%"
+    },
+    "trend": [
+      0.1,
+      0.25,
+      0.2,
+      0.5,
+      0.45,
+      0.8,
+      0.95
+    ],
+    "color": "0F766E",
+    "premium": false,
+    "title_hi": "सुरक्षा चिंताओं के बाद eMudhra के शेयर में 11% सुधार क्यों आया?",
+    "summary_hi": "सुरक्षा चिंताओं के चलते आई भारी गिरावट के बाद eMudhra के शेयरों में तीन सत्रों में 11 प्रतिशत की रिकवरी दर्ज की गई है। विश्लेषकों का मानना है कि इस घटना का कंपनी की लंबी अवधि की आय वृद्धि पर बहुत कम असर पड़ेगा।",
+    "why_hi": "शेयर में 11 प्रतिशत की रिकवरी दर्ज हुई।",
+    "chips_hi": {
+      "शेयर रिकवरी": "11%"
+    }
+  },
+  {
+    "v": 2,
     "cat": "Earnings",
     "tk": "DHANLAXMI BANK",
     "title": "Dhanlaxmi Bank Q2 net profit more than doubles to ₹48.55 crore",
@@ -566,224 +795,5 @@
     "summary_hi": "भारत में औसत तेल कीमतें 15 साल के सबसे ऊंचे स्तर पर पहुंच गई हैं, जिससे ईंधन खुदरा विक्रेताओं और सरकारी वित्त पर दबाव बढ़ रहा है। इस भारी बढ़ोतरी से महंगाई और राजकोषीय घाटे को लेकर चिंताएं बढ़ गई हैं।",
     "why_hi": "तेल महंगा होने से मार्जिन और finances पर दबाव।",
     "chips_hi": {}
-  },
-  {
-    "v": 2,
-    "cat": "Markets",
-    "tk": "MARKETS",
-    "title": "Will high energy prices stall broader market rerating prospects?",
-    "summary": "High energy prices may keep pressure on inflation and corporate profit margins, according to S Bharath. However, resilient corporate earnings and private capital expenditure provide support for the long-term outlook and potential outperformance of the broader market. While energy costs present near-term hurdles, ongoing private investments and steady earnings report card offer strong backing for future market growth.",
-    "source": "Business Standard",
-    "published": "2026-10-25T17:04:19+00:00",
-    "ago": "9h",
-    "impact": "Neutral",
-    "why": "Mixed factors balance earnings and energy costs.",
-    "url": "https://www.business-standard.com/markets/interviews/earnings-resilient-but-energy-prices-cap-rerating-prospects-bharath-s-126102500053_1.html",
-    "chips": {},
-    "trend": [
-      0.5,
-      0.55,
-      0.45,
-      0.5,
-      0.47,
-      0.52,
-      0.5
-    ],
-    "color": "B7791F",
-    "premium": true,
-    "title_hi": "क्या अधिक ऊर्जा कीमतें बाजार के विकास को रोकेंगी?",
-    "summary_hi": "एस भरत के अनुसार, ऊंचे तेल दाम महंगाई और कॉरपोरेट मुनाफे पर दबाव बना सकते हैं। हालांकि, मजबूत आय और निजी पूंजीगत व्यय व्यापक बाजार के लंबे समय के प्रदर्शन को समर्थन देते हैं।",
-    "why_hi": "मिले-जुले कारणों से प्रभाव स्पष्ट नहीं है।",
-    "chips_hi": {}
-  },
-  {
-    "v": 2,
-    "cat": "Markets",
-    "tk": "MARKETS",
-    "title": "Jio Platforms commands a 22% grey market premium ahead of listing",
-    "summary": "Stockbrokers are considering the implementation of stricter suitability checks for futures and options trading. At the same time, a commodity exchange is reassessing its plans for migrating its data centre. Additionally, Jio Platforms is seeing a grey market premium of 22 percent in anticipation of its upcoming market listing.",
-    "source": "Business Standard",
-    "published": "2026-10-25T16:55:45+00:00",
-    "ago": "9h",
-    "impact": "Neutral",
-    "why": "Mixed updates across different market segments.",
-    "url": "https://www.business-standard.com/markets/news/street-signs-suitability-check-for-f-o-trading-migration-rethink-more-126102500413_1.html",
-    "chips": {
-      "Grey market premium": "22%"
-    },
-    "trend": [
-      0.5,
-      0.55,
-      0.45,
-      0.5,
-      0.47,
-      0.52,
-      0.5
-    ],
-    "color": "B7791F",
-    "premium": true,
-    "title_hi": "Listing से पहले Jio Platforms का ग्रे मार्केट प्रीमियम 22% पहुंचा",
-    "summary_hi": "स्टॉकब्रोकर फ्यूचर्स और ऑप्शंस ट्रेडिंग के लिए सख्त उपयुक्तता जांच पर विचार कर रहे हैं। इस बीच, एक कमोडिटी एक्सचेंज अपने डेटा सेंटर माइग्रेशन प्लान की समीक्षा कर रहा है। इसके अलावा, Jio Platforms की लिस्टिंग से पहले उसका ग्रे मार्केट प्रीमियम 22 प्रतिशत पर चल रहा है।",
-    "why_hi": "बाजार के विभिन्न segmentos पर मिश्रित अपडेट।",
-    "chips_hi": {
-      "ग्रे मार्केट प्रीमिय": "22%"
-    }
-  },
-  {
-    "v": 2,
-    "cat": "Markets",
-    "tk": "MARKETS",
-    "title": "Why are crude oil surges testing gold and silver prices?",
-    "summary": "Gold and silver are bracing for more challenges ahead as rising crude oil prices bring back worries about inflation. At the same time, the upcoming US Federal Reserve policy meeting is set to play a big role in deciding the direction of bullion rates. Precious metals have already faced pressure from high bond yields and a strong dollar. Market participants will also monitor global central bank decisions, economic data, and geopolitical developments.",
-    "source": "Business Standard / Press Trust of India",
-    "published": "2026-10-25T13:39:24+00:00",
-    "ago": "12m",
-    "impact": "Neutral",
-    "why": "Macroeconomic factors create a mixed outlook.",
-    "url": "https://www.business-standard.com/markets/news/gold-silver-face-fresh-test-as-oil-surge-puts-fed-policy-decision-in-focus-126102500493_1.html",
-    "chips": {},
-    "trend": [
-      0.5,
-      0.55,
-      0.45,
-      0.5,
-      0.47,
-      0.52,
-      0.5
-    ],
-    "color": "B7791F",
-    "premium": false,
-    "title_hi": "क्रूड ऑयल में तेजी से क्यों बढ़ रही हैं सोने-चांदी की मुश्किलें?",
-    "summary_hi": "बढ़ती क्रूड ऑयल की कीमतों के कारण महंगाई की चिंताएं फिर से उभरने से सोना और चांदी आने वाले दिनों में नई चुनौतियों का सामना करने के लिए तैयार हैं। इसके साथ ही, यूएस फेडरल रिजर्व की आगामी नीतिगत बैठक यह तय करने में अहम भूमिका निभाएगी कि सर्राफा दरों की दिशा क्या होगी। कीमती धातुओं पर पहले से ही ऊंचे बॉन्ड यील्ड और मजबूत डॉलर का दबाव बना हुआ है।",
-    "why_hi": "मैक्रोइकॉनॉमिक फैक्टर से मिला-जुला असर।",
-    "chips_hi": {}
-  },
-  {
-    "v": 2,
-    "cat": "Economy",
-    "tk": "ECONOMY",
-    "title": "Fiscal autonomy is key to fixing urban governance, says NITI Aayog",
-    "summary": "NITI Aayog has highlighted that urban centers cannot be effectively administered from state capitals. According to Rajiv Gauba, cities must possess the necessary authority, resources, and institutional capacity to properly address local requirements. This perspective emphasizes a shift toward greater financial independence for local administrations to improve overall city governance.",
-    "source": "Business Standard",
-    "published": "2026-10-25T13:38:38+00:00",
-    "ago": "13m",
-    "impact": "Neutral",
-    "why": "Focuses on policy discussion without financial impact.",
-    "url": "https://www.business-standard.com/economy/news/greater-fiscal-autonomy-key-to-overhauling-urban-governance-niti-aayog-126102500564_1.html",
-    "chips": {},
-    "trend": [
-      0.5,
-      0.55,
-      0.45,
-      0.5,
-      0.47,
-      0.52,
-      0.5
-    ],
-    "color": "B7791F",
-    "premium": false,
-    "title_hi": "शहरी शासन सुधारने के लिए वित्तीय स्वायत्तता जरूरी: नीति आयोग",
-    "summary_hi": "नीति आयोग का कहना है कि शहरी केंद्रों को राज्य की राजधानियों से प्रभावी ढंग से नहीं चलाया जा सकता है। राजीव गाबा के अनुसार, स्थानीय जरूरतों को पूरा करने के लिए शहरों के पास अधिकार, संसाधन और संस्थागत क्षमता होनी चाहिए।",
-    "why_hi": "नीतिगत चर्चा पर आधारित है।",
-    "chips_hi": {}
-  },
-  {
-    "v": 2,
-    "cat": "Economy",
-    "tk": "ECONOMY",
-    "title": "Crude oil nears $120 as West Asia tensions and Fed loom",
-    "summary": "Crude oil prices face a volatile week as growing geopolitical tensions in West Asia raise supply concerns, while the upcoming US Federal Reserve monetary policy decision is set to guide the market. Brent crude has already moved past USD 117 per barrel. Investors are closely watching the Strait of Hormuz, potential threats to energy infrastructure, and upcoming weekly US inventory data from the American Petroleum Institute and the US Energy Information Administration for market direction.",
-    "source": "Business Standard / Press Trust of India",
-    "published": "2026-10-25T12:38:27+00:00",
-    "ago": "1h",
-    "impact": "Neutral",
-    "why": "Supply risks and Fed policy create uncertainty.",
-    "url": "https://www.business-standard.com/economy/news/crude-nears-120-as-w-asia-risks-collide-with-fed-rate-decision-analysts-126102500398_1.html",
-    "chips": {
-      "Crude price": "USD 117 per barrel"
-    },
-    "trend": [
-      0.5,
-      0.55,
-      0.45,
-      0.5,
-      0.47,
-      0.52,
-      0.5
-    ],
-    "color": "B7791F",
-    "premium": false,
-    "title_hi": "West Asia तनाव और Fed के बीच कच्चा तेल 120 डॉलर के करीब",
-    "summary_hi": "West Asia में बढ़ते तनाव और US Federal Reserve के नीतिगत फैसले के कारण कच्चे तेल की कीमतों में उतार-चढ़ाव जारी रहने की उम्मीद है। Brent crude 117 डॉलर प्रति बैरल के पार पहुंच चुका है। निवेशक Hormuz जलडमरूमध्य, ऊर्जा बुनियादी ढांचे और साप्ताहिक अमेरिकी इन्वेंट्री डेटा पर नजर बनाए हुए हैं, जिससे बाजार की अगली दिशा तय होगी।",
-    "why_hi": "आपूर्ति के खतरे और नीतिगत फैसले से अनिश्चितता।",
-    "chips_hi": {
-      "कच्चा तेल": "USD 117 प्रति बैरल"
-    }
-  },
-  {
-    "v": 2,
-    "cat": "Companies",
-    "tk": "HOGAR",
-    "title": "Why did Hogar Technologies face a penalty for walkie-talkie ads?",
-    "summary": "Hogar Technologies has been penalized with a fine of Rs 1 lakh by the consumer protection authority regarding its walkie-talkie advertisements. According to the authority, such promotional campaigns failed to include mandatory details like operating frequencies and necessary licensing information. Officials noted that these omissions prevent buyers from making well-informed choices about the product.",
-    "source": "Business Standard",
-    "published": "2026-10-25T12:16:53+00:00",
-    "ago": "1h",
-    "impact": "Negative",
-    "why": "Penalty imposed for misleading advertisements.",
-    "url": "https://www.business-standard.com/companies/news/ccpa-fines-hogar-technologies-1-lakh-over-misleading-walkie-talkie-ads-126102500492_1.html",
-    "chips": {
-      "Fine": "Rs 1 lakh"
-    },
-    "trend": [
-      0.95,
-      0.85,
-      0.7,
-      0.6,
-      0.4,
-      0.3,
-      0.1
-    ],
-    "color": "9B2C2C",
-    "premium": false,
-    "title_hi": "Hogar Technologies पर वॉकी-टॉकी के विज्ञापनों को लेकर जुर्माना क्यों लगा?",
-    "summary_hi": "उपभोक्ता संरक्षण प्राधिकरण ने Hogar Technologies पर 1 लाख रुपये का जुर्माना लगाया है। प्राधिकरण का कहना है कि इन विज्ञापनों में ऑपरेटिंग फ्रीक्वेंसी और लाइसेंस से जुड़ी जरूरी जानकारियां नहीं दी गई थीं। अधिकारियों के अनुसार, ऐसी कमियों के कारण ग्राहकों को सही फैसले लेने में परेशानी होती है।",
-    "why_hi": "गुमराह करने वाले विज्ञापनों पर जुर्माना लगा।",
-    "chips_hi": {
-      "जुर्माना": "₹1 लाख"
-    }
-  },
-  {
-    "v": 2,
-    "cat": "Industry",
-    "tk": "YES BANK",
-    "title": "Yes Bank reviews Supreme Court verdict on AT-1 bond write-off",
-    "summary": "Yes Bank has stated that it is currently evaluating the recent Supreme Court judgment which set aside the Rs 8,415 crore AT-1 bond write-off. The private lender retains its discretion regarding the coupon payments and promised to communicate its final decision in due course. The bank has not yet made a final determination on how it will proceed with the coupon payments following the court ruling.",
-    "source": "Business Standard",
-    "published": "2026-10-25T11:48:50+00:00",
-    "ago": "2h",
-    "impact": "Neutral",
-    "why": "Evaluating court ruling on bond write-off.",
-    "url": "https://www.business-standard.com/industry/banking/yes-bank-yet-to-decide-on-at-1-bond-coupon-says-it-retains-discretion-126102500453_1.html",
-    "chips": {
-      "AT-1 bond write-off": "Rs 8,415 crore"
-    },
-    "trend": [
-      0.5,
-      0.55,
-      0.45,
-      0.5,
-      0.47,
-      0.52,
-      0.5
-    ],
-    "color": "B7791F",
-    "premium": false,
-    "title_hi": "Yes Bank AT-1 बॉंड फैसले की कर रहा है समीक्षा",
-    "summary_hi": "Yes Bank ने कहा है कि वह AT-1 बॉंड राइट-ऑफ को रद्द करने वाले सुप्रीम कोर्ट के फैसले का मूल्यांकन कर रहा है। बैंक के पास कूपन भुगतान पर अपने विवेक का अधिकार सुरक्षित है और वह समय आने पर अपने निर्णय की जानकारी देगा। अदालत के इस फैसले के बाद कूपन भुगतान को लेकर अभी तक कोई अंतिम निर्णय नहीं लिया गया है।",
-    "why_hi": "बॉंड राइट-ऑफ पर अदालती फैसले की समीक्षा।",
-    "chips_hi": {
-      "AT-1 बॉंड राइट-ऑफ": "₹8,415 करोड़"
-    }
   }
 ]
