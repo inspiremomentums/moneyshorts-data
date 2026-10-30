@@ -1,6 +1,143 @@
 [
   {
     "v": 2,
+    "cat": "Earnings",
+    "tk": "INDUSTRY",
+    "title": "Bengaluru matches Tokyo with 11.5% office rent growth in Q3",
+    "summary": "Bengaluru recorded a significant annual growth of 11.5 percent in prime office rents during the third quarter of 2026, matching Tokyo's pace, according to Knight Frank. Meanwhile, other major Indian metropolitan areas also saw upward movements in rental values. Delhi-NCR registered a growth of 5.4 percent, and Mumbai recorded a 4 percent increase during the same period.",
+    "source": "Business Standard",
+    "published": "2026-10-30T13:57:00+00:00",
+    "ago": "23m",
+    "impact": "Positive",
+    "why": "Strong rental growth shows high commercial demand.",
+    "url": "https://www.business-standard.com/industry/news/bengaluru-matches-tokyo-with-11-5-office-rent-growth-in-q3-knight-frank-126103001568_1.html",
+    "chips": {
+      "Bengaluru rent growt": "11.5%",
+      "Tokyo rent growth": "11.5%",
+      "Delhi-NCR rent growt": "5.4%"
+    },
+    "trend": [
+      0.1,
+      0.25,
+      0.2,
+      0.5,
+      0.45,
+      0.8,
+      0.95
+    ],
+    "color": "0F766E",
+    "premium": false,
+    "hi_tries": 1,
+    "title_hi": "बेंगलुरु ने ऑफिस रेंट के मामले में तोक्यो को कैसे पीछे छोड़ा?",
+    "summary_hi": "नाइट फ्रैंक की रिपोर्ट के मुताबिक, 2026 की तीसरी तिमाही में बेंगलुरु में प्राइम ऑफिस का किराया 11.5 प्रतिशत बढ़ गया है। इसके साथ ही बेंगलुरु ने इस मामले में तोक्यो की बराबरी कर ली है। इस दौरान दिल्ली-NCR में 5.4 प्रतिशत और मुंबई में 4 प्रतिशत की बढ़ोतरी दर्ज की गई।",
+    "why_hi": "कमर्शियल प्रॉपर्टी की मजबूत मांग के कारण किराए में यह तेजी देखने को मिल रही है।",
+    "chips_hi": {
+      "बेंगलुरु रेंट ग्रोथ": "11.5%",
+      "तोक्यो रेंट ग्रोथ": "11.5%",
+      "दिल्ली-NCR रेंट ग्रो": "5.4%"
+    }
+  },
+  {
+    "v": 2,
+    "cat": "Industry",
+    "tk": "INDUSTRY",
+    "title": "Centre sets minimum one-year residual shelf life for imported drugs",
+    "summary": "The Health Ministry has updated regulations for imported medicines. Instead of the previous 60 per cent rule, authorities now require a fixed minimum of 12 months of residual shelf life for the majority of drug imports. This regulatory change is designed to simplify the import process and simultaneously decrease product wastage across the sector.",
+    "source": "Business Standard",
+    "published": "2026-10-30T13:32:40+00:00",
+    "ago": "48m",
+    "impact": "Positive",
+    "why": "Eases import processes and reduces wastage.",
+    "url": "https://www.business-standard.com/industry/news/centre-mandates-minimum-one-year-residual-shelf-life-for-drug-imports-126103001520_1.html",
+    "chips": {
+      "Shelf life": "12-month minimum"
+    },
+    "trend": [
+      0.1,
+      0.25,
+      0.2,
+      0.5,
+      0.45,
+      0.8,
+      0.95
+    ],
+    "color": "0F766E",
+    "premium": false,
+    "title_hi": "दवा आयात के लिए केंद्र ने तय की न्यूनतम एक साल की मियाद",
+    "summary_hi": "स्वास्थ्य मंत्रालय ने आयातित दवाओं के नियमों में बदलाव किया है। अधिकांश बाहर से आने वाली दवाओं के लिए अब साठ प्रतिशत वाली पुरानी शर्त को हटाकर बारह महीने की न्यूनतम शेल्फ लाइफ तय कर दी गई है। इस बदलाव का मकसद आयात प्रक्रिया को आसान बनाना और बर्बादी को कम करना है।",
+    "why_hi": "आयात प्रक्रिया आसान और बर्बादी कम होगी",
+    "chips_hi": {
+      "शेल्फ लाइफ": "12 महीने न्यूनतम"
+    }
+  },
+  {
+    "v": 2,
+    "cat": "Industry",
+    "tk": "INDUSTRY",
+    "title": "How will telecom operators handle new artificial intelligence rules in India?",
+    "summary": "The Telecom Regulatory Authority of India has introduced a draft framework aimed at governing artificial intelligence in the telecom sector. The proposed rules require telecom companies to establish board-approved policies for artificial intelligence and implement risk classification systems. Additionally, operators must maintain human oversight over their operations and ensure mandatory reporting of any serious incidents related to artificial intelligence across the country.",
+    "source": "Business Standard",
+    "published": "2026-10-30T13:26:44+00:00",
+    "ago": "54m",
+    "impact": "Neutral",
+    "why": "New regulatory guidelines proposed for telecom sector.",
+    "url": "https://www.business-standard.com/industry/news/trai-proposes-ai-governance-framework-accountability-rules-for-telcos-126103001511_1.html",
+    "chips": {},
+    "trend": [
+      0.5,
+      0.55,
+      0.45,
+      0.5,
+      0.47,
+      0.52,
+      0.5
+    ],
+    "color": "B7791F",
+    "premium": false,
+    "title_hi": "Telecom companies के लिए Trai ने कौन सा नया AI फ्रेमवर्क सुझाया है?",
+    "summary_hi": "Telecom Regulatory Authority of India ने देश में telecom कंपनियों के लिए एक नया draft framework पेश किया है। इस प्रस्ताव के तहत कंपनियों को board-approved AI policies बनाने, risk classification लागू करने और human oversight रखने की जरूरत होगी। इसके अलावा, artificial intelligence से जुड़ी गंभीर घटनाओं की अनिवार्य रिपोर्टिंग भी करनी होगी।",
+    "why_hi": "Telecom sector के लिए नए नियम प्रस्तावित।",
+    "chips_hi": {}
+  },
+  {
+    "v": 2,
+    "cat": "Earnings",
+    "tk": "SMARTWORKS",
+    "title": "Smartworks raises FY27 revenue growth guidance to 33-35% on strong demand",
+    "summary": "Smartworks has raised its FY27 revenue growth guidance to 33-35 percent. The upward revision is driven by strong enterprise demand. The company expects incremental revenue between Rs 90 crore and Rs 100 crore. Additionally, it has secured over Rs 540 crore in new rental contracts.",
+    "source": "Business Standard",
+    "published": "2026-10-30T13:11:18+00:00",
+    "ago": "1h",
+    "impact": "Positive",
+    "why": "Higher revenue growth guidance and new contracts.",
+    "url": "https://www.business-standard.com/companies/quarterly-results/smartworks-raises-fy27-revenue-growth-guidance-to-33-35-on-strong-demand-126103001478_1.html",
+    "chips": {
+      "Growth guidance": "33-35%",
+      "Incremental revenue": "Rs 90-100 crore",
+      "New rental contracts": "Rs 540 crore"
+    },
+    "trend": [
+      0.1,
+      0.25,
+      0.2,
+      0.5,
+      0.45,
+      0.8,
+      0.95
+    ],
+    "color": "0F766E",
+    "premium": false,
+    "title_hi": "Smartworks ने मजबूत मांग के कारण FY27 के लिए राजस्व वृद्धि अनुमान बढ़ाया",
+    "summary_hi": "Smartworks ने मजबूत मांग के कारण FY27 के लिए अपनी राजस्व वृद्धि का अनुमान बढ़ाकर 33-35 प्रतिशत कर दिया है। कंपनी को इसके जरिए ₹90 से ₹100 करोड़ तक की अतिरिक्त आय की उम्मीद है। इसके अलावा, नए रेंटल कॉन्ट्रैक्ट्स से ₹540 करोड़ से अधिक की कमाई हुई है।",
+    "why_hi": "बेहतर राजस्व अनुमान और नए अनुबंध।",
+    "chips_hi": {
+      "वृद्धि अनुमान": "33-35%",
+      "अतिरिक्त राजस्व": "₹90-100 करोड़",
+      "नए रेंटल कॉन्ट्रैक्ट": "₹540 करोड़"
+    }
+  },
+  {
+    "v": 2,
     "cat": "Finance",
     "tk": "FINANCE",
     "title": "Sebi makes direct plans default to save investors money",
@@ -656,142 +793,6 @@
     "title_hi": "ओडिशा मिनरल प्रोसेसिंग को बढ़ावा देने के लिए बनाएगा रेयर-अर्थ कॉरिडोर",
     "summary_hi": "ओडिशा सरकार ने क्षेत्र में मिनरल प्रोसेसिंग को बेहतर बनाने के लिए एक एकीकृत रेयर-अर्थ कॉरिडोर का प्रस्ताव रखा है। नियोजित गोपालपुर क्लस्टर का उद्देश्य मिनरल निष्कर्षण, प्रोसेसिंग और परमानेंट-मैग्नेट मैन्युफैक्चरिंग को एक साथ जोड़ना है। इस पहल का उद्देश्य राज्य के भीतर क्रिटिकल मिनरल वैल्यू चेन को मजबूत करना है।",
     "why_hi": "क्रिटिकल मिनरल वैल्यू चेन मजबूत होगी।",
-    "chips_hi": {}
-  },
-  {
-    "v": 2,
-    "cat": "Markets",
-    "tk": "EMUDHRA",
-    "title": "Why did eMudhra shares bounce back 11% after falling?",
-    "summary": "Shares of eMudhra have staged an 11 percent recovery over three trading sessions following a steep selloff triggered by security worries. Market analysts anticipate that the recent security concerns will have a limited effect on the firm's long-term earnings growth trajectory. The stock experienced this rebound as market sentiment stabilized after the initial decline.",
-    "source": "Business Standard",
-    "published": "2026-10-29T17:47:51+00:00",
-    "ago": "8h",
-    "impact": "Positive",
-    "why": "Stock recovered 11 percent after recent worries.",
-    "url": "https://www.business-standard.com/markets/news/emudhra-stock-recovers-slightly-after-sharp-fall-over-security-concerns-126102901616_1.html",
-    "chips": {
-      "Stock recovery": "11%"
-    },
-    "trend": [
-      0.1,
-      0.25,
-      0.2,
-      0.5,
-      0.45,
-      0.8,
-      0.95
-    ],
-    "color": "0F766E",
-    "premium": false,
-    "title_hi": "सुरक्षा चिंताओं के बाद eMudhra के शेयर में 11% सुधार क्यों आया?",
-    "summary_hi": "सुरक्षा चिंताओं के चलते आई भारी गिरावट के बाद eMudhra के शेयरों में तीन सत्रों में 11 प्रतिशत की रिकवरी दर्ज की गई है। विश्लेषकों का मानना है कि इस घटना का कंपनी की लंबी अवधि की आय वृद्धि पर बहुत कम असर पड़ेगा।",
-    "why_hi": "शेयर में 11 प्रतिशत की रिकवरी दर्ज हुई।",
-    "chips_hi": {
-      "शेयर रिकवरी": "11%"
-    }
-  },
-  {
-    "v": 2,
-    "cat": "Earnings",
-    "tk": "DHANLAXMI BANK",
-    "title": "Dhanlaxmi Bank Q2 net profit more than doubles to ₹48.55 crore",
-    "summary": "Dhanlaxmi Bank announced a more than two-fold rise in net profit, reaching Rs 48.55 crore for the second quarter of FY27, compared to Rs 23.20 crore in the same period of FY26. The private sector bank's interest income grew by 23 per cent to Rs 471 crore. Additionally, asset quality improved as gross non-performing assets dropped to 1.76 per cent from 3.10 per cent year-on-year. Meanwhile, company shares traded lower on the BSE.",
-    "source": "Business Standard / Press Trust of India",
-    "published": "2026-10-26T09:37:39+00:00",
-    "ago": "30m",
-    "impact": "Positive",
-    "why": "Net profit and interest income rose significantly.",
-    "url": "https://www.business-standard.com/companies/quarterly-results/dhanlaxmi-bank-q2-results-net-profit-more-than-doubles-to-48-55-crore-126102600661_1.html",
-    "chips": {
-      "Net profit": "Rs 48.55 crore",
-      "Interest income": "Rs 471 crore",
-      "Gross NPAs": "1.76 per cent"
-    },
-    "trend": [
-      0.1,
-      0.25,
-      0.2,
-      0.5,
-      0.45,
-      0.8,
-      0.95
-    ],
-    "color": "0F766E",
-    "premium": false,
-    "title_hi": "Dhanlaxmi Bank का Q2 नेट प्रॉफिट दोगुना से अधिक होकर ₹48.55 करोड़ हुआ",
-    "summary_hi": "Dhanlaxmi Bank ने वित्त वर्ष 27 की दूसरी तिमाही में अपने नेट प्रॉफिट में दोगुने से अधिक की बढ़ोतरी दर्ज की, जो ₹48.55 करोड़ पर पहुंच गया। पिछले वित्त वर्ष की इसी तिमाही में यह ₹23.20 करोड़ था। बैंक की ब्याज आय 23 प्रतिशत बढ़कर ₹471 करोड़ हो गई। इसके अलावा, ग्रॉस एनपीए सुधरकर 1.76 प्रतिशत पर आ गया। इस बीच, बीएसई पर बैंक के शेयर गिरावट के साथ कारोबार कर रहे थे।",
-    "why_hi": "नेट प्रॉफिट और ब्याज आय में भारी बढ़ोतरी।",
-    "chips_hi": {
-      "नेट प्रॉफिट": "₹48.55 करोड़",
-      "ब्याज आय": "₹471 करोड़",
-      "ग्रॉस एनपीए": "1.76 प्रतिशत"
-    }
-  },
-  {
-    "v": 2,
-    "cat": "Industry",
-    "tk": "INDUSTRY",
-    "title": "Why was Britannia fined for its whole wheat bread claims?",
-    "summary": "The Central Consumer Protection Authority has penalized Britannia Industries Ltd one lakh rupees for misleading advertisements. The ads claimed the product was one hundred percent whole wheat bread, while the packaging showed a wheat content of sixty-two percent. The regulator ordered the company to stop the advertisement immediately across all media platforms and submit a compliance report within fifteen days following its suo motu cognisance.",
-    "source": "Business Standard / Press Trust of India",
-    "published": "2026-10-26T09:33:38+00:00",
-    "ago": "35m",
-    "impact": "Negative",
-    "why": "Misleading ad penalty damages brand trust.",
-    "url": "https://www.business-standard.com/industry/news/ccpa-imposes-1-lakh-fine-on-britannia-over-100-whole-wheat-bread-claim-126102600645_1.html",
-    "chips": {
-      "Fine": "Rs 1 lakh",
-      "Wheat content": "62 per cent",
-      "Compliance time": "15 days"
-    },
-    "trend": [
-      0.95,
-      0.85,
-      0.7,
-      0.6,
-      0.4,
-      0.3,
-      0.1
-    ],
-    "color": "9B2C2C",
-    "premium": false,
-    "title_hi": "Britannia को 100% whole wheat bread के दावे पर क्यों लगा जुर्माना?",
-    "summary_hi": "Central Consumer Protection Authority ने Britannia Industries Ltd पर misleading advertisement के लिए 1 लाख रुपये का जुर्माना लगाया है। विज्ञापन में 100% whole wheat bread होने का दावा किया गया था, जबकि प्रोडक्ट में गेहूं की मात्रा केवल 62 प्रतिशत थी। रेगुलेटर ने कंपनी को सभी प्लेटफॉर्म्स पर तुरंत विज्ञापन बंद करने और 15 दिन के भीतर कंप्लायंस रिपोर्ट जमा करने का निर्देश दिया है।",
-    "why_hi": "भ्रामक विज्ञापन के कारण कंपनी पर लगा जुर्माना।",
-    "chips_hi": {
-      "जुर्माना": "₹1 लाख",
-      "गेहूं की मात्रा": "62 प्रतिशत",
-      "समय सीमा": "15 दिन"
-    }
-  },
-  {
-    "v": 2,
-    "cat": "Companies",
-    "tk": "COMPANIES",
-    "title": "HCL opens two Indian centres for Japanese chipmaker Rapidus",
-    "summary": "HCL Technologies has launched two development facilities in Bengaluru and Hubli to assist Rapidus Corporation with its semiconductor engineering requirements. These centres will provide services such as mask design, layout design, and process design kit development. Additionally, HCLTech will work with the Japanese chipmaker to build a talent pipeline in India to support its engineering needs in Japan.",
-    "source": "Business Standard / Press Trust of India",
-    "published": "2026-10-26T09:33:08+00:00",
-    "ago": "35m",
-    "impact": "Positive",
-    "why": "Expands advanced semiconductor engineering service capabilit",
-    "url": "https://www.business-standard.com/companies/news/hcl-opens-2-development-centres-to-support-rapidus-chip-engineering-needs-126102600638_1.html",
-    "chips": {},
-    "trend": [
-      0.1,
-      0.25,
-      0.2,
-      0.5,
-      0.45,
-      0.8,
-      0.95
-    ],
-    "color": "0F766E",
-    "premium": false,
-    "title_hi": "HCL ने जापानी चिपमेकर Rapidus के लिए खोले दो केंद्र",
-    "summary_hi": "HCL Technologies ने जापानी चिपमेकर Rapidus Corporation के सहयोग से बेंगलुरु और हुबली में दो नए विकास केंद्र शुरू किए हैं। ये केंद्र मास्क डिज़ाइन, लेआउट डिज़ाइन और प्रोसेस डिज़ाइन किट जैसी सेमीकंडक्टर इंजीनियरिंग सेवाएं प्रदान करेंगे। इसके अलावा, कंपनी जापान में Rapidus की प्रतिभा आवश्यकताओं को पूरा करने के लिए भारत में इंजीनियरों का एक दल तैयार करेगी।",
-    "why_hi": "सेमीकंडक्टर इंजीनियरिंग सेवाओं का विस्तार हुआ।",
     "chips_hi": {}
   }
 ]
