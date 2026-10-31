@@ -1,6 +1,268 @@
 [
   {
     "v": 2,
+    "cat": "Earnings",
+    "tk": "CDSL",
+    "title": "How did CDSL grow its Q2 profit by 24 percent?",
+    "summary": "Central Depository Services (India) Ltd posted a consolidated net profit of Rs 173 crore for the July-September quarter, marking a 24 per cent rise from the previous year. Total consolidated income increased 22 per cent to Rs 417 crore. The growth was supported by the addition of 7.5 million new demat accounts during the period, driven by sustained participation in the securities market.",
+    "source": "Business Standard / Press Trust of India",
+    "published": "2026-10-31T13:46:05+00:00",
+    "ago": "15m",
+    "impact": "Positive",
+    "why": "Higher profit and rising account growth.",
+    "url": "https://www.business-standard.com/companies/news/cdsl-q2-profit-rises-24-to-173-cr-as-demat-accounts-grow-by-7-5-million-126103101125_1.html",
+    "chips": {
+      "Net profit": "Rs 173 crore",
+      "Total income": "Rs 417 crore",
+      "Demat accounts": "7.5 million"
+    },
+    "trend": [
+      0.1,
+      0.25,
+      0.2,
+      0.5,
+      0.45,
+      0.8,
+      0.95
+    ],
+    "color": "0F766E",
+    "premium": false,
+    "hi_tries": 1
+  },
+  {
+    "v": 2,
+    "cat": "Economy",
+    "tk": "ECONOMY",
+    "title": "How does the cotton import duty extension help the textile industry?",
+    "summary": "The central government has extended the customs duty exemption on cotton imports until December 31, 2026. This decision, announced by the textile ministry and notified by the Department of Revenue, aims to support the raw material needs of the domestic textile and apparel sector. The extension provides a two-month addition to the previous exemption timeline and is intended to lower input costs for manufacturers while considering domestic farmers.",
+    "source": "Business Standard / Press Trust of India",
+    "published": "2026-10-31T12:31:35+00:00",
+    "ago": "1h",
+    "impact": "Positive",
+    "why": "Lowers input costs for the textile sector.",
+    "url": "https://www.business-standard.com/economy/news/govt-extends-customs-duty-exemption-on-cotton-imports-up-to-dec-31-126103100989_1.html",
+    "chips": {
+      "Extended until": "December 31, 2026"
+    },
+    "trend": [
+      0.1,
+      0.25,
+      0.2,
+      0.5,
+      0.45,
+      0.8,
+      0.95
+    ],
+    "color": "0F766E",
+    "premium": false,
+    "title_hi": "कपास आयात पर कस्टम ड्यूटी छूट दिसंबर 2026 तक क्यों बढ़ाई गई?",
+    "summary_hi": "केंद्र सरकार ने घरेलू कपड़ा उद्योग की कच्चे माल की जरूरतों को ध्यान में रखते ہوئے कपास आयात पर कस्टम ड्यूटी की छूट को December 31, 2026 तक बढ़ा दिया है। वित्त मंत्रालय के राजस्व विभाग द्वारा अधिसूचित यह कदम निर्माताओं और उपभोक्ताओं को राहत देने के साथ-साथ इनपुट लागत को कम करने में मदद करेगा। यह फैसला घरेलू किसानों के हितों को ध्यान में रखते हुए लिया गया है।",
+    "why_hi": "कपड़ा क्षेत्र की इनपुट लागत कम होगी।",
+    "chips_hi": {
+      "बढ़ाया गया": "December 31, 2026"
+    }
+  },
+  {
+    "v": 2,
+    "cat": "Earnings",
+    "tk": "COMPANIES",
+    "title": "Aditya Birla Fashion sees net profit more than double in Q2",
+    "summary": "Aditya Birla Fashion and Retail Ltd reported a consolidated net profit of Rs 53.05 crore for the September quarter of FY27, more than doubling from the previous year. Revenue from operations increased to Rs 2,265.61 crore during the quarter. Meanwhile, total expenses rose by 9.71 per cent to reach Rs 2,224.99 crore. Total income for the period also saw an upward movement, growing by 11.48 per cent to Rs 2,295.42 crore.",
+    "source": "Business Standard / Press Trust of India",
+    "published": "2026-10-31T12:12:37+00:00",
+    "ago": "1h",
+    "impact": "Positive",
+    "why": "Net profit and revenue increased significantly.",
+    "url": "https://www.business-standard.com/companies/quarterly-results/aditya-birla-fashion-and-retail-q2-profit-more-than-doubles-to-53-crore-126103100919_1.html",
+    "chips": {
+      "Net profit": "Rs 53.05 crore",
+      "Revenue": "Rs 2,265.61 crore",
+      "Total expenses": "Rs 2,224.99 crore"
+    },
+    "trend": [
+      0.1,
+      0.25,
+      0.2,
+      0.5,
+      0.45,
+      0.8,
+      0.95
+    ],
+    "color": "0F766E",
+    "premium": false,
+    "title_hi": "Aditya Birla Fashion का Q2 शुद्ध मुनाफा दोगुने से ज्यादा हुआ",
+    "summary_hi": "Aditya Birla Fashion and Retail Ltd ने सितंबर तिमाही FY27 के लिए अपने समेकित शुद्ध मुनाफे में दोगुना से अधिक की वृद्धि दर्ज की, जो Rs 53.05 crore रहा। इस तिमाही के दौरान परिचालन से राजस्व बढ़कर Rs 2,265.61 crore हो गया। इस बीच, कुल खर्च 9.71 प्रतिशत बढ़कर Rs 2,224.99 crore पर पहुंच गया। अवधि के लिए कुल आय भी 11.48 प्रतिशत बढ़कर Rs 2,295.42 crore हो गई।",
+    "why_hi": "मुनाफे और राजस्व में भारी वृद्धि हुई।",
+    "chips_hi": {
+      "शुद्ध मुनाफा": "₹53.05 करोड़",
+      "राजस्व": "₹2,265.61 करोड़",
+      "कुल खर्च": "₹2,224.99 करोड़"
+    }
+  },
+  {
+    "v": 2,
+    "cat": "Companies",
+    "tk": "VIRGIN MEDIA O2",
+    "title": "Virgin Media O2 considers cutting up to 4,000 jobs",
+    "summary": "British telecommunications provider Virgin Media O2 is exploring plans to eliminate up to 4,000 positions. This potential workforce reduction forms part of a larger restructuring initiative aimed at cutting costs, according to media reports. The company has not yet provided further details regarding the timeline or specific departments that might be affected by these proposed changes.",
+    "source": "Business Standard / Reuters",
+    "published": "2026-10-31T11:42:50+00:00",
+    "ago": "2h",
+    "impact": "Negative",
+    "why": "Job cuts signal internal cost pressures.",
+    "url": "https://www.business-standard.com/companies/news/virgin-media-o2-may-cut-up-to-4-000-jobs-in-major-cost-cutting-exercise-126103100951_1.html",
+    "chips": {
+      "Potential job cuts": "4,000"
+    },
+    "trend": [
+      0.95,
+      0.85,
+      0.7,
+      0.6,
+      0.4,
+      0.3,
+      0.1
+    ],
+    "color": "9B2C2C",
+    "premium": false,
+    "title_hi": "Virgin Media O2 में हो सकती हैं 4,000 तक नौकरियां कम",
+    "summary_hi": "ब्रिटिश टेलीकॉम कंपनी Virgin Media O2 बड़े पैमाने पर रीस्ट्रक्चरिंग के तहत 4,000 तक नौकरियों में कटौती करने पर विचार कर रही है। मीडिया रिपोर्ट्स के अनुसार, यह कदम कंपनी के खर्चों को कम करने की योजना का हिस्सा है।",
+    "why_hi": "नौकरियों में कटौती से खर्च कम होंगे।",
+    "chips_hi": {
+      "नौकरियों में कटौती": "4,000"
+    }
+  },
+  {
+    "v": 2,
+    "cat": "Companies",
+    "tk": "BPCL",
+    "title": "BPCL and Lanxess partner to explore advanced industrial lubricants in India",
+    "summary": "Bharat Petroleum Corporation Limited and Lanxess have signed an agreement to look into long-term cooperation regarding advanced industrial lubricant technologies and specialty fluid solutions in India. The non-exclusive framework aims to evaluate technical and commercial opportunities for innovative lubricant solutions, support original equipment manufacturer approvals, enhance local manufacturing, and develop sustainable options like bio-based lubricants by combining both firms' capabilities.",
+    "source": "Business Standard / Press Trust of India",
+    "published": "2026-10-31T11:00:40+00:00",
+    "ago": "3h",
+    "impact": "Positive",
+    "why": "Collaboration for advanced lubricant technologies expansion.",
+    "url": "https://www.business-standard.com/companies/news/bpcl-lanxess-in-pact-to-explore-advanced-industrial-lubricant-technologies-126102901454_1.html",
+    "chips": {},
+    "trend": [
+      0.1,
+      0.25,
+      0.2,
+      0.5,
+      0.45,
+      0.8,
+      0.95
+    ],
+    "color": "0F766E",
+    "premium": false,
+    "title_hi": "BPCL और Lanxess ने भारत में आधुनिक लुब्रिकेंट तकनीक के लिए मिलाया हाथ",
+    "summary_hi": "भारत पेट्रोलियम कॉर्पोरेशन लिमिटेड और LANXESS ने भारत में आधुनिक औद्योगिक लुब्रिकेंट तकनीकों और विशेष फ्लूइड समाधानों के लिए एक समझौते पर हस्ताक्षर किए हैं। इस साझेदारी का उद्देश्य तकनीकी और व्यावसायिक अवसरों का मूल्यांकन करना, स्थानीय विनिर्माण को बढ़ावा देना और बायो-बेस्ड लुब्रिकेंट जैसे टिकाऊ विकल्पों की संभावना तलाशना है।",
+    "why_hi": "आधुनिक लुब्रिकेंट तकनीक के लिए नई साझेदारी।",
+    "chips_hi": {}
+  },
+  {
+    "v": 2,
+    "cat": "Companies",
+    "tk": "BRAID",
+    "title": "Octopus Ventures leads USD 38 million funding in Braid",
+    "summary": "London-based venture capital firm Octopus Ventures and KPN Ventures have invested USD 38 million, about Rs 361 crore, in Braid. The Netherlands-based enterprise connectivity platform secured the capital in a Series A funding round. Launched in 2023, Braid stated it is profitable and cash-flow positive with around 90 enterprise customers. The firm plans to use the capital to grow internationally, build carrier partnerships, and enhance its embedded mobile connectivity infrastructure.",
+    "source": "Business Standard / Press Trust of India",
+    "published": "2026-10-31T10:58:02+00:00",
+    "ago": "3h",
+    "impact": "Positive",
+    "why": "Fresh funding supports international business expansion.",
+    "url": "https://www.business-standard.com/companies/start-ups/venture-capital-firm-octopus-ventures-leads-38-million-investment-in-braid-126102901824_1.html",
+    "chips": {
+      "Investment": "USD 38 million",
+      "Investment in rupees": "Rs 361 crore",
+      "Enterprise customers": "90"
+    },
+    "trend": [
+      0.1,
+      0.25,
+      0.2,
+      0.5,
+      0.45,
+      0.8,
+      0.95
+    ],
+    "color": "0F766E",
+    "premium": false,
+    "title_hi": "Octopus Ventures ने Braid में 38 मिलियन डॉलर का निवेश किया",
+    "summary_hi": "लंदन की वेंचर कैपिटल फर्म Octopus Ventures और KPN Ventures ने नीदरलैंड की Braid में 38 मिलियन डॉलर यानी करीब 361 करोड़ रुपये का निवेश किया है। सीरीज ए फंडिंग राउंड जुटाने वाली यह कंपनी 2023 में शुरू हुई थी और यह मुनाफे में होने के साथ कैश-फ्लो पॉजिटिव है। इसके करीब 90 एंटरप्राइज ग्राहक हैं। कंपनी इस राशि का उपयोग अंतरराष्ट्रीय विस्तार, पार्टनरशिप और अपनी तकनीक को मजबूत करने में करेगी।",
+    "why_hi": "नया फंड मिलने से अंतरराष्ट्रीय कारोबार बढ़ेगा।",
+    "chips_hi": {
+      "निवेश": "38 मिलियन डॉलर",
+      "रुपये में निवेश": "361 करोड़ रुपये",
+      "एंटरप्राइज ग्राहक": "90"
+    }
+  },
+  {
+    "v": 2,
+    "cat": "Economy",
+    "tk": "ECONOMY",
+    "title": "Government hikes diesel and ATF export taxes while cutting petrol levy",
+    "summary": "The government has raised the windfall gains tax on diesel exports to Rs 11.5 per litre and aviation turbine fuel to Rs 11 per litre. Meanwhile, the export duty on petrol has been reduced to zero. These revised rates take effect from October 31 and apply to the upcoming fortnight. The special additional excise duty and road infrastructure cess are adjusted fortnightly based on international trends, though domestic fuel tax rates remain unchanged.",
+    "source": "Business Standard / Press Trust of India",
+    "published": "2026-10-31T10:23:21+00:00",
+    "ago": "3h",
+    "impact": "Neutral",
+    "why": "Fortnightly export tax adjustments have mixed effects.",
+    "url": "https://www.business-standard.com/economy/uttar-pradesh/govt-raises-windfall-tax-on-diesel-by-3-atf-by-50-paise-per-litre-126103100850_1.html",
+    "chips": {
+      "Diesel tax": "Rs 11.5/litre",
+      "ATF tax": "Rs 11/litre",
+      "Petrol tax": "Rs 0/litre"
+    },
+    "trend": [
+      0.5,
+      0.55,
+      0.45,
+      0.5,
+      0.47,
+      0.52,
+      0.5
+    ],
+    "color": "B7791F",
+    "premium": false,
+    "hi_tries": 1
+  },
+  {
+    "v": 2,
+    "cat": "Economy",
+    "tk": "ECONOMY",
+    "title": "Why did the commerce ministry form a new panel for exporters?",
+    "summary": "The commerce ministry has established a six-member committee to improve fund utilization and uptake for the RELIEF initiative. Launched under the Rs 25,060-crore Export Promotion Mission, RELIEF protects exporters from high freight costs, rising insurance premiums, and maritime trade disruptions. The Directorate General of Foreign Trade stated the sub-committee includes officials from multiple departments and will review the implementation and claims of the scheme's three components.",
+    "source": "Business Standard / Press Trust of India",
+    "published": "2026-10-31T10:03:15+00:00",
+    "ago": "3h",
+    "impact": "Positive",
+    "why": "Aims to improve export scheme fund utilization.",
+    "url": "https://www.business-standard.com/economy/news/centre-sets-up-panel-to-improve-uptake-of-relief-scheme-for-exporters-126103100773_1.html",
+    "chips": {
+      "Fund allocation": "Rs 25,060-crore"
+    },
+    "trend": [
+      0.1,
+      0.25,
+      0.2,
+      0.5,
+      0.45,
+      0.8,
+      0.95
+    ],
+    "color": "0F766E",
+    "premium": false,
+    "title_hi": "क्यों बनाई गई है निर्यातकों के लिए नई समिति?",
+    "summary_hi": "वाणिज्य मंत्रालय ने RELIEF पहल के बेहतर उपयोग और फंड के उपयोग को सुधारने के लिए छह सदस्यीय समिति का गठन किया है। यह योजना 25,060 करोड़ रुपये के निर्यात संवर्धन मिशन के तहत शुरू की गई है, जो निर्यातकों को माल ढुलाई लागत, बीमा प्रीमियम और समुद्री व्यापार में बाधाओं से बचाती है। महानिदेशालय ने कहा है कि यह उप-समिति योजना के तीनों घटकों के दावों और क्रियान्वयन की समीक्षा करेगी।",
+    "why_hi": "योजना के फंड का बेहतर उपयोग होगा।",
+    "chips_hi": {
+      "फंड आवंटन": "₹25,060 करोड़"
+    }
+  },
+  {
+    "v": 2,
     "cat": "Economy",
     "tk": "ECONOMY",
     "title": "Government to meet liquor firms amid bulk Scotch tariff dispute",
@@ -246,7 +508,7 @@
     ],
     "color": "9B2C2C",
     "premium": false,
-    "hi_tries": 1
+    "hi_tries": 2
   },
   {
     "v": 2,
@@ -492,259 +754,5 @@
     "summary_hi": "घर के लिए पैसे जुटाने में पूंजी की सुरक्षा पर ध्यान देना और कम जोखिम वाले निवेश करना शामिल है। यह तरीका सुनिश्चित करता है कि पैसे सुरक्षित रहें और डील फाइनल होने के दिन आसानी से मिल जाएं, जिससे बचत से लेकर सेटलमेंट तक का सफर आसान हो जाता है।",
     "why_hi": "रियल एस्टेट बचत पर सामान्य मार्गदर्शन।",
     "chips_hi": {}
-  },
-  {
-    "v": 2,
-    "cat": "Finance",
-    "tk": "FINANCE",
-    "title": "Why savings and demat accounts can become legally inaccessible without paperwork",
-    "summary": "Proper estate planning through nominations, joint holdings, beneficiaries, and a Will is essential for asset access. Without the correct paperwork in place, accounts like savings and demat portfolios can become legally inaccessible to loved ones.",
-    "source": "Business Standard",
-    "published": "2026-10-31T00:30:58+00:00",
-    "ago": "1h",
-    "impact": "Neutral",
-    "why": "Highlights importance of proper estate paperwork.",
-    "url": "https://www.business-standard.com/finance/personal-finance/what-is-estate-planning-nomination-joint-holding-beneficiaries-and-will-126102800554_1.html",
-    "chips": {},
-    "trend": [
-      0.5,
-      0.55,
-      0.45,
-      0.5,
-      0.47,
-      0.52,
-      0.5
-    ],
-    "color": "B7791F",
-    "premium": false,
-    "title_hi": "क्यों सही कागजी कार्रवाई के बिना सेविंग और डीमैट खाते हो सकते हैं दुर्गम?",
-    "summary_hi": "नॉमिनेशन, संयुक्त होल्डिंग, लाभार्थी और वसीयत के जरिए सही एस्टेट प्लानिंग बहुत जरूरी है। सही कागजी कार्रवाई के बिना सेविंग अकाउंट या डीमैट पोर्टफोलियो कानूनी रूप से एसेस करने लायक नहीं रहते हैं।",
-    "why_hi": "एस्टेट कागजी कार्रवाई के महत्व को बताता है।",
-    "chips_hi": {}
-  },
-  {
-    "v": 2,
-    "cat": "Economy",
-    "tk": "ECONOMY",
-    "title": "Why are Indian states competing for local travellers right now?",
-    "summary": "Indian states are ramping up promotional campaigns, tourism circuits, and private partnerships to capture a larger share of the domestic travel boom. This push comes as costly international trips prompt local travellers to seek holiday spots within the country, particularly during the festival travel season. State administrations are actively working to draw these visitors through improved local offerings and targeted outreach.",
-    "source": "Business Standard",
-    "published": "2026-10-30T18:52:43+00:00",
-    "ago": "7h",
-    "impact": "Positive",
-    "why": "Rising domestic travel boosts local tourism sector.",
-    "url": "https://www.business-standard.com/economy/news/states-vie-for-a-bigger-share-of-domestic-tourism-boom-amid-festival-travel-126103100023_1.html",
-    "chips": {},
-    "trend": [
-      0.1,
-      0.25,
-      0.2,
-      0.5,
-      0.45,
-      0.8,
-      0.95
-    ],
-    "color": "0F766E",
-    "premium": true,
-    "title_hi": "क्यों भारतीय राज्य इस समय स्थानीय पर्यटकों को आकर्षित करने में जुटे हैं?",
-    "summary_hi": "भारतीय राज्य घरेलू यात्रा में उछाल का बड़ा हिस्सा पाने के लिए प्रचार अभियानों, पर्यटन सर्किट और निजी साझेदारियों को तेज कर रहे हैं। महंगे विदेशी दौरों के कारण जब भारतीय देश के भीतर ही घूमने लगे हैं, तब राज्य उत्सव के समय यात्रा के इस दौर को भुनाने की कोशिश कर रहे हैं।",
-    "why_hi": "घरेलू यात्रा बढ़ने से स्थानीय पर्यटन को लाभ।",
-    "chips_hi": {}
-  },
-  {
-    "v": 2,
-    "cat": "Markets",
-    "tk": "SEBI",
-    "title": "Sebi cybersecurity team on red alert after SMARTs portal cyberattack",
-    "summary": "Markets regulator Sebi has put its cybersecurity team on red alert following a code execution attack on its SMARTs portal. However, the regulator has clarified that no personal or sensitive data was compromised during the incident.",
-    "source": "Business Standard",
-    "published": "2026-10-30T18:37:36+00:00",
-    "ago": "7h",
-    "impact": "Negative",
-    "why": "Cyberattack raises portal security concerns.",
-    "url": "https://www.business-standard.com/markets/news/cyberattack-on-smarts-portal-puts-sebi-s-cybersecurity-team-on-high-alert-126103100006_1.html",
-    "chips": {},
-    "trend": [
-      0.95,
-      0.85,
-      0.7,
-      0.6,
-      0.4,
-      0.3,
-      0.1
-    ],
-    "color": "9B2C2C",
-    "premium": true,
-    "title_hi": "SMARTs पोर्टल पर साइबर हमले के बाद Sebi की टीम हाई अलर्ट पर",
-    "summary_hi": "मार्केट रेगुलेटर सेबी ने अपने SMARTs पोर्टल पर हुए कोड निष्पादन हमले के बाद अपनी साइबर सुरक्षा टीम को रेड अलर्ट पर रख दिया है। हालांकि, रेगुलेटर ने स्पष्ट किया है कि इस घटना के दौरान कोई भी व्यक्तिगत या संवेदनशील डेटा से समझौता नहीं किया गया है।",
-    "why_hi": "पोर्टल सुरक्षा को लेकर चिंता बढ़ी।",
-    "chips_hi": {}
-  },
-  {
-    "v": 2,
-    "cat": "Economy",
-    "tk": "ECONOMY",
-    "title": "How trade pacts unlock access to a massive $85 trillion market",
-    "summary": "India's trade agreements will soon offer preferential access to goods and services across nations with a combined GDP of USD 85 trillion. Union Minister Piyush Goyal noted that prior to 2014, such pacts covered a GDP of USD 10 trillion. Over the past four and a half years, nine pacts have added 38 developed countries with a USD 60 trillion GDP. Negotiations for seven to eight additional agreements are currently underway, which will further add USD 15 trillion.",
-    "source": "Business Standard / Press Trust of India",
-    "published": "2026-10-30T18:35:30+00:00",
-    "ago": "7h",
-    "impact": "Positive",
-    "why": "Expands global market access for traders.",
-    "url": "https://www.business-standard.com/economy/news/ftas-to-open-85-trillion-market-traders-need-to-expand-footprint-goyal-126103001434_1.html",
-    "chips": {
-      "Combined GDP": "USD 85 trillion",
-      "Prior GDP": "USD 10 trillion",
-      "Recent GDP": "USD 60 trillion"
-    },
-    "trend": [
-      0.1,
-      0.25,
-      0.2,
-      0.5,
-      0.45,
-      0.8,
-      0.95
-    ],
-    "color": "0F766E",
-    "premium": false,
-    "title_hi": "कैसे ट्रेड पैक्ट्स मिलकर खोल रहे हैं 85 ट्रिलियन डॉलर का मार्केट",
-    "summary_hi": "भारत के व्यापार समझौतों से आने वाले समय में 85 ट्रिलियन डॉलर के कुल सकल घरेलू उत्पाद वाले देशों में वस्तुओं और सेवाओं तक विशेष पहुंच मिलने वाली है। केंद्रीय मंत्री पीयूष गोयल ने बताया कि 2014 से पहले भारत के पास 10 ट्रिलियन डॉलर जीडीपी वाले देशों के साथ एफटीए थे। पिछले साढ़े चार वर्षों में नौ व्यापार समझौते किए गए हैं, जिनमें 38 विकसित देश शामिल हैं।",
-    "why_hi": "व्यापारियों के लिए वैश्विक बाजार का विस्तार।",
-    "chips_hi": {
-      "संयुक्त जीडीपी": "USD 85 ट्रिलियन",
-      "पिछली जीडीपी": "USD 10 ट्रिलियन",
-      "हालिया जीडीपी": "USD 60 ट्रिलियन"
-    }
-  },
-  {
-    "v": 2,
-    "cat": "Companies",
-    "tk": "MAZAGON DOCK",
-    "title": "Mazagon Dock plans Rs 20,000 crore investment for shipbuilding hubs",
-    "summary": "Defence shipbuilder Mazagon Dock Shipbuilders is actively seeking partners to set up new shipbuilding clusters. The company has outlined plans to invest Rs 20,000 crore across Maharashtra and Andhra Pradesh. This major infrastructural expansion is targeted for completion over a period of five to seven years. The initiative aims to boost the shipbuilder's production capabilities through strategic collaborations in these two coastal states.",
-    "source": "Business Standard",
-    "published": "2026-10-30T18:28:48+00:00",
-    "ago": "7h",
-    "impact": "Positive",
-    "why": "Massive proposed investment to boost capacity.",
-    "url": "https://www.business-standard.com/companies/people/mazagon-dock-shipbuilders-scouts-partners-for-proposed-shipbuilding-hubs-126103002011_1.html",
-    "chips": {
-      "Proposed investment": "Rs 20,000 crore"
-    },
-    "trend": [
-      0.1,
-      0.25,
-      0.2,
-      0.5,
-      0.45,
-      0.8,
-      0.95
-    ],
-    "color": "0F766E",
-    "premium": false,
-    "hi_tries": 2
-  },
-  {
-    "v": 2,
-    "cat": "Earnings",
-    "tk": "GAIL",
-    "title": "Gail's Q2 net profit jumps two-fold to ₹4,724 crore",
-    "summary": "State-owned GAIL reported a significant increase in its second-quarter performance, with net profit rising by 138 percent to reach ₹4,724 crore. This growth was driven by strong operational numbers in gas transmission and marketing volumes. Additionally, the company's board has given approval for plans to launch an initial public offering to list its subsidiary, GAIL Gas.",
-    "source": "Business Standard",
-    "published": "2026-10-30T18:18:07+00:00",
-    "ago": "7h",
-    "impact": "Positive",
-    "why": "Higher net profit and subsidiary IPO plans.",
-    "url": "https://www.business-standard.com/companies/quarterly-results/gail-s-net-profit-zooms-two-fold-to-4-724-crore-on-robust-volumes-126103002006_1.html",
-    "chips": {
-      "Net profit": "₹4,724 crore",
-      "Profit jump": "138%"
-    },
-    "trend": [
-      0.1,
-      0.25,
-      0.2,
-      0.5,
-      0.45,
-      0.8,
-      0.95
-    ],
-    "color": "0F766E",
-    "premium": false,
-    "title_hi": "Gail का दूसरी तिमाही का शुद्ध लाभ दोगुना होकर ₹4,724 करोड़ हुआ",
-    "summary_hi": "सार्वजनिक क्षेत्र की कंपनी GAIL ने अपनी दूसरी तिमाही के वित्तीय परिणामों की घोषणा की है, जिसमें शुद्ध लाभ 138 प्रतिशत बढ़कर ₹4,724 करोड़ पर पहुंच गया। इस बढ़ोतरी का मुख्य कारण गैस ट्रांसमिशन और मार्केटिंग के मजबूत वॉल्यूम रहे। इसके साथ ही, कंपनी के बोर्ड ने अपनी सहायक कंपनी GAIL Gas को आईपीओ के जरिए लिस्ट करने की योजनाओं को मंजूरी दे दी है।",
-    "why_hi": "शुद्ध लाभ बढ़ना और आईपीओ योजना।",
-    "chips_hi": {
-      "शुद्ध लाभ": "₹4,724 करोड़",
-      "लाभ में उछाल": "138%"
-    }
-  },
-  {
-    "v": 2,
-    "cat": "Markets",
-    "tk": "MARKETS",
-    "title": "Why are massive technology investments sparking a bond market rally?",
-    "summary": "Investors are questioning the returns on large technology investments, which has led to a rally in US bonds. Meanwhile, the cryptocurrency market experienced a decline due to hacking concerns involving Binance. Additionally, oil prices moved higher as tensions and risks surrounding the Strait of Hormuz grew. Market participants are closely watching these global developments across different asset classes.",
-    "source": "Business Standard / Reuters",
-    "published": "2026-10-30T18:10:24+00:00",
-    "ago": "8h",
-    "impact": "Neutral",
-    "why": "Mixed market reactions to global economic events.",
-    "url": "https://www.business-standard.com/markets/news/global-tech-giants-spending-spooks-investors-and-drives-bonds-rally-126103002004_1.html",
-    "chips": {},
-    "trend": [
-      0.5,
-      0.55,
-      0.45,
-      0.5,
-      0.47,
-      0.52,
-      0.5
-    ],
-    "color": "B7791F",
-    "premium": false,
-    "title_hi": "मैसिव टेक्नोलॉजी निवेश से बॉन्ड मार्केट में तेजी क्यों आ रही है?",
-    "summary_hi": "बड़े टेक्नोलॉजी निवेश पर रिटर्न को लेकर निवेशकों के मन में सवाल उठने से अमेरिकी बॉन्ड में तेजी आई है। इस बीच, Binance से जुड़ी हैकिंग चिंताओं के कारण क्रिप्टो मार्केट में गिरावट दर्ज की गई। इसके अलावा, स्ट्रेट ऑफ हॉर्मुज के पास जोखिम बढ़ने से तेल की कीमतें ऊपर चली गई हैं। बाजार के लोग इन वैश्विक गतिविधियों पर नजर बनाए हुए हैं।",
-    "why_hi": "वैश्विक घटनाओं पर मिश्रित बाजार प्रतिक्रिया।",
-    "chips_hi": {}
-  },
-  {
-    "v": 2,
-    "cat": "Earnings",
-    "tk": "INDUSTRY",
-    "title": "Bengaluru matches Tokyo with 11.5% office rent growth in Q3",
-    "summary": "Bengaluru recorded a significant annual growth of 11.5 percent in prime office rents during the third quarter of 2026, matching Tokyo's pace, according to Knight Frank. Meanwhile, other major Indian metropolitan areas also saw upward movements in rental values. Delhi-NCR registered a growth of 5.4 percent, and Mumbai recorded a 4 percent increase during the same period.",
-    "source": "Business Standard",
-    "published": "2026-10-30T13:57:00+00:00",
-    "ago": "23m",
-    "impact": "Positive",
-    "why": "Strong rental growth shows high commercial demand.",
-    "url": "https://www.business-standard.com/industry/news/bengaluru-matches-tokyo-with-11-5-office-rent-growth-in-q3-knight-frank-126103001568_1.html",
-    "chips": {
-      "Bengaluru rent growt": "11.5%",
-      "Tokyo rent growth": "11.5%",
-      "Delhi-NCR rent growt": "5.4%"
-    },
-    "trend": [
-      0.1,
-      0.25,
-      0.2,
-      0.5,
-      0.45,
-      0.8,
-      0.95
-    ],
-    "color": "0F766E",
-    "premium": false,
-    "hi_tries": 1,
-    "title_hi": "बेंगलुरु ने ऑफिस रेंट के मामले में तोक्यो को कैसे पीछे छोड़ा?",
-    "summary_hi": "नाइट फ्रैंक की रिपोर्ट के मुताबिक, 2026 की तीसरी तिमाही में बेंगलुरु में प्राइम ऑफिस का किराया 11.5 प्रतिशत बढ़ गया है। इसके साथ ही बेंगलुरु ने इस मामले में तोक्यो की बराबरी कर ली है। इस दौरान दिल्ली-NCR में 5.4 प्रतिशत और मुंबई में 4 प्रतिशत की बढ़ोतरी दर्ज की गई।",
-    "why_hi": "कमर्शियल प्रॉपर्टी की मजबूत मांग के कारण किराए में यह तेजी देखने को मिल रही है।",
-    "chips_hi": {
-      "बेंगलुरु रेंट ग्रोथ": "11.5%",
-      "तोक्यो रेंट ग्रोथ": "11.5%",
-      "दिल्ली-NCR रेंट ग्रो": "5.4%"
-    }
   }
 ]
