@@ -27,8 +27,8 @@ BS = "{https://www.business-standard.com/rss/}"
 KEEP_SECTIONS = {"Markets", "Companies", "Economy", "Industry", "Finance"}
 MAX_NEW = 8        # new stories to add per run
 MAX_TOTAL = 24     # stories kept in the file
-MIN_WORDS = 30     # shorter than 60 is allowed when the source is thin
-MAX_WORDS = 80
+MIN_WORDS = 35     # shorter than 50 only when the source is thin
+MAX_WORDS = 60
 PAUSE = 8          # seconds between AI calls (free plan is rate limited)
 
 COLORS = {"Positive": "0F766E", "Neutral": "B7791F", "Negative": "9B2C2C"}
@@ -45,12 +45,12 @@ Rules for all text:
 - Do not give investment advice. Never say buy, sell, hold, target price or recommend.
 
 title: a punchy, curiosity-driven headline of at most 12 words. Lead with the most striking real fact in the source. You may pose a question or tease the "why" or "how", but the headline must still state the key fact. Never exaggerate or mislead. No exclamation marks, no ALL CAPS, no clickbait phrases. Every number must come from the source. Do not reuse the source headline.
-summary: 60 to 80 words if the source has enough information. If it is thin, write fewer words rather than guessing or padding, but never fewer than 30.
+summary: 50 to 60 words, never more than 60. Include the most important facts. If the source is thin, write fewer words rather than guessing or padding, but never fewer than 35.
 impact: Positive, Neutral or Negative for the fundamentals of the company or sector in the story. Use Neutral when unclear or when the story is not about a company or sector.
 why: at most 8 words explaining the impact.
 company: the main company named in the headline, or an empty string if none.
 chips: up to 3 key figures copied exactly from the text, each with a short label (for example label "Net profit", value "Rs 545 crore"). Use an empty list if there are no clear figures.
-hi: the same card in natural, simple Hindi (Devanagari) for everyday Indian readers, not a word-by-word translation. Keep company names and terms like IPO, NSE, Sensex in English letters. Write numbers with digits 0-9 and use words like करोड़ and लाख. hi.title has at most 14 words and the same curiosity-driven style. hi.chips must have the same number and order as chips, with Hindi labels and values (for example "₹545 करोड़").
+hi: the same card in natural, simple Hindi (Devanagari) for everyday Indian readers, not a word-by-word translation. Keep company names and terms like IPO, NSE, Sensex in English letters. Write numbers with digits 0-9 and use words like करोड़ and लाख. hi.title has at most 14 words and the same curiosity-driven style. hi.summary has at most 75 words. hi.chips must have the same number and order as chips, with Hindi labels and values (for example "₹545 करोड़").
 Reply with JSON only:
 {"title": "...", "summary": "...", "impact": "...", "why": "...", "company": "...", "chips": [{"label": "...", "value": "..."}], "hi": {"title": "...", "summary": "...", "why": "...", "chips": [{"label": "...", "value": "..."}]}}"""
 
@@ -229,7 +229,7 @@ def clean_hindi(h, source):
     title = hclean(str(h.get("title", "")))
     if not (DEVANAGARI.search(summary) and DEVANAGARI.search(title)):
         return None
-    if not (25 <= words(summary) <= 160) or not good_title(title, source, 20):
+    if not (25 <= words(summary) <= 100) or not good_title(title, source, 20):
         return None
     if not numbers_ok(summary, source):
         return None
@@ -296,7 +296,7 @@ def make_story(i, r):
     if i["source"] and i["source"] != "Business Standard":
         src += f" / {i['source']}"
     story = {
-        "v": 2, "cat": category(i), "tk": tk, "title": r["title"], "summary": r["summary"],
+        "v": 3, "cat": category(i), "tk": tk, "title": r["title"], "summary": r["summary"],
         "source": src, "published": i["published"], "ago": ago(i["published"]),
         "impact": r["impact"], "why": r["why"], "url": i["url"], "chips": r["chips"],
         "trend": TRENDS[r["impact"]], "color": COLORS[r["impact"]], "premium": i["premium"],
@@ -307,7 +307,7 @@ def make_story(i, r):
     return story
 
 
-HINDI_SYSTEM = """You translate finished stock-market news cards from English into natural, simple Hindi (Devanagari) for everyday Indian readers. Do not translate word by word. Add no facts and no numbers. Keep company names and terms like IPO, NSE, Sensex in English letters. Write numbers with digits 0-9 and use words like करोड़ and लाख. title: at most 14 words, curiosity-driven like the English one. chips: same number and order as the input chips, with Hindi labels and values (for example "₹545 करोड़").
+HINDI_SYSTEM = """You translate finished stock-market news cards from English into natural, simple Hindi (Devanagari) for everyday Indian readers. Do not translate word by word. Add no facts and no numbers. The summary must have at most 75 words. Keep company names and terms like IPO, NSE, Sensex in English letters. Write numbers with digits 0-9 and use words like करोड़ and लाख. title: at most 14 words, curiosity-driven like the English one. chips: same number and order as the input chips, with Hindi labels and values (for example "₹545 करोड़").
 Reply with JSON only: {"title": "...", "summary": "...", "why": "...", "chips": [{"label": "...", "value": "..."}]}"""
 
 
@@ -350,12 +350,12 @@ def main():
     except Exception:
         old = []
     # keep only stories made by this version (older ones are redone, with titles and Hindi)
-    old = [s for s in old if s.get("v") == 2 and "example.com" not in s.get("url", "")]
+    old = [s for s in old if s.get("v") in (2, 3) and "example.com" not in s.get("url", "")]
     for s in old:  # give Hindi a fresh start once, now that the checks are fairer
         if s.get("hi_ver") != 2:
             s["hi_tries"] = 0
             s["hi_ver"] = 2
-    seen = {s["url"] for s in old}
+    seen = {s["url"] for s in old if s.get("v") == 3}  # older versions get redone
 
     good = sorted((i for i in items if wanted(i)), key=lambda i: i["published"], reverse=True)
     todo = [i for i in good if i["url"] not in seen][:MAX_NEW]
@@ -367,7 +367,7 @@ def main():
         r = check(call_gemini(i["title"], i["desc"]), i["title"], i["desc"])
         if r is None:
             r = check(call_gemini(i["title"], i["desc"],
-                                  "Reminder: write 60-80 words using every fact in the source."),
+                                  "Reminder: write 50-60 words using the key facts in the source."),
                       i["title"], i["desc"], need_hi=False)
         if r is None:
             print("  skipped (summary did not pass checks)")
@@ -375,6 +375,9 @@ def main():
             added.append(make_story(i, r))
         if n < len(todo) - 1:
             time.sleep(PAUSE)
+
+    new_urls = {x["url"] for x in added}
+    old = [x for x in old if x["url"] not in new_urls]  # replaced by the redone version
 
     # Hindi for any story that does not have it yet (new ones that failed, or older ones)
     fix = [x for x in added + old if "title_hi" not in x and x.get("hi_tries", 0) < 2][:12]
