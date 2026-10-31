@@ -1,6 +1,251 @@
 [
   {
     "v": 2,
+    "cat": "Markets",
+    "tk": "BINANCE",
+    "title": "Binance faces $6.3 billion cyber heist in digital asset security breach",
+    "summary": "The digital currency sector faces heightened security concerns following a massive cyber heist. Attackers leveraged artificial intelligence and advanced methods to steal funds and launder them rapidly. This incident marks the largest digital currency theft in history, raising questions about asset safety in the evolving technological landscape.",
+    "source": "Business Standard / NYT",
+    "published": "2026-10-31T05:39:12+00:00",
+    "ago": "22m",
+    "impact": "Negative",
+    "why": "Massive theft highlights severe security risks.",
+    "url": "https://www.business-standard.com/markets/cryptocurrency/binance-s-6-3-bn-hack-signals-the-start-of-a-risky-era-for-crypto-security-126103100424_1.html",
+    "chips": {
+      "Hack amount": "$6.3 bn"
+    },
+    "trend": [
+      0.95,
+      0.85,
+      0.7,
+      0.6,
+      0.4,
+      0.3,
+      0.1
+    ],
+    "color": "9B2C2C",
+    "premium": false,
+    "title_hi": "Binance पर हुआ 6.3 अरब डॉलर का बड़ा साइबर हमला",
+    "summary_hi": "डिजिटल करेंसी सेक्टर में सुरक्षा को लेकर चिंताएं बढ़ गई हैं। हमलावरों ने फंड चुराने और तेजी से ठिकाने लगाने के लिए आर्टिफिशियल इंटेलिजेंस और उन्नत तरीकों का इस्तेमाल किया। इतिहास की यह सबसे बड़ी चोरी डिजिटल संपत्तियों की सुरक्षा पर बड़े सवाल खड़े करती है।",
+    "why_hi": "बड़ी चोरी से गंभीर सुरक्षा जोखिम सामने आए।",
+    "chips_hi": {
+      "हैैक राशि": "$6.3 अरब"
+    }
+  },
+  {
+    "v": 2,
+    "cat": "Economy",
+    "tk": "ECONOMY",
+    "title": "UK minister urges faster healthcare innovation and adoption between India and Britain",
+    "summary": "A UK health minister stated that Britain and India need to move past healthcare breakthroughs so innovations help patients at scale. Speaking at the Westminster Diwali gathering in London, the official highlighted progress over 100 days since the bilateral Comprehensive Economic and Trade Agreement started in mid-July. The minister noted that bridging the gap between scientific discovery and real-world adoption remains a major challenge. India offers digital innovation strengths, while Britain provides world-leading research.",
+    "source": "Business Standard / Press Trust of India",
+    "published": "2026-10-31T04:35:15+00:00",
+    "ago": "1h",
+    "impact": "Neutral",
+    "why": "Bilateral healthcare collaboration and innovation focus.",
+    "url": "https://www.business-standard.com/economy/news/uk-minister-calls-for-speedier-india-uk-healthcare-innovation-adoption-126103100159_1.html",
+    "chips": {},
+    "trend": [
+      0.5,
+      0.55,
+      0.45,
+      0.5,
+      0.47,
+      0.52,
+      0.5
+    ],
+    "color": "B7791F",
+    "premium": false,
+    "hi_tries": 1,
+    "title_hi": "UK और India मिलकर हेल्थकेयर सेक्टर में तेजी से कैसे लाएंगे बदलाव?",
+    "summary_hi": "UK के एक स्वास्थ्य मंत्री ने कहा है कि ब्रिटेन और भारत को हेल्थकेयर सेक्टर में इनोवेशन को तेजी से अपनाना चाहिए ताकि मरीजों को बड़े पैमाने पर फायदा मिल सके। लंदन में एक कार्यक्रम के दौरान उन्होंने दोनों देशों के बीच रिसर्च और डिजिटल मजबूती को आपस में जोड़ने पर जोर दिया।",
+    "why_hi": "दोनों देशों के बीच हेल्थकेयर सहयोग और नई तकनीकों को अपनाने पर जोर।",
+    "chips_hi": {}
+  },
+  {
+    "v": 2,
+    "cat": "Finance",
+    "tk": "FINANCE",
+    "title": "Why does one-size-fits-all risk profiling fail to protect your money?",
+    "summary": "Setting up a plan for three financial goals involves balancing investment, aspiration, and safety. A single approach to risk profiling often fails to work for everyone. Partitioning your portfolio helps protect your money by addressing these different objectives separately. Tailoring strategies to specific targets ensures better financial security and addresses distinct needs without relying on a universal method.",
+    "source": "Business Standard",
+    "published": "2026-10-31T04:30:58+00:00",
+    "ago": "1h",
+    "impact": "Neutral",
+    "why": "General financial planning strategy discussed.",
+    "url": "https://www.business-standard.com/finance/personal-finance/investment-aspiration-safety-setting-up-a-plan-for-3-financial-goals-126102800777_1.html",
+    "chips": {},
+    "trend": [
+      0.5,
+      0.55,
+      0.45,
+      0.5,
+      0.47,
+      0.52,
+      0.5
+    ],
+    "color": "B7791F",
+    "premium": false,
+    "title_hi": "क्यों एक जैसा जोखिम प्रोफाइल हर किसी के पैसे की सुरक्षा नहीं कर पाता?",
+    "summary_hi": "तीन वित्तीय लक्ष्यों के लिए योजना बनाने में निवेश, आकांक्षा और सुरक्षा को संतुलित करना शामिल है। जोखिम प्रोफाइलिंग का एक ही तरीका हर किसी के लिए काम नहीं करता है। अपने पोर्टफोलियो को अलग-अलग हिस्सों में बांटने से आपके पैसे की सुरक्षा होती है।",
+    "why_hi": "सामान्य वित्तीय योजना पर चर्चा।",
+    "chips_hi": {}
+  },
+  {
+    "v": 2,
+    "cat": "Economy",
+    "tk": "ECONOMY",
+    "title": "Why India is heading for record crude oil imports in October",
+    "summary": "India is moving towards record crude oil imports in October as local refiners secure supplies. Lower freight rates compared to September have provided some relief to these refiners. However, shipping costs continue to make up a quarter of the total cargo cost. This remains significantly higher than the level of less than five percent seen before the war began.",
+    "source": "Business Standard",
+    "published": "2026-10-31T04:08:31+00:00",
+    "ago": "1h",
+    "impact": "Neutral",
+    "why": "Higher imports offset by elevated freight costs.",
+    "url": "https://www.business-standard.com/economy/news/india-crude-oil-imports-record-october-russia-west-asia-reliance-ioc-126103100241_1.html",
+    "chips": {},
+    "trend": [
+      0.5,
+      0.55,
+      0.45,
+      0.5,
+      0.47,
+      0.52,
+      0.5
+    ],
+    "color": "B7791F",
+    "premium": true,
+    "title_hi": "अक्टूबर में क्यों रिकॉर्ड कच्चे तेल के आयात की ओर बढ़ रहा है भारत?",
+    "summary_hi": "भारत अक्टूबर में रिकॉर्ड कच्चे तेल के आयात की ओर बढ़ रहा है क्योंकि रिफाइनर ने आपूर्ति सुरक्षित कर ली है। सितंबर की तुलना में माल भाड़ा दरों में गिरावट से भारतीय रिफाइनर को कुछ राहत मिली है। हालांकि, माल भाड़ा अभी भी कुल कार्गो लागत का एक चौथाई हिस्सा बना हुआ है, जो युद्ध से पहले पांच प्रतिशत से भी कम था।",
+    "why_hi": "आयात बढ़ा है लेकिन माल भाड़ा अधिक है।",
+    "chips_hi": {}
+  },
+  {
+    "v": 2,
+    "cat": "Markets",
+    "tk": "BINANCE",
+    "title": "Crypto rattled as US probes massive six billion dollar heist",
+    "summary": "United States agencies are working alongside private sector partners to evaluate a security breach and recover stolen funds following a massive heist. The incident has rattled the cryptocurrency market. Meanwhile, Binance has pledged to cover all losses resulting from the security breach.",
+    "source": "Business Standard / Bloomberg",
+    "published": "2026-10-31T03:57:59+00:00",
+    "ago": "2h",
+    "impact": "Negative",
+    "why": "Security breach and stolen funds rattle market",
+    "url": "https://www.business-standard.com/markets/cryptocurrency/fbi-secret-service-join-probe-as-6-bn-binance-hack-rattles-crypto-markets-126103100226_1.html",
+    "chips": {
+      "Stolen funds": "$6.3 bn"
+    },
+    "trend": [
+      0.95,
+      0.85,
+      0.7,
+      0.6,
+      0.4,
+      0.3,
+      0.1
+    ],
+    "color": "9B2C2C",
+    "premium": false,
+    "title_hi": "छह अरब डॉलर की बड़ी चोरी के बाद क्रिप्टो बाजार हिला",
+    "summary_hi": "अमेरिकी एजेंसियां ​​निजी क्षेत्र के साझेदारों के साथ मिलकर सुरक्षा में सेंध का आकलन करने और चुराए गए फंड को वापस पाने में जुटी हैं। इस घटना ने क्रिप्टो बाजार को हिलाकर रख दिया है। इस बीच, Binance ने सभी नुकसान की भरपाई करने का वादा किया है।",
+    "why_hi": "सुरक्षा में सेंध और चोरी से बाजार हिला",
+    "chips_hi": {
+      "चोरी हुआ फंड": "$6.3 bn"
+    }
+  },
+  {
+    "v": 2,
+    "cat": "Industry",
+    "tk": "YES BANK",
+    "title": "Why is Axis Trustee threatening contempt action against Yes Bank?",
+    "summary": "Axis Trustee has issued a warning regarding potential contempt proceedings involving Yes Bank and its directors. This follows accusations of failing to comply with a Supreme Court decision that cancelled a massive write-off of AT1 bonds. The ongoing dispute highlights tensions surrounding the implementation of the court's ruling on these specific financial instruments.",
+    "source": "Business Standard",
+    "published": "2026-10-31T03:52:33+00:00",
+    "ago": "2h",
+    "impact": "Negative",
+    "why": "Legal threat over non-compliance with court ruling.",
+    "url": "https://www.business-standard.com/industry/banking/axis-trustee-yes-bank-at1-bonds-supreme-court-contempt-126103100223_1.html",
+    "chips": {
+      "AT1 bond write-off": "Rs 8,415 crore"
+    },
+    "trend": [
+      0.95,
+      0.85,
+      0.7,
+      0.6,
+      0.4,
+      0.3,
+      0.1
+    ],
+    "color": "9B2C2C",
+    "premium": false,
+    "title_hi": "Axis Trustee ने Yes Bank के खिलाफ contempt action की चेतावनी क्यों दी?",
+    "summary_hi": "Axis Trustee ने Yes Bank और उसके डायरेक्टर्स को contempt proceedings की चेतावनी दी है। यह चेतावनी AT1 bonds के 8,415 करोड़ रुपये के राइट-ऑफ को रद्द करने वाले सुप्रीम कोर्ट के फैसले का कथित तौर पर पालन न करने पर दी गई है।",
+    "why_hi": "कोर्ट के आदेश का पालन न करने पर कानूनी चेतावनी।",
+    "chips_hi": {
+      "AT1 bond write-off": "₹8,415 करोड़"
+    }
+  },
+  {
+    "v": 2,
+    "cat": "Markets",
+    "tk": "BINANCE",
+    "title": "Binance hack freezes billions and shakes crypto infrastructure",
+    "summary": "A record-breaking theft has impacted cryptocurrency infrastructure as Binance and its partners freeze billions of dollars in assets. The security breach has created significant uncertainty regarding digital asset security. Following the incident, authorities and the platform have pledged to reimburse customers who suffered financial losses due to the massive breach.",
+    "source": "Business Standard / Bloomberg",
+    "published": "2026-10-31T03:40:27+00:00",
+    "ago": "2h",
+    "impact": "Negative",
+    "why": "Security breach and asset freeze.",
+    "url": "https://www.business-standard.com/markets/cryptocurrency/binance-hack-exposes-unsolvable-crypto-risk-billions-can-vanish-overnight-126103100205_1.html",
+    "chips": {},
+    "trend": [
+      0.95,
+      0.85,
+      0.7,
+      0.6,
+      0.4,
+      0.3,
+      0.1
+    ],
+    "color": "9B2C2C",
+    "premium": false,
+    "title_hi": "Binance हैक से अरबों रुपये फ्रीज, क्रिप्टो सुरक्षा पर सवाल",
+    "summary_hi": "एक रिकॉर्ड तोड़ चोरी ने क्रिप्टोकरेंसी के बुनियादी ढांचे को हिला दिया है, जिसमें Binance और उसके साझेदारों ने अरबों डॉलर की संपत्ति को फ्रीज कर दिया है। इस सुरक्षा उल्लंघन ने डिजिटल संपत्ति की सुरक्षा को लेकर अनिश्चितता पैदा कर दी है। घटना के बाद, प्लेटफॉर्म ने नुकसान उठाने वाले ग्राहकों को पैसे वापस करने का वादा किया है।",
+    "why_hi": "सुरक्षा उल्लंघन और संपत्ति फ्रीज होना।",
+    "chips_hi": {}
+  },
+  {
+    "v": 2,
+    "cat": "Finance",
+    "tk": "FINANCE",
+    "title": "How to structure low-risk investments for a house down payment",
+    "summary": "Securing funds for a house deposit requires a blueprint focused on protecting capital and using low-risk investments. This approach helps ensure that money is safely set aside and ready for the closing day, moving the funds smoothly from personal savings to the final property settlement.",
+    "source": "Business Standard",
+    "published": "2026-10-31T02:30:56+00:00",
+    "ago": "3h",
+    "impact": "Neutral",
+    "why": "General guidance on real estate savings.",
+    "url": "https://www.business-standard.com/finance/personal-finance/from-savings-to-settlement-how-to-set-up-funds-for-house-down-payment-126102800584_1.html",
+    "chips": {},
+    "trend": [
+      0.5,
+      0.55,
+      0.45,
+      0.5,
+      0.47,
+      0.52,
+      0.5
+    ],
+    "color": "B7791F",
+    "premium": false,
+    "title_hi": "घर के डाउन पेमेंट के लिए कम जोखिम वाले निवेश कैसे तैयार करें",
+    "summary_hi": "घर के लिए पैसे जुटाने में पूंजी की सुरक्षा पर ध्यान देना और कम जोखिम वाले निवेश करना शामिल है। यह तरीका सुनिश्चित करता है कि पैसे सुरक्षित रहें और डील फाइनल होने के दिन आसानी से मिल जाएं, जिससे बचत से लेकर सेटलमेंट तक का सफर आसान हो जाता है।",
+    "why_hi": "रियल एस्टेट बचत पर सामान्य मार्गदर्शन।",
+    "chips_hi": {}
+  },
+  {
+    "v": 2,
     "cat": "Finance",
     "tk": "FINANCE",
     "title": "Why savings and demat accounts can become legally inaccessible without paperwork",
@@ -149,7 +394,7 @@
     ],
     "color": "0F766E",
     "premium": false,
-    "hi_tries": 1
+    "hi_tries": 2
   },
   {
     "v": 2,
@@ -510,280 +755,5 @@
     "summary_hi": "नवंबर 2026 में स्थानीय त्योहारों के आधार पर देश के अलग-अलग राज्यों में बैंक बंद रहेंगे। भारतीय रिजर्व बैंक ने अनुसूचित और गैर-अनुसूचित बैंकों के लिए छुट्टियों की तारीखें तय कर दी हैं। क्षेत्रीय आयोजनों और आधिकारिक सूचियों के मुताबिक बैंक शाखाओं की बंदी तय होगी।",
     "why_hi": "नियमित अवकाश सूची की घोषणा।",
     "chips_hi": {}
-  },
-  {
-    "v": 2,
-    "cat": "Economy",
-    "tk": "ECONOMY",
-    "title": "Cabinet Clears Rs 10,000 Crore Scheme to Boost Container Manufacturing",
-    "summary": "The government has cleared a massive financial outlay to significantly boost local container production capacity. This initiative is designed to push annual output to much higher levels, generate new employment opportunities, and lower the country's dependence on foreign imports for containers. The program focuses on expanding domestic industrial capabilities in this sector.",
-    "source": "Business Standard",
-    "published": "2026-10-30T09:32:05+00:00",
-    "ago": "43m",
-    "impact": "Positive",
-    "why": "Boosts local production and cuts import dependence.",
-    "url": "https://www.business-standard.com/economy/news/india-container-manufacturing-scheme-maritime-trade-shipping-imports-126103000871_1.html",
-    "chips": {
-      "Scheme outlay": "Rs 10,000 cr",
-      "Target capacity": "750,000 TEUs"
-    },
-    "trend": [
-      0.1,
-      0.25,
-      0.2,
-      0.5,
-      0.45,
-      0.8,
-      0.95
-    ],
-    "color": "0F766E",
-    "premium": false,
-    "title_hi": "कंटेनर निर्माण को बढ़ावा देने के लिए 10,000 करोड़ रुपये की योजना मंजूर",
-    "summary_hi": "सरकार ने देश में कंटेनर उत्पादन क्षमता बढ़ाने के लिए एक बड़ी योजना को मंजूरी दी है। इस कदम का उद्देश्य घरेलू विनिर्माण को दस गुना बढ़ाना, रोजगार के नए अवसर पैदा करना और कंटेनर आयात पर निर्भरता को कम करना है।",
-    "why_hi": "घरेलू उत्पादन बढ़ेगा और आयात पर निर्भरता घटेगी।",
-    "chips_hi": {
-      "योजना राशि": "₹10,000 करोड़",
-      "लक्ष्य क्षमता": "7,50,000 TEUs"
-    }
-  },
-  {
-    "v": 2,
-    "cat": "Earnings",
-    "tk": "COMPANIES",
-    "title": "How did Varun Beverages grow its September quarter profit by 13.5 percent?",
-    "summary": "Varun Beverages posted a consolidated net profit of Rs 830.6 crore for the September quarter of 2026, marking a 13.54 percent increase from the previous year. The growth was supported by volume gains across domestic and international markets. Revenue from operations rose 33.3 percent to Rs 6,815.58 crore compared to the same period last year. Meanwhile, total expenses increased by 35.77 percent to reach Rs 5,880.55 crore during the quarter.",
-    "source": "Business Standard / Press Trust of India",
-    "published": "2026-10-30T08:39:28+00:00",
-    "ago": "1h",
-    "impact": "Positive",
-    "why": "Higher net profit and revenue growth.",
-    "url": "https://www.business-standard.com/companies/quarterly-results/varun-beverages-q3-results-profit-rises-13-5-to-830-6-cr-revenue-up-33-126103000724_1.html",
-    "chips": {
-      "Net profit": "Rs 830.6 crore",
-      "Revenue": "Rs 6,815.58 crore",
-      "Total expenses": "Rs 5,880.55 crore"
-    },
-    "trend": [
-      0.1,
-      0.25,
-      0.2,
-      0.5,
-      0.45,
-      0.8,
-      0.95
-    ],
-    "color": "0F766E",
-    "premium": false,
-    "title_hi": "Varun Beverages का सितंबर तिमाही का मुनाफा 13.5 प्रतिशत कैसे बढ़ा?",
-    "summary_hi": "Varun Beverages ने सितंबर 2026 तिमाही में अपने समेकित शुद्ध लाभ में 13.54 प्रतिशत की बढ़ोतरी दर्ज की, जो 830.6 करोड़ रुपये रहा। घरेलू और अंतरराष्ट्रीय बाजारों में मजबूत वॉल्यूम के दम पर कंपनी का परिचालन से राजस्व 33.3 प्रतिशत बढ़कर 6,815.58 करोड़ रुपये पर पहुंच गया। इस बीच, समीक्षाधीन तिमाही में कंपनी का कुल खर्च भी 35.77 प्रतिशत बढ़कर 5,880.55 करोड़ रुपये हो गया।",
-    "why_hi": "शुद्ध लाभ और राजस्व में वृद्धि।",
-    "chips_hi": {
-      "शुद्ध लाभ": "₹830.6 करोड़",
-      "राजस्व": "₹6,815.58 करोड़",
-      "कुल खर्च": "₹5,880.55 करोड़"
-    }
-  },
-  {
-    "v": 2,
-    "cat": "Markets",
-    "tk": "MARKETS",
-    "title": "BSE IT index heads for its second biggest monthly gain",
-    "summary": "The BSE IT index is on track to record its second sharpest monthly rally in over twenty years. During the month of October, the index recorded a gain of 14.4 percent. Earlier, it surged 14.7 percent in July 2026. A larger monthly surge of 22.6 percent was recorded in July 2020, according to the available data.",
-    "source": "Business Standard",
-    "published": "2026-10-30T05:50:51+00:00",
-    "ago": "15m",
-    "impact": "Positive",
-    "why": "Strong monthly gains for the IT index",
-    "url": "https://www.business-standard.com/markets/news/bse-it-index-set-to-report-2nd-sharpest-monthly-rally-in-over-two-decades-126103000470_1.html",
-    "chips": {
-      "October rally": "14.4%",
-      "July 2026 surge": "14.7%",
-      "July 2020 soaring": "22.6%"
-    },
-    "trend": [
-      0.1,
-      0.25,
-      0.2,
-      0.5,
-      0.45,
-      0.8,
-      0.95
-    ],
-    "color": "0F766E",
-    "premium": false,
-    "title_hi": "BSE IT index में दो दशक की दूसरी सबसे बड़ी मासिक तेजी",
-    "summary_hi": "BSE IT index दो दशक में अपनी दूसरी सबसे तेज मासिक तेजी दर्ज करने की राह पर है। अक्टूबर के महीने में अब तक इस इंडेक्स में 14.4% की तेजी आई है। इससे पहले जुलाई 2026 में इसमें 14.7% की बढ़त दर्ज की गई थी। आंकड़ों के अनुसार, इससे भी बड़ी तेजी जुलाई 2020 में आई थी जब यह इंडेक्स 22.6% उछला था।",
-    "why_hi": "IT इंडेक्स में मजबूत मासिक बढ़त",
-    "chips_hi": {
-      "अक्टूबर तेजी": "14.4%",
-      "जुलाई 2026 उछाल": "14.7%",
-      "जुलाई 2020 वृद्धि": "22.6%"
-    }
-  },
-  {
-    "v": 2,
-    "cat": "Markets",
-    "tk": "MARKETS",
-    "title": "Why is gold facing further losses with the $3,930 support in focus?",
-    "summary": "Gold is experiencing further losses as momentum selling and uncertainty leading up to the US midterm elections outweigh supportive factors. These positive elements include a sharp decline in US yields over the past two weeks and a shaky AI sector. Market participants are now watching the $3,930 support level closely amidst these competing market pressures.",
-    "source": "Business Standard",
-    "published": "2026-10-30T05:44:33+00:00",
-    "ago": "22m",
-    "impact": "Negative",
-    "why": "Selling momentum and election uncertainty weigh down.",
-    "url": "https://www.business-standard.com/markets/news/gold-faces-further-losses-as-3-930-support-in-focus-mirae-asset-sharekhan-126103000480_1.html",
-    "chips": {
-      "Support level": "$3,930"
-    },
-    "trend": [
-      0.95,
-      0.85,
-      0.7,
-      0.6,
-      0.4,
-      0.3,
-      0.1
-    ],
-    "color": "9B2C2C",
-    "premium": false,
-    "title_hi": "Gold में लगातार गिरावट क्यों आ रही है और $3,930 का स्तर क्यों है अहम?",
-    "summary_hi": "US मिडटर्म चुनावों से पहले अनिश्चितता और मोमेंटम बिकवाली के कारण Gold में और गिरावट देखने को मिल रही है। पिछले दो हफ्तों में US यील्ड में आई तेज गिरावट और कमजोर AI सेक्टर जैसे समर्थक कारक भी इस दबाव को रोक नहीं पा रहे हैं। ऐसे में बाजार की नजरें $3,930 के सपोर्ट स्तर पर टिकी हुई हैं।",
-    "why_hi": "बिकवाली और चुनावी अनिश्चितता का दबाव बना है।",
-    "chips_hi": {
-      "सपोर्ट स्तर": "$3,930"
-    }
-  },
-  {
-    "v": 2,
-    "cat": "Markets",
-    "tk": "MARKETS",
-    "title": "Gold and silver prices slide further amid US inflation worries",
-    "summary": "Precious metals continued their downward trend on the multi commodity exchange as ongoing worries about US inflation reduced expectations for interest rate cuts. Consequently, gold futures dropped near 1.41 lakh rupees per 10 grams while silver declined to about 1.86 lakh rupees per kilogram. Market participants reacted to the persistent inflation pressures that suggest monetary policy might remain tight for a longer period.",
-    "source": "Business Standard",
-    "published": "2026-10-30T05:42:50+00:00",
-    "ago": "24m",
-    "impact": "Negative",
-    "why": "Falling prices weigh on market sentiment.",
-    "url": "https://www.business-standard.com/markets/commodities/gold-silver-extend-losses-as-us-inflation-concerns-weigh-on-rate-cut-hopes-126103000481_1.html",
-    "chips": {
-      "Gold futures": "₹1.41 lakh per 10 gm",
-      "Silver": "₹1.86 lakh per kg"
-    },
-    "trend": [
-      0.95,
-      0.85,
-      0.7,
-      0.6,
-      0.4,
-      0.3,
-      0.1
-    ],
-    "color": "9B2C2C",
-    "premium": false,
-    "title_hi": "अमेरिका में महंगाई की चिंताओं से सोने और चांदी की कीमतों में गिरावट",
-    "summary_hi": "अमेरिका में लगातार बनी महंगाई की चिंताओं के कारण ब्याज दर में कटौती की उम्मीदें कम हो गई हैं, जिससे एमसीएक्स पर सोने और चांदी की कीमतों में और गिरावट आई है। सोने के वायदा भाव गिरकर लगभग 1.41 लाख रुपये प्रति 10 ग्राम और चांदी के भाव 1.86 लाख रुपये प्रति किलोग्राम तक आ गए।",
-    "why_hi": "कीमतों में गिरावट से बाजार में कमजोरी।",
-    "chips_hi": {
-      "सोना वायदा": "₹1.41 लाख प्रति 10 ग",
-      "चांदी": "₹1.86 लाख प्रति किलो"
-    }
-  },
-  {
-    "v": 2,
-    "cat": "Earnings",
-    "tk": "MARKETS",
-    "title": "Why did Godrej Consumer Products shares drop 7 percent in value?",
-    "summary": "Shares of Godrej Consumer Products experienced a seven percent decline following its second quarter financial results. Market analysts pointed out that ongoing inflation continues to weigh heavily on the business. Commodity prices remain elevated, leading to a contraction in profit margins. Experts warn that these margin pressures are likely to continue in the near term, keeping investor sentiment cautious regarding the consumer goods maker's upcoming performance.",
-    "source": "Business Standard",
-    "published": "2026-10-30T05:19:19+00:00",
-    "ago": "47m",
-    "impact": "Negative",
-    "why": "Input costs and margin pressures hurt margins.",
-    "url": "https://www.business-standard.com/markets/news/gcpl-slides-7-as-q2-margins-contract-analysts-flags-input-cost-pressures-126103000409_1.html",
-    "chips": {
-      "Stock drop": "7%",
-      "Period": "Q2"
-    },
-    "trend": [
-      0.95,
-      0.85,
-      0.7,
-      0.6,
-      0.4,
-      0.3,
-      0.1
-    ],
-    "color": "9B2C2C",
-    "premium": false,
-    "hi_tries": 1,
-    "title_hi": "Godrej Consumer Products के शेयर क्यों 7 प्रतिशत गिरे?",
-    "summary_hi": "Godrej Consumer Products के शेयरों में दूसरी तिमाही के नतीजों के बाद बड़ी गिरावट आई है। बढ़ती महंगाई और महंगे कच्चे माल की वजह से कंपनी का मुनाफा कम हुआ है। जानकारों का कहना है कि लागत बढ़ने का यह दबाव अभी कुछ और समय तक बना रह सकता है, जिससे निवेशकों में चिंता है।",
-    "why_hi": "महंगे कच्चे माल और लागत बढ़ने से मार्जिन पर असर पड़ा है।",
-    "chips_hi": {
-      "शेयर गिरावट": "7%",
-      "अवधि": "Q2"
-    }
-  },
-  {
-    "v": 2,
-    "cat": "Markets",
-    "tk": "ADANI PORTS",
-    "title": "Why is Adani Ports on the analyst radar after a chart breakout?",
-    "summary": "Analyst Sudeep Shah of SBI Securities has highlighted that shares of Adani Ports have moved past a downward sloping trendline on the daily chart. This technical movement places the stock on the radar of market watchers, alongside other names like Nykaa and Saregama. The observation focuses on the technical chart pattern rather than broader fundamental changes in the company or its sector.",
-    "source": "Business Standard",
-    "published": "2026-10-30T05:14:25+00:00",
-    "ago": "52m",
-    "impact": "Positive",
-    "why": "Technical chart breakout observed by analyst.",
-    "url": "https://www.business-standard.com/markets/news/breakout-stocks-adani-ports-nykaa-saregama-on-radar-analyst-tells-why-126103000358_1.html",
-    "chips": {},
-    "trend": [
-      0.1,
-      0.25,
-      0.2,
-      0.5,
-      0.45,
-      0.8,
-      0.95
-    ],
-    "color": "0F766E",
-    "premium": false,
-    "title_hi": "Adani Ports के स्टॉक में चार्ट ब्रेकआउट के बाद क्या खास है?",
-    "summary_hi": "SBI Securities के सुदीप शाह ने बताया है कि Adani Ports का शेयर डेली चार्ट पर नीचे की ओर ढलान वाली ट्रेंडलाइन से ऊपर निकल गया है। इस तकनीकी मूवमेंट के कारण यह स्टॉक Nykaa और Saregama के साथ निवेशकों की नजरों में आ गया है। यह विश्लेषण कंपनी के बुनियादी बदलावों के बजाय मुख्य रूप से तकनीकी चार्ट पैटर्न पर आधारित है।",
-    "why_hi": "विश्लेषक द्वारा तकनीकी चार्ट ब्रेकआउट देखा गया।",
-    "chips_hi": {}
-  },
-  {
-    "v": 2,
-    "cat": "Companies",
-    "tk": "IDBI BANK",
-    "title": "How did IDBI Bank stake sale gain 3,917 crore rupees?",
-    "summary": "The Finance Ministry has defended the valuation methods used for IDBI Bank. Officials stated that the Core Group of Secretaries on Disinvestment held the necessary authority to determine the bidding process. According to the ministry, these specific procedural steps successfully added 3,917 crore rupees to the total value of the stake sale transaction.",
-    "source": "Business Standard",
-    "published": "2026-10-30T04:49:39+00:00",
-    "ago": "1h",
-    "impact": "Positive",
-    "why": "Higher stake sale value reported.",
-    "url": "https://www.business-standard.com/companies/news/idbi-bank-stake-sale-government-valuation-defends-bidding-process-deal-value-126103000338_1.html",
-    "chips": {
-      "Value addition": "₹3,917 cr"
-    },
-    "trend": [
-      0.1,
-      0.25,
-      0.2,
-      0.5,
-      0.45,
-      0.8,
-      0.95
-    ],
-    "color": "0F766E",
-    "premium": false,
-    "title_hi": "IDBI Bank की हिस्सेदारी बिक्री में 3,917 करोड़ रुपये कैसे बढ़े?",
-    "summary_hi": "वित्त मंत्रालय ने IDBI Bank के मूल्यांकन का बचाव किया है। अधिकारियों ने बताया कि विनिवेश पर सचिवों के कोर समूह के पास बोली प्रक्रिया तय करने का अधिकार था। मंत्रालय के अनुसार, इन विशेष प्रक्रियाओं की वजह से हिस्सेदारी बिक्री के कुल मूल्य में 3,917 करोड़ रुपये की बढ़ोतरी हुई।",
-    "why_hi": "हि हिस्सेदारी बिक्री का मूल्य बढ़ा।",
-    "chips_hi": {
-      "मूल्य वृद्धि": "₹3,917 करोड़"
-    }
   }
 ]
