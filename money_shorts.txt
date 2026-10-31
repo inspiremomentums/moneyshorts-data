@@ -1,6 +1,222 @@
 [
   {
     "v": 2,
+    "cat": "Finance",
+    "tk": "FINANCE",
+    "title": "Why savings and demat accounts can become legally inaccessible without paperwork",
+    "summary": "Proper estate planning through nominations, joint holdings, beneficiaries, and a Will is essential for asset access. Without the correct paperwork in place, accounts like savings and demat portfolios can become legally inaccessible to loved ones.",
+    "source": "Business Standard",
+    "published": "2026-10-31T00:30:58+00:00",
+    "ago": "1h",
+    "impact": "Neutral",
+    "why": "Highlights importance of proper estate paperwork.",
+    "url": "https://www.business-standard.com/finance/personal-finance/what-is-estate-planning-nomination-joint-holding-beneficiaries-and-will-126102800554_1.html",
+    "chips": {},
+    "trend": [
+      0.5,
+      0.55,
+      0.45,
+      0.5,
+      0.47,
+      0.52,
+      0.5
+    ],
+    "color": "B7791F",
+    "premium": false,
+    "title_hi": "क्यों सही कागजी कार्रवाई के बिना सेविंग और डीमैट खाते हो सकते हैं दुर्गम?",
+    "summary_hi": "नॉमिनेशन, संयुक्त होल्डिंग, लाभार्थी और वसीयत के जरिए सही एस्टेट प्लानिंग बहुत जरूरी है। सही कागजी कार्रवाई के बिना सेविंग अकाउंट या डीमैट पोर्टफोलियो कानूनी रूप से एसेस करने लायक नहीं रहते हैं।",
+    "why_hi": "एस्टेट कागजी कार्रवाई के महत्व को बताता है।",
+    "chips_hi": {}
+  },
+  {
+    "v": 2,
+    "cat": "Economy",
+    "tk": "ECONOMY",
+    "title": "Why are Indian states competing for local travellers right now?",
+    "summary": "Indian states are ramping up promotional campaigns, tourism circuits, and private partnerships to capture a larger share of the domestic travel boom. This push comes as costly international trips prompt local travellers to seek holiday spots within the country, particularly during the festival travel season. State administrations are actively working to draw these visitors through improved local offerings and targeted outreach.",
+    "source": "Business Standard",
+    "published": "2026-10-30T18:52:43+00:00",
+    "ago": "7h",
+    "impact": "Positive",
+    "why": "Rising domestic travel boosts local tourism sector.",
+    "url": "https://www.business-standard.com/economy/news/states-vie-for-a-bigger-share-of-domestic-tourism-boom-amid-festival-travel-126103100023_1.html",
+    "chips": {},
+    "trend": [
+      0.1,
+      0.25,
+      0.2,
+      0.5,
+      0.45,
+      0.8,
+      0.95
+    ],
+    "color": "0F766E",
+    "premium": true,
+    "title_hi": "क्यों भारतीय राज्य इस समय स्थानीय पर्यटकों को आकर्षित करने में जुटे हैं?",
+    "summary_hi": "भारतीय राज्य घरेलू यात्रा में उछाल का बड़ा हिस्सा पाने के लिए प्रचार अभियानों, पर्यटन सर्किट और निजी साझेदारियों को तेज कर रहे हैं। महंगे विदेशी दौरों के कारण जब भारतीय देश के भीतर ही घूमने लगे हैं, तब राज्य उत्सव के समय यात्रा के इस दौर को भुनाने की कोशिश कर रहे हैं।",
+    "why_hi": "घरेलू यात्रा बढ़ने से स्थानीय पर्यटन को लाभ।",
+    "chips_hi": {}
+  },
+  {
+    "v": 2,
+    "cat": "Markets",
+    "tk": "SEBI",
+    "title": "Sebi cybersecurity team on red alert after SMARTs portal cyberattack",
+    "summary": "Markets regulator Sebi has put its cybersecurity team on red alert following a code execution attack on its SMARTs portal. However, the regulator has clarified that no personal or sensitive data was compromised during the incident.",
+    "source": "Business Standard",
+    "published": "2026-10-30T18:37:36+00:00",
+    "ago": "7h",
+    "impact": "Negative",
+    "why": "Cyberattack raises portal security concerns.",
+    "url": "https://www.business-standard.com/markets/news/cyberattack-on-smarts-portal-puts-sebi-s-cybersecurity-team-on-high-alert-126103100006_1.html",
+    "chips": {},
+    "trend": [
+      0.95,
+      0.85,
+      0.7,
+      0.6,
+      0.4,
+      0.3,
+      0.1
+    ],
+    "color": "9B2C2C",
+    "premium": true,
+    "title_hi": "SMARTs पोर्टल पर साइबर हमले के बाद Sebi की टीम हाई अलर्ट पर",
+    "summary_hi": "मार्केट रेगुलेटर सेबी ने अपने SMARTs पोर्टल पर हुए कोड निष्पादन हमले के बाद अपनी साइबर सुरक्षा टीम को रेड अलर्ट पर रख दिया है। हालांकि, रेगुलेटर ने स्पष्ट किया है कि इस घटना के दौरान कोई भी व्यक्तिगत या संवेदनशील डेटा से समझौता नहीं किया गया है।",
+    "why_hi": "पोर्टल सुरक्षा को लेकर चिंता बढ़ी।",
+    "chips_hi": {}
+  },
+  {
+    "v": 2,
+    "cat": "Economy",
+    "tk": "ECONOMY",
+    "title": "How trade pacts unlock access to a massive $85 trillion market",
+    "summary": "India's trade agreements will soon offer preferential access to goods and services across nations with a combined GDP of USD 85 trillion. Union Minister Piyush Goyal noted that prior to 2014, such pacts covered a GDP of USD 10 trillion. Over the past four and a half years, nine pacts have added 38 developed countries with a USD 60 trillion GDP. Negotiations for seven to eight additional agreements are currently underway, which will further add USD 15 trillion.",
+    "source": "Business Standard / Press Trust of India",
+    "published": "2026-10-30T18:35:30+00:00",
+    "ago": "7h",
+    "impact": "Positive",
+    "why": "Expands global market access for traders.",
+    "url": "https://www.business-standard.com/economy/news/ftas-to-open-85-trillion-market-traders-need-to-expand-footprint-goyal-126103001434_1.html",
+    "chips": {
+      "Combined GDP": "USD 85 trillion",
+      "Prior GDP": "USD 10 trillion",
+      "Recent GDP": "USD 60 trillion"
+    },
+    "trend": [
+      0.1,
+      0.25,
+      0.2,
+      0.5,
+      0.45,
+      0.8,
+      0.95
+    ],
+    "color": "0F766E",
+    "premium": false,
+    "title_hi": "कैसे ट्रेड पैक्ट्स मिलकर खोल रहे हैं 85 ट्रिलियन डॉलर का मार्केट",
+    "summary_hi": "भारत के व्यापार समझौतों से आने वाले समय में 85 ट्रिलियन डॉलर के कुल सकल घरेलू उत्पाद वाले देशों में वस्तुओं और सेवाओं तक विशेष पहुंच मिलने वाली है। केंद्रीय मंत्री पीयूष गोयल ने बताया कि 2014 से पहले भारत के पास 10 ट्रिलियन डॉलर जीडीपी वाले देशों के साथ एफटीए थे। पिछले साढ़े चार वर्षों में नौ व्यापार समझौते किए गए हैं, जिनमें 38 विकसित देश शामिल हैं।",
+    "why_hi": "व्यापारियों के लिए वैश्विक बाजार का विस्तार।",
+    "chips_hi": {
+      "संयुक्त जीडीपी": "USD 85 ट्रिलियन",
+      "पिछली जीडीपी": "USD 10 ट्रिलियन",
+      "हालिया जीडीपी": "USD 60 ट्रिलियन"
+    }
+  },
+  {
+    "v": 2,
+    "cat": "Companies",
+    "tk": "MAZAGON DOCK",
+    "title": "Mazagon Dock plans Rs 20,000 crore investment for shipbuilding hubs",
+    "summary": "Defence shipbuilder Mazagon Dock Shipbuilders is actively seeking partners to set up new shipbuilding clusters. The company has outlined plans to invest Rs 20,000 crore across Maharashtra and Andhra Pradesh. This major infrastructural expansion is targeted for completion over a period of five to seven years. The initiative aims to boost the shipbuilder's production capabilities through strategic collaborations in these two coastal states.",
+    "source": "Business Standard",
+    "published": "2026-10-30T18:28:48+00:00",
+    "ago": "7h",
+    "impact": "Positive",
+    "why": "Massive proposed investment to boost capacity.",
+    "url": "https://www.business-standard.com/companies/people/mazagon-dock-shipbuilders-scouts-partners-for-proposed-shipbuilding-hubs-126103002011_1.html",
+    "chips": {
+      "Proposed investment": "Rs 20,000 crore"
+    },
+    "trend": [
+      0.1,
+      0.25,
+      0.2,
+      0.5,
+      0.45,
+      0.8,
+      0.95
+    ],
+    "color": "0F766E",
+    "premium": false,
+    "hi_tries": 1
+  },
+  {
+    "v": 2,
+    "cat": "Earnings",
+    "tk": "GAIL",
+    "title": "Gail's Q2 net profit jumps two-fold to ₹4,724 crore",
+    "summary": "State-owned GAIL reported a significant increase in its second-quarter performance, with net profit rising by 138 percent to reach ₹4,724 crore. This growth was driven by strong operational numbers in gas transmission and marketing volumes. Additionally, the company's board has given approval for plans to launch an initial public offering to list its subsidiary, GAIL Gas.",
+    "source": "Business Standard",
+    "published": "2026-10-30T18:18:07+00:00",
+    "ago": "7h",
+    "impact": "Positive",
+    "why": "Higher net profit and subsidiary IPO plans.",
+    "url": "https://www.business-standard.com/companies/quarterly-results/gail-s-net-profit-zooms-two-fold-to-4-724-crore-on-robust-volumes-126103002006_1.html",
+    "chips": {
+      "Net profit": "₹4,724 crore",
+      "Profit jump": "138%"
+    },
+    "trend": [
+      0.1,
+      0.25,
+      0.2,
+      0.5,
+      0.45,
+      0.8,
+      0.95
+    ],
+    "color": "0F766E",
+    "premium": false,
+    "title_hi": "Gail का दूसरी तिमाही का शुद्ध लाभ दोगुना होकर ₹4,724 करोड़ हुआ",
+    "summary_hi": "सार्वजनिक क्षेत्र की कंपनी GAIL ने अपनी दूसरी तिमाही के वित्तीय परिणामों की घोषणा की है, जिसमें शुद्ध लाभ 138 प्रतिशत बढ़कर ₹4,724 करोड़ पर पहुंच गया। इस बढ़ोतरी का मुख्य कारण गैस ट्रांसमिशन और मार्केटिंग के मजबूत वॉल्यूम रहे। इसके साथ ही, कंपनी के बोर्ड ने अपनी सहायक कंपनी GAIL Gas को आईपीओ के जरिए लिस्ट करने की योजनाओं को मंजूरी दे दी है।",
+    "why_hi": "शुद्ध लाभ बढ़ना और आईपीओ योजना।",
+    "chips_hi": {
+      "शुद्ध लाभ": "₹4,724 करोड़",
+      "लाभ में उछाल": "138%"
+    }
+  },
+  {
+    "v": 2,
+    "cat": "Markets",
+    "tk": "MARKETS",
+    "title": "Why are massive technology investments sparking a bond market rally?",
+    "summary": "Investors are questioning the returns on large technology investments, which has led to a rally in US bonds. Meanwhile, the cryptocurrency market experienced a decline due to hacking concerns involving Binance. Additionally, oil prices moved higher as tensions and risks surrounding the Strait of Hormuz grew. Market participants are closely watching these global developments across different asset classes.",
+    "source": "Business Standard / Reuters",
+    "published": "2026-10-30T18:10:24+00:00",
+    "ago": "8h",
+    "impact": "Neutral",
+    "why": "Mixed market reactions to global economic events.",
+    "url": "https://www.business-standard.com/markets/news/global-tech-giants-spending-spooks-investors-and-drives-bonds-rally-126103002004_1.html",
+    "chips": {},
+    "trend": [
+      0.5,
+      0.55,
+      0.45,
+      0.5,
+      0.47,
+      0.52,
+      0.5
+    ],
+    "color": "B7791F",
+    "premium": false,
+    "title_hi": "मैसिव टेक्नोलॉजी निवेश से बॉन्ड मार्केट में तेजी क्यों आ रही है?",
+    "summary_hi": "बड़े टेक्नोलॉजी निवेश पर रिटर्न को लेकर निवेशकों के मन में सवाल उठने से अमेरिकी बॉन्ड में तेजी आई है। इस बीच, Binance से जुड़ी हैकिंग चिंताओं के कारण क्रिप्टो मार्केट में गिरावट दर्ज की गई। इसके अलावा, स्ट्रेट ऑफ हॉर्मुज के पास जोखिम बढ़ने से तेल की कीमतें ऊपर चली गई हैं। बाजार के लोग इन वैश्विक गतिविधियों पर नजर बनाए हुए हैं।",
+    "why_hi": "वैश्विक घटनाओं पर मिश्रित बाजार प्रतिक्रिया।",
+    "chips_hi": {}
+  },
+  {
+    "v": 2,
     "cat": "Earnings",
     "tk": "INDUSTRY",
     "title": "Bengaluru matches Tokyo with 11.5% office rent growth in Q3",
@@ -569,230 +785,5 @@
     "chips_hi": {
       "मूल्य वृद्धि": "₹3,917 करोड़"
     }
-  },
-  {
-    "v": 2,
-    "cat": "Finance",
-    "tk": "FINANCE",
-    "title": "PL Wealth prefers midcaps and banks while warning against IT",
-    "summary": "PL Wealth suggests staggered investments in equities, favoring midcap, flexicap, and banking sectors. The wealth management firm advises caution regarding IT stocks. Additionally, it recommends selective exposure to capital goods and defence sectors, along with short-duration debt funds.",
-    "source": "Business Standard",
-    "published": "2026-10-30T04:49:28+00:00",
-    "ago": "1h",
-    "impact": "Neutral",
-    "why": "Strategic asset allocation preferences and cautions.",
-    "url": "https://www.business-standard.com/finance/personal-finance/where-to-invest-pl-wealth-bets-on-midcap-flexicap-banks-cautions-on-it-126103000337_1.html",
-    "chips": {},
-    "trend": [
-      0.5,
-      0.55,
-      0.45,
-      0.5,
-      0.47,
-      0.52,
-      0.5
-    ],
-    "color": "B7791F",
-    "premium": false,
-    "title_hi": "PL Wealth का मिडकैप और बैंकों पर दांव, IT को लेकर चेतावनी",
-    "summary_hi": "वेल्थ मैनेजर ने इक्विटी में चरणबद्ध निवेश का सुझाव दिया है, जिसमें मिडकैप, फ्लेक्सीकैप और बैंकिंग सेक्टर को प्राथमिकता दी गई है। आईटी शेयरों को लेकर सावधानी बरतने की सलाह दी गई है। इसके अलावा, डिफेंस और कैपिटल गुड्स में चुनिंदा एक्सपोजर तथा शॉर्ट-डुरेशन डेट फंड्स का सुझाव दिया गया है।",
-    "why_hi": "रणनीतिक परिसंपत्ति आवंटन प्राथमिकताएं और चेतावनियां।",
-    "chips_hi": {}
-  },
-  {
-    "v": 2,
-    "cat": "Markets",
-    "tk": "BINANCE",
-    "title": "Binance faces $3 billion crypto freeze amid possible record-breaking hack",
-    "summary": "A potential cyber attack has led to the freezing of $3 billion worth of digital assets. Analytics firm Chainalysis indicates this incident could become the largest cryptocurrency theft in history. The immediate market fallout emerged during early trading hours in Asia on Friday, reflecting sudden concerns across the digital currency ecosystem.",
-    "source": "Business Standard / Reuters",
-    "published": "2026-10-30T01:55:30+00:00",
-    "ago": "17m",
-    "impact": "Negative",
-    "why": "Potential record hack freezes billions.",
-    "url": "https://www.business-standard.com/markets/cryptocurrency/binance-s-possible-hack-triggers-3-billion-freeze-in-crypto-assets-126103000072_1.html",
-    "chips": {
-      "Frozen assets": "$3 billion"
-    },
-    "trend": [
-      0.95,
-      0.85,
-      0.7,
-      0.6,
-      0.4,
-      0.3,
-      0.1
-    ],
-    "color": "9B2C2C",
-    "premium": false,
-    "title_hi": "संभावित बड़े हैक के बाद Binance पर 3 अरब डॉलर के क्रिप्टो फ्रीज",
-    "summary_hi": "एक संभावित साइबर हमले के कारण 3 अरब डॉलर मूल्य की डिजिटल संपत्ति को फ्रीज कर दिया गया है। एनालिटिक्स फर्म Chainalysis के अनुसार, यह घटना इतिहास की सबसे बड़ी क्रिप्टोकरेंसी चोरी साबित हो सकती है। शुक्रवार को एशियाई बाजार में शुरुआती कारोबार के दौरान इसका असर तुरंत देखने को मिला।",
-    "why_hi": "बड़ी हैक की आशंका से अरबों फ्रीज।",
-    "chips_hi": {
-      "फ्रीज संपत्ति": "$3 अरब"
-    }
-  },
-  {
-    "v": 2,
-    "cat": "Economy",
-    "tk": "ECONOMY",
-    "title": "Did IMF keep India's growth engine running despite weather risks?",
-    "summary": "The International Monetary Fund stated that weather risks like the Super El Nino have not yet materialised for India. However, the IMF noted potential dangers such as reduced crop yields, higher food inflation, and lower household purchasing power. The IMF recently upgraded India's economic growth projections for fiscal year 2027 and fiscal year 2028 to 7 percent. Officials stated they will reassess these numbers in the upcoming World Economic Outlook update if weather risks materialize.",
-    "source": "Business Standard / Press Trust of India",
-    "published": "2026-10-29T19:39:37+00:00",
-    "ago": "6h",
-    "impact": "Neutral",
-    "why": "Growth remains strong despite unmaterialised risks.",
-    "url": "https://www.business-standard.com/economy/news/india-remains-growth-engine-super-el-nino-impact-yet-to-materialise-imf-126102901811_1.html",
-    "chips": {
-      "FY27 forecast": "7 per cent",
-      "FY28 forecast": "7 per cent"
-    },
-    "trend": [
-      0.5,
-      0.55,
-      0.45,
-      0.5,
-      0.47,
-      0.52,
-      0.5
-    ],
-    "color": "B7791F",
-    "premium": false,
-    "title_hi": "क्या मौसम के जोखिम के बावजूद भारत की विकास रफ्तार बरकरार है?",
-    "summary_hi": "अंतरराष्ट्रीय मुद्रा कोष ने कहा कि भारत के लिए सुपर अल नीनो जैसे मौसम के प्रभाव अभी सामने नहीं आए हैं। आईएमएफ ने कम फसल पैदावार, बढ़ती खाद्य महंगाई और घरेलू क्रय शक्ति पर असर जैसे जोखिमों का जिक्र किया। आईएमएफ ने हाल ही में वित्त वर्ष 2027 और वित्त वर्ष 2028 के लिए भारत के विकास अनुमान को बढ़ाकर 7 प्रतिशत कर दिया। अधिकारियों ने कहा कि जोखिम सामने आने पर वे जनवरी की रिपोर्ट में इन अनुमानों की फिर से समीक्षा करेंगे।",
-    "why_hi": "जोखिम अभी असर नहीं दिखा पाए हैं।",
-    "chips_hi": {
-      "वित्त वर्ष 2027 अनुम": "7 प्रतिशत",
-      "वित्त वर्ष 2028 अनुम": "7 प्रतिशत"
-    }
-  },
-  {
-    "v": 2,
-    "cat": "Companies",
-    "tk": "VOLKSWAGEN",
-    "title": "Why is the government clashing over a $1.2 billion tax dispute?",
-    "summary": "India has defended an import duty demand of $1.2 billion against Volkswagen in court. The two parties are currently locked in a legal clash over this record tax dispute. The government stands by its tax demand, while the automaker challenges the matter.",
-    "source": "Business Standard / Reuters",
-    "published": "2026-10-29T18:02:30+00:00",
-    "ago": "8h",
-    "impact": "Negative",
-    "why": "Significant tax dispute poses legal risks.",
-    "url": "https://www.business-standard.com/companies/news/govt-volkswagen-clash-in-court-over-record-1-2-billion-tax-dispute-126102901520_1.html",
-    "chips": {
-      "Tax dispute": "$1.2 billion"
-    },
-    "trend": [
-      0.95,
-      0.85,
-      0.7,
-      0.6,
-      0.4,
-      0.3,
-      0.1
-    ],
-    "color": "9B2C2C",
-    "premium": false,
-    "title_hi": "सरकार और Volkswagen के बीच 1.2 अरब डॉलर के टैक्स विवाद पर क्यों भिड़ंत?",
-    "summary_hi": "भारत सरकार ने अदालत में Volkswagen के खिलाफ 1.2 अरब डॉलर के आयात शुल्क की मांग का बचाव किया है। यह भारी-भरकम टैक्स विवाद दोनों पक्षों के बीच कानूनी लड़ाई का विषय बना हुआ है।",
-    "why_hi": "बड़ा टैक्स विवाद कानूनी जोखिम पैदा करता है।",
-    "chips_hi": {
-      "टैक्स विवाद": "$1.2 अरब"
-    }
-  },
-  {
-    "v": 2,
-    "cat": "Companies",
-    "tk": "COMPANIES",
-    "title": "PNB settles claims worth Rs 43 lakh after branch fraud allegations",
-    "summary": "Punjab National Bank has settled three claims totaling Rs 43 lakh following alleged financial irregularities in customer deposit accounts at its Greater Noida branch. The bank stated that it is examining the situation on a priority basis and cooperating with authorities to verify the facts. Emphasizing a zero-tolerance policy towards fraud, the lender assured customers that all genuine claims will be honored.",
-    "source": "Business Standard / Press Trust of India",
-    "published": "2026-10-29T17:58:43+00:00",
-    "ago": "8h",
-    "impact": "Negative",
-    "why": "Branch fraud allegations create reputational and operational",
-    "url": "https://www.business-standard.com/companies/news/pnb-settles-43-lakh-in-claims-amid-greater-noida-branch-fraud-allegations-126102901895_1.html",
-    "chips": {
-      "Settled claims": "Rs 43 lakh"
-    },
-    "trend": [
-      0.95,
-      0.85,
-      0.7,
-      0.6,
-      0.4,
-      0.3,
-      0.1
-    ],
-    "color": "9B2C2C",
-    "premium": false,
-    "title_hi": "Greater Noida branch में धोखाधड़ी के आरोपों के बीच PNB ने ₹43 लाख के दावे निपटाए",
-    "summary_hi": "Punjab National Bank ने ग्रेटर नोएडा शाखा में ग्राहकों के खातों में कथित वित्तीय अनियमितताओं के बाद तीन दावे निपटाए हैं, जिनकी कुल राशि 43 लाख रुपये है। बैंक ने कहा है कि वह इस मामले की प्राथमिकता से जांच कर रहा है और अधिकारियों को पूरा सहयोग दे रहा है। बैंक ने यह भी आश्वासन दिया है कि सभी वैध दावों का भुगतान किया जाएगा।",
-    "why_hi": "शाखा में धोखाधड़ी के आरोपों से चिंता बढ़ी।",
-    "chips_hi": {
-      "निपटाए गए दावे": "₹43 लाख"
-    }
-  },
-  {
-    "v": 2,
-    "cat": "Companies",
-    "tk": "ALPHABET",
-    "title": "Alphabet loses over $500 billion as AI hits search business",
-    "summary": "Alphabet experienced a drop of over $500 billion in its market value following lower-than-anticipated search and advertising revenue. This decline highlighted growing worries about how artificial intelligence is affecting Google's main operations, alongside rising infrastructure expenses.",
-    "source": "Business Standard / Bloomberg",
-    "published": "2026-10-29T17:54:02+00:00",
-    "ago": "8h",
-    "impact": "Negative",
-    "why": "Falling sales and rising costs concern investors.",
-    "url": "https://www.business-standard.com/companies/news/alphabet-loses-over-500-billion-in-market-value-as-ai-hits-google-search-126102901917_1.html",
-    "chips": {
-      "Market value lost": "over $500 billion"
-    },
-    "trend": [
-      0.95,
-      0.85,
-      0.7,
-      0.6,
-      0.4,
-      0.3,
-      0.1
-    ],
-    "color": "9B2C2C",
-    "premium": false,
-    "title_hi": "Google search पर AI के असर से Alphabet को $500 अरब से अधिक का नुकसान",
-    "summary_hi": "Alphabet के बाजार मूल्य में 500 अरब डॉलर से अधिक की गिरावट आई है। यह कमी उम्मीद से कम सर्च और विज्ञापन बिक्री के कारण हुई, जिससे Google के मुख्य कारोबार पर आर्टिफिशियल इंटेलिजेंस के प्रभाव और बढ़ते बुनियादी ढांचे के खर्च को लेकर चिंताएं बढ़ गई हैं।",
-    "why_hi": "बिक्री घटने और खर्च बढ़ने से चिंता।",
-    "chips_hi": {
-      "मार्केट वैल्यू का नु": "अक्सर $500 अरब से ज्"
-    }
-  },
-  {
-    "v": 2,
-    "cat": "Economy",
-    "tk": "ECONOMY",
-    "title": "Odisha plans integrated rare-earth corridor for mineral processing",
-    "summary": "The government of Odisha has proposed an integrated rare-earth corridor to enhance mineral processing in the region. The planned Gopalpur cluster aims to combine mineral extraction, processing, and permanent-magnet manufacturing into a single system. This initiative is designed to strengthen the critical mineral value chain within the state.",
-    "source": "Business Standard",
-    "published": "2026-10-29T17:48:02+00:00",
-    "ago": "8h",
-    "impact": "Positive",
-    "why": "Strengthens the critical mineral value chain.",
-    "url": "https://www.business-standard.com/economy/news/odisha-plans-integrated-rare-earth-corridor-to-boost-mineral-processing-126102901903_1.html",
-    "chips": {},
-    "trend": [
-      0.1,
-      0.25,
-      0.2,
-      0.5,
-      0.45,
-      0.8,
-      0.95
-    ],
-    "color": "0F766E",
-    "premium": true,
-    "title_hi": "ओडिशा मिनरल प्रोसेसिंग को बढ़ावा देने के लिए बनाएगा रेयर-अर्थ कॉरिडोर",
-    "summary_hi": "ओडिशा सरकार ने क्षेत्र में मिनरल प्रोसेसिंग को बेहतर बनाने के लिए एक एकीकृत रेयर-अर्थ कॉरिडोर का प्रस्ताव रखा है। नियोजित गोपालपुर क्लस्टर का उद्देश्य मिनरल निष्कर्षण, प्रोसेसिंग और परमानेंट-मैग्नेट मैन्युफैक्चरिंग को एक साथ जोड़ना है। इस पहल का उद्देश्य राज्य के भीतर क्रिटिकल मिनरल वैल्यू चेन को मजबूत करना है।",
-    "why_hi": "क्रिटिकल मिनरल वैल्यू चेन मजबूत होगी।",
-    "chips_hi": {}
   }
 ]
