@@ -204,6 +204,12 @@ def nums(s):
 HYPE = re.compile(r"won't believe|shocking|secret|must[- ]buy|multibagger|rocket|jackpot|"
                   r"you need to know|blast|bloodbath", re.I)
 DEVANAGARI = re.compile(r"[\u0900-\u097F]")
+DIGITS = str.maketrans("०१२३४५६७८९", "0123456789")
+
+
+def hclean(s):
+    """Clean Hindi text and turn Devanagari digits into 0-9 so numbers can be checked."""
+    return clean(s).translate(DIGITS)
 
 
 def numbers_ok(text, source):
@@ -219,15 +225,15 @@ def clean_hindi(h, source):
     """Return the checked Hindi card, or None if anything looks wrong."""
     if not isinstance(h, dict):
         return None
-    summary = clean(str(h.get("summary", "")))
-    title = clean(str(h.get("title", "")))
+    summary = hclean(str(h.get("summary", "")))
+    title = hclean(str(h.get("title", "")))
     if not (DEVANAGARI.search(summary) and DEVANAGARI.search(title)):
         return None
-    if not (25 <= words(summary) <= 110) or not good_title(title, source, 16):
+    if not (25 <= words(summary) <= 160) or not good_title(title, source, 20):
         return None
     if not numbers_ok(summary, source):
         return None
-    return {"title": title, "summary": summary, "why": clean(str(h.get("why", "")))[:80],
+    return {"title": title, "summary": summary, "why": hclean(str(h.get("why", "")))[:80],
             "chips": h.get("chips") if isinstance(h.get("chips"), list) else []}
 
 
@@ -261,7 +267,7 @@ def check(res, title, desc, need_hi=True):
         if label and value and tokens and all(t.replace(",", "") in source for t in tokens):
             chips[label] = value
             h = hi_chips[n] if n < len(hi_chips) and isinstance(hi_chips[n], dict) else {}
-            h_label, h_value = clean(str(h.get("label", "")))[:20], clean(str(h.get("value", "")))[:20]
+            h_label, h_value = hclean(str(h.get("label", "")))[:20], hclean(str(h.get("value", "")))[:20]
             if not (h_value and nums(h_value) and numbers_ok(h_value, source)):
                 h_value = value
             chips_hi[h_label or label] = h_value
@@ -318,7 +324,7 @@ def add_hindi(story):
     chips_hi = {}
     for n, (k, v) in enumerate(story["chips"].items()):
         c = h["chips"][n] if n < len(h["chips"]) and isinstance(h["chips"][n], dict) else {}
-        label, value = clean(str(c.get("label", "")))[:20], clean(str(c.get("value", "")))[:20]
+        label, value = hclean(str(c.get("label", "")))[:20], hclean(str(c.get("value", "")))[:20]
         if not (value and nums(value) and numbers_ok(value, source)):
             value = v
         chips_hi[label or k] = value
@@ -345,6 +351,10 @@ def main():
         old = []
     # keep only stories made by this version (older ones are redone, with titles and Hindi)
     old = [s for s in old if s.get("v") == 2 and "example.com" not in s.get("url", "")]
+    for s in old:  # give Hindi a fresh start once, now that the checks are fairer
+        if s.get("hi_ver") != 2:
+            s["hi_tries"] = 0
+            s["hi_ver"] = 2
     seen = {s["url"] for s in old}
 
     good = sorted((i for i in items if wanted(i)), key=lambda i: i["published"], reverse=True)
@@ -367,7 +377,7 @@ def main():
             time.sleep(PAUSE)
 
     # Hindi for any story that does not have it yet (new ones that failed, or older ones)
-    fix = [x for x in added + old if "title_hi" not in x and x.get("hi_tries", 0) < 2][:MAX_NEW]
+    fix = [x for x in added + old if "title_hi" not in x and x.get("hi_tries", 0) < 2][:12]
     done = 0
     for x in fix:
         print(f"- Hindi for: {x['title'][:60]}")
