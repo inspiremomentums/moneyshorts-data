@@ -2,6 +2,131 @@
   {
     "v": 3,
     "cat": "Industry",
+    "tk": "INDUSTRY",
+    "title": "Why are Indian airlines cutting domestic flights this Diwali?",
+    "summary": "Indian carriers have scheduled 22,306 weekly domestic flights for November, marking a 2.6 percent drop from October. This reduction of 606 flights comes amid soaring ticket prices and softer travel demand, leading to capacity cuts across several major routes during the festive season.",
+    "source": "Business Standard",
+    "published": "2026-11-01T13:05:55+00:00",
+    "ago": "59m",
+    "impact": "Negative",
+    "why": "Flight capacity reduced due to lower demand.",
+    "url": "https://www.business-standard.com/industry/aviation/airlines-schedule-2-6-fewer-domestic-flights-this-diwali-amid-high-fares-126110100525_1.html",
+    "chips": {
+      "Weekly flights": "22,306",
+      "Flight reduction": "606"
+    },
+    "trend": [
+      0.95,
+      0.85,
+      0.7,
+      0.6,
+      0.4,
+      0.3,
+      0.1
+    ],
+    "color": "9B2C2C",
+    "premium": false,
+    "title_hi": "दिवाली पर एयरलाइंस ने घरेलू उड़ानों की संख्या क्यों घटाई?",
+    "summary_hi": "भारतीय एयरलाइंस ने इस नवंबर में 22,306 साप्ताहिक घरेलू उड़ानें तय की हैं, जो अक्टूबर की तुलना में 606 कम हैं। अधिक किराए और कमजोर मांग के कारण प्रमुख मार्गों पर उड़ानों में यह कटौती की गई है।",
+    "why_hi": "कम मांग के कारण उड़ानों में कटौती।",
+    "chips_hi": {
+      "साप्ताहिक उड़ानें": "22,306",
+      "घटाई गई उड़ानें": "606"
+    }
+  },
+  {
+    "v": 3,
+    "cat": "Companies",
+    "tk": "RPG LIFE",
+    "title": "RPG Life Sciences plans a ₹500 crore acquisition within 12 months",
+    "summary": "RPG Life Sciences aims to deploy ₹500 crore for a new acquisition in the next year. The drugmaker targets an annual growth rate of 25 per cent in its active pharmaceutical ingredient business over the coming five years.",
+    "source": "Business Standard",
+    "published": "2026-11-01T12:50:09+00:00",
+    "ago": "1h",
+    "impact": "Positive",
+    "why": "Expansion plans drive future business growth.",
+    "url": "https://www.business-standard.com/companies/people/rpg-life-sciences-eyes-another-acquisition-with-500-crore-capital-pool-126110100615_1.html",
+    "chips": {
+      "Capital pool": "₹500 crore",
+      "Target growth": "25 per cent"
+    },
+    "trend": [
+      0.1,
+      0.25,
+      0.2,
+      0.5,
+      0.45,
+      0.8,
+      0.95
+    ],
+    "color": "0F766E",
+    "premium": false,
+    "title_hi": "RPG Life Sciences 12 महीनों में करेगी ₹500 करोड़ का अधिग्रहण",
+    "summary_hi": "RPG Life Sciences अगले एक साल के भीतर एक और अधिग्रहण के लिए ₹500 करोड़ खर्च करने की योजना बना रही है। कंपनी ने अगले पांच वर्षों में अपने एपीआई बिजनेस में 25 प्रतिशत वार्षिक वृद्धि का लक्ष्य रखा है।",
+    "why_hi": "विस्तार योजनाएं भविष्य के विकास को गति देंगी।",
+    "chips_hi": {
+      "पूंजी": "₹500 करोड़",
+      "लक्ष्यित वृद्धि": "25 प्रतिशत"
+    }
+  },
+  {
+    "v": 3,
+    "cat": "Companies",
+    "tk": "COMPANIES",
+    "title": "Can India's R&D base drive global manufacturing and AI adoption?",
+    "summary": "India possesses strong research and development capabilities that can successfully power advanced manufacturing, artificial intelligence adoption, and automation. According to Rockwell Automation Chief Financial Officer Christian Rothe, this solid R&D foundation also helps micro, small, and medium enterprises enhance their competitiveness across global markets, highlighting the country's growing industrial potential.",
+    "source": "Business Standard",
+    "published": "2026-11-01T11:51:30+00:00",
+    "ago": "2h",
+    "impact": "Positive",
+    "why": "Strong R&D drives advanced manufacturing growth.",
+    "url": "https://www.business-standard.com/companies/news/india-s-r-d-expertise-can-drive-global-manufacturing-rockwell-cfo-rothe-126110100552_1.html",
+    "chips": {},
+    "trend": [
+      0.1,
+      0.25,
+      0.2,
+      0.5,
+      0.45,
+      0.8,
+      0.95
+    ],
+    "color": "0F766E",
+    "premium": true,
+    "title_hi": "क्या भारत की आरएंडडी क्षमता वैश्विक मैन्युफैक्चरिंग को आगे बढ़ा सकती है?",
+    "summary_hi": "भारत की मजबूत अनुसंधान और विकास क्षमता उन्नत मैन्युफैक्चरिंग, आर्टिफिशियल इंटेलिजेंस और ऑटोमेशन को बढ़ावा दे सकती है। रॉकवेल ऑटोमेशन के सीएफओ Christian Rothe के अनुसार, यह मजबूत आधार एमएसएमई को वैश्विक स्तर पर अधिक प्रतिस्पर्धी बनने में भी मदद कर रहा है।",
+    "why_hi": "मजबूत आरएंडडी से मैन्युफैक्चरिंग को बढ़ावा।",
+    "chips_hi": {}
+  },
+  {
+    "v": 3,
+    "cat": "Finance",
+    "tk": "FINANCE",
+    "title": "CII hails GST Council decision to remove arrest powers",
+    "summary": "The industry body described the proposed removal of GST arrest powers, higher prosecution thresholds, and stronger taxpayer safeguards as a major shift towards trust-based governance. These proposed changes by the GST Council are considered a landmark tax reform for the country, focusing on better taxpayer protection.",
+    "source": "Business Standard",
+    "published": "2026-11-01T11:47:23+00:00",
+    "ago": "2h",
+    "impact": "Positive",
+    "why": "Reform brings trust-based governance and taxpayer safeguards",
+    "url": "https://www.business-standard.com/finance/news/cii-hails-gst-council-s-decriminalisation-move-as-landmark-tax-reform-126110100549_1.html",
+    "chips": {},
+    "trend": [
+      0.1,
+      0.25,
+      0.2,
+      0.5,
+      0.45,
+      0.8,
+      0.95
+    ],
+    "color": "0F766E",
+    "premium": false,
+    "hi_tries": 1
+  },
+  {
+    "v": 3,
+    "cat": "Industry",
     "tk": "INDIAN BANK",
     "title": "Indian Bank sets Rs 100 crore EV lending goal",
     "summary": "Indian Bank aims to lend Rs 100 crore in the current fiscal year through its new EV charging infrastructure financing scheme called IND Green Charge. The bank plans to offer loans up to Rs 10 crore for up to 8 years to support green mobility, electric vehicle adoption, and entrepreneurship across various charging station models.",
@@ -34,7 +159,9 @@
       "ऋण लक्ष्य": "₹100 करोड़",
       "ऋण राशि": "₹10 करोड़",
       "ईवी बिक्री वृद्धि": "29.7 प्रतिशत"
-    }
+    },
+    "hi_tries": 0,
+    "hi_ver": 2
   },
   {
     "v": 3,
@@ -71,7 +198,9 @@
       "कुल बिक्री": "82,299 यूनिट्स",
       "घरेलू बिक्री": "62,799 यूनिट्स",
       "निर्यात": "19,500 यूनिट्स"
-    }
+    },
+    "hi_tries": 0,
+    "hi_ver": 2
   },
   {
     "v": 3,
@@ -104,7 +233,9 @@
     "why_hi": "बढ़ता निवेश कारोबार के विस्तार को समर्थन देता है।",
     "chips_hi": {
       "सालाना निवेश": "₹500-600 करोड़"
-    }
+    },
+    "hi_tries": 0,
+    "hi_ver": 2
   },
   {
     "v": 3,
@@ -141,7 +272,9 @@
       "बिक्री वृद्धि": "19%",
       "बेची गई यूनिट": "8,013",
       "महीना": "अक्टूबर 2026"
-    }
+    },
+    "hi_tries": 0,
+    "hi_ver": 2
   },
   {
     "v": 3,
@@ -176,7 +309,9 @@
     "chips_hi": {
       "ATF कीमत": "₹138.50 प्रति लीटर",
       "एलपीजी दर": "₹2,820"
-    }
+    },
+    "hi_tries": 0,
+    "hi_ver": 2
   },
   {
     "v": 3,
@@ -213,7 +348,9 @@
       "क्रूड आयात": "5.6 मिलियन बैरल प्रत",
       "मध्य पूर्वी आपूर्ति": "2.3 मिलियन बैरल प्रत",
       "रूसी क्रूड प्रवाह": "2 मिलियन bpd"
-    }
+    },
+    "hi_tries": 0,
+    "hi_ver": 2
   },
   {
     "v": 3,
@@ -242,7 +379,9 @@
     "title_hi": "ग्लोबल मार्केट में निवेश से क्या फायदे मिलते हैं?",
     "summary_hi": "अंतरराष्ट्रीय शेयरों में निवेश करने से निवेशकों को एक ही जगह पर जोखिम कम करने का मौका मिलता है। इसके अलावा, इससे अलग-अलग वैश्विक क्षेत्रों में उभरते विकास के अवसरों को भी पकड़ा जा सकता है। वित्तीय फैसले लेने से पहले वैश्विक बाजारों में मिलने वाले अवसरों, जोखिमों और टैक्स की बातों को समझना जरूरी है।",
     "why_hi": "ग्लोबल मार्केट में निवेश के अवसरों और जोखिमों पर चर्चा।",
-    "chips_hi": {}
+    "chips_hi": {},
+    "hi_tries": 0,
+    "hi_ver": 2
   },
   {
     "v": 3,
@@ -338,7 +477,7 @@
     ],
     "color": "0F766E",
     "premium": false,
-    "hi_tries": 1,
+    "hi_tries": 2,
     "hi_ver": 2
   },
   {
@@ -689,142 +828,6 @@
     "color": "B7791F",
     "premium": false,
     "hi_tries": 2,
-    "hi_ver": 2
-  },
-  {
-    "v": 2,
-    "cat": "Economy",
-    "tk": "ECONOMY",
-    "title": "Why did the commerce ministry form a new panel for exporters?",
-    "summary": "The commerce ministry has established a six-member committee to improve fund utilization and uptake for the RELIEF initiative. Launched under the Rs 25,060-crore Export Promotion Mission, RELIEF protects exporters from high freight costs, rising insurance premiums, and maritime trade disruptions. The Directorate General of Foreign Trade stated the sub-committee includes officials from multiple departments and will review the implementation and claims of the scheme's three components.",
-    "source": "Business Standard / Press Trust of India",
-    "published": "2026-10-31T10:03:15+00:00",
-    "ago": "3h",
-    "impact": "Positive",
-    "why": "Aims to improve export scheme fund utilization.",
-    "url": "https://www.business-standard.com/economy/news/centre-sets-up-panel-to-improve-uptake-of-relief-scheme-for-exporters-126103100773_1.html",
-    "chips": {
-      "Fund allocation": "Rs 25,060-crore"
-    },
-    "trend": [
-      0.1,
-      0.25,
-      0.2,
-      0.5,
-      0.45,
-      0.8,
-      0.95
-    ],
-    "color": "0F766E",
-    "premium": false,
-    "title_hi": "क्यों बनाई गई है निर्यातकों के लिए नई समिति?",
-    "summary_hi": "वाणिज्य मंत्रालय ने RELIEF पहल के बेहतर उपयोग और फंड के उपयोग को सुधारने के लिए छह सदस्यीय समिति का गठन किया है। यह योजना 25,060 करोड़ रुपये के निर्यात संवर्धन मिशन के तहत शुरू की गई है, जो निर्यातकों को माल ढुलाई लागत, बीमा प्रीमियम और समुद्री व्यापार में बाधाओं से बचाती है। महानिदेशालय ने कहा है कि यह उप-समिति योजना के तीनों घटकों के दावों और क्रियान्वयन की समीक्षा करेगी।",
-    "why_hi": "योजना के फंड का बेहतर उपयोग होगा।",
-    "chips_hi": {
-      "फंड आवंटन": "₹25,060 करोड़"
-    },
-    "hi_tries": 0,
-    "hi_ver": 2
-  },
-  {
-    "v": 2,
-    "cat": "Economy",
-    "tk": "ECONOMY",
-    "title": "Government to meet liquor firms amid bulk Scotch tariff dispute",
-    "summary": "Authorities are set to hold discussions with alcohol companies as a disagreement over tariffs on bulk Scotch threatens a trade agreement with the UK. The ministry did not immediately reply to requests for comments outside regular business hours on Saturday regarding the ongoing situation.",
-    "source": "Business Standard / Reuters",
-    "published": "2026-10-31T09:45:35+00:00",
-    "ago": "16m",
-    "impact": "Neutral",
-    "why": "Trade pact discussions face potential hurdles.",
-    "url": "https://www.business-standard.com/economy/news/govt-to-meet-liquor-firms-as-bulk-scotch-tariff-row-threatens-uk-trade-pact-126103100757_1.html",
-    "chips": {},
-    "trend": [
-      0.5,
-      0.55,
-      0.45,
-      0.5,
-      0.47,
-      0.52,
-      0.5
-    ],
-    "color": "B7791F",
-    "premium": false,
-    "title_hi": "बल्क स्कॉच टैरिफ विवाद के बीच सरकार की शराब कंपनियों से होगी बैठक",
-    "summary_hi": "बल्क स्कॉच पर टैरिफ को लेकर उपजे विवाद के कारण यूके के साथ व्यापार समझौते पर संकट मंडरा रहा है। इसी सिलसिले में अधिकारी अल्कोहल कंपनियों के साथ चर्चा करेंगे। शनिवार को कामकाजी घंटों के बाद इस मामले पर टिप्पणी के अनुरोध का मंत्रालय ने तुरंत जवाब नहीं दिया।",
-    "why_hi": "व्यापार समझौते पर मंडराया संकट।",
-    "chips_hi": {},
-    "hi_tries": 0,
-    "hi_ver": 2
-  },
-  {
-    "v": 2,
-    "cat": "Industry",
-    "tk": "INDUSTRY",
-    "title": "MeitY launches new handbook for secure data sharing in AI training",
-    "summary": "The Ministry of Electronics and Information Technology has introduced a framework called the Data Empowerment and Protection Architecture handbook. Unveiled in Bengaluru by IT Secretary S Krishnan, the tool aims to help institutions collaborate on artificial intelligence training while maintaining ownership of their information. Developed with the iSPIRT Foundation, the techno-legal system uses privacy safeguards and data provenance to track usage and ensure transparency.",
-    "source": "Business Standard / Press Trust of India",
-    "published": "2026-10-31T09:08:08+00:00",
-    "ago": "53m",
-    "impact": "Neutral",
-    "why": "Encourages secure technology adoption without immediate fina",
-    "url": "https://www.business-standard.com/industry/news/meity-launches-depa-handbook-to-enable-secure-data-sharing-for-ai-training-126103100585_1.html",
-    "chips": {},
-    "trend": [
-      0.5,
-      0.55,
-      0.45,
-      0.5,
-      0.47,
-      0.52,
-      0.5
-    ],
-    "color": "B7791F",
-    "premium": false,
-    "title_hi": "MeitY ने AI ट्रेनिंग के लिए सुरक्षित डेटा शेयरिंग हैंडबुक की लॉन्च",
-    "summary_hi": "इलेक्ट्रॉनिक्स और सूचना प्रौद्योगिकी मंत्रालय ने आर्टिफिशियल इंटेलिजेंस ट्रेनिंग के लिए डेटा एम्पावरमेंट एंड प्रोटेक्शन आर्किटेक्चर हैंडबुक पेश की है। बेंगलुरु में आईटी सचिव एस कृष्णन द्वारा जारी यह फ्रेमवर्क संस्थाओं को गोपनीयता बनाए रखते हुए डेटा पर नियंत्रण रखने और सहयोग करने में मदद करेगा। इसे iSPIRT फाउंडेशन के सहयोग से तैयार किया गया है।",
-    "why_hi": "सुरक्षित तकनीक अपनाने को बढ़ावा देता है।",
-    "chips_hi": {},
-    "hi_tries": 0,
-    "hi_ver": 2
-  },
-  {
-    "v": 2,
-    "cat": "Companies",
-    "tk": "COMPANIES",
-    "title": "Indraprastha Gas to supply piped natural gas to 22 Northern Railway sites",
-    "summary": "Indraprastha Gas Ltd has partnered with Northern Railway to provide piped natural gas to 22 establishments across Delhi-NCR. This initiative will initially supply around 3,000 standard cubic metres of gas daily, replacing 500 kg of liquefied petroleum gas and 2,500 litres of diesel. The transition covers railway laundries, kitchens, rest houses, and lobbies in Delhi, Ghaziabad, and Gautam Buddha Nagar, supporting efforts to replace conventional fuels with cleaner energy alternatives.",
-    "source": "Business Standard / Press Trust of India",
-    "published": "2026-10-31T09:06:14+00:00",
-    "ago": "55m",
-    "impact": "Positive",
-    "why": "Expands clean fuel supply and market reach.",
-    "url": "https://www.business-standard.com/companies/news/igl-to-supply-png-to-22-northern-railway-establishments-across-delhi-ncr-126103100502_1.html",
-    "chips": {
-      "Establishments": "22",
-      "Gas supply": "3,000 SCMD",
-      "LPG replaced": "500 kg"
-    },
-    "trend": [
-      0.1,
-      0.25,
-      0.2,
-      0.5,
-      0.45,
-      0.8,
-      0.95
-    ],
-    "color": "0F766E",
-    "premium": false,
-    "title_hi": "Indraprastha Gas Delhi-NCR के 22 रेलवे ठिकानों को देगी PNG",
-    "summary_hi": "Indraprastha Gas Ltd ने दिल्ली-NCR में 22 रेलवे ठिकानों को piped natural gas देने के लिए Northern Railway के साथ समझौता किया है। यह शुरुआत में हर दिन लगभग 3,000 standard cubic metres गैस की आपूर्ति करेगा, जिससे प्रतिदिन 500 kg LPG और 2,500 लीटर डीजल की खपत कम होगी। इस बदलाव में दिल्ली, गाजियाबाद और गौतम बुद्ध नगर की रेलवे लॉन्ड्री, किचन और विश्राम गृह शामिल हैं।",
-    "why_hi": "स्वच्छ ईंधन की आपूर्ति और विस्तार बढ़ा है।",
-    "chips_hi": {
-      "establishments": "22",
-      "Gas supply": "3,000 SCMD",
-      "LPG replaced": "500 kg"
-    },
-    "hi_tries": 0,
     "hi_ver": 2
   }
 ]
