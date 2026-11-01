@@ -1,5 +1,200 @@
 [
   {
+    "v": 3,
+    "cat": "Economy",
+    "tk": "ECONOMY",
+    "title": "Government raises export duty on diesel and aviation fuel",
+    "summary": "The central government has increased the export duty on diesel by 3 rupees to 11 rupees 50 paise per litre, and raised the aviation turbine fuel levy to 11 rupees per litre. Meanwhile, the export duty of 2 rupees 50 paise on petrol has been completely withdrawn.",
+    "source": "Business Standard",
+    "published": "2026-11-01T01:57:23+00:00",
+    "ago": "19m",
+    "impact": "Neutral",
+    "why": "Mixed tax changes on fuel exports.",
+    "url": "https://www.business-standard.com/economy/news/economy-news-govt-hikes-export-duty-diesel-atf-exempts-petrol-exports-126110100049_1.html",
+    "chips": {
+      "Diesel duty rise": "₹3",
+      "Diesel duty total": "₹11.50 per litre",
+      "Petrol duty removed": "₹2.50"
+    },
+    "trend": [
+      0.5,
+      0.55,
+      0.45,
+      0.5,
+      0.47,
+      0.52,
+      0.5
+    ],
+    "color": "B7791F",
+    "premium": false,
+    "title_hi": "सरकार ने डीजल और एयरवेज ईंधन पर निर्यात शुल्क बढ़ाया",
+    "summary_hi": "केंद्र सरकार ने डीजल पर निर्यात शुल्क 3 रुपये बढ़ाकर 11 रुपये 50 पैसे प्रति लीटर कर दिया है, जबकि विमानन ईंधन का लेवी 11 रुपये प्रति लीटर कर दिया गया है। इसके अलावा, पेट्रोल के निर्यात पर लगने वाला 2 रुपये 50 पैसे का शुल्क पूरी तरह से हटा लिया गया है।",
+    "why_hi": "फ्यूल निर्यात पर मिश्रित कर बदलाव।",
+    "chips_hi": {
+      "डीजल शुल्क वृद्धि": "₹3",
+      "कुल डीजल शुल्क": "₹11.50 प्रति लीटर",
+      "हटाया गया पेट्रोल शु": "₹2.50"
+    }
+  },
+  {
+    "v": 3,
+    "cat": "Finance",
+    "tk": "FINANCE",
+    "title": "Why past returns alone are not enough for mutual funds",
+    "summary": "Chasing historical performance is not enough for building long-term wealth through mutual funds. Investors need to align their choices with personal risk tolerance, financial goals, and time horizon. Relying on past returns alone may not ensure success. Proper planning and matching investments with individual needs are essential for steady financial growth over time.",
+    "source": "Business Standard",
+    "published": "2026-11-01T00:30:45+00:00",
+    "ago": "1h",
+    "impact": "Neutral",
+    "why": "General guidance on mutual fund selection.",
+    "url": "https://www.business-standard.com/finance/personal-finance/how-to-choose-mutual-funds-past-return-is-just-one-metric-to-pick-a-mutual-fund-know-what-to-do-126102901073_1.html",
+    "chips": {},
+    "trend": [
+      0.5,
+      0.55,
+      0.45,
+      0.5,
+      0.47,
+      0.52,
+      0.5
+    ],
+    "color": "B7791F",
+    "premium": false,
+    "title_hi": "म्यूचुअल फंड चुनने के लिए पिछला रिटर्न ही क्यों काफी नहीं है",
+    "summary_hi": "लॉन्ग-टर्म वेल्थ बनाने के लिए केवल पिछले प्रदर्शन के पीछे भागना काफी नहीं है। निवेशकों को अपने जोखिम सहने की क्षमता, निवेश लक्ष्यों और समय सीमा के अनुसार म्यूचुअल फंड का मिलान करना चाहिए। केवल पिछले रिटर्न पर भरोसा करना सफलता की गारंटी नहीं है।",
+    "why_hi": "म्यूचुअल फंड चुनने से जुड़ी सामान्य सलाह।",
+    "chips_hi": {}
+  },
+  {
+    "v": 3,
+    "cat": "Industry",
+    "tk": "INDUSTRY",
+    "title": "How do new IBBI real estate rules protect homebuyers?",
+    "summary": "The Insolvency and Bankruptcy Board of India has updated the insolvency rules for real estate developers. These changes aim to accelerate home deliveries, boost the involvement of homebuyers in the process, and bring more transparency to property resolution proceedings.",
+    "source": "Business Standard",
+    "published": "2026-10-31T16:52:07+00:00",
+    "ago": "9h",
+    "impact": "Positive",
+    "why": "Protects buyers and speeds up delivery.",
+    "url": "https://www.business-standard.com/industry/news/ibbi-amends-real-estate-insolvency-rules-to-protect-homebuyers-interests-126103101363_1.html",
+    "chips": {},
+    "trend": [
+      0.1,
+      0.25,
+      0.2,
+      0.5,
+      0.45,
+      0.8,
+      0.95
+    ],
+    "color": "0F766E",
+    "premium": false,
+    "hi_tries": 1
+  },
+  {
+    "v": 3,
+    "cat": "Markets",
+    "tk": "MARKETS",
+    "title": "Sebi bars EKI Energy and top executives over financial misrepresentation",
+    "summary": "Markets regulator Sebi has barred EKI Energy Services, its managing director, and other officials from the securities market. The action follows findings of premature revenue recognition and fund diversion. Penalties totaling Rs 88 lakh have been imposed on the company and individuals. The managing director must also take steps to recoup the diverted amounts.",
+    "source": "Business Standard / Press Trust of India",
+    "published": "2026-10-31T16:47:36+00:00",
+    "ago": "9h",
+    "impact": "Negative",
+    "why": "Regulatory ban and financial violations impact trust.",
+    "url": "https://www.business-standard.com/markets/news/sebi-bars-eki-energy-md-dabkara-others-from-market-imposes-penalty-126103101347_1.html",
+    "chips": {
+      "Penalties": "Rs 88 lakh",
+      "Premature revenue": "Rs 197.04 crore"
+    },
+    "trend": [
+      0.95,
+      0.85,
+      0.7,
+      0.6,
+      0.4,
+      0.3,
+      0.1
+    ],
+    "color": "9B2C2C",
+    "premium": false,
+    "title_hi": "Sebi ने EKI Energy और शीर्ष अधिकारियों को बाजार से प्रतिबंधित किया",
+    "summary_hi": "बाजार नियामक Sebi ने वित्तीय विवरणों में हेरफेर और फंड डायवर्जन के मामले में EKI Energy Services और इसके प्रबंध निदेशक सहित अन्य अधिकारियों पर प्रतिबंध लगा दिया है। कंपनी और अन्य व्यक्तियों पर कुल 88 लाख रुपये का जुर्माना भी लगाया गया है। नियामक ने प्रबंध निदेशक को डायवर्ट की गई राशि वापस लाने का निर्देश दिया है।",
+    "why_hi": "नियामक प्रतिबंध और वित्तीय उल्लंघन भरोसे को प्रभावित करते हैं।",
+    "chips_hi": {
+      "जुर्माना": "₹88 लाख",
+      "समयपूर्व राजस्व": "₹197.04 करोड़"
+    }
+  },
+  {
+    "v": 3,
+    "cat": "Economy",
+    "tk": "ECONOMY",
+    "title": "Government releases extra ₹1.09-trillion tax devolution tranche to states",
+    "summary": "The central government has released an additional tax devolution installment of ₹1.09 trillion to states in October. Normally, the center makes tax devolution payments to states in 14 installments annually. Officials use their own discretion to decide which months will receive a double devolution of these funds.",
+    "source": "Business Standard",
+    "published": "2026-10-31T16:40:27+00:00",
+    "ago": "9h",
+    "impact": "Neutral",
+    "why": "Routine tax devolution funds released to states.",
+    "url": "https://www.business-standard.com/economy/news/govt-releases-extra-1-09-trillion-tax-devolution-tranche-to-states-in-oct-126103101348_1.html",
+    "chips": {
+      "Tax devolution": "₹1.09-trillion",
+      "Annual installments": "14"
+    },
+    "trend": [
+      0.5,
+      0.55,
+      0.45,
+      0.5,
+      0.47,
+      0.52,
+      0.5
+    ],
+    "color": "B7791F",
+    "premium": false,
+    "title_hi": "सरकार ने राज्यों के लिए ₹1.09-लाख करोड़ का अतिरिक्त टैक्स ट्रांसफर जारी किया",
+    "summary_hi": "केंद्र सरकार ने अक्टूबर में राज्यों को ₹1.09-लाख करोड़ की अतिरिक्त टैक्स devolution किस्त जारी की है। आमतौर पर केंद्र साल में 14 किस्तों के रूप में राज्यों को फंड ट्रांसफर करता है और डबल devolution के लिए महीनों का चुनाव अपनी पसंद से करता है।",
+    "why_hi": "नियमित टैक्स ट्रांसफर फंड जारी किया गया।",
+    "chips_hi": {
+      "टैक्स devolution": "₹1.09-लाख करोड़",
+      "वार्षिक किस्तें": "14"
+    }
+  },
+  {
+    "v": 3,
+    "cat": "Economy",
+    "tk": "ECONOMY",
+    "title": "Centre releases addl instalment of tax devolution of ₹1.09 trn to states",
+    "summary": "The central government has released an extra instalment of tax devolution amounting to over Rs 1.09 lakh crore to various state governments. This funding comes ahead of the festive season to help states speed up capital spending and support their development and welfare expenses.",
+    "source": "Business Standard / Press Trust of India",
+    "published": "2026-10-31T16:25:20+00:00",
+    "ago": "9h",
+    "impact": "Positive",
+    "why": "Aids state spending and welfare funds.",
+    "url": "https://www.business-standard.com/economy/news/centre-releases-addl-instalment-of-tax-devolution-of-1-09-trn-to-states-126103101265_1.html",
+    "chips": {
+      "Tax devolution": "Rs 1,09,019 crore"
+    },
+    "trend": [
+      0.1,
+      0.25,
+      0.2,
+      0.5,
+      0.45,
+      0.8,
+      0.95
+    ],
+    "color": "0F766E",
+    "premium": false,
+    "title_hi": "केंद्र ने राज्यों को जारी किए 1.09 लाख करोड़ रुपये से अधिक",
+    "summary_hi": "केंद्र सरकार ने राज्यों के लिए कर हस्तांतरण की अतिरिक्त किस्त के रूप में 1.09 लाख करोड़ रुपये से अधिक जारी किए हैं। त्योहारों के मौसम से पहले यह राशि राज्यों को पूंजीगत खर्च बढ़ाने और विकास कार्यों को गति देने में मदद करेगी।",
+    "why_hi": "राज्यों का खर्च और विकास कार्य बढ़ेंगे",
+    "chips_hi": {
+      "कर हस्तांतरण": "₹1,09,019 करोड़"
+    }
+  },
+  {
     "v": 2,
     "cat": "Earnings",
     "tk": "CDSL",
@@ -27,7 +222,8 @@
     ],
     "color": "0F766E",
     "premium": false,
-    "hi_tries": 1
+    "hi_tries": 1,
+    "hi_ver": 2
   },
   {
     "v": 2,
@@ -60,7 +256,9 @@
     "why_hi": "कपड़ा क्षेत्र की इनपुट लागत कम होगी।",
     "chips_hi": {
       "बढ़ाया गया": "December 31, 2026"
-    }
+    },
+    "hi_tries": 0,
+    "hi_ver": 2
   },
   {
     "v": 2,
@@ -97,7 +295,9 @@
       "शुद्ध मुनाफा": "₹53.05 करोड़",
       "राजस्व": "₹2,265.61 करोड़",
       "कुल खर्च": "₹2,224.99 करोड़"
-    }
+    },
+    "hi_tries": 0,
+    "hi_ver": 2
   },
   {
     "v": 2,
@@ -130,7 +330,9 @@
     "why_hi": "नौकरियों में कटौती से खर्च कम होंगे।",
     "chips_hi": {
       "नौकरियों में कटौती": "4,000"
-    }
+    },
+    "hi_tries": 0,
+    "hi_ver": 2
   },
   {
     "v": 2,
@@ -159,7 +361,9 @@
     "title_hi": "BPCL और Lanxess ने भारत में आधुनिक लुब्रिकेंट तकनीक के लिए मिलाया हाथ",
     "summary_hi": "भारत पेट्रोलियम कॉर्पोरेशन लिमिटेड और LANXESS ने भारत में आधुनिक औद्योगिक लुब्रिकेंट तकनीकों और विशेष फ्लूइड समाधानों के लिए एक समझौते पर हस्ताक्षर किए हैं। इस साझेदारी का उद्देश्य तकनीकी और व्यावसायिक अवसरों का मूल्यांकन करना, स्थानीय विनिर्माण को बढ़ावा देना और बायो-बेस्ड लुब्रिकेंट जैसे टिकाऊ विकल्पों की संभावना तलाशना है।",
     "why_hi": "आधुनिक लुब्रिकेंट तकनीक के लिए नई साझेदारी।",
-    "chips_hi": {}
+    "chips_hi": {},
+    "hi_tries": 0,
+    "hi_ver": 2
   },
   {
     "v": 2,
@@ -196,7 +400,9 @@
       "निवेश": "38 मिलियन डॉलर",
       "रुपये में निवेश": "361 करोड़ रुपये",
       "एंटरप्राइज ग्राहक": "90"
-    }
+    },
+    "hi_tries": 0,
+    "hi_ver": 2
   },
   {
     "v": 2,
@@ -226,7 +432,8 @@
     ],
     "color": "B7791F",
     "premium": false,
-    "hi_tries": 1
+    "hi_tries": 1,
+    "hi_ver": 2
   },
   {
     "v": 2,
@@ -259,7 +466,9 @@
     "why_hi": "योजना के फंड का बेहतर उपयोग होगा।",
     "chips_hi": {
       "फंड आवंटन": "₹25,060 करोड़"
-    }
+    },
+    "hi_tries": 0,
+    "hi_ver": 2
   },
   {
     "v": 2,
@@ -288,7 +497,9 @@
     "title_hi": "बल्क स्कॉच टैरिफ विवाद के बीच सरकार की शराब कंपनियों से होगी बैठक",
     "summary_hi": "बल्क स्कॉच पर टैरिफ को लेकर उपजे विवाद के कारण यूके के साथ व्यापार समझौते पर संकट मंडरा रहा है। इसी सिलसिले में अधिकारी अल्कोहल कंपनियों के साथ चर्चा करेंगे। शनिवार को कामकाजी घंटों के बाद इस मामले पर टिप्पणी के अनुरोध का मंत्रालय ने तुरंत जवाब नहीं दिया।",
     "why_hi": "व्यापार समझौते पर मंडराया संकट।",
-    "chips_hi": {}
+    "chips_hi": {},
+    "hi_tries": 0,
+    "hi_ver": 2
   },
   {
     "v": 2,
@@ -317,7 +528,9 @@
     "title_hi": "MeitY ने AI ट्रेनिंग के लिए सुरक्षित डेटा शेयरिंग हैंडबुक की लॉन्च",
     "summary_hi": "इलेक्ट्रॉनिक्स और सूचना प्रौद्योगिकी मंत्रालय ने आर्टिफिशियल इंटेलिजेंस ट्रेनिंग के लिए डेटा एम्पावरमेंट एंड प्रोटेक्शन आर्किटेक्चर हैंडबुक पेश की है। बेंगलुरु में आईटी सचिव एस कृष्णन द्वारा जारी यह फ्रेमवर्क संस्थाओं को गोपनीयता बनाए रखते हुए डेटा पर नियंत्रण रखने और सहयोग करने में मदद करेगा। इसे iSPIRT फाउंडेशन के सहयोग से तैयार किया गया है।",
     "why_hi": "सुरक्षित तकनीक अपनाने को बढ़ावा देता है।",
-    "chips_hi": {}
+    "chips_hi": {},
+    "hi_tries": 0,
+    "hi_ver": 2
   },
   {
     "v": 2,
@@ -354,7 +567,9 @@
       "establishments": "22",
       "Gas supply": "3,000 SCMD",
       "LPG replaced": "500 kg"
-    }
+    },
+    "hi_tries": 0,
+    "hi_ver": 2
   },
   {
     "v": 2,
@@ -387,7 +602,9 @@
     "why_hi": "बाजार के नियमन और सुगमता पर जोर।",
     "chips_hi": {
       "वार्षिक औसत इश्यू": "₹10 लाख करोड़"
-    }
+    },
+    "hi_tries": 0,
+    "hi_ver": 2
   },
   {
     "v": 2,
@@ -416,7 +633,9 @@
     "title_hi": "stressed real estate प्रोजेक्ट्स को तेज करने के लिए IBBI ने क्या नियम बदले?",
     "summary_hi": "IBBI ने मुश्किल में फंसे रियल एस्टेट प्रोजेक्ट्स के मामलों को तेजी से सुलझाने के लिए नियमों में बदलाव किया है। इन बदलावों में प्रोजेक्ट-वाइज ट्रीटमेंट, बेहतर खुलासे और विस्तृत लागत आंकलन शामिल हैं, जिससे व्यावहारिक बोलियां आकर्षित करने में मदद मिलेगी। नियामक का उद्देश्य घर खरीदारों की भागीदारी मजबूत करना और समाधान प्रक्रिया में पारदर्शिता लाना है, ताकि देरी से जुड़ी समस्याओं से निपटा जा सके।",
     "why_hi": "नियमों से रियल एस्टेट मामलों का समाधान तेज होगा।",
-    "chips_hi": {}
+    "chips_hi": {},
+    "hi_tries": 0,
+    "hi_ver": 2
   },
   {
     "v": 2,
@@ -445,7 +664,9 @@
     "title_hi": "विदेशों में निवेश करने से पहले किन जोखिमों को जानें?",
     "summary_hi": "ग्लोबल बाजारों में निवेश करने वाले खुदरा निवेशकों को मुद्रा उतार-चढ़ाव और टैक्स नियमों के प्रभाव का आकलन करना चाहिए। जानकारों का कहना है कि अंतरराष्ट्रीय स्तर पर पैसा लगाते समय भू-राजनीतिक घटनाओं पर ध्यान देना जरूरी है। इन संभावित जोखिमों को समझना सीमाओं के पार फंड ट्रांसफर करने से पहले सही निर्णय लेने में मदद करता है।",
     "why_hi": "वैश्विक निवेश के सामान्य जोखिमों को बताता है।",
-    "chips_hi": {}
+    "chips_hi": {},
+    "hi_tries": 0,
+    "hi_ver": 2
   },
   {
     "v": 2,
@@ -478,7 +699,9 @@
     "why_hi": "कई कॉर्पोरेट सौदों को नियामक की मंजूरी मिली।",
     "chips_hi": {
       "Vodafone हिस्सेदारी ": "5.1 अरब यूरो"
-    }
+    },
+    "hi_tries": 0,
+    "hi_ver": 2
   },
   {
     "v": 2,
@@ -508,7 +731,8 @@
     ],
     "color": "9B2C2C",
     "premium": false,
-    "hi_tries": 2
+    "hi_tries": 1,
+    "hi_ver": 2
   },
   {
     "v": 2,
@@ -541,7 +765,9 @@
     "why_hi": "बड़ी चोरी से गंभीर सुरक्षा जोखिम सामने आए।",
     "chips_hi": {
       "हैैक राशि": "$6.3 अरब"
-    }
+    },
+    "hi_tries": 0,
+    "hi_ver": 2
   },
   {
     "v": 2,
@@ -567,192 +793,11 @@
     ],
     "color": "B7791F",
     "premium": false,
-    "hi_tries": 1,
+    "hi_tries": 0,
     "title_hi": "UK और India मिलकर हेल्थकेयर सेक्टर में तेजी से कैसे लाएंगे बदलाव?",
     "summary_hi": "UK के एक स्वास्थ्य मंत्री ने कहा है कि ब्रिटेन और भारत को हेल्थकेयर सेक्टर में इनोवेशन को तेजी से अपनाना चाहिए ताकि मरीजों को बड़े पैमाने पर फायदा मिल सके। लंदन में एक कार्यक्रम के दौरान उन्होंने दोनों देशों के बीच रिसर्च और डिजिटल मजबूती को आपस में जोड़ने पर जोर दिया।",
     "why_hi": "दोनों देशों के बीच हेल्थकेयर सहयोग और नई तकनीकों को अपनाने पर जोर।",
-    "chips_hi": {}
-  },
-  {
-    "v": 2,
-    "cat": "Finance",
-    "tk": "FINANCE",
-    "title": "Why does one-size-fits-all risk profiling fail to protect your money?",
-    "summary": "Setting up a plan for three financial goals involves balancing investment, aspiration, and safety. A single approach to risk profiling often fails to work for everyone. Partitioning your portfolio helps protect your money by addressing these different objectives separately. Tailoring strategies to specific targets ensures better financial security and addresses distinct needs without relying on a universal method.",
-    "source": "Business Standard",
-    "published": "2026-10-31T04:30:58+00:00",
-    "ago": "1h",
-    "impact": "Neutral",
-    "why": "General financial planning strategy discussed.",
-    "url": "https://www.business-standard.com/finance/personal-finance/investment-aspiration-safety-setting-up-a-plan-for-3-financial-goals-126102800777_1.html",
-    "chips": {},
-    "trend": [
-      0.5,
-      0.55,
-      0.45,
-      0.5,
-      0.47,
-      0.52,
-      0.5
-    ],
-    "color": "B7791F",
-    "premium": false,
-    "title_hi": "क्यों एक जैसा जोखिम प्रोफाइल हर किसी के पैसे की सुरक्षा नहीं कर पाता?",
-    "summary_hi": "तीन वित्तीय लक्ष्यों के लिए योजना बनाने में निवेश, आकांक्षा और सुरक्षा को संतुलित करना शामिल है। जोखिम प्रोफाइलिंग का एक ही तरीका हर किसी के लिए काम नहीं करता है। अपने पोर्टफोलियो को अलग-अलग हिस्सों में बांटने से आपके पैसे की सुरक्षा होती है।",
-    "why_hi": "सामान्य वित्तीय योजना पर चर्चा।",
-    "chips_hi": {}
-  },
-  {
-    "v": 2,
-    "cat": "Economy",
-    "tk": "ECONOMY",
-    "title": "Why India is heading for record crude oil imports in October",
-    "summary": "India is moving towards record crude oil imports in October as local refiners secure supplies. Lower freight rates compared to September have provided some relief to these refiners. However, shipping costs continue to make up a quarter of the total cargo cost. This remains significantly higher than the level of less than five percent seen before the war began.",
-    "source": "Business Standard",
-    "published": "2026-10-31T04:08:31+00:00",
-    "ago": "1h",
-    "impact": "Neutral",
-    "why": "Higher imports offset by elevated freight costs.",
-    "url": "https://www.business-standard.com/economy/news/india-crude-oil-imports-record-october-russia-west-asia-reliance-ioc-126103100241_1.html",
-    "chips": {},
-    "trend": [
-      0.5,
-      0.55,
-      0.45,
-      0.5,
-      0.47,
-      0.52,
-      0.5
-    ],
-    "color": "B7791F",
-    "premium": true,
-    "title_hi": "अक्टूबर में क्यों रिकॉर्ड कच्चे तेल के आयात की ओर बढ़ रहा है भारत?",
-    "summary_hi": "भारत अक्टूबर में रिकॉर्ड कच्चे तेल के आयात की ओर बढ़ रहा है क्योंकि रिफाइनर ने आपूर्ति सुरक्षित कर ली है। सितंबर की तुलना में माल भाड़ा दरों में गिरावट से भारतीय रिफाइनर को कुछ राहत मिली है। हालांकि, माल भाड़ा अभी भी कुल कार्गो लागत का एक चौथाई हिस्सा बना हुआ है, जो युद्ध से पहले पांच प्रतिशत से भी कम था।",
-    "why_hi": "आयात बढ़ा है लेकिन माल भाड़ा अधिक है।",
-    "chips_hi": {}
-  },
-  {
-    "v": 2,
-    "cat": "Markets",
-    "tk": "BINANCE",
-    "title": "Crypto rattled as US probes massive six billion dollar heist",
-    "summary": "United States agencies are working alongside private sector partners to evaluate a security breach and recover stolen funds following a massive heist. The incident has rattled the cryptocurrency market. Meanwhile, Binance has pledged to cover all losses resulting from the security breach.",
-    "source": "Business Standard / Bloomberg",
-    "published": "2026-10-31T03:57:59+00:00",
-    "ago": "2h",
-    "impact": "Negative",
-    "why": "Security breach and stolen funds rattle market",
-    "url": "https://www.business-standard.com/markets/cryptocurrency/fbi-secret-service-join-probe-as-6-bn-binance-hack-rattles-crypto-markets-126103100226_1.html",
-    "chips": {
-      "Stolen funds": "$6.3 bn"
-    },
-    "trend": [
-      0.95,
-      0.85,
-      0.7,
-      0.6,
-      0.4,
-      0.3,
-      0.1
-    ],
-    "color": "9B2C2C",
-    "premium": false,
-    "title_hi": "छह अरब डॉलर की बड़ी चोरी के बाद क्रिप्टो बाजार हिला",
-    "summary_hi": "अमेरिकी एजेंसियां ​​निजी क्षेत्र के साझेदारों के साथ मिलकर सुरक्षा में सेंध का आकलन करने और चुराए गए फंड को वापस पाने में जुटी हैं। इस घटना ने क्रिप्टो बाजार को हिलाकर रख दिया है। इस बीच, Binance ने सभी नुकसान की भरपाई करने का वादा किया है।",
-    "why_hi": "सुरक्षा में सेंध और चोरी से बाजार हिला",
-    "chips_hi": {
-      "चोरी हुआ फंड": "$6.3 bn"
-    }
-  },
-  {
-    "v": 2,
-    "cat": "Industry",
-    "tk": "YES BANK",
-    "title": "Why is Axis Trustee threatening contempt action against Yes Bank?",
-    "summary": "Axis Trustee has issued a warning regarding potential contempt proceedings involving Yes Bank and its directors. This follows accusations of failing to comply with a Supreme Court decision that cancelled a massive write-off of AT1 bonds. The ongoing dispute highlights tensions surrounding the implementation of the court's ruling on these specific financial instruments.",
-    "source": "Business Standard",
-    "published": "2026-10-31T03:52:33+00:00",
-    "ago": "2h",
-    "impact": "Negative",
-    "why": "Legal threat over non-compliance with court ruling.",
-    "url": "https://www.business-standard.com/industry/banking/axis-trustee-yes-bank-at1-bonds-supreme-court-contempt-126103100223_1.html",
-    "chips": {
-      "AT1 bond write-off": "Rs 8,415 crore"
-    },
-    "trend": [
-      0.95,
-      0.85,
-      0.7,
-      0.6,
-      0.4,
-      0.3,
-      0.1
-    ],
-    "color": "9B2C2C",
-    "premium": false,
-    "title_hi": "Axis Trustee ने Yes Bank के खिलाफ contempt action की चेतावनी क्यों दी?",
-    "summary_hi": "Axis Trustee ने Yes Bank और उसके डायरेक्टर्स को contempt proceedings की चेतावनी दी है। यह चेतावनी AT1 bonds के 8,415 करोड़ रुपये के राइट-ऑफ को रद्द करने वाले सुप्रीम कोर्ट के फैसले का कथित तौर पर पालन न करने पर दी गई है।",
-    "why_hi": "कोर्ट के आदेश का पालन न करने पर कानूनी चेतावनी।",
-    "chips_hi": {
-      "AT1 bond write-off": "₹8,415 करोड़"
-    }
-  },
-  {
-    "v": 2,
-    "cat": "Markets",
-    "tk": "BINANCE",
-    "title": "Binance hack freezes billions and shakes crypto infrastructure",
-    "summary": "A record-breaking theft has impacted cryptocurrency infrastructure as Binance and its partners freeze billions of dollars in assets. The security breach has created significant uncertainty regarding digital asset security. Following the incident, authorities and the platform have pledged to reimburse customers who suffered financial losses due to the massive breach.",
-    "source": "Business Standard / Bloomberg",
-    "published": "2026-10-31T03:40:27+00:00",
-    "ago": "2h",
-    "impact": "Negative",
-    "why": "Security breach and asset freeze.",
-    "url": "https://www.business-standard.com/markets/cryptocurrency/binance-hack-exposes-unsolvable-crypto-risk-billions-can-vanish-overnight-126103100205_1.html",
-    "chips": {},
-    "trend": [
-      0.95,
-      0.85,
-      0.7,
-      0.6,
-      0.4,
-      0.3,
-      0.1
-    ],
-    "color": "9B2C2C",
-    "premium": false,
-    "title_hi": "Binance हैक से अरबों रुपये फ्रीज, क्रिप्टो सुरक्षा पर सवाल",
-    "summary_hi": "एक रिकॉर्ड तोड़ चोरी ने क्रिप्टोकरेंसी के बुनियादी ढांचे को हिला दिया है, जिसमें Binance और उसके साझेदारों ने अरबों डॉलर की संपत्ति को फ्रीज कर दिया है। इस सुरक्षा उल्लंघन ने डिजिटल संपत्ति की सुरक्षा को लेकर अनिश्चितता पैदा कर दी है। घटना के बाद, प्लेटफॉर्म ने नुकसान उठाने वाले ग्राहकों को पैसे वापस करने का वादा किया है।",
-    "why_hi": "सुरक्षा उल्लंघन और संपत्ति फ्रीज होना।",
-    "chips_hi": {}
-  },
-  {
-    "v": 2,
-    "cat": "Finance",
-    "tk": "FINANCE",
-    "title": "How to structure low-risk investments for a house down payment",
-    "summary": "Securing funds for a house deposit requires a blueprint focused on protecting capital and using low-risk investments. This approach helps ensure that money is safely set aside and ready for the closing day, moving the funds smoothly from personal savings to the final property settlement.",
-    "source": "Business Standard",
-    "published": "2026-10-31T02:30:56+00:00",
-    "ago": "3h",
-    "impact": "Neutral",
-    "why": "General guidance on real estate savings.",
-    "url": "https://www.business-standard.com/finance/personal-finance/from-savings-to-settlement-how-to-set-up-funds-for-house-down-payment-126102800584_1.html",
-    "chips": {},
-    "trend": [
-      0.5,
-      0.55,
-      0.45,
-      0.5,
-      0.47,
-      0.52,
-      0.5
-    ],
-    "color": "B7791F",
-    "premium": false,
-    "title_hi": "घर के डाउन पेमेंट के लिए कम जोखिम वाले निवेश कैसे तैयार करें",
-    "summary_hi": "घर के लिए पैसे जुटाने में पूंजी की सुरक्षा पर ध्यान देना और कम जोखिम वाले निवेश करना शामिल है। यह तरीका सुनिश्चित करता है कि पैसे सुरक्षित रहें और डील फाइनल होने के दिन आसानी से मिल जाएं, जिससे बचत से लेकर सेटलमेंट तक का सफर आसान हो जाता है।",
-    "why_hi": "रियल एस्टेट बचत पर सामान्य मार्गदर्शन।",
-    "chips_hi": {}
+    "chips_hi": {},
+    "hi_ver": 2
   }
 ]
