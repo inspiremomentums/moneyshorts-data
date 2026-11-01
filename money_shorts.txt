@@ -1,6 +1,251 @@
 [
   {
     "v": 3,
+    "cat": "Industry",
+    "tk": "INDIAN BANK",
+    "title": "Indian Bank sets Rs 100 crore EV lending goal",
+    "summary": "Indian Bank aims to lend Rs 100 crore in the current fiscal year through its new EV charging infrastructure financing scheme called IND Green Charge. The bank plans to offer loans up to Rs 10 crore for up to 8 years to support green mobility, electric vehicle adoption, and entrepreneurship across various charging station models.",
+    "source": "Business Standard / Press Trust of India",
+    "published": "2026-11-01T05:30:40+00:00",
+    "ago": "35m",
+    "impact": "Positive",
+    "why": "Targeting green mobility lending growth.",
+    "url": "https://www.business-standard.com/industry/news/indian-bank-targets-100-crore-lending-under-ev-charging-scheme-in-fy27-md-126110100154_1.html",
+    "chips": {
+      "Lending target": "Rs 100 crore",
+      "Loan amount up to": "Rs 10 crore",
+      "EV sales growth": "29.7 per cent"
+    },
+    "trend": [
+      0.1,
+      0.25,
+      0.2,
+      0.5,
+      0.45,
+      0.8,
+      0.95
+    ],
+    "color": "0F766E",
+    "premium": false,
+    "title_hi": "Indian Bank का ईवी चार्जिंग के लिए 100 करोड़ का लक्ष्य",
+    "summary_hi": "Indian Bank ने EV चार्जिंग इंफ्रास्ट्रक्चर के लिए अपनी नई योजना IND Green Charge के तहत चालू वित्त वर्ष में 100 करोड़ रुपये का ऋण देने का लक्ष्य रखा है। बैंक हरित गतिशीलता और एमएसएमई को बढ़ावा देने के लिए 8 साल की अवधि के लिए 10 करोड़ रुपये तक का ऋण दे रहा है।",
+    "why_hi": "हरित ऋण लक्ष्य में वृद्धि",
+    "chips_hi": {
+      "ऋण लक्ष्य": "₹100 करोड़",
+      "ऋण राशि": "₹10 करोड़",
+      "ईवी बिक्री वृद्धि": "29.7 प्रतिशत"
+    }
+  },
+  {
+    "v": 3,
+    "cat": "Industry",
+    "tk": "INDUSTRY",
+    "title": "How did Hyundai Motor India achieve record sales in October?",
+    "summary": "Hyundai Motor India reported its highest-ever total monthly sales of 82,299 units in October, marking a 17.7 per cent year-on-year increase. The growth was supported by record domestic sales of 62,799 units and a 21.1 per cent rise in exports to 19,500 units. The automaker noted that strong festive demand drove this performance.",
+    "source": "Business Standard / Press Trust of India",
+    "published": "2026-11-01T05:28:50+00:00",
+    "ago": "37m",
+    "impact": "Positive",
+    "why": "Higher sales and strong festive demand.",
+    "url": "https://www.business-standard.com/industry/auto/hyundai-motor-india-sales-hit-record-82-299-units-in-october-up-17-7-126110100151_1.html",
+    "chips": {
+      "Total sales": "82,299 units",
+      "Domestic sales": "62,799 units",
+      "Exports": "19,500 units"
+    },
+    "trend": [
+      0.1,
+      0.25,
+      0.2,
+      0.5,
+      0.45,
+      0.8,
+      0.95
+    ],
+    "color": "0F766E",
+    "premium": false,
+    "title_hi": "October में Hyundai Motor India की बिक्री ने कैसे बनाया रिकॉर्ड?",
+    "summary_hi": "Hyundai Motor India Limited ने October में 82,299 यूनिट्स की अपनी सबसे अधिक कुल मासिक बिक्री दर्ज की है, जो सालाना आधार पर 17.7 प्रतिशत अधिक है। इस बढ़ोतरी में 62,799 यूनिट्स की घरेलू बिक्री और 21.1 प्रतिशत बढ़कर 19,500 यूनिट्स हुए निर्यात का अहम योगदान रहा। कंपनी के अनुसार मजबूत फेस्टिव डिमांड से यह रिकॉर्ड बना।",
+    "why_hi": "बिक्री और फेस्टिव डिमांड में वृद्धि।",
+    "chips_hi": {
+      "कुल बिक्री": "82,299 यूनिट्स",
+      "घरेलू बिक्री": "62,799 यूनिट्स",
+      "निर्यात": "19,500 यूनिट्स"
+    }
+  },
+  {
+    "v": 3,
+    "cat": "Companies",
+    "tk": "SONA COMSTAR",
+    "title": "Sona Comstar expects annual investments to rise with business growth",
+    "summary": "Auto component maker Sona BLW Precision Forgings anticipates its current annual investments of Rs 500 to 600 crore will increase as operations scale up over the decade. The company plans to focus on research and development, capacity expansion, and new product development across its three business lines.",
+    "source": "Business Standard / Press Trust of India",
+    "published": "2026-11-01T05:24:49+00:00",
+    "ago": "42m",
+    "impact": "Positive",
+    "why": "Growing investments support business expansion.",
+    "url": "https://www.business-standard.com/companies/news/sona-comstar-expects-annual-investments-to-rise-as-business-grows-md-126110100123_1.html",
+    "chips": {
+      "Annual investments": "Rs 500-600 crore"
+    },
+    "trend": [
+      0.1,
+      0.25,
+      0.2,
+      0.5,
+      0.45,
+      0.8,
+      0.95
+    ],
+    "color": "0F766E",
+    "premium": false,
+    "title_hi": "Sona Comstar का कारोबार बढ़ने के साथ निवेश बढ़ने का अनुमान",
+    "summary_hi": "ऑटो कंपोनेंट निर्माता Sona BLW Precision Forgings का कहना है कि कारोबार बढ़ने के साथ उसका सालाना निवेश आने वाले दशक में वर्तमान 500 से 600 करोड़ रुपये से बढ़ जाएगा। कंपनी का ध्यान अनुसंधान और विकास, क्षमता विस्तार और नए उत्पादों पर रहेगा।",
+    "why_hi": "बढ़ता निवेश कारोबार के विस्तार को समर्थन देता है।",
+    "chips_hi": {
+      "सालाना निवेश": "₹500-600 करोड़"
+    }
+  },
+  {
+    "v": 3,
+    "cat": "Industry",
+    "tk": "JSW MG MOTOR",
+    "title": "How JSW MG Motor India achieved 8,013 units in October sales",
+    "summary": "JSW MG Motor India reported a 19 percent growth in wholesale dispatches to dealers, reaching 8,013 units in October 2026. The automaker stated that customer deliveries are gaining momentum across India due to strong demand for the MG Hector Tomahawk EV and Windsor Indulge Edition. The company operates as a joint venture between JSW Group and SAIC Motor.",
+    "source": "Business Standard / Press Trust of India",
+    "published": "2026-11-01T05:21:17+00:00",
+    "ago": "45m",
+    "impact": "Positive",
+    "why": "Higher wholesale dispatches indicate strong market demand.",
+    "url": "https://www.business-standard.com/industry/auto/jsw-mg-motor-india-sales-rise-19-to-8-013-units-in-oct-on-strong-demand-126110100127_1.html",
+    "chips": {
+      "Sales growth": "19%",
+      "Units sold": "8,013",
+      "Month": "October 2026"
+    },
+    "trend": [
+      0.1,
+      0.25,
+      0.2,
+      0.5,
+      0.45,
+      0.8,
+      0.95
+    ],
+    "color": "0F766E",
+    "premium": false,
+    "title_hi": "October में JSW MG Motor India की बिक्री कैसे बढ़ी?",
+    "summary_hi": "JSW MG Motor India ने बताया कि अक्टूबर 2026 में डीलरों को भेजे जाने वाले थोक शिपमेंट में 19 प्रतिशत की सालाना वृद्धि हुई है, जो बढ़कर 8,013 यूनिट पर पहुंच गए। कंपनी के अनुसार, MG Hector Tomahawk EV और Windsor Indulge Edition को मिल रही मजबूत प्रतिक्रिया के कारण पूरे भारत में ग्राहकों को डिलीवरी तेजी से हो रही है।",
+    "why_hi": "बिक्री बढ़ने से कंपनी का कारोबार मजबूत हुआ है।",
+    "chips_hi": {
+      "बिक्री वृद्धि": "19%",
+      "बेची गई यूनिट": "8,013",
+      "महीना": "अक्टूबर 2026"
+    }
+  },
+  {
+    "v": 3,
+    "cat": "Economy",
+    "tk": "ECONOMY",
+    "title": "Jet fuel and commercial LPG prices rise again",
+    "summary": "Aviation turbine fuel prices increased by Rs 1.37 per litre, marking the fourth consecutive monthly hike driven by global benchmarks. Meanwhile, commercial LPG rates went up by Rs 10 per 19-kg cylinder. These increases raise operating expenses for airlines and hospitality businesses.",
+    "source": "Business Standard / Press Trust of India",
+    "published": "2026-11-01T04:57:55+00:00",
+    "ago": "1h",
+    "impact": "Negative",
+    "why": "Higher fuel costs increase airline and business expenses.",
+    "url": "https://www.business-standard.com/economy/news/commercial-lpg-rates-increase-by-10-atf-prices-up-by-1-37-per-litre-126110100124_1.html",
+    "chips": {
+      "ATF price": "Rs 138.50 per litre",
+      "LPG rate": "Rs 2,820"
+    },
+    "trend": [
+      0.95,
+      0.85,
+      0.7,
+      0.6,
+      0.4,
+      0.3,
+      0.1
+    ],
+    "color": "9B2C2C",
+    "premium": false,
+    "title_hi": "Jet fuel और commercial LPG के दाम फिर बढ़े",
+    "summary_hi": "वैश्विक संकेतों के चलते एटीएफ यानी जेट ईंधन की कीमत 1.37 रुपये प्रति लीटर बढ़ गई है, जो लगातार चौथी मासिक बढ़ोतरी है। इसके अलावा, कमर्शियल एलपीजी के दाम 19 किलो के सिलेंडर पर 10 रुपये बढ़ गए हैं। इन वृद्धियों से एयरलाइंस और हॉस्पिटैलिटी सेक्टर का खर्च बढ़ जाएगा।",
+    "why_hi": "ईंधन महंगा होने से कंपनियों का खर्च बढ़ा।",
+    "chips_hi": {
+      "ATF कीमत": "₹138.50 प्रति लीटर",
+      "एलपीजी दर": "₹2,820"
+    }
+  },
+  {
+    "v": 3,
+    "cat": "Economy",
+    "tk": "ECONOMY",
+    "title": "India's oil imports hit record 5.6 million barrels per day in October",
+    "summary": "India imported a record 5.6 million barrels per day of crude oil in October, driven by strong refinery operations and flexible sourcing from Russia and the Middle East. While Middle Eastern supplies reached 2.3 million barrels per day, Russian flows stayed strong at 2 million. Increased ship-to-ship transfers also supported the recovery in Gulf supplies during this period.",
+    "source": "Business Standard / Press Trust of India",
+    "published": "2026-11-01T04:50:48+00:00",
+    "ago": "1h",
+    "impact": "Positive",
+    "why": "Higher crude imports reflect strong refinery activity.",
+    "url": "https://www.business-standard.com/economy/news/record-oil-imports-reflect-strong-refinery-runs-flexible-russian-buying-126110100118_1.html",
+    "chips": {
+      "Crude imports": "5.6 million barrels ",
+      "Middle Eastern suppl": "2.3 million barrels ",
+      "Russian crude flows": "2 million bpd"
+    },
+    "trend": [
+      0.1,
+      0.25,
+      0.2,
+      0.5,
+      0.45,
+      0.8,
+      0.95
+    ],
+    "color": "0F766E",
+    "premium": false,
+    "title_hi": "अक्टूबर में भारत का क्रूड ऑयल आयात रिकॉर्ड 5.6 मिलियन बैरल प्रतिदिन पर पहुँचा",
+    "summary_hi": "रिफाइनरी के मजबूत कामकाज और रूस तथा मध्य पूर्व से लचीली खरीद के कारण अक्टूबर में भारत का क्रूड ऑयल आयात रिकॉर्ड 5.6 मिलियन बैरल प्रतिदिन हो गया। मध्य पूर्व से आपूर्ति लगभग 2.3 मिलियन बैरल प्रतिदिन रही, जबकि रूसी प्रवाह 2 मिलियन बैरल प्रतिदिन पर मजबूत बना रहा।",
+    "why_hi": "बेहतर क्रूड आयात से रिफाइनरी गतिविधियों में तेजी दिखी।",
+    "chips_hi": {
+      "क्रूड आयात": "5.6 मिलियन बैरल प्रत",
+      "मध्य पूर्वी आपूर्ति": "2.3 मिलियन बैरल प्रत",
+      "रूसी क्रूड प्रवाह": "2 मिलियन bpd"
+    }
+  },
+  {
+    "v": 3,
+    "cat": "Finance",
+    "tk": "FINANCE",
+    "title": "Why invest in global markets for portfolio balance?",
+    "summary": "Investing in international equities gives market participants a way to hedge against concentration risk. This approach also allows them to capture various emerging growth themes across different global regions. Understanding international markets involves looking at opportunities, risks, and taxation details before making financial choices.",
+    "source": "Business Standard",
+    "published": "2026-11-01T04:30:36+00:00",
+    "ago": "1h",
+    "impact": "Neutral",
+    "why": "Explores global market investment opportunities and risks.",
+    "url": "https://www.business-standard.com/finance/personal-finance/opportunities-risks-taxes-what-to-know-about-investing-in-world-markets-126102901203_1.html",
+    "chips": {},
+    "trend": [
+      0.5,
+      0.55,
+      0.45,
+      0.5,
+      0.47,
+      0.52,
+      0.5
+    ],
+    "color": "B7791F",
+    "premium": false,
+    "title_hi": "ग्लोबल मार्केट में निवेश से क्या फायदे मिलते हैं?",
+    "summary_hi": "अंतरराष्ट्रीय शेयरों में निवेश करने से निवेशकों को एक ही जगह पर जोखिम कम करने का मौका मिलता है। इसके अलावा, इससे अलग-अलग वैश्विक क्षेत्रों में उभरते विकास के अवसरों को भी पकड़ा जा सकता है। वित्तीय फैसले लेने से पहले वैश्विक बाजारों में मिलने वाले अवसरों, जोखिमों और टैक्स की बातों को समझना जरूरी है।",
+    "why_hi": "ग्लोबल मार्केट में निवेश के अवसरों और जोखिमों पर चर्चा।",
+    "chips_hi": {}
+  },
+  {
+    "v": 3,
     "cat": "Economy",
     "tk": "ECONOMY",
     "title": "Government raises export duty on diesel and aviation fuel",
@@ -34,7 +279,9 @@
       "डीजल शुल्क वृद्धि": "₹3",
       "कुल डीजल शुल्क": "₹11.50 प्रति लीटर",
       "हटाया गया पेट्रोल शु": "₹2.50"
-    }
+    },
+    "hi_tries": 0,
+    "hi_ver": 2
   },
   {
     "v": 3,
@@ -63,7 +310,9 @@
     "title_hi": "म्यूचुअल फंड चुनने के लिए पिछला रिटर्न ही क्यों काफी नहीं है",
     "summary_hi": "लॉन्ग-टर्म वेल्थ बनाने के लिए केवल पिछले प्रदर्शन के पीछे भागना काफी नहीं है। निवेशकों को अपने जोखिम सहने की क्षमता, निवेश लक्ष्यों और समय सीमा के अनुसार म्यूचुअल फंड का मिलान करना चाहिए। केवल पिछले रिटर्न पर भरोसा करना सफलता की गारंटी नहीं है।",
     "why_hi": "म्यूचुअल फंड चुनने से जुड़ी सामान्य सलाह।",
-    "chips_hi": {}
+    "chips_hi": {},
+    "hi_tries": 0,
+    "hi_ver": 2
   },
   {
     "v": 3,
@@ -89,7 +338,8 @@
     ],
     "color": "0F766E",
     "premium": false,
-    "hi_tries": 1
+    "hi_tries": 1,
+    "hi_ver": 2
   },
   {
     "v": 3,
@@ -124,7 +374,9 @@
     "chips_hi": {
       "जुर्माना": "₹88 लाख",
       "समयपूर्व राजस्व": "₹197.04 करोड़"
-    }
+    },
+    "hi_tries": 0,
+    "hi_ver": 2
   },
   {
     "v": 3,
@@ -159,7 +411,9 @@
     "chips_hi": {
       "टैक्स devolution": "₹1.09-लाख करोड़",
       "वार्षिक किस्तें": "14"
-    }
+    },
+    "hi_tries": 0,
+    "hi_ver": 2
   },
   {
     "v": 3,
@@ -192,7 +446,9 @@
     "why_hi": "राज्यों का खर्च और विकास कार्य बढ़ेंगे",
     "chips_hi": {
       "कर हस्तांतरण": "₹1,09,019 करोड़"
-    }
+    },
+    "hi_tries": 0,
+    "hi_ver": 2
   },
   {
     "v": 2,
@@ -222,7 +478,7 @@
     ],
     "color": "0F766E",
     "premium": false,
-    "hi_tries": 1,
+    "hi_tries": 2,
     "hi_ver": 2
   },
   {
@@ -432,7 +688,7 @@
     ],
     "color": "B7791F",
     "premium": false,
-    "hi_tries": 1,
+    "hi_tries": 2,
     "hi_ver": 2
   },
   {
@@ -569,235 +825,6 @@
       "LPG replaced": "500 kg"
     },
     "hi_tries": 0,
-    "hi_ver": 2
-  },
-  {
-    "v": 2,
-    "cat": "Markets",
-    "tk": "MARKETS",
-    "title": "How is Sebi working to make capital markets more resilient?",
-    "summary": "SEBI Chairman Tuhin Kanta Pandey stated that the regulator is focused on making capital markets more accessible, efficient, and resilient. Speaking at the Bharat Chamber of Commerce Investors Forum, he highlighted that market capitalization has grown significantly over the past decade. Companies are raising over Rs 10 lakh crore annually on average through equity and debt issuances.",
-    "source": "Business Standard / Press Trust of India",
-    "published": "2026-10-31T08:55:06+00:00",
-    "ago": "1h",
-    "impact": "Neutral",
-    "why": "Focuses on market regulation and accessibility.",
-    "url": "https://www.business-standard.com/markets/news/sebi-aims-to-make-capital-markets-more-accessible-resilient-chairman-126103100530_1.html",
-    "chips": {
-      "Average annual issua": "Rs 10 lakh crore"
-    },
-    "trend": [
-      0.5,
-      0.55,
-      0.45,
-      0.5,
-      0.47,
-      0.52,
-      0.5
-    ],
-    "color": "B7791F",
-    "premium": false,
-    "title_hi": "Sebi capital markets को अधिक सुलभ और resilient कैसे बना रहा है?",
-    "summary_hi": "SEBI चेयरमैन Tuhin Kanta Pandey ने कहा कि नियामक देश के capital markets को अधिक सुलभ, कुशल और resilient बनाने के लिए काम कर रहा है। Bharat Chamber of Commerce Investors Forum में बोलते हुए उन्होंने बताया कि पिछले एक दशक में market capitalization तेजी से बढ़ा है। कंपनियां equity और debt issuances के जरिए औसतन सालाना 10 लाख करोड़ रुपये से अधिक जुटा रही हैं। इसका मुख्य उद्देश्य capital formation को बढ़ावा देना और investor protection को मजबूत करना है।",
-    "why_hi": "बाजार के नियमन और सुगमता पर जोर।",
-    "chips_hi": {
-      "वार्षिक औसत इश्यू": "₹10 लाख करोड़"
-    },
-    "hi_tries": 0,
-    "hi_ver": 2
-  },
-  {
-    "v": 2,
-    "cat": "Industry",
-    "tk": "INDUSTRY",
-    "title": "How new IBBI rules aim to speed up stressed real estate cases",
-    "summary": "The Insolvency and Bankruptcy Board of India has updated its regulations to quicken the resolution of troubled real estate projects. These changes introduce project-wise handling, better disclosures, and clearer cost assessments to draw practical bids. The updates also focus on boosting homebuyer participation and protecting stakeholders' interests. By addressing ongoing delays and challenges, the regulator seeks to bring greater transparency and accountability to corporate insolvency proceedings.",
-    "source": "Business Standard / Press Trust of India",
-    "published": "2026-10-31T08:53:41+00:00",
-    "ago": "1h",
-    "impact": "Positive",
-    "why": "Rules speed up real estate project resolution.",
-    "url": "https://www.business-standard.com/industry/news/ibbi-amends-rules-to-speed-up-resolution-of-stressed-real-estate-projects-126103100539_1.html",
-    "chips": {},
-    "trend": [
-      0.1,
-      0.25,
-      0.2,
-      0.5,
-      0.45,
-      0.8,
-      0.95
-    ],
-    "color": "0F766E",
-    "premium": false,
-    "title_hi": "stressed real estate प्रोजेक्ट्स को तेज करने के लिए IBBI ने क्या नियम बदले?",
-    "summary_hi": "IBBI ने मुश्किल में फंसे रियल एस्टेट प्रोजेक्ट्स के मामलों को तेजी से सुलझाने के लिए नियमों में बदलाव किया है। इन बदलावों में प्रोजेक्ट-वाइज ट्रीटमेंट, बेहतर खुलासे और विस्तृत लागत आंकलन शामिल हैं, जिससे व्यावहारिक बोलियां आकर्षित करने में मदद मिलेगी। नियामक का उद्देश्य घर खरीदारों की भागीदारी मजबूत करना और समाधान प्रक्रिया में पारदर्शिता लाना है, ताकि देरी से जुड़ी समस्याओं से निपटा जा सके।",
-    "why_hi": "नियमों से रियल एस्टेट मामलों का समाधान तेज होगा।",
-    "chips_hi": {},
-    "hi_tries": 0,
-    "hi_ver": 2
-  },
-  {
-    "v": 2,
-    "cat": "Finance",
-    "tk": "FINANCE",
-    "title": "What currency and tax risks await investors looking abroad?",
-    "summary": "Retail investors exploring global markets must evaluate how currency fluctuations and tax rules could affect their portfolio. Experts suggest that geopolitical events are important factors to consider when diversifying investments internationally. Understanding these potential risks helps individuals make informed decisions before moving funds across borders.",
-    "source": "Business Standard",
-    "published": "2026-10-31T08:30:57+00:00",
-    "ago": "1h",
-    "impact": "Neutral",
-    "why": "Highlights standard risks of global investing.",
-    "url": "https://www.business-standard.com/finance/personal-finance/overseas-investing-risks-currency-movements-taxation-risks-to-know-before-investing-abroad-126102901000_1.html",
-    "chips": {},
-    "trend": [
-      0.5,
-      0.55,
-      0.45,
-      0.5,
-      0.47,
-      0.52,
-      0.5
-    ],
-    "color": "B7791F",
-    "premium": false,
-    "title_hi": "विदेशों में निवेश करने से पहले किन जोखिमों को जानें?",
-    "summary_hi": "ग्लोबल बाजारों में निवेश करने वाले खुदरा निवेशकों को मुद्रा उतार-चढ़ाव और टैक्स नियमों के प्रभाव का आकलन करना चाहिए। जानकारों का कहना है कि अंतरराष्ट्रीय स्तर पर पैसा लगाते समय भू-राजनीतिक घटनाओं पर ध्यान देना जरूरी है। इन संभावित जोखिमों को समझना सीमाओं के पार फंड ट्रांसफर करने से पहले सही निर्णय लेने में मदद करता है।",
-    "why_hi": "वैश्विक निवेश के सामान्य जोखिमों को बताता है।",
-    "chips_hi": {},
-    "hi_tries": 0,
-    "hi_ver": 2
-  },
-  {
-    "v": 2,
-    "cat": "Companies",
-    "tk": "VODAFONE",
-    "title": "Competition watchdog clears Xavier Niel's 5.1 billion euro Vodafone stake buy",
-    "summary": "The antitrust regulator has granted approval for Xavier Niel to acquire a stake in Vodafone valued at 5.1 billion euro. Along with this transaction, the competition authority also cleared three other corporate deals. These newly approved transactions involve Prosus-backed Navi, Aditya Birla Renewables taking over Solenergi Power, and Adani Energy Solutions buying IntelliSmart Infrastructure.",
-    "source": "Business Standard",
-    "published": "2026-10-31T08:13:24+00:00",
-    "ago": "1h",
-    "impact": "Neutral",
-    "why": "Regulatory approvals granted for multiple corporate deals.",
-    "url": "https://www.business-standard.com/companies/news/cci-xavier-niel-vodafone-stake-prosus-navi-aditya-birla-adani-deals-126103100598_1.html",
-    "chips": {
-      "Vodafone stake value": "5.1 bn euro"
-    },
-    "trend": [
-      0.5,
-      0.55,
-      0.45,
-      0.5,
-      0.47,
-      0.52,
-      0.5
-    ],
-    "color": "B7791F",
-    "premium": false,
-    "title_hi": "CCI ने Xavier Niel के 5.1 अरब यूरो के Vodafone सौदे को दी मंजूरी",
-    "summary_hi": "नियामक ने Xavier Niel द्वारा Vodafone में 5.1 अरब यूरो के हिस्सेदारी अधिग्रहण को हरी झंडी दे दी है। इसके अलावा, तीन अन्य सौदों को भी मंजूरी मिली है। इनमें Prosus समर्थित Navi, Aditya Birla Renewables द्वारा Solenergi Power का अधिग्रहण, और Adani Energy Solutions द्वारा IntelliSmart Infrastructure की खरीद शामिल हैं।",
-    "why_hi": "कई कॉर्पोरेट सौदों को नियामक की मंजूरी मिली।",
-    "chips_hi": {
-      "Vodafone हिस्सेदारी ": "5.1 अरब यूरो"
-    },
-    "hi_tries": 0,
-    "hi_ver": 2
-  },
-  {
-    "v": 2,
-    "cat": "Earnings",
-    "tk": "COMPANIES",
-    "title": "How did higher gas costs slash IGL net profit by 93.5%?",
-    "summary": "Indraprastha Gas Ltd reported a steep decline in standalone net profit to Rs 24.38 crore for the September quarter due to surging input gas costs that eroded margins. Despite this profit drop, the company saw an 8 per cent growth in sales volumes and a 26 per cent jump in gross turnover. Average daily gas sales crossed 10 million standard cubic metres per day for the first time, driven by higher CNG and piped natural gas sales.",
-    "source": "Business Standard / Press Trust of India",
-    "published": "2026-10-31T07:08:51+00:00",
-    "ago": "2h",
-    "impact": "Negative",
-    "why": "Input costs sharply reduced quarterly net profit.",
-    "url": "https://www.business-standard.com/companies/quarterly-results/igl-q2-result-net-profit-plunges-93-5-to-24-crore-on-higher-gas-costs-126103100481_1.html",
-    "chips": {
-      "Net profit": "Rs 24.38 crore",
-      "Sales volume": "10.06 mmscmd",
-      "Gross turnover": "Rs 5,999.13 crore"
-    },
-    "trend": [
-      0.95,
-      0.85,
-      0.7,
-      0.6,
-      0.4,
-      0.3,
-      0.1
-    ],
-    "color": "9B2C2C",
-    "premium": false,
-    "hi_tries": 1,
-    "hi_ver": 2
-  },
-  {
-    "v": 2,
-    "cat": "Markets",
-    "tk": "BINANCE",
-    "title": "Binance faces $6.3 billion cyber heist in digital asset security breach",
-    "summary": "The digital currency sector faces heightened security concerns following a massive cyber heist. Attackers leveraged artificial intelligence and advanced methods to steal funds and launder them rapidly. This incident marks the largest digital currency theft in history, raising questions about asset safety in the evolving technological landscape.",
-    "source": "Business Standard / NYT",
-    "published": "2026-10-31T05:39:12+00:00",
-    "ago": "22m",
-    "impact": "Negative",
-    "why": "Massive theft highlights severe security risks.",
-    "url": "https://www.business-standard.com/markets/cryptocurrency/binance-s-6-3-bn-hack-signals-the-start-of-a-risky-era-for-crypto-security-126103100424_1.html",
-    "chips": {
-      "Hack amount": "$6.3 bn"
-    },
-    "trend": [
-      0.95,
-      0.85,
-      0.7,
-      0.6,
-      0.4,
-      0.3,
-      0.1
-    ],
-    "color": "9B2C2C",
-    "premium": false,
-    "title_hi": "Binance पर हुआ 6.3 अरब डॉलर का बड़ा साइबर हमला",
-    "summary_hi": "डिजिटल करेंसी सेक्टर में सुरक्षा को लेकर चिंताएं बढ़ गई हैं। हमलावरों ने फंड चुराने और तेजी से ठिकाने लगाने के लिए आर्टिफिशियल इंटेलिजेंस और उन्नत तरीकों का इस्तेमाल किया। इतिहास की यह सबसे बड़ी चोरी डिजिटल संपत्तियों की सुरक्षा पर बड़े सवाल खड़े करती है।",
-    "why_hi": "बड़ी चोरी से गंभीर सुरक्षा जोखिम सामने आए।",
-    "chips_hi": {
-      "हैैक राशि": "$6.3 अरब"
-    },
-    "hi_tries": 0,
-    "hi_ver": 2
-  },
-  {
-    "v": 2,
-    "cat": "Economy",
-    "tk": "ECONOMY",
-    "title": "UK minister urges faster healthcare innovation and adoption between India and Britain",
-    "summary": "A UK health minister stated that Britain and India need to move past healthcare breakthroughs so innovations help patients at scale. Speaking at the Westminster Diwali gathering in London, the official highlighted progress over 100 days since the bilateral Comprehensive Economic and Trade Agreement started in mid-July. The minister noted that bridging the gap between scientific discovery and real-world adoption remains a major challenge. India offers digital innovation strengths, while Britain provides world-leading research.",
-    "source": "Business Standard / Press Trust of India",
-    "published": "2026-10-31T04:35:15+00:00",
-    "ago": "1h",
-    "impact": "Neutral",
-    "why": "Bilateral healthcare collaboration and innovation focus.",
-    "url": "https://www.business-standard.com/economy/news/uk-minister-calls-for-speedier-india-uk-healthcare-innovation-adoption-126103100159_1.html",
-    "chips": {},
-    "trend": [
-      0.5,
-      0.55,
-      0.45,
-      0.5,
-      0.47,
-      0.52,
-      0.5
-    ],
-    "color": "B7791F",
-    "premium": false,
-    "hi_tries": 0,
-    "title_hi": "UK और India मिलकर हेल्थकेयर सेक्टर में तेजी से कैसे लाएंगे बदलाव?",
-    "summary_hi": "UK के एक स्वास्थ्य मंत्री ने कहा है कि ब्रिटेन और भारत को हेल्थकेयर सेक्टर में इनोवेशन को तेजी से अपनाना चाहिए ताकि मरीजों को बड़े पैमाने पर फायदा मिल सके। लंदन में एक कार्यक्रम के दौरान उन्होंने दोनों देशों के बीच रिसर्च और डिजिटल मजबूती को आपस में जोड़ने पर जोर दिया।",
-    "why_hi": "दोनों देशों के बीच हेल्थकेयर सहयोग और नई तकनीकों को अपनाने पर जोर।",
-    "chips_hi": {},
     "hi_ver": 2
   }
 ]
