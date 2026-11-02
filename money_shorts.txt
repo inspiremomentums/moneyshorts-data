@@ -1,6 +1,199 @@
 [
   {
     "v": 3,
+    "cat": "Markets",
+    "tk": "MARKETS",
+    "title": "Asian shares drop as artificial intelligence spending worries grow",
+    "summary": "Asian stock markets declined as concerns over negative cash flow and massive artificial intelligence capital expenditures intensified. These worries caused the cost of insuring against corporate defaults to rise significantly over the past week, keeping investors cautious ahead of upcoming technology company earnings reports.",
+    "source": "Business Standard / Reuters",
+    "published": "2026-11-02T02:03:13+00:00",
+    "ago": "16m",
+    "impact": "Negative",
+    "why": "AI spending worries drove down Asian shares.",
+    "url": "https://www.business-standard.com/markets/news/asian-shares-slide-as-ai-spending-worries-mount-ahead-of-tech-earnings-126110200042_1.html",
+    "chips": {},
+    "trend": [
+      0.95,
+      0.85,
+      0.7,
+      0.6,
+      0.4,
+      0.3,
+      0.1
+    ],
+    "color": "9B2C2C",
+    "premium": false,
+    "hi_tries": 1
+  },
+  {
+    "v": 3,
+    "cat": "Markets",
+    "tk": "MARKETS",
+    "title": "Why did crude oil prices drop over 1% recently?",
+    "summary": "Crude oil prices declined by more than 1 percent during early trading hours. Brent crude futures dropped by $1.59 to reach $111.84 per barrel. Meanwhile, US West Texas Intermediate crude fell by $1.56 to trade at $102.56 a barrel. This downward movement in the oil market coincided with ongoing discussions regarding a potential end to the conflict involving Iran.",
+    "source": "Business Standard / Reuters",
+    "published": "2026-11-02T02:01:25+00:00",
+    "ago": "18m",
+    "impact": "Neutral",
+    "why": "Market reaction to ongoing political discussions.",
+    "url": "https://www.business-standard.com/markets/commodities/oil-prices-slip-more-than-1-as-talks-continue-on-ending-iran-war-126110200033_1.html",
+    "chips": {
+      "Brent crude drop": "$1.59",
+      "Brent crude price": "$111.84 a barrel",
+      "WTI crude drop": "$1.56"
+    },
+    "trend": [
+      0.5,
+      0.55,
+      0.45,
+      0.5,
+      0.47,
+      0.52,
+      0.5
+    ],
+    "color": "B7791F",
+    "premium": false,
+    "title_hi": "Iran war talks के बीच crude oil के दाम क्यों गिरे?",
+    "summary_hi": "कारोबार के शुरुआती घंटों में crude oil की कीमतों में 1 प्रतिशत से अधिक की गिरावट दर्ज की गई। Brent crude futures $1.59 घटकर $111.84 प्रति बैरल पर आ गया। वहीं, US West Texas Intermediate crude $1.56 की गिरावट के साथ $102.56 प्रति बैरल पर कारोबार कर रहा था। यह नरमी Iran से जुड़े युद्ध को समाप्त करने को लेकर चल रही बातचीत के बीच आई है।",
+    "why_hi": "राजनीतिक चर्चाओं के बीच बाजार की प्रतिक्रिया।",
+    "chips_hi": {
+      "ब्रेंट क्रूड गिरावट": "$1.59",
+      "ब्रेंट क्रूड भाव": "$111.84 प्रति बैरल",
+      "डब्लूटीआई क्रूड गिरा": "$1.56"
+    }
+  },
+  {
+    "v": 3,
+    "cat": "Markets",
+    "tk": "MARKETS",
+    "title": "Why US midterm elections historically trigger a 6 percent equity gain",
+    "summary": "Data shows that US equities have a history of strong performance following midterm elections. The S&P 500 typically records an average gain of around 6 percent in the 60 trading days that follow these polls.",
+    "source": "Business Standard",
+    "published": "2026-11-02T01:08:08+00:00",
+    "ago": "1h",
+    "impact": "Neutral",
+    "why": "Historical US market trends lack direct fundamental impact.",
+    "url": "https://www.business-standard.com/markets/news/how-will-us-midterms-impact-indian-equities-bond-yields-crude-oil-126110100199_1.html",
+    "chips": {
+      "Average gain": "6 per cent",
+      "Trading days": "60"
+    },
+    "trend": [
+      0.5,
+      0.55,
+      0.45,
+      0.5,
+      0.47,
+      0.52,
+      0.5
+    ],
+    "color": "B7791F",
+    "premium": false,
+    "title_hi": "US midterms के बाद क्यों आती है शेयरों में तेजी?",
+    "summary_hi": "डेटा के अनुसार अमेरिकी मिडटर्म चुनावों के बाद वहां के शेयर बाजारों में मजबूत प्रदर्शन का इतिहास रहा है। इसके बाद के 60 ट्रेडिंग सत्रों में S&P 500 ने औसतन करीब 6 प्रतिशत की बढ़त दर्ज की है।",
+    "why_hi": "ऐतिहासिक अमेरिकी रुझान का कोई सीधा फंडामेंटल असर नहीं।",
+    "chips_hi": {
+      "औसत बढ़त": "6 प्रतिशत",
+      "ट्रेडिंग दिन": "60"
+    }
+  },
+  {
+    "v": 3,
+    "cat": "Companies",
+    "tk": "TWO POINT O",
+    "title": "Two Point O Capital secures $10 million for clean energy growth",
+    "summary": "Two Point O Capital has secured $10 million in funding to grow its clean energy platform. The firm will use the capital to enter the battery energy storage sector and scale up its existing solar, energy efficiency, and wastewater treatment operations across the market.",
+    "source": "Business Standard",
+    "published": "2026-11-02T00:35:11+00:00",
+    "ago": "1h",
+    "impact": "Positive",
+    "why": "Fresh funding expands clean energy operations.",
+    "url": "https://www.business-standard.com/companies/start-ups/two-point-o-capital-raises-10-million-to-expand-clean-energy-platform-126110100446_1.html",
+    "chips": {
+      "Funding raised": "$10 million"
+    },
+    "trend": [
+      0.1,
+      0.25,
+      0.2,
+      0.5,
+      0.45,
+      0.8,
+      0.95
+    ],
+    "color": "0F766E",
+    "premium": false,
+    "title_hi": "Two Point O Capital ने क्लीन एनर्जी विस्तार के लिए जुटाए $10 million",
+    "summary_hi": "Two Point O Capital ने अपना क्लीन एनर्जी प्लेटफॉर्म बढ़ाने के लिए $10 million जुटाए हैं। कंपनी इस राशि का उपयोग बैटरी एनर्जी स्टोरेज में उतरने और सोलर, एनर्जी एफिशिएंसी तथा अपशिष्ट जल उपचार व्यवसायों का विस्तार करने के लिए करेगी।",
+    "why_hi": "नया फंड मिलने से कारोबार बढ़ेगा।",
+    "chips_hi": {
+      "फंडिंग जुटाई": "$10 million"
+    }
+  },
+  {
+    "v": 3,
+    "cat": "Economy",
+    "tk": "ECONOMY",
+    "title": "Why are firms pessimistic on the economy yet bullish on business?",
+    "summary": "A recent survey reveals a split sentiment among companies. While economic confidence declines, businesses remain optimistic about future profitability, investment, and hiring prospects. This unique outlook highlights a growing disconnect between broader macroeconomic views and individual corporate expectations during the period.",
+    "source": "Business Standard",
+    "published": "2026-11-01T17:52:10+00:00",
+    "ago": "8h",
+    "impact": "Neutral",
+    "why": "Mixed sentiment on economy and business growth.",
+    "url": "https://www.business-standard.com/economy/news/companies-pessimistic-about-economy-bullish-on-business-ima-india-survey-126110100892_1.html",
+    "chips": {},
+    "trend": [
+      0.5,
+      0.55,
+      0.45,
+      0.5,
+      0.47,
+      0.52,
+      0.5
+    ],
+    "color": "B7791F",
+    "premium": true,
+    "title_hi": "क्यों कंपनियां अर्थव्यवस्था को लेकर निराश पर व्यापार पर आशावादी हैं?",
+    "summary_hi": "हालिया सर्वे के अनुसार कंपनियों की भावना में विरोधाभास देखा गया है। व्यापक आर्थिक दृष्टिकोण कमजोर होने के बावजूद व्यवसाय भविष्य के मुनाफे, निवेश और नियुक्तियों को लेकर अधिक आशावादी बने हुए हैं।",
+    "why_hi": "अर्थव्यवस्था और व्यवसाय पर मिली-जुली भावना।",
+    "chips_hi": {}
+  },
+  {
+    "v": 3,
+    "cat": "Industry",
+    "tk": "INDUSTRY",
+    "title": "Why are telecom companies demanding ₹5 per minute for calls?",
+    "summary": "Telecom operators want international call termination charges raised to ₹5 per minute. Their industry body, COAI, states that the depreciation of the rupee over the past year has reduced their realisations. Since these charges are settled in US dollars with global operators, the currency drop has impacted earnings.",
+    "source": "Business Standard",
+    "published": "2026-11-01T17:40:14+00:00",
+    "ago": "8h",
+    "impact": "Positive",
+    "why": "Higher rates can improve carrier earnings.",
+    "url": "https://www.business-standard.com/industry/news/telcos-seek-hike-in-international-call-termination-charges-to-5-per-minute-126110100885_1.html",
+    "chips": {
+      "Call rate": "₹5 per minute"
+    },
+    "trend": [
+      0.1,
+      0.25,
+      0.2,
+      0.5,
+      0.45,
+      0.8,
+      0.95
+    ],
+    "color": "0F766E",
+    "premium": true,
+    "title_hi": "क्यों टेलीकॉम कंपनियां इंटरनेशनल कॉल्स के लिए मांग रही हैं ₹5?",
+    "summary_hi": "टेलीकॉम कंपनियों ने इंडस्ट्री बॉडी COAI के जरिए इंटरनेशनल कॉल टर्मिनेशन चार्ज को बढ़ाकर ₹5 प्रति मिनट करने की मांग की है। उनका तर्क है कि पिछले एक साल में रुपये में आई कमजोरी से उनकी कमाई कम हुई है, क्योंकि ग्लोबल ऑपरेटरों के साथ यह भुगतान अमेरिकी डॉलर में होता है।",
+    "why_hi": "दरें बढ़ने से कंपनियों की कमाई सुधर सकती है।",
+    "chips_hi": {
+      "कॉल दर": "₹5 प्रति मिनट"
+    }
+  },
+  {
+    "v": 3,
     "cat": "Industry",
     "tk": "INDUSTRY",
     "title": "Why are Indian airlines cutting domestic flights this Diwali?",
@@ -32,7 +225,9 @@
     "chips_hi": {
       "साप्ताहिक उड़ानें": "22,306",
       "घटाई गई उड़ानें": "606"
-    }
+    },
+    "hi_tries": 0,
+    "hi_ver": 2
   },
   {
     "v": 3,
@@ -67,7 +262,9 @@
     "chips_hi": {
       "पूंजी": "₹500 करोड़",
       "लक्ष्यित वृद्धि": "25 प्रतिशत"
-    }
+    },
+    "hi_tries": 0,
+    "hi_ver": 2
   },
   {
     "v": 3,
@@ -96,7 +293,9 @@
     "title_hi": "क्या भारत की आरएंडडी क्षमता वैश्विक मैन्युफैक्चरिंग को आगे बढ़ा सकती है?",
     "summary_hi": "भारत की मजबूत अनुसंधान और विकास क्षमता उन्नत मैन्युफैक्चरिंग, आर्टिफिशियल इंटेलिजेंस और ऑटोमेशन को बढ़ावा दे सकती है। रॉकवेल ऑटोमेशन के सीएफओ Christian Rothe के अनुसार, यह मजबूत आधार एमएसएमई को वैश्विक स्तर पर अधिक प्रतिस्पर्धी बनने में भी मदद कर रहा है।",
     "why_hi": "मजबूत आरएंडडी से मैन्युफैक्चरिंग को बढ़ावा।",
-    "chips_hi": {}
+    "chips_hi": {},
+    "hi_tries": 0,
+    "hi_ver": 2
   },
   {
     "v": 3,
@@ -122,7 +321,8 @@
     ],
     "color": "0F766E",
     "premium": false,
-    "hi_tries": 1
+    "hi_tries": 1,
+    "hi_ver": 2
   },
   {
     "v": 3,
@@ -616,216 +816,6 @@
       0.95
     ],
     "color": "0F766E",
-    "premium": false,
-    "hi_tries": 2,
-    "hi_ver": 2
-  },
-  {
-    "v": 2,
-    "cat": "Economy",
-    "tk": "ECONOMY",
-    "title": "How does the cotton import duty extension help the textile industry?",
-    "summary": "The central government has extended the customs duty exemption on cotton imports until December 31, 2026. This decision, announced by the textile ministry and notified by the Department of Revenue, aims to support the raw material needs of the domestic textile and apparel sector. The extension provides a two-month addition to the previous exemption timeline and is intended to lower input costs for manufacturers while considering domestic farmers.",
-    "source": "Business Standard / Press Trust of India",
-    "published": "2026-10-31T12:31:35+00:00",
-    "ago": "1h",
-    "impact": "Positive",
-    "why": "Lowers input costs for the textile sector.",
-    "url": "https://www.business-standard.com/economy/news/govt-extends-customs-duty-exemption-on-cotton-imports-up-to-dec-31-126103100989_1.html",
-    "chips": {
-      "Extended until": "December 31, 2026"
-    },
-    "trend": [
-      0.1,
-      0.25,
-      0.2,
-      0.5,
-      0.45,
-      0.8,
-      0.95
-    ],
-    "color": "0F766E",
-    "premium": false,
-    "title_hi": "कपास आयात पर कस्टम ड्यूटी छूट दिसंबर 2026 तक क्यों बढ़ाई गई?",
-    "summary_hi": "केंद्र सरकार ने घरेलू कपड़ा उद्योग की कच्चे माल की जरूरतों को ध्यान में रखते ہوئے कपास आयात पर कस्टम ड्यूटी की छूट को December 31, 2026 तक बढ़ा दिया है। वित्त मंत्रालय के राजस्व विभाग द्वारा अधिसूचित यह कदम निर्माताओं और उपभोक्ताओं को राहत देने के साथ-साथ इनपुट लागत को कम करने में मदद करेगा। यह फैसला घरेलू किसानों के हितों को ध्यान में रखते हुए लिया गया है।",
-    "why_hi": "कपड़ा क्षेत्र की इनपुट लागत कम होगी।",
-    "chips_hi": {
-      "बढ़ाया गया": "December 31, 2026"
-    },
-    "hi_tries": 0,
-    "hi_ver": 2
-  },
-  {
-    "v": 2,
-    "cat": "Earnings",
-    "tk": "COMPANIES",
-    "title": "Aditya Birla Fashion sees net profit more than double in Q2",
-    "summary": "Aditya Birla Fashion and Retail Ltd reported a consolidated net profit of Rs 53.05 crore for the September quarter of FY27, more than doubling from the previous year. Revenue from operations increased to Rs 2,265.61 crore during the quarter. Meanwhile, total expenses rose by 9.71 per cent to reach Rs 2,224.99 crore. Total income for the period also saw an upward movement, growing by 11.48 per cent to Rs 2,295.42 crore.",
-    "source": "Business Standard / Press Trust of India",
-    "published": "2026-10-31T12:12:37+00:00",
-    "ago": "1h",
-    "impact": "Positive",
-    "why": "Net profit and revenue increased significantly.",
-    "url": "https://www.business-standard.com/companies/quarterly-results/aditya-birla-fashion-and-retail-q2-profit-more-than-doubles-to-53-crore-126103100919_1.html",
-    "chips": {
-      "Net profit": "Rs 53.05 crore",
-      "Revenue": "Rs 2,265.61 crore",
-      "Total expenses": "Rs 2,224.99 crore"
-    },
-    "trend": [
-      0.1,
-      0.25,
-      0.2,
-      0.5,
-      0.45,
-      0.8,
-      0.95
-    ],
-    "color": "0F766E",
-    "premium": false,
-    "title_hi": "Aditya Birla Fashion का Q2 शुद्ध मुनाफा दोगुने से ज्यादा हुआ",
-    "summary_hi": "Aditya Birla Fashion and Retail Ltd ने सितंबर तिमाही FY27 के लिए अपने समेकित शुद्ध मुनाफे में दोगुना से अधिक की वृद्धि दर्ज की, जो Rs 53.05 crore रहा। इस तिमाही के दौरान परिचालन से राजस्व बढ़कर Rs 2,265.61 crore हो गया। इस बीच, कुल खर्च 9.71 प्रतिशत बढ़कर Rs 2,224.99 crore पर पहुंच गया। अवधि के लिए कुल आय भी 11.48 प्रतिशत बढ़कर Rs 2,295.42 crore हो गई।",
-    "why_hi": "मुनाफे और राजस्व में भारी वृद्धि हुई।",
-    "chips_hi": {
-      "शुद्ध मुनाफा": "₹53.05 करोड़",
-      "राजस्व": "₹2,265.61 करोड़",
-      "कुल खर्च": "₹2,224.99 करोड़"
-    },
-    "hi_tries": 0,
-    "hi_ver": 2
-  },
-  {
-    "v": 2,
-    "cat": "Companies",
-    "tk": "VIRGIN MEDIA O2",
-    "title": "Virgin Media O2 considers cutting up to 4,000 jobs",
-    "summary": "British telecommunications provider Virgin Media O2 is exploring plans to eliminate up to 4,000 positions. This potential workforce reduction forms part of a larger restructuring initiative aimed at cutting costs, according to media reports. The company has not yet provided further details regarding the timeline or specific departments that might be affected by these proposed changes.",
-    "source": "Business Standard / Reuters",
-    "published": "2026-10-31T11:42:50+00:00",
-    "ago": "2h",
-    "impact": "Negative",
-    "why": "Job cuts signal internal cost pressures.",
-    "url": "https://www.business-standard.com/companies/news/virgin-media-o2-may-cut-up-to-4-000-jobs-in-major-cost-cutting-exercise-126103100951_1.html",
-    "chips": {
-      "Potential job cuts": "4,000"
-    },
-    "trend": [
-      0.95,
-      0.85,
-      0.7,
-      0.6,
-      0.4,
-      0.3,
-      0.1
-    ],
-    "color": "9B2C2C",
-    "premium": false,
-    "title_hi": "Virgin Media O2 में हो सकती हैं 4,000 तक नौकरियां कम",
-    "summary_hi": "ब्रिटिश टेलीकॉम कंपनी Virgin Media O2 बड़े पैमाने पर रीस्ट्रक्चरिंग के तहत 4,000 तक नौकरियों में कटौती करने पर विचार कर रही है। मीडिया रिपोर्ट्स के अनुसार, यह कदम कंपनी के खर्चों को कम करने की योजना का हिस्सा है।",
-    "why_hi": "नौकरियों में कटौती से खर्च कम होंगे।",
-    "chips_hi": {
-      "नौकरियों में कटौती": "4,000"
-    },
-    "hi_tries": 0,
-    "hi_ver": 2
-  },
-  {
-    "v": 2,
-    "cat": "Companies",
-    "tk": "BPCL",
-    "title": "BPCL and Lanxess partner to explore advanced industrial lubricants in India",
-    "summary": "Bharat Petroleum Corporation Limited and Lanxess have signed an agreement to look into long-term cooperation regarding advanced industrial lubricant technologies and specialty fluid solutions in India. The non-exclusive framework aims to evaluate technical and commercial opportunities for innovative lubricant solutions, support original equipment manufacturer approvals, enhance local manufacturing, and develop sustainable options like bio-based lubricants by combining both firms' capabilities.",
-    "source": "Business Standard / Press Trust of India",
-    "published": "2026-10-31T11:00:40+00:00",
-    "ago": "3h",
-    "impact": "Positive",
-    "why": "Collaboration for advanced lubricant technologies expansion.",
-    "url": "https://www.business-standard.com/companies/news/bpcl-lanxess-in-pact-to-explore-advanced-industrial-lubricant-technologies-126102901454_1.html",
-    "chips": {},
-    "trend": [
-      0.1,
-      0.25,
-      0.2,
-      0.5,
-      0.45,
-      0.8,
-      0.95
-    ],
-    "color": "0F766E",
-    "premium": false,
-    "title_hi": "BPCL और Lanxess ने भारत में आधुनिक लुब्रिकेंट तकनीक के लिए मिलाया हाथ",
-    "summary_hi": "भारत पेट्रोलियम कॉर्पोरेशन लिमिटेड और LANXESS ने भारत में आधुनिक औद्योगिक लुब्रिकेंट तकनीकों और विशेष फ्लूइड समाधानों के लिए एक समझौते पर हस्ताक्षर किए हैं। इस साझेदारी का उद्देश्य तकनीकी और व्यावसायिक अवसरों का मूल्यांकन करना, स्थानीय विनिर्माण को बढ़ावा देना और बायो-बेस्ड लुब्रिकेंट जैसे टिकाऊ विकल्पों की संभावना तलाशना है।",
-    "why_hi": "आधुनिक लुब्रिकेंट तकनीक के लिए नई साझेदारी।",
-    "chips_hi": {},
-    "hi_tries": 0,
-    "hi_ver": 2
-  },
-  {
-    "v": 2,
-    "cat": "Companies",
-    "tk": "BRAID",
-    "title": "Octopus Ventures leads USD 38 million funding in Braid",
-    "summary": "London-based venture capital firm Octopus Ventures and KPN Ventures have invested USD 38 million, about Rs 361 crore, in Braid. The Netherlands-based enterprise connectivity platform secured the capital in a Series A funding round. Launched in 2023, Braid stated it is profitable and cash-flow positive with around 90 enterprise customers. The firm plans to use the capital to grow internationally, build carrier partnerships, and enhance its embedded mobile connectivity infrastructure.",
-    "source": "Business Standard / Press Trust of India",
-    "published": "2026-10-31T10:58:02+00:00",
-    "ago": "3h",
-    "impact": "Positive",
-    "why": "Fresh funding supports international business expansion.",
-    "url": "https://www.business-standard.com/companies/start-ups/venture-capital-firm-octopus-ventures-leads-38-million-investment-in-braid-126102901824_1.html",
-    "chips": {
-      "Investment": "USD 38 million",
-      "Investment in rupees": "Rs 361 crore",
-      "Enterprise customers": "90"
-    },
-    "trend": [
-      0.1,
-      0.25,
-      0.2,
-      0.5,
-      0.45,
-      0.8,
-      0.95
-    ],
-    "color": "0F766E",
-    "premium": false,
-    "title_hi": "Octopus Ventures ने Braid में 38 मिलियन डॉलर का निवेश किया",
-    "summary_hi": "लंदन की वेंचर कैपिटल फर्म Octopus Ventures और KPN Ventures ने नीदरलैंड की Braid में 38 मिलियन डॉलर यानी करीब 361 करोड़ रुपये का निवेश किया है। सीरीज ए फंडिंग राउंड जुटाने वाली यह कंपनी 2023 में शुरू हुई थी और यह मुनाफे में होने के साथ कैश-फ्लो पॉजिटिव है। इसके करीब 90 एंटरप्राइज ग्राहक हैं। कंपनी इस राशि का उपयोग अंतरराष्ट्रीय विस्तार, पार्टनरशिप और अपनी तकनीक को मजबूत करने में करेगी।",
-    "why_hi": "नया फंड मिलने से अंतरराष्ट्रीय कारोबार बढ़ेगा।",
-    "chips_hi": {
-      "निवेश": "38 मिलियन डॉलर",
-      "रुपये में निवेश": "361 करोड़ रुपये",
-      "एंटरप्राइज ग्राहक": "90"
-    },
-    "hi_tries": 0,
-    "hi_ver": 2
-  },
-  {
-    "v": 2,
-    "cat": "Economy",
-    "tk": "ECONOMY",
-    "title": "Government hikes diesel and ATF export taxes while cutting petrol levy",
-    "summary": "The government has raised the windfall gains tax on diesel exports to Rs 11.5 per litre and aviation turbine fuel to Rs 11 per litre. Meanwhile, the export duty on petrol has been reduced to zero. These revised rates take effect from October 31 and apply to the upcoming fortnight. The special additional excise duty and road infrastructure cess are adjusted fortnightly based on international trends, though domestic fuel tax rates remain unchanged.",
-    "source": "Business Standard / Press Trust of India",
-    "published": "2026-10-31T10:23:21+00:00",
-    "ago": "3h",
-    "impact": "Neutral",
-    "why": "Fortnightly export tax adjustments have mixed effects.",
-    "url": "https://www.business-standard.com/economy/uttar-pradesh/govt-raises-windfall-tax-on-diesel-by-3-atf-by-50-paise-per-litre-126103100850_1.html",
-    "chips": {
-      "Diesel tax": "Rs 11.5/litre",
-      "ATF tax": "Rs 11/litre",
-      "Petrol tax": "Rs 0/litre"
-    },
-    "trend": [
-      0.5,
-      0.55,
-      0.45,
-      0.5,
-      0.47,
-      0.52,
-      0.5
-    ],
-    "color": "B7791F",
     "premium": false,
     "hi_tries": 2,
     "hi_ver": 2
