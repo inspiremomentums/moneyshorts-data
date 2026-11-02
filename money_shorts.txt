@@ -1,6 +1,228 @@
 [
   {
     "v": 3,
+    "cat": "Companies",
+    "tk": "COMPANIES",
+    "title": "How L&T landed fresh residential and commercial construction orders",
+    "summary": "Infrastructure major Larsen and Toubro announced winning significant building orders across Mumbai, Bengaluru, and Hyderabad. These projects include high-rise residential towers and a premium commercial building. The company categorizes orders valued between Rs 1,000 crore and Rs 2,500 crore as significant. The contracts were secured by its residential, commercial buildings, and factories business vertical.",
+    "source": "Business Standard / Press Trust of India",
+    "published": "2026-11-02T10:13:13+00:00",
+    "ago": "13m",
+    "impact": "Positive",
+    "why": "New project orders boost business growth.",
+    "url": "https://www.business-standard.com/companies/news/l-t-bags-significant-orders-for-residential-commercial-projects-126110200755_1.html",
+    "chips": {
+      "Order range": "Rs 1,000 crore to Rs"
+    },
+    "trend": [
+      0.1,
+      0.25,
+      0.2,
+      0.5,
+      0.45,
+      0.8,
+      0.95
+    ],
+    "color": "0F766E",
+    "premium": false,
+    "hi_tries": 1
+  },
+  {
+    "v": 3,
+    "cat": "Industry",
+    "tk": "INDIGO",
+    "title": "IndiGo reviews fuel hedging policy as jet fuel prices rise",
+    "summary": "IndiGo is reviewing its fuel hedging policy in response to rising jet fuel prices and ongoing long-haul expansion. Airline CEO Willie Walsh noted that these changing market conditions have prompted a comprehensive evaluation of the company's risk management strategy to better navigate fluctuating aviation turbine fuel costs.",
+    "source": "Business Standard",
+    "published": "2026-11-02T10:10:08+00:00",
+    "ago": "16m",
+    "impact": "Neutral",
+    "why": "Evaluating risk policy amid shifting fuel costs.",
+    "url": "https://www.business-standard.com/industry/aviation/indigo-reviews-longstanding-fuel-hedging-policy-amid-rising-atf-prices-126110200791_1.html",
+    "chips": {},
+    "trend": [
+      0.5,
+      0.55,
+      0.45,
+      0.5,
+      0.47,
+      0.52,
+      0.5
+    ],
+    "color": "B7791F",
+    "premium": false,
+    "title_hi": "बढ़ती कीमतों के बीच IndiGo ने क्यों की ईंधन नीति की समीक्षा?",
+    "summary_hi": "जेट ईंधन की बढ़ती कीमतों और लंबी दूरी के विस्तार के बीच IndiGo अपनी ईंधन हेजिंग नीति की व्यापक समीक्षा करने जा रही है। एयरलाइन के सीईओ Willie Walsh ने बताया कि बदलते बाजार और जोखिम के दृष्टिकोण को देखते हुए यह कदम उठाया गया है।",
+    "why_hi": "ईंधन लागत और जोखिम प्रबंधन की समीक्षा।",
+    "chips_hi": {}
+  },
+  {
+    "v": 3,
+    "cat": "Industry",
+    "tk": "INDUSTRY",
+    "title": "Centre sets 15-day deadline to resolve rural employment complaints",
+    "summary": "The central government has notified new rules under the VB-G RAM G Act, requiring complaints about the rural employment scheme to be resolved within 15 days. State governments must set up a three-tier grievance mechanism with designated officers at gram panchayat, block, and district levels, allowing citizens to submit complaints through multiple channels.",
+    "source": "Business Standard / Press Trust of India",
+    "published": "2026-11-02T09:44:26+00:00",
+    "ago": "42m",
+    "impact": "Neutral",
+    "why": "Administrative rules for grievance redressal.",
+    "url": "https://www.business-standard.com/industry/news/govt-notifies-grievance-rules-under-vb-g-ram-g-act-sets-15-day-deadline-126110200745_1.html",
+    "chips": {
+      "Deadline": "15 days",
+      "Act": "VB-G RAM G Act, 2025"
+    },
+    "trend": [
+      0.5,
+      0.55,
+      0.45,
+      0.5,
+      0.47,
+      0.52,
+      0.5
+    ],
+    "color": "B7791F",
+    "premium": false,
+    "title_hi": "ग्रामीण रोजगार शिकायतों के समाधान के लिए सरकार ने तय की 15 दिन की समय सीमा",
+    "summary_hi": "केंद्र सरकार ने VB-G RAM G Act के तहत नियम अधिसूचित किए हैं, जिसके अनुसार ग्रामीण रोजगार योजना से जुड़ी शिकायतों का समाधान 15 दिनों के भीतर करना होगा। राज्य सरकारों को ग्राम पंचायत, ब्लॉक और जिला स्तर पर तीन-स्तरीय व्यवस्था बनानी होगी।",
+    "why_hi": "शिकायत निवारण के लिए प्रशासनिक नियम।",
+    "chips_hi": {
+      "समय सीमा": "15 दिन",
+      "अधिनियम": "VB-G RAM G Act, 2025"
+    }
+  },
+  {
+    "v": 3,
+    "cat": "Finance",
+    "tk": "FINANCE",
+    "title": "Why are young Indian investors trading despite high losses?",
+    "summary": "A significant 37% of investors under the age of 25 are losing money in the markets. Even with these leading losses, younger generations continue to trade actively. At the same time, complex tax filings have surged significantly, pointing to rising financial activity among these retail participants.",
+    "source": "Business Standard",
+    "published": "2026-11-02T09:30:15+00:00",
+    "ago": "56m",
+    "impact": "Neutral",
+    "why": "Trading losses offset by rising participation.",
+    "url": "https://www.business-standard.com/finance/personal-finance/37-of-under-25-investors-lose-money-but-india-s-gen-z-keeps-on-trading-126110200728_1.html",
+    "chips": {
+      "Loss rate": "37%",
+      "Tax jump": "82%"
+    },
+    "trend": [
+      0.5,
+      0.55,
+      0.45,
+      0.5,
+      0.47,
+      0.52,
+      0.5
+    ],
+    "color": "B7791F",
+    "premium": false,
+    "title_hi": "भारी नुकसान के बाद भी जनरेशन जेड क्यों कर रही है ट्रेडिंग?",
+    "summary_hi": "25 वर्ष से कम आयु के 37% निवेशकों को बाजार में नुकसान उठाना पड़ रहा है। इसके बावजूद, देश की युवा पीढ़ी लगातार ट्रेडिंग में बनी हुई है। साथ ही, जटिल टैक्स फाइलिंग में भी भारी बढ़ोतरी दर्ज की गई है।",
+    "why_hi": "नुकसान के बावजूद युवा ट्रेडिंग जारी रखे हैं।",
+    "chips_hi": {
+      "नुकसान दर": "37%",
+      "टैक्स उछाल": "82%"
+    }
+  },
+  {
+    "v": 3,
+    "cat": "Earnings",
+    "tk": "RATNAVEER",
+    "title": "Ratnaveer Precision surges 8 percent after reporting healthy Q2 performance",
+    "summary": "Ratnaveer Precision shares climbed 8 percent following strong second-quarter results. The stock has risen 200 percent from its March low and outperformed the broader market in calendar year 2026, gaining 154 percent while the BSE Sensex declined by 11.7 percent.",
+    "source": "Business Standard",
+    "published": "2026-11-02T09:28:18+00:00",
+    "ago": "58m",
+    "impact": "Positive",
+    "why": "Strong Q2 results and market outperformance.",
+    "url": "https://www.business-standard.com/markets/news/ratnaveer-precision-surges-8-on-healthy-q2-zooms-200-from-march-low-126110200724_1.html",
+    "chips": {
+      "Stock surge": "8%",
+      "Rise from March low": "200%",
+      "CY2026 gain": "154%"
+    },
+    "trend": [
+      0.1,
+      0.25,
+      0.2,
+      0.5,
+      0.45,
+      0.8,
+      0.95
+    ],
+    "color": "0F766E",
+    "premium": false,
+    "title_hi": "शानदार Q2 नतीजों के बाद Ratnaveer Precision के शेयर 8 प्रतिशत चढ़े",
+    "summary_hi": "Ratnaveer Precision के शेयरों में शानदार दूसरी तिमाही के नतीजों के बाद 8 प्रतिशत की तेजी आई। मार्च के निचले स्तर से यह स्टॉक 200 प्रतिशत उछल चुका है। कैलेंडर वर्ष 2026 में बीएसई सेंसेक्स में 11.7 प्रतिशत की गिरावट के मुकाबले इस स्टॉक ने 154 प्रतिशत की छलांग लगाई है।",
+    "why_hi": "बेहतर तिमाही नतीजे और मजबूत प्रदर्शन।",
+    "chips_hi": {
+      "स्टॉक तेजी": "8%",
+      "मार्च निचले स्तर से ": "200%",
+      "CY2026 बढ़त": "154%"
+    }
+  },
+  {
+    "v": 3,
+    "cat": "Companies",
+    "tk": "RAZORPAY",
+    "title": "Razorpay secures final licence for cross-border payments from GIFT City",
+    "summary": "Razorpay has received approval to offer foreign currency transfers and multi-currency accounts from GIFT City. This final licence operates under a single regulatory framework, allowing the company to expand its cross-border payment services from the location.",
+    "source": "Business Standard",
+    "published": "2026-11-02T09:24:01+00:00",
+    "ago": "1h",
+    "impact": "Positive",
+    "why": "Expands foreign currency payment services capability.",
+    "url": "https://www.business-standard.com/companies/news/razorpay-gets-final-ifsca-licence-cross-border-payments-gift-city-126110200734_1.html",
+    "chips": {},
+    "trend": [
+      0.1,
+      0.25,
+      0.2,
+      0.5,
+      0.45,
+      0.8,
+      0.95
+    ],
+    "color": "0F766E",
+    "premium": false,
+    "title_hi": "Razorpay को GIFT City से क्रॉस-बॉर्डर पेमेंट के लिए मिला फाइनल लाइसेंस",
+    "summary_hi": "Razorpay को GIFT City से विदेशी मुद्रा ट्रांसफर और मल्टी-करेंसी अकाउंट की सुविधा देने की मंजूरी मिल गई है। यह फाइनल लाइसेंस एक ही रेगुलेटरी फ्रेमवर्क के तहत काम करता है, जिससे कंपनी अपनी क्रॉस-बॉर्डर पेमेंट सेवाओं का विस्तार कर सकेगी।",
+    "why_hi": "विदेशी मुद्रा पेमेंट सेवाओं की क्षमता बढ़ी।",
+    "chips_hi": {}
+  },
+  {
+    "v": 3,
+    "cat": "Finance",
+    "tk": "FINANCE",
+    "title": "How can EPF subscribers now check their PF balance easily?",
+    "summary": "Retirement fund body EPFO has introduced a WhatsApp facility for members. Subscribers can view their latest five transactions, check PF balances, access passbooks, and get PMVBRY assistance. Additionally, eligible inactive accounts will now be settled automatically through this initiative, making services more accessible for millions of workers.",
+    "source": "Business Standard",
+    "published": "2026-11-02T09:22:11+00:00",
+    "ago": "1h",
+    "impact": "Positive",
+    "why": "Improves accessibility and automates account settlements.",
+    "url": "https://www.business-standard.com/finance/personal-finance/epfo-launches-whatsapp-facility-for-pf-balance-passbook-and-transactions-126110200727_1.html",
+    "chips": {},
+    "trend": [
+      0.1,
+      0.25,
+      0.2,
+      0.5,
+      0.45,
+      0.8,
+      0.95
+    ],
+    "color": "0F766E",
+    "premium": false,
+    "title_hi": "EPF subscribers अब WhatsApp के जरिए कैसे चेक कर सकते हैं बैलेंस?",
+    "summary_hi": "EPFO ने PF बैलेंस, पासबुक और ट्रांजैक्शन देखने के लिए WhatsApp सुविधा शुरू की है। सब्सक्राइबर अपने आखिरी पांच ट्रांजैक्शन देख सकते हैं और PMVBRY सहायता प्राप्त कर सकते हैं। इसके अलावा, पात्र निष्क्रिय खातों का निपटान भी अपने आप हो जाएगा।",
+    "why_hi": "सेवाओं को आसान बनाता है और सेटलमेंट सुधारता है।",
+    "chips_hi": {}
+  },
+  {
+    "v": 3,
     "cat": "Industry",
     "tk": "INDIGO",
     "title": "IndiGo posts Rs 1,879.1 crore loss amid fuel cost pressures",
@@ -30,7 +252,9 @@
     "why_hi": "ऊंचे ईंधन खर्च के कारण तिमाही घाटा।",
     "chips_hi": {
       "तिमाही घाटा": "₹1,879.1 करोड़"
-    }
+    },
+    "hi_tries": 0,
+    "hi_ver": 2
   },
   {
     "v": 3,
@@ -67,7 +291,9 @@
       "कुल बिक्री": "21,888 यूनिट",
       "M&HCV बिक्री": "13,927 यूनिट",
       "LCV बिक्री": "7,961 यूनिट"
-    }
+    },
+    "hi_tries": 0,
+    "hi_ver": 2
   },
   {
     "v": 3,
@@ -100,7 +326,9 @@
     "why_hi": "नया पूंजीगत जुटाव नहीं, केवल शेयर बिक्री।",
     "chips_hi": {
       "IPO आकार": "$800 million"
-    }
+    },
+    "hi_tries": 0,
+    "hi_ver": 2
   },
   {
     "v": 3,
@@ -137,7 +365,9 @@
       "तेजी": "19% तक",
       "सूचकांक बढ़त": "2%",
       "शेयर उछाल": "3-6%"
-    }
+    },
+    "hi_tries": 0,
+    "hi_ver": 2
   },
   {
     "v": 3,
@@ -172,7 +402,9 @@
     "chips_hi": {
       "फंड आकार": "₹1,500 करोड़",
       "संभावित राजस्व": "₹6,750 करोड़"
-    }
+    },
+    "hi_tries": 0,
+    "hi_ver": 2
   },
   {
     "v": 3,
@@ -207,7 +439,9 @@
     "chips_hi": {
       "नुकसान": "₹1,322 करोड़",
       "कुल लोन": "₹980 करोड़"
-    }
+    },
+    "hi_tries": 0,
+    "hi_ver": 2
   },
   {
     "v": 3,
@@ -584,265 +818,6 @@
       "ऋण लक्ष्य": "₹100 करोड़",
       "ऋण राशि": "₹10 करोड़",
       "ईवी बिक्री वृद्धि": "29.7 प्रतिशत"
-    },
-    "hi_tries": 0,
-    "hi_ver": 2
-  },
-  {
-    "v": 3,
-    "cat": "Industry",
-    "tk": "INDUSTRY",
-    "title": "How did Hyundai Motor India achieve record sales in October?",
-    "summary": "Hyundai Motor India reported its highest-ever total monthly sales of 82,299 units in October, marking a 17.7 per cent year-on-year increase. The growth was supported by record domestic sales of 62,799 units and a 21.1 per cent rise in exports to 19,500 units. The automaker noted that strong festive demand drove this performance.",
-    "source": "Business Standard / Press Trust of India",
-    "published": "2026-11-01T05:28:50+00:00",
-    "ago": "37m",
-    "impact": "Positive",
-    "why": "Higher sales and strong festive demand.",
-    "url": "https://www.business-standard.com/industry/auto/hyundai-motor-india-sales-hit-record-82-299-units-in-october-up-17-7-126110100151_1.html",
-    "chips": {
-      "Total sales": "82,299 units",
-      "Domestic sales": "62,799 units",
-      "Exports": "19,500 units"
-    },
-    "trend": [
-      0.1,
-      0.25,
-      0.2,
-      0.5,
-      0.45,
-      0.8,
-      0.95
-    ],
-    "color": "0F766E",
-    "premium": false,
-    "title_hi": "October में Hyundai Motor India की बिक्री ने कैसे बनाया रिकॉर्ड?",
-    "summary_hi": "Hyundai Motor India Limited ने October में 82,299 यूनिट्स की अपनी सबसे अधिक कुल मासिक बिक्री दर्ज की है, जो सालाना आधार पर 17.7 प्रतिशत अधिक है। इस बढ़ोतरी में 62,799 यूनिट्स की घरेलू बिक्री और 21.1 प्रतिशत बढ़कर 19,500 यूनिट्स हुए निर्यात का अहम योगदान रहा। कंपनी के अनुसार मजबूत फेस्टिव डिमांड से यह रिकॉर्ड बना।",
-    "why_hi": "बिक्री और फेस्टिव डिमांड में वृद्धि।",
-    "chips_hi": {
-      "कुल बिक्री": "82,299 यूनिट्स",
-      "घरेलू बिक्री": "62,799 यूनिट्स",
-      "निर्यात": "19,500 यूनिट्स"
-    },
-    "hi_tries": 0,
-    "hi_ver": 2
-  },
-  {
-    "v": 3,
-    "cat": "Companies",
-    "tk": "SONA COMSTAR",
-    "title": "Sona Comstar expects annual investments to rise with business growth",
-    "summary": "Auto component maker Sona BLW Precision Forgings anticipates its current annual investments of Rs 500 to 600 crore will increase as operations scale up over the decade. The company plans to focus on research and development, capacity expansion, and new product development across its three business lines.",
-    "source": "Business Standard / Press Trust of India",
-    "published": "2026-11-01T05:24:49+00:00",
-    "ago": "42m",
-    "impact": "Positive",
-    "why": "Growing investments support business expansion.",
-    "url": "https://www.business-standard.com/companies/news/sona-comstar-expects-annual-investments-to-rise-as-business-grows-md-126110100123_1.html",
-    "chips": {
-      "Annual investments": "Rs 500-600 crore"
-    },
-    "trend": [
-      0.1,
-      0.25,
-      0.2,
-      0.5,
-      0.45,
-      0.8,
-      0.95
-    ],
-    "color": "0F766E",
-    "premium": false,
-    "title_hi": "Sona Comstar का कारोबार बढ़ने के साथ निवेश बढ़ने का अनुमान",
-    "summary_hi": "ऑटो कंपोनेंट निर्माता Sona BLW Precision Forgings का कहना है कि कारोबार बढ़ने के साथ उसका सालाना निवेश आने वाले दशक में वर्तमान 500 से 600 करोड़ रुपये से बढ़ जाएगा। कंपनी का ध्यान अनुसंधान और विकास, क्षमता विस्तार और नए उत्पादों पर रहेगा।",
-    "why_hi": "बढ़ता निवेश कारोबार के विस्तार को समर्थन देता है।",
-    "chips_hi": {
-      "सालाना निवेश": "₹500-600 करोड़"
-    },
-    "hi_tries": 0,
-    "hi_ver": 2
-  },
-  {
-    "v": 3,
-    "cat": "Industry",
-    "tk": "JSW MG MOTOR",
-    "title": "How JSW MG Motor India achieved 8,013 units in October sales",
-    "summary": "JSW MG Motor India reported a 19 percent growth in wholesale dispatches to dealers, reaching 8,013 units in October 2026. The automaker stated that customer deliveries are gaining momentum across India due to strong demand for the MG Hector Tomahawk EV and Windsor Indulge Edition. The company operates as a joint venture between JSW Group and SAIC Motor.",
-    "source": "Business Standard / Press Trust of India",
-    "published": "2026-11-01T05:21:17+00:00",
-    "ago": "45m",
-    "impact": "Positive",
-    "why": "Higher wholesale dispatches indicate strong market demand.",
-    "url": "https://www.business-standard.com/industry/auto/jsw-mg-motor-india-sales-rise-19-to-8-013-units-in-oct-on-strong-demand-126110100127_1.html",
-    "chips": {
-      "Sales growth": "19%",
-      "Units sold": "8,013",
-      "Month": "October 2026"
-    },
-    "trend": [
-      0.1,
-      0.25,
-      0.2,
-      0.5,
-      0.45,
-      0.8,
-      0.95
-    ],
-    "color": "0F766E",
-    "premium": false,
-    "title_hi": "October में JSW MG Motor India की बिक्री कैसे बढ़ी?",
-    "summary_hi": "JSW MG Motor India ने बताया कि अक्टूबर 2026 में डीलरों को भेजे जाने वाले थोक शिपमेंट में 19 प्रतिशत की सालाना वृद्धि हुई है, जो बढ़कर 8,013 यूनिट पर पहुंच गए। कंपनी के अनुसार, MG Hector Tomahawk EV और Windsor Indulge Edition को मिल रही मजबूत प्रतिक्रिया के कारण पूरे भारत में ग्राहकों को डिलीवरी तेजी से हो रही है।",
-    "why_hi": "बिक्री बढ़ने से कंपनी का कारोबार मजबूत हुआ है।",
-    "chips_hi": {
-      "बिक्री वृद्धि": "19%",
-      "बेची गई यूनिट": "8,013",
-      "महीना": "अक्टूबर 2026"
-    },
-    "hi_tries": 0,
-    "hi_ver": 2
-  },
-  {
-    "v": 3,
-    "cat": "Economy",
-    "tk": "ECONOMY",
-    "title": "Jet fuel and commercial LPG prices rise again",
-    "summary": "Aviation turbine fuel prices increased by Rs 1.37 per litre, marking the fourth consecutive monthly hike driven by global benchmarks. Meanwhile, commercial LPG rates went up by Rs 10 per 19-kg cylinder. These increases raise operating expenses for airlines and hospitality businesses.",
-    "source": "Business Standard / Press Trust of India",
-    "published": "2026-11-01T04:57:55+00:00",
-    "ago": "1h",
-    "impact": "Negative",
-    "why": "Higher fuel costs increase airline and business expenses.",
-    "url": "https://www.business-standard.com/economy/news/commercial-lpg-rates-increase-by-10-atf-prices-up-by-1-37-per-litre-126110100124_1.html",
-    "chips": {
-      "ATF price": "Rs 138.50 per litre",
-      "LPG rate": "Rs 2,820"
-    },
-    "trend": [
-      0.95,
-      0.85,
-      0.7,
-      0.6,
-      0.4,
-      0.3,
-      0.1
-    ],
-    "color": "9B2C2C",
-    "premium": false,
-    "title_hi": "Jet fuel और commercial LPG के दाम फिर बढ़े",
-    "summary_hi": "वैश्विक संकेतों के चलते एटीएफ यानी जेट ईंधन की कीमत 1.37 रुपये प्रति लीटर बढ़ गई है, जो लगातार चौथी मासिक बढ़ोतरी है। इसके अलावा, कमर्शियल एलपीजी के दाम 19 किलो के सिलेंडर पर 10 रुपये बढ़ गए हैं। इन वृद्धियों से एयरलाइंस और हॉस्पिटैलिटी सेक्टर का खर्च बढ़ जाएगा।",
-    "why_hi": "ईंधन महंगा होने से कंपनियों का खर्च बढ़ा।",
-    "chips_hi": {
-      "ATF कीमत": "₹138.50 प्रति लीटर",
-      "एलपीजी दर": "₹2,820"
-    },
-    "hi_tries": 0,
-    "hi_ver": 2
-  },
-  {
-    "v": 3,
-    "cat": "Economy",
-    "tk": "ECONOMY",
-    "title": "India's oil imports hit record 5.6 million barrels per day in October",
-    "summary": "India imported a record 5.6 million barrels per day of crude oil in October, driven by strong refinery operations and flexible sourcing from Russia and the Middle East. While Middle Eastern supplies reached 2.3 million barrels per day, Russian flows stayed strong at 2 million. Increased ship-to-ship transfers also supported the recovery in Gulf supplies during this period.",
-    "source": "Business Standard / Press Trust of India",
-    "published": "2026-11-01T04:50:48+00:00",
-    "ago": "1h",
-    "impact": "Positive",
-    "why": "Higher crude imports reflect strong refinery activity.",
-    "url": "https://www.business-standard.com/economy/news/record-oil-imports-reflect-strong-refinery-runs-flexible-russian-buying-126110100118_1.html",
-    "chips": {
-      "Crude imports": "5.6 million barrels ",
-      "Middle Eastern suppl": "2.3 million barrels ",
-      "Russian crude flows": "2 million bpd"
-    },
-    "trend": [
-      0.1,
-      0.25,
-      0.2,
-      0.5,
-      0.45,
-      0.8,
-      0.95
-    ],
-    "color": "0F766E",
-    "premium": false,
-    "title_hi": "अक्टूबर में भारत का क्रूड ऑयल आयात रिकॉर्ड 5.6 मिलियन बैरल प्रतिदिन पर पहुँचा",
-    "summary_hi": "रिफाइनरी के मजबूत कामकाज और रूस तथा मध्य पूर्व से लचीली खरीद के कारण अक्टूबर में भारत का क्रूड ऑयल आयात रिकॉर्ड 5.6 मिलियन बैरल प्रतिदिन हो गया। मध्य पूर्व से आपूर्ति लगभग 2.3 मिलियन बैरल प्रतिदिन रही, जबकि रूसी प्रवाह 2 मिलियन बैरल प्रतिदिन पर मजबूत बना रहा।",
-    "why_hi": "बेहतर क्रूड आयात से रिफाइनरी गतिविधियों में तेजी दिखी।",
-    "chips_hi": {
-      "क्रूड आयात": "5.6 मिलियन बैरल प्रत",
-      "मध्य पूर्वी आपूर्ति": "2.3 मिलियन बैरल प्रत",
-      "रूसी क्रूड प्रवाह": "2 मिलियन bpd"
-    },
-    "hi_tries": 0,
-    "hi_ver": 2
-  },
-  {
-    "v": 3,
-    "cat": "Finance",
-    "tk": "FINANCE",
-    "title": "Why invest in global markets for portfolio balance?",
-    "summary": "Investing in international equities gives market participants a way to hedge against concentration risk. This approach also allows them to capture various emerging growth themes across different global regions. Understanding international markets involves looking at opportunities, risks, and taxation details before making financial choices.",
-    "source": "Business Standard",
-    "published": "2026-11-01T04:30:36+00:00",
-    "ago": "1h",
-    "impact": "Neutral",
-    "why": "Explores global market investment opportunities and risks.",
-    "url": "https://www.business-standard.com/finance/personal-finance/opportunities-risks-taxes-what-to-know-about-investing-in-world-markets-126102901203_1.html",
-    "chips": {},
-    "trend": [
-      0.5,
-      0.55,
-      0.45,
-      0.5,
-      0.47,
-      0.52,
-      0.5
-    ],
-    "color": "B7791F",
-    "premium": false,
-    "title_hi": "ग्लोबल मार्केट में निवेश से क्या फायदे मिलते हैं?",
-    "summary_hi": "अंतरराष्ट्रीय शेयरों में निवेश करने से निवेशकों को एक ही जगह पर जोखिम कम करने का मौका मिलता है। इसके अलावा, इससे अलग-अलग वैश्विक क्षेत्रों में उभरते विकास के अवसरों को भी पकड़ा जा सकता है। वित्तीय फैसले लेने से पहले वैश्विक बाजारों में मिलने वाले अवसरों, जोखिमों और टैक्स की बातों को समझना जरूरी है।",
-    "why_hi": "ग्लोबल मार्केट में निवेश के अवसरों और जोखिमों पर चर्चा।",
-    "chips_hi": {},
-    "hi_tries": 0,
-    "hi_ver": 2
-  },
-  {
-    "v": 3,
-    "cat": "Economy",
-    "tk": "ECONOMY",
-    "title": "Government raises export duty on diesel and aviation fuel",
-    "summary": "The central government has increased the export duty on diesel by 3 rupees to 11 rupees 50 paise per litre, and raised the aviation turbine fuel levy to 11 rupees per litre. Meanwhile, the export duty of 2 rupees 50 paise on petrol has been completely withdrawn.",
-    "source": "Business Standard",
-    "published": "2026-11-01T01:57:23+00:00",
-    "ago": "19m",
-    "impact": "Neutral",
-    "why": "Mixed tax changes on fuel exports.",
-    "url": "https://www.business-standard.com/economy/news/economy-news-govt-hikes-export-duty-diesel-atf-exempts-petrol-exports-126110100049_1.html",
-    "chips": {
-      "Diesel duty rise": "₹3",
-      "Diesel duty total": "₹11.50 per litre",
-      "Petrol duty removed": "₹2.50"
-    },
-    "trend": [
-      0.5,
-      0.55,
-      0.45,
-      0.5,
-      0.47,
-      0.52,
-      0.5
-    ],
-    "color": "B7791F",
-    "premium": false,
-    "title_hi": "सरकार ने डीजल और एयरवेज ईंधन पर निर्यात शुल्क बढ़ाया",
-    "summary_hi": "केंद्र सरकार ने डीजल पर निर्यात शुल्क 3 रुपये बढ़ाकर 11 रुपये 50 पैसे प्रति लीटर कर दिया है, जबकि विमानन ईंधन का लेवी 11 रुपये प्रति लीटर कर दिया गया है। इसके अलावा, पेट्रोल के निर्यात पर लगने वाला 2 रुपये 50 पैसे का शुल्क पूरी तरह से हटा लिया गया है।",
-    "why_hi": "फ्यूल निर्यात पर मिश्रित कर बदलाव।",
-    "chips_hi": {
-      "डीजल शुल्क वृद्धि": "₹3",
-      "कुल डीजल शुल्क": "₹11.50 प्रति लीटर",
-      "हटाया गया पेट्रोल शु": "₹2.50"
     },
     "hi_tries": 0,
     "hi_ver": 2
