@@ -1,6 +1,216 @@
 [
   {
     "v": 3,
+    "cat": "Industry",
+    "tk": "INDIGO",
+    "title": "IndiGo posts Rs 1,879.1 crore loss amid fuel cost pressures",
+    "summary": "IndiGo reported a loss of Rs 1,879.1 crore for the September quarter as higher fuel costs and rupee depreciation impacted profitability. Despite challenging industry conditions and reduced capacity, the airline's CEO stated that the company sees opportunities and plans to navigate the headwinds. The carrier expects to receive wide-body A350 aircraft starting in the second quarter of 2028.",
+    "source": "Business Standard / Press Trust of India",
+    "published": "2026-11-02T06:10:14+00:00",
+    "ago": "15m",
+    "impact": "Negative",
+    "why": "High fuel costs and quarterly loss reported.",
+    "url": "https://www.business-standard.com/industry/aviation/indigo-sees-opportunities-despite-challenging-industry-conditions-ceo-126110200331_1.html",
+    "chips": {
+      "Quarterly loss": "Rs 1,879.1 crore"
+    },
+    "trend": [
+      0.95,
+      0.85,
+      0.7,
+      0.6,
+      0.4,
+      0.3,
+      0.1
+    ],
+    "color": "9B2C2C",
+    "premium": false,
+    "title_hi": "IndiGo को सितंबर तिमाही में हुआ ₹1,879.1 करोड़ का घाटा",
+    "summary_hi": "बढ़ते ईंधन खर्च और रुपये में गिरावट के कारण सितंबर तिमाही में IndiGo को ₹1,879.1 करोड़ का घाटा हुआ। चुनौतीपूर्ण परिस्थितियों और क्षमता में कटौती के बावजूद, एयरलाइन के सीईओ ने कहा कि कंपनी अवसरों को देख रही है और चुनौतियों से निपटेगी। एयरलाइन को साल 2028 की दूसरी तिमाही से वाइड-बॉडी A350 विमान मिलने की उम्मीद है।",
+    "why_hi": "ऊंचे ईंधन खर्च के कारण तिमाही घाटा।",
+    "chips_hi": {
+      "तिमाही घाटा": "₹1,879.1 करोड़"
+    }
+  },
+  {
+    "v": 3,
+    "cat": "Industry",
+    "tk": "ASHOK LEYLAND",
+    "title": "Ashok Leyland sees October sales jump by 23 percent",
+    "summary": "Commercial vehicle maker Ashok Leyland announced a 23 percent year-on-year growth in total sales for October, reaching 21,888 units compared to 17,820 units previously. The growth was supported by increases across medium, heavy, and light commercial vehicle segments in both domestic and export markets, according to the company's exchange filing.",
+    "source": "Business Standard / Press Trust of India",
+    "published": "2026-11-02T06:06:52+00:00",
+    "ago": "18m",
+    "impact": "Positive",
+    "why": "Strong overall and segment sales growth reported.",
+    "url": "https://www.business-standard.com/industry/auto/ashok-leyland-reports-23-growth-in-october-sales-to-21-888-units-126110200341_1.html",
+    "chips": {
+      "Total sales": "21,888 units",
+      "M&HCV sales": "13,927 units",
+      "LCV sales": "7,961 units"
+    },
+    "trend": [
+      0.1,
+      0.25,
+      0.2,
+      0.5,
+      0.45,
+      0.8,
+      0.95
+    ],
+    "color": "0F766E",
+    "premium": false,
+    "title_hi": "Ashok Leyland की अक्टूबर बिक्री में 23 प्रतिशत की बढ़त",
+    "summary_hi": "कमर्शियल वाहन निर्माता Ashok Leyland ने अक्टूबर में कुल बिक्री में 23 प्रतिशत की सालाना बढ़ोतरी दर्ज की है। एक्सचेंज फाइलिंग के अनुसार, कंपनी की कुल बिक्री पिछले साल के 17,820 यूनिट से बढ़कर 21,888 यूनिट पर पहुंच गई। इस बढ़त में मीडियम, भारी और हल्के कमर्शियल वाहन सेगमेंट का योगदान रहा।",
+    "why_hi": "बिक्री के आंकड़ों में मजबूत बढ़त दर्ज हुई।",
+    "chips_hi": {
+      "कुल बिक्री": "21,888 यूनिट",
+      "M&HCV बिक्री": "13,927 यूनिट",
+      "LCV बिक्री": "7,961 यूनिट"
+    }
+  },
+  {
+    "v": 3,
+    "cat": "IPO",
+    "tk": "COAL INDIA",
+    "title": "Coal India Unit South Eastern Coalfields Files For $800 Million IPO",
+    "summary": "South Eastern Coalfields, a unit of Coal India, has submitted a draft prospectus to Sebi for an IPO valued at $800 million. The public offering will consist entirely of existing shares sold by the parent company, with no fresh share issuance involved in the process.",
+    "source": "Business Standard / Bloomberg",
+    "published": "2026-11-02T05:44:04+00:00",
+    "ago": "41m",
+    "impact": "Neutral",
+    "why": "Subsidiary share sale with no fresh capital.",
+    "url": "https://www.business-standard.com/companies/news/coal-india-unit-south-eastern-coalfields-files-for-800-million-ipo-126110200334_1.html",
+    "chips": {
+      "IPO size": "$800 million"
+    },
+    "trend": [
+      0.5,
+      0.55,
+      0.45,
+      0.5,
+      0.47,
+      0.52,
+      0.5
+    ],
+    "color": "B7791F",
+    "premium": false,
+    "title_hi": "Coal India की यूनिट South Eastern Coalfields ने $800 मिलियन के IPO के लिए किया आवेदन",
+    "summary_hi": "Coal India की यूनिट South Eastern Coalfields ने Sebi के पास $800 मिलियन के IPO के लिए ड्राफ्ट प्रॉस्पेक्टस दाखिल किया है। इस पब्लिक ऑफरिंग में पूरी तरह से पेरेंट कंपनी द्वारा बेचे जाने वाले शेयर शामिल होंगे, जिसमें कोई नया शेयर जारी नहीं किया जाएगा।",
+    "why_hi": "नया पूंजीगत जुटाव नहीं, केवल शेयर बिक्री।",
+    "chips_hi": {
+      "IPO आकार": "$800 million"
+    }
+  },
+  {
+    "v": 3,
+    "cat": "Markets",
+    "tk": "ITI",
+    "title": "Why did public sector undertaking shares jump up to 19 percent?",
+    "summary": "Shares of multiple public sector undertakings surged significantly during Monday's intraday trading session. Indices tracking these state-owned enterprises advanced by 2 percent. Major state-backed entities like NTPC, Coal India, and several rail and infrastructure firms recorded notable gains, driving the market momentum.",
+    "source": "Business Standard",
+    "published": "2026-11-02T05:36:44+00:00",
+    "ago": "49m",
+    "impact": "Positive",
+    "why": "Strong buying interest lifted public sector stocks.",
+    "url": "https://www.business-standard.com/markets/news/psu-cpse-stocks-in-demand-iti-engineers-india-zoom-up-to-19-here-s-why-126110200309_1.html",
+    "chips": {
+      "Gain": "up to 19%",
+      "Index rise": "2%",
+      "Stock rally": "3-6%"
+    },
+    "trend": [
+      0.1,
+      0.25,
+      0.2,
+      0.5,
+      0.45,
+      0.8,
+      0.95
+    ],
+    "color": "0F766E",
+    "premium": false,
+    "title_hi": "ITI और Engineers India के शेयरों में 19 प्रतिशत तक की तेजी क्यों आई?",
+    "summary_hi": "सोमवार के कारोबार में सरकारी कंपनियों के शेयरों में जोरदार तेजी देखने को मिली। BSE PSU और CPSE सूचकांक में 2 प्रतिशत की बढ़त दर्ज की गई। NTPC, Coal India, RVNL और रेल सेक्टर से जुड़ी कई अन्य सरकारी कंपनियों के शेयरों में 3 से 6 प्रतिशत तक का उछाल आया।",
+    "why_hi": "सरकारी शेयरों में जोरदार खरीदारी देखी गई।",
+    "chips_hi": {
+      "तेजी": "19% तक",
+      "सूचकांक बढ़त": "2%",
+      "शेयर उछाल": "3-6%"
+    }
+  },
+  {
+    "v": 3,
+    "cat": "Industry",
+    "tk": "HDFC CAPITAL",
+    "title": "HDFC Capital and DivyaSree launch Rs 1,500 crore housing fund",
+    "summary": "HDFC Capital has teamed up with DivyaSree Developers to create a Rs 1,500 crore platform for residential projects. This partnership will offer growth capital for acquiring and developing properties in Bengaluru, Hyderabad, and Chennai over the next three to four years, targeting a potential revenue of Rs 6,750 crore.",
+    "source": "Business Standard / Press Trust of India",
+    "published": "2026-11-02T05:28:25+00:00",
+    "ago": "57m",
+    "impact": "Positive",
+    "why": "Growth capital supports new residential project development.",
+    "url": "https://www.business-standard.com/industry/news/hdfc-capital-divyasree-set-up-1-500-cr-fund-to-build-housing-projects-126110200292_1.html",
+    "chips": {
+      "Fund size": "Rs 1,500 crore",
+      "Potential revenue": "Rs 6,750 crore"
+    },
+    "trend": [
+      0.1,
+      0.25,
+      0.2,
+      0.5,
+      0.45,
+      0.8,
+      0.95
+    ],
+    "color": "0F766E",
+    "premium": false,
+    "title_hi": "HDFC Capital और DivyaSree ने बनाया ₹1,500 करोड़ का हाउसिंग फंड",
+    "summary_hi": "HDFC Capital ने रेजिडेंशियल प्रोजेक्ट्स के निर्माण के लिए DivyaSree Developers के साथ मिलकर 1,500 करोड़ रुपये का प्लेटफॉर्म बनाया है। यह साझेदारी अगले तीन से चार वर्षों में बेंगलुरु, हैदराबाद और चेन्नई में संपत्तियों के अधिग्रहण और विकास के लिए विकास पूंजी प्रदान करेगी, जिससे 6,750 करोड़ रुपये का संभावित राजस्व मिलने की उम्मीद है।",
+    "why_hi": "विकास पूंजी से नए आवासीय प्रोजेक्ट्स को बढ़ावा मिलेगा।",
+    "chips_hi": {
+      "फंड आकार": "₹1,500 करोड़",
+      "संभावित राजस्व": "₹6,750 करोड़"
+    }
+  },
+  {
+    "v": 3,
+    "cat": "Companies",
+    "tk": "COMPANIES",
+    "title": "ED registers money laundering case against Subhash Chandra",
+    "summary": "The Enforcement Directorate has filed a money laundering case against media baron Subhash Chandra. The action follows an alleged loan fraud that led to a loss of Rs 1,322 crore for Life Insurance Corporation Housing Finance Limited. Officials stated that he allegedly inflated his net worth to secure loans and subsequently defaulted on them.",
+    "source": "Business Standard / Press Trust of India",
+    "published": "2026-11-02T05:23:39+00:00",
+    "ago": "1h",
+    "impact": "Negative",
+    "why": "Facing serious financial fraud and money laundering investig",
+    "url": "https://www.business-standard.com/companies/news/ed-registers-money-laundering-case-against-subhash-chandra-over-loan-fraud-126110200291_1.html",
+    "chips": {
+      "Loss": "Rs 1,322 crore",
+      "Total loans": "Rs 980 crore"
+    },
+    "trend": [
+      0.95,
+      0.85,
+      0.7,
+      0.6,
+      0.4,
+      0.3,
+      0.1
+    ],
+    "color": "9B2C2C",
+    "premium": false,
+    "title_hi": "Subhash Chandra पर मनी लॉन्ड्रिंग का मामला दर्ज",
+    "summary_hi": "प्रवर्तन निदेशालय ने मीडिया दिग्गज सुभाष चंद्र के खिलाफ मनी लॉन्ड्रिंग का मामला दर्ज किया है। यह कार्रवाई कथित ऋण धोखाधड़ी के सिलसिले में की गई है, जिससे लाइफ इंश्योरेंस कॉरपोरेशन हाउसिंग फाइनेंस लिमिटेड को 1,322 करोड़ रुपये का नुकसान हुआ था। अधिकारियों के अनुसार उन्होंने ऋण प्राप्त करने के लिए अपनी कुल संपत्ति को बढ़ा-चढ़ाकर दिखाया था।",
+    "why_hi": "गंभीर वित्तीय धोखाधड़ी और जांच का सामना।",
+    "chips_hi": {
+      "नुकसान": "₹1,322 करोड़",
+      "कुल लोन": "₹980 करोड़"
+    }
+  },
+  {
+    "v": 3,
     "cat": "Markets",
     "tk": "MARKETS",
     "title": "Asian shares drop as artificial intelligence spending worries grow",
@@ -23,7 +233,12 @@
     ],
     "color": "9B2C2C",
     "premium": false,
-    "hi_tries": 1
+    "hi_tries": 1,
+    "hi_ver": 2,
+    "title_hi": "AI पर भारी खर्च की चिंता से गिरे Asian बाजार",
+    "summary_hi": "AI पर बहुत ज्यादा पैसा खर्च होने की चिंता के चलते Asian शेयर बाजारों में गिरावट दर्ज की गई। इस डर से निवेशकों में सतर्कता बढ़ गई है और वे आने वाले तकनीकी कंपनियों के नतीजों का इंतजार कर रहे हैं।",
+    "why_hi": "AI पर भारी खर्च की चिंताओं ने बाजार को प्रभावित किया।",
+    "chips_hi": {}
   },
   {
     "v": 3,
@@ -60,7 +275,9 @@
       "ब्रेंट क्रूड गिरावट": "$1.59",
       "ब्रेंट क्रूड भाव": "$111.84 प्रति बैरल",
       "डब्लूटीआई क्रूड गिरा": "$1.56"
-    }
+    },
+    "hi_tries": 0,
+    "hi_ver": 2
   },
   {
     "v": 3,
@@ -95,7 +312,9 @@
     "chips_hi": {
       "औसत बढ़त": "6 प्रतिशत",
       "ट्रेडिंग दिन": "60"
-    }
+    },
+    "hi_tries": 0,
+    "hi_ver": 2
   },
   {
     "v": 3,
@@ -128,7 +347,9 @@
     "why_hi": "नया फंड मिलने से कारोबार बढ़ेगा।",
     "chips_hi": {
       "फंडिंग जुटाई": "$10 million"
-    }
+    },
+    "hi_tries": 0,
+    "hi_ver": 2
   },
   {
     "v": 3,
@@ -157,7 +378,9 @@
     "title_hi": "क्यों कंपनियां अर्थव्यवस्था को लेकर निराश पर व्यापार पर आशावादी हैं?",
     "summary_hi": "हालिया सर्वे के अनुसार कंपनियों की भावना में विरोधाभास देखा गया है। व्यापक आर्थिक दृष्टिकोण कमजोर होने के बावजूद व्यवसाय भविष्य के मुनाफे, निवेश और नियुक्तियों को लेकर अधिक आशावादी बने हुए हैं।",
     "why_hi": "अर्थव्यवस्था और व्यवसाय पर मिली-जुली भावना।",
-    "chips_hi": {}
+    "chips_hi": {},
+    "hi_tries": 0,
+    "hi_ver": 2
   },
   {
     "v": 3,
@@ -190,7 +413,9 @@
     "why_hi": "दरें बढ़ने से कंपनियों की कमाई सुधर सकती है।",
     "chips_hi": {
       "कॉल दर": "₹5 प्रति मिनट"
-    }
+    },
+    "hi_tries": 0,
+    "hi_ver": 2
   },
   {
     "v": 3,
@@ -321,7 +546,7 @@
     ],
     "color": "0F766E",
     "premium": false,
-    "hi_tries": 1,
+    "hi_tries": 2,
     "hi_ver": 2
   },
   {
@@ -620,204 +845,6 @@
       "हटाया गया पेट्रोल शु": "₹2.50"
     },
     "hi_tries": 0,
-    "hi_ver": 2
-  },
-  {
-    "v": 3,
-    "cat": "Finance",
-    "tk": "FINANCE",
-    "title": "Why past returns alone are not enough for mutual funds",
-    "summary": "Chasing historical performance is not enough for building long-term wealth through mutual funds. Investors need to align their choices with personal risk tolerance, financial goals, and time horizon. Relying on past returns alone may not ensure success. Proper planning and matching investments with individual needs are essential for steady financial growth over time.",
-    "source": "Business Standard",
-    "published": "2026-11-01T00:30:45+00:00",
-    "ago": "1h",
-    "impact": "Neutral",
-    "why": "General guidance on mutual fund selection.",
-    "url": "https://www.business-standard.com/finance/personal-finance/how-to-choose-mutual-funds-past-return-is-just-one-metric-to-pick-a-mutual-fund-know-what-to-do-126102901073_1.html",
-    "chips": {},
-    "trend": [
-      0.5,
-      0.55,
-      0.45,
-      0.5,
-      0.47,
-      0.52,
-      0.5
-    ],
-    "color": "B7791F",
-    "premium": false,
-    "title_hi": "म्यूचुअल फंड चुनने के लिए पिछला रिटर्न ही क्यों काफी नहीं है",
-    "summary_hi": "लॉन्ग-टर्म वेल्थ बनाने के लिए केवल पिछले प्रदर्शन के पीछे भागना काफी नहीं है। निवेशकों को अपने जोखिम सहने की क्षमता, निवेश लक्ष्यों और समय सीमा के अनुसार म्यूचुअल फंड का मिलान करना चाहिए। केवल पिछले रिटर्न पर भरोसा करना सफलता की गारंटी नहीं है।",
-    "why_hi": "म्यूचुअल फंड चुनने से जुड़ी सामान्य सलाह।",
-    "chips_hi": {},
-    "hi_tries": 0,
-    "hi_ver": 2
-  },
-  {
-    "v": 3,
-    "cat": "Industry",
-    "tk": "INDUSTRY",
-    "title": "How do new IBBI real estate rules protect homebuyers?",
-    "summary": "The Insolvency and Bankruptcy Board of India has updated the insolvency rules for real estate developers. These changes aim to accelerate home deliveries, boost the involvement of homebuyers in the process, and bring more transparency to property resolution proceedings.",
-    "source": "Business Standard",
-    "published": "2026-10-31T16:52:07+00:00",
-    "ago": "9h",
-    "impact": "Positive",
-    "why": "Protects buyers and speeds up delivery.",
-    "url": "https://www.business-standard.com/industry/news/ibbi-amends-real-estate-insolvency-rules-to-protect-homebuyers-interests-126103101363_1.html",
-    "chips": {},
-    "trend": [
-      0.1,
-      0.25,
-      0.2,
-      0.5,
-      0.45,
-      0.8,
-      0.95
-    ],
-    "color": "0F766E",
-    "premium": false,
-    "hi_tries": 2,
-    "hi_ver": 2
-  },
-  {
-    "v": 3,
-    "cat": "Markets",
-    "tk": "MARKETS",
-    "title": "Sebi bars EKI Energy and top executives over financial misrepresentation",
-    "summary": "Markets regulator Sebi has barred EKI Energy Services, its managing director, and other officials from the securities market. The action follows findings of premature revenue recognition and fund diversion. Penalties totaling Rs 88 lakh have been imposed on the company and individuals. The managing director must also take steps to recoup the diverted amounts.",
-    "source": "Business Standard / Press Trust of India",
-    "published": "2026-10-31T16:47:36+00:00",
-    "ago": "9h",
-    "impact": "Negative",
-    "why": "Regulatory ban and financial violations impact trust.",
-    "url": "https://www.business-standard.com/markets/news/sebi-bars-eki-energy-md-dabkara-others-from-market-imposes-penalty-126103101347_1.html",
-    "chips": {
-      "Penalties": "Rs 88 lakh",
-      "Premature revenue": "Rs 197.04 crore"
-    },
-    "trend": [
-      0.95,
-      0.85,
-      0.7,
-      0.6,
-      0.4,
-      0.3,
-      0.1
-    ],
-    "color": "9B2C2C",
-    "premium": false,
-    "title_hi": "Sebi ने EKI Energy और शीर्ष अधिकारियों को बाजार से प्रतिबंधित किया",
-    "summary_hi": "बाजार नियामक Sebi ने वित्तीय विवरणों में हेरफेर और फंड डायवर्जन के मामले में EKI Energy Services और इसके प्रबंध निदेशक सहित अन्य अधिकारियों पर प्रतिबंध लगा दिया है। कंपनी और अन्य व्यक्तियों पर कुल 88 लाख रुपये का जुर्माना भी लगाया गया है। नियामक ने प्रबंध निदेशक को डायवर्ट की गई राशि वापस लाने का निर्देश दिया है।",
-    "why_hi": "नियामक प्रतिबंध और वित्तीय उल्लंघन भरोसे को प्रभावित करते हैं।",
-    "chips_hi": {
-      "जुर्माना": "₹88 लाख",
-      "समयपूर्व राजस्व": "₹197.04 करोड़"
-    },
-    "hi_tries": 0,
-    "hi_ver": 2
-  },
-  {
-    "v": 3,
-    "cat": "Economy",
-    "tk": "ECONOMY",
-    "title": "Government releases extra ₹1.09-trillion tax devolution tranche to states",
-    "summary": "The central government has released an additional tax devolution installment of ₹1.09 trillion to states in October. Normally, the center makes tax devolution payments to states in 14 installments annually. Officials use their own discretion to decide which months will receive a double devolution of these funds.",
-    "source": "Business Standard",
-    "published": "2026-10-31T16:40:27+00:00",
-    "ago": "9h",
-    "impact": "Neutral",
-    "why": "Routine tax devolution funds released to states.",
-    "url": "https://www.business-standard.com/economy/news/govt-releases-extra-1-09-trillion-tax-devolution-tranche-to-states-in-oct-126103101348_1.html",
-    "chips": {
-      "Tax devolution": "₹1.09-trillion",
-      "Annual installments": "14"
-    },
-    "trend": [
-      0.5,
-      0.55,
-      0.45,
-      0.5,
-      0.47,
-      0.52,
-      0.5
-    ],
-    "color": "B7791F",
-    "premium": false,
-    "title_hi": "सरकार ने राज्यों के लिए ₹1.09-लाख करोड़ का अतिरिक्त टैक्स ट्रांसफर जारी किया",
-    "summary_hi": "केंद्र सरकार ने अक्टूबर में राज्यों को ₹1.09-लाख करोड़ की अतिरिक्त टैक्स devolution किस्त जारी की है। आमतौर पर केंद्र साल में 14 किस्तों के रूप में राज्यों को फंड ट्रांसफर करता है और डबल devolution के लिए महीनों का चुनाव अपनी पसंद से करता है।",
-    "why_hi": "नियमित टैक्स ट्रांसफर फंड जारी किया गया।",
-    "chips_hi": {
-      "टैक्स devolution": "₹1.09-लाख करोड़",
-      "वार्षिक किस्तें": "14"
-    },
-    "hi_tries": 0,
-    "hi_ver": 2
-  },
-  {
-    "v": 3,
-    "cat": "Economy",
-    "tk": "ECONOMY",
-    "title": "Centre releases addl instalment of tax devolution of ₹1.09 trn to states",
-    "summary": "The central government has released an extra instalment of tax devolution amounting to over Rs 1.09 lakh crore to various state governments. This funding comes ahead of the festive season to help states speed up capital spending and support their development and welfare expenses.",
-    "source": "Business Standard / Press Trust of India",
-    "published": "2026-10-31T16:25:20+00:00",
-    "ago": "9h",
-    "impact": "Positive",
-    "why": "Aids state spending and welfare funds.",
-    "url": "https://www.business-standard.com/economy/news/centre-releases-addl-instalment-of-tax-devolution-of-1-09-trn-to-states-126103101265_1.html",
-    "chips": {
-      "Tax devolution": "Rs 1,09,019 crore"
-    },
-    "trend": [
-      0.1,
-      0.25,
-      0.2,
-      0.5,
-      0.45,
-      0.8,
-      0.95
-    ],
-    "color": "0F766E",
-    "premium": false,
-    "title_hi": "केंद्र ने राज्यों को जारी किए 1.09 लाख करोड़ रुपये से अधिक",
-    "summary_hi": "केंद्र सरकार ने राज्यों के लिए कर हस्तांतरण की अतिरिक्त किस्त के रूप में 1.09 लाख करोड़ रुपये से अधिक जारी किए हैं। त्योहारों के मौसम से पहले यह राशि राज्यों को पूंजीगत खर्च बढ़ाने और विकास कार्यों को गति देने में मदद करेगी।",
-    "why_hi": "राज्यों का खर्च और विकास कार्य बढ़ेंगे",
-    "chips_hi": {
-      "कर हस्तांतरण": "₹1,09,019 करोड़"
-    },
-    "hi_tries": 0,
-    "hi_ver": 2
-  },
-  {
-    "v": 2,
-    "cat": "Earnings",
-    "tk": "CDSL",
-    "title": "How did CDSL grow its Q2 profit by 24 percent?",
-    "summary": "Central Depository Services (India) Ltd posted a consolidated net profit of Rs 173 crore for the July-September quarter, marking a 24 per cent rise from the previous year. Total consolidated income increased 22 per cent to Rs 417 crore. The growth was supported by the addition of 7.5 million new demat accounts during the period, driven by sustained participation in the securities market.",
-    "source": "Business Standard / Press Trust of India",
-    "published": "2026-10-31T13:46:05+00:00",
-    "ago": "15m",
-    "impact": "Positive",
-    "why": "Higher profit and rising account growth.",
-    "url": "https://www.business-standard.com/companies/news/cdsl-q2-profit-rises-24-to-173-cr-as-demat-accounts-grow-by-7-5-million-126103101125_1.html",
-    "chips": {
-      "Net profit": "Rs 173 crore",
-      "Total income": "Rs 417 crore",
-      "Demat accounts": "7.5 million"
-    },
-    "trend": [
-      0.1,
-      0.25,
-      0.2,
-      0.5,
-      0.45,
-      0.8,
-      0.95
-    ],
-    "color": "0F766E",
-    "premium": false,
-    "hi_tries": 2,
     "hi_ver": 2
   }
 ]
