@@ -1,6 +1,235 @@
 [
   {
     "v": 3,
+    "cat": "Economy",
+    "tk": "ECONOMY",
+    "title": "Why did the 10-year bond yield fall nearly 10 basis points?",
+    "summary": "The benchmark 10-year government bond yield dropped close to 10 basis points, settling at 7.32 per cent. This movement followed a decline in crude oil prices. Meanwhile, the rupee strengthened against the US dollar for the second consecutive session, according to the latest market update.",
+    "source": "Business Standard",
+    "published": "2026-11-02T14:19:03+00:00",
+    "ago": "11m",
+    "impact": "Positive",
+    "why": "Falling yields and stronger currency benefit the market.",
+    "url": "https://www.business-standard.com/economy/news/bond-yields-fall-nearly-10-bps-as-crude-slides-rupee-gains-against-dollar-126110201369_1.html",
+    "chips": {
+      "Bond yield": "7.32%"
+    },
+    "trend": [
+      0.1,
+      0.25,
+      0.2,
+      0.5,
+      0.45,
+      0.8,
+      0.95
+    ],
+    "color": "0F766E",
+    "premium": false,
+    "title_hi": "10-साल के बॉन्ड यील्ड में लगभग 10 बेसिस पॉइंट की गिरावट क्यों आई?",
+    "summary_hi": "क्रूड ऑयल की कीमतों में नरमी के चलते बेंचमार्क 10-साल का सरकारी बॉन्ड यील्ड गिरकर 7.32 प्रतिशत पर आ गया। इसके साथ ही, रुपया लगातार दूसरे सत्र में अमेरिकी डॉलर के मुकाबले मजबूत हुआ है।",
+    "why_hi": "यील्ड घटने और मुद्रा मजबूत होने से राहत।",
+    "chips_hi": {
+      "बॉन्ड यील्ड": "7.32%"
+    }
+  },
+  {
+    "v": 3,
+    "cat": "Economy",
+    "tk": "ECONOMY",
+    "title": "How does Uttar Pradesh plan to attract IT and ITeS operations?",
+    "summary": "Uttar Pradesh has introduced a state incentive and infrastructure framework. The policy aims to attract information technology and technology-enabled service operations to the state. It outlines specific incentives, eligibility criteria, and implementation guidelines to boost the local technology sector.",
+    "source": "Business Standard",
+    "published": "2026-11-02T14:18:38+00:00",
+    "ago": "12m",
+    "impact": "Positive",
+    "why": "New framework aims to attract technology operations.",
+    "url": "https://www.business-standard.com/economy/uttar-pradesh/it-and-ites-policy-of-uttar-pradesh-2022-incentives-eligibility-and-implementation-126110200419_1.html",
+    "chips": {},
+    "trend": [
+      0.1,
+      0.25,
+      0.2,
+      0.5,
+      0.45,
+      0.8,
+      0.95
+    ],
+    "color": "0F766E",
+    "premium": false,
+    "title_hi": "उत्तर प्रदेश कैसे IT और ITeS ऑपरेशंस को आकर्षित कर रहा है?",
+    "summary_hi": "उत्तर प्रदेश ने एक नई राज्य प्रोत्साहन और बुनियादी ढांचा नीति पेश की है। इस नीति का उद्देश्य राज्य में सूचना प्रौद्योगिकी और तकनीकी सेवाओं के संचालन को आकर्षित करना है। इसमें स्थानीय तकनीकी क्षेत्र को बढ़ावा देने के लिए प्रोत्साहन और कार्यान्वयन दिशा-निर्देश शामिल हैं।",
+    "why_hi": "नई नीति से तकनीकी ऑपरेशंस को बढ़ावा मिलेगा।",
+    "chips_hi": {}
+  },
+  {
+    "v": 3,
+    "cat": "Companies",
+    "tk": "COMPANIES",
+    "title": "Azim Premji Foundation launches new programme for social startups",
+    "summary": "The Azim Premji Foundation has introduced a support programme designed to help young development professionals set up grassroots organisations. This initiative focuses on underserved regions. Applications for the initial cohort are currently open and will remain available until the thirty first of December in the year 2026 for eligible candidates.",
+    "source": "Business Standard",
+    "published": "2026-11-02T14:12:19+00:00",
+    "ago": "18m",
+    "impact": "Neutral",
+    "why": "It supports grassroots development without direct market imp",
+    "url": "https://www.business-standard.com/companies/news/azim-premji-foundation-launches-programme-to-support-social-startups-126110201361_1.html",
+    "chips": {
+      "Application deadline": "31 December 2026"
+    },
+    "trend": [
+      0.5,
+      0.55,
+      0.45,
+      0.5,
+      0.47,
+      0.52,
+      0.5
+    ],
+    "color": "B7791F",
+    "premium": false,
+    "title_hi": "Azim Premji Foundation ने सामाजिक स्टार्टअप के लिए शुरू किया कार्यक्रम",
+    "summary_hi": "Azim Premji Foundation ने एक नया कार्यक्रम शुरू किया है, जो युवा विकास पेशेवरों को कम सेवा प्राप्त क्षेत्रों में जमीनी स्तर के संगठन स्थापित करने में मदद करेगा। इसके पहले समूह के लिए आवेदन 31 दिसंबर 2026 तक खुले रहेंगे।",
+    "why_hi": "यह बाजार पर सीधा असर डाले बिना विकास में मदद करता है।",
+    "chips_hi": {
+      "अंतिम तिथि": "31 दिसंबर 2026"
+    }
+  },
+  {
+    "v": 3,
+    "cat": "Markets",
+    "tk": "MARKETS",
+    "title": "Sebi reduces OFS cooling-off period for illiquid InvITs to eight weeks",
+    "summary": "Market regulator Sebi has reduced the cooling-off duration for offer-for-sale transactions by privately listed illiquid InvITs. The timeline is now shortened from 12 weeks to eight weeks. This change comes into effect immediately, impacting how these specific infrastructure investment trusts manage their share sales going forward.",
+    "source": "Business Standard / Press Trust of India",
+    "published": "2026-11-02T14:03:56+00:00",
+    "ago": "27m",
+    "impact": "Neutral",
+    "why": "Regulatory change with unclear direct fundamental impact.",
+    "url": "https://www.business-standard.com/markets/news/sebi-cuts-ofs-cooling-off-for-privately-listed-illiquid-invits-to-8-weeks-126110201342_1.html",
+    "chips": {
+      "New cooling-off peri": "8 weeks",
+      "Previous period": "12 weeks"
+    },
+    "trend": [
+      0.5,
+      0.55,
+      0.45,
+      0.5,
+      0.47,
+      0.52,
+      0.5
+    ],
+    "color": "B7791F",
+    "premium": false,
+    "title_hi": "Sebi ने illiquid InvITs के लिए OFS कूलिंग-ऑफ अवधि घटाकर 8 हफ्ते की",
+    "summary_hi": "मार्केट रेगुलेटर सेबी ने प्राइवेट रूप से लिस्टेड illiquid InvITs के ऑफर-for-sale ट्रांजैक्शन के लिए कूलिंग-ऑफ पीरियड कम कर दिया है। इस अवधि को 12 हफ्ते से घटाकर 8 हफ्ते कर दिया गया है। यह बदलाव तुरंत प्रभाव से लागू हो गया है, जिससे इन ट्रस्टों के शेयर बिक्री नियमों में बदलाव आया है।",
+    "why_hi": "नियामक बदलाव जिसका फंडामेंटल असर स्पष्ट नहीं है।",
+    "chips_hi": {
+      "नई अवधि": "8 हफ्ते",
+      "पुरानी अवधि": "12 हफ्ते"
+    }
+  },
+  {
+    "v": 3,
+    "cat": "Economy",
+    "tk": "ECONOMY",
+    "title": "PM Modi to launch Pune Metro projects worth Rs 21,800 crore",
+    "summary": "Prime Minister Narendra Modi will inaugurate the 23-kilometer Pink Line of the Pune Metro. He will also lay the foundation stone for the Phase II corridors. The total cost of these upcoming infrastructure projects is estimated at around twenty-one thousand eight hundred crore rupees.",
+    "source": "Business Standard",
+    "published": "2026-11-02T14:02:01+00:00",
+    "ago": "29m",
+    "impact": "Positive",
+    "why": "New infrastructure boosts regional connectivity and growth.",
+    "url": "https://www.business-standard.com/economy/news/pm-modi-to-launch-pune-metro-projects-worth-21-800-crore-on-tuesday-126110201341_1.html",
+    "chips": {
+      "Project cost": "Rs 21,800 crore",
+      "Pink Line length": "23-km"
+    },
+    "trend": [
+      0.1,
+      0.25,
+      0.2,
+      0.5,
+      0.45,
+      0.8,
+      0.95
+    ],
+    "color": "0F766E",
+    "premium": false,
+    "title_hi": "PM Modi मंगलवार को 21,800 करोड़ रुपये के पुणे मेट्रो प्रोजेक्ट्स करेंगे लॉन्च",
+    "summary_hi": "प्रधानमंत्री नरेंद्र मोदी पुणे मेट्रो की 23 किलोमीटर लंबी पिंक लाइन का उद्घाटन करेंगे। इसके साथ ही वह फेज़ II कॉरिडोर की आधारशिला भी रखेंगे। इन सभी प्रोजेक्ट्स की कुल लागत लगभग 21,800 करोड़ रुपये है।",
+    "why_hi": "क्षेत्रीय कनेक्टिविटी और विकास को बढ़ावा मिलेगा।",
+    "chips_hi": {
+      "प्रोजेक्ट लागत": "₹21,800 करोड़",
+      "पिंक लाइन लंबाई": "23-km"
+    }
+  },
+  {
+    "v": 3,
+    "cat": "Companies",
+    "tk": "IBM",
+    "title": "How will artificial intelligence reshape the roles of software developers?",
+    "summary": "IBM expert Sriram Raghavan states that artificial intelligence agents will speed up software creation and transform developer roles. He adds that enterprises need to improve cybersecurity, governance, and employee skills to adapt to these changes.",
+    "source": "Business Standard",
+    "published": "2026-11-02T13:55:20+00:00",
+    "ago": "36m",
+    "impact": "Neutral",
+    "why": "Industry perspective on technology trends",
+    "url": "https://www.business-standard.com/companies/news/ai-will-create-more-software-transform-developers-roles-ibm-s-raghavan-126110201332_1.html",
+    "chips": {},
+    "trend": [
+      0.5,
+      0.55,
+      0.45,
+      0.5,
+      0.47,
+      0.52,
+      0.5
+    ],
+    "color": "B7791F",
+    "premium": false,
+    "title_hi": "आर्टिफिशियल इंटेलिजेंस कैसे सॉफ्टवेयर डेवलपर्स की भूमिकाओं को बदलेगा?",
+    "summary_hi": "आईबीएम के श्रीराम राघवन का कहना है कि एआई एजेंट सॉफ्टवेयर निर्माण को तेज करेंगे और डेवलपर्स की भूमिकाओं को बदल देंगे। उन्होंने यह भी कहा कि उद्यमों को इन बदलावों के लिए साइबर सुरक्षा, गवर्नेंस और कौशल को मजबूत करना चाहिए।",
+    "why_hi": "तकनीकी रुझानों पर उद्योग की राय",
+    "chips_hi": {}
+  },
+  {
+    "v": 3,
+    "cat": "Companies",
+    "tk": "MOBIKWIK",
+    "title": "How MobiKwik plans to double its lending revenue share to 50%",
+    "summary": "MobiKwik is working to increase the share of revenue coming from lending from 25 to 30 per cent up to 50 per cent. The company also anticipates its quarterly loan disbursements will hit between ₹1,500 crore and ₹2,000 crore within the next six to eight quarters, according to its chief executive officer.",
+    "source": "Business Standard",
+    "published": "2026-11-02T13:27:56+00:00",
+    "ago": "1h",
+    "impact": "Positive",
+    "why": "Lending revenue share is targeted to double.",
+    "url": "https://www.business-standard.com/companies/news/mobikwik-aims-to-double-lending-revenue-share-to-50-says-ceo-bipin-singh-126110201273_1.html",
+    "chips": {
+      "Target lending share": "50%",
+      "Loan disbursement ta": "₹1,500-2,000 crore"
+    },
+    "trend": [
+      0.1,
+      0.25,
+      0.2,
+      0.5,
+      0.45,
+      0.8,
+      0.95
+    ],
+    "color": "0F766E",
+    "premium": false,
+    "title_hi": "MobiKwik अपनी lending revenue हिस्सेदारी को 50% तक कैसे बढ़ाएगा?",
+    "summary_hi": "MobiKwik lending से आने वाली अपनी revenue हिस्सेदारी को 25 से 30 प्रतिशत से बढ़ाकर 50 प्रतिशत करने का लक्ष्य बना रहा है। CEO के अनुसार, कंपनी को उम्मीद है कि अगले छह से आठ तिमाहियों में उसका तिमाही loan वितरण ₹1,500 करोड़ से ₹2,000 करोड़ तक पहुंच जाएगा।",
+    "why_hi": "Lending revenue हिस्सेदारी बढ़ाने का लक्ष्य।",
+    "chips_hi": {
+      "लक्षित lending हिस्स": "50%",
+      "Loan वितरण लक्ष्य": "₹1,500-2,000 करोड़"
+    }
+  },
+  {
+    "v": 3,
     "cat": "Companies",
     "tk": "COMPANIES",
     "title": "How L&T landed fresh residential and commercial construction orders",
@@ -25,7 +254,8 @@
     ],
     "color": "0F766E",
     "premium": false,
-    "hi_tries": 1
+    "hi_tries": 1,
+    "hi_ver": 2
   },
   {
     "v": 3,
@@ -54,7 +284,9 @@
     "title_hi": "बढ़ती कीमतों के बीच IndiGo ने क्यों की ईंधन नीति की समीक्षा?",
     "summary_hi": "जेट ईंधन की बढ़ती कीमतों और लंबी दूरी के विस्तार के बीच IndiGo अपनी ईंधन हेजिंग नीति की व्यापक समीक्षा करने जा रही है। एयरलाइन के सीईओ Willie Walsh ने बताया कि बदलते बाजार और जोखिम के दृष्टिकोण को देखते हुए यह कदम उठाया गया है।",
     "why_hi": "ईंधन लागत और जोखिम प्रबंधन की समीक्षा।",
-    "chips_hi": {}
+    "chips_hi": {},
+    "hi_tries": 0,
+    "hi_ver": 2
   },
   {
     "v": 3,
@@ -89,7 +321,9 @@
     "chips_hi": {
       "समय सीमा": "15 दिन",
       "अधिनियम": "VB-G RAM G Act, 2025"
-    }
+    },
+    "hi_tries": 0,
+    "hi_ver": 2
   },
   {
     "v": 3,
@@ -124,7 +358,9 @@
     "chips_hi": {
       "नुकसान दर": "37%",
       "टैक्स उछाल": "82%"
-    }
+    },
+    "hi_tries": 0,
+    "hi_ver": 2
   },
   {
     "v": 3,
@@ -161,7 +397,9 @@
       "स्टॉक तेजी": "8%",
       "मार्च निचले स्तर से ": "200%",
       "CY2026 बढ़त": "154%"
-    }
+    },
+    "hi_tries": 0,
+    "hi_ver": 2
   },
   {
     "v": 3,
@@ -190,7 +428,9 @@
     "title_hi": "Razorpay को GIFT City से क्रॉस-बॉर्डर पेमेंट के लिए मिला फाइनल लाइसेंस",
     "summary_hi": "Razorpay को GIFT City से विदेशी मुद्रा ट्रांसफर और मल्टी-करेंसी अकाउंट की सुविधा देने की मंजूरी मिल गई है। यह फाइनल लाइसेंस एक ही रेगुलेटरी फ्रेमवर्क के तहत काम करता है, जिससे कंपनी अपनी क्रॉस-बॉर्डर पेमेंट सेवाओं का विस्तार कर सकेगी।",
     "why_hi": "विदेशी मुद्रा पेमेंट सेवाओं की क्षमता बढ़ी।",
-    "chips_hi": {}
+    "chips_hi": {},
+    "hi_tries": 0,
+    "hi_ver": 2
   },
   {
     "v": 3,
@@ -219,7 +459,9 @@
     "title_hi": "EPF subscribers अब WhatsApp के जरिए कैसे चेक कर सकते हैं बैलेंस?",
     "summary_hi": "EPFO ने PF बैलेंस, पासबुक और ट्रांजैक्शन देखने के लिए WhatsApp सुविधा शुरू की है। सब्सक्राइबर अपने आखिरी पांच ट्रांजैक्शन देख सकते हैं और PMVBRY सहायता प्राप्त कर सकते हैं। इसके अलावा, पात्र निष्क्रिय खातों का निपटान भी अपने आप हो जाएगा।",
     "why_hi": "सेवाओं को आसान बनाता है और सेटलमेंट सुधारता है।",
-    "chips_hi": {}
+    "chips_hi": {},
+    "hi_tries": 0,
+    "hi_ver": 2
   },
   {
     "v": 3,
@@ -581,243 +823,6 @@
     "why_hi": "नया फंड मिलने से कारोबार बढ़ेगा।",
     "chips_hi": {
       "फंडिंग जुटाई": "$10 million"
-    },
-    "hi_tries": 0,
-    "hi_ver": 2
-  },
-  {
-    "v": 3,
-    "cat": "Economy",
-    "tk": "ECONOMY",
-    "title": "Why are firms pessimistic on the economy yet bullish on business?",
-    "summary": "A recent survey reveals a split sentiment among companies. While economic confidence declines, businesses remain optimistic about future profitability, investment, and hiring prospects. This unique outlook highlights a growing disconnect between broader macroeconomic views and individual corporate expectations during the period.",
-    "source": "Business Standard",
-    "published": "2026-11-01T17:52:10+00:00",
-    "ago": "8h",
-    "impact": "Neutral",
-    "why": "Mixed sentiment on economy and business growth.",
-    "url": "https://www.business-standard.com/economy/news/companies-pessimistic-about-economy-bullish-on-business-ima-india-survey-126110100892_1.html",
-    "chips": {},
-    "trend": [
-      0.5,
-      0.55,
-      0.45,
-      0.5,
-      0.47,
-      0.52,
-      0.5
-    ],
-    "color": "B7791F",
-    "premium": true,
-    "title_hi": "क्यों कंपनियां अर्थव्यवस्था को लेकर निराश पर व्यापार पर आशावादी हैं?",
-    "summary_hi": "हालिया सर्वे के अनुसार कंपनियों की भावना में विरोधाभास देखा गया है। व्यापक आर्थिक दृष्टिकोण कमजोर होने के बावजूद व्यवसाय भविष्य के मुनाफे, निवेश और नियुक्तियों को लेकर अधिक आशावादी बने हुए हैं।",
-    "why_hi": "अर्थव्यवस्था और व्यवसाय पर मिली-जुली भावना।",
-    "chips_hi": {},
-    "hi_tries": 0,
-    "hi_ver": 2
-  },
-  {
-    "v": 3,
-    "cat": "Industry",
-    "tk": "INDUSTRY",
-    "title": "Why are telecom companies demanding ₹5 per minute for calls?",
-    "summary": "Telecom operators want international call termination charges raised to ₹5 per minute. Their industry body, COAI, states that the depreciation of the rupee over the past year has reduced their realisations. Since these charges are settled in US dollars with global operators, the currency drop has impacted earnings.",
-    "source": "Business Standard",
-    "published": "2026-11-01T17:40:14+00:00",
-    "ago": "8h",
-    "impact": "Positive",
-    "why": "Higher rates can improve carrier earnings.",
-    "url": "https://www.business-standard.com/industry/news/telcos-seek-hike-in-international-call-termination-charges-to-5-per-minute-126110100885_1.html",
-    "chips": {
-      "Call rate": "₹5 per minute"
-    },
-    "trend": [
-      0.1,
-      0.25,
-      0.2,
-      0.5,
-      0.45,
-      0.8,
-      0.95
-    ],
-    "color": "0F766E",
-    "premium": true,
-    "title_hi": "क्यों टेलीकॉम कंपनियां इंटरनेशनल कॉल्स के लिए मांग रही हैं ₹5?",
-    "summary_hi": "टेलीकॉम कंपनियों ने इंडस्ट्री बॉडी COAI के जरिए इंटरनेशनल कॉल टर्मिनेशन चार्ज को बढ़ाकर ₹5 प्रति मिनट करने की मांग की है। उनका तर्क है कि पिछले एक साल में रुपये में आई कमजोरी से उनकी कमाई कम हुई है, क्योंकि ग्लोबल ऑपरेटरों के साथ यह भुगतान अमेरिकी डॉलर में होता है।",
-    "why_hi": "दरें बढ़ने से कंपनियों की कमाई सुधर सकती है।",
-    "chips_hi": {
-      "कॉल दर": "₹5 प्रति मिनट"
-    },
-    "hi_tries": 0,
-    "hi_ver": 2
-  },
-  {
-    "v": 3,
-    "cat": "Industry",
-    "tk": "INDUSTRY",
-    "title": "Why are Indian airlines cutting domestic flights this Diwali?",
-    "summary": "Indian carriers have scheduled 22,306 weekly domestic flights for November, marking a 2.6 percent drop from October. This reduction of 606 flights comes amid soaring ticket prices and softer travel demand, leading to capacity cuts across several major routes during the festive season.",
-    "source": "Business Standard",
-    "published": "2026-11-01T13:05:55+00:00",
-    "ago": "59m",
-    "impact": "Negative",
-    "why": "Flight capacity reduced due to lower demand.",
-    "url": "https://www.business-standard.com/industry/aviation/airlines-schedule-2-6-fewer-domestic-flights-this-diwali-amid-high-fares-126110100525_1.html",
-    "chips": {
-      "Weekly flights": "22,306",
-      "Flight reduction": "606"
-    },
-    "trend": [
-      0.95,
-      0.85,
-      0.7,
-      0.6,
-      0.4,
-      0.3,
-      0.1
-    ],
-    "color": "9B2C2C",
-    "premium": false,
-    "title_hi": "दिवाली पर एयरलाइंस ने घरेलू उड़ानों की संख्या क्यों घटाई?",
-    "summary_hi": "भारतीय एयरलाइंस ने इस नवंबर में 22,306 साप्ताहिक घरेलू उड़ानें तय की हैं, जो अक्टूबर की तुलना में 606 कम हैं। अधिक किराए और कमजोर मांग के कारण प्रमुख मार्गों पर उड़ानों में यह कटौती की गई है।",
-    "why_hi": "कम मांग के कारण उड़ानों में कटौती।",
-    "chips_hi": {
-      "साप्ताहिक उड़ानें": "22,306",
-      "घटाई गई उड़ानें": "606"
-    },
-    "hi_tries": 0,
-    "hi_ver": 2
-  },
-  {
-    "v": 3,
-    "cat": "Companies",
-    "tk": "RPG LIFE",
-    "title": "RPG Life Sciences plans a ₹500 crore acquisition within 12 months",
-    "summary": "RPG Life Sciences aims to deploy ₹500 crore for a new acquisition in the next year. The drugmaker targets an annual growth rate of 25 per cent in its active pharmaceutical ingredient business over the coming five years.",
-    "source": "Business Standard",
-    "published": "2026-11-01T12:50:09+00:00",
-    "ago": "1h",
-    "impact": "Positive",
-    "why": "Expansion plans drive future business growth.",
-    "url": "https://www.business-standard.com/companies/people/rpg-life-sciences-eyes-another-acquisition-with-500-crore-capital-pool-126110100615_1.html",
-    "chips": {
-      "Capital pool": "₹500 crore",
-      "Target growth": "25 per cent"
-    },
-    "trend": [
-      0.1,
-      0.25,
-      0.2,
-      0.5,
-      0.45,
-      0.8,
-      0.95
-    ],
-    "color": "0F766E",
-    "premium": false,
-    "title_hi": "RPG Life Sciences 12 महीनों में करेगी ₹500 करोड़ का अधिग्रहण",
-    "summary_hi": "RPG Life Sciences अगले एक साल के भीतर एक और अधिग्रहण के लिए ₹500 करोड़ खर्च करने की योजना बना रही है। कंपनी ने अगले पांच वर्षों में अपने एपीआई बिजनेस में 25 प्रतिशत वार्षिक वृद्धि का लक्ष्य रखा है।",
-    "why_hi": "विस्तार योजनाएं भविष्य के विकास को गति देंगी।",
-    "chips_hi": {
-      "पूंजी": "₹500 करोड़",
-      "लक्ष्यित वृद्धि": "25 प्रतिशत"
-    },
-    "hi_tries": 0,
-    "hi_ver": 2
-  },
-  {
-    "v": 3,
-    "cat": "Companies",
-    "tk": "COMPANIES",
-    "title": "Can India's R&D base drive global manufacturing and AI adoption?",
-    "summary": "India possesses strong research and development capabilities that can successfully power advanced manufacturing, artificial intelligence adoption, and automation. According to Rockwell Automation Chief Financial Officer Christian Rothe, this solid R&D foundation also helps micro, small, and medium enterprises enhance their competitiveness across global markets, highlighting the country's growing industrial potential.",
-    "source": "Business Standard",
-    "published": "2026-11-01T11:51:30+00:00",
-    "ago": "2h",
-    "impact": "Positive",
-    "why": "Strong R&D drives advanced manufacturing growth.",
-    "url": "https://www.business-standard.com/companies/news/india-s-r-d-expertise-can-drive-global-manufacturing-rockwell-cfo-rothe-126110100552_1.html",
-    "chips": {},
-    "trend": [
-      0.1,
-      0.25,
-      0.2,
-      0.5,
-      0.45,
-      0.8,
-      0.95
-    ],
-    "color": "0F766E",
-    "premium": true,
-    "title_hi": "क्या भारत की आरएंडडी क्षमता वैश्विक मैन्युफैक्चरिंग को आगे बढ़ा सकती है?",
-    "summary_hi": "भारत की मजबूत अनुसंधान और विकास क्षमता उन्नत मैन्युफैक्चरिंग, आर्टिफिशियल इंटेलिजेंस और ऑटोमेशन को बढ़ावा दे सकती है। रॉकवेल ऑटोमेशन के सीएफओ Christian Rothe के अनुसार, यह मजबूत आधार एमएसएमई को वैश्विक स्तर पर अधिक प्रतिस्पर्धी बनने में भी मदद कर रहा है।",
-    "why_hi": "मजबूत आरएंडडी से मैन्युफैक्चरिंग को बढ़ावा।",
-    "chips_hi": {},
-    "hi_tries": 0,
-    "hi_ver": 2
-  },
-  {
-    "v": 3,
-    "cat": "Finance",
-    "tk": "FINANCE",
-    "title": "CII hails GST Council decision to remove arrest powers",
-    "summary": "The industry body described the proposed removal of GST arrest powers, higher prosecution thresholds, and stronger taxpayer safeguards as a major shift towards trust-based governance. These proposed changes by the GST Council are considered a landmark tax reform for the country, focusing on better taxpayer protection.",
-    "source": "Business Standard",
-    "published": "2026-11-01T11:47:23+00:00",
-    "ago": "2h",
-    "impact": "Positive",
-    "why": "Reform brings trust-based governance and taxpayer safeguards",
-    "url": "https://www.business-standard.com/finance/news/cii-hails-gst-council-s-decriminalisation-move-as-landmark-tax-reform-126110100549_1.html",
-    "chips": {},
-    "trend": [
-      0.1,
-      0.25,
-      0.2,
-      0.5,
-      0.45,
-      0.8,
-      0.95
-    ],
-    "color": "0F766E",
-    "premium": false,
-    "hi_tries": 2,
-    "hi_ver": 2
-  },
-  {
-    "v": 3,
-    "cat": "Industry",
-    "tk": "INDIAN BANK",
-    "title": "Indian Bank sets Rs 100 crore EV lending goal",
-    "summary": "Indian Bank aims to lend Rs 100 crore in the current fiscal year through its new EV charging infrastructure financing scheme called IND Green Charge. The bank plans to offer loans up to Rs 10 crore for up to 8 years to support green mobility, electric vehicle adoption, and entrepreneurship across various charging station models.",
-    "source": "Business Standard / Press Trust of India",
-    "published": "2026-11-01T05:30:40+00:00",
-    "ago": "35m",
-    "impact": "Positive",
-    "why": "Targeting green mobility lending growth.",
-    "url": "https://www.business-standard.com/industry/news/indian-bank-targets-100-crore-lending-under-ev-charging-scheme-in-fy27-md-126110100154_1.html",
-    "chips": {
-      "Lending target": "Rs 100 crore",
-      "Loan amount up to": "Rs 10 crore",
-      "EV sales growth": "29.7 per cent"
-    },
-    "trend": [
-      0.1,
-      0.25,
-      0.2,
-      0.5,
-      0.45,
-      0.8,
-      0.95
-    ],
-    "color": "0F766E",
-    "premium": false,
-    "title_hi": "Indian Bank का ईवी चार्जिंग के लिए 100 करोड़ का लक्ष्य",
-    "summary_hi": "Indian Bank ने EV चार्जिंग इंफ्रास्ट्रक्चर के लिए अपनी नई योजना IND Green Charge के तहत चालू वित्त वर्ष में 100 करोड़ रुपये का ऋण देने का लक्ष्य रखा है। बैंक हरित गतिशीलता और एमएसएमई को बढ़ावा देने के लिए 8 साल की अवधि के लिए 10 करोड़ रुपये तक का ऋण दे रहा है।",
-    "why_hi": "हरित ऋण लक्ष्य में वृद्धि",
-    "chips_hi": {
-      "ऋण लक्ष्य": "₹100 करोड़",
-      "ऋण राशि": "₹10 करोड़",
-      "ईवी बिक्री वृद्धि": "29.7 प्रतिशत"
     },
     "hi_tries": 0,
     "hi_ver": 2
