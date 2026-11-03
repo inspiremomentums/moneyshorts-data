@@ -3,6 +3,243 @@
     "v": 3,
     "cat": "Markets",
     "tk": "MARKETS",
+    "title": "Why did Nifty Capital Markets jump over 2 percent today?",
+    "summary": "The Nifty Capital Markets index rose by 2.43 percent on Tuesday morning. This performance outpaced the Nifty 50, which recorded an increase of 0.83 percent during the same trading session. Stocks like Motilal Oswal and Angel One saw surges of up to 7 percent.",
+    "source": "Business Standard",
+    "published": "2026-11-03T05:46:15+00:00",
+    "ago": "31m",
+    "impact": "Positive",
+    "why": "Index and key stocks posted strong gains.",
+    "url": "https://www.business-standard.com/markets/news/nifty-capital-markets-rallies-2-motilal-oswal-angel-one-surge-up-to-7-126110300423_1.html",
+    "chips": {
+      "Nifty Capital Market": "2.43%",
+      "Nifty 50 rise": "0.83%",
+      "Stock surge up to": "7%"
+    },
+    "trend": [
+      0.1,
+      0.25,
+      0.2,
+      0.5,
+      0.45,
+      0.8,
+      0.95
+    ],
+    "color": "0F766E",
+    "premium": false,
+    "title_hi": "Nifty Capital Markets में 2 प्रतिशत से ज्यादा की तेजी क्यों आई?",
+    "summary_hi": "मंगलवार सुबह Nifty Capital Markets इंडेक्स में 2.43 प्रतिशत की बढ़त दर्ज की गई। इसी दौरान Nifty 50 में 0.83 प्रतिशत की तेजी आई। Motilal Oswal और Angel One जैसे शेयरों में 7 प्रतिशत तक का उछाल देखा गया।",
+    "why_hi": "इंडेक्स और प्रमुख शेयरों में मजबूत तेजी।",
+    "chips_hi": {
+      "Nifty Capital Market": "2.43%",
+      "Nifty 50 बढ़त": "0.83%",
+      "शेयर में उछाल": "7%"
+    }
+  },
+  {
+    "v": 3,
+    "cat": "Companies",
+    "tk": "COMPANIES",
+    "title": "Why did Darius Khambata quit Tata Trusts after board disputes?",
+    "summary": "Darius Khambata has resigned from Tata Trusts following disagreements over a September 17 board meeting. He stated that the meeting harmed the reputation of the company and went against the core values of the Tata group, leading to his exit.",
+    "source": "Business Standard",
+    "published": "2026-11-03T05:29:24+00:00",
+    "ago": "48m",
+    "impact": "Negative",
+    "why": "Board level exit due to reputation concerns.",
+    "url": "https://www.business-standard.com/companies/news/who-is-darius-khambata-advocate-exit-noel-tata-trusts-composition-row-126110300425_1.html",
+    "chips": {},
+    "trend": [
+      0.95,
+      0.85,
+      0.7,
+      0.6,
+      0.4,
+      0.3,
+      0.1
+    ],
+    "color": "9B2C2C",
+    "premium": false,
+    "title_hi": "बोर्ड विवाद के बाद Darius Khambata ने Tata Trusts से क्यों इस्तीफा दिया?",
+    "summary_hi": "17 सितंबर की बोर्ड बैठक के बाद मतभेदों के चलते Darius Khambata ने Tata Trusts से इस्तीफा दे दिया है। उन्होंने कहा कि इस बैठक से कंपनी की प्रतिष्ठा को नुकसान पहुंचा है और यह टाटा समूह के मूल्यों के खिलाफ था।",
+    "why_hi": "प्रतिष्ठा संबंधी चिंताओं के कारण बोर्ड से इस्तीफा।",
+    "chips_hi": {}
+  },
+  {
+    "v": 3,
+    "cat": "Industry",
+    "tk": "INDUSTRY",
+    "title": "Centre proposes new entry points for importing drugs and devices",
+    "summary": "The Union Health Ministry has proposed adding several inland container depots, a special economic zone, and an international airport as authorised import gateways. The move aims to facilitate faster clearance and improve supply chain efficiency for medical products across multiple states by amending the Drugs Rules.",
+    "source": "Business Standard / Press Trust of India",
+    "published": "2026-11-03T05:18:57+00:00",
+    "ago": "58m",
+    "impact": "Positive",
+    "why": "Improves supply chain efficiency for medical products.",
+    "url": "https://www.business-standard.com/industry/news/centre-proposes-expanding-import-gateways-for-drugs-medical-devices-126110300397_1.html",
+    "chips": {},
+    "trend": [
+      0.1,
+      0.25,
+      0.2,
+      0.5,
+      0.45,
+      0.8,
+      0.95
+    ],
+    "color": "0F766E",
+    "premium": false,
+    "title_hi": "सरकार ने दवा और मेडिकल उपकरणों के आयात के लिए नए रास्ते सुझाए",
+    "summary_hi": "केंद्रीय स्वास्थ्य मंत्रालय ने दवाओं, मेडिकल उपकरणों और सौंदर्य प्रसाधनों के लिए अधिकृत आयात गेटवे के नेटवर्क का विस्तार करने का प्रस्ताव दिया है। इस कदम का उद्देश्य कई राज्यों में तेजी से मंजूरी देना और आपूर्ति श्रृंखला की दक्षता में सुधार करना है।",
+    "why_hi": "मेडिकल उत्पादों के लिए आपूर्ति श्रृंखला में सुधार।",
+    "chips_hi": {}
+  },
+  {
+    "v": 3,
+    "cat": "Markets",
+    "tk": "MARKETS",
+    "title": "Why did crude-sensitive stocks climb as oil stayed under $105?",
+    "summary": "Shares sensitive to crude oil prices saw gains as the global oil benchmark Brent crude traded below $105 per barrel. Brent crude increased marginally by 0.10 percent to reach $104.9, while West Texas Intermediate crude went up 0.18 percent to $96.63 per barrel.",
+    "source": "Business Standard",
+    "published": "2026-11-03T05:08:36+00:00",
+    "ago": "1h",
+    "impact": "Positive",
+    "why": "Lower oil prices benefit crude-sensitive companies.",
+    "url": "https://www.business-standard.com/markets/news/crude-sensitive-stocks-gain-as-oil-stays-below-105-hpcl-indigo-rise-126110300400_1.html",
+    "chips": {
+      "Brent crude": "$104.9",
+      "WTI crude": "$96.63"
+    },
+    "trend": [
+      0.1,
+      0.25,
+      0.2,
+      0.5,
+      0.45,
+      0.8,
+      0.95
+    ],
+    "color": "0F766E",
+    "premium": false,
+    "title_hi": "कच्चे तेल के 105 डॉलर से नीचे रहने पर शेयरों में तेजी क्यों आई?",
+    "summary_hi": "कच्चे तेल के दाम 105 डॉलर प्रति बैरल से नीचे रहने के कारण इससे जुड़े शेयरों में बढ़त दर्ज की गई। ब्रेंट क्रूड 0.10 प्रतिशत की मामूली बढ़त के साथ 104.9 डॉलर पर रहा, जबकि वेस्ट टेक्सास इंटरमीडिएट क्रूड 0.18 प्रतिशत बढ़कर 96.63 डॉलर पर पहुंच गया।",
+    "why_hi": "कम तेल कीमतों से कंपनियों को फायदा होता है।",
+    "chips_hi": {
+      "ब्रेंट क्रूड": "$104.9",
+      "डब्ल्यूटीआई क्रूड": "$96.63"
+    }
+  },
+  {
+    "v": 3,
+    "cat": "Earnings",
+    "tk": "KITEX GARMENTS",
+    "title": "Kitex Garments shares jump 17 percent after posting quarterly profit",
+    "summary": "Kitex Garments stock surged over 17 percent as the company returned to profitability in the second quarter. Even with this strong daily gain, the shares are still trading significantly below their 52-week high of Rs 231.15 reached earlier in February this year.",
+    "source": "Business Standard",
+    "published": "2026-11-03T05:04:53+00:00",
+    "ago": "1h",
+    "impact": "Positive",
+    "why": "Company turned profitable in the latest quarter.",
+    "url": "https://www.business-standard.com/markets/news/small-cap-stock-kitex-garments-zooms-over-17-as-firm-swings-to-black-in-q2-126110300398_1.html",
+    "chips": {
+      "Share price surge": "17%",
+      "52-week high": "Rs 231.15"
+    },
+    "trend": [
+      0.1,
+      0.25,
+      0.2,
+      0.5,
+      0.45,
+      0.8,
+      0.95
+    ],
+    "color": "0F766E",
+    "premium": false,
+    "title_hi": "Q2 में मुनाफा कमाते ही Kitex Garments के शेयरों में 17% से ज्यादा उछाल",
+    "summary_hi": "Kitex Garments का स्टॉक 17 प्रतिशत से अधिक बढ़ गया क्योंकि कंपनी ने दूसरी तिमाही में मुनाफा दर्ज किया। इस तेजी के बावजूद, शेयर इस साल फरवरी में बने 52-सप्ताह के उच्चतम स्तर ₹231.15 से काफी नीचे ट्रेड कर रहे हैं।",
+    "why_hi": "कंपनी ने तिमाही में मुनाफा दर्ज किया।",
+    "chips_hi": {
+      "शेयर तेजी": "17%",
+      "52-सप्ताह का उच्च स्": "₹231.15"
+    }
+  },
+  {
+    "v": 3,
+    "cat": "Earnings",
+    "tk": "COMPANIES",
+    "title": "Puravankara posts ₹84 crore net profit in September quarter",
+    "summary": "Realty firm Puravankara Ltd reported a consolidated net profit of ₹83.74 crore for the quarter ended September, recovering from a net loss in the previous year. Total income increased to ₹1,051.02 crore. The management noted that higher handovers, sustained sales, and stronger realisations supported the overall growth during the period.",
+    "source": "Business Standard / Press Trust of India",
+    "published": "2026-11-03T05:00:35+00:00",
+    "ago": "1h",
+    "impact": "Positive",
+    "why": "Profit returned and income rose significantly.",
+    "url": "https://www.business-standard.com/companies/quarterly-results/puravankara-q2-results-net-profit-at-84-cr-income-rises-to-1-051-cr-126110300319_1.html",
+    "chips": {
+      "Net profit": "Rs 83.74 crore",
+      "Total income": "Rs 1,051.02 crore"
+    },
+    "trend": [
+      0.1,
+      0.25,
+      0.2,
+      0.5,
+      0.45,
+      0.8,
+      0.95
+    ],
+    "color": "0F766E",
+    "premium": false,
+    "title_hi": "Puravankara ने सितंबर तिमाही में दर्ज किया ₹84 करोड़ का शुद्ध लाभ",
+    "summary_hi": "रियल्टी फर्म Puravankara Ltd ने सितंबर समाप्त तिमाही के लिए ₹83.74 करोड़ का समेकित शुद्ध लाभ दर्ज किया है, जिससे पिछले साल के घाटे से सुधार हुआ है। कुल आय बढ़कर ₹1,051.02 करोड़ हो गई। प्रबंधन के अनुसार, बेहतर हैंडओवर, निरंतर बिक्री और मजबूत दरों से इस अवधि के दौरान वृद्धि को समर्थन मिला।",
+    "why_hi": "मुनाफा वापस आया और आय में वृद्धि हुई।",
+    "chips_hi": {
+      "शुद्ध लाभ": "₹83.74 करोड़",
+      "कुल आय": "₹1,051.02 करोड़"
+    }
+  },
+  {
+    "v": 3,
+    "cat": "Industry",
+    "tk": "INDUSTRY",
+    "title": "Why has rabi crop sowing dropped sharply this year?",
+    "summary": "Rabi crop sowing dropped significantly due to deficient monsoon and low soil moisture. Total area covered reached 37.56 lakh hectare by October 30, down from 69.02 lakh hectare last year. Wheat sowing fell to 19,000 hectare from 3.34 lakh hectare. Pulses, gram, and oilseeds also recorded lower acreage according to Union Agriculture Ministry data.",
+    "source": "Business Standard / Press Trust of India",
+    "published": "2026-11-03T05:00:11+00:00",
+    "ago": "1h",
+    "impact": "Negative",
+    "why": "Deficient monsoon reduced rabi crop sowing area.",
+    "url": "https://www.business-standard.com/industry/agriculture/deficient-monsoon-slows-rabi-sowing-wheat-sowing-yet-to-pick-up-pace-126110300328_1.html",
+    "chips": {
+      "Total area covered": "37.56 lakh hectare",
+      "Wheat sown area": "19,000 hectare",
+      "Pulses area": "9.45 lakh hectare"
+    },
+    "trend": [
+      0.95,
+      0.85,
+      0.7,
+      0.6,
+      0.4,
+      0.3,
+      0.1
+    ],
+    "color": "9B2C2C",
+    "premium": false,
+    "title_hi": "कम बारिश के कारण इस साल रबी फसल की बुवाई क्यों घटी?",
+    "summary_hi": "कम मानसून और मिट्टी में नमी की कमी के कारण रबी फसलों की बुवाई में भारी गिरावट आई है। केंद्रीय कृषि मंत्रालय के आंकड़ों के अनुसार, 30 अक्टूबर तक कुल बुवाई क्षेत्र घटकर 37.56 लाख हेक्टेयर रह गया, जो पिछले साल इसी दौरान 69.02 लाख हेक्टेयर था। गेहूं की बुवाई भी पिछले साल के 3.34 लाख हेक्टेयर से गिरकर 19,000 हेक्टेयर रह गई।",
+    "why_hi": "कम बारिश के कारण बुवाई का रकबा घटा।",
+    "chips_hi": {
+      "कुल क्षेत्र": "37.56 लाख हेक्टेयर",
+      "गेहूं का क्षेत्र": "19,000 हेक्टेयर",
+      "दालों का क्षेत्र": "9.45 लाख हेक्टेयर"
+    }
+  },
+  {
+    "v": 3,
+    "cat": "Markets",
+    "tk": "MARKETS",
     "title": "Why did oil prices rise after reported US strikes?",
     "summary": "Brent crude futures and US West Texas Intermediate crude both increased by 0.5% following reports of US strikes on Iran's Qeshm Island. Brent rose by 48 cents to reach $105.25 a barrel, while US crude increased by 47 cents to hit $96.93 a barrel.",
     "source": "Business Standard / Reuters",
@@ -34,7 +271,9 @@
       "Brent बढ़त": "48 सेंट",
       "Brent कीमत": "$105.25",
       "WTI कीमत": "$96.93"
-    }
+    },
+    "hi_tries": 0,
+    "hi_ver": 2
   },
   {
     "v": 3,
@@ -69,7 +308,9 @@
     "chips_hi": {
       "ईवी रजिस्ट्रेशन वृद्": "75%",
       "पीवी बाजार गिरावट": "14.6%"
-    }
+    },
+    "hi_tries": 0,
+    "hi_ver": 2
   },
   {
     "v": 3,
@@ -106,7 +347,9 @@
       "शुद्ध लाभ": "₹53.7 करोड़",
       "राजस्व": "₹1,944.2 करोड़",
       "EBITDA वृद्धि": "3 प्रतिशत"
-    }
+    },
+    "hi_tries": 0,
+    "hi_ver": 2
   },
   {
     "v": 3,
@@ -135,7 +378,9 @@
     "title_hi": "Labour Bureau क्यों कर रहा है CPI-IW बेस इयर में संशोधन?",
     "summary_hi": "Labour Bureau औद्योगिक श्रमिकों के लिए उपभोक्ता मूल्य सूचकांक के बेस इयर में संशोधन की तैयारी कर रहा है। सरकार, नियोक्ताओं और कर्मचारियों के प्रतिनिधियों वाली एक त्रिपक्षीय समिति इस पूरी प्रक्रिया में सलाह देगी। इस कदम का उद्देश्य सूचकांक के दायरे को बढ़ाना है।",
     "why_hi": "आर्थिक डेटा सूचकांक में नियमित बदलाव।",
-    "chips_hi": {}
+    "chips_hi": {},
+    "hi_tries": 0,
+    "hi_ver": 2
   },
   {
     "v": 3,
@@ -165,7 +410,8 @@
     ],
     "color": "0F766E",
     "premium": false,
-    "hi_tries": 1
+    "hi_tries": 1,
+    "hi_ver": 2
   },
   {
     "v": 3,
@@ -202,7 +448,9 @@
       "शेयर तेजी": "11.6%",
       "मार्केट कैप बढ़ोतरी": "₹1.83 लाख करोड़",
       "जियो हिस्सेदारी मूल्": "₹8.37 लाख करोड़"
-    }
+    },
+    "hi_tries": 0,
+    "hi_ver": 2
   },
   {
     "v": 3,
@@ -231,7 +479,9 @@
     "title_hi": "Equitas के CEO के अनुसार संस्थानों को संस्थापकों से आगे क्यों निकलना चाहिए?",
     "summary_hi": "पी एन वासुदेवन ने Equitas से अपनी विदाई और भविष्य के रोडमैप पर चर्चा की। उन्होंने जोर दिया कि संस्थानों को अपने संस्थापकों से आगे बढ़ना सीखना चाहिए। जाने-माने प्रबंध निदेशक और मुख्य कार्यकारी अधिकारी ने संगठन की आगामी यात्रा के बारे में यह बातें साझा कीं।",
     "why_hi": "नेतृत्व परिवर्तन पर चर्चा, कोई वित्तीय प्रभाव नहीं",
-    "chips_hi": {}
+    "chips_hi": {},
+    "hi_tries": 0,
+    "hi_ver": 2
   },
   {
     "v": 3,
@@ -569,253 +819,6 @@
     "chips_hi": {
       "समय सीमा": "15 दिन",
       "अधिनियम": "VB-G RAM G Act, 2025"
-    },
-    "hi_tries": 0,
-    "hi_ver": 2
-  },
-  {
-    "v": 3,
-    "cat": "Finance",
-    "tk": "FINANCE",
-    "title": "Why are young Indian investors trading despite high losses?",
-    "summary": "A significant 37% of investors under the age of 25 are losing money in the markets. Even with these leading losses, younger generations continue to trade actively. At the same time, complex tax filings have surged significantly, pointing to rising financial activity among these retail participants.",
-    "source": "Business Standard",
-    "published": "2026-11-02T09:30:15+00:00",
-    "ago": "56m",
-    "impact": "Neutral",
-    "why": "Trading losses offset by rising participation.",
-    "url": "https://www.business-standard.com/finance/personal-finance/37-of-under-25-investors-lose-money-but-india-s-gen-z-keeps-on-trading-126110200728_1.html",
-    "chips": {
-      "Loss rate": "37%",
-      "Tax jump": "82%"
-    },
-    "trend": [
-      0.5,
-      0.55,
-      0.45,
-      0.5,
-      0.47,
-      0.52,
-      0.5
-    ],
-    "color": "B7791F",
-    "premium": false,
-    "title_hi": "भारी नुकसान के बाद भी जनरेशन जेड क्यों कर रही है ट्रेडिंग?",
-    "summary_hi": "25 वर्ष से कम आयु के 37% निवेशकों को बाजार में नुकसान उठाना पड़ रहा है। इसके बावजूद, देश की युवा पीढ़ी लगातार ट्रेडिंग में बनी हुई है। साथ ही, जटिल टैक्स फाइलिंग में भी भारी बढ़ोतरी दर्ज की गई है।",
-    "why_hi": "नुकसान के बावजूद युवा ट्रेडिंग जारी रखे हैं।",
-    "chips_hi": {
-      "नुकसान दर": "37%",
-      "टैक्स उछाल": "82%"
-    },
-    "hi_tries": 0,
-    "hi_ver": 2
-  },
-  {
-    "v": 3,
-    "cat": "Earnings",
-    "tk": "RATNAVEER",
-    "title": "Ratnaveer Precision surges 8 percent after reporting healthy Q2 performance",
-    "summary": "Ratnaveer Precision shares climbed 8 percent following strong second-quarter results. The stock has risen 200 percent from its March low and outperformed the broader market in calendar year 2026, gaining 154 percent while the BSE Sensex declined by 11.7 percent.",
-    "source": "Business Standard",
-    "published": "2026-11-02T09:28:18+00:00",
-    "ago": "58m",
-    "impact": "Positive",
-    "why": "Strong Q2 results and market outperformance.",
-    "url": "https://www.business-standard.com/markets/news/ratnaveer-precision-surges-8-on-healthy-q2-zooms-200-from-march-low-126110200724_1.html",
-    "chips": {
-      "Stock surge": "8%",
-      "Rise from March low": "200%",
-      "CY2026 gain": "154%"
-    },
-    "trend": [
-      0.1,
-      0.25,
-      0.2,
-      0.5,
-      0.45,
-      0.8,
-      0.95
-    ],
-    "color": "0F766E",
-    "premium": false,
-    "title_hi": "शानदार Q2 नतीजों के बाद Ratnaveer Precision के शेयर 8 प्रतिशत चढ़े",
-    "summary_hi": "Ratnaveer Precision के शेयरों में शानदार दूसरी तिमाही के नतीजों के बाद 8 प्रतिशत की तेजी आई। मार्च के निचले स्तर से यह स्टॉक 200 प्रतिशत उछल चुका है। कैलेंडर वर्ष 2026 में बीएसई सेंसेक्स में 11.7 प्रतिशत की गिरावट के मुकाबले इस स्टॉक ने 154 प्रतिशत की छलांग लगाई है।",
-    "why_hi": "बेहतर तिमाही नतीजे और मजबूत प्रदर्शन।",
-    "chips_hi": {
-      "स्टॉक तेजी": "8%",
-      "मार्च निचले स्तर से ": "200%",
-      "CY2026 बढ़त": "154%"
-    },
-    "hi_tries": 0,
-    "hi_ver": 2
-  },
-  {
-    "v": 3,
-    "cat": "Companies",
-    "tk": "RAZORPAY",
-    "title": "Razorpay secures final licence for cross-border payments from GIFT City",
-    "summary": "Razorpay has received approval to offer foreign currency transfers and multi-currency accounts from GIFT City. This final licence operates under a single regulatory framework, allowing the company to expand its cross-border payment services from the location.",
-    "source": "Business Standard",
-    "published": "2026-11-02T09:24:01+00:00",
-    "ago": "1h",
-    "impact": "Positive",
-    "why": "Expands foreign currency payment services capability.",
-    "url": "https://www.business-standard.com/companies/news/razorpay-gets-final-ifsca-licence-cross-border-payments-gift-city-126110200734_1.html",
-    "chips": {},
-    "trend": [
-      0.1,
-      0.25,
-      0.2,
-      0.5,
-      0.45,
-      0.8,
-      0.95
-    ],
-    "color": "0F766E",
-    "premium": false,
-    "title_hi": "Razorpay को GIFT City से क्रॉस-बॉर्डर पेमेंट के लिए मिला फाइनल लाइसेंस",
-    "summary_hi": "Razorpay को GIFT City से विदेशी मुद्रा ट्रांसफर और मल्टी-करेंसी अकाउंट की सुविधा देने की मंजूरी मिल गई है। यह फाइनल लाइसेंस एक ही रेगुलेटरी फ्रेमवर्क के तहत काम करता है, जिससे कंपनी अपनी क्रॉस-बॉर्डर पेमेंट सेवाओं का विस्तार कर सकेगी।",
-    "why_hi": "विदेशी मुद्रा पेमेंट सेवाओं की क्षमता बढ़ी।",
-    "chips_hi": {},
-    "hi_tries": 0,
-    "hi_ver": 2
-  },
-  {
-    "v": 3,
-    "cat": "Finance",
-    "tk": "FINANCE",
-    "title": "How can EPF subscribers now check their PF balance easily?",
-    "summary": "Retirement fund body EPFO has introduced a WhatsApp facility for members. Subscribers can view their latest five transactions, check PF balances, access passbooks, and get PMVBRY assistance. Additionally, eligible inactive accounts will now be settled automatically through this initiative, making services more accessible for millions of workers.",
-    "source": "Business Standard",
-    "published": "2026-11-02T09:22:11+00:00",
-    "ago": "1h",
-    "impact": "Positive",
-    "why": "Improves accessibility and automates account settlements.",
-    "url": "https://www.business-standard.com/finance/personal-finance/epfo-launches-whatsapp-facility-for-pf-balance-passbook-and-transactions-126110200727_1.html",
-    "chips": {},
-    "trend": [
-      0.1,
-      0.25,
-      0.2,
-      0.5,
-      0.45,
-      0.8,
-      0.95
-    ],
-    "color": "0F766E",
-    "premium": false,
-    "title_hi": "EPF subscribers अब WhatsApp के जरिए कैसे चेक कर सकते हैं बैलेंस?",
-    "summary_hi": "EPFO ने PF बैलेंस, पासबुक और ट्रांजैक्शन देखने के लिए WhatsApp सुविधा शुरू की है। सब्सक्राइबर अपने आखिरी पांच ट्रांजैक्शन देख सकते हैं और PMVBRY सहायता प्राप्त कर सकते हैं। इसके अलावा, पात्र निष्क्रिय खातों का निपटान भी अपने आप हो जाएगा।",
-    "why_hi": "सेवाओं को आसान बनाता है और सेटलमेंट सुधारता है।",
-    "chips_hi": {},
-    "hi_tries": 0,
-    "hi_ver": 2
-  },
-  {
-    "v": 3,
-    "cat": "Industry",
-    "tk": "INDIGO",
-    "title": "IndiGo posts Rs 1,879.1 crore loss amid fuel cost pressures",
-    "summary": "IndiGo reported a loss of Rs 1,879.1 crore for the September quarter as higher fuel costs and rupee depreciation impacted profitability. Despite challenging industry conditions and reduced capacity, the airline's CEO stated that the company sees opportunities and plans to navigate the headwinds. The carrier expects to receive wide-body A350 aircraft starting in the second quarter of 2028.",
-    "source": "Business Standard / Press Trust of India",
-    "published": "2026-11-02T06:10:14+00:00",
-    "ago": "15m",
-    "impact": "Negative",
-    "why": "High fuel costs and quarterly loss reported.",
-    "url": "https://www.business-standard.com/industry/aviation/indigo-sees-opportunities-despite-challenging-industry-conditions-ceo-126110200331_1.html",
-    "chips": {
-      "Quarterly loss": "Rs 1,879.1 crore"
-    },
-    "trend": [
-      0.95,
-      0.85,
-      0.7,
-      0.6,
-      0.4,
-      0.3,
-      0.1
-    ],
-    "color": "9B2C2C",
-    "premium": false,
-    "title_hi": "IndiGo को सितंबर तिमाही में हुआ ₹1,879.1 करोड़ का घाटा",
-    "summary_hi": "बढ़ते ईंधन खर्च और रुपये में गिरावट के कारण सितंबर तिमाही में IndiGo को ₹1,879.1 करोड़ का घाटा हुआ। चुनौतीपूर्ण परिस्थितियों और क्षमता में कटौती के बावजूद, एयरलाइन के सीईओ ने कहा कि कंपनी अवसरों को देख रही है और चुनौतियों से निपटेगी। एयरलाइन को साल 2028 की दूसरी तिमाही से वाइड-बॉडी A350 विमान मिलने की उम्मीद है।",
-    "why_hi": "ऊंचे ईंधन खर्च के कारण तिमाही घाटा।",
-    "chips_hi": {
-      "तिमाही घाटा": "₹1,879.1 करोड़"
-    },
-    "hi_tries": 0,
-    "hi_ver": 2
-  },
-  {
-    "v": 3,
-    "cat": "Industry",
-    "tk": "ASHOK LEYLAND",
-    "title": "Ashok Leyland sees October sales jump by 23 percent",
-    "summary": "Commercial vehicle maker Ashok Leyland announced a 23 percent year-on-year growth in total sales for October, reaching 21,888 units compared to 17,820 units previously. The growth was supported by increases across medium, heavy, and light commercial vehicle segments in both domestic and export markets, according to the company's exchange filing.",
-    "source": "Business Standard / Press Trust of India",
-    "published": "2026-11-02T06:06:52+00:00",
-    "ago": "18m",
-    "impact": "Positive",
-    "why": "Strong overall and segment sales growth reported.",
-    "url": "https://www.business-standard.com/industry/auto/ashok-leyland-reports-23-growth-in-october-sales-to-21-888-units-126110200341_1.html",
-    "chips": {
-      "Total sales": "21,888 units",
-      "M&HCV sales": "13,927 units",
-      "LCV sales": "7,961 units"
-    },
-    "trend": [
-      0.1,
-      0.25,
-      0.2,
-      0.5,
-      0.45,
-      0.8,
-      0.95
-    ],
-    "color": "0F766E",
-    "premium": false,
-    "title_hi": "Ashok Leyland की अक्टूबर बिक्री में 23 प्रतिशत की बढ़त",
-    "summary_hi": "कमर्शियल वाहन निर्माता Ashok Leyland ने अक्टूबर में कुल बिक्री में 23 प्रतिशत की सालाना बढ़ोतरी दर्ज की है। एक्सचेंज फाइलिंग के अनुसार, कंपनी की कुल बिक्री पिछले साल के 17,820 यूनिट से बढ़कर 21,888 यूनिट पर पहुंच गई। इस बढ़त में मीडियम, भारी और हल्के कमर्शियल वाहन सेगमेंट का योगदान रहा।",
-    "why_hi": "बिक्री के आंकड़ों में मजबूत बढ़त दर्ज हुई।",
-    "chips_hi": {
-      "कुल बिक्री": "21,888 यूनिट",
-      "M&HCV बिक्री": "13,927 यूनिट",
-      "LCV बिक्री": "7,961 यूनिट"
-    },
-    "hi_tries": 0,
-    "hi_ver": 2
-  },
-  {
-    "v": 3,
-    "cat": "IPO",
-    "tk": "COAL INDIA",
-    "title": "Coal India Unit South Eastern Coalfields Files For $800 Million IPO",
-    "summary": "South Eastern Coalfields, a unit of Coal India, has submitted a draft prospectus to Sebi for an IPO valued at $800 million. The public offering will consist entirely of existing shares sold by the parent company, with no fresh share issuance involved in the process.",
-    "source": "Business Standard / Bloomberg",
-    "published": "2026-11-02T05:44:04+00:00",
-    "ago": "41m",
-    "impact": "Neutral",
-    "why": "Subsidiary share sale with no fresh capital.",
-    "url": "https://www.business-standard.com/companies/news/coal-india-unit-south-eastern-coalfields-files-for-800-million-ipo-126110200334_1.html",
-    "chips": {
-      "IPO size": "$800 million"
-    },
-    "trend": [
-      0.5,
-      0.55,
-      0.45,
-      0.5,
-      0.47,
-      0.52,
-      0.5
-    ],
-    "color": "B7791F",
-    "premium": false,
-    "title_hi": "Coal India की यूनिट South Eastern Coalfields ने $800 मिलियन के IPO के लिए किया आवेदन",
-    "summary_hi": "Coal India की यूनिट South Eastern Coalfields ने Sebi के पास $800 मिलियन के IPO के लिए ड्राफ्ट प्रॉस्पेक्टस दाखिल किया है। इस पब्लिक ऑफरिंग में पूरी तरह से पेरेंट कंपनी द्वारा बेचे जाने वाले शेयर शामिल होंगे, जिसमें कोई नया शेयर जारी नहीं किया जाएगा।",
-    "why_hi": "नया पूंजीगत जुटाव नहीं, केवल शेयर बिक्री।",
-    "chips_hi": {
-      "IPO आकार": "$800 million"
     },
     "hi_tries": 0,
     "hi_ver": 2
