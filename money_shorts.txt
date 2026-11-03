@@ -1,6 +1,240 @@
 [
   {
     "v": 3,
+    "cat": "Markets",
+    "tk": "MARKETS",
+    "title": "Why did oil prices rise after reported US strikes?",
+    "summary": "Brent crude futures and US West Texas Intermediate crude both increased by 0.5% following reports of US strikes on Iran's Qeshm Island. Brent rose by 48 cents to reach $105.25 a barrel, while US crude increased by 47 cents to hit $96.93 a barrel.",
+    "source": "Business Standard / Reuters",
+    "published": "2026-11-03T02:02:46+00:00",
+    "ago": "13m",
+    "impact": "Neutral",
+    "why": "Geopolitical tension causes price movement.",
+    "url": "https://www.business-standard.com/markets/commodities/oil-prices-rise-after-report-of-us-strikes-on-iran-s-qeshm-island-126110300096_1.html",
+    "chips": {
+      "Brent increase": "48 cents",
+      "Brent price": "$105.25",
+      "WTI price": "$96.93"
+    },
+    "trend": [
+      0.5,
+      0.55,
+      0.45,
+      0.5,
+      0.47,
+      0.52,
+      0.5
+    ],
+    "color": "B7791F",
+    "premium": false,
+    "title_hi": "US strikes के बाद तेल की कीमतों में क्यों आया उछाल?",
+    "summary_hi": "Iran के Qeshm Island पर US strikes की रिपोर्ट के बाद Brent crude futures और US West Texas Intermediate crude दोनों में 0.5% की बढ़ोतरी हुई। Brent 48 सेंट बढ़कर $105.25 प्रति बैरल हो गया, जबकि US crude 47 सेंट की बढ़त के साथ $96.93 प्रति बैरल पर पहुंच गया।",
+    "why_hi": "भू-राजनीतिक तनाव से कीमतों में बदलाव।",
+    "chips_hi": {
+      "Brent बढ़त": "48 सेंट",
+      "Brent कीमत": "$105.25",
+      "WTI कीमत": "$96.93"
+    }
+  },
+  {
+    "v": 3,
+    "cat": "Industry",
+    "tk": "INDUSTRY",
+    "title": "Electric vehicle registrations soar 75% in October despite market shrinkage",
+    "summary": "Electric vehicle registrations jumped by 75% in October, offering relief to major automakers like Tata Motors and Mahindra. This growth helped cushion a wider 14.6% decline recorded in overall passenger vehicle registrations during the same month, highlighting a shift in consumer demand towards electric mobility amidst a slowing broader market.",
+    "source": "Business Standard",
+    "published": "2026-11-02T18:42:10+00:00",
+    "ago": "7h",
+    "impact": "Positive",
+    "why": "Electric vehicle growth cushioned overall market declines.",
+    "url": "https://www.business-standard.com/industry/auto/ev-registrations-soar-75-in-october-even-as-pv-market-shrinks-14-6-126110300007_1.html",
+    "chips": {
+      "EV registration grow": "75%",
+      "PV market decline": "14.6%"
+    },
+    "trend": [
+      0.1,
+      0.25,
+      0.2,
+      0.5,
+      0.45,
+      0.8,
+      0.95
+    ],
+    "color": "0F766E",
+    "premium": true,
+    "title_hi": "अक्टूबर में ईवी रजिस्ट्रेशन 75% बढ़े, जबकि पैसेंजर व्हीकल बाजार में 14.6% की गिरावट",
+    "summary_hi": "अक्टूबर में इलेक्ट्रिक वाहनों के रजिस्ट्रेशन में 75% की जोरदार बढ़ोतरी दर्ज की गई। इस तेजी ने Tata Motors और Mahindra जैसी बड़ी कंपनियों को कुल पैसेंजर व्हीकल बाजार में आई 14.6% की गिरावट के असर को कम करने में मदद की।",
+    "why_hi": "ईवी की मजबूत बिक्री से बाजार की गिरावट का असर कम हुआ।",
+    "chips_hi": {
+      "ईवी रजिस्ट्रेशन वृद्": "75%",
+      "पीवी बाजार गिरावट": "14.6%"
+    }
+  },
+  {
+    "v": 3,
+    "cat": "Earnings",
+    "tk": "THOMAS COOK",
+    "title": "Thomas Cook India Q2 net profit falls 24 percent",
+    "summary": "Thomas Cook India reported a net profit of ₹53.7 crore for the second quarter, marking a 24 percent decline. Revenue for the period dropped to ₹1,944.2 crore. Meanwhile, EBITDA saw a 3 percent increase. The travel services firm anticipates a 30 percent growth in leisure travel bookings for the upcoming third quarter.",
+    "source": "Business Standard",
+    "published": "2026-11-02T18:30:17+00:00",
+    "ago": "7h",
+    "impact": "Negative",
+    "why": "Net profit and revenue declined in Q2.",
+    "url": "https://www.business-standard.com/companies/news/thomas-cook-india-q2-net-profit-falls-24-to-53-7-crore-revenue-dips-126110300002_1.html",
+    "chips": {
+      "Net profit": "₹53.7 crore",
+      "Revenue": "₹1,944.2 crore",
+      "EBITDA growth": "3 percent"
+    },
+    "trend": [
+      0.95,
+      0.85,
+      0.7,
+      0.6,
+      0.4,
+      0.3,
+      0.1
+    ],
+    "color": "9B2C2C",
+    "premium": false,
+    "title_hi": "Thomas Cook India का Q2 शुद्ध लाभ 24 प्रतिशत घटा",
+    "summary_hi": "Thomas Cook India का दूसरी तिमाही में शुद्ध लाभ 24 प्रतिशत घटकर ₹53.7 करोड़ रह गया। इस अवधि में राजस्व गिरकर ₹1,944.2 करोड़ हो गया, जबकि EBITDA में 3 प्रतिशत की वृद्धि दर्ज की गई। कंपनी को तीसरी तिमाही में अवकाश यात्रा बुकिंग में 30 प्रतिशत की वृद्धि की उम्मीद है।",
+    "why_hi": "शुद्ध लाभ और राजस्व में आई गिरावट।",
+    "chips_hi": {
+      "शुद्ध लाभ": "₹53.7 करोड़",
+      "राजस्व": "₹1,944.2 करोड़",
+      "EBITDA वृद्धि": "3 प्रतिशत"
+    }
+  },
+  {
+    "v": 3,
+    "cat": "Economy",
+    "tk": "ECONOMY",
+    "title": "Why is the Labour Bureau revising the CPI-IW base year?",
+    "summary": "The Labour Bureau is working on revising the Consumer Price Index for Industrial Workers base year. A dedicated standing tripartite committee featuring government, employer, and employee representatives will provide advice during this revision process. This update aims to expand the coverage of the index, ensuring it reflects current economic conditions more accurately.",
+    "source": "Business Standard",
+    "published": "2026-11-02T18:00:15+00:00",
+    "ago": "8h",
+    "impact": "Neutral",
+    "why": "Routine update to economic data index.",
+    "url": "https://www.business-standard.com/economy/news/labour-bureau-prepares-to-revise-cpi-iw-base-year-expand-coverage-126110100551_1.html",
+    "chips": {},
+    "trend": [
+      0.5,
+      0.55,
+      0.45,
+      0.5,
+      0.47,
+      0.52,
+      0.5
+    ],
+    "color": "B7791F",
+    "premium": true,
+    "title_hi": "Labour Bureau क्यों कर रहा है CPI-IW बेस इयर में संशोधन?",
+    "summary_hi": "Labour Bureau औद्योगिक श्रमिकों के लिए उपभोक्ता मूल्य सूचकांक के बेस इयर में संशोधन की तैयारी कर रहा है। सरकार, नियोक्ताओं और कर्मचारियों के प्रतिनिधियों वाली एक त्रिपक्षीय समिति इस पूरी प्रक्रिया में सलाह देगी। इस कदम का उद्देश्य सूचकांक के दायरे को बढ़ाना है।",
+    "why_hi": "आर्थिक डेटा सूचकांक में नियमित बदलाव।",
+    "chips_hi": {}
+  },
+  {
+    "v": 3,
+    "cat": "IPO",
+    "tk": "MARKETS",
+    "title": "How did Indian IPO fundraising hit a record Rs 84,400 crore?",
+    "summary": "India's mainboard IPO market saw record fund mobilisation of Rs 84,400 crore in the first half of FY27, marking a 30 percent increase from the previous year. A total of 71 companies made their stock market debut during this period, with nearly 94 percent of the total funds raised during the July to September period, according to a recent report.",
+    "source": "Business Standard / Press Trust of India",
+    "published": "2026-11-02T17:49:35+00:00",
+    "ago": "8h",
+    "impact": "Positive",
+    "why": "Record fund mobilisation and higher listing gains.",
+    "url": "https://www.business-standard.com/markets/news/ipo-fundraising-rises-30-to-record-84-400-crore-in-h1fy27-report-126110201078_1.html",
+    "chips": {
+      "Fundraising": "Rs 84,400 crore",
+      "Growth": "30 per cent",
+      "Companies": "71"
+    },
+    "trend": [
+      0.1,
+      0.25,
+      0.2,
+      0.5,
+      0.45,
+      0.8,
+      0.95
+    ],
+    "color": "0F766E",
+    "premium": false,
+    "hi_tries": 1
+  },
+  {
+    "v": 3,
+    "cat": "Markets",
+    "tk": "RELIANCE",
+    "title": "How did Reliance Industries drive benchmarks higher with a 12% surge?",
+    "summary": "Shares of Reliance Industries jumped significantly following a record quarterly profit announcement. This massive rally added a huge amount to the market valuation of the company. Additionally, the massive value of its major stake in Jio Platforms came into the spotlight during this trading session, lifting the overall market benchmarks higher.",
+    "source": "Business Standard",
+    "published": "2026-11-02T17:33:44+00:00",
+    "ago": "8h",
+    "impact": "Positive",
+    "why": "Record profit and massive market cap gain.",
+    "url": "https://www.business-standard.com/markets/news/reliance-industries-takes-the-wheel-surges-12-to-steer-benchmarks-higher-126110201415_1.html",
+    "chips": {
+      "Share surge": "11.6%",
+      "Market cap added": "₹1.83 trillion",
+      "Jio stake value": "₹8.37 trillion"
+    },
+    "trend": [
+      0.1,
+      0.25,
+      0.2,
+      0.5,
+      0.45,
+      0.8,
+      0.95
+    ],
+    "color": "0F766E",
+    "premium": false,
+    "title_hi": "Reliance Industries के शेयरों में 12% की भारी तेजी से कैसे चमके बाजार?",
+    "summary_hi": "Reliance Industries के शेयरों में रिकॉर्ड तिमाही मुनाफे के बाद जोरदार उछाल आया, जिससे कंपनी की मार्केट वैल्यू में बड़ी बढ़ोतरी हुई। इसके साथ ही, Jio Platforms में कंपनी की बड़ी हिस्सेदारी का मूल्यांकन भी सामने आया, जिसने बाजार के बेंचमार्क को ऊपर उठाने में मदद की।",
+    "why_hi": "रिकॉर्ड मुनाफा और मार्केट कैप में उछाल",
+    "chips_hi": {
+      "शेयर तेजी": "11.6%",
+      "मार्केट कैप बढ़ोतरी": "₹1.83 लाख करोड़",
+      "जियो हिस्सेदारी मूल्": "₹8.37 लाख करोड़"
+    }
+  },
+  {
+    "v": 3,
+    "cat": "Companies",
+    "tk": "EQUITAS",
+    "title": "How must institutions outgrow their founders according to Equitas CEO?",
+    "summary": "P N Vasudevan has discussed his exit and the future roadmap for Equitas. He emphasized that financial institutions must learn to outgrow their founders for sustained long-term progress. The outgoing managing director and chief executive officer shared these insights regarding the organization's upcoming journey and leadership transition.",
+    "source": "Business Standard",
+    "published": "2026-11-02T16:58:59+00:00",
+    "ago": "9h",
+    "impact": "Neutral",
+    "why": "Leadership transition discussion without fundamental impact.",
+    "url": "https://www.business-standard.com/companies/people/institutions-must-learn-to-outgrow-their-founders-equitas-md-ceo-126110201339_1.html",
+    "chips": {},
+    "trend": [
+      0.5,
+      0.55,
+      0.45,
+      0.5,
+      0.47,
+      0.52,
+      0.5
+    ],
+    "color": "B7791F",
+    "premium": true,
+    "title_hi": "Equitas के CEO के अनुसार संस्थानों को संस्थापकों से आगे क्यों निकलना चाहिए?",
+    "summary_hi": "पी एन वासुदेवन ने Equitas से अपनी विदाई और भविष्य के रोडमैप पर चर्चा की। उन्होंने जोर दिया कि संस्थानों को अपने संस्थापकों से आगे बढ़ना सीखना चाहिए। जाने-माने प्रबंध निदेशक और मुख्य कार्यकारी अधिकारी ने संगठन की आगामी यात्रा के बारे में यह बातें साझा कीं।",
+    "why_hi": "नेतृत्व परिवर्तन पर चर्चा, कोई वित्तीय प्रभाव नहीं",
+    "chips_hi": {}
+  },
+  {
+    "v": 3,
     "cat": "Economy",
     "tk": "ECONOMY",
     "title": "Why did the 10-year bond yield fall nearly 10 basis points?",
@@ -30,7 +264,9 @@
     "why_hi": "यील्ड घटने और मुद्रा मजबूत होने से राहत।",
     "chips_hi": {
       "बॉन्ड यील्ड": "7.32%"
-    }
+    },
+    "hi_tries": 0,
+    "hi_ver": 2
   },
   {
     "v": 3,
@@ -59,7 +295,9 @@
     "title_hi": "उत्तर प्रदेश कैसे IT और ITeS ऑपरेशंस को आकर्षित कर रहा है?",
     "summary_hi": "उत्तर प्रदेश ने एक नई राज्य प्रोत्साहन और बुनियादी ढांचा नीति पेश की है। इस नीति का उद्देश्य राज्य में सूचना प्रौद्योगिकी और तकनीकी सेवाओं के संचालन को आकर्षित करना है। इसमें स्थानीय तकनीकी क्षेत्र को बढ़ावा देने के लिए प्रोत्साहन और कार्यान्वयन दिशा-निर्देश शामिल हैं।",
     "why_hi": "नई नीति से तकनीकी ऑपरेशंस को बढ़ावा मिलेगा।",
-    "chips_hi": {}
+    "chips_hi": {},
+    "hi_tries": 0,
+    "hi_ver": 2
   },
   {
     "v": 3,
@@ -92,7 +330,9 @@
     "why_hi": "यह बाजार पर सीधा असर डाले बिना विकास में मदद करता है।",
     "chips_hi": {
       "अंतिम तिथि": "31 दिसंबर 2026"
-    }
+    },
+    "hi_tries": 0,
+    "hi_ver": 2
   },
   {
     "v": 3,
@@ -127,7 +367,9 @@
     "chips_hi": {
       "नई अवधि": "8 हफ्ते",
       "पुरानी अवधि": "12 हफ्ते"
-    }
+    },
+    "hi_tries": 0,
+    "hi_ver": 2
   },
   {
     "v": 3,
@@ -162,7 +404,9 @@
     "chips_hi": {
       "प्रोजेक्ट लागत": "₹21,800 करोड़",
       "पिंक लाइन लंबाई": "23-km"
-    }
+    },
+    "hi_tries": 0,
+    "hi_ver": 2
   },
   {
     "v": 3,
@@ -191,7 +435,9 @@
     "title_hi": "आर्टिफिशियल इंटेलिजेंस कैसे सॉफ्टवेयर डेवलपर्स की भूमिकाओं को बदलेगा?",
     "summary_hi": "आईबीएम के श्रीराम राघवन का कहना है कि एआई एजेंट सॉफ्टवेयर निर्माण को तेज करेंगे और डेवलपर्स की भूमिकाओं को बदल देंगे। उन्होंने यह भी कहा कि उद्यमों को इन बदलावों के लिए साइबर सुरक्षा, गवर्नेंस और कौशल को मजबूत करना चाहिए।",
     "why_hi": "तकनीकी रुझानों पर उद्योग की राय",
-    "chips_hi": {}
+    "chips_hi": {},
+    "hi_tries": 0,
+    "hi_ver": 2
   },
   {
     "v": 3,
@@ -226,7 +472,9 @@
     "chips_hi": {
       "लक्षित lending हिस्स": "50%",
       "Loan वितरण लक्ष्य": "₹1,500-2,000 करोड़"
-    }
+    },
+    "hi_tries": 0,
+    "hi_ver": 2
   },
   {
     "v": 3,
@@ -254,7 +502,7 @@
     ],
     "color": "0F766E",
     "premium": false,
-    "hi_tries": 1,
+    "hi_tries": 2,
     "hi_ver": 2
   },
   {
@@ -568,261 +816,6 @@
     "why_hi": "नया पूंजीगत जुटाव नहीं, केवल शेयर बिक्री।",
     "chips_hi": {
       "IPO आकार": "$800 million"
-    },
-    "hi_tries": 0,
-    "hi_ver": 2
-  },
-  {
-    "v": 3,
-    "cat": "Markets",
-    "tk": "ITI",
-    "title": "Why did public sector undertaking shares jump up to 19 percent?",
-    "summary": "Shares of multiple public sector undertakings surged significantly during Monday's intraday trading session. Indices tracking these state-owned enterprises advanced by 2 percent. Major state-backed entities like NTPC, Coal India, and several rail and infrastructure firms recorded notable gains, driving the market momentum.",
-    "source": "Business Standard",
-    "published": "2026-11-02T05:36:44+00:00",
-    "ago": "49m",
-    "impact": "Positive",
-    "why": "Strong buying interest lifted public sector stocks.",
-    "url": "https://www.business-standard.com/markets/news/psu-cpse-stocks-in-demand-iti-engineers-india-zoom-up-to-19-here-s-why-126110200309_1.html",
-    "chips": {
-      "Gain": "up to 19%",
-      "Index rise": "2%",
-      "Stock rally": "3-6%"
-    },
-    "trend": [
-      0.1,
-      0.25,
-      0.2,
-      0.5,
-      0.45,
-      0.8,
-      0.95
-    ],
-    "color": "0F766E",
-    "premium": false,
-    "title_hi": "ITI और Engineers India के शेयरों में 19 प्रतिशत तक की तेजी क्यों आई?",
-    "summary_hi": "सोमवार के कारोबार में सरकारी कंपनियों के शेयरों में जोरदार तेजी देखने को मिली। BSE PSU और CPSE सूचकांक में 2 प्रतिशत की बढ़त दर्ज की गई। NTPC, Coal India, RVNL और रेल सेक्टर से जुड़ी कई अन्य सरकारी कंपनियों के शेयरों में 3 से 6 प्रतिशत तक का उछाल आया।",
-    "why_hi": "सरकारी शेयरों में जोरदार खरीदारी देखी गई।",
-    "chips_hi": {
-      "तेजी": "19% तक",
-      "सूचकांक बढ़त": "2%",
-      "शेयर उछाल": "3-6%"
-    },
-    "hi_tries": 0,
-    "hi_ver": 2
-  },
-  {
-    "v": 3,
-    "cat": "Industry",
-    "tk": "HDFC CAPITAL",
-    "title": "HDFC Capital and DivyaSree launch Rs 1,500 crore housing fund",
-    "summary": "HDFC Capital has teamed up with DivyaSree Developers to create a Rs 1,500 crore platform for residential projects. This partnership will offer growth capital for acquiring and developing properties in Bengaluru, Hyderabad, and Chennai over the next three to four years, targeting a potential revenue of Rs 6,750 crore.",
-    "source": "Business Standard / Press Trust of India",
-    "published": "2026-11-02T05:28:25+00:00",
-    "ago": "57m",
-    "impact": "Positive",
-    "why": "Growth capital supports new residential project development.",
-    "url": "https://www.business-standard.com/industry/news/hdfc-capital-divyasree-set-up-1-500-cr-fund-to-build-housing-projects-126110200292_1.html",
-    "chips": {
-      "Fund size": "Rs 1,500 crore",
-      "Potential revenue": "Rs 6,750 crore"
-    },
-    "trend": [
-      0.1,
-      0.25,
-      0.2,
-      0.5,
-      0.45,
-      0.8,
-      0.95
-    ],
-    "color": "0F766E",
-    "premium": false,
-    "title_hi": "HDFC Capital और DivyaSree ने बनाया ₹1,500 करोड़ का हाउसिंग फंड",
-    "summary_hi": "HDFC Capital ने रेजिडेंशियल प्रोजेक्ट्स के निर्माण के लिए DivyaSree Developers के साथ मिलकर 1,500 करोड़ रुपये का प्लेटफॉर्म बनाया है। यह साझेदारी अगले तीन से चार वर्षों में बेंगलुरु, हैदराबाद और चेन्नई में संपत्तियों के अधिग्रहण और विकास के लिए विकास पूंजी प्रदान करेगी, जिससे 6,750 करोड़ रुपये का संभावित राजस्व मिलने की उम्मीद है।",
-    "why_hi": "विकास पूंजी से नए आवासीय प्रोजेक्ट्स को बढ़ावा मिलेगा।",
-    "chips_hi": {
-      "फंड आकार": "₹1,500 करोड़",
-      "संभावित राजस्व": "₹6,750 करोड़"
-    },
-    "hi_tries": 0,
-    "hi_ver": 2
-  },
-  {
-    "v": 3,
-    "cat": "Companies",
-    "tk": "COMPANIES",
-    "title": "ED registers money laundering case against Subhash Chandra",
-    "summary": "The Enforcement Directorate has filed a money laundering case against media baron Subhash Chandra. The action follows an alleged loan fraud that led to a loss of Rs 1,322 crore for Life Insurance Corporation Housing Finance Limited. Officials stated that he allegedly inflated his net worth to secure loans and subsequently defaulted on them.",
-    "source": "Business Standard / Press Trust of India",
-    "published": "2026-11-02T05:23:39+00:00",
-    "ago": "1h",
-    "impact": "Negative",
-    "why": "Facing serious financial fraud and money laundering investig",
-    "url": "https://www.business-standard.com/companies/news/ed-registers-money-laundering-case-against-subhash-chandra-over-loan-fraud-126110200291_1.html",
-    "chips": {
-      "Loss": "Rs 1,322 crore",
-      "Total loans": "Rs 980 crore"
-    },
-    "trend": [
-      0.95,
-      0.85,
-      0.7,
-      0.6,
-      0.4,
-      0.3,
-      0.1
-    ],
-    "color": "9B2C2C",
-    "premium": false,
-    "title_hi": "Subhash Chandra पर मनी लॉन्ड्रिंग का मामला दर्ज",
-    "summary_hi": "प्रवर्तन निदेशालय ने मीडिया दिग्गज सुभाष चंद्र के खिलाफ मनी लॉन्ड्रिंग का मामला दर्ज किया है। यह कार्रवाई कथित ऋण धोखाधड़ी के सिलसिले में की गई है, जिससे लाइफ इंश्योरेंस कॉरपोरेशन हाउसिंग फाइनेंस लिमिटेड को 1,322 करोड़ रुपये का नुकसान हुआ था। अधिकारियों के अनुसार उन्होंने ऋण प्राप्त करने के लिए अपनी कुल संपत्ति को बढ़ा-चढ़ाकर दिखाया था।",
-    "why_hi": "गंभीर वित्तीय धोखाधड़ी और जांच का सामना।",
-    "chips_hi": {
-      "नुकसान": "₹1,322 करोड़",
-      "कुल लोन": "₹980 करोड़"
-    },
-    "hi_tries": 0,
-    "hi_ver": 2
-  },
-  {
-    "v": 3,
-    "cat": "Markets",
-    "tk": "MARKETS",
-    "title": "Asian shares drop as artificial intelligence spending worries grow",
-    "summary": "Asian stock markets declined as concerns over negative cash flow and massive artificial intelligence capital expenditures intensified. These worries caused the cost of insuring against corporate defaults to rise significantly over the past week, keeping investors cautious ahead of upcoming technology company earnings reports.",
-    "source": "Business Standard / Reuters",
-    "published": "2026-11-02T02:03:13+00:00",
-    "ago": "16m",
-    "impact": "Negative",
-    "why": "AI spending worries drove down Asian shares.",
-    "url": "https://www.business-standard.com/markets/news/asian-shares-slide-as-ai-spending-worries-mount-ahead-of-tech-earnings-126110200042_1.html",
-    "chips": {},
-    "trend": [
-      0.95,
-      0.85,
-      0.7,
-      0.6,
-      0.4,
-      0.3,
-      0.1
-    ],
-    "color": "9B2C2C",
-    "premium": false,
-    "hi_tries": 1,
-    "hi_ver": 2,
-    "title_hi": "AI पर भारी खर्च की चिंता से गिरे Asian बाजार",
-    "summary_hi": "AI पर बहुत ज्यादा पैसा खर्च होने की चिंता के चलते Asian शेयर बाजारों में गिरावट दर्ज की गई। इस डर से निवेशकों में सतर्कता बढ़ गई है और वे आने वाले तकनीकी कंपनियों के नतीजों का इंतजार कर रहे हैं।",
-    "why_hi": "AI पर भारी खर्च की चिंताओं ने बाजार को प्रभावित किया।",
-    "chips_hi": {}
-  },
-  {
-    "v": 3,
-    "cat": "Markets",
-    "tk": "MARKETS",
-    "title": "Why did crude oil prices drop over 1% recently?",
-    "summary": "Crude oil prices declined by more than 1 percent during early trading hours. Brent crude futures dropped by $1.59 to reach $111.84 per barrel. Meanwhile, US West Texas Intermediate crude fell by $1.56 to trade at $102.56 a barrel. This downward movement in the oil market coincided with ongoing discussions regarding a potential end to the conflict involving Iran.",
-    "source": "Business Standard / Reuters",
-    "published": "2026-11-02T02:01:25+00:00",
-    "ago": "18m",
-    "impact": "Neutral",
-    "why": "Market reaction to ongoing political discussions.",
-    "url": "https://www.business-standard.com/markets/commodities/oil-prices-slip-more-than-1-as-talks-continue-on-ending-iran-war-126110200033_1.html",
-    "chips": {
-      "Brent crude drop": "$1.59",
-      "Brent crude price": "$111.84 a barrel",
-      "WTI crude drop": "$1.56"
-    },
-    "trend": [
-      0.5,
-      0.55,
-      0.45,
-      0.5,
-      0.47,
-      0.52,
-      0.5
-    ],
-    "color": "B7791F",
-    "premium": false,
-    "title_hi": "Iran war talks के बीच crude oil के दाम क्यों गिरे?",
-    "summary_hi": "कारोबार के शुरुआती घंटों में crude oil की कीमतों में 1 प्रतिशत से अधिक की गिरावट दर्ज की गई। Brent crude futures $1.59 घटकर $111.84 प्रति बैरल पर आ गया। वहीं, US West Texas Intermediate crude $1.56 की गिरावट के साथ $102.56 प्रति बैरल पर कारोबार कर रहा था। यह नरमी Iran से जुड़े युद्ध को समाप्त करने को लेकर चल रही बातचीत के बीच आई है।",
-    "why_hi": "राजनीतिक चर्चाओं के बीच बाजार की प्रतिक्रिया।",
-    "chips_hi": {
-      "ब्रेंट क्रूड गिरावट": "$1.59",
-      "ब्रेंट क्रूड भाव": "$111.84 प्रति बैरल",
-      "डब्लूटीआई क्रूड गिरा": "$1.56"
-    },
-    "hi_tries": 0,
-    "hi_ver": 2
-  },
-  {
-    "v": 3,
-    "cat": "Markets",
-    "tk": "MARKETS",
-    "title": "Why US midterm elections historically trigger a 6 percent equity gain",
-    "summary": "Data shows that US equities have a history of strong performance following midterm elections. The S&P 500 typically records an average gain of around 6 percent in the 60 trading days that follow these polls.",
-    "source": "Business Standard",
-    "published": "2026-11-02T01:08:08+00:00",
-    "ago": "1h",
-    "impact": "Neutral",
-    "why": "Historical US market trends lack direct fundamental impact.",
-    "url": "https://www.business-standard.com/markets/news/how-will-us-midterms-impact-indian-equities-bond-yields-crude-oil-126110100199_1.html",
-    "chips": {
-      "Average gain": "6 per cent",
-      "Trading days": "60"
-    },
-    "trend": [
-      0.5,
-      0.55,
-      0.45,
-      0.5,
-      0.47,
-      0.52,
-      0.5
-    ],
-    "color": "B7791F",
-    "premium": false,
-    "title_hi": "US midterms के बाद क्यों आती है शेयरों में तेजी?",
-    "summary_hi": "डेटा के अनुसार अमेरिकी मिडटर्म चुनावों के बाद वहां के शेयर बाजारों में मजबूत प्रदर्शन का इतिहास रहा है। इसके बाद के 60 ट्रेडिंग सत्रों में S&P 500 ने औसतन करीब 6 प्रतिशत की बढ़त दर्ज की है।",
-    "why_hi": "ऐतिहासिक अमेरिकी रुझान का कोई सीधा फंडामेंटल असर नहीं।",
-    "chips_hi": {
-      "औसत बढ़त": "6 प्रतिशत",
-      "ट्रेडिंग दिन": "60"
-    },
-    "hi_tries": 0,
-    "hi_ver": 2
-  },
-  {
-    "v": 3,
-    "cat": "Companies",
-    "tk": "TWO POINT O",
-    "title": "Two Point O Capital secures $10 million for clean energy growth",
-    "summary": "Two Point O Capital has secured $10 million in funding to grow its clean energy platform. The firm will use the capital to enter the battery energy storage sector and scale up its existing solar, energy efficiency, and wastewater treatment operations across the market.",
-    "source": "Business Standard",
-    "published": "2026-11-02T00:35:11+00:00",
-    "ago": "1h",
-    "impact": "Positive",
-    "why": "Fresh funding expands clean energy operations.",
-    "url": "https://www.business-standard.com/companies/start-ups/two-point-o-capital-raises-10-million-to-expand-clean-energy-platform-126110100446_1.html",
-    "chips": {
-      "Funding raised": "$10 million"
-    },
-    "trend": [
-      0.1,
-      0.25,
-      0.2,
-      0.5,
-      0.45,
-      0.8,
-      0.95
-    ],
-    "color": "0F766E",
-    "premium": false,
-    "title_hi": "Two Point O Capital ने क्लीन एनर्जी विस्तार के लिए जुटाए $10 million",
-    "summary_hi": "Two Point O Capital ने अपना क्लीन एनर्जी प्लेटफॉर्म बढ़ाने के लिए $10 million जुटाए हैं। कंपनी इस राशि का उपयोग बैटरी एनर्जी स्टोरेज में उतरने और सोलर, एनर्जी एफिशिएंसी तथा अपशिष्ट जल उपचार व्यवसायों का विस्तार करने के लिए करेगी।",
-    "why_hi": "नया फंड मिलने से कारोबार बढ़ेगा।",
-    "chips_hi": {
-      "फंडिंग जुटाई": "$10 million"
     },
     "hi_tries": 0,
     "hi_ver": 2
