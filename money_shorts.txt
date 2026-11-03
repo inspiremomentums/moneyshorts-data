@@ -1,6 +1,209 @@
 [
   {
     "v": 3,
+    "cat": "Earnings",
+    "tk": "ZYDUS WELLNESS",
+    "title": "How did Zydus Wellness swing to a net profit?",
+    "summary": "Zydus Wellness posted a consolidated net profit of Rs 5.1 crore for the September quarter, recovering from a net loss of Rs 52.8 crore in the same period last year. Revenue from operations grew to Rs 1,126.6 crore from Rs 650.5 crore. Meanwhile, total expenses rose to Rs 1,125.4 crore compared to Rs 668.3 crore previously.",
+    "source": "Business Standard / Press Trust of India",
+    "published": "2026-11-03T10:04:59+00:00",
+    "ago": "12m",
+    "impact": "Positive",
+    "why": "Profit turned positive and revenue rose significantly.",
+    "url": "https://www.business-standard.com/companies/quarterly-results/zydus-wellness-q2-results-net-profit-at-5-1-cr-revenue-up-at-1-126-cr-126110300987_1.html",
+    "chips": {
+      "Net profit": "Rs 5.1 crore",
+      "Revenue": "Rs 1,126.6 crore",
+      "Total expenses": "Rs 1,125.4 crore"
+    },
+    "trend": [
+      0.1,
+      0.25,
+      0.2,
+      0.5,
+      0.45,
+      0.8,
+      0.95
+    ],
+    "color": "0F766E",
+    "premium": false,
+    "title_hi": "Zydus Wellness ने कैसे दर्ज किया मुनाफा?",
+    "summary_hi": "Zydus Wellness ने सितंबर तिमाही में 5.1 करोड़ रुपये का कंसोलिडेटेड शुद्ध लाभ दर्ज किया है, जबकि पिछले वित्त वर्ष की इसी अवधि में कंपनी को 52.8 करोड़ रुपये का शुद्ध घाटा हुआ था। परिचालन से इसका राजस्व बढ़कर 1,126.6 करोड़ रुपये हो गया। इस दौरान कुल खर्च भी बढ़कर 1,125.4 करोड़ रुपये पर पहुंच गया।",
+    "why_hi": "मुनाफा हुआ और राजस्व में बढ़ोतरी हुई।",
+    "chips_hi": {
+      "शुद्ध लाभ": "₹5.1 करोड़",
+      "राजस्व": "₹1,126.6 करोड़",
+      "कुल खर्च": "₹1,125.4 करोड़"
+    }
+  },
+  {
+    "v": 3,
+    "cat": "Markets",
+    "tk": "MARKETS",
+    "title": "Why did private bank stocks rally past the Nifty index?",
+    "summary": "The Nifty Private Bank index rose by two percent recently. Major lenders like HDFC Bank and ICICI Bank saw their shares climb seven percent over the last five trading days. This growth surpassed the five percent increase recorded by the Nifty 50 benchmark during the exact same period, according to recent market updates.",
+    "source": "Business Standard",
+    "published": "2026-11-03T09:34:15+00:00",
+    "ago": "43m",
+    "impact": "Positive",
+    "why": "Lenders outperformed the broader market index.",
+    "url": "https://www.business-standard.com/markets/news/nifty-private-bank-index-gains-2-hdfc-bank-icici-bank-axis-bank-shine-126110300965_1.html",
+    "chips": {
+      "Nifty Private Bank i": "2%",
+      "HDFC Bank rally": "7%",
+      "Nifty 50 rise": "5%"
+    },
+    "trend": [
+      0.1,
+      0.25,
+      0.2,
+      0.5,
+      0.45,
+      0.8,
+      0.95
+    ],
+    "color": "0F766E",
+    "premium": false,
+    "title_hi": "प्राइवेट बैंक शेयरों में निफ्टी से ज्यादा तेजी क्यों आई?",
+    "summary_hi": "हाल ही में निफ्टी प्राइवेट बैंक इंडेक्स में दो प्रतिशत की बढ़त दर्ज की गई। HDFC बैंक और ICICI बैंक जैसे बड़े शेयरों में पिछले पांच कारोबारी दिनों में सात प्रतिशत की तेजी आई। यह वृद्धि इसी अवधि में निफ्टी 50 की पांच प्रतिशत की बढ़त से अधिक रही।",
+    "why_hi": "बैंक शेयरों का बेंचमार्क से बेहतर प्रदर्शन।",
+    "chips_hi": {
+      "निफ्टी प्राइवेट बैंक": "2%",
+      "HDFC बैंक तेजी": "7%",
+      "निफ्टी 50 बढ़त": "5%"
+    }
+  },
+  {
+    "v": 3,
+    "cat": "Economy",
+    "tk": "ECONOMY",
+    "title": "India plans to develop tunnel boring machines to counter China",
+    "summary": "India is working on developing tunnel boring machines locally if China places restrictions. The commerce minister stated that the country aims to cut dependence on China for critical supplies like rare earths. Local start-ups are already designing motors that do not require rare-earth materials.",
+    "source": "Business Standard",
+    "published": "2026-11-03T08:57:50+00:00",
+    "ago": "1h",
+    "impact": "Positive",
+    "why": "Reduces import dependence on foreign nations.",
+    "url": "https://www.business-standard.com/economy/news/india-tunnel-boring-machines-china-export-curbs-piyush-goyal-126110300917_1.html",
+    "chips": {},
+    "trend": [
+      0.1,
+      0.25,
+      0.2,
+      0.5,
+      0.45,
+      0.8,
+      0.95
+    ],
+    "color": "0F766E",
+    "premium": false,
+    "title_hi": "चीन के प्रतिबंधों से निपटने के लिए भारत बनाएगा टनल बोरिंग मशीनें",
+    "summary_hi": "वाणिज्य मंत्री ने कहा कि चीन द्वारा रोक लगाने पर भारत अपनी टनल बोरिंग मशीनें खुद विकसित करेगा। देश रेयर अर्थ जैसी जरूरी चीजों के लिए चीन पर निर्भरता कम करेगा। स्टार्टअप्स ने पहले ही बिना रेयर अर्थ सामग्री वाली मोटरें बनानी शुरू कर दी हैं।",
+    "why_hi": "विदेशी आयात पर निर्भरता कम होगी।",
+    "chips_hi": {}
+  },
+  {
+    "v": 3,
+    "cat": "Earnings",
+    "tk": "BAJAJ FINSERV",
+    "title": "Bajaj Finserv Q2 Profit Surges 25 Percent on Revenue Growth",
+    "summary": "Bajaj Finserv reported a 25 percent rise in consolidated net profit to Rs 5,952 crore for the second quarter. Total revenue grew by 16.7 percent to reach Rs 43,416 crore. Meanwhile, assets under management increased by 26.5 percent, totaling Rs 5.85 trillion by the end of September.",
+    "source": "Business Standard",
+    "published": "2026-11-03T08:52:22+00:00",
+    "ago": "1h",
+    "impact": "Positive",
+    "why": "Higher profit, revenue, and asset growth.",
+    "url": "https://www.business-standard.com/companies/quarterly-results/bajaj-finserv-q2-profit-rises-25-to-5-952-crore-as-revenue-grows-126110300911_1.html",
+    "chips": {
+      "Net profit": "Rs 5,952 crore",
+      "Revenue": "Rs 43,416 crore",
+      "Assets under managem": "Rs 5.85 trillion"
+    },
+    "trend": [
+      0.1,
+      0.25,
+      0.2,
+      0.5,
+      0.45,
+      0.8,
+      0.95
+    ],
+    "color": "0F766E",
+    "premium": false,
+    "title_hi": "Bajaj Finserv का Q2 मुनाफा 25 प्रतिशत बढ़कर 5,952 करोड़ रुपये हुआ",
+    "summary_hi": "Bajaj Finserv का दूसरी तिमाही का कंसोलिडेटेड मुनाफा 25 प्रतिशत बढ़कर 5,952 करोड़ रुपये हो गया है। इस दौरान कुल रेवेन्यू 16.7 प्रतिशत बढ़कर 43,416 करोड़ रुपये पर पहुंच गया। इसके अलावा, 30 सितंबर तक एसेट्स अंडर मैनेजमेंट 26.5 प्रतिशत की बढ़ोतरी के साथ 5.85 ट्रिलियन रुपये हो गए।",
+    "why_hi": "मुनाफा, रेवेन्यू और एसेट्स में बढ़त",
+    "chips_hi": {
+      "शुद्ध लाभ": "₹5,952 करोड़",
+      "रेवेन्यू": "₹43,416 करोड़",
+      "एसेट्स अंडर मैनेजमें": "₹5.85 ट्रिलियन"
+    }
+  },
+  {
+    "v": 3,
+    "cat": "Economy",
+    "tk": "ECONOMY",
+    "title": "Petronet eyes US LNG supplies under renewed Qatar deal",
+    "summary": "India's leading gas importer Petronet LNG is discussing sourcing liquefied natural gas from the United States with Qatar. This arrangement is being explored as part of a long-term contract starting from the year 2028, according to group general manager Vivek Mittal.",
+    "source": "Business Standard / Reuters",
+    "published": "2026-11-03T08:52:09+00:00",
+    "ago": "1h",
+    "impact": "Neutral",
+    "why": "Exploring new supply sources for long-term contracts.",
+    "url": "https://www.business-standard.com/economy/news/petronet-eyes-us-lng-supplies-under-renewed-long-term-deal-with-qatar-126110300820_1.html",
+    "chips": {
+      "Timeline": "From 2028"
+    },
+    "trend": [
+      0.5,
+      0.55,
+      0.45,
+      0.5,
+      0.47,
+      0.52,
+      0.5
+    ],
+    "color": "B7791F",
+    "premium": false,
+    "title_hi": "Petronet Qatar deal के तहत US से LNG लाने की फिराक में",
+    "summary_hi": "भारत की प्रमुख गैस आयातक कंपनी Petronet LNG कतर के साथ एक लंबी अवधि के अनुबंध के तहत अमेरिका से कुछ एलएनजी हासिल करने के लिए बातचीत कर रही है। समूह के महाप्रबंधक विवेक मित्तल के अनुसार यह व्यवस्था वर्ष 2028 से शुरू होगी।",
+    "why_hi": "लंबी अवधि के अनुबंध के तहत नए स्रोतों की तलाश।",
+    "chips_hi": {
+      "समयसीमा": "2028 से"
+    }
+  },
+  {
+    "v": 3,
+    "cat": "Earnings",
+    "tk": "COMPANIES",
+    "title": "How SBI grew its second quarter net profit by 14 percent",
+    "summary": "State Bank of India reported a fourteen percent rise in net profit for the second quarter, reaching over twenty-three thousand crore rupees. This growth was supported by higher net interest income and a significant drop in provisions, alongside an improvement in asset quality with a lower gross non-performing asset ratio.",
+    "source": "Business Standard",
+    "published": "2026-11-03T08:40:12+00:00",
+    "ago": "1h",
+    "impact": "Positive",
+    "why": "Higher profit, lower provisions, and better asset quality.",
+    "url": "https://www.business-standard.com/companies/quarterly-results/sbi-q2-fy27-net-profit-nii-provisions-asset-quality-126110300887_1.html",
+    "chips": {
+      "Net profit": "Rs 23,038 crore",
+      "Net interest income": "Rs 49,143 crore",
+      "Gross NPA ratio": "1.39%"
+    },
+    "trend": [
+      0.1,
+      0.25,
+      0.2,
+      0.5,
+      0.45,
+      0.8,
+      0.95
+    ],
+    "color": "0F766E",
+    "premium": false,
+    "hi_tries": 1
+  },
+  {
+    "v": 3,
     "cat": "Markets",
     "tk": "MARKETS",
     "title": "Why did Nifty Capital Markets jump over 2 percent today?",
@@ -34,7 +237,9 @@
       "Nifty Capital Market": "2.43%",
       "Nifty 50 बढ़त": "0.83%",
       "शेयर में उछाल": "7%"
-    }
+    },
+    "hi_tries": 0,
+    "hi_ver": 2
   },
   {
     "v": 3,
@@ -63,7 +268,9 @@
     "title_hi": "बोर्ड विवाद के बाद Darius Khambata ने Tata Trusts से क्यों इस्तीफा दिया?",
     "summary_hi": "17 सितंबर की बोर्ड बैठक के बाद मतभेदों के चलते Darius Khambata ने Tata Trusts से इस्तीफा दे दिया है। उन्होंने कहा कि इस बैठक से कंपनी की प्रतिष्ठा को नुकसान पहुंचा है और यह टाटा समूह के मूल्यों के खिलाफ था।",
     "why_hi": "प्रतिष्ठा संबंधी चिंताओं के कारण बोर्ड से इस्तीफा।",
-    "chips_hi": {}
+    "chips_hi": {},
+    "hi_tries": 0,
+    "hi_ver": 2
   },
   {
     "v": 3,
@@ -92,7 +299,9 @@
     "title_hi": "सरकार ने दवा और मेडिकल उपकरणों के आयात के लिए नए रास्ते सुझाए",
     "summary_hi": "केंद्रीय स्वास्थ्य मंत्रालय ने दवाओं, मेडिकल उपकरणों और सौंदर्य प्रसाधनों के लिए अधिकृत आयात गेटवे के नेटवर्क का विस्तार करने का प्रस्ताव दिया है। इस कदम का उद्देश्य कई राज्यों में तेजी से मंजूरी देना और आपूर्ति श्रृंखला की दक्षता में सुधार करना है।",
     "why_hi": "मेडिकल उत्पादों के लिए आपूर्ति श्रृंखला में सुधार।",
-    "chips_hi": {}
+    "chips_hi": {},
+    "hi_tries": 0,
+    "hi_ver": 2
   },
   {
     "v": 3,
@@ -127,7 +336,9 @@
     "chips_hi": {
       "ब्रेंट क्रूड": "$104.9",
       "डब्ल्यूटीआई क्रूड": "$96.63"
-    }
+    },
+    "hi_tries": 0,
+    "hi_ver": 2
   },
   {
     "v": 3,
@@ -162,7 +373,9 @@
     "chips_hi": {
       "शेयर तेजी": "17%",
       "52-सप्ताह का उच्च स्": "₹231.15"
-    }
+    },
+    "hi_tries": 0,
+    "hi_ver": 2
   },
   {
     "v": 3,
@@ -197,7 +410,9 @@
     "chips_hi": {
       "शुद्ध लाभ": "₹83.74 करोड़",
       "कुल आय": "₹1,051.02 करोड़"
-    }
+    },
+    "hi_tries": 0,
+    "hi_ver": 2
   },
   {
     "v": 3,
@@ -234,7 +449,9 @@
       "कुल क्षेत्र": "37.56 लाख हेक्टेयर",
       "गेहूं का क्षेत्र": "19,000 हेक्टेयर",
       "दालों का क्षेत्र": "9.45 लाख हेक्टेयर"
-    }
+    },
+    "hi_tries": 0,
+    "hi_ver": 2
   },
   {
     "v": 3,
@@ -410,7 +627,7 @@
     ],
     "color": "0F766E",
     "premium": false,
-    "hi_tries": 1,
+    "hi_tries": 2,
     "hi_ver": 2
   },
   {
@@ -617,208 +834,6 @@
     "chips_hi": {
       "नई अवधि": "8 हफ्ते",
       "पुरानी अवधि": "12 हफ्ते"
-    },
-    "hi_tries": 0,
-    "hi_ver": 2
-  },
-  {
-    "v": 3,
-    "cat": "Economy",
-    "tk": "ECONOMY",
-    "title": "PM Modi to launch Pune Metro projects worth Rs 21,800 crore",
-    "summary": "Prime Minister Narendra Modi will inaugurate the 23-kilometer Pink Line of the Pune Metro. He will also lay the foundation stone for the Phase II corridors. The total cost of these upcoming infrastructure projects is estimated at around twenty-one thousand eight hundred crore rupees.",
-    "source": "Business Standard",
-    "published": "2026-11-02T14:02:01+00:00",
-    "ago": "29m",
-    "impact": "Positive",
-    "why": "New infrastructure boosts regional connectivity and growth.",
-    "url": "https://www.business-standard.com/economy/news/pm-modi-to-launch-pune-metro-projects-worth-21-800-crore-on-tuesday-126110201341_1.html",
-    "chips": {
-      "Project cost": "Rs 21,800 crore",
-      "Pink Line length": "23-km"
-    },
-    "trend": [
-      0.1,
-      0.25,
-      0.2,
-      0.5,
-      0.45,
-      0.8,
-      0.95
-    ],
-    "color": "0F766E",
-    "premium": false,
-    "title_hi": "PM Modi मंगलवार को 21,800 करोड़ रुपये के पुणे मेट्रो प्रोजेक्ट्स करेंगे लॉन्च",
-    "summary_hi": "प्रधानमंत्री नरेंद्र मोदी पुणे मेट्रो की 23 किलोमीटर लंबी पिंक लाइन का उद्घाटन करेंगे। इसके साथ ही वह फेज़ II कॉरिडोर की आधारशिला भी रखेंगे। इन सभी प्रोजेक्ट्स की कुल लागत लगभग 21,800 करोड़ रुपये है।",
-    "why_hi": "क्षेत्रीय कनेक्टिविटी और विकास को बढ़ावा मिलेगा।",
-    "chips_hi": {
-      "प्रोजेक्ट लागत": "₹21,800 करोड़",
-      "पिंक लाइन लंबाई": "23-km"
-    },
-    "hi_tries": 0,
-    "hi_ver": 2
-  },
-  {
-    "v": 3,
-    "cat": "Companies",
-    "tk": "IBM",
-    "title": "How will artificial intelligence reshape the roles of software developers?",
-    "summary": "IBM expert Sriram Raghavan states that artificial intelligence agents will speed up software creation and transform developer roles. He adds that enterprises need to improve cybersecurity, governance, and employee skills to adapt to these changes.",
-    "source": "Business Standard",
-    "published": "2026-11-02T13:55:20+00:00",
-    "ago": "36m",
-    "impact": "Neutral",
-    "why": "Industry perspective on technology trends",
-    "url": "https://www.business-standard.com/companies/news/ai-will-create-more-software-transform-developers-roles-ibm-s-raghavan-126110201332_1.html",
-    "chips": {},
-    "trend": [
-      0.5,
-      0.55,
-      0.45,
-      0.5,
-      0.47,
-      0.52,
-      0.5
-    ],
-    "color": "B7791F",
-    "premium": false,
-    "title_hi": "आर्टिफिशियल इंटेलिजेंस कैसे सॉफ्टवेयर डेवलपर्स की भूमिकाओं को बदलेगा?",
-    "summary_hi": "आईबीएम के श्रीराम राघवन का कहना है कि एआई एजेंट सॉफ्टवेयर निर्माण को तेज करेंगे और डेवलपर्स की भूमिकाओं को बदल देंगे। उन्होंने यह भी कहा कि उद्यमों को इन बदलावों के लिए साइबर सुरक्षा, गवर्नेंस और कौशल को मजबूत करना चाहिए।",
-    "why_hi": "तकनीकी रुझानों पर उद्योग की राय",
-    "chips_hi": {},
-    "hi_tries": 0,
-    "hi_ver": 2
-  },
-  {
-    "v": 3,
-    "cat": "Companies",
-    "tk": "MOBIKWIK",
-    "title": "How MobiKwik plans to double its lending revenue share to 50%",
-    "summary": "MobiKwik is working to increase the share of revenue coming from lending from 25 to 30 per cent up to 50 per cent. The company also anticipates its quarterly loan disbursements will hit between ₹1,500 crore and ₹2,000 crore within the next six to eight quarters, according to its chief executive officer.",
-    "source": "Business Standard",
-    "published": "2026-11-02T13:27:56+00:00",
-    "ago": "1h",
-    "impact": "Positive",
-    "why": "Lending revenue share is targeted to double.",
-    "url": "https://www.business-standard.com/companies/news/mobikwik-aims-to-double-lending-revenue-share-to-50-says-ceo-bipin-singh-126110201273_1.html",
-    "chips": {
-      "Target lending share": "50%",
-      "Loan disbursement ta": "₹1,500-2,000 crore"
-    },
-    "trend": [
-      0.1,
-      0.25,
-      0.2,
-      0.5,
-      0.45,
-      0.8,
-      0.95
-    ],
-    "color": "0F766E",
-    "premium": false,
-    "title_hi": "MobiKwik अपनी lending revenue हिस्सेदारी को 50% तक कैसे बढ़ाएगा?",
-    "summary_hi": "MobiKwik lending से आने वाली अपनी revenue हिस्सेदारी को 25 से 30 प्रतिशत से बढ़ाकर 50 प्रतिशत करने का लक्ष्य बना रहा है। CEO के अनुसार, कंपनी को उम्मीद है कि अगले छह से आठ तिमाहियों में उसका तिमाही loan वितरण ₹1,500 करोड़ से ₹2,000 करोड़ तक पहुंच जाएगा।",
-    "why_hi": "Lending revenue हिस्सेदारी बढ़ाने का लक्ष्य।",
-    "chips_hi": {
-      "लक्षित lending हिस्स": "50%",
-      "Loan वितरण लक्ष्य": "₹1,500-2,000 करोड़"
-    },
-    "hi_tries": 0,
-    "hi_ver": 2
-  },
-  {
-    "v": 3,
-    "cat": "Companies",
-    "tk": "COMPANIES",
-    "title": "How L&T landed fresh residential and commercial construction orders",
-    "summary": "Infrastructure major Larsen and Toubro announced winning significant building orders across Mumbai, Bengaluru, and Hyderabad. These projects include high-rise residential towers and a premium commercial building. The company categorizes orders valued between Rs 1,000 crore and Rs 2,500 crore as significant. The contracts were secured by its residential, commercial buildings, and factories business vertical.",
-    "source": "Business Standard / Press Trust of India",
-    "published": "2026-11-02T10:13:13+00:00",
-    "ago": "13m",
-    "impact": "Positive",
-    "why": "New project orders boost business growth.",
-    "url": "https://www.business-standard.com/companies/news/l-t-bags-significant-orders-for-residential-commercial-projects-126110200755_1.html",
-    "chips": {
-      "Order range": "Rs 1,000 crore to Rs"
-    },
-    "trend": [
-      0.1,
-      0.25,
-      0.2,
-      0.5,
-      0.45,
-      0.8,
-      0.95
-    ],
-    "color": "0F766E",
-    "premium": false,
-    "hi_tries": 2,
-    "hi_ver": 2
-  },
-  {
-    "v": 3,
-    "cat": "Industry",
-    "tk": "INDIGO",
-    "title": "IndiGo reviews fuel hedging policy as jet fuel prices rise",
-    "summary": "IndiGo is reviewing its fuel hedging policy in response to rising jet fuel prices and ongoing long-haul expansion. Airline CEO Willie Walsh noted that these changing market conditions have prompted a comprehensive evaluation of the company's risk management strategy to better navigate fluctuating aviation turbine fuel costs.",
-    "source": "Business Standard",
-    "published": "2026-11-02T10:10:08+00:00",
-    "ago": "16m",
-    "impact": "Neutral",
-    "why": "Evaluating risk policy amid shifting fuel costs.",
-    "url": "https://www.business-standard.com/industry/aviation/indigo-reviews-longstanding-fuel-hedging-policy-amid-rising-atf-prices-126110200791_1.html",
-    "chips": {},
-    "trend": [
-      0.5,
-      0.55,
-      0.45,
-      0.5,
-      0.47,
-      0.52,
-      0.5
-    ],
-    "color": "B7791F",
-    "premium": false,
-    "title_hi": "बढ़ती कीमतों के बीच IndiGo ने क्यों की ईंधन नीति की समीक्षा?",
-    "summary_hi": "जेट ईंधन की बढ़ती कीमतों और लंबी दूरी के विस्तार के बीच IndiGo अपनी ईंधन हेजिंग नीति की व्यापक समीक्षा करने जा रही है। एयरलाइन के सीईओ Willie Walsh ने बताया कि बदलते बाजार और जोखिम के दृष्टिकोण को देखते हुए यह कदम उठाया गया है।",
-    "why_hi": "ईंधन लागत और जोखिम प्रबंधन की समीक्षा।",
-    "chips_hi": {},
-    "hi_tries": 0,
-    "hi_ver": 2
-  },
-  {
-    "v": 3,
-    "cat": "Industry",
-    "tk": "INDUSTRY",
-    "title": "Centre sets 15-day deadline to resolve rural employment complaints",
-    "summary": "The central government has notified new rules under the VB-G RAM G Act, requiring complaints about the rural employment scheme to be resolved within 15 days. State governments must set up a three-tier grievance mechanism with designated officers at gram panchayat, block, and district levels, allowing citizens to submit complaints through multiple channels.",
-    "source": "Business Standard / Press Trust of India",
-    "published": "2026-11-02T09:44:26+00:00",
-    "ago": "42m",
-    "impact": "Neutral",
-    "why": "Administrative rules for grievance redressal.",
-    "url": "https://www.business-standard.com/industry/news/govt-notifies-grievance-rules-under-vb-g-ram-g-act-sets-15-day-deadline-126110200745_1.html",
-    "chips": {
-      "Deadline": "15 days",
-      "Act": "VB-G RAM G Act, 2025"
-    },
-    "trend": [
-      0.5,
-      0.55,
-      0.45,
-      0.5,
-      0.47,
-      0.52,
-      0.5
-    ],
-    "color": "B7791F",
-    "premium": false,
-    "title_hi": "ग्रामीण रोजगार शिकायतों के समाधान के लिए सरकार ने तय की 15 दिन की समय सीमा",
-    "summary_hi": "केंद्र सरकार ने VB-G RAM G Act के तहत नियम अधिसूचित किए हैं, जिसके अनुसार ग्रामीण रोजगार योजना से जुड़ी शिकायतों का समाधान 15 दिनों के भीतर करना होगा। राज्य सरकारों को ग्राम पंचायत, ब्लॉक और जिला स्तर पर तीन-स्तरीय व्यवस्था बनानी होगी।",
-    "why_hi": "शिकायत निवारण के लिए प्रशासनिक नियम।",
-    "chips_hi": {
-      "समय सीमा": "15 दिन",
-      "अधिनियम": "VB-G RAM G Act, 2025"
     },
     "hi_tries": 0,
     "hi_ver": 2
