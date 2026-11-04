@@ -1,6 +1,196 @@
 [
   {
     "v": 3,
+    "cat": "Companies",
+    "tk": "ELOELO",
+    "title": "Hornbill and NBCUniversal back EloElo in $80 million funding",
+    "summary": "EloElo, the owner of The Story TV, has secured $80 million in backing from investors including Hornbill and NBCUniversal. The company plans to use the funds to create more original shows, integrate deeper AI production capabilities, and expand its presence into the United States market.",
+    "source": "Business Standard",
+    "published": "2026-11-04T05:57:50+00:00",
+    "ago": "24m",
+    "impact": "Positive",
+    "why": "Funding supports original content and global expansion.",
+    "url": "https://www.business-standard.com/companies/news/eloelo-series-c-funding-hornbill-nbcuniversal-story-tv-microdrama-126110400565_1.html",
+    "chips": {
+      "Funding": "$80 million"
+    },
+    "trend": [
+      0.1,
+      0.25,
+      0.2,
+      0.5,
+      0.45,
+      0.8,
+      0.95
+    ],
+    "color": "0F766E",
+    "premium": false,
+    "title_hi": "Hornbill और NBCUniversal ने EloElo में किए $80 मिलियन निवेश",
+    "summary_hi": "The Story TV की मालिक कंपनी EloElo को Hornbill और NBCUniversal से $80 मिलियन का समर्थन मिला है। कंपनी इस राशि का उपयोग नए ओरिजिनल शो बनाने, एआई प्रोडक्शन को बेहतर करने और अमेरिकी बाजार में विस्तार करने के लिए करेगी।",
+    "why_hi": "फंडिंग से ओरिजिनल कंटेंट और ग्लोबल विस्तार को बल मिलेगा।",
+    "chips_hi": {
+      "फंडिंग": "$80 मिलियन"
+    }
+  },
+  {
+    "v": 3,
+    "cat": "Finance",
+    "tk": "EPFO",
+    "title": "How to check your PF balance using a WhatsApp number",
+    "summary": "Subscribers can now use an EPFO WhatsApp number to check their provident fund balance and download passbooks. The new facility also enables users to track their five latest account entries and receive assistance under the PM Viksit Bharat Rozgar Yojana scheme.",
+    "source": "Business Standard",
+    "published": "2026-11-04T05:57:15+00:00",
+    "ago": "25m",
+    "impact": "Neutral",
+    "why": "New digital facility for checking PF balances.",
+    "url": "https://www.business-standard.com/finance/personal-finance/epfo-whatsapp-number-how-to-check-pf-balance-and-download-passbook-126110400568_1.html",
+    "chips": {},
+    "trend": [
+      0.5,
+      0.55,
+      0.45,
+      0.5,
+      0.47,
+      0.52,
+      0.5
+    ],
+    "color": "B7791F",
+    "premium": false,
+    "title_hi": "WhatsApp number की मदद से ऐसे चेक करें PF बैलेंस",
+    "summary_hi": "सब्सक्राइबर अब EPFO के WhatsApp नंबर का उपयोग करके अपना प्रोविडेंट फंड बैलेंस चेक कर सकते हैं और पासबुक डाउनलोड कर सकते हैं। इस नई सुविधा से यूजर्स अपने खाते की आखिरी पांच एंट्री भी ट्रैक कर सकते हैं और PM Viksit Bharat Rozgar Yojana के तहत सहायता प्राप्त कर सकते हैं।",
+    "why_hi": "पीएफ बैलेंस चेक करने की नई डिजिटल सुविधा।",
+    "chips_hi": {}
+  },
+  {
+    "v": 3,
+    "cat": "Economy",
+    "tk": "ECONOMY",
+    "title": "Services PMI hits four-month high in October on strong domestic demand",
+    "summary": "The HSBC India Services PMI climbed to 55.8 in October, up from 55.2 in September. This four-month high was supported by stronger domestic demand, even though export orders and hiring growth experienced a slowdown during the month. Cost inflation showed signs of easing.",
+    "source": "Business Standard",
+    "published": "2026-11-04T05:16:27+00:00",
+    "ago": "1h",
+    "impact": "Positive",
+    "why": "Domestic demand drove services activity higher.",
+    "url": "https://www.business-standard.com/economy/news/india-services-pmi-october-2026-four-month-high-55-8-cost-inflation-hiring-126110400488_1.html",
+    "chips": {
+      "Services PMI": "55.8",
+      "Previous PMI": "55.2"
+    },
+    "trend": [
+      0.1,
+      0.25,
+      0.2,
+      0.5,
+      0.45,
+      0.8,
+      0.95
+    ],
+    "color": "0F766E",
+    "premium": false,
+    "hi_tries": 1
+  },
+  {
+    "v": 3,
+    "cat": "Markets",
+    "tk": "EQUITAS SFB",
+    "title": "Equitas SFB jumps 9 percent after naming interim CEO",
+    "summary": "Equitas Small Finance Bank shares bounced up 9 percent following a sharp 19 percent drop over four days. The recovery came after the board cleared Balaji Nuthalapadi to take over as interim CEO, pending approval from the Reserve Bank of India.",
+    "source": "Business Standard",
+    "published": "2026-11-04T05:14:13+00:00",
+    "ago": "1h",
+    "impact": "Positive",
+    "why": "New interim leadership lifts investor sentiment.",
+    "url": "https://www.business-standard.com/markets/news/equitas-sfb-shares-surge-9-after-19-fall-in-4-days-as-lender-names-interim-ceo-126110400487_1.html",
+    "chips": {
+      "Share surge": "9%",
+      "Prior fall": "19%"
+    },
+    "trend": [
+      0.1,
+      0.25,
+      0.2,
+      0.5,
+      0.45,
+      0.8,
+      0.95
+    ],
+    "color": "0F766E",
+    "premium": false,
+    "title_hi": "अंतरिम सीईओ के ऐलान के बाद Equitas SFB के शेयर 9 प्रतिशत चढ़े",
+    "summary_hi": "चार दिनों में 19 प्रतिशत की गिरावट के बाद Equitas SFB के शेयरों में 9 प्रतिशत की तेजी आई। यह उछाल बोर्ड द्वारा बालाजी नुथलापाटी को अंतरिम सीईओ नियुक्त किए जाने के फैसले के बाद आया, जो आरबीआई की मंजूरी के अधीन है।",
+    "why_hi": "नेतृत्व की घोषणा से शेयरों में तेजी।",
+    "chips_hi": {
+      "शेयर तेजी": "9%",
+      "पिछली गिरावट": "19%"
+    }
+  },
+  {
+    "v": 3,
+    "cat": "Earnings",
+    "tk": "TITAN",
+    "title": "Titan Q2 preview: Will jewellery growth drive up to 27% PAT?",
+    "summary": "Brokerages anticipate Titan to achieve strong financial results in the upcoming quarter. The company is expected to report revenue growth between 16 and 18.8 per cent. Meanwhile, profit growth could reach up to 26.8 per cent, largely supported by robust performance in its core jewellery division.",
+    "source": "Business Standard",
+    "published": "2026-11-04T05:13:22+00:00",
+    "ago": "1h",
+    "impact": "Positive",
+    "why": "Expected revenue and profit growth in Q2",
+    "url": "https://www.business-standard.com/markets/news/titan-q2-preview-brokerages-see-up-to-27-pat-growth-led-by-jewellery-biz-126110400475_1.html",
+    "chips": {
+      "Revenue growth": "16-18.8 per cent",
+      "PAT growth": "20-26.8 per cent"
+    },
+    "trend": [
+      0.1,
+      0.25,
+      0.2,
+      0.5,
+      0.45,
+      0.8,
+      0.95
+    ],
+    "color": "0F766E",
+    "premium": false,
+    "title_hi": "Titan Q2 preview: क्या ज्वेलरी कारोबार से मुनाफे में होगी 27% तक की बढ़त?",
+    "summary_hi": "ब्रोकरेज फर्मों का अनुमान है कि Titan तिमाही में मजबूत प्रदर्शन दर्ज कर सकती है। कंपनी की आय में 16 से 18.8 प्रतिशत तक की वृद्धि होने की उम्मीद है। इसके अलावा, मुख्य रूप से ज्वेलरी कारोबार के दम पर मुनाफा 26.8 प्रतिशत तक बढ़ सकता है।",
+    "why_hi": "तिमाही में आय और मुनाफे की मजबूत उम्मीद",
+    "chips_hi": {
+      "रेवेन्यू ग्रोथ": "16-18.8 प्रतिशत",
+      "PAT ग्रोथ": "20-26.8 प्रतिशत"
+    }
+  },
+  {
+    "v": 3,
+    "cat": "Markets",
+    "tk": "INDIGO",
+    "title": "Why is IndiGo's short-term momentum turning constructive again?",
+    "summary": "The short-term momentum for IndiGo has shifted back into a constructive territory. The share price has successfully reclaimed the key moving averages on the daily chart, according to an analyst. This movement follows a recent drop in crude oil prices, which saw a decline of 13 percent across the sector.",
+    "source": "Business Standard",
+    "published": "2026-11-04T05:09:55+00:00",
+    "ago": "1h",
+    "impact": "Positive",
+    "why": "Share price reclaimed key moving averages.",
+    "url": "https://www.business-standard.com/markets/news/indigo-asian-paints-ioc-analyst-view-on-crude-sensitives-shares-as-crude-oil-price-dips-13-126110400466_1.html",
+    "chips": {},
+    "trend": [
+      0.1,
+      0.25,
+      0.2,
+      0.5,
+      0.45,
+      0.8,
+      0.95
+    ],
+    "color": "0F766E",
+    "premium": false,
+    "title_hi": "IndiGo के शॉर्ट-टर्म मोमेंटम में फिर से सुधार क्यों आ रहा है?",
+    "summary_hi": "IndiGo के लिए शॉर्ट-टर्म मोमेंटम सकारात्मक क्षेत्र में वापस आ गया है। एक विश्लेषक के अनुसार, शेयर की कीमत ने डेली चार्ट पर प्रमुख मूविंग एवरेज को फिर से हासिल कर लिया है।",
+    "why_hi": "शेयर की कीमत मूविंग एवरेज से ऊपर आई।",
+    "chips_hi": {}
+  },
+  {
+    "v": 3,
     "cat": "Economy",
     "tk": "ECONOMY",
     "title": "Uttar Pradesh Unveils New Solar Energy Policy for Infrastructure Growth",
@@ -26,7 +216,9 @@
     "title_hi": "उत्तर प्रदेश ने सोलर एनर्जी इंफ्रास्ट्रक्चर बढ़ाने के लिए नई पॉलिसी लाई",
     "summary_hi": "उत्तर प्रदेश सरकार ने राज्यभर में बिजली उत्पादन बढ़ाने के लिए एक सोलर एनर्जी पॉलिसी पेश की है। इस फ्रेमवर्क का मुख्य उद्देश्य सोलर पावर को जोड़ने, स्टोर करने और इस्तेमाल करने के लिए जरूरी इंफ्रास्ट्रक्चर तैयार करना है।",
     "why_hi": "रिन्यूएबल एनर्जी इंफ्रास्ट्रक्चर और जनरेशन का विस्तार।",
-    "chips_hi": {}
+    "chips_hi": {},
+    "hi_tries": 0,
+    "hi_ver": 2
   },
   {
     "v": 3,
@@ -55,7 +247,9 @@
     "title_hi": "क्या विदेशी बिकवाली के बीच लार्ज-कैप शेयरों पर दबाव बढ़ रहा है?",
     "summary_hi": "हाल के बाजार चक्र में विदेशी संस्थागत निवेशकों की बिकवाली भारतीय इक्विटी के लिए एक बड़ा दबाव साबित हुई है। इस बिकवाली के कारण कई लार्ज-कैप शेयरों पर भी असर पड़ा है, जिससे बाजार में उनकी स्थिति पर सवाल उठ रहे हैं।",
     "why_hi": "विदेशी बिकवाली से लार्ज-कैप शेयरों पर दबाव।",
-    "chips_hi": {}
+    "chips_hi": {},
+    "hi_tries": 0,
+    "hi_ver": 2
   },
   {
     "v": 3,
@@ -84,7 +278,9 @@
     "title_hi": "फार्मा प्लांटों में कंप्लायंस बैकलॉग के कारण ड्रग बैच रिलीज में देरी क्यों हो रही है?",
     "summary_hi": "वेक्टर कंसल्टिंग के एक सर्वे से पता चला है कि फार्मास्यूटिकल प्लांटों में मैन्युफैक्चरिंग से जुड़ी घटनाओं की जांच को सुलझाने में छह महीने तक का समय लग रहा है। इन लंबे कंप्लायंस बैकलॉग के कारण ड्रग बैचों के रिलीज में देरी हो रही है और प्लांट की उत्पादकता प्रभावित हो रही है।",
     "why_hi": "देरी और बैकलॉग से प्लांट की उत्पादकता कम होती है।",
-    "chips_hi": {}
+    "chips_hi": {},
+    "hi_tries": 0,
+    "hi_ver": 2
   },
   {
     "v": 3,
@@ -110,7 +306,8 @@
     ],
     "color": "9B2C2C",
     "premium": true,
-    "hi_tries": 1
+    "hi_tries": 1,
+    "hi_ver": 2
   },
   {
     "v": 3,
@@ -147,7 +344,9 @@
       "कुर्क संपत्ति": "₹510 करोड़",
       "RHFL/RCFL धोखाधड़ी": "₹263.05 करोड़",
       "RCOM धोखाधड़ी": "₹247.12 करोड़"
-    }
+    },
+    "hi_tries": 0,
+    "hi_ver": 2
   },
   {
     "v": 3,
@@ -360,7 +559,7 @@
     ],
     "color": "0F766E",
     "premium": false,
-    "hi_tries": 1,
+    "hi_tries": 2,
     "hi_ver": 2
   },
   {
@@ -610,222 +809,6 @@
       "कुल क्षेत्र": "37.56 लाख हेक्टेयर",
       "गेहूं का क्षेत्र": "19,000 हेक्टेयर",
       "दालों का क्षेत्र": "9.45 लाख हेक्टेयर"
-    },
-    "hi_tries": 0,
-    "hi_ver": 2
-  },
-  {
-    "v": 3,
-    "cat": "Markets",
-    "tk": "MARKETS",
-    "title": "Why did oil prices rise after reported US strikes?",
-    "summary": "Brent crude futures and US West Texas Intermediate crude both increased by 0.5% following reports of US strikes on Iran's Qeshm Island. Brent rose by 48 cents to reach $105.25 a barrel, while US crude increased by 47 cents to hit $96.93 a barrel.",
-    "source": "Business Standard / Reuters",
-    "published": "2026-11-03T02:02:46+00:00",
-    "ago": "13m",
-    "impact": "Neutral",
-    "why": "Geopolitical tension causes price movement.",
-    "url": "https://www.business-standard.com/markets/commodities/oil-prices-rise-after-report-of-us-strikes-on-iran-s-qeshm-island-126110300096_1.html",
-    "chips": {
-      "Brent increase": "48 cents",
-      "Brent price": "$105.25",
-      "WTI price": "$96.93"
-    },
-    "trend": [
-      0.5,
-      0.55,
-      0.45,
-      0.5,
-      0.47,
-      0.52,
-      0.5
-    ],
-    "color": "B7791F",
-    "premium": false,
-    "title_hi": "US strikes के बाद तेल की कीमतों में क्यों आया उछाल?",
-    "summary_hi": "Iran के Qeshm Island पर US strikes की रिपोर्ट के बाद Brent crude futures और US West Texas Intermediate crude दोनों में 0.5% की बढ़ोतरी हुई। Brent 48 सेंट बढ़कर $105.25 प्रति बैरल हो गया, जबकि US crude 47 सेंट की बढ़त के साथ $96.93 प्रति बैरल पर पहुंच गया।",
-    "why_hi": "भू-राजनीतिक तनाव से कीमतों में बदलाव।",
-    "chips_hi": {
-      "Brent बढ़त": "48 सेंट",
-      "Brent कीमत": "$105.25",
-      "WTI कीमत": "$96.93"
-    },
-    "hi_tries": 0,
-    "hi_ver": 2
-  },
-  {
-    "v": 3,
-    "cat": "Industry",
-    "tk": "INDUSTRY",
-    "title": "Electric vehicle registrations soar 75% in October despite market shrinkage",
-    "summary": "Electric vehicle registrations jumped by 75% in October, offering relief to major automakers like Tata Motors and Mahindra. This growth helped cushion a wider 14.6% decline recorded in overall passenger vehicle registrations during the same month, highlighting a shift in consumer demand towards electric mobility amidst a slowing broader market.",
-    "source": "Business Standard",
-    "published": "2026-11-02T18:42:10+00:00",
-    "ago": "7h",
-    "impact": "Positive",
-    "why": "Electric vehicle growth cushioned overall market declines.",
-    "url": "https://www.business-standard.com/industry/auto/ev-registrations-soar-75-in-october-even-as-pv-market-shrinks-14-6-126110300007_1.html",
-    "chips": {
-      "EV registration grow": "75%",
-      "PV market decline": "14.6%"
-    },
-    "trend": [
-      0.1,
-      0.25,
-      0.2,
-      0.5,
-      0.45,
-      0.8,
-      0.95
-    ],
-    "color": "0F766E",
-    "premium": true,
-    "title_hi": "अक्टूबर में ईवी रजिस्ट्रेशन 75% बढ़े, जबकि पैसेंजर व्हीकल बाजार में 14.6% की गिरावट",
-    "summary_hi": "अक्टूबर में इलेक्ट्रिक वाहनों के रजिस्ट्रेशन में 75% की जोरदार बढ़ोतरी दर्ज की गई। इस तेजी ने Tata Motors और Mahindra जैसी बड़ी कंपनियों को कुल पैसेंजर व्हीकल बाजार में आई 14.6% की गिरावट के असर को कम करने में मदद की।",
-    "why_hi": "ईवी की मजबूत बिक्री से बाजार की गिरावट का असर कम हुआ।",
-    "chips_hi": {
-      "ईवी रजिस्ट्रेशन वृद्": "75%",
-      "पीवी बाजार गिरावट": "14.6%"
-    },
-    "hi_tries": 0,
-    "hi_ver": 2
-  },
-  {
-    "v": 3,
-    "cat": "Earnings",
-    "tk": "THOMAS COOK",
-    "title": "Thomas Cook India Q2 net profit falls 24 percent",
-    "summary": "Thomas Cook India reported a net profit of ₹53.7 crore for the second quarter, marking a 24 percent decline. Revenue for the period dropped to ₹1,944.2 crore. Meanwhile, EBITDA saw a 3 percent increase. The travel services firm anticipates a 30 percent growth in leisure travel bookings for the upcoming third quarter.",
-    "source": "Business Standard",
-    "published": "2026-11-02T18:30:17+00:00",
-    "ago": "7h",
-    "impact": "Negative",
-    "why": "Net profit and revenue declined in Q2.",
-    "url": "https://www.business-standard.com/companies/news/thomas-cook-india-q2-net-profit-falls-24-to-53-7-crore-revenue-dips-126110300002_1.html",
-    "chips": {
-      "Net profit": "₹53.7 crore",
-      "Revenue": "₹1,944.2 crore",
-      "EBITDA growth": "3 percent"
-    },
-    "trend": [
-      0.95,
-      0.85,
-      0.7,
-      0.6,
-      0.4,
-      0.3,
-      0.1
-    ],
-    "color": "9B2C2C",
-    "premium": false,
-    "title_hi": "Thomas Cook India का Q2 शुद्ध लाभ 24 प्रतिशत घटा",
-    "summary_hi": "Thomas Cook India का दूसरी तिमाही में शुद्ध लाभ 24 प्रतिशत घटकर ₹53.7 करोड़ रह गया। इस अवधि में राजस्व गिरकर ₹1,944.2 करोड़ हो गया, जबकि EBITDA में 3 प्रतिशत की वृद्धि दर्ज की गई। कंपनी को तीसरी तिमाही में अवकाश यात्रा बुकिंग में 30 प्रतिशत की वृद्धि की उम्मीद है।",
-    "why_hi": "शुद्ध लाभ और राजस्व में आई गिरावट।",
-    "chips_hi": {
-      "शुद्ध लाभ": "₹53.7 करोड़",
-      "राजस्व": "₹1,944.2 करोड़",
-      "EBITDA वृद्धि": "3 प्रतिशत"
-    },
-    "hi_tries": 0,
-    "hi_ver": 2
-  },
-  {
-    "v": 3,
-    "cat": "Economy",
-    "tk": "ECONOMY",
-    "title": "Why is the Labour Bureau revising the CPI-IW base year?",
-    "summary": "The Labour Bureau is working on revising the Consumer Price Index for Industrial Workers base year. A dedicated standing tripartite committee featuring government, employer, and employee representatives will provide advice during this revision process. This update aims to expand the coverage of the index, ensuring it reflects current economic conditions more accurately.",
-    "source": "Business Standard",
-    "published": "2026-11-02T18:00:15+00:00",
-    "ago": "8h",
-    "impact": "Neutral",
-    "why": "Routine update to economic data index.",
-    "url": "https://www.business-standard.com/economy/news/labour-bureau-prepares-to-revise-cpi-iw-base-year-expand-coverage-126110100551_1.html",
-    "chips": {},
-    "trend": [
-      0.5,
-      0.55,
-      0.45,
-      0.5,
-      0.47,
-      0.52,
-      0.5
-    ],
-    "color": "B7791F",
-    "premium": true,
-    "title_hi": "Labour Bureau क्यों कर रहा है CPI-IW बेस इयर में संशोधन?",
-    "summary_hi": "Labour Bureau औद्योगिक श्रमिकों के लिए उपभोक्ता मूल्य सूचकांक के बेस इयर में संशोधन की तैयारी कर रहा है। सरकार, नियोक्ताओं और कर्मचारियों के प्रतिनिधियों वाली एक त्रिपक्षीय समिति इस पूरी प्रक्रिया में सलाह देगी। इस कदम का उद्देश्य सूचकांक के दायरे को बढ़ाना है।",
-    "why_hi": "आर्थिक डेटा सूचकांक में नियमित बदलाव।",
-    "chips_hi": {},
-    "hi_tries": 0,
-    "hi_ver": 2
-  },
-  {
-    "v": 3,
-    "cat": "IPO",
-    "tk": "MARKETS",
-    "title": "How did Indian IPO fundraising hit a record Rs 84,400 crore?",
-    "summary": "India's mainboard IPO market saw record fund mobilisation of Rs 84,400 crore in the first half of FY27, marking a 30 percent increase from the previous year. A total of 71 companies made their stock market debut during this period, with nearly 94 percent of the total funds raised during the July to September period, according to a recent report.",
-    "source": "Business Standard / Press Trust of India",
-    "published": "2026-11-02T17:49:35+00:00",
-    "ago": "8h",
-    "impact": "Positive",
-    "why": "Record fund mobilisation and higher listing gains.",
-    "url": "https://www.business-standard.com/markets/news/ipo-fundraising-rises-30-to-record-84-400-crore-in-h1fy27-report-126110201078_1.html",
-    "chips": {
-      "Fundraising": "Rs 84,400 crore",
-      "Growth": "30 per cent",
-      "Companies": "71"
-    },
-    "trend": [
-      0.1,
-      0.25,
-      0.2,
-      0.5,
-      0.45,
-      0.8,
-      0.95
-    ],
-    "color": "0F766E",
-    "premium": false,
-    "hi_tries": 2,
-    "hi_ver": 2
-  },
-  {
-    "v": 3,
-    "cat": "Markets",
-    "tk": "RELIANCE",
-    "title": "How did Reliance Industries drive benchmarks higher with a 12% surge?",
-    "summary": "Shares of Reliance Industries jumped significantly following a record quarterly profit announcement. This massive rally added a huge amount to the market valuation of the company. Additionally, the massive value of its major stake in Jio Platforms came into the spotlight during this trading session, lifting the overall market benchmarks higher.",
-    "source": "Business Standard",
-    "published": "2026-11-02T17:33:44+00:00",
-    "ago": "8h",
-    "impact": "Positive",
-    "why": "Record profit and massive market cap gain.",
-    "url": "https://www.business-standard.com/markets/news/reliance-industries-takes-the-wheel-surges-12-to-steer-benchmarks-higher-126110201415_1.html",
-    "chips": {
-      "Share surge": "11.6%",
-      "Market cap added": "₹1.83 trillion",
-      "Jio stake value": "₹8.37 trillion"
-    },
-    "trend": [
-      0.1,
-      0.25,
-      0.2,
-      0.5,
-      0.45,
-      0.8,
-      0.95
-    ],
-    "color": "0F766E",
-    "premium": false,
-    "title_hi": "Reliance Industries के शेयरों में 12% की भारी तेजी से कैसे चमके बाजार?",
-    "summary_hi": "Reliance Industries के शेयरों में रिकॉर्ड तिमाही मुनाफे के बाद जोरदार उछाल आया, जिससे कंपनी की मार्केट वैल्यू में बड़ी बढ़ोतरी हुई। इसके साथ ही, Jio Platforms में कंपनी की बड़ी हिस्सेदारी का मूल्यांकन भी सामने आया, जिसने बाजार के बेंचमार्क को ऊपर उठाने में मदद की।",
-    "why_hi": "रिकॉर्ड मुनाफा और मार्केट कैप में उछाल",
-    "chips_hi": {
-      "शेयर तेजी": "11.6%",
-      "मार्केट कैप बढ़ोतरी": "₹1.83 लाख करोड़",
-      "जियो हिस्सेदारी मूल्": "₹8.37 लाख करोड़"
     },
     "hi_tries": 0,
     "hi_ver": 2
