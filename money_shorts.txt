@@ -1,6 +1,156 @@
 [
   {
     "v": 3,
+    "cat": "Economy",
+    "tk": "ECONOMY",
+    "title": "Uttar Pradesh Unveils New Solar Energy Policy for Infrastructure Growth",
+    "summary": "The Uttar Pradesh government has introduced a comprehensive solar energy policy aimed at expanding electricity generation across the state. This framework focuses on developing the necessary infrastructure to effectively connect, store, and utilize solar power.",
+    "source": "Business Standard",
+    "published": "2026-11-04T01:30:38+00:00",
+    "ago": "44m",
+    "impact": "Positive",
+    "why": "Expands renewable energy infrastructure and generation.",
+    "url": "https://www.business-standard.com/economy/uttar-pradesh/uttar-pradesh-solar-energy-policy-2022-targets-incentives-eligibility-and-implementation-126110200564_1.html",
+    "chips": {},
+    "trend": [
+      0.1,
+      0.25,
+      0.2,
+      0.5,
+      0.45,
+      0.8,
+      0.95
+    ],
+    "color": "0F766E",
+    "premium": false,
+    "title_hi": "उत्तर प्रदेश ने सोलर एनर्जी इंफ्रास्ट्रक्चर बढ़ाने के लिए नई पॉलिसी लाई",
+    "summary_hi": "उत्तर प्रदेश सरकार ने राज्यभर में बिजली उत्पादन बढ़ाने के लिए एक सोलर एनर्जी पॉलिसी पेश की है। इस फ्रेमवर्क का मुख्य उद्देश्य सोलर पावर को जोड़ने, स्टोर करने और इस्तेमाल करने के लिए जरूरी इंफ्रास्ट्रक्चर तैयार करना है।",
+    "why_hi": "रिन्यूएबल एनर्जी इंफ्रास्ट्रक्चर और जनरेशन का विस्तार।",
+    "chips_hi": {}
+  },
+  {
+    "v": 3,
+    "cat": "Markets",
+    "tk": "MARKETS",
+    "title": "Are large-cap stocks losing their leadership amid foreign selling pressure?",
+    "summary": "Foreign institutional investor selling has created a significant overhang for Indian equities in the recent market cycle. This selling pressure has notably weighed on several large-cap stocks, raising questions about their strategic market leadership during these challenging trading conditions.",
+    "source": "Business Standard",
+    "published": "2026-11-04T01:00:27+00:00",
+    "ago": "1h",
+    "impact": "Negative",
+    "why": "Foreign selling weighs on large-cap stocks.",
+    "url": "https://www.business-standard.com/markets/news/are-large-cap-stocks-reclaiming-their-strategic-leadership-analysts-view-126110400087_1.html",
+    "chips": {},
+    "trend": [
+      0.95,
+      0.85,
+      0.7,
+      0.6,
+      0.4,
+      0.3,
+      0.1
+    ],
+    "color": "9B2C2C",
+    "premium": false,
+    "title_hi": "क्या विदेशी बिकवाली के बीच लार्ज-कैप शेयरों पर दबाव बढ़ रहा है?",
+    "summary_hi": "हाल के बाजार चक्र में विदेशी संस्थागत निवेशकों की बिकवाली भारतीय इक्विटी के लिए एक बड़ा दबाव साबित हुई है। इस बिकवाली के कारण कई लार्ज-कैप शेयरों पर भी असर पड़ा है, जिससे बाजार में उनकी स्थिति पर सवाल उठ रहे हैं।",
+    "why_hi": "विदेशी बिकवाली से लार्ज-कैप शेयरों पर दबाव।",
+    "chips_hi": {}
+  },
+  {
+    "v": 3,
+    "cat": "Industry",
+    "tk": "INDUSTRY",
+    "title": "Why are compliance backlogs delaying drug batch releases at pharma plants?",
+    "summary": "A recent survey by Vector Consulting reveals that manufacturing incident investigations at pharmaceutical plants are taking up to six months to resolve. These lengthy compliance backlogs are delaying the release of drug batches and impacting overall plant productivity.",
+    "source": "Business Standard",
+    "published": "2026-11-04T00:35:25+00:00",
+    "ago": "1h",
+    "impact": "Negative",
+    "why": "Delays and backlogs reduce manufacturing plant productivity.",
+    "url": "https://www.business-standard.com/industry/news/compliance-backlogs-delay-drug-batch-releases-at-pharma-plants-study-126110301271_1.html",
+    "chips": {},
+    "trend": [
+      0.95,
+      0.85,
+      0.7,
+      0.6,
+      0.4,
+      0.3,
+      0.1
+    ],
+    "color": "9B2C2C",
+    "premium": false,
+    "title_hi": "फार्मा प्लांटों में कंप्लायंस बैकलॉग के कारण ड्रग बैच रिलीज में देरी क्यों हो रही है?",
+    "summary_hi": "वेक्टर कंसल्टिंग के एक सर्वे से पता चला है कि फार्मास्यूटिकल प्लांटों में मैन्युफैक्चरिंग से जुड़ी घटनाओं की जांच को सुलझाने में छह महीने तक का समय लग रहा है। इन लंबे कंप्लायंस बैकलॉग के कारण ड्रग बैचों के रिलीज में देरी हो रही है और प्लांट की उत्पादकता प्रभावित हो रही है।",
+    "why_hi": "देरी और बैकलॉग से प्लांट की उत्पादकता कम होती है।",
+    "chips_hi": {}
+  },
+  {
+    "v": 3,
+    "cat": "Markets",
+    "tk": "MARKETS",
+    "title": "Smallcap AI winners face valuation tests amid global selloffs",
+    "summary": "Seven top-performing small-cap stocks tied to the US data-centre boom are now facing a major valuation test. A recent global tech sell-off and high valuations are threatening the ongoing market rally. Investors are watching closely as these market trends unfold for the sector.",
+    "source": "Business Standard",
+    "published": "2026-11-03T18:13:51+00:00",
+    "ago": "8h",
+    "impact": "Negative",
+    "why": "Global tech sell-off and high valuations threaten rally",
+    "url": "https://www.business-standard.com/markets/news/the-tide-is-turning-smallcap-ai-winners-are-now-facing-a-valuation-test-126110100450_1.html",
+    "chips": {},
+    "trend": [
+      0.95,
+      0.85,
+      0.7,
+      0.6,
+      0.4,
+      0.3,
+      0.1
+    ],
+    "color": "9B2C2C",
+    "premium": true,
+    "hi_tries": 1
+  },
+  {
+    "v": 3,
+    "cat": "Companies",
+    "tk": "RELIANCE ANIL",
+    "title": "ED attaches Rs 510 crore in Reliance Anil Ambani Group probe",
+    "summary": "The Enforcement Directorate attached assets worth Rs 510 crore, including two aircraft, land parcels, windmills, and bank deposits, in a money laundering investigation linked to alleged bank fraud involving Reliance Anil Ambani Group companies. The action follows allegations of financial irregularities at Reliance Home Finance, Reliance Commercial Finance, and Reliance Communication.",
+    "source": "Business Standard / Press Trust of India",
+    "published": "2026-11-03T17:52:40+00:00",
+    "ago": "8h",
+    "impact": "Negative",
+    "why": "Asset attachment due to alleged bank fraud.",
+    "url": "https://www.business-standard.com/companies/news/ed-attaches-2-aircraft-in-probe-against-reliance-anil-ambani-group-126110301691_1.html",
+    "chips": {
+      "Attached assets": "Rs 510 crore",
+      "RHFL/RCFL fraud": "Rs 263.05 crore",
+      "RCOM fraud": "Rs 247.12 crore"
+    },
+    "trend": [
+      0.95,
+      0.85,
+      0.7,
+      0.6,
+      0.4,
+      0.3,
+      0.1
+    ],
+    "color": "9B2C2C",
+    "premium": false,
+    "title_hi": "Reliance Anil Ambani Group के खिलाफ जांच में 510 करोड़ रुपये की संपत्ति कुर्क",
+    "summary_hi": "प्रवर्तन निदेशालय ने कथित बैंक धोखाधड़ी से जुड़े मनी लॉन्ड्रिंग मामले में Reliance Anil Ambani Group की 510 करोड़ रुपये की संपत्ति कुर्क कर ली है। इसमें दो विमान, जमीन के टुकड़े, विंडमिल और बैंक जमा शामिल हैं। यह कार्रवाई Reliance Home Finance, Reliance Commercial Finance और Reliance Communication से जुड़े मामलों में की गई है।",
+    "why_hi": "कथित बैंक धोखाधड़ी के कारण संपत्ति कुर्क।",
+    "chips_hi": {
+      "कुर्क संपत्ति": "₹510 करोड़",
+      "RHFL/RCFL धोखाधड़ी": "₹263.05 करोड़",
+      "RCOM धोखाधड़ी": "₹247.12 करोड़"
+    }
+  },
+  {
+    "v": 3,
     "cat": "Earnings",
     "tk": "ZYDUS WELLNESS",
     "title": "How did Zydus Wellness swing to a net profit?",
@@ -34,7 +184,9 @@
       "शुद्ध लाभ": "₹5.1 करोड़",
       "राजस्व": "₹1,126.6 करोड़",
       "कुल खर्च": "₹1,125.4 करोड़"
-    }
+    },
+    "hi_tries": 0,
+    "hi_ver": 2
   },
   {
     "v": 3,
@@ -71,7 +223,9 @@
       "निफ्टी प्राइवेट बैंक": "2%",
       "HDFC बैंक तेजी": "7%",
       "निफ्टी 50 बढ़त": "5%"
-    }
+    },
+    "hi_tries": 0,
+    "hi_ver": 2
   },
   {
     "v": 3,
@@ -100,7 +254,9 @@
     "title_hi": "चीन के प्रतिबंधों से निपटने के लिए भारत बनाएगा टनल बोरिंग मशीनें",
     "summary_hi": "वाणिज्य मंत्री ने कहा कि चीन द्वारा रोक लगाने पर भारत अपनी टनल बोरिंग मशीनें खुद विकसित करेगा। देश रेयर अर्थ जैसी जरूरी चीजों के लिए चीन पर निर्भरता कम करेगा। स्टार्टअप्स ने पहले ही बिना रेयर अर्थ सामग्री वाली मोटरें बनानी शुरू कर दी हैं।",
     "why_hi": "विदेशी आयात पर निर्भरता कम होगी।",
-    "chips_hi": {}
+    "chips_hi": {},
+    "hi_tries": 0,
+    "hi_ver": 2
   },
   {
     "v": 3,
@@ -137,7 +293,9 @@
       "शुद्ध लाभ": "₹5,952 करोड़",
       "रेवेन्यू": "₹43,416 करोड़",
       "एसेट्स अंडर मैनेजमें": "₹5.85 ट्रिलियन"
-    }
+    },
+    "hi_tries": 0,
+    "hi_ver": 2
   },
   {
     "v": 3,
@@ -170,7 +328,9 @@
     "why_hi": "लंबी अवधि के अनुबंध के तहत नए स्रोतों की तलाश।",
     "chips_hi": {
       "समयसीमा": "2028 से"
-    }
+    },
+    "hi_tries": 0,
+    "hi_ver": 2
   },
   {
     "v": 3,
@@ -200,7 +360,8 @@
     ],
     "color": "0F766E",
     "premium": false,
-    "hi_tries": 1
+    "hi_tries": 1,
+    "hi_ver": 2
   },
   {
     "v": 3,
@@ -665,175 +826,6 @@
       "शेयर तेजी": "11.6%",
       "मार्केट कैप बढ़ोतरी": "₹1.83 लाख करोड़",
       "जियो हिस्सेदारी मूल्": "₹8.37 लाख करोड़"
-    },
-    "hi_tries": 0,
-    "hi_ver": 2
-  },
-  {
-    "v": 3,
-    "cat": "Companies",
-    "tk": "EQUITAS",
-    "title": "How must institutions outgrow their founders according to Equitas CEO?",
-    "summary": "P N Vasudevan has discussed his exit and the future roadmap for Equitas. He emphasized that financial institutions must learn to outgrow their founders for sustained long-term progress. The outgoing managing director and chief executive officer shared these insights regarding the organization's upcoming journey and leadership transition.",
-    "source": "Business Standard",
-    "published": "2026-11-02T16:58:59+00:00",
-    "ago": "9h",
-    "impact": "Neutral",
-    "why": "Leadership transition discussion without fundamental impact.",
-    "url": "https://www.business-standard.com/companies/people/institutions-must-learn-to-outgrow-their-founders-equitas-md-ceo-126110201339_1.html",
-    "chips": {},
-    "trend": [
-      0.5,
-      0.55,
-      0.45,
-      0.5,
-      0.47,
-      0.52,
-      0.5
-    ],
-    "color": "B7791F",
-    "premium": true,
-    "title_hi": "Equitas के CEO के अनुसार संस्थानों को संस्थापकों से आगे क्यों निकलना चाहिए?",
-    "summary_hi": "पी एन वासुदेवन ने Equitas से अपनी विदाई और भविष्य के रोडमैप पर चर्चा की। उन्होंने जोर दिया कि संस्थानों को अपने संस्थापकों से आगे बढ़ना सीखना चाहिए। जाने-माने प्रबंध निदेशक और मुख्य कार्यकारी अधिकारी ने संगठन की आगामी यात्रा के बारे में यह बातें साझा कीं।",
-    "why_hi": "नेतृत्व परिवर्तन पर चर्चा, कोई वित्तीय प्रभाव नहीं",
-    "chips_hi": {},
-    "hi_tries": 0,
-    "hi_ver": 2
-  },
-  {
-    "v": 3,
-    "cat": "Economy",
-    "tk": "ECONOMY",
-    "title": "Why did the 10-year bond yield fall nearly 10 basis points?",
-    "summary": "The benchmark 10-year government bond yield dropped close to 10 basis points, settling at 7.32 per cent. This movement followed a decline in crude oil prices. Meanwhile, the rupee strengthened against the US dollar for the second consecutive session, according to the latest market update.",
-    "source": "Business Standard",
-    "published": "2026-11-02T14:19:03+00:00",
-    "ago": "11m",
-    "impact": "Positive",
-    "why": "Falling yields and stronger currency benefit the market.",
-    "url": "https://www.business-standard.com/economy/news/bond-yields-fall-nearly-10-bps-as-crude-slides-rupee-gains-against-dollar-126110201369_1.html",
-    "chips": {
-      "Bond yield": "7.32%"
-    },
-    "trend": [
-      0.1,
-      0.25,
-      0.2,
-      0.5,
-      0.45,
-      0.8,
-      0.95
-    ],
-    "color": "0F766E",
-    "premium": false,
-    "title_hi": "10-साल के बॉन्ड यील्ड में लगभग 10 बेसिस पॉइंट की गिरावट क्यों आई?",
-    "summary_hi": "क्रूड ऑयल की कीमतों में नरमी के चलते बेंचमार्क 10-साल का सरकारी बॉन्ड यील्ड गिरकर 7.32 प्रतिशत पर आ गया। इसके साथ ही, रुपया लगातार दूसरे सत्र में अमेरिकी डॉलर के मुकाबले मजबूत हुआ है।",
-    "why_hi": "यील्ड घटने और मुद्रा मजबूत होने से राहत।",
-    "chips_hi": {
-      "बॉन्ड यील्ड": "7.32%"
-    },
-    "hi_tries": 0,
-    "hi_ver": 2
-  },
-  {
-    "v": 3,
-    "cat": "Economy",
-    "tk": "ECONOMY",
-    "title": "How does Uttar Pradesh plan to attract IT and ITeS operations?",
-    "summary": "Uttar Pradesh has introduced a state incentive and infrastructure framework. The policy aims to attract information technology and technology-enabled service operations to the state. It outlines specific incentives, eligibility criteria, and implementation guidelines to boost the local technology sector.",
-    "source": "Business Standard",
-    "published": "2026-11-02T14:18:38+00:00",
-    "ago": "12m",
-    "impact": "Positive",
-    "why": "New framework aims to attract technology operations.",
-    "url": "https://www.business-standard.com/economy/uttar-pradesh/it-and-ites-policy-of-uttar-pradesh-2022-incentives-eligibility-and-implementation-126110200419_1.html",
-    "chips": {},
-    "trend": [
-      0.1,
-      0.25,
-      0.2,
-      0.5,
-      0.45,
-      0.8,
-      0.95
-    ],
-    "color": "0F766E",
-    "premium": false,
-    "title_hi": "उत्तर प्रदेश कैसे IT और ITeS ऑपरेशंस को आकर्षित कर रहा है?",
-    "summary_hi": "उत्तर प्रदेश ने एक नई राज्य प्रोत्साहन और बुनियादी ढांचा नीति पेश की है। इस नीति का उद्देश्य राज्य में सूचना प्रौद्योगिकी और तकनीकी सेवाओं के संचालन को आकर्षित करना है। इसमें स्थानीय तकनीकी क्षेत्र को बढ़ावा देने के लिए प्रोत्साहन और कार्यान्वयन दिशा-निर्देश शामिल हैं।",
-    "why_hi": "नई नीति से तकनीकी ऑपरेशंस को बढ़ावा मिलेगा।",
-    "chips_hi": {},
-    "hi_tries": 0,
-    "hi_ver": 2
-  },
-  {
-    "v": 3,
-    "cat": "Companies",
-    "tk": "COMPANIES",
-    "title": "Azim Premji Foundation launches new programme for social startups",
-    "summary": "The Azim Premji Foundation has introduced a support programme designed to help young development professionals set up grassroots organisations. This initiative focuses on underserved regions. Applications for the initial cohort are currently open and will remain available until the thirty first of December in the year 2026 for eligible candidates.",
-    "source": "Business Standard",
-    "published": "2026-11-02T14:12:19+00:00",
-    "ago": "18m",
-    "impact": "Neutral",
-    "why": "It supports grassroots development without direct market imp",
-    "url": "https://www.business-standard.com/companies/news/azim-premji-foundation-launches-programme-to-support-social-startups-126110201361_1.html",
-    "chips": {
-      "Application deadline": "31 December 2026"
-    },
-    "trend": [
-      0.5,
-      0.55,
-      0.45,
-      0.5,
-      0.47,
-      0.52,
-      0.5
-    ],
-    "color": "B7791F",
-    "premium": false,
-    "title_hi": "Azim Premji Foundation ने सामाजिक स्टार्टअप के लिए शुरू किया कार्यक्रम",
-    "summary_hi": "Azim Premji Foundation ने एक नया कार्यक्रम शुरू किया है, जो युवा विकास पेशेवरों को कम सेवा प्राप्त क्षेत्रों में जमीनी स्तर के संगठन स्थापित करने में मदद करेगा। इसके पहले समूह के लिए आवेदन 31 दिसंबर 2026 तक खुले रहेंगे।",
-    "why_hi": "यह बाजार पर सीधा असर डाले बिना विकास में मदद करता है।",
-    "chips_hi": {
-      "अंतिम तिथि": "31 दिसंबर 2026"
-    },
-    "hi_tries": 0,
-    "hi_ver": 2
-  },
-  {
-    "v": 3,
-    "cat": "Markets",
-    "tk": "MARKETS",
-    "title": "Sebi reduces OFS cooling-off period for illiquid InvITs to eight weeks",
-    "summary": "Market regulator Sebi has reduced the cooling-off duration for offer-for-sale transactions by privately listed illiquid InvITs. The timeline is now shortened from 12 weeks to eight weeks. This change comes into effect immediately, impacting how these specific infrastructure investment trusts manage their share sales going forward.",
-    "source": "Business Standard / Press Trust of India",
-    "published": "2026-11-02T14:03:56+00:00",
-    "ago": "27m",
-    "impact": "Neutral",
-    "why": "Regulatory change with unclear direct fundamental impact.",
-    "url": "https://www.business-standard.com/markets/news/sebi-cuts-ofs-cooling-off-for-privately-listed-illiquid-invits-to-8-weeks-126110201342_1.html",
-    "chips": {
-      "New cooling-off peri": "8 weeks",
-      "Previous period": "12 weeks"
-    },
-    "trend": [
-      0.5,
-      0.55,
-      0.45,
-      0.5,
-      0.47,
-      0.52,
-      0.5
-    ],
-    "color": "B7791F",
-    "premium": false,
-    "title_hi": "Sebi ने illiquid InvITs के लिए OFS कूलिंग-ऑफ अवधि घटाकर 8 हफ्ते की",
-    "summary_hi": "मार्केट रेगुलेटर सेबी ने प्राइवेट रूप से लिस्टेड illiquid InvITs के ऑफर-for-sale ट्रांजैक्शन के लिए कूलिंग-ऑफ पीरियड कम कर दिया है। इस अवधि को 12 हफ्ते से घटाकर 8 हफ्ते कर दिया गया है। यह बदलाव तुरंत प्रभाव से लागू हो गया है, जिससे इन ट्रस्टों के शेयर बिक्री नियमों में बदलाव आया है।",
-    "why_hi": "नियामक बदलाव जिसका फंडामेंटल असर स्पष्ट नहीं है।",
-    "chips_hi": {
-      "नई अवधि": "8 हफ्ते",
-      "पुरानी अवधि": "12 हफ्ते"
     },
     "hi_tries": 0,
     "hi_ver": 2
