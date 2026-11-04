@@ -1,6 +1,172 @@
 [
   {
     "v": 3,
+    "cat": "Industry",
+    "tk": "INDUSTRY",
+    "title": "Cabinet Clears Rs 14,500 Crore Storage Scheme to Boost Clean Energy",
+    "summary": "The Union Cabinet approved Rs 14,500 crore in viability gap funding for 92 GWh of grid-scale energy storage systems through FY31. This initiative supports India's target of reaching 500 GW of renewable energy by 2030. The program will back three storage technologies over five years, aiming to boost capacity development nationwide.",
+    "source": "Business Standard / Press Trust of India",
+    "published": "2026-11-04T10:12:51+00:00",
+    "ago": "16m",
+    "impact": "Positive",
+    "why": "Boosts renewable energy storage infrastructure development.",
+    "url": "https://www.business-standard.com/industry/news/cabinet-clears-14-500-cr-funding-scheme-for-battery-energy-storage-systems-126110401014_1.html",
+    "chips": {
+      "Funding": "Rs 14,500 crore",
+      "Storage capacity": "92 GWh",
+      "Renewable target": "500 GW"
+    },
+    "trend": [
+      0.1,
+      0.25,
+      0.2,
+      0.5,
+      0.45,
+      0.8,
+      0.95
+    ],
+    "color": "0F766E",
+    "premium": false,
+    "hi_tries": 1,
+    "title_hi": "क्लीन एनर्जी को बढ़ावा: कैबिनेट ने दी 14,500 करोड़ रुपये की स्टोरेज योजना को मंजूरी",
+    "summary_hi": "सरकार ने देश में रिन्यूएबल एनर्जी को बढ़ावा देने के लिए एक बड़ी योजना को मंजूरी दी है। इसके तहत ग्रिड-स्केल एनर्जी स्टोरेज सिस्टम्स के विकास पर जोर दिया जाएगा, जिससे साल 2030 तक 500 GW ग्रीन एनर्जी का लक्ष्य हासिल करने में मदद मिलेगी।",
+    "why_hi": "रिन्यूएबल एनर्जी स्टोरेज के बुनियादी ढांचे को मजबूत करना।",
+    "chips_hi": {
+      "फंडिंग": "₹14,500 करोड़",
+      "स्टोरेज क्षमता": "92 GWh",
+      "रिन्यूएबल लक्ष्य": "500 GW"
+    }
+  },
+  {
+    "v": 3,
+    "cat": "Industry",
+    "tk": "INDUSTRY",
+    "title": "Odisha proposes 290 new EV charging stations across 13 cities",
+    "summary": "The Odisha government has proposed setting up 290 additional public electric vehicle charging stations across 13 cities and various highways under the PM E-DRIVE scheme. This follows a previous approval by the Centre for 170 charging stations in seven major cities during the first phase of the initiative, aimed at strengthening the state's transport infrastructure.",
+    "source": "Business Standard / Press Trust of India",
+    "published": "2026-11-04T10:12:40+00:00",
+    "ago": "17m",
+    "impact": "Positive",
+    "why": "Expands public electric vehicle infrastructure in Odisha.",
+    "url": "https://www.business-standard.com/industry/news/odisha-proposes-290-new-ev-charging-stations-under-pm-e-drive-scheme-126110401053_1.html",
+    "chips": {
+      "Proposed stations": "290",
+      "Cities": "13",
+      "First phase stations": "170"
+    },
+    "trend": [
+      0.1,
+      0.25,
+      0.2,
+      0.5,
+      0.45,
+      0.8,
+      0.95
+    ],
+    "color": "0F766E",
+    "premium": false,
+    "hi_tries": 1
+  },
+  {
+    "v": 3,
+    "cat": "Earnings",
+    "tk": "ALEMBIC PHARMA",
+    "title": "Alembic Pharma shares hit twenty percent upper circuit on profit jump",
+    "summary": "Alembic Pharma saw its shares touch the twenty percent upper circuit following a significant growth in its quarterly performance. The drug maker reported an eighty-one percent year-on-year increase in its profit after tax. Additionally, revenue from operations grew by thirty-six percent compared to the same period in the previous year, reaching ₹2,603 crore.",
+    "source": "Business Standard",
+    "published": "2026-11-04T09:43:57+00:00",
+    "ago": "46m",
+    "impact": "Positive",
+    "why": "Strong profit and revenue growth.",
+    "url": "https://www.business-standard.com/markets/news/alembic-pharma-shares-hit-20-upper-circuit-after-81-yoy-rise-in-q2-pat-126110401055_1.html",
+    "chips": {
+      "PAT growth": "81% YoY",
+      "Revenue": "₹2,603 crore",
+      "Revenue growth": "36% YoY"
+    },
+    "trend": [
+      0.1,
+      0.25,
+      0.2,
+      0.5,
+      0.45,
+      0.8,
+      0.95
+    ],
+    "color": "0F766E",
+    "premium": false,
+    "title_hi": "Alembic Pharma के शेयर में उछال, मुनाफे में 81 प्रतिशत की वृद्धि",
+    "summary_hi": "Alembic Pharma के शेयरों में जबरदस्त तेजी आई और यह ऊपरी सर्किट पर पहुंच गए। कंपनी ने तिमाही आधार पर अपने शुद्ध लाभ में 81 प्रतिशत की भारी बढ़ोतरी दर्ज की है। इसके अलावा, पिछले साल की तुलना में परिचालन से होने वाला राजस्व 36 प्रतिशत बढ़कर ₹2,603 करोड़ हो गया।",
+    "why_hi": "मजबूत मुनाफा और राजस्व वृद्धि।",
+    "chips_hi": {
+      "PAT वृद्धि": "81% YoY",
+      "राजस्व": "₹2,603 करोड़",
+      "राजस्व वृद्धि": "36% YoY"
+    }
+  },
+  {
+    "v": 3,
+    "cat": "Finance",
+    "tk": "FINANCE",
+    "title": "How will the new PFRDA naming rules change scheme display?",
+    "summary": "The pension regulator has updated naming rules for NPS schemes. Under these updated guidelines, Points of Presence must display schemes from every pension fund that falls within the specific risk category chosen by the subscriber, bringing more transparency and choices to individual investors.",
+    "source": "Business Standard",
+    "published": "2026-11-04T09:41:06+00:00",
+    "ago": "49m",
+    "impact": "Neutral",
+    "why": "Regulatory update affecting scheme display rules.",
+    "url": "https://www.business-standard.com/finance/personal-finance/pfrda-revises-nps-scheme-naming-rules-what-changes-for-subscribers-126110401054_1.html",
+    "chips": {},
+    "trend": [
+      0.5,
+      0.55,
+      0.45,
+      0.5,
+      0.47,
+      0.52,
+      0.5
+    ],
+    "color": "B7791F",
+    "premium": false,
+    "hi_tries": 1
+  },
+  {
+    "v": 3,
+    "cat": "Markets",
+    "tk": "MARKETS",
+    "title": "Why did HEG Advanced Materials and Saregama India jump sharply?",
+    "summary": "HEG Advanced Materials surged to reach its upper circuit limit during intraday trades on the BSE. Meanwhile, Saregama India also recorded significant gains of up to fifteen percent. Both stocks witnessed heavy buying volumes, pushing their prices higher to reach ₹288.90 and ₹647.20 respectively in the latest trading session.",
+    "source": "Business Standard",
+    "published": "2026-11-04T09:19:47+00:00",
+    "ago": "1h",
+    "impact": "Positive",
+    "why": "Significant stock price surge and volume increase.",
+    "url": "https://www.business-standard.com/markets/news/volume-shockers-heg-advanced-materials-saregama-india-zoom-up-to-20-126110400967_1.html",
+    "chips": {
+      "HEG price": "Rs 288.90",
+      "Saregama price": "Rs 647.20"
+    },
+    "trend": [
+      0.1,
+      0.25,
+      0.2,
+      0.5,
+      0.45,
+      0.8,
+      0.95
+    ],
+    "color": "0F766E",
+    "premium": false,
+    "title_hi": "HEG Advanced Materials और Saregama India में अचानक इतनी तेजी क्यों आई?",
+    "summary_hi": "बुधवार के कारोबारी सत्र में BSE पर HEG Advanced Materials का शेयर बीस प्रतिशत के ऊपरी सर्किट पर पहुंच गया। इसके साथ ही Saregama India के शेयरों में भी पंद्रह प्रतिशत की जोरदार तेजी दर्ज की गई। भारी वॉल्यूम के बीच इन दोनों शेयरों में यह उछाल देखने को मिला है।",
+    "why_hi": "शेयर की कीमतों और वॉल्यूम में भारी उछाल।",
+    "chips_hi": {
+      "HEG कीमत": "₹288.90",
+      "Saregama कीमत": "₹647.20"
+    }
+  },
+  {
+    "v": 3,
     "cat": "Companies",
     "tk": "ELOELO",
     "title": "Hornbill and NBCUniversal back EloElo in $80 million funding",
@@ -30,7 +196,9 @@
     "why_hi": "फंडिंग से ओरिजिनल कंटेंट और ग्लोबल विस्तार को बल मिलेगा।",
     "chips_hi": {
       "फंडिंग": "$80 मिलियन"
-    }
+    },
+    "hi_tries": 0,
+    "hi_ver": 2
   },
   {
     "v": 3,
@@ -59,7 +227,9 @@
     "title_hi": "WhatsApp number की मदद से ऐसे चेक करें PF बैलेंस",
     "summary_hi": "सब्सक्राइबर अब EPFO के WhatsApp नंबर का उपयोग करके अपना प्रोविडेंट फंड बैलेंस चेक कर सकते हैं और पासबुक डाउनलोड कर सकते हैं। इस नई सुविधा से यूजर्स अपने खाते की आखिरी पांच एंट्री भी ट्रैक कर सकते हैं और PM Viksit Bharat Rozgar Yojana के तहत सहायता प्राप्त कर सकते हैं।",
     "why_hi": "पीएफ बैलेंस चेक करने की नई डिजिटल सुविधा।",
-    "chips_hi": {}
+    "chips_hi": {},
+    "hi_tries": 0,
+    "hi_ver": 2
   },
   {
     "v": 3,
@@ -88,7 +258,8 @@
     ],
     "color": "0F766E",
     "premium": false,
-    "hi_tries": 1
+    "hi_tries": 1,
+    "hi_ver": 2
   },
   {
     "v": 3,
@@ -123,7 +294,9 @@
     "chips_hi": {
       "शेयर तेजी": "9%",
       "पिछली गिरावट": "19%"
-    }
+    },
+    "hi_tries": 0,
+    "hi_ver": 2
   },
   {
     "v": 3,
@@ -158,7 +331,9 @@
     "chips_hi": {
       "रेवेन्यू ग्रोथ": "16-18.8 प्रतिशत",
       "PAT ग्रोथ": "20-26.8 प्रतिशत"
-    }
+    },
+    "hi_tries": 0,
+    "hi_ver": 2
   },
   {
     "v": 3,
@@ -187,7 +362,9 @@
     "title_hi": "IndiGo के शॉर्ट-टर्म मोमेंटम में फिर से सुधार क्यों आ रहा है?",
     "summary_hi": "IndiGo के लिए शॉर्ट-टर्म मोमेंटम सकारात्मक क्षेत्र में वापस आ गया है। एक विश्लेषक के अनुसार, शेयर की कीमत ने डेली चार्ट पर प्रमुख मूविंग एवरेज को फिर से हासिल कर लिया है।",
     "why_hi": "शेयर की कीमत मूविंग एवरेज से ऊपर आई।",
-    "chips_hi": {}
+    "chips_hi": {},
+    "hi_tries": 0,
+    "hi_ver": 2
   },
   {
     "v": 3,
@@ -306,7 +483,7 @@
     ],
     "color": "9B2C2C",
     "premium": true,
-    "hi_tries": 1,
+    "hi_tries": 2,
     "hi_ver": 2
   },
   {
@@ -629,187 +806,6 @@
     "summary_hi": "17 सितंबर की बोर्ड बैठक के बाद मतभेदों के चलते Darius Khambata ने Tata Trusts से इस्तीफा दे दिया है। उन्होंने कहा कि इस बैठक से कंपनी की प्रतिष्ठा को नुकसान पहुंचा है और यह टाटा समूह के मूल्यों के खिलाफ था।",
     "why_hi": "प्रतिष्ठा संबंधी चिंताओं के कारण बोर्ड से इस्तीफा।",
     "chips_hi": {},
-    "hi_tries": 0,
-    "hi_ver": 2
-  },
-  {
-    "v": 3,
-    "cat": "Industry",
-    "tk": "INDUSTRY",
-    "title": "Centre proposes new entry points for importing drugs and devices",
-    "summary": "The Union Health Ministry has proposed adding several inland container depots, a special economic zone, and an international airport as authorised import gateways. The move aims to facilitate faster clearance and improve supply chain efficiency for medical products across multiple states by amending the Drugs Rules.",
-    "source": "Business Standard / Press Trust of India",
-    "published": "2026-11-03T05:18:57+00:00",
-    "ago": "58m",
-    "impact": "Positive",
-    "why": "Improves supply chain efficiency for medical products.",
-    "url": "https://www.business-standard.com/industry/news/centre-proposes-expanding-import-gateways-for-drugs-medical-devices-126110300397_1.html",
-    "chips": {},
-    "trend": [
-      0.1,
-      0.25,
-      0.2,
-      0.5,
-      0.45,
-      0.8,
-      0.95
-    ],
-    "color": "0F766E",
-    "premium": false,
-    "title_hi": "सरकार ने दवा और मेडिकल उपकरणों के आयात के लिए नए रास्ते सुझाए",
-    "summary_hi": "केंद्रीय स्वास्थ्य मंत्रालय ने दवाओं, मेडिकल उपकरणों और सौंदर्य प्रसाधनों के लिए अधिकृत आयात गेटवे के नेटवर्क का विस्तार करने का प्रस्ताव दिया है। इस कदम का उद्देश्य कई राज्यों में तेजी से मंजूरी देना और आपूर्ति श्रृंखला की दक्षता में सुधार करना है।",
-    "why_hi": "मेडिकल उत्पादों के लिए आपूर्ति श्रृंखला में सुधार।",
-    "chips_hi": {},
-    "hi_tries": 0,
-    "hi_ver": 2
-  },
-  {
-    "v": 3,
-    "cat": "Markets",
-    "tk": "MARKETS",
-    "title": "Why did crude-sensitive stocks climb as oil stayed under $105?",
-    "summary": "Shares sensitive to crude oil prices saw gains as the global oil benchmark Brent crude traded below $105 per barrel. Brent crude increased marginally by 0.10 percent to reach $104.9, while West Texas Intermediate crude went up 0.18 percent to $96.63 per barrel.",
-    "source": "Business Standard",
-    "published": "2026-11-03T05:08:36+00:00",
-    "ago": "1h",
-    "impact": "Positive",
-    "why": "Lower oil prices benefit crude-sensitive companies.",
-    "url": "https://www.business-standard.com/markets/news/crude-sensitive-stocks-gain-as-oil-stays-below-105-hpcl-indigo-rise-126110300400_1.html",
-    "chips": {
-      "Brent crude": "$104.9",
-      "WTI crude": "$96.63"
-    },
-    "trend": [
-      0.1,
-      0.25,
-      0.2,
-      0.5,
-      0.45,
-      0.8,
-      0.95
-    ],
-    "color": "0F766E",
-    "premium": false,
-    "title_hi": "कच्चे तेल के 105 डॉलर से नीचे रहने पर शेयरों में तेजी क्यों आई?",
-    "summary_hi": "कच्चे तेल के दाम 105 डॉलर प्रति बैरल से नीचे रहने के कारण इससे जुड़े शेयरों में बढ़त दर्ज की गई। ब्रेंट क्रूड 0.10 प्रतिशत की मामूली बढ़त के साथ 104.9 डॉलर पर रहा, जबकि वेस्ट टेक्सास इंटरमीडिएट क्रूड 0.18 प्रतिशत बढ़कर 96.63 डॉलर पर पहुंच गया।",
-    "why_hi": "कम तेल कीमतों से कंपनियों को फायदा होता है।",
-    "chips_hi": {
-      "ब्रेंट क्रूड": "$104.9",
-      "डब्ल्यूटीआई क्रूड": "$96.63"
-    },
-    "hi_tries": 0,
-    "hi_ver": 2
-  },
-  {
-    "v": 3,
-    "cat": "Earnings",
-    "tk": "KITEX GARMENTS",
-    "title": "Kitex Garments shares jump 17 percent after posting quarterly profit",
-    "summary": "Kitex Garments stock surged over 17 percent as the company returned to profitability in the second quarter. Even with this strong daily gain, the shares are still trading significantly below their 52-week high of Rs 231.15 reached earlier in February this year.",
-    "source": "Business Standard",
-    "published": "2026-11-03T05:04:53+00:00",
-    "ago": "1h",
-    "impact": "Positive",
-    "why": "Company turned profitable in the latest quarter.",
-    "url": "https://www.business-standard.com/markets/news/small-cap-stock-kitex-garments-zooms-over-17-as-firm-swings-to-black-in-q2-126110300398_1.html",
-    "chips": {
-      "Share price surge": "17%",
-      "52-week high": "Rs 231.15"
-    },
-    "trend": [
-      0.1,
-      0.25,
-      0.2,
-      0.5,
-      0.45,
-      0.8,
-      0.95
-    ],
-    "color": "0F766E",
-    "premium": false,
-    "title_hi": "Q2 में मुनाफा कमाते ही Kitex Garments के शेयरों में 17% से ज्यादा उछाल",
-    "summary_hi": "Kitex Garments का स्टॉक 17 प्रतिशत से अधिक बढ़ गया क्योंकि कंपनी ने दूसरी तिमाही में मुनाफा दर्ज किया। इस तेजी के बावजूद, शेयर इस साल फरवरी में बने 52-सप्ताह के उच्चतम स्तर ₹231.15 से काफी नीचे ट्रेड कर रहे हैं।",
-    "why_hi": "कंपनी ने तिमाही में मुनाफा दर्ज किया।",
-    "chips_hi": {
-      "शेयर तेजी": "17%",
-      "52-सप्ताह का उच्च स्": "₹231.15"
-    },
-    "hi_tries": 0,
-    "hi_ver": 2
-  },
-  {
-    "v": 3,
-    "cat": "Earnings",
-    "tk": "COMPANIES",
-    "title": "Puravankara posts ₹84 crore net profit in September quarter",
-    "summary": "Realty firm Puravankara Ltd reported a consolidated net profit of ₹83.74 crore for the quarter ended September, recovering from a net loss in the previous year. Total income increased to ₹1,051.02 crore. The management noted that higher handovers, sustained sales, and stronger realisations supported the overall growth during the period.",
-    "source": "Business Standard / Press Trust of India",
-    "published": "2026-11-03T05:00:35+00:00",
-    "ago": "1h",
-    "impact": "Positive",
-    "why": "Profit returned and income rose significantly.",
-    "url": "https://www.business-standard.com/companies/quarterly-results/puravankara-q2-results-net-profit-at-84-cr-income-rises-to-1-051-cr-126110300319_1.html",
-    "chips": {
-      "Net profit": "Rs 83.74 crore",
-      "Total income": "Rs 1,051.02 crore"
-    },
-    "trend": [
-      0.1,
-      0.25,
-      0.2,
-      0.5,
-      0.45,
-      0.8,
-      0.95
-    ],
-    "color": "0F766E",
-    "premium": false,
-    "title_hi": "Puravankara ने सितंबर तिमाही में दर्ज किया ₹84 करोड़ का शुद्ध लाभ",
-    "summary_hi": "रियल्टी फर्म Puravankara Ltd ने सितंबर समाप्त तिमाही के लिए ₹83.74 करोड़ का समेकित शुद्ध लाभ दर्ज किया है, जिससे पिछले साल के घाटे से सुधार हुआ है। कुल आय बढ़कर ₹1,051.02 करोड़ हो गई। प्रबंधन के अनुसार, बेहतर हैंडओवर, निरंतर बिक्री और मजबूत दरों से इस अवधि के दौरान वृद्धि को समर्थन मिला।",
-    "why_hi": "मुनाफा वापस आया और आय में वृद्धि हुई।",
-    "chips_hi": {
-      "शुद्ध लाभ": "₹83.74 करोड़",
-      "कुल आय": "₹1,051.02 करोड़"
-    },
-    "hi_tries": 0,
-    "hi_ver": 2
-  },
-  {
-    "v": 3,
-    "cat": "Industry",
-    "tk": "INDUSTRY",
-    "title": "Why has rabi crop sowing dropped sharply this year?",
-    "summary": "Rabi crop sowing dropped significantly due to deficient monsoon and low soil moisture. Total area covered reached 37.56 lakh hectare by October 30, down from 69.02 lakh hectare last year. Wheat sowing fell to 19,000 hectare from 3.34 lakh hectare. Pulses, gram, and oilseeds also recorded lower acreage according to Union Agriculture Ministry data.",
-    "source": "Business Standard / Press Trust of India",
-    "published": "2026-11-03T05:00:11+00:00",
-    "ago": "1h",
-    "impact": "Negative",
-    "why": "Deficient monsoon reduced rabi crop sowing area.",
-    "url": "https://www.business-standard.com/industry/agriculture/deficient-monsoon-slows-rabi-sowing-wheat-sowing-yet-to-pick-up-pace-126110300328_1.html",
-    "chips": {
-      "Total area covered": "37.56 lakh hectare",
-      "Wheat sown area": "19,000 hectare",
-      "Pulses area": "9.45 lakh hectare"
-    },
-    "trend": [
-      0.95,
-      0.85,
-      0.7,
-      0.6,
-      0.4,
-      0.3,
-      0.1
-    ],
-    "color": "9B2C2C",
-    "premium": false,
-    "title_hi": "कम बारिश के कारण इस साल रबी फसल की बुवाई क्यों घटी?",
-    "summary_hi": "कम मानसून और मिट्टी में नमी की कमी के कारण रबी फसलों की बुवाई में भारी गिरावट आई है। केंद्रीय कृषि मंत्रालय के आंकड़ों के अनुसार, 30 अक्टूबर तक कुल बुवाई क्षेत्र घटकर 37.56 लाख हेक्टेयर रह गया, जो पिछले साल इसी दौरान 69.02 लाख हेक्टेयर था। गेहूं की बुवाई भी पिछले साल के 3.34 लाख हेक्टेयर से गिरकर 19,000 हेक्टेयर रह गई।",
-    "why_hi": "कम बारिश के कारण बुवाई का रकबा घटा।",
-    "chips_hi": {
-      "कुल क्षेत्र": "37.56 लाख हेक्टेयर",
-      "गेहूं का क्षेत्र": "19,000 हेक्टेयर",
-      "दालों का क्षेत्र": "9.45 लाख हेक्टेयर"
-    },
     "hi_tries": 0,
     "hi_ver": 2
   }
