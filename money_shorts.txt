@@ -1,6 +1,194 @@
 [
   {
     "v": 3,
+    "cat": "Companies",
+    "tk": "DR REDDY'S",
+    "title": "Dr Reddy's wins Brazil approval to sell generic Ozempic",
+    "summary": "Dr Reddy's has received approval from the Brazil regulator to sell generic Ozempic. The country has 16.6 million adults aged 20 to 79 living with diabetes. Brazil currently ranks sixth globally in terms of the total number of adults living with this condition.",
+    "source": "Business Standard / Reuters",
+    "published": "2026-11-05T06:20:46+00:00",
+    "ago": "2m",
+    "impact": "Positive",
+    "why": "New regulatory approval opens a major market.",
+    "url": "https://www.business-standard.com/companies/news/dr-reddy-s-gets-brazil-regulator-approval-to-sell-generic-ozempic-126110500609_1.html",
+    "chips": {
+      "Adults with diabetes": "16.6 million",
+      "Age group": "20 to 79"
+    },
+    "trend": [
+      0.1,
+      0.25,
+      0.2,
+      0.5,
+      0.45,
+      0.8,
+      0.95
+    ],
+    "color": "0F766E",
+    "premium": false,
+    "title_hi": "Dr Reddy's को जेनेरिक Ozempic बेचने के लिए मिली ब्राजील की मंजूरी",
+    "summary_hi": "Dr Reddy's को ब्राजील के नियामक से जेनेरिक Ozempic बेचने की मंजूरी मिल गई है। ब्राजील में 20 से 79 वर्ष की आयु के 16.6 million वयस्क डायबिटीज के साथ जी रहे हैं। डायबिटीज से पीड़ित वयस्कों की संख्या के मामले में यह देश वैश्विक स्तर पर छठे स्थान पर है।",
+    "why_hi": "नई मंजूरी से बड़ा बाजार खुला है।",
+    "chips_hi": {
+      "डायबिटीज वाले वयस्क": "16.6 million",
+      "आयु वर्ग": "20 से 79"
+    }
+  },
+  {
+    "v": 3,
+    "cat": "Markets",
+    "tk": "MARKETS",
+    "title": "Capital Markets index climbs 4 percent as major stocks jump",
+    "summary": "The Nifty Capital Markets index rose four percent, with stocks like MOFSL, Groww, 360 ONE, and BSE increasing up to seven percent. Over the past four trading days, this index outperformed the broader market by surging 9.5 percent, compared to a six percent rally in the Nifty 50 benchmark.",
+    "source": "Business Standard",
+    "published": "2026-11-05T06:04:29+00:00",
+    "ago": "20m",
+    "impact": "Positive",
+    "why": "Index and key stocks surged significantly.",
+    "url": "https://www.business-standard.com/markets/news/capital-markets-index-soars-4-mofsl-groww-360-one-bse-zoom-up-to-7-126110500617_1.html",
+    "chips": {},
+    "trend": [
+      0.1,
+      0.25,
+      0.2,
+      0.5,
+      0.45,
+      0.8,
+      0.95
+    ],
+    "color": "0F766E",
+    "premium": false,
+    "title_hi": "Capital Markets इंडेक्स में 4 प्रतिशत की तेजी",
+    "summary_hi": "Capital Markets इंडेक्स चार प्रतिशत चढ़ा और MOFSL, Groww, 360 ONE व BSE जैसे शेयर सात प्रतिशत तक उछले। पिछले चार कारोबारी सत्रों में Nifty 50 की छह प्रतिशत की तेजी के मुकाबले इस इंडेक्स ने 9.5 प्रतिशत की मजबूत बढ़त दर्ज की है।",
+    "why_hi": "इंडेक्स और प्रमुख शेयरों में बड़ी तेजी।",
+    "chips_hi": {}
+  },
+  {
+    "v": 3,
+    "cat": "Finance",
+    "tk": "FINANCE",
+    "title": "Why would 87% of young Indians save an unexpected windfall?",
+    "summary": "A recent study shows that a vast majority of young Indians prefer to save, invest, or clear debts rather than spend lavishly if they receive a sudden financial windfall. Mutual funds and bank fixed deposits have emerged as the top choices for parking these funds, reflecting a cautious and financially prudent mindset among the country's younger generation.",
+    "source": "Business Standard",
+    "published": "2026-11-05T05:54:34+00:00",
+    "ago": "32m",
+    "impact": "Positive",
+    "why": "Strong savings and investment preference among youth.",
+    "url": "https://www.business-standard.com/finance/personal-finance/india-s-young-aren-t-splurging-87-would-save-or-invest-a-windfall-126110500614_1.html",
+    "chips": {
+      "Windfall action": "87% save, invest or "
+    },
+    "trend": [
+      0.1,
+      0.25,
+      0.2,
+      0.5,
+      0.45,
+      0.8,
+      0.95
+    ],
+    "color": "0F766E",
+    "premium": false,
+    "title_hi": "अचानक पैसा मिलने पर 87% युवा क्यों करते हैं बचत?",
+    "summary_hi": "एक अध्ययन के अनुसार, देश के अधिकांश युवा अचानक धन प्राप्ति होने पर उसे खर्च करने के बजाय बचाने, निवेश करने या कर्ज चुकाने को प्राथमिकता देते हैं। म्यूचुअल फंड और बैंक फिक्स्ड डिपॉजिट इस पैसे को लगाने के लिए सबसे पसंदीदा विकल्प बनकर उभरे हैं, जो युवाओं की वित्तीय समझ को दर्शाता है।",
+    "why_hi": "युवाओं में बचत और निवेश की मजबूत प्राथमिकता",
+    "chips_hi": {
+      "पैसे का उपयोग": "87% बचत, निवेश या कर"
+    }
+  },
+  {
+    "v": 3,
+    "cat": "Companies",
+    "tk": "TATA MOTORS",
+    "title": "How vulnerable are Tata Motors iRA apps to data theft?",
+    "summary": "A risk assessment by CERT-In reveals that Tata Motors iRA applications have vulnerabilities that could allow data theft, user impersonation, and unauthorized changes to app data. This warning highlights potential security risks regarding unauthorized access to sensitive information for users.",
+    "source": "Business Standard",
+    "published": "2026-11-05T05:43:16+00:00",
+    "ago": "44m",
+    "impact": "Negative",
+    "why": "Security flaws expose user data and system risks.",
+    "url": "https://www.business-standard.com/companies/news/tata-motors-ira-apps-vulnerable-to-data-theft-user-impersonation-cert-in-126110500606_1.html",
+    "chips": {},
+    "trend": [
+      0.95,
+      0.85,
+      0.7,
+      0.6,
+      0.4,
+      0.3,
+      0.1
+    ],
+    "color": "9B2C2C",
+    "premium": false,
+    "title_hi": "Tata Motors के iRA ऐप्स में डेटा चोरी का खतरा क्यों है?",
+    "summary_hi": "CERT-In के जोखिम आकलन से पता चलता है कि Tata Motors के iRA ऐप्स में ऐसी कमियां हैं जिनसे संवेदनशील डेटा चोरी हो सकता है, यूजर का रूप धरा जा सकता है और ऐप डेटा में अनधिकृत बदलाव किए जा सकते हैं।",
+    "why_hi": "सुरक्षा कमियों से यूजर डेटा को खतरा।",
+    "chips_hi": {}
+  },
+  {
+    "v": 3,
+    "cat": "Companies",
+    "tk": "RAJESH POWER",
+    "title": "How Rajesh Power Secured a Rs 1,628.74-Crore DGVCL Cable Order",
+    "summary": "Rajesh Power has secured a massive order worth Rs 1,628.74 crore from DGVCL. The project involves converting existing 11/22 kV high-tension and low-tension overhead electricity distribution networks into underground cable systems. This infrastructure upgrade will transform traditional power lines into modern underground setups.",
+    "source": "Business Standard",
+    "published": "2026-11-05T05:41:56+00:00",
+    "ago": "45m",
+    "impact": "Positive",
+    "why": "Large order wins boost business growth.",
+    "url": "https://www.business-standard.com/companies/news/rajesh-power-bags-1-628-74-crore-order-from-dgvcl-for-underground-cables-126110500588_1.html",
+    "chips": {
+      "Order value": "Rs 1,628.74 crore"
+    },
+    "trend": [
+      0.1,
+      0.25,
+      0.2,
+      0.5,
+      0.45,
+      0.8,
+      0.95
+    ],
+    "color": "0F766E",
+    "premium": false,
+    "title_hi": "Rajesh Power को मिला DGVCL से ₹1,628.74 करोड़ का बड़ा ऑर्डर",
+    "summary_hi": "Rajesh Power को DGVCL से ₹1,628.74 करोड़ का बड़ा ऑर्डर मिला है। इस प्रोजेक्ट के तहत कंपनी मौजूदा 11/22 kV हाई-टेंशन और लो-टेंशन ओवरहेड बिजली वितरण नेटवर्क को अंडरग्राउंड केबल सिस्टम में बदलेगी। इससे बिजली वितरण प्रणाली में बड़ा बदलाव आएगा।",
+    "why_hi": "बड़ा ऑर्डर मिलने से कारोबार को बढ़ावा मिलेगा।",
+    "chips_hi": {
+      "ऑर्डर मूल्य": "₹1,628.74 करोड़"
+    }
+  },
+  {
+    "v": 3,
+    "cat": "Companies",
+    "tk": "PEPSICO",
+    "title": "PepsiCo marketed beverages as energy drinks without standards, says FSSAI",
+    "summary": "Food regulator FSSAI informed the Delhi High Court that PepsiCo labels its Sting and Adrenaline Rush drinks as energy drinks even though official standards for this category do not exist. This practice misleads consumers, according to the regulatory authority.",
+    "source": "Business Standard",
+    "published": "2026-11-05T05:41:50+00:00",
+    "ago": "46m",
+    "impact": "Negative",
+    "why": "Regulatory criticism over misleading beverage marketing.",
+    "url": "https://www.business-standard.com/companies/news/pepsico-energy-drink-label-dupe-consumers-fssai-delhi-high-court-sting-126110500602_1.html",
+    "chips": {},
+    "trend": [
+      0.95,
+      0.85,
+      0.7,
+      0.6,
+      0.4,
+      0.3,
+      0.1
+    ],
+    "color": "9B2C2C",
+    "premium": false,
+    "title_hi": "बिना तय मानकों के एनर्जी ड्रिंक्स के रूप में बिक रहे पेप्सिको उत्पाद",
+    "summary_hi": "FSSAI ने दिल्ली हाईकोर्ट को बताया कि पेप्सिको अपने Sting और Adrenaline Rush ड्रिंक्स को एनर्जी ड्रिंक्स के रूप में बेच रही है, जबकि इस कैटेगरी के लिए कोई तय मानक नहीं हैं। नियामक के अनुसार, इससे उपभोक्ताओं को भ्रमित किया जा रहा है।",
+    "why_hi": "नियामक द्वारा भ्रामक विपणन पर आपत्ति।",
+    "chips_hi": {}
+  },
+  {
+    "v": 3,
     "cat": "Markets",
     "tk": "HITACHI ENERGY",
     "title": "Which three stocks are currently showing bullish technical signals?",
@@ -26,7 +214,9 @@
     "title_hi": "किन तीन शेयरों में तेजी के तकनीकी संकेत मिल रहे हैं?",
     "summary_hi": "तेजी मंडी इन्वेस्टमेंट के एक एनालिस्ट के अनुसार, Hitachi Energy, KFin Technologies और Jubilant FoodWorks में तेजी के तकनीकी संकेत मिल रहे हैं। बाजार के जानकारों द्वारा इन शेयरों के चार्ट पैटर्न पर ध्यान दिया जा रहा है।",
     "why_hi": "एनालिस्ट ने तेजी के तकनीकी संकेत बताए।",
-    "chips_hi": {}
+    "chips_hi": {},
+    "hi_tries": 0,
+    "hi_ver": 2
   },
   {
     "v": 3,
@@ -52,7 +242,8 @@
     ],
     "color": "B7791F",
     "premium": false,
-    "hi_tries": 1
+    "hi_tries": 1,
+    "hi_ver": 2
   },
   {
     "v": 3,
@@ -89,7 +280,9 @@
       "शीर्ष तेजी": "570%",
       "मल्टीबैगर स्टॉक": "16",
       "यूनिवर्स": "Nifty 500"
-    }
+    },
+    "hi_tries": 0,
+    "hi_ver": 2
   },
   {
     "v": 3,
@@ -118,7 +311,9 @@
     "title_hi": "क्या Sensex और Nifty के लिए आ रहा है 15 साल का सबसे खराब दौर?",
     "summary_hi": "विश्लेषकों का चेतावनी भरा कहना है कि आने वाला संवत बाजार के लिए काफी चुनौतीपूर्ण बना रहेगा। जब तक क्रूड ऑयल के दाम और बॉंड यील्ड नीचे नहीं आते, तब तक बाजार की यह मुश्किल स्थिति जारी रहने की आशंका है।",
     "why_hi": "क्रूड ऑयल और बॉंड यील्ड से चुनौतियां।",
-    "chips_hi": {}
+    "chips_hi": {},
+    "hi_tries": 0,
+    "hi_ver": 2
   },
   {
     "v": 3,
@@ -147,7 +342,9 @@
     "title_hi": "क्या घटिया दवा बनाने वालों का लाइसेंस तुरंत रद्द होगा?",
     "summary_hi": "स्वास्थ्य मंत्रालय ने उन दवा निर्माताओं के लाइसेंस तुरंत निलंबित करने का प्रस्ताव रखा है जिनकी दवाएं गुणवत्ता जांच में फेल हो जाती हैं। इस कदम का उद्देश्य असुरक्षित दवाओं को बाजार में बिकने से रोकना और जनता की सुरक्षा सुनिश्चित करना है।",
     "why_hi": "दवा निर्माताओं के लिए नए सुरक्षा नियम।",
-    "chips_hi": {}
+    "chips_hi": {},
+    "hi_tries": 0,
+    "hi_ver": 2
   },
   {
     "v": 3,
@@ -180,7 +377,9 @@
     "why_hi": "बड़े निवेश प्रस्ताव से औद्योगिक विकास को बढ़ावा।",
     "chips_hi": {
       "निवेश योजना": "₹50,000 करोड़"
-    }
+    },
+    "hi_tries": 0,
+    "hi_ver": 2
   },
   {
     "v": 3,
@@ -249,7 +448,7 @@
     ],
     "color": "0F766E",
     "premium": false,
-    "hi_tries": 1,
+    "hi_tries": 2,
     "hi_ver": 2
   },
   {
@@ -315,7 +514,7 @@
     ],
     "color": "B7791F",
     "premium": false,
-    "hi_tries": 1,
+    "hi_tries": 2,
     "hi_ver": 2
   },
   {
@@ -584,212 +783,6 @@
     "summary_hi": "उत्तर प्रदेश सरकार ने राज्यभर में बिजली उत्पादन बढ़ाने के लिए एक सोलर एनर्जी पॉलिसी पेश की है। इस फ्रेमवर्क का मुख्य उद्देश्य सोलर पावर को जोड़ने, स्टोर करने और इस्तेमाल करने के लिए जरूरी इंफ्रास्ट्रक्चर तैयार करना है।",
     "why_hi": "रिन्यूएबल एनर्जी इंफ्रास्ट्रक्चर और जनरेशन का विस्तार।",
     "chips_hi": {},
-    "hi_tries": 0,
-    "hi_ver": 2
-  },
-  {
-    "v": 3,
-    "cat": "Markets",
-    "tk": "MARKETS",
-    "title": "Are large-cap stocks losing their leadership amid foreign selling pressure?",
-    "summary": "Foreign institutional investor selling has created a significant overhang for Indian equities in the recent market cycle. This selling pressure has notably weighed on several large-cap stocks, raising questions about their strategic market leadership during these challenging trading conditions.",
-    "source": "Business Standard",
-    "published": "2026-11-04T01:00:27+00:00",
-    "ago": "1h",
-    "impact": "Negative",
-    "why": "Foreign selling weighs on large-cap stocks.",
-    "url": "https://www.business-standard.com/markets/news/are-large-cap-stocks-reclaiming-their-strategic-leadership-analysts-view-126110400087_1.html",
-    "chips": {},
-    "trend": [
-      0.95,
-      0.85,
-      0.7,
-      0.6,
-      0.4,
-      0.3,
-      0.1
-    ],
-    "color": "9B2C2C",
-    "premium": false,
-    "title_hi": "क्या विदेशी बिकवाली के बीच लार्ज-कैप शेयरों पर दबाव बढ़ रहा है?",
-    "summary_hi": "हाल के बाजार चक्र में विदेशी संस्थागत निवेशकों की बिकवाली भारतीय इक्विटी के लिए एक बड़ा दबाव साबित हुई है। इस बिकवाली के कारण कई लार्ज-कैप शेयरों पर भी असर पड़ा है, जिससे बाजार में उनकी स्थिति पर सवाल उठ रहे हैं।",
-    "why_hi": "विदेशी बिकवाली से लार्ज-कैप शेयरों पर दबाव।",
-    "chips_hi": {},
-    "hi_tries": 0,
-    "hi_ver": 2
-  },
-  {
-    "v": 3,
-    "cat": "Industry",
-    "tk": "INDUSTRY",
-    "title": "Why are compliance backlogs delaying drug batch releases at pharma plants?",
-    "summary": "A recent survey by Vector Consulting reveals that manufacturing incident investigations at pharmaceutical plants are taking up to six months to resolve. These lengthy compliance backlogs are delaying the release of drug batches and impacting overall plant productivity.",
-    "source": "Business Standard",
-    "published": "2026-11-04T00:35:25+00:00",
-    "ago": "1h",
-    "impact": "Negative",
-    "why": "Delays and backlogs reduce manufacturing plant productivity.",
-    "url": "https://www.business-standard.com/industry/news/compliance-backlogs-delay-drug-batch-releases-at-pharma-plants-study-126110301271_1.html",
-    "chips": {},
-    "trend": [
-      0.95,
-      0.85,
-      0.7,
-      0.6,
-      0.4,
-      0.3,
-      0.1
-    ],
-    "color": "9B2C2C",
-    "premium": false,
-    "title_hi": "फार्मा प्लांटों में कंप्लायंस बैकलॉग के कारण ड्रग बैच रिलीज में देरी क्यों हो रही है?",
-    "summary_hi": "वेक्टर कंसल्टिंग के एक सर्वे से पता चला है कि फार्मास्यूटिकल प्लांटों में मैन्युफैक्चरिंग से जुड़ी घटनाओं की जांच को सुलझाने में छह महीने तक का समय लग रहा है। इन लंबे कंप्लायंस बैकलॉग के कारण ड्रग बैचों के रिलीज में देरी हो रही है और प्लांट की उत्पादकता प्रभावित हो रही है।",
-    "why_hi": "देरी और बैकलॉग से प्लांट की उत्पादकता कम होती है।",
-    "chips_hi": {},
-    "hi_tries": 0,
-    "hi_ver": 2
-  },
-  {
-    "v": 3,
-    "cat": "Markets",
-    "tk": "MARKETS",
-    "title": "Smallcap AI winners face valuation tests amid global selloffs",
-    "summary": "Seven top-performing small-cap stocks tied to the US data-centre boom are now facing a major valuation test. A recent global tech sell-off and high valuations are threatening the ongoing market rally. Investors are watching closely as these market trends unfold for the sector.",
-    "source": "Business Standard",
-    "published": "2026-11-03T18:13:51+00:00",
-    "ago": "8h",
-    "impact": "Negative",
-    "why": "Global tech sell-off and high valuations threaten rally",
-    "url": "https://www.business-standard.com/markets/news/the-tide-is-turning-smallcap-ai-winners-are-now-facing-a-valuation-test-126110100450_1.html",
-    "chips": {},
-    "trend": [
-      0.95,
-      0.85,
-      0.7,
-      0.6,
-      0.4,
-      0.3,
-      0.1
-    ],
-    "color": "9B2C2C",
-    "premium": true,
-    "hi_tries": 2,
-    "hi_ver": 2
-  },
-  {
-    "v": 3,
-    "cat": "Companies",
-    "tk": "RELIANCE ANIL",
-    "title": "ED attaches Rs 510 crore in Reliance Anil Ambani Group probe",
-    "summary": "The Enforcement Directorate attached assets worth Rs 510 crore, including two aircraft, land parcels, windmills, and bank deposits, in a money laundering investigation linked to alleged bank fraud involving Reliance Anil Ambani Group companies. The action follows allegations of financial irregularities at Reliance Home Finance, Reliance Commercial Finance, and Reliance Communication.",
-    "source": "Business Standard / Press Trust of India",
-    "published": "2026-11-03T17:52:40+00:00",
-    "ago": "8h",
-    "impact": "Negative",
-    "why": "Asset attachment due to alleged bank fraud.",
-    "url": "https://www.business-standard.com/companies/news/ed-attaches-2-aircraft-in-probe-against-reliance-anil-ambani-group-126110301691_1.html",
-    "chips": {
-      "Attached assets": "Rs 510 crore",
-      "RHFL/RCFL fraud": "Rs 263.05 crore",
-      "RCOM fraud": "Rs 247.12 crore"
-    },
-    "trend": [
-      0.95,
-      0.85,
-      0.7,
-      0.6,
-      0.4,
-      0.3,
-      0.1
-    ],
-    "color": "9B2C2C",
-    "premium": false,
-    "title_hi": "Reliance Anil Ambani Group के खिलाफ जांच में 510 करोड़ रुपये की संपत्ति कुर्क",
-    "summary_hi": "प्रवर्तन निदेशालय ने कथित बैंक धोखाधड़ी से जुड़े मनी लॉन्ड्रिंग मामले में Reliance Anil Ambani Group की 510 करोड़ रुपये की संपत्ति कुर्क कर ली है। इसमें दो विमान, जमीन के टुकड़े, विंडमिल और बैंक जमा शामिल हैं। यह कार्रवाई Reliance Home Finance, Reliance Commercial Finance और Reliance Communication से जुड़े मामलों में की गई है।",
-    "why_hi": "कथित बैंक धोखाधड़ी के कारण संपत्ति कुर्क।",
-    "chips_hi": {
-      "कुर्क संपत्ति": "₹510 करोड़",
-      "RHFL/RCFL धोखाधड़ी": "₹263.05 करोड़",
-      "RCOM धोखाधड़ी": "₹247.12 करोड़"
-    },
-    "hi_tries": 0,
-    "hi_ver": 2
-  },
-  {
-    "v": 3,
-    "cat": "Earnings",
-    "tk": "ZYDUS WELLNESS",
-    "title": "How did Zydus Wellness swing to a net profit?",
-    "summary": "Zydus Wellness posted a consolidated net profit of Rs 5.1 crore for the September quarter, recovering from a net loss of Rs 52.8 crore in the same period last year. Revenue from operations grew to Rs 1,126.6 crore from Rs 650.5 crore. Meanwhile, total expenses rose to Rs 1,125.4 crore compared to Rs 668.3 crore previously.",
-    "source": "Business Standard / Press Trust of India",
-    "published": "2026-11-03T10:04:59+00:00",
-    "ago": "12m",
-    "impact": "Positive",
-    "why": "Profit turned positive and revenue rose significantly.",
-    "url": "https://www.business-standard.com/companies/quarterly-results/zydus-wellness-q2-results-net-profit-at-5-1-cr-revenue-up-at-1-126-cr-126110300987_1.html",
-    "chips": {
-      "Net profit": "Rs 5.1 crore",
-      "Revenue": "Rs 1,126.6 crore",
-      "Total expenses": "Rs 1,125.4 crore"
-    },
-    "trend": [
-      0.1,
-      0.25,
-      0.2,
-      0.5,
-      0.45,
-      0.8,
-      0.95
-    ],
-    "color": "0F766E",
-    "premium": false,
-    "title_hi": "Zydus Wellness ने कैसे दर्ज किया मुनाफा?",
-    "summary_hi": "Zydus Wellness ने सितंबर तिमाही में 5.1 करोड़ रुपये का कंसोलिडेटेड शुद्ध लाभ दर्ज किया है, जबकि पिछले वित्त वर्ष की इसी अवधि में कंपनी को 52.8 करोड़ रुपये का शुद्ध घाटा हुआ था। परिचालन से इसका राजस्व बढ़कर 1,126.6 करोड़ रुपये हो गया। इस दौरान कुल खर्च भी बढ़कर 1,125.4 करोड़ रुपये पर पहुंच गया।",
-    "why_hi": "मुनाफा हुआ और राजस्व में बढ़ोतरी हुई।",
-    "chips_hi": {
-      "शुद्ध लाभ": "₹5.1 करोड़",
-      "राजस्व": "₹1,126.6 करोड़",
-      "कुल खर्च": "₹1,125.4 करोड़"
-    },
-    "hi_tries": 0,
-    "hi_ver": 2
-  },
-  {
-    "v": 3,
-    "cat": "Markets",
-    "tk": "MARKETS",
-    "title": "Why did private bank stocks rally past the Nifty index?",
-    "summary": "The Nifty Private Bank index rose by two percent recently. Major lenders like HDFC Bank and ICICI Bank saw their shares climb seven percent over the last five trading days. This growth surpassed the five percent increase recorded by the Nifty 50 benchmark during the exact same period, according to recent market updates.",
-    "source": "Business Standard",
-    "published": "2026-11-03T09:34:15+00:00",
-    "ago": "43m",
-    "impact": "Positive",
-    "why": "Lenders outperformed the broader market index.",
-    "url": "https://www.business-standard.com/markets/news/nifty-private-bank-index-gains-2-hdfc-bank-icici-bank-axis-bank-shine-126110300965_1.html",
-    "chips": {
-      "Nifty Private Bank i": "2%",
-      "HDFC Bank rally": "7%",
-      "Nifty 50 rise": "5%"
-    },
-    "trend": [
-      0.1,
-      0.25,
-      0.2,
-      0.5,
-      0.45,
-      0.8,
-      0.95
-    ],
-    "color": "0F766E",
-    "premium": false,
-    "title_hi": "प्राइवेट बैंक शेयरों में निफ्टी से ज्यादा तेजी क्यों आई?",
-    "summary_hi": "हाल ही में निफ्टी प्राइवेट बैंक इंडेक्स में दो प्रतिशत की बढ़त दर्ज की गई। HDFC बैंक और ICICI बैंक जैसे बड़े शेयरों में पिछले पांच कारोबारी दिनों में सात प्रतिशत की तेजी आई। यह वृद्धि इसी अवधि में निफ्टी 50 की पांच प्रतिशत की बढ़त से अधिक रही।",
-    "why_hi": "बैंक शेयरों का बेंचमार्क से बेहतर प्रदर्शन।",
-    "chips_hi": {
-      "निफ्टी प्राइवेट बैंक": "2%",
-      "HDFC बैंक तेजी": "7%",
-      "निफ्टी 50 बढ़त": "5%"
-    },
     "hi_tries": 0,
     "hi_ver": 2
   }
