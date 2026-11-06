@@ -1,6 +1,241 @@
 [
   {
     "v": 3,
+    "cat": "Markets",
+    "tk": "HERO MOTOCORP",
+    "title": "Why are experts suggesting a bull spread strategy for these stocks?",
+    "summary": "An analyst from HDFC Securities has suggested a bull spread trading strategy for two prominent companies. The recommended approach focuses on Hero MotoCorp and Punjab National Bank. Market participants track such professional options and futures strategies for potential movement insights.",
+    "source": "Business Standard",
+    "published": "2026-11-06T02:16:11+00:00",
+    "ago": "10m",
+    "impact": "Neutral",
+    "why": "Analyst suggests options strategy for specific stocks.",
+    "url": "https://www.business-standard.com/markets/news/f-o-pick-today-hdf-securities-analyst-nandish-shah-recommends-bull-spread-strategy-on-hero-motocorp-pnb-126110600096_1.html",
+    "chips": {},
+    "trend": [
+      0.5,
+      0.55,
+      0.45,
+      0.5,
+      0.47,
+      0.52,
+      0.5
+    ],
+    "color": "B7791F",
+    "premium": false,
+    "title_hi": "इन शेयरों के लिए बुल स्प्रेड रणनीति का सुझाव क्यों दिया गया है?",
+    "summary_hi": "HDFC सिक्योरिटीज के एक विश्लेषक ने दो प्रमुख कंपनियों के लिए बुल स्प्रेड ट्रेडिंग रणनीति का सुझाव दिया है। यह अनुशंसित दृष्टिकोण Hero MotoCorp और पंजाब नेशनल बैंक पर केंद्रित है।",
+    "why_hi": "विश्लेषक ने शेयरों के लिए रणनीति सुझाई।",
+    "chips_hi": {}
+  },
+  {
+    "v": 3,
+    "cat": "Markets",
+    "tk": "MARKETS",
+    "title": "Sensex surges 6,064 points heading towards a record pre-Diwali rally",
+    "summary": "The BSE Sensex and NSE Nifty jumped by 8.3 percent and 8.1 percent respectively over the last six trading sessions. The indices are tracking their strongest pre-Diwali performance since the start of NSE Muhurat trading in 1992. This rapid climb highlights significant market momentum leading into the festive trading period.",
+    "source": "Business Standard",
+    "published": "2026-11-06T02:02:22+00:00",
+    "ago": "24m",
+    "impact": "Positive",
+    "why": "Strong market gains during the festive season.",
+    "url": "https://www.business-standard.com/markets/news/sensex-up-6-064-pts-in-six-days-eyes-strongest-pre-diwali-rally-in-35-yrs-126110600091_1.html",
+    "chips": {
+      "Sensex rise": "6,064 pts",
+      "Sensex gain": "8.3%",
+      "Nifty gain": "8.1%"
+    },
+    "trend": [
+      0.1,
+      0.25,
+      0.2,
+      0.5,
+      0.45,
+      0.8,
+      0.95
+    ],
+    "color": "0F766E",
+    "premium": false,
+    "title_hi": "Sensex में 6,064 अंकों की तेजी, 35 साल की सबसे मजबूत प्री-दिवाली रैली",
+    "summary_hi": "पिछले छह कारोबारी सत्रों में BSE Sensex और NSE Nifty में क्रमशः 8.3 प्रतिशत और 8.1 प्रतिशत की जोरदार तेजी आई है। ये सूचकांक 1992 में NSE पर मुहूर्त ट्रेडिंग की शुरुआत के बाद से सबसे बेहतरीन सात दिवसीय प्री-दिवाली रैली दर्ज करने की राह पर हैं।",
+    "why_hi": "त्योहार के दौरान मजबूत बाजार तेजी।",
+    "chips_hi": {
+      "Sensex बढ़त": "6,064 अंक",
+      "Sensex तेजी": "8.3%",
+      "Nifty तेजी": "8.1%"
+    }
+  },
+  {
+    "v": 3,
+    "cat": "Economy",
+    "tk": "ECONOMY",
+    "title": "How is Uttar Pradesh attracting private medical college investments?",
+    "summary": "A new scheme in Uttar Pradesh aims to draw private capital and expertise to build medical colleges and teaching hospitals in districts lacking these facilities. The policy introduces specific models, incentives, and eligibility criteria to encourage healthcare infrastructure development across underserved regions.",
+    "source": "Business Standard",
+    "published": "2026-11-06T01:30:48+00:00",
+    "ago": "57m",
+    "impact": "Positive",
+    "why": "Boosts healthcare infrastructure in underserved districts.",
+    "url": "https://www.business-standard.com/economy/uttar-pradesh/uttar-pradesh-private-medical-college-scheme-2022-models-incentives-and-eligibility-126110200883_1.html",
+    "chips": {},
+    "trend": [
+      0.1,
+      0.25,
+      0.2,
+      0.5,
+      0.45,
+      0.8,
+      0.95
+    ],
+    "color": "0F766E",
+    "premium": false,
+    "title_hi": "Uttar Pradesh में प्राइवेट मेडिकल कॉलेज लाने के लिए क्या है योजना?",
+    "summary_hi": "Uttar Pradesh सरकार ने उन जिलों में मेडिकल कॉलेज और अस्पताल बनाने के लिए निजी निवेश आकर्षित करने की योजना शुरू की है जहां ऐसे संस्थान नहीं थे। यह नीति स्वास्थ्य ढांचा मजबूत करने के लिए प्रोत्साहन और पात्रता तय करती है।",
+    "why_hi": "अस्पताल और मेडिकल कॉलेज का विस्तार।",
+    "chips_hi": {}
+  },
+  {
+    "v": 3,
+    "cat": "Industry",
+    "tk": "INDUSTRY",
+    "title": "How did wheat exports surge fourfold after the ban?",
+    "summary": "India's wheat exports rose fourfold in September, reaching $69 million following the removal of the ban. However, high domestic prices and limited competitiveness in the global market may restrict future shipments in the upcoming months, according to the latest available data.",
+    "source": "Business Standard",
+    "published": "2026-11-05T18:37:45+00:00",
+    "ago": "7h",
+    "impact": "Neutral",
+    "why": "Mixed signals from higher exports and domestic prices.",
+    "url": "https://www.business-standard.com/industry/agriculture/a-month-after-lifting-of-ban-wheat-exports-rise-fourfold-shows-data-126110502116_1.html",
+    "chips": {
+      "Export value": "$69 million"
+    },
+    "trend": [
+      0.5,
+      0.55,
+      0.45,
+      0.5,
+      0.47,
+      0.52,
+      0.5
+    ],
+    "color": "B7791F",
+    "premium": true,
+    "title_hi": "बैन हटने के एक महीने बाद गेहूं के निर्यात में चार गुना बढ़ोतरी",
+    "summary_hi": "बैन हटने के बाद सितंबर में भारत का गेहूं निर्यात चार गुना बढ़कर 69 मिलियन डॉलर पर पहुंच गया। हालांकि, घरेलू स्तर पर ऊंची कीमतें और सीमित निर्यात प्रतिस्पर्धा आने वाले महीनों में शिपमेंट को प्रभावित कर सकती हैं।",
+    "why_hi": "निर्यात बढ़ने और घरेलू कीमतों का मिलाजुला असर।",
+    "chips_hi": {
+      "निर्यात मूल्य": "$69 मिलियन"
+    }
+  },
+  {
+    "v": 3,
+    "cat": "Markets",
+    "tk": "MARKETS",
+    "title": "Markets surge as Nifty jumps 2.4% on foreign inflows",
+    "summary": "Indian markets saw strong gains as the Nifty rose 2.4 percent and the Sensex climbed 2.6 percent. Lower crude prices and heavy foreign fund inflows supported financial and auto stocks, helping offset record selling by domestic institutional investors alongside gains in the rupee and easing bond yields.",
+    "source": "Business Standard",
+    "published": "2026-11-05T18:25:18+00:00",
+    "ago": "8h",
+    "impact": "Positive",
+    "why": "Strong foreign inflows and lower crude prices.",
+    "url": "https://www.business-standard.com/markets/news/early-diwali-cheer-markets-see-fireworks-rupee-rises-bond-yields-ease-126110502021_1.html",
+    "chips": {
+      "Nifty rise": "2.4%",
+      "Nifty level": "24,536.60",
+      "Sensex gain": "2.6%"
+    },
+    "trend": [
+      0.1,
+      0.25,
+      0.2,
+      0.5,
+      0.45,
+      0.8,
+      0.95
+    ],
+    "color": "0F766E",
+    "premium": false,
+    "title_hi": "विदेशी निवेश और कम कच्चे तेल से बाजार में तेजी",
+    "summary_hi": "विदेशी निवेशकों के मजबूत निवेश और कच्चे तेल के कम दामों के चलते शेयर बाजार में तेजी आई। निफ्टी 2.4 प्रतिशत बढ़कर 24,536.60 पर पहुंच गया और सेंसेक्स में 2.6 प्रतिशत की बढ़त दर्ज हुई। घरेलू संस्थागत निवेशकों की भारी बिकवाली के बावजूद वित्तीय और ऑटो शेयरों को समर्थन मिला।",
+    "why_hi": "विदेशी निवेश और कच्चे तेल की कम कीमतें।",
+    "chips_hi": {
+      "निफ्टी बढ़त": "2.4%",
+      "निफ्टी स्तर": "24,536.60",
+      "सेंसेक्स बढ़त": "2.6%"
+    }
+  },
+  {
+    "v": 3,
+    "cat": "Earnings",
+    "tk": "COMPANIES",
+    "title": "How did Britannia Industries boost its September quarter net profit?",
+    "summary": "Bakery food company Britannia Industries reported an 10.8 percent increase in consolidated net profit to Rs 725.99 crore for the September quarter of FY27, driven by volume growth. Revenue from the sale of products rose 16.6 percent to Rs 5,541.57 crore, while total expenses increased by 17 percent compared to the same period previously.",
+    "source": "Business Standard / Press Trust of India",
+    "published": "2026-11-05T18:18:05+00:00",
+    "ago": "8h",
+    "impact": "Positive",
+    "why": "Higher net profit and rising product revenue.",
+    "url": "https://www.business-standard.com/companies/quarterly-results/britannia-q2-net-profit-rises-10-8-to-726-crore-on-volume-growth-126110501905_1.html",
+    "chips": {
+      "Net profit": "Rs 725.99 crore",
+      "Product revenue": "Rs 5,541.57 crore",
+      "Volume growth": "13 per cent"
+    },
+    "trend": [
+      0.1,
+      0.25,
+      0.2,
+      0.5,
+      0.45,
+      0.8,
+      0.95
+    ],
+    "color": "0F766E",
+    "premium": false,
+    "title_hi": "Britannia Industries का सितंबर तिमाही में शुद्ध लाभ कैसे बढ़ा?",
+    "summary_hi": "बेकरी फूड कंपनी Britannia Industries Ltd ने सितंबर तिमाही में वॉल्यूम ग्रोथ के दम पर कंसोलिडेटेड शुद्ध लाभ में 10.8 प्रतिशत की बढ़ोतरी दर्ज की, जिससे यह ₹725.99 करोड़ पहुंच गया। उत्पादों की बिक्री से होने वाला राजस्व 16.6 प्रतिशत बढ़कर ₹5,541.57 करोड़ हो गया, जबकि कुल खर्च में 17 प्रतिशत की वृद्धि हुई।",
+    "why_hi": "अधिक शुद्ध लाभ और बढ़ता हुआ राजस्व।",
+    "chips_hi": {
+      "शुद्ध लाभ": "₹725.99 करोड़",
+      "उत्पाद राजस्व": "₹5,541.57 करोड़",
+      "वॉल्यूम ग्रोथ": "13 प्रतिशत"
+    }
+  },
+  {
+    "v": 3,
+    "cat": "Markets",
+    "tk": "MARKETS",
+    "title": "Could the Reserve Bank of India hike rates further?",
+    "summary": "Uday Kotak anticipates further repo rate increases by the Reserve Bank of India and highlights extended risks in the Middle East. Despite these challenges, he believes Indian equities remain in a strong position to draw foreign investment.",
+    "source": "Business Standard",
+    "published": "2026-11-05T18:17:04+00:00",
+    "ago": "8h",
+    "impact": "Neutral",
+    "why": "Interest rate hikes and equity positioning discussed.",
+    "url": "https://www.business-standard.com/markets/news/reserve-bank-of-india-may-hike-rates-by-up-to-75-bps-more-uday-kotak-126110501915_1.html",
+    "chips": {
+      "Rate hike": "50-75 bps"
+    },
+    "trend": [
+      0.5,
+      0.55,
+      0.45,
+      0.5,
+      0.47,
+      0.52,
+      0.5
+    ],
+    "color": "B7791F",
+    "premium": false,
+    "title_hi": "क्या Reserve Bank of India और बढ़ा सकता है दरें?",
+    "summary_hi": "उदय कोटक का अनुमान है कि Reserve Bank of India रेपो रेट में और बढ़ोतरी कर सकता है और उन्होंने मध्य पूर्व के लंबे समय तक रहने वाले जोखिमों के प्रति आगाह किया है। इसके बावजूद, उनका मानना है कि भारतीय इक्विटी विदेशी निवेशकों को आकर्षित करने के लिए अच्छी स्थिति में हैं।",
+    "why_hi": "ब्याज दरों में बढ़ोतरी और बाजार की स्थिति।",
+    "chips_hi": {
+      "रेट बढ़ोतरी": "50-75 bps"
+    }
+  },
+  {
+    "v": 3,
     "cat": "Finance",
     "tk": "FINANCE",
     "title": "Is gold's 30% correction ahead of Dhanteras a value opportunity?",
@@ -32,7 +267,9 @@
     "chips_hi": {
       "गिरावट": "30%",
       "सोने की कीमत": "₹1.4 लाख"
-    }
+    },
+    "hi_tries": 0,
+    "hi_ver": 2
   },
   {
     "v": 3,
@@ -65,7 +302,9 @@
     "why_hi": "सरकारी वित्तपोषण और नियमों में ढील से खोज बढ़ेगी।",
     "chips_hi": {
       "कार्यक्रम लागत": "₹84,084 करोड़"
-    }
+    },
+    "hi_tries": 0,
+    "hi_ver": 2
   },
   {
     "v": 3,
@@ -102,7 +341,9 @@
       "निवेश": "₹2,000 करोड़",
       "नई हिस्सेदारी": "38.04 प्रतिशत",
       "शेयर मूल्य": "₹350"
-    }
+    },
+    "hi_tries": 0,
+    "hi_ver": 2
   },
   {
     "v": 3,
@@ -128,11 +369,12 @@
     ],
     "color": "9B2C2C",
     "premium": false,
-    "hi_tries": 1,
+    "hi_tries": 0,
     "title_hi": "गोल्ड लोन का पोर्टफोलियो बढ़ने के बाद भी क्यों बढ़ रहे हैं डिफॉल्ट?",
     "summary_hi": "साल 2023 से गोल्ड लोन का कारोबार तीन गुना हो चुका है, लेकिन इसके साथ ही किस्तें न चुकाने के मामले भी तेजी से बढ़ रहे हैं। छोटे लोन लेने वाले, कई जगह से कर्ज लेने वाले और पहले भी भुगतान में देरी करने वाले ग्राहकों पर इसका सबसे ज्यादा खतरा मंडरा रहा है।",
     "why_hi": "बढ़ते डिफॉल्ट से बैंकों और कंपनियों के लिए एसेट क्वालिटी का जोखिम पैदा हो रहा है",
-    "chips_hi": {}
+    "chips_hi": {},
+    "hi_ver": 2
   },
   {
     "v": 3,
@@ -161,7 +403,9 @@
     "title_hi": "लक्जरी बाजार में भारतीय कला और शिल्प की सही कीमत क्या है?",
     "summary_hi": "हथकरघा वस्त्रों से लेकर कस्टमाइज्ड सजावट तक, स्वदेशी हस्तशिल्प अब हाई-एंड रिटेल बाजार में कदम रख रहा है। यह बदलाव इस बात पर सवाल उठाता है कि इन उत्पादों का असली मूल्य कैसे तय किया जाए और क्या भारतीय खरीदार इसके लिए भुगतान करने को तैयार हैं।",
     "why_hi": "हस्तशिल्प लक्जरी बाजार में प्रवेश कर रहा है।",
-    "chips_hi": {}
+    "chips_hi": {},
+    "hi_tries": 0,
+    "hi_ver": 2
   },
   {
     "v": 3,
@@ -190,7 +434,9 @@
     "title_hi": "मृत सरकारी employee का GPF पैसा किसे मिलता है?",
     "summary_hi": "सरकार ने कर्मचारी की मृत्यु के बाद जनरल प्रोविडेंट फंड के वितरण के नियमों को स्पष्ट किया है। दावों का निपटान करते समय पात्र परिवार के सदस्यों को बाहरी लोगों पर प्राथमिकता मिलती है। हालांकि, इन भुगतानों के संबंध में वयस्क बेटों और विवाहित बेटियों के लिए विशिष्ट बहिष्करण हैं।",
     "why_hi": "GPF वितरण नियमों पर स्पष्टीकरण।",
-    "chips_hi": {}
+    "chips_hi": {},
+    "hi_tries": 0,
+    "hi_ver": 2
   },
   {
     "v": 3,
@@ -223,7 +469,9 @@
     "why_hi": "एसेट्स और शेयर मूल्य में बढ़ोतरी हुई।",
     "chips_hi": {
       "IPO मूल्य": "₹171"
-    }
+    },
+    "hi_tries": 0,
+    "hi_ver": 2
   },
   {
     "v": 3,
@@ -550,245 +798,6 @@
     "summary_hi": "विश्लेषकों का चेतावनी भरा कहना है कि आने वाला संवत बाजार के लिए काफी चुनौतीपूर्ण बना रहेगा। जब तक क्रूड ऑयल के दाम और बॉंड यील्ड नीचे नहीं आते, तब तक बाजार की यह मुश्किल स्थिति जारी रहने की आशंका है।",
     "why_hi": "क्रूड ऑयल और बॉंड यील्ड से चुनौतियां।",
     "chips_hi": {},
-    "hi_tries": 0,
-    "hi_ver": 2
-  },
-  {
-    "v": 3,
-    "cat": "Industry",
-    "tk": "INDUSTRY",
-    "title": "Will substandard drugmakers face immediate manufacturing licence suspension?",
-    "summary": "The Health Ministry has proposed the immediate suspension of manufacturing licences for drugmakers whose products fail critical quality tests. This proposed measure is designed to stop unsafe medicines from staying in circulation and protect public safety by removing faulty products quickly.",
-    "source": "Business Standard",
-    "published": "2026-11-04T18:34:11+00:00",
-    "ago": "7h",
-    "impact": "Neutral",
-    "why": "New safety rules proposed for drugmakers.",
-    "url": "https://www.business-standard.com/industry/news/govt-proposes-immediate-licence-suspension-for-substandard-drugmakers-126110500002_1.html",
-    "chips": {},
-    "trend": [
-      0.5,
-      0.55,
-      0.45,
-      0.5,
-      0.47,
-      0.52,
-      0.5
-    ],
-    "color": "B7791F",
-    "premium": false,
-    "title_hi": "क्या घटिया दवा बनाने वालों का लाइसेंस तुरंत रद्द होगा?",
-    "summary_hi": "स्वास्थ्य मंत्रालय ने उन दवा निर्माताओं के लाइसेंस तुरंत निलंबित करने का प्रस्ताव रखा है जिनकी दवाएं गुणवत्ता जांच में फेल हो जाती हैं। इस कदम का उद्देश्य असुरक्षित दवाओं को बाजार में बिकने से रोकना और जनता की सुरक्षा सुनिश्चित करना है।",
-    "why_hi": "दवा निर्माताओं के लिए नए सुरक्षा नियम।",
-    "chips_hi": {},
-    "hi_tries": 0,
-    "hi_ver": 2
-  },
-  {
-    "v": 3,
-    "cat": "Industry",
-    "tk": "JSW GROUP",
-    "title": "JSW Group discusses fifty thousand crore investment plan in Bengal",
-    "summary": "JSW Group Chairman Sajjan Jindal met the West Bengal Chief Minister to discuss investments worth fifty thousand crore rupees. The proposed plans cover multiple sectors including power, steel, cement, and ports. This high-level meeting highlights potential large-scale industrial development in the region across several key business areas.",
-    "source": "Business Standard",
-    "published": "2026-11-04T18:30:22+00:00",
-    "ago": "7h",
-    "impact": "Positive",
-    "why": "Massive investment plans boost industrial growth.",
-    "url": "https://www.business-standard.com/industry/news/jsw-group-s-sajjan-jindal-meets-bengal-cm-50-000-crore-plan-in-focus-126110500001_1.html",
-    "chips": {
-      "Investment plan": "Rs 50,000 crore"
-    },
-    "trend": [
-      0.1,
-      0.25,
-      0.2,
-      0.5,
-      0.45,
-      0.8,
-      0.95
-    ],
-    "color": "0F766E",
-    "premium": false,
-    "title_hi": "JSW Group ने बंगाल में ₹50,000 करोड़ के निवेश पर की चर्चा",
-    "summary_hi": "JSW ग्रुप के चेयरमैन सज्जन जिंदल ने पश्चिम बंगाल के मुख्यमंत्री से मुलाकात की। इस दौरान पावर, स्टील, सीमेंट और पोर्ट्स जैसे विभिन्न सेक्टरों में ₹50,000 करोड़ के निवेश पर चर्चा की गई। यह बैठक राज्य में बड़े पैमाने पर औद्योगिक विकास की संभावनाओं को दर्शाती है।",
-    "why_hi": "बड़े निवेश प्रस्ताव से औद्योगिक विकास को बढ़ावा।",
-    "chips_hi": {
-      "निवेश योजना": "₹50,000 करोड़"
-    },
-    "hi_tries": 0,
-    "hi_ver": 2
-  },
-  {
-    "v": 3,
-    "cat": "Industry",
-    "tk": "INDUSTRY",
-    "title": "Cabinet Clears Rs 14,500 Crore Storage Scheme to Boost Clean Energy",
-    "summary": "The Union Cabinet approved Rs 14,500 crore in viability gap funding for 92 GWh of grid-scale energy storage systems through FY31. This initiative supports India's target of reaching 500 GW of renewable energy by 2030. The program will back three storage technologies over five years, aiming to boost capacity development nationwide.",
-    "source": "Business Standard / Press Trust of India",
-    "published": "2026-11-04T10:12:51+00:00",
-    "ago": "16m",
-    "impact": "Positive",
-    "why": "Boosts renewable energy storage infrastructure development.",
-    "url": "https://www.business-standard.com/industry/news/cabinet-clears-14-500-cr-funding-scheme-for-battery-energy-storage-systems-126110401014_1.html",
-    "chips": {
-      "Funding": "Rs 14,500 crore",
-      "Storage capacity": "92 GWh",
-      "Renewable target": "500 GW"
-    },
-    "trend": [
-      0.1,
-      0.25,
-      0.2,
-      0.5,
-      0.45,
-      0.8,
-      0.95
-    ],
-    "color": "0F766E",
-    "premium": false,
-    "hi_tries": 0,
-    "title_hi": "क्लीन एनर्जी को बढ़ावा: कैबिनेट ने दी 14,500 करोड़ रुपये की स्टोरेज योजना को मंजूरी",
-    "summary_hi": "सरकार ने देश में रिन्यूएबल एनर्जी को बढ़ावा देने के लिए एक बड़ी योजना को मंजूरी दी है। इसके तहत ग्रिड-स्केल एनर्जी स्टोरेज सिस्टम्स के विकास पर जोर दिया जाएगा, जिससे साल 2030 तक 500 GW ग्रीन एनर्जी का लक्ष्य हासिल करने में मदद मिलेगी।",
-    "why_hi": "रिन्यूएबल एनर्जी स्टोरेज के बुनियादी ढांचे को मजबूत करना।",
-    "chips_hi": {
-      "फंडिंग": "₹14,500 करोड़",
-      "स्टोरेज क्षमता": "92 GWh",
-      "रिन्यूएबल लक्ष्य": "500 GW"
-    },
-    "hi_ver": 2
-  },
-  {
-    "v": 3,
-    "cat": "Industry",
-    "tk": "INDUSTRY",
-    "title": "Odisha proposes 290 new EV charging stations across 13 cities",
-    "summary": "The Odisha government has proposed setting up 290 additional public electric vehicle charging stations across 13 cities and various highways under the PM E-DRIVE scheme. This follows a previous approval by the Centre for 170 charging stations in seven major cities during the first phase of the initiative, aimed at strengthening the state's transport infrastructure.",
-    "source": "Business Standard / Press Trust of India",
-    "published": "2026-11-04T10:12:40+00:00",
-    "ago": "17m",
-    "impact": "Positive",
-    "why": "Expands public electric vehicle infrastructure in Odisha.",
-    "url": "https://www.business-standard.com/industry/news/odisha-proposes-290-new-ev-charging-stations-under-pm-e-drive-scheme-126110401053_1.html",
-    "chips": {
-      "Proposed stations": "290",
-      "Cities": "13",
-      "First phase stations": "170"
-    },
-    "trend": [
-      0.1,
-      0.25,
-      0.2,
-      0.5,
-      0.45,
-      0.8,
-      0.95
-    ],
-    "color": "0F766E",
-    "premium": false,
-    "hi_tries": 2,
-    "hi_ver": 2
-  },
-  {
-    "v": 3,
-    "cat": "Earnings",
-    "tk": "ALEMBIC PHARMA",
-    "title": "Alembic Pharma shares hit twenty percent upper circuit on profit jump",
-    "summary": "Alembic Pharma saw its shares touch the twenty percent upper circuit following a significant growth in its quarterly performance. The drug maker reported an eighty-one percent year-on-year increase in its profit after tax. Additionally, revenue from operations grew by thirty-six percent compared to the same period in the previous year, reaching ₹2,603 crore.",
-    "source": "Business Standard",
-    "published": "2026-11-04T09:43:57+00:00",
-    "ago": "46m",
-    "impact": "Positive",
-    "why": "Strong profit and revenue growth.",
-    "url": "https://www.business-standard.com/markets/news/alembic-pharma-shares-hit-20-upper-circuit-after-81-yoy-rise-in-q2-pat-126110401055_1.html",
-    "chips": {
-      "PAT growth": "81% YoY",
-      "Revenue": "₹2,603 crore",
-      "Revenue growth": "36% YoY"
-    },
-    "trend": [
-      0.1,
-      0.25,
-      0.2,
-      0.5,
-      0.45,
-      0.8,
-      0.95
-    ],
-    "color": "0F766E",
-    "premium": false,
-    "title_hi": "Alembic Pharma के शेयर में उछال, मुनाफे में 81 प्रतिशत की वृद्धि",
-    "summary_hi": "Alembic Pharma के शेयरों में जबरदस्त तेजी आई और यह ऊपरी सर्किट पर पहुंच गए। कंपनी ने तिमाही आधार पर अपने शुद्ध लाभ में 81 प्रतिशत की भारी बढ़ोतरी दर्ज की है। इसके अलावा, पिछले साल की तुलना में परिचालन से होने वाला राजस्व 36 प्रतिशत बढ़कर ₹2,603 करोड़ हो गया।",
-    "why_hi": "मजबूत मुनाफा और राजस्व वृद्धि।",
-    "chips_hi": {
-      "PAT वृद्धि": "81% YoY",
-      "राजस्व": "₹2,603 करोड़",
-      "राजस्व वृद्धि": "36% YoY"
-    },
-    "hi_tries": 0,
-    "hi_ver": 2
-  },
-  {
-    "v": 3,
-    "cat": "Finance",
-    "tk": "FINANCE",
-    "title": "How will the new PFRDA naming rules change scheme display?",
-    "summary": "The pension regulator has updated naming rules for NPS schemes. Under these updated guidelines, Points of Presence must display schemes from every pension fund that falls within the specific risk category chosen by the subscriber, bringing more transparency and choices to individual investors.",
-    "source": "Business Standard",
-    "published": "2026-11-04T09:41:06+00:00",
-    "ago": "49m",
-    "impact": "Neutral",
-    "why": "Regulatory update affecting scheme display rules.",
-    "url": "https://www.business-standard.com/finance/personal-finance/pfrda-revises-nps-scheme-naming-rules-what-changes-for-subscribers-126110401054_1.html",
-    "chips": {},
-    "trend": [
-      0.5,
-      0.55,
-      0.45,
-      0.5,
-      0.47,
-      0.52,
-      0.5
-    ],
-    "color": "B7791F",
-    "premium": false,
-    "hi_tries": 2,
-    "hi_ver": 2
-  },
-  {
-    "v": 3,
-    "cat": "Markets",
-    "tk": "MARKETS",
-    "title": "Why did HEG Advanced Materials and Saregama India jump sharply?",
-    "summary": "HEG Advanced Materials surged to reach its upper circuit limit during intraday trades on the BSE. Meanwhile, Saregama India also recorded significant gains of up to fifteen percent. Both stocks witnessed heavy buying volumes, pushing their prices higher to reach ₹288.90 and ₹647.20 respectively in the latest trading session.",
-    "source": "Business Standard",
-    "published": "2026-11-04T09:19:47+00:00",
-    "ago": "1h",
-    "impact": "Positive",
-    "why": "Significant stock price surge and volume increase.",
-    "url": "https://www.business-standard.com/markets/news/volume-shockers-heg-advanced-materials-saregama-india-zoom-up-to-20-126110400967_1.html",
-    "chips": {
-      "HEG price": "Rs 288.90",
-      "Saregama price": "Rs 647.20"
-    },
-    "trend": [
-      0.1,
-      0.25,
-      0.2,
-      0.5,
-      0.45,
-      0.8,
-      0.95
-    ],
-    "color": "0F766E",
-    "premium": false,
-    "title_hi": "HEG Advanced Materials और Saregama India में अचानक इतनी तेजी क्यों आई?",
-    "summary_hi": "बुधवार के कारोबारी सत्र में BSE पर HEG Advanced Materials का शेयर बीस प्रतिशत के ऊपरी सर्किट पर पहुंच गया। इसके साथ ही Saregama India के शेयरों में भी पंद्रह प्रतिशत की जोरदार तेजी दर्ज की गई। भारी वॉल्यूम के बीच इन दोनों शेयरों में यह उछाल देखने को मिला है।",
-    "why_hi": "शेयर की कीमतों और वॉल्यूम में भारी उछाल।",
-    "chips_hi": {
-      "HEG कीमत": "₹288.90",
-      "Saregama कीमत": "₹647.20"
-    },
     "hi_tries": 0,
     "hi_ver": 2
   }
