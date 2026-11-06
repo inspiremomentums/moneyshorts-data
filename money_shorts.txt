@@ -1,6 +1,251 @@
 [
   {
     "v": 3,
+    "cat": "Companies",
+    "tk": "TECH MAHINDRA",
+    "title": "How Tech Mahindra is raising its stake in Pininfarina",
+    "summary": "Tech Mahindra is set to increase its shareholding in Pininfarina to 92.59 per cent. Its subsidiary currently owns an 82.57 per cent stake in the company. The planned transaction will raise the total holding significantly upon successful completion.",
+    "source": "Business Standard",
+    "published": "2026-11-06T10:01:31+00:00",
+    "ago": "23m",
+    "impact": "Positive",
+    "why": "Increasing stake in a subsidiary company.",
+    "url": "https://www.business-standard.com/companies/news/tech-mahindra-acquire-more-shares-in-pininfarina-raise-stake-to-92-59-pc-126110601080_1.html",
+    "chips": {
+      "Current stake": "82.57%",
+      "New stake": "92.59%"
+    },
+    "trend": [
+      0.1,
+      0.25,
+      0.2,
+      0.5,
+      0.45,
+      0.8,
+      0.95
+    ],
+    "color": "0F766E",
+    "premium": false,
+    "title_hi": "Tech Mahindra कैसे Pininfarina में अपनी हिस्सेदारी बढ़ा रहा है",
+    "summary_hi": "Tech Mahindra की सहायक कंपनी Pininfarina में अपनी हिस्सेदारी बढ़ाकर 92.59 प्रतिशत करने जा रही है। वर्तमान में इसकी हिस्सेदारी 82.57 प्रतिशत है। प्रस्तावित लेनदेन पूरा होने पर यह हिस्सेदारी बढ़ जाएगी।",
+    "why_hi": "सहायक कंपनी में हिस्सेदारी बढ़ रही है।",
+    "chips_hi": {
+      "वर्तमान हिस्सेदारी": "82.57%",
+      "नई हिस्सेदारी": "92.59%"
+    }
+  },
+  {
+    "v": 3,
+    "cat": "Markets",
+    "tk": "MARKETS",
+    "title": "Pharma stocks surge as multiple firms hit new highs",
+    "summary": "Shares of several pharmaceutical companies climbed significantly on Friday, registering gains between 9 percent and 20 percent. Symbiotec Pharmalab, Windlas Biotech, Sai Life Sciences, Alembic Pharmaceuticals, and Fermation Biotech were among the notable firms that saw their stocks rally and reach new highs during the trading session.",
+    "source": "Business Standard",
+    "published": "2026-11-06T09:45:15+00:00",
+    "ago": "39m",
+    "impact": "Positive",
+    "why": "Strong double-digit gains across multiple pharma stocks.",
+    "url": "https://www.business-standard.com/markets/news/pharma-stocks-rally-aurobindo-divi-s-glenmark-symbiotec-sai-life-hit-new-highs-126110601011_1.html",
+    "chips": {
+      "Stock gains": "9-20%"
+    },
+    "trend": [
+      0.1,
+      0.25,
+      0.2,
+      0.5,
+      0.45,
+      0.8,
+      0.95
+    ],
+    "color": "0F766E",
+    "premium": false,
+    "title_hi": "फार्मा शेयरों में जबरदस्त तेजी, कई कंपनियों ने छुए नए शिखर",
+    "summary_hi": "शुक्रवार को कई फार्मा कंपनियों के शेयरों में शानदार तेजी देखने को मिली। Symbiotec Pharmalab, Windlas Biotech, Sai Life Sciences, Alembic Pharmaceuticals और Fermation Biotech के शेयर 9 प्रतिशत से 20 प्रतिशत तक की बढ़त के साथ कारोबार कर रहे थे।",
+    "why_hi": "फार्मा शेयरों में मजबूत दो अंकों की तेजी।",
+    "chips_hi": {
+      "शेयर बढ़त": "9-20%"
+    }
+  },
+  {
+    "v": 3,
+    "cat": "Earnings",
+    "tk": "COMPANIES",
+    "title": "Hindalco Posts 59 Percent Profit Jump in Second Quarter",
+    "summary": "Hindalco Industries reported a 58.8 percent increase in consolidated net profit to Rs 7,533 crore for the September quarter of FY27, compared to Rs 4,741 crore a year ago. Revenue rose 39 percent to Rs 92,651 crore. The strong performance was driven by the company's integrated business model spanning upstream and downstream segments in aluminium and copper.",
+    "source": "Business Standard / Press Trust of India",
+    "published": "2026-11-06T09:42:34+00:00",
+    "ago": "42m",
+    "impact": "Positive",
+    "why": "Higher profit and revenue growth reported.",
+    "url": "https://www.business-standard.com/companies/quarterly-results/hindalco-q2-result-net-profit-jumps-59-to-7-533-cr-revenue-rises-39-126110601026_1.html",
+    "chips": {
+      "Net profit": "Rs 7,533 crore",
+      "Revenue": "Rs 92,651 crore",
+      "Profit rise": "58.8 per cent"
+    },
+    "trend": [
+      0.1,
+      0.25,
+      0.2,
+      0.5,
+      0.45,
+      0.8,
+      0.95
+    ],
+    "color": "0F766E",
+    "premium": false,
+    "title_hi": "Hindalco का दूसरी तिमाही में नेट प्रॉफिट 59 प्रतिशत बढ़ा",
+    "summary_hi": "Hindalco Industries ने सितंबर तिमाही में कंसोलिडेटेड नेट प्रॉफिट 58.8 प्रतिशत बढ़कर 7,533 करोड़ रुपये रहने की जानकारी दी है। एक साल पहले यह 4,741 करोड़ रुपये था। कंपनी की आय बढ़कर 92,651 करोड़ रुपये हो गई। यह मजबूत प्रदर्शन एल्युमीनियम और कॉपर सेगमेंट में बेहतर कामकाज के कारण रहा।",
+    "why_hi": "मुनाफे और आय में मजबूत बढ़ोतरी।",
+    "chips_hi": {
+      "नेट प्रॉफिट": "₹7,533 करोड़",
+      "रेवेन्यू": "₹92,651 करोड़",
+      "प्रॉफिट बढ़त": "58.8 प्रतिशत"
+    }
+  },
+  {
+    "v": 3,
+    "cat": "Markets",
+    "tk": "BOSCH",
+    "title": "Bosch announces 1:5 stock split and 3:1 bonus issue",
+    "summary": "Bosch shares dropped four percent from the day high after reporting strong financial results. The company revealed a one to five stock split alongside a three to one bonus share issue on Friday. Standalone net profit grew significantly by 21.7 percent year on year, while revenue from operations increased by 28.5 percent.",
+    "source": "Business Standard",
+    "published": "2026-11-06T09:36:46+00:00",
+    "ago": "49m",
+    "impact": "Positive",
+    "why": "Strong profit and bonus announcement.",
+    "url": "https://www.business-standard.com/markets/news/bosch-slips-4-from-day-s-high-announces-1-5-stock-split-3-1-bonus-issue-126110601033_1.html",
+    "chips": {
+      "Net profit growth": "21.7%",
+      "Revenue growth": "28.5%",
+      "Stock split": "1:5"
+    },
+    "trend": [
+      0.1,
+      0.25,
+      0.2,
+      0.5,
+      0.45,
+      0.8,
+      0.95
+    ],
+    "color": "0F766E",
+    "premium": false,
+    "title_hi": "Bosch ने किया 1:5 स्टॉक स्प्लिट और 3:1 बोनस शेयर का ऐलान",
+    "summary_hi": "शानदार वित्तीय नतीजे जारी करने के बाद Bosch के शेयर में गिरावट आई। कंपनी ने शुक्रवार को एक अनुपात पाँच में स्टॉक स्प्लिट और तीन अनुपात एक में बोनस शेयर जारी करने की घोषणा की। सालाना आधार पर शुद्ध लाभ में 21.7 प्रतिशत की वृद्धि हुई, जबकि परिचालन से होने वाला राजस्व 28.5 प्रतिशत बढ़ा।",
+    "why_hi": "मजबूत मुनाफा और बोनस घोषणा।",
+    "chips_hi": {
+      "शुद्ध लाभ वृद्धि": "21.7%",
+      "राजस्व वृद्धि": "28.5%",
+      "स्टॉक स्प्लिट": "1:5"
+    }
+  },
+  {
+    "v": 3,
+    "cat": "Industry",
+    "tk": "INDUSTRY",
+    "title": "Government invites import duty quota applications for India-UK trade pact",
+    "summary": "The commerce ministry has invited applications from importers for tariff rate quotas to secure duty concessions under the India-UK Comprehensive Economic and Trade Agreement. Importers dealing in specified products like passenger cars can submit requests between November 6 and November 21, 2026, for the calendar year 2027 following the pact's implementation in July 2026.",
+    "source": "Business Standard / Press Trust of India",
+    "published": "2026-11-06T09:30:09+00:00",
+    "ago": "55m",
+    "impact": "Neutral",
+    "why": "Routine trade pact quota application process.",
+    "url": "https://www.business-standard.com/industry/news/govt-invites-applications-for-india-uk-trade-pact-duty-quotas-for-2027-126110600943_1.html",
+    "chips": {},
+    "trend": [
+      0.5,
+      0.55,
+      0.45,
+      0.5,
+      0.47,
+      0.52,
+      0.5
+    ],
+    "color": "B7791F",
+    "premium": false,
+    "title_hi": "सरकार ने India-UK ट्रेड पैक्ट के लिए ड्यूटी कोटा आवेदन आमंत्रित किए",
+    "summary_hi": "वाणिज्य मंत्रालय ने इंडिया-यूके कॉम्प्रिहेंसिव इकोनॉमिक एंड ट्रेड एग्रीमेंट के तहत ड्यूटी रियायतें पाने के लिए आयातकों से टैरिफ रेट कोटा आवेदन मांगे हैं। पैक्ट के जुलाई 2026 में लागू होने के बाद, पैसेंजर कारों जैसे चुनिंदा उत्पादों से जुड़े आयातक कैलेंडर वर्ष 2027 के लिए 6 नवंबर से 21 नवंबर 2026 के बीच आवेदन कर सकते हैं।",
+    "why_hi": "नियमित व्यापार समझौता कोटा प्रक्रिया।",
+    "chips_hi": {}
+  },
+  {
+    "v": 3,
+    "cat": "Earnings",
+    "tk": "MARKETS",
+    "title": "Symbiotec Pharma jumps 20 percent to a new high",
+    "summary": "Shares of Symbiotec Pharmalab surged 20 percent to reach a new high following recent quarterly results and a fresh order win. The company's stock made its market debut on September 1 of this year and has recorded a gain of 54 percent compared to the original initial public offering price.",
+    "source": "Business Standard",
+    "published": "2026-11-06T09:21:11+00:00",
+    "ago": "1h",
+    "impact": "Positive",
+    "why": "Strong earnings and new order win.",
+    "url": "https://www.business-standard.com/markets/news/q2-results-order-win-drive-symbiotec-pharma-share-price-up-20-higher-to-new-high-126110600995_1.html",
+    "chips": {
+      "IPO price": "Rs 988",
+      "Stock rally": "54 per cent",
+      "Recent surge": "20%"
+    },
+    "trend": [
+      0.1,
+      0.25,
+      0.2,
+      0.5,
+      0.45,
+      0.8,
+      0.95
+    ],
+    "color": "0F766E",
+    "premium": false,
+    "title_hi": "Symbiotec Pharma के शेयर 20 प्रतिशत चढ़कर नए उच्च स्तर पर पहुंचे",
+    "summary_hi": "Symbiotec Pharmalab के शेयरों में तिमाही नतीजों और नए ऑर्डर के बाद 20 प्रतिशत की तेजी आई है। कंपनी ने इस साल 1 सितंबर को शेयर बाजार में शुरुआत की थी और यह आईपीओ कीमत से 54 प्रतिशत ऊपर ट्रेड कर रहा है।",
+    "why_hi": "मजबूत तिमाही नतीजे और नया ऑर्डर।",
+    "chips_hi": {
+      "आईपीओ कीमत": "₹988",
+      "स्टॉक तेजी": "54 प्रतिशत",
+      "हालिया बढ़त": "20%"
+    }
+  },
+  {
+    "v": 3,
+    "cat": "Industry",
+    "tk": "INDUSTRY",
+    "title": "Why did Maharashtra lead the new sugar crushing season rollout?",
+    "summary": "The new sugar season has gained momentum as 184 mills started operations across the country. Maharashtra led the crushing activity with 136 mills beginning operations and producing 1.078 million tonnes of sugar up to November 5, according to the Indian Sugar Mills Association data.",
+    "source": "Business Standard",
+    "published": "2026-11-06T09:18:43+00:00",
+    "ago": "1h",
+    "impact": "Neutral",
+    "why": "Seasonal crushing activity is currently underway.",
+    "url": "https://www.business-standard.com/industry/news/india-sugar-new-season-production-crushing-operations-mills-domestic-stock-126110601000_1.html",
+    "chips": {
+      "Active mills": "184",
+      "Maharashtra mills": "136",
+      "Sugar production": "1.078 million tonnes"
+    },
+    "trend": [
+      0.5,
+      0.55,
+      0.45,
+      0.5,
+      0.47,
+      0.52,
+      0.5
+    ],
+    "color": "B7791F",
+    "premium": false,
+    "title_hi": "नए शुगर सीजन में 184 मिलों ने कैसे शुरू किया कामकाज?",
+    "summary_hi": "देशभर में नए शुगर सीजन की शुरुआत हो चुकी है और 184 मिलों ने अपना कामकाज शुरू कर दिया है। ISMA के अनुसार, 5 नवंबर तक महाराष्ट्र सबसे आगे रहा जहाँ 136 मिलों ने पेराई का काम शुरू किया और 1.078 मिलियन टन चीनी का उत्पादन किया।",
+    "why_hi": "मौसमी पेराई का काम शुरू हुआ है।",
+    "chips_hi": {
+      "सक्रिय मिलें": "184",
+      "महाराष्ट्र मिलें": "136",
+      "चीनी उत्पादन": "1.078 मिलियन टन"
+    }
+  },
+  {
+    "v": 3,
     "cat": "Markets",
     "tk": "ICICI BANK",
     "title": "ICICI Bank soars 10 percent in four days",
@@ -34,7 +279,9 @@
       "मार्केट कैप": "₹10.96 लाख करोड़",
       "शेयर तेजी": "10%",
       "अवधि": "4 दिन"
-    }
+    },
+    "hi_tries": 0,
+    "hi_ver": 2
   },
   {
     "v": 3,
@@ -63,7 +310,9 @@
     "title_hi": "रोजमर्रा की खरीदारी से कैसे मिल सकते हैं मुफ्त फ्लाइट टिकट",
     "summary_hi": "एयर इंडिया ने घोषणा की है कि ग्राहक रोजमर्रा की खरीदारी के जरिए महाराजा पॉइंट्स कमा सकते हैं। इन इकट्ठे किए गए पॉइंट्स को एयरलाइन पर अवॉर्ड उड़ानों और केबिन अपग्रेड के लिए भुनाया जा सकता है, जिससे यात्रियों को अपने नियमित खर्चों के माध्यम से भविष्य की यात्रा पर बचत करने का नया मौका मिलता है।",
     "why_hi": "रिवार्ड्स से ग्राहकों की संख्या और सेवा उपयोग बढ़ता है।",
-    "chips_hi": {}
+    "chips_hi": {},
+    "hi_tries": 0,
+    "hi_ver": 2
   },
   {
     "v": 3,
@@ -92,7 +341,9 @@
     "title_hi": "HPCL को Strait of Hormuz से कच्चा तेल लाने में क्यों आ रही है मुश्किल?",
     "summary_hi": "चेयरमैन विकास कौशल के अनुसार, जहाजों की उपलब्धता में कमी और शिप ओनर्स द्वारा अंतिम समय पर यात्रा रद्द करने के कारण HPCL को Persian Gulf से कच्चे तेल के कार्गो सुरक्षित करने में परेशानी का सामना करना पड़ रहा है।",
     "why_hi": "कच्चे तेल के नौवहन में बाधा आ रही है।",
-    "chips_hi": {}
+    "chips_hi": {},
+    "hi_tries": 0,
+    "hi_ver": 2
   },
   {
     "v": 3,
@@ -121,7 +372,8 @@
     ],
     "color": "9B2C2C",
     "premium": false,
-    "hi_tries": 1
+    "hi_tries": 1,
+    "hi_ver": 2
   },
   {
     "v": 3,
@@ -156,7 +408,9 @@
     "chips_hi": {
       "इक्विटी ट्रेड": "1.41 प्रतिशत",
       "ट्रेडेड शेयर": "88,524,639"
-    }
+    },
+    "hi_tries": 0,
+    "hi_ver": 2
   },
   {
     "v": 3,
@@ -193,7 +447,9 @@
       "खुदरा बिक्री में गिर": "23.8%",
       "कुल बिक्री": "31.72 लाख यूनिट",
       "दोपहिया वाहन बिक्री ": "28.35%"
-    }
+    },
+    "hi_tries": 0,
+    "hi_ver": 2
   },
   {
     "v": 3,
@@ -226,7 +482,9 @@
     "why_hi": "मजबूत कमाई और बेहतर भविष्य का अनुमान।",
     "chips_hi": {
       "शेयर में तेजी": "10%"
-    }
+    },
+    "hi_tries": 0,
+    "hi_ver": 2
   },
   {
     "v": 3,
@@ -584,237 +842,6 @@
       "निवेश": "₹2,000 करोड़",
       "नई हिस्सेदारी": "38.04 प्रतिशत",
       "शेयर मूल्य": "₹350"
-    },
-    "hi_tries": 0,
-    "hi_ver": 2
-  },
-  {
-    "v": 3,
-    "cat": "Finance",
-    "tk": "FINANCE",
-    "title": "Why are gold loan defaults rising despite a tripling portfolio?",
-    "summary": "Gold loan portfolios have tripled since 2023, but missed payments are increasing sharply. Borrowers who hold multiple gold loans, smaller ticket sizes, and past payment delays are facing higher vulnerability, according to the managing director and chief executive officer.",
-    "source": "Business Standard",
-    "published": "2026-11-05T10:01:26+00:00",
-    "ago": "32m",
-    "impact": "Negative",
-    "why": "Rising defaults pose asset quality risks.",
-    "url": "https://www.business-standard.com/finance/news/india-gold-loan-delinquencies-transunion-cibil-portfolio-august-2026-126110501124_1.html",
-    "chips": {},
-    "trend": [
-      0.95,
-      0.85,
-      0.7,
-      0.6,
-      0.4,
-      0.3,
-      0.1
-    ],
-    "color": "9B2C2C",
-    "premium": false,
-    "hi_tries": 0,
-    "title_hi": "गोल्ड लोन का पोर्टफोलियो बढ़ने के बाद भी क्यों बढ़ रहे हैं डिफॉल्ट?",
-    "summary_hi": "साल 2023 से गोल्ड लोन का कारोबार तीन गुना हो चुका है, लेकिन इसके साथ ही किस्तें न चुकाने के मामले भी तेजी से बढ़ रहे हैं। छोटे लोन लेने वाले, कई जगह से कर्ज लेने वाले और पहले भी भुगतान में देरी करने वाले ग्राहकों पर इसका सबसे ज्यादा खतरा मंडरा रहा है।",
-    "why_hi": "बढ़ते डिफॉल्ट से बैंकों और कंपनियों के लिए एसेट क्वालिटी का जोखिम पैदा हो रहा है",
-    "chips_hi": {},
-    "hi_ver": 2
-  },
-  {
-    "v": 3,
-    "cat": "Finance",
-    "tk": "FINANCE",
-    "title": "How is the true value of Indian craft calculated in luxury?",
-    "summary": "Homegrown craftsmanship, ranging from bespoke decor to handwoven textiles, is entering the high-end retail market. This transition raises questions about how the true value of these artisanal products is calculated and if buyers in India are ready to pay higher prices for them.",
-    "source": "Business Standard",
-    "published": "2026-11-05T09:48:33+00:00",
-    "ago": "45m",
-    "impact": "Neutral",
-    "why": "Craft enters high-end retail, raising pricing questions.",
-    "url": "https://www.business-standard.com/finance/personal-finance/the-price-of-artistry-indian-craft-claims-its-rightful-place-in-luxury-126110500885_1.html",
-    "chips": {},
-    "trend": [
-      0.5,
-      0.55,
-      0.45,
-      0.5,
-      0.47,
-      0.52,
-      0.5
-    ],
-    "color": "B7791F",
-    "premium": true,
-    "title_hi": "लक्जरी बाजार में भारतीय कला और शिल्प की सही कीमत क्या है?",
-    "summary_hi": "हथकरघा वस्त्रों से लेकर कस्टमाइज्ड सजावट तक, स्वदेशी हस्तशिल्प अब हाई-एंड रिटेल बाजार में कदम रख रहा है। यह बदलाव इस बात पर सवाल उठाता है कि इन उत्पादों का असली मूल्य कैसे तय किया जाए और क्या भारतीय खरीदार इसके लिए भुगतान करने को तैयार हैं।",
-    "why_hi": "हस्तशिल्प लक्जरी बाजार में प्रवेश कर रहा है।",
-    "chips_hi": {},
-    "hi_tries": 0,
-    "hi_ver": 2
-  },
-  {
-    "v": 3,
-    "cat": "Finance",
-    "tk": "FINANCE",
-    "title": "Who gets a deceased government employee's General Provident Fund money?",
-    "summary": "The government has clarified the rules for General Provident Fund disbursal after an employee's death. Eligible family members receive priority over outsiders when claims are processed. However, there are specific exclusions for adult sons and married daughters regarding these payouts.",
-    "source": "Business Standard",
-    "published": "2026-11-05T09:42:28+00:00",
-    "ago": "51m",
-    "impact": "Neutral",
-    "why": "Clarification on GPF disbursal rules.",
-    "url": "https://www.business-standard.com/finance/personal-finance/gpf-disbursal-rules-clarified-who-gets-a-deceased-govt-employee-s-money-126110501091_1.html",
-    "chips": {},
-    "trend": [
-      0.5,
-      0.55,
-      0.45,
-      0.5,
-      0.47,
-      0.52,
-      0.5
-    ],
-    "color": "B7791F",
-    "premium": false,
-    "title_hi": "मृत सरकारी employee का GPF पैसा किसे मिलता है?",
-    "summary_hi": "सरकार ने कर्मचारी की मृत्यु के बाद जनरल प्रोविडेंट फंड के वितरण के नियमों को स्पष्ट किया है। दावों का निपटान करते समय पात्र परिवार के सदस्यों को बाहरी लोगों पर प्राथमिकता मिलती है। हालांकि, इन भुगतानों के संबंध में वयस्क बेटों और विवाहित बेटियों के लिए विशिष्ट बहिष्करण हैं।",
-    "why_hi": "GPF वितरण नियमों पर स्पष्टीकरण।",
-    "chips_hi": {},
-    "hi_tries": 0,
-    "hi_ver": 2
-  },
-  {
-    "v": 3,
-    "cat": "IPO",
-    "tk": "KISSHT",
-    "title": "Kissht jumps eight percent as assets cross ten thousand crores",
-    "summary": "Kissht shares climbed eight percent after assets under management crossed ten thousand crores. The stock currently trades one hundred percent higher than its initial public offering price of one hundred seventy one rupees, following its market debut in May this year.",
-    "source": "Business Standard",
-    "published": "2026-11-05T09:39:40+00:00",
-    "ago": "58m",
-    "impact": "Positive",
-    "why": "Assets under management and share price rose.",
-    "url": "https://www.business-standard.com/markets/news/multibagger-kissht-spurts-8-as-aum-tops-10k-cr-doubles-from-ipo-price-126110501079_1.html",
-    "chips": {
-      "IPO price": "₹171"
-    },
-    "trend": [
-      0.1,
-      0.25,
-      0.2,
-      0.5,
-      0.45,
-      0.8,
-      0.95
-    ],
-    "color": "0F766E",
-    "premium": false,
-    "title_hi": "Kissht के शेयर में आठ प्रतिशत की तेजी, AUM दस हजार करोड़ पार",
-    "summary_hi": "Kissht के शेयर में आठ प्रतिशत की तेजी आई क्योंकि इसका AUM दस हजार करोड़ रुपये को पार कर गया। इस मई में शेयर बाजार में लिस्ट होने वाला यह स्टॉक अपने IPO मूल्य से सौ प्रतिशत ऊपर ट्रेड कर रहा है।",
-    "why_hi": "एसेट्स और शेयर मूल्य में बढ़ोतरी हुई।",
-    "chips_hi": {
-      "IPO मूल्य": "₹171"
-    },
-    "hi_tries": 0,
-    "hi_ver": 2
-  },
-  {
-    "v": 3,
-    "cat": "Companies",
-    "tk": "DR REDDY'S",
-    "title": "Dr Reddy's wins Brazil approval to sell generic Ozempic",
-    "summary": "Dr Reddy's has received approval from the Brazil regulator to sell generic Ozempic. The country has 16.6 million adults aged 20 to 79 living with diabetes. Brazil currently ranks sixth globally in terms of the total number of adults living with this condition.",
-    "source": "Business Standard / Reuters",
-    "published": "2026-11-05T06:20:46+00:00",
-    "ago": "2m",
-    "impact": "Positive",
-    "why": "New regulatory approval opens a major market.",
-    "url": "https://www.business-standard.com/companies/news/dr-reddy-s-gets-brazil-regulator-approval-to-sell-generic-ozempic-126110500609_1.html",
-    "chips": {
-      "Adults with diabetes": "16.6 million",
-      "Age group": "20 to 79"
-    },
-    "trend": [
-      0.1,
-      0.25,
-      0.2,
-      0.5,
-      0.45,
-      0.8,
-      0.95
-    ],
-    "color": "0F766E",
-    "premium": false,
-    "title_hi": "Dr Reddy's को जेनेरिक Ozempic बेचने के लिए मिली ब्राजील की मंजूरी",
-    "summary_hi": "Dr Reddy's को ब्राजील के नियामक से जेनेरिक Ozempic बेचने की मंजूरी मिल गई है। ब्राजील में 20 से 79 वर्ष की आयु के 16.6 million वयस्क डायबिटीज के साथ जी रहे हैं। डायबिटीज से पीड़ित वयस्कों की संख्या के मामले में यह देश वैश्विक स्तर पर छठे स्थान पर है।",
-    "why_hi": "नई मंजूरी से बड़ा बाजार खुला है।",
-    "chips_hi": {
-      "डायबिटीज वाले वयस्क": "16.6 million",
-      "आयु वर्ग": "20 से 79"
-    },
-    "hi_tries": 0,
-    "hi_ver": 2
-  },
-  {
-    "v": 3,
-    "cat": "Markets",
-    "tk": "MARKETS",
-    "title": "Capital Markets index climbs 4 percent as major stocks jump",
-    "summary": "The Nifty Capital Markets index rose four percent, with stocks like MOFSL, Groww, 360 ONE, and BSE increasing up to seven percent. Over the past four trading days, this index outperformed the broader market by surging 9.5 percent, compared to a six percent rally in the Nifty 50 benchmark.",
-    "source": "Business Standard",
-    "published": "2026-11-05T06:04:29+00:00",
-    "ago": "20m",
-    "impact": "Positive",
-    "why": "Index and key stocks surged significantly.",
-    "url": "https://www.business-standard.com/markets/news/capital-markets-index-soars-4-mofsl-groww-360-one-bse-zoom-up-to-7-126110500617_1.html",
-    "chips": {},
-    "trend": [
-      0.1,
-      0.25,
-      0.2,
-      0.5,
-      0.45,
-      0.8,
-      0.95
-    ],
-    "color": "0F766E",
-    "premium": false,
-    "title_hi": "Capital Markets इंडेक्स में 4 प्रतिशत की तेजी",
-    "summary_hi": "Capital Markets इंडेक्स चार प्रतिशत चढ़ा और MOFSL, Groww, 360 ONE व BSE जैसे शेयर सात प्रतिशत तक उछले। पिछले चार कारोबारी सत्रों में Nifty 50 की छह प्रतिशत की तेजी के मुकाबले इस इंडेक्स ने 9.5 प्रतिशत की मजबूत बढ़त दर्ज की है।",
-    "why_hi": "इंडेक्स और प्रमुख शेयरों में बड़ी तेजी।",
-    "chips_hi": {},
-    "hi_tries": 0,
-    "hi_ver": 2
-  },
-  {
-    "v": 3,
-    "cat": "Finance",
-    "tk": "FINANCE",
-    "title": "Why would 87% of young Indians save an unexpected windfall?",
-    "summary": "A recent study shows that a vast majority of young Indians prefer to save, invest, or clear debts rather than spend lavishly if they receive a sudden financial windfall. Mutual funds and bank fixed deposits have emerged as the top choices for parking these funds, reflecting a cautious and financially prudent mindset among the country's younger generation.",
-    "source": "Business Standard",
-    "published": "2026-11-05T05:54:34+00:00",
-    "ago": "32m",
-    "impact": "Positive",
-    "why": "Strong savings and investment preference among youth.",
-    "url": "https://www.business-standard.com/finance/personal-finance/india-s-young-aren-t-splurging-87-would-save-or-invest-a-windfall-126110500614_1.html",
-    "chips": {
-      "Windfall action": "87% save, invest or "
-    },
-    "trend": [
-      0.1,
-      0.25,
-      0.2,
-      0.5,
-      0.45,
-      0.8,
-      0.95
-    ],
-    "color": "0F766E",
-    "premium": false,
-    "title_hi": "अचानक पैसा मिलने पर 87% युवा क्यों करते हैं बचत?",
-    "summary_hi": "एक अध्ययन के अनुसार, देश के अधिकांश युवा अचानक धन प्राप्ति होने पर उसे खर्च करने के बजाय बचाने, निवेश करने या कर्ज चुकाने को प्राथमिकता देते हैं। म्यूचुअल फंड और बैंक फिक्स्ड डिपॉजिट इस पैसे को लगाने के लिए सबसे पसंदीदा विकल्प बनकर उभरे हैं, जो युवाओं की वित्तीय समझ को दर्शाता है।",
-    "why_hi": "युवाओं में बचत और निवेश की मजबूत प्राथमिकता",
-    "chips_hi": {
-      "पैसे का उपयोग": "87% बचत, निवेश या कर"
     },
     "hi_tries": 0,
     "hi_ver": 2
