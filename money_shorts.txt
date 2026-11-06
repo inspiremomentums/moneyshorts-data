@@ -2,6 +2,235 @@
   {
     "v": 3,
     "cat": "Markets",
+    "tk": "ICICI BANK",
+    "title": "ICICI Bank soars 10 percent in four days",
+    "summary": "ICICI Bank shares extended a strong rally, surging ten percent over four trading sessions. During intraday trade on Friday, the institution's market capitalization reached nearly eleven trillion rupees, specifically touching ten point nine six trillion rupees on the Bombay Stock Exchange, according to exchange data.",
+    "source": "Business Standard",
+    "published": "2026-11-06T06:16:11+00:00",
+    "ago": "6m",
+    "impact": "Positive",
+    "why": "Rising market capitalization and strong share price rally.",
+    "url": "https://www.business-standard.com/markets/news/icici-bank-extends-rally-soars-10-in-4-days-market-cap-nears-11-trn-126110600622_1.html",
+    "chips": {
+      "Market cap": "₹10.96 trillion",
+      "Stock gain": "10%",
+      "Duration": "4 days"
+    },
+    "trend": [
+      0.1,
+      0.25,
+      0.2,
+      0.5,
+      0.45,
+      0.8,
+      0.95
+    ],
+    "color": "0F766E",
+    "premium": false,
+    "title_hi": "ICICI Bank में तेजी, चार दिन में 10 प्रतिशत उछला शेयर",
+    "summary_hi": "ICICI Bank के शेयरों में लगातार तेजी देखने को मिली है, जिससे चार सत्रों में यह दस प्रतिशत चढ़ गया। शुक्रवार को इंट्राडे कारोबार के दौरान बैंक का बाजार पूंजीकरण लगभग ग्यारह लाख करोड़ रुपये के करीब पहुंच गया। BSE के आंकड़ों के अनुसार यह आंकड़ा दस लाख छियानवे हजार करोड़ रुपये पर पहुंच गया।",
+    "why_hi": "बढ़ता बाजार पूंजीकरण और मजबूत शेयर प्रदर्शन।",
+    "chips_hi": {
+      "मार्केट कैप": "₹10.96 लाख करोड़",
+      "शेयर तेजी": "10%",
+      "अवधि": "4 दिन"
+    }
+  },
+  {
+    "v": 3,
+    "cat": "Finance",
+    "tk": "AIR INDIA",
+    "title": "How daily shopping can now pay for your next flight",
+    "summary": "Air India has announced that everyday purchases can help customers earn Maharaja Points. These collected points are now available to be redeemed for award flights as well as cabin upgrades with the airline, giving regular shoppers a new way to save on future travel expenses through their routine spending habits.",
+    "source": "Business Standard",
+    "published": "2026-11-06T06:05:00+00:00",
+    "ago": "18m",
+    "impact": "Positive",
+    "why": "Rewards boost customer loyalty and service usage.",
+    "url": "https://www.business-standard.com/finance/personal-finance/air-india-loyalty-points-everyday-shopping-can-pay-for-your-next-flight-126110600630_1.html",
+    "chips": {},
+    "trend": [
+      0.1,
+      0.25,
+      0.2,
+      0.5,
+      0.45,
+      0.8,
+      0.95
+    ],
+    "color": "0F766E",
+    "premium": false,
+    "title_hi": "रोजमर्रा की खरीदारी से कैसे मिल सकते हैं मुफ्त फ्लाइट टिकट",
+    "summary_hi": "एयर इंडिया ने घोषणा की है कि ग्राहक रोजमर्रा की खरीदारी के जरिए महाराजा पॉइंट्स कमा सकते हैं। इन इकट्ठे किए गए पॉइंट्स को एयरलाइन पर अवॉर्ड उड़ानों और केबिन अपग्रेड के लिए भुनाया जा सकता है, जिससे यात्रियों को अपने नियमित खर्चों के माध्यम से भविष्य की यात्रा पर बचत करने का नया मौका मिलता है।",
+    "why_hi": "रिवार्ड्स से ग्राहकों की संख्या और सेवा उपयोग बढ़ता है।",
+    "chips_hi": {}
+  },
+  {
+    "v": 3,
+    "cat": "Companies",
+    "tk": "HPCL",
+    "title": "Why is HPCL facing trouble booking crude oil tankers?",
+    "summary": "HPCL is finding it difficult to secure crude shipments from the Persian Gulf due to vessel availability issues. Shipowners are also making last-minute withdrawals from voyages, creating hurdles for the company in booking tankers for crude transport through the Strait of Hormuz, according to Chairman Vikas Kaushal.",
+    "source": "Business Standard / Bloomberg",
+    "published": "2026-11-06T06:02:50+00:00",
+    "ago": "20m",
+    "impact": "Negative",
+    "why": "Crude shipment hurdles can disrupt operations.",
+    "url": "https://www.business-standard.com/companies/news/hpcl-struggles-to-book-tankers-for-crude-shipments-via-strait-of-hormuz-126110600624_1.html",
+    "chips": {},
+    "trend": [
+      0.95,
+      0.85,
+      0.7,
+      0.6,
+      0.4,
+      0.3,
+      0.1
+    ],
+    "color": "9B2C2C",
+    "premium": false,
+    "title_hi": "HPCL को Strait of Hormuz से कच्चा तेल लाने में क्यों आ रही है मुश्किल?",
+    "summary_hi": "चेयरमैन विकास कौशल के अनुसार, जहाजों की उपलब्धता में कमी और शिप ओनर्स द्वारा अंतिम समय पर यात्रा रद्द करने के कारण HPCL को Persian Gulf से कच्चे तेल के कार्गो सुरक्षित करने में परेशानी का सामना करना पड़ रहा है।",
+    "why_hi": "कच्चे तेल के नौवहन में बाधा आ रही है।",
+    "chips_hi": {}
+  },
+  {
+    "v": 3,
+    "cat": "Earnings",
+    "tk": "LIC",
+    "title": "LIC shares drop 4 percent despite rising net profit",
+    "summary": "Shares of LIC fell four percent following the second quarter financial results. The insurance major posted a 20.12 percent year on year rise in net profit, reaching Rs 12,076 crore for the quarter. However, the value of new business missed market estimates and the annualized premium equivalent growth stayed weak during the period.",
+    "source": "Business Standard",
+    "published": "2026-11-06T05:57:41+00:00",
+    "ago": "25m",
+    "impact": "Negative",
+    "why": "Weak growth and missed estimates lowered shares.",
+    "url": "https://www.business-standard.com/markets/news/lic-shares-fall-4-as-q2-vnb-misses-estimates-ape-growth-remains-weak-126110600611_1.html",
+    "chips": {
+      "Net profit rise": "20.12%",
+      "Net profit": "Rs 12,076 crore"
+    },
+    "trend": [
+      0.95,
+      0.85,
+      0.7,
+      0.6,
+      0.4,
+      0.3,
+      0.1
+    ],
+    "color": "9B2C2C",
+    "premium": false,
+    "hi_tries": 1
+  },
+  {
+    "v": 3,
+    "cat": "Markets",
+    "tk": "GROWW",
+    "title": "Why did Groww shares fall 7 percent today?",
+    "summary": "Groww shares fell 7 percent after a nine-day winning streak following multiple block deals on the NSE. Data from Bloomberg showed that 1.41 percent of the total equity changed hands during these transactions, involving over eight crore shares.",
+    "source": "Business Standard",
+    "published": "2026-11-06T05:40:53+00:00",
+    "ago": "42m",
+    "impact": "Negative",
+    "why": "Block deals caused shares to drop.",
+    "url": "https://www.business-standard.com/markets/news/groww-shares-snap-9-day-winning-streak-fall-7-on-multiple-block-deals-126110600592_1.html",
+    "chips": {
+      "Equity traded": "1.41 per cent",
+      "Shares traded": "88,524,639"
+    },
+    "trend": [
+      0.95,
+      0.85,
+      0.7,
+      0.6,
+      0.4,
+      0.3,
+      0.1
+    ],
+    "color": "9B2C2C",
+    "premium": false,
+    "title_hi": "Groww के शेयर 7 प्रतिशत क्यों गिरे?",
+    "summary_hi": "NSE पर कई ब्लॉक डील होने के बाद Groww के शेयरों में लगातार नौ दिन की तेजी थम गई और ये 7 प्रतिशत गिर गए। आंकड़ों के अनुसार, कुल इक्विटी का 1.41 प्रतिशत हिस्सा इन ब्लॉक डील के जरिए बदला गया।",
+    "why_hi": "ब्लॉक डील के कारण शेयर गिरे।",
+    "chips_hi": {
+      "इक्विटी ट्रेड": "1.41 प्रतिशत",
+      "ट्रेडेड शेयर": "88,524,639"
+    }
+  },
+  {
+    "v": 3,
+    "cat": "Industry",
+    "tk": "INDUSTRY",
+    "title": "Why did India's auto retail sales drop 23.8% in October?",
+    "summary": "India experienced a 23.8 per cent decline in automobile retail sales to over 31.72 lakh units in October compared to the same month last year. The Federation of Automobile Dealers Associations stated this drop was largely due to the festive calendar shift, as Navratri and Diwali fell in November this year.",
+    "source": "Business Standard / Press Trust of India",
+    "published": "2026-11-06T05:27:01+00:00",
+    "ago": "56m",
+    "impact": "Negative",
+    "why": "Retail sales fell significantly across vehicle categories.",
+    "url": "https://www.business-standard.com/industry/auto/auto-retail-sales-fall-23-8-in-october-to-3-172-million-units-fada-126110600528_1.html",
+    "chips": {
+      "Retail sales decline": "23.8%",
+      "Total sales": "31.72 lakh units",
+      "Two-wheeler sales dr": "28.35%"
+    },
+    "trend": [
+      0.95,
+      0.85,
+      0.7,
+      0.6,
+      0.4,
+      0.3,
+      0.1
+    ],
+    "color": "9B2C2C",
+    "premium": false,
+    "title_hi": "अक्टूबर में भारत की ऑटो खुदरा बिक्री क्यों 23.8% गिर गई?",
+    "summary_hi": "ऑटोमोबाइल डीलर्स एसोसिएशन के डेटा के अनुसार, इस साल अक्टूबर में भारत की ऑटो खुदरा बिक्री साल-दर-साल 23.8 प्रतिशत घटकर 31.72 लाख यूनिट से अधिक रह गई। यह गिरावट मुख्य रूप से त्योहारों के कैलेंडर में बदलाव के कारण हुई, क्योंकि इस साल नवरात्रि और दिवाली नवंबर के महीने में पड़े थे।",
+    "why_hi": "खुदरा बिक्री में भारी गिरावट दर्ज की गई।",
+    "chips_hi": {
+      "खुदरा बिक्री में गिर": "23.8%",
+      "कुल बिक्री": "31.72 लाख यूनिट",
+      "दोपहिया वाहन बिक्री ": "28.35%"
+    }
+  },
+  {
+    "v": 3,
+    "cat": "Earnings",
+    "tk": "MARKETS",
+    "title": "Sai Life shares jump 10 percent to reach record high",
+    "summary": "Shares of Sai Life Sciences climbed 10 percent to touch a record high following strong financial results for the second quarter. The company expects the second half of the year to be stronger, driven by new capacity ramp-ups and the progress of its commercial and development pipeline.",
+    "source": "Business Standard",
+    "published": "2026-11-06T05:09:10+00:00",
+    "ago": "1h",
+    "impact": "Positive",
+    "why": "Strong earnings and positive future outlook.",
+    "url": "https://www.business-standard.com/markets/news/sai-life-soars-10-hits-record-high-on-strong-q2-earnings-126110600520_1.html",
+    "chips": {
+      "Share price surge": "10%"
+    },
+    "trend": [
+      0.1,
+      0.25,
+      0.2,
+      0.5,
+      0.45,
+      0.8,
+      0.95
+    ],
+    "color": "0F766E",
+    "premium": false,
+    "title_hi": "Sai Life के शेयर 10 प्रतिशत उछलकर रिकॉर्ड स्तर पर पहुंचे",
+    "summary_hi": "मजबूत दूसरी तिमाही के परिणामों के बाद Sai Life Sciences के शेयरों में 10 प्रतिशत की तेजी आई और यह रिकॉर्ड स्तर पर पहुंच गया। कंपनी को नई क्षमता बढ़ने और पाइपलाइन के विकास से साल के दूसरे हिस्से में बेहतर प्रदर्शन की उम्मीद है।",
+    "why_hi": "मजबूत कमाई और बेहतर भविष्य का अनुमान।",
+    "chips_hi": {
+      "शेयर में तेजी": "10%"
+    }
+  },
+  {
+    "v": 3,
+    "cat": "Markets",
     "tk": "HERO MOTOCORP",
     "title": "Why are experts suggesting a bull spread strategy for these stocks?",
     "summary": "An analyst from HDFC Securities has suggested a bull spread trading strategy for two prominent companies. The recommended approach focuses on Hero MotoCorp and Punjab National Bank. Market participants track such professional options and futures strategies for potential movement insights.",
@@ -26,7 +255,9 @@
     "title_hi": "इन शेयरों के लिए बुल स्प्रेड रणनीति का सुझाव क्यों दिया गया है?",
     "summary_hi": "HDFC सिक्योरिटीज के एक विश्लेषक ने दो प्रमुख कंपनियों के लिए बुल स्प्रेड ट्रेडिंग रणनीति का सुझाव दिया है। यह अनुशंसित दृष्टिकोण Hero MotoCorp और पंजाब नेशनल बैंक पर केंद्रित है।",
     "why_hi": "विश्लेषक ने शेयरों के लिए रणनीति सुझाई।",
-    "chips_hi": {}
+    "chips_hi": {},
+    "hi_tries": 0,
+    "hi_ver": 2
   },
   {
     "v": 3,
@@ -63,7 +294,9 @@
       "Sensex बढ़त": "6,064 अंक",
       "Sensex तेजी": "8.3%",
       "Nifty तेजी": "8.1%"
-    }
+    },
+    "hi_tries": 0,
+    "hi_ver": 2
   },
   {
     "v": 3,
@@ -92,7 +325,9 @@
     "title_hi": "Uttar Pradesh में प्राइवेट मेडिकल कॉलेज लाने के लिए क्या है योजना?",
     "summary_hi": "Uttar Pradesh सरकार ने उन जिलों में मेडिकल कॉलेज और अस्पताल बनाने के लिए निजी निवेश आकर्षित करने की योजना शुरू की है जहां ऐसे संस्थान नहीं थे। यह नीति स्वास्थ्य ढांचा मजबूत करने के लिए प्रोत्साहन और पात्रता तय करती है।",
     "why_hi": "अस्पताल और मेडिकल कॉलेज का विस्तार।",
-    "chips_hi": {}
+    "chips_hi": {},
+    "hi_tries": 0,
+    "hi_ver": 2
   },
   {
     "v": 3,
@@ -125,7 +360,9 @@
     "why_hi": "निर्यात बढ़ने और घरेलू कीमतों का मिलाजुला असर।",
     "chips_hi": {
       "निर्यात मूल्य": "$69 मिलियन"
-    }
+    },
+    "hi_tries": 0,
+    "hi_ver": 2
   },
   {
     "v": 3,
@@ -162,7 +399,9 @@
       "निफ्टी बढ़त": "2.4%",
       "निफ्टी स्तर": "24,536.60",
       "सेंसेक्स बढ़त": "2.6%"
-    }
+    },
+    "hi_tries": 0,
+    "hi_ver": 2
   },
   {
     "v": 3,
@@ -199,7 +438,9 @@
       "शुद्ध लाभ": "₹725.99 करोड़",
       "उत्पाद राजस्व": "₹5,541.57 करोड़",
       "वॉल्यूम ग्रोथ": "13 प्रतिशत"
-    }
+    },
+    "hi_tries": 0,
+    "hi_ver": 2
   },
   {
     "v": 3,
@@ -232,7 +473,9 @@
     "why_hi": "ब्याज दरों में बढ़ोतरी और बाजार की स्थिति।",
     "chips_hi": {
       "रेट बढ़ोतरी": "50-75 bps"
-    }
+    },
+    "hi_tries": 0,
+    "hi_ver": 2
   },
   {
     "v": 3,
@@ -573,231 +816,6 @@
     "chips_hi": {
       "पैसे का उपयोग": "87% बचत, निवेश या कर"
     },
-    "hi_tries": 0,
-    "hi_ver": 2
-  },
-  {
-    "v": 3,
-    "cat": "Companies",
-    "tk": "TATA MOTORS",
-    "title": "How vulnerable are Tata Motors iRA apps to data theft?",
-    "summary": "A risk assessment by CERT-In reveals that Tata Motors iRA applications have vulnerabilities that could allow data theft, user impersonation, and unauthorized changes to app data. This warning highlights potential security risks regarding unauthorized access to sensitive information for users.",
-    "source": "Business Standard",
-    "published": "2026-11-05T05:43:16+00:00",
-    "ago": "44m",
-    "impact": "Negative",
-    "why": "Security flaws expose user data and system risks.",
-    "url": "https://www.business-standard.com/companies/news/tata-motors-ira-apps-vulnerable-to-data-theft-user-impersonation-cert-in-126110500606_1.html",
-    "chips": {},
-    "trend": [
-      0.95,
-      0.85,
-      0.7,
-      0.6,
-      0.4,
-      0.3,
-      0.1
-    ],
-    "color": "9B2C2C",
-    "premium": false,
-    "title_hi": "Tata Motors के iRA ऐप्स में डेटा चोरी का खतरा क्यों है?",
-    "summary_hi": "CERT-In के जोखिम आकलन से पता चलता है कि Tata Motors के iRA ऐप्स में ऐसी कमियां हैं जिनसे संवेदनशील डेटा चोरी हो सकता है, यूजर का रूप धरा जा सकता है और ऐप डेटा में अनधिकृत बदलाव किए जा सकते हैं।",
-    "why_hi": "सुरक्षा कमियों से यूजर डेटा को खतरा।",
-    "chips_hi": {},
-    "hi_tries": 0,
-    "hi_ver": 2
-  },
-  {
-    "v": 3,
-    "cat": "Companies",
-    "tk": "RAJESH POWER",
-    "title": "How Rajesh Power Secured a Rs 1,628.74-Crore DGVCL Cable Order",
-    "summary": "Rajesh Power has secured a massive order worth Rs 1,628.74 crore from DGVCL. The project involves converting existing 11/22 kV high-tension and low-tension overhead electricity distribution networks into underground cable systems. This infrastructure upgrade will transform traditional power lines into modern underground setups.",
-    "source": "Business Standard",
-    "published": "2026-11-05T05:41:56+00:00",
-    "ago": "45m",
-    "impact": "Positive",
-    "why": "Large order wins boost business growth.",
-    "url": "https://www.business-standard.com/companies/news/rajesh-power-bags-1-628-74-crore-order-from-dgvcl-for-underground-cables-126110500588_1.html",
-    "chips": {
-      "Order value": "Rs 1,628.74 crore"
-    },
-    "trend": [
-      0.1,
-      0.25,
-      0.2,
-      0.5,
-      0.45,
-      0.8,
-      0.95
-    ],
-    "color": "0F766E",
-    "premium": false,
-    "title_hi": "Rajesh Power को मिला DGVCL से ₹1,628.74 करोड़ का बड़ा ऑर्डर",
-    "summary_hi": "Rajesh Power को DGVCL से ₹1,628.74 करोड़ का बड़ा ऑर्डर मिला है। इस प्रोजेक्ट के तहत कंपनी मौजूदा 11/22 kV हाई-टेंशन और लो-टेंशन ओवरहेड बिजली वितरण नेटवर्क को अंडरग्राउंड केबल सिस्टम में बदलेगी। इससे बिजली वितरण प्रणाली में बड़ा बदलाव आएगा।",
-    "why_hi": "बड़ा ऑर्डर मिलने से कारोबार को बढ़ावा मिलेगा।",
-    "chips_hi": {
-      "ऑर्डर मूल्य": "₹1,628.74 करोड़"
-    },
-    "hi_tries": 0,
-    "hi_ver": 2
-  },
-  {
-    "v": 3,
-    "cat": "Companies",
-    "tk": "PEPSICO",
-    "title": "PepsiCo marketed beverages as energy drinks without standards, says FSSAI",
-    "summary": "Food regulator FSSAI informed the Delhi High Court that PepsiCo labels its Sting and Adrenaline Rush drinks as energy drinks even though official standards for this category do not exist. This practice misleads consumers, according to the regulatory authority.",
-    "source": "Business Standard",
-    "published": "2026-11-05T05:41:50+00:00",
-    "ago": "46m",
-    "impact": "Negative",
-    "why": "Regulatory criticism over misleading beverage marketing.",
-    "url": "https://www.business-standard.com/companies/news/pepsico-energy-drink-label-dupe-consumers-fssai-delhi-high-court-sting-126110500602_1.html",
-    "chips": {},
-    "trend": [
-      0.95,
-      0.85,
-      0.7,
-      0.6,
-      0.4,
-      0.3,
-      0.1
-    ],
-    "color": "9B2C2C",
-    "premium": false,
-    "title_hi": "बिना तय मानकों के एनर्जी ड्रिंक्स के रूप में बिक रहे पेप्सिको उत्पाद",
-    "summary_hi": "FSSAI ने दिल्ली हाईकोर्ट को बताया कि पेप्सिको अपने Sting और Adrenaline Rush ड्रिंक्स को एनर्जी ड्रिंक्स के रूप में बेच रही है, जबकि इस कैटेगरी के लिए कोई तय मानक नहीं हैं। नियामक के अनुसार, इससे उपभोक्ताओं को भ्रमित किया जा रहा है।",
-    "why_hi": "नियामक द्वारा भ्रामक विपणन पर आपत्ति।",
-    "chips_hi": {},
-    "hi_tries": 0,
-    "hi_ver": 2
-  },
-  {
-    "v": 3,
-    "cat": "Markets",
-    "tk": "HITACHI ENERGY",
-    "title": "Which three stocks are currently showing bullish technical signals?",
-    "summary": "An analyst from Teji Mandi Investment has pointed out that Hitachi Energy, KFin Technologies, and Jubilant FoodWorks are all displaying positive technical charts. Market participants are closely watching these shares following the recent market observations shared by the expert. Such technical patterns often draw attention from active traders tracking daily price movements.",
-    "source": "Business Standard",
-    "published": "2026-11-05T02:17:13+00:00",
-    "ago": "8m",
-    "impact": "Positive",
-    "why": "Analyst notes positive technical chart patterns.",
-    "url": "https://www.business-standard.com/markets/news/hitachi-energy-kfin-jubilant-food-flash-bullish-technical-signs-analyst-126110500084_1.html",
-    "chips": {},
-    "trend": [
-      0.1,
-      0.25,
-      0.2,
-      0.5,
-      0.45,
-      0.8,
-      0.95
-    ],
-    "color": "0F766E",
-    "premium": false,
-    "title_hi": "किन तीन शेयरों में तेजी के तकनीकी संकेत मिल रहे हैं?",
-    "summary_hi": "तेजी मंडी इन्वेस्टमेंट के एक एनालिस्ट के अनुसार, Hitachi Energy, KFin Technologies और Jubilant FoodWorks में तेजी के तकनीकी संकेत मिल रहे हैं। बाजार के जानकारों द्वारा इन शेयरों के चार्ट पैटर्न पर ध्यान दिया जा रहा है।",
-    "why_hi": "एनालिस्ट ने तेजी के तकनीकी संकेत बताए।",
-    "chips_hi": {},
-    "hi_tries": 0,
-    "hi_ver": 2
-  },
-  {
-    "v": 3,
-    "cat": "Markets",
-    "tk": "MARKETS",
-    "title": "What are the six major risks facing Dalal Street in Samvat 2083?",
-    "summary": "Analysts point out that the upcoming Indian stock market year will face testing times. Investors need to watch out for global macroeconomic pressures, geopolitical uncertainties, and domestic economic growth challenges as the new trading period begins.",
-    "source": "Business Standard",
-    "published": "2026-11-05T02:04:20+00:00",
-    "ago": "21m",
-    "impact": "Neutral",
-    "why": "Markets face multiple global and domestic risks.",
-    "url": "https://www.business-standard.com/markets/news/markets-in-samvat-2083-6-key-risks-d-st-should-watch-out-for-in-new-year-126110300749_1.html",
-    "chips": {},
-    "trend": [
-      0.5,
-      0.55,
-      0.45,
-      0.5,
-      0.47,
-      0.52,
-      0.5
-    ],
-    "color": "B7791F",
-    "premium": false,
-    "hi_tries": 2,
-    "hi_ver": 2
-  },
-  {
-    "v": 3,
-    "cat": "Markets",
-    "tk": "MARKETS",
-    "title": "Up to 570% rally: How 16 stocks lit up portfolios",
-    "summary": "Data from ACE Equity shows that a total of 16 stocks turned into multibaggers from the Nifty 500 universe during Samvat 2082. These equities recorded strong gains, with the highest rally reaching up to 570 percent, boosting investor portfolios during this specific trading period according to market records.",
-    "source": "Business Standard",
-    "published": "2026-11-05T01:59:48+00:00",
-    "ago": "26m",
-    "impact": "Positive",
-    "why": "Multibagger stocks boosted investor portfolios significantly",
-    "url": "https://www.business-standard.com/markets/news/up-to-570-rally-16-stocks-light-up-investors-portfolios-in-samvat-2082-126110400622_1.html",
-    "chips": {
-      "Top rally": "570%",
-      "Multibagger stocks": "16",
-      "Universe": "Nifty 500"
-    },
-    "trend": [
-      0.1,
-      0.25,
-      0.2,
-      0.5,
-      0.45,
-      0.8,
-      0.95
-    ],
-    "color": "0F766E",
-    "premium": false,
-    "title_hi": "570% तक की तेजी: 16 शेयरों ने पोर्टफोलियो में किया कमाल",
-    "summary_hi": "ACE Equity के आंकड़ों के अनुसार, Samvat 2082 में Nifty 500 यूनिवर्स से कुल 16 स्टॉक मल्टीबैगर बन गए। इन शेयरों ने मजबूत बढ़त दर्ज की, जिसमें सबसे अधिक तेजी 570 प्रतिशत तक दर्ज की गई, जिससे इस विशेष ट्रेडिंग अवधि के दौरान निवेशकों के पोर्टफोलियो को बढ़ावा मिला।",
-    "why_hi": "मल्टीबैगर शेयरों से निवेशकों के पोर्टफोलियो में भारी वृद्धि हुई।",
-    "chips_hi": {
-      "शीर्ष तेजी": "570%",
-      "मल्टीबैगर स्टॉक": "16",
-      "यूनिवर्स": "Nifty 500"
-    },
-    "hi_tries": 0,
-    "hi_ver": 2
-  },
-  {
-    "v": 3,
-    "cat": "Markets",
-    "tk": "MARKETS",
-    "title": "Will Sensex and Nifty face their worst year in 15 years?",
-    "summary": "The upcoming Samvat could bring stiff challenges for the markets, matching the trends of Samvat 2082, according to analysts. Experts warn that market conditions will likely stay difficult unless crude oil prices cool down and bond yields experience a decline.",
-    "source": "Business Standard",
-    "published": "2026-11-05T01:45:06+00:00",
-    "ago": "41m",
-    "impact": "Negative",
-    "why": "Crude prices and bond yields remain challenging.",
-    "url": "https://www.business-standard.com/markets/news/samvat-2082-sensex-nifty-set-to-post-worst-show-in-15-years-126110401954_1.html",
-    "chips": {},
-    "trend": [
-      0.95,
-      0.85,
-      0.7,
-      0.6,
-      0.4,
-      0.3,
-      0.1
-    ],
-    "color": "9B2C2C",
-    "premium": false,
-    "title_hi": "क्या Sensex और Nifty के लिए आ रहा है 15 साल का सबसे खराब दौर?",
-    "summary_hi": "विश्लेषकों का चेतावनी भरा कहना है कि आने वाला संवत बाजार के लिए काफी चुनौतीपूर्ण बना रहेगा। जब तक क्रूड ऑयल के दाम और बॉंड यील्ड नीचे नहीं आते, तब तक बाजार की यह मुश्किल स्थिति जारी रहने की आशंका है।",
-    "why_hi": "क्रूड ऑयल और बॉंड यील्ड से चुनौतियां।",
-    "chips_hi": {},
     "hi_tries": 0,
     "hi_ver": 2
   }
