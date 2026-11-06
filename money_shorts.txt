@@ -1,6 +1,193 @@
 [
   {
     "v": 3,
+    "cat": "Industry",
+    "tk": "INDUSTRY",
+    "title": "How falling gold prices boosted Dhanteras footfalls and sales",
+    "summary": "Jewellers witnessed strong customer footfalls and sales during Dhanteras as gold rates cooled down from previous highs. Consumer demand was further supported by wedding purchases, old gold exchanges, and a preference for lightweight jewellery items.",
+    "source": "Business Standard",
+    "published": "2026-11-06T14:13:40+00:00",
+    "ago": "15m",
+    "impact": "Positive",
+    "why": "Lower prices and wedding demand drove sales.",
+    "url": "https://www.business-standard.com/industry/news/correction-in-gold-prices-boosts-dhanteras-sales-footfalls-for-jewellers-126110601777_1.html",
+    "chips": {},
+    "trend": [
+      0.1,
+      0.25,
+      0.2,
+      0.5,
+      0.45,
+      0.8,
+      0.95
+    ],
+    "color": "0F766E",
+    "premium": false,
+    "title_hi": "Gold के भाव घटने से कैसे बढ़े धनतेरस के आंकड़े",
+    "summary_hi": "सोने की कीमतों में नरमी आने से धनतेरस पर ज्वैलर्स के यहां ग्राहकों की भारी भीड़ और बिक्री देखने को मिली। शादी की खरीदारी, पुराने सोने के एक्सचेंज और हल्के वजन की ज्वैलरी की मांग ने इस बिक्री को और बढ़ावा दिया।",
+    "why_hi": "कम कीमत और शादियों की मांग से बढ़ी बिक्री।",
+    "chips_hi": {}
+  },
+  {
+    "v": 3,
+    "cat": "Companies",
+    "tk": "COMPANIES",
+    "title": "Why did Bharti Airtel bring back its withdrawn prepaid plan?",
+    "summary": "Bharti Airtel has brought back its twenty eight day prepaid plan priced at two hundred ninety nine rupees. This step follows a slowdown in net customer additions during the second quarter of the twenty twenty six and twenty seven financial year.",
+    "source": "Business Standard",
+    "published": "2026-11-06T14:01:34+00:00",
+    "ago": "27m",
+    "impact": "Neutral",
+    "why": "Restoring plans after slower customer additions.",
+    "url": "https://www.business-standard.com/companies/news/airtel-restores-299-prepaid-plan-withdrawn-in-august-as-additions-slow-126110601758_1.html",
+    "chips": {
+      "Prepaid plan": "Rs 299",
+      "Validity": "28 days"
+    },
+    "trend": [
+      0.5,
+      0.55,
+      0.45,
+      0.5,
+      0.47,
+      0.52,
+      0.5
+    ],
+    "color": "B7791F",
+    "premium": false,
+    "title_hi": "Bharti Airtel ने बंद किया गया प्रीपेड प्लान वापस क्यों शुरू किया?",
+    "summary_hi": "Bharti Airtel ने Q2FY27 में ग्राहकों की संख्या में धीमी वृद्धि के बाद अपना 299 रुपये वाला प्रीपेड प्लान फिर से शुरू कर दिया है। इस प्लान की वैधता 28 दिन है। कंपनी अब औसत राजस्व बढ़ाने के लिए पोस्टपेड और यूजर अपग्रेड पर ध्यान केंद्रित कर रही है।",
+    "why_hi": "कम ग्राहक वृद्धि के बाद प्लान की वापसी",
+    "chips_hi": {
+      "प्रीपेड प्लान": "₹299",
+      "वैधता": "28 दिन"
+    }
+  },
+  {
+    "v": 3,
+    "cat": "Companies",
+    "tk": "ANGEL ONE",
+    "title": "How Angel One surpassed Zerodha to become India's second largest broker",
+    "summary": "Angel One has taken the second spot among Indian stock brokers after its active client base on the NSE climbed to 6.99 million in October. This growth allowed it to edge past Zerodha, which recorded 6.76 million clients. Meanwhile, Groww maintained its position at the top with a total of 13.75 million active clients.",
+    "source": "Business Standard",
+    "published": "2026-11-06T13:59:01+00:00",
+    "ago": "30m",
+    "impact": "Positive",
+    "why": "Higher client base increases market share.",
+    "url": "https://www.business-standard.com/companies/news/angel-one-overtakes-zerodha-to-become-2nd-largest-broker-by-active-clients-126110601754_1.html",
+    "chips": {
+      "Angel One clients": "6.99 million",
+      "Zerodha clients": "6.76 million",
+      "Groww clients": "13.75 million"
+    },
+    "trend": [
+      0.1,
+      0.25,
+      0.2,
+      0.5,
+      0.45,
+      0.8,
+      0.95
+    ],
+    "color": "0F766E",
+    "premium": false,
+    "hi_tries": 1
+  },
+  {
+    "v": 3,
+    "cat": "Earnings",
+    "tk": "ASTER DM QUALITY",
+    "title": "Aster DM Quality Care Q2 net profit more than doubles",
+    "summary": "Aster DM Quality Care reported a massive jump in its second quarter performance, with net profit more than doubling to ₹262 crore. The hospital chain generated ₹2,829 crore in revenue during the quarter. This financial growth was supported by increased patient volumes, better bed occupancy rates, a rise in complex medical procedures, and expanding medical value travel.",
+    "source": "Business Standard",
+    "published": "2026-11-06T13:58:08+00:00",
+    "ago": "31m",
+    "impact": "Positive",
+    "why": "Net profit more than doubled in Q2.",
+    "url": "https://www.business-standard.com/companies/quarterly-results/aster-dm-quality-care-q2-net-profit-more-than-doubles-to-262-crore-126110601753_1.html",
+    "chips": {
+      "Net profit": "₹262 crore",
+      "Revenue": "₹2,829 crore"
+    },
+    "trend": [
+      0.1,
+      0.25,
+      0.2,
+      0.5,
+      0.45,
+      0.8,
+      0.95
+    ],
+    "color": "0F766E",
+    "premium": false,
+    "title_hi": "Aster DM Quality Care का Q2 नेट प्रॉफिट दोगुने से ज्यादा हुआ",
+    "summary_hi": "अस्पताल श्रृंखला Aster DM Quality Care का दूसरी तिमाही में नेट प्रॉफिट दोगुने से ज्यादा बढ़कर ₹262 करोड़ हो गया है। कंपनी ने इस तिमाही में ₹2,829 करोड़ का राजस्व दर्ज किया। इस वित्तीय बढ़ोतरी के पीछे अधिक मरीज संख्या, बेहतर बेड ऑक्यूपेंसी, जटिल मेडिकल प्रक्रियाएं और मेडिकल वैल्यू ट्रैवल में वृद्धि मुख्य वजह रहे।",
+    "why_hi": "दूसरी तिमाही में नेट प्रॉफिट दोगुना हुआ।",
+    "chips_hi": {
+      "नेट प्रॉफिट": "₹262 करोड़",
+      "राजस्व": "₹2,829 करोड़"
+    }
+  },
+  {
+    "v": 3,
+    "cat": "Companies",
+    "tk": "TATA POWER",
+    "title": "Singapore court orders seizure and sale of Tata Power shares",
+    "summary": "A Singapore court directed the enforcement of arbitration awards in favor of Kleros. This legal step permits the seizure and sale of Tata Power shares held in two subsidiaries. The action stems from an ongoing dispute between the involved parties.",
+    "source": "Business Standard",
+    "published": "2026-11-06T13:53:00+00:00",
+    "ago": "36m",
+    "impact": "Negative",
+    "why": "Court ordered seizure of subsidiary shares.",
+    "url": "https://www.business-standard.com/companies/news/singapore-court-orders-seizure-sale-of-tata-power-s-subsidiary-shares-126110601737_1.html",
+    "chips": {},
+    "trend": [
+      0.95,
+      0.85,
+      0.7,
+      0.6,
+      0.4,
+      0.3,
+      0.1
+    ],
+    "color": "9B2C2C",
+    "premium": false,
+    "title_hi": "Singapore court का Tata Power के शेयर्स को कुर्क और बेचने का आदेश",
+    "summary_hi": "Singapore की अदालत ने Kleros के पक्ष में मध्यस्थता फैसलों को लागू करने का आदेश दिया है। इस कानूनी कदम से Tata Power की दो सहायक कंपनियों में रखे गए शेयरों को कुर्क करने और बेचने की अनुमति मिल गई है। यह कार्रवाई दोनों पक्षों के बीच चल रहे विवाद से जुड़ी है।",
+    "why_hi": "अदालत ने सहायक कंपनी के शेयर कुर्क करने को कहा।",
+    "chips_hi": {}
+  },
+  {
+    "v": 3,
+    "cat": "Companies",
+    "tk": "TATA SONS",
+    "title": "Bombay HC plea asks RBI to list Tata Sons",
+    "summary": "A new petition in the Bombay High Court asks for directions to force Tata Sons to list its shares on the stock market. The petitioners argue that the company needs to follow RBI listing rules. They also ask for Noel Tata to be removed from key roles, citing governance concerns and public interest.",
+    "source": "Business Standard",
+    "published": "2026-11-06T13:45:56+00:00",
+    "ago": "44m",
+    "impact": "Neutral",
+    "why": "Legal plea seeks listing and leadership changes.",
+    "url": "https://www.business-standard.com/companies/news/bombay-hc-plea-seeks-rbi-direction-for-tata-sons-stock-market-listing-126110601724_1.html",
+    "chips": {},
+    "trend": [
+      0.5,
+      0.55,
+      0.45,
+      0.5,
+      0.47,
+      0.52,
+      0.5
+    ],
+    "color": "B7791F",
+    "premium": false,
+    "title_hi": "Bombay HC में याचिका, Tata Sons को स्टॉक मार्केट में लिस्ट करने की मांग",
+    "summary_hi": "बॉम्बे हाईकोर्ट में एक याचिका दायर कर Tata Sons को स्टॉक मार्केट में लिस्ट कराने के लिए RBI को निर्देश देने की मांग की गई है। याचिकाकर्ताओं का तर्क है कि कंपनी को RBI के नियमों का पालन करना चाहिए। उन्होंने सार्वजनिक हित और गवर्नेंस चिंताओं का हवाला देते हुए Noel Tata को मुख्य पदों से हटाने की भी मांग की है।",
+    "why_hi": "कानूनी याचिका में लिस्टिंग और बदलाव की मांग।",
+    "chips_hi": {}
+  },
+  {
+    "v": 3,
     "cat": "Companies",
     "tk": "TECH MAHINDRA",
     "title": "How Tech Mahindra is raising its stake in Pininfarina",
@@ -32,7 +219,9 @@
     "chips_hi": {
       "वर्तमान हिस्सेदारी": "82.57%",
       "नई हिस्सेदारी": "92.59%"
-    }
+    },
+    "hi_tries": 0,
+    "hi_ver": 2
   },
   {
     "v": 3,
@@ -65,7 +254,9 @@
     "why_hi": "फार्मा शेयरों में मजबूत दो अंकों की तेजी।",
     "chips_hi": {
       "शेयर बढ़त": "9-20%"
-    }
+    },
+    "hi_tries": 0,
+    "hi_ver": 2
   },
   {
     "v": 3,
@@ -102,7 +293,9 @@
       "नेट प्रॉफिट": "₹7,533 करोड़",
       "रेवेन्यू": "₹92,651 करोड़",
       "प्रॉफिट बढ़त": "58.8 प्रतिशत"
-    }
+    },
+    "hi_tries": 0,
+    "hi_ver": 2
   },
   {
     "v": 3,
@@ -139,7 +332,9 @@
       "शुद्ध लाभ वृद्धि": "21.7%",
       "राजस्व वृद्धि": "28.5%",
       "स्टॉक स्प्लिट": "1:5"
-    }
+    },
+    "hi_tries": 0,
+    "hi_ver": 2
   },
   {
     "v": 3,
@@ -168,7 +363,9 @@
     "title_hi": "सरकार ने India-UK ट्रेड पैक्ट के लिए ड्यूटी कोटा आवेदन आमंत्रित किए",
     "summary_hi": "वाणिज्य मंत्रालय ने इंडिया-यूके कॉम्प्रिहेंसिव इकोनॉमिक एंड ट्रेड एग्रीमेंट के तहत ड्यूटी रियायतें पाने के लिए आयातकों से टैरिफ रेट कोटा आवेदन मांगे हैं। पैक्ट के जुलाई 2026 में लागू होने के बाद, पैसेंजर कारों जैसे चुनिंदा उत्पादों से जुड़े आयातक कैलेंडर वर्ष 2027 के लिए 6 नवंबर से 21 नवंबर 2026 के बीच आवेदन कर सकते हैं।",
     "why_hi": "नियमित व्यापार समझौता कोटा प्रक्रिया।",
-    "chips_hi": {}
+    "chips_hi": {},
+    "hi_tries": 0,
+    "hi_ver": 2
   },
   {
     "v": 3,
@@ -205,7 +402,9 @@
       "आईपीओ कीमत": "₹988",
       "स्टॉक तेजी": "54 प्रतिशत",
       "हालिया बढ़त": "20%"
-    }
+    },
+    "hi_tries": 0,
+    "hi_ver": 2
   },
   {
     "v": 3,
@@ -242,7 +441,9 @@
       "सक्रिय मिलें": "184",
       "महाराष्ट्र मिलें": "136",
       "चीनी उत्पादन": "1.078 मिलियन टन"
-    }
+    },
+    "hi_tries": 0,
+    "hi_ver": 2
   },
   {
     "v": 3,
@@ -372,7 +573,7 @@
     ],
     "color": "9B2C2C",
     "premium": false,
-    "hi_tries": 1,
+    "hi_tries": 2,
     "hi_ver": 2
   },
   {
@@ -618,230 +819,6 @@
     "why_hi": "निर्यात बढ़ने और घरेलू कीमतों का मिलाजुला असर।",
     "chips_hi": {
       "निर्यात मूल्य": "$69 मिलियन"
-    },
-    "hi_tries": 0,
-    "hi_ver": 2
-  },
-  {
-    "v": 3,
-    "cat": "Markets",
-    "tk": "MARKETS",
-    "title": "Markets surge as Nifty jumps 2.4% on foreign inflows",
-    "summary": "Indian markets saw strong gains as the Nifty rose 2.4 percent and the Sensex climbed 2.6 percent. Lower crude prices and heavy foreign fund inflows supported financial and auto stocks, helping offset record selling by domestic institutional investors alongside gains in the rupee and easing bond yields.",
-    "source": "Business Standard",
-    "published": "2026-11-05T18:25:18+00:00",
-    "ago": "8h",
-    "impact": "Positive",
-    "why": "Strong foreign inflows and lower crude prices.",
-    "url": "https://www.business-standard.com/markets/news/early-diwali-cheer-markets-see-fireworks-rupee-rises-bond-yields-ease-126110502021_1.html",
-    "chips": {
-      "Nifty rise": "2.4%",
-      "Nifty level": "24,536.60",
-      "Sensex gain": "2.6%"
-    },
-    "trend": [
-      0.1,
-      0.25,
-      0.2,
-      0.5,
-      0.45,
-      0.8,
-      0.95
-    ],
-    "color": "0F766E",
-    "premium": false,
-    "title_hi": "विदेशी निवेश और कम कच्चे तेल से बाजार में तेजी",
-    "summary_hi": "विदेशी निवेशकों के मजबूत निवेश और कच्चे तेल के कम दामों के चलते शेयर बाजार में तेजी आई। निफ्टी 2.4 प्रतिशत बढ़कर 24,536.60 पर पहुंच गया और सेंसेक्स में 2.6 प्रतिशत की बढ़त दर्ज हुई। घरेलू संस्थागत निवेशकों की भारी बिकवाली के बावजूद वित्तीय और ऑटो शेयरों को समर्थन मिला।",
-    "why_hi": "विदेशी निवेश और कच्चे तेल की कम कीमतें।",
-    "chips_hi": {
-      "निफ्टी बढ़त": "2.4%",
-      "निफ्टी स्तर": "24,536.60",
-      "सेंसेक्स बढ़त": "2.6%"
-    },
-    "hi_tries": 0,
-    "hi_ver": 2
-  },
-  {
-    "v": 3,
-    "cat": "Earnings",
-    "tk": "COMPANIES",
-    "title": "How did Britannia Industries boost its September quarter net profit?",
-    "summary": "Bakery food company Britannia Industries reported an 10.8 percent increase in consolidated net profit to Rs 725.99 crore for the September quarter of FY27, driven by volume growth. Revenue from the sale of products rose 16.6 percent to Rs 5,541.57 crore, while total expenses increased by 17 percent compared to the same period previously.",
-    "source": "Business Standard / Press Trust of India",
-    "published": "2026-11-05T18:18:05+00:00",
-    "ago": "8h",
-    "impact": "Positive",
-    "why": "Higher net profit and rising product revenue.",
-    "url": "https://www.business-standard.com/companies/quarterly-results/britannia-q2-net-profit-rises-10-8-to-726-crore-on-volume-growth-126110501905_1.html",
-    "chips": {
-      "Net profit": "Rs 725.99 crore",
-      "Product revenue": "Rs 5,541.57 crore",
-      "Volume growth": "13 per cent"
-    },
-    "trend": [
-      0.1,
-      0.25,
-      0.2,
-      0.5,
-      0.45,
-      0.8,
-      0.95
-    ],
-    "color": "0F766E",
-    "premium": false,
-    "title_hi": "Britannia Industries का सितंबर तिमाही में शुद्ध लाभ कैसे बढ़ा?",
-    "summary_hi": "बेकरी फूड कंपनी Britannia Industries Ltd ने सितंबर तिमाही में वॉल्यूम ग्रोथ के दम पर कंसोलिडेटेड शुद्ध लाभ में 10.8 प्रतिशत की बढ़ोतरी दर्ज की, जिससे यह ₹725.99 करोड़ पहुंच गया। उत्पादों की बिक्री से होने वाला राजस्व 16.6 प्रतिशत बढ़कर ₹5,541.57 करोड़ हो गया, जबकि कुल खर्च में 17 प्रतिशत की वृद्धि हुई।",
-    "why_hi": "अधिक शुद्ध लाभ और बढ़ता हुआ राजस्व।",
-    "chips_hi": {
-      "शुद्ध लाभ": "₹725.99 करोड़",
-      "उत्पाद राजस्व": "₹5,541.57 करोड़",
-      "वॉल्यूम ग्रोथ": "13 प्रतिशत"
-    },
-    "hi_tries": 0,
-    "hi_ver": 2
-  },
-  {
-    "v": 3,
-    "cat": "Markets",
-    "tk": "MARKETS",
-    "title": "Could the Reserve Bank of India hike rates further?",
-    "summary": "Uday Kotak anticipates further repo rate increases by the Reserve Bank of India and highlights extended risks in the Middle East. Despite these challenges, he believes Indian equities remain in a strong position to draw foreign investment.",
-    "source": "Business Standard",
-    "published": "2026-11-05T18:17:04+00:00",
-    "ago": "8h",
-    "impact": "Neutral",
-    "why": "Interest rate hikes and equity positioning discussed.",
-    "url": "https://www.business-standard.com/markets/news/reserve-bank-of-india-may-hike-rates-by-up-to-75-bps-more-uday-kotak-126110501915_1.html",
-    "chips": {
-      "Rate hike": "50-75 bps"
-    },
-    "trend": [
-      0.5,
-      0.55,
-      0.45,
-      0.5,
-      0.47,
-      0.52,
-      0.5
-    ],
-    "color": "B7791F",
-    "premium": false,
-    "title_hi": "क्या Reserve Bank of India और बढ़ा सकता है दरें?",
-    "summary_hi": "उदय कोटक का अनुमान है कि Reserve Bank of India रेपो रेट में और बढ़ोतरी कर सकता है और उन्होंने मध्य पूर्व के लंबे समय तक रहने वाले जोखिमों के प्रति आगाह किया है। इसके बावजूद, उनका मानना है कि भारतीय इक्विटी विदेशी निवेशकों को आकर्षित करने के लिए अच्छी स्थिति में हैं।",
-    "why_hi": "ब्याज दरों में बढ़ोतरी और बाजार की स्थिति।",
-    "chips_hi": {
-      "रेट बढ़ोतरी": "50-75 bps"
-    },
-    "hi_tries": 0,
-    "hi_ver": 2
-  },
-  {
-    "v": 3,
-    "cat": "Finance",
-    "tk": "FINANCE",
-    "title": "Is gold's 30% correction ahead of Dhanteras a value opportunity?",
-    "summary": "Gold has reached Rs 1.4 lakh ahead of Dhanteras, leading Monarch to identify long-term value despite a 30% correction. Market watchers are evaluating the metal's pricing trends as festive demand approaches, focusing on the potential for sustained growth in holdings over time.",
-    "source": "Business Standard",
-    "published": "2026-11-05T10:14:12+00:00",
-    "ago": "13m",
-    "impact": "Positive",
-    "why": "Monarch sees long-term value in gold.",
-    "url": "https://www.business-standard.com/finance/personal-finance/dhanteras-2026-is-gold-s-30-correction-a-buying-opportunity-for-you-126110501142_1.html",
-    "chips": {
-      "Correction": "30%",
-      "Gold price": "Rs 1.4 lakh"
-    },
-    "trend": [
-      0.1,
-      0.25,
-      0.2,
-      0.5,
-      0.45,
-      0.8,
-      0.95
-    ],
-    "color": "0F766E",
-    "premium": false,
-    "title_hi": "क्या धनतेरस से पहले सोने में 30% गिरावट एक मौका है?",
-    "summary_hi": "धनतेरस से पहले सोना 1.4 लाख रुपये पर पहुंच गया है, जिसके बाद Monarch ने 30% की गिरावट के बावजूद इसमें लॉन्ग-टर्म वैल्यू देखी है। त्योहारी मांग के नजदीक आने के साथ बाजार विशेषज्ञ सोने की कीमतों के रुझान और इसके संभावित विकास का आकलन कर रहे हैं।",
-    "why_hi": "Monarch ने सोने में लॉन्ग-टर्म वैल्यू देखी।",
-    "chips_hi": {
-      "गिरावट": "30%",
-      "सोने की कीमत": "₹1.4 लाख"
-    },
-    "hi_tries": 0,
-    "hi_ver": 2
-  },
-  {
-    "v": 3,
-    "cat": "Economy",
-    "tk": "ECONOMY",
-    "title": "India funds up to 50% of deepwater oil well costs",
-    "summary": "The government is launching a special licensing round for deepwater oil and gas blocks through the Samudra Manthan programme. It offers monthly bidding windows, relaxed fiscal terms, and up to 50 percent funding of eligible exploratory well costs to lower entry barriers and accelerate offshore exploration in frontier basins.",
-    "source": "Business Standard / Press Trust of India",
-    "published": "2026-11-05T10:10:23+00:00",
-    "ago": "17m",
-    "impact": "Positive",
-    "why": "Government funding and relaxed terms boost exploration.",
-    "url": "https://www.business-standard.com/economy/news/india-opens-deepwater-oil-gas-bids-offers-to-fund-up-to-50-of-well-costs-126110501068_1.html",
-    "chips": {
-      "Programme cost": "Rs 84,084-crore"
-    },
-    "trend": [
-      0.1,
-      0.25,
-      0.2,
-      0.5,
-      0.45,
-      0.8,
-      0.95
-    ],
-    "color": "0F766E",
-    "premium": false,
-    "title_hi": "भारत डीपवाटर ऑयल वेल के 50 प्रतिशत तक खर्च का करेगा वित्तपोषण",
-    "summary_hi": "सरकार समुद्र मंथन कार्यक्रम के तहत डीपवाटर और अल्ट्रा-डीपवाटर ऑयल और गैस ब्लॉक के लिए एक विशेष लाइसेंसिंग दौर शुरू कर रही है। इसमें मासिक बोली खिड़की, ढील दिए गए वित्तीय नियम और पात्र खोजपूर्ण कुएं की लागत का 50 प्रतिशत तक वित्तपोषण शामिल है, जिसका उद्देश्य प्रवेश बाधाओं को कम करना और अपतटीय खोज को तेज करना है।",
-    "why_hi": "सरकारी वित्तपोषण और नियमों में ढील से खोज बढ़ेगी।",
-    "chips_hi": {
-      "कार्यक्रम लागत": "₹84,084 करोड़"
-    },
-    "hi_tries": 0,
-    "hi_ver": 2
-  },
-  {
-    "v": 3,
-    "cat": "Companies",
-    "tk": "IIFL CAPITAL",
-    "title": "Fairfax India boosts stake in IIFL Capital to 38 percent",
-    "summary": "Fairfax India Holdings Corporation has increased its ownership in IIFL Capital to thirty-eight percent following an investment of two thousand crore rupees. The affiliate acquired over eleven percent more through a preferential allotment of equity shares at three hundred fifty rupees each. These newly allotted shares remain without voting rights until the completion of the open offer.",
-    "source": "Business Standard / Press Trust of India",
-    "published": "2026-11-05T10:05:24+00:00",
-    "ago": "26m",
-    "impact": "Positive",
-    "why": "Significant strategic investment increases major stakeholder",
-    "url": "https://www.business-standard.com/companies/news/fairfax-india-raises-stake-in-iifl-capital-to-38-with-2-000-cr-investment-126110501023_1.html",
-    "chips": {
-      "Investment": "Rs 2,000 crore",
-      "New stake": "38.04 per cent",
-      "Share price": "Rs 350"
-    },
-    "trend": [
-      0.1,
-      0.25,
-      0.2,
-      0.5,
-      0.45,
-      0.8,
-      0.95
-    ],
-    "color": "0F766E",
-    "premium": false,
-    "title_hi": "Fairfax India ने IIFL Capital में हिस्सेदारी बढ़ाई",
-    "summary_hi": "Fairfax India Holdings Corporation ने दो हजार करोड़ रुपये के निवेश के बाद IIFL Capital में अपनी हिस्सेदारी बढ़ाकर अड़तीस प्रतिशत कर ली है। इसकी सहयोगी इकाई ने तीन सौ पचास रुपये प्रति शेयर की दर से तरजीही आधार पर शेयर प्राप्त करके ग्यारह प्रतिशत से अधिक अतिरिक्त हिस्सेदारी हासिल की है। खुली पेशकश पूरी होने तक इन नए शेयरों में मतदान अधिकार नहीं होंगे।",
-    "why_hi": "बड़ी हिस्सेदारी और निवेश से समर्थन बढ़ा।",
-    "chips_hi": {
-      "निवेश": "₹2,000 करोड़",
-      "नई हिस्सेदारी": "38.04 प्रतिशत",
-      "शेयर मूल्य": "₹350"
     },
     "hi_tries": 0,
     "hi_ver": 2
