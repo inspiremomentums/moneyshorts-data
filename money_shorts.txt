@@ -3,6 +3,98 @@
     "v": 3,
     "cat": "Markets",
     "tk": "MARKETS",
+    "title": "Should India scrap capital gains tax for foreign investors?",
+    "summary": "Edelweiss Financial Services Chairman Rashesh Shah suggested that eliminating capital gains tax for foreign portfolio investors could revive equity inflows and support the rupee. This proposal comes during a period of heavy selling by overseas investors in the Indian market.",
+    "source": "Business Standard / Bloomberg",
+    "published": "2026-11-07T05:11:08+00:00",
+    "ago": "57m",
+    "impact": "Neutral",
+    "why": "Suggestion offered to revive foreign fund inflows.",
+    "url": "https://www.business-standard.com/markets/news/india-should-scrap-equity-tax-on-foreign-investors-says-edelweiss-chief-126110700243_1.html",
+    "chips": {},
+    "trend": [
+      0.5,
+      0.55,
+      0.45,
+      0.5,
+      0.47,
+      0.52,
+      0.5
+    ],
+    "color": "B7791F",
+    "premium": false,
+    "title_hi": "क्या भारत को विदेशी निवेशकों पर कैपिटल गेन टैक्स हटाना चाहिए?",
+    "summary_hi": "Edelweiss Financial Services के चेयरमैन रशेष शाह ने सुझाव दिया है कि विदेशी पोर्टफोलियो निवेशकों के लिए कैपिटल गेन टैक्स हटाने से इक्विटी में निवेश बढ़ाने और रुपये को सहारा मिलने में मदद मिल सकती है। यह सुझाव विदेशी निवेशकों की भारी बिकवाली के बीच आया है।",
+    "why_hi": "विदेशी फंड प्रवाह को पुनर्जीवित करने का सुझाव।",
+    "chips_hi": {}
+  },
+  {
+    "v": 3,
+    "cat": "Industry",
+    "tk": "INDUSTRY",
+    "title": "How many days will banks remain closed during Diwali next week?",
+    "summary": "As Dhanteras marks the start of the five-day Diwali festival period, bank customers are advised to check their local holiday calendars before visiting any branch next week. Since holiday schedules can vary by region, checking in advance helps customers plan their visits properly during the festive week.",
+    "source": "Business Standard / BS Rich Content",
+    "published": "2026-11-07T05:04:56+00:00",
+    "ago": "1h",
+    "impact": "Neutral",
+    "why": "Routine festival bank holiday advisory.",
+    "url": "https://www.business-standard.com/industry/banking/diwali-2026-bank-holidays-how-many-days-will-banks-be-closed-next-week-nc-126110601344_1.html",
+    "chips": {},
+    "trend": [
+      0.5,
+      0.55,
+      0.45,
+      0.5,
+      0.47,
+      0.52,
+      0.5
+    ],
+    "color": "B7791F",
+    "premium": false,
+    "hi_tries": 1,
+    "title_hi": "दीवाली पर अगले हफ्ते कितने दिन बंद रहेंगे बैंक?",
+    "summary_hi": "धनतेरस के साथ दीवाली का पाँच दिवसीय त्योहार शुरू हो रहा है। ऐसे में ग्राहकों को सलाह दी जाती है कि वे बैंक जाने से पहले अपने यहाँ की छुट्टियों की सूची जरूर देख लें। अलग-अलग राज्यों में छुट्टियाँ अलग हो सकती हैं, जिससे आपको त्योहार के दौरान काम निपटाने में आसानी होगी।",
+    "why_hi": "Routine festival bank holiday advisory.",
+    "chips_hi": {}
+  },
+  {
+    "v": 3,
+    "cat": "Markets",
+    "tk": "MARKETS",
+    "title": "Wall Street rebounds as chip stocks rally after heavy selloff",
+    "summary": "Wall Street indexes closed higher, driven by a rebound in technology and semiconductor shares. The Philadelphia Semiconductor Index advanced by 4.2 percent following a prior selloff linked to artificial intelligence. Despite this daily recovery, all three major US indexes ended the week with losses.",
+    "source": "Business Standard / Reuters",
+    "published": "2026-11-07T02:54:16+00:00",
+    "ago": "3h",
+    "impact": "Positive",
+    "why": "Semiconductor stocks gained 4.2 percent.",
+    "url": "https://www.business-standard.com/markets/news/wall-street-rebounds-as-chip-stocks-rally-after-heavy-ai-related-selloff-126110700047_1.html",
+    "chips": {
+      "Philadelphia Semicon": "4.2%"
+    },
+    "trend": [
+      0.1,
+      0.25,
+      0.2,
+      0.5,
+      0.45,
+      0.8,
+      0.95
+    ],
+    "color": "0F766E",
+    "premium": false,
+    "title_hi": "भारी बिकवाली के बाद चिप शेयरों में तेजी से वॉल स्ट्रीट में सुधार",
+    "summary_hi": "वॉल स्ट्रीट के सूचकांक टेक्नोलॉजी और सेमीकंडक्टर शेयरों में तेजी के साथ ऊपर बंद हुए। आर्टिफिशियल इंटेलिजेंस से जुड़ी बिकवाली के बाद फिलाडेल्फिया सेमीकंडक्टर इंडेक्स में 4.2 प्रतिशत की बढ़त दर्ज की गई। हालांकि, इस दैनिक सुधार के बावजूद तीनों प्रमुख अमेरिकी सूचकांक साप्ताहिक आधार पर नुकसान में रहे।",
+    "why_hi": "सेमीकंडक्टर शेयरों में 4.2 प्रतिशत की तेजी।",
+    "chips_hi": {
+      "फिलाडेल्फिया सेमीकंड": "4.2%"
+    }
+  },
+  {
+    "v": 3,
+    "cat": "Markets",
+    "tk": "MARKETS",
     "title": "Weakest Samvat in 15 years ends with a late market rally",
     "summary": "Domestic markets concluded Samvat 2082 with overall losses of 4 percent for the Sensex and 3.1 percent for the Nifty, marking the weakest Samvat performance in 15 years. This decline occurred despite a strong late rally that resulted in the largest weekly gains for both indices in nearly six years.",
     "source": "Business Standard",
@@ -32,7 +124,9 @@
     "chips_hi": {
       "Sensex गिरावट": "4%",
       "Nifty गिरावट": "3.1%"
-    }
+    },
+    "hi_tries": 0,
+    "hi_ver": 2
   },
   {
     "v": 3,
@@ -61,7 +155,9 @@
     "title_hi": "भारतीय बाजार ने छह साल में दर्ज की सबसे बेहतरीन साप्ताहिक बढ़त",
     "summary_hi": "दिवाली के इस हफ्ते भारतीय बेंचमार्क सूचकांकों ने छह साल में अपना सबसे मजबूत साप्ताहिक प्रदर्शन दर्ज किया। एशियाई बाजारों के मुकाबले भारतीय करेंसी में मजबूती देखने को मिली। वहीं, अंतरराष्ट्रीय कच्चे तेल की कीमतों में महामारी के बाद से सबसे बड़ी साप्ताहिक गिरावट दर्ज की गई।",
     "why_hi": "बाजार में तेजी और मजबूत करेंसी प्रदर्शन।",
-    "chips_hi": {}
+    "chips_hi": {},
+    "hi_tries": 0,
+    "hi_ver": 2
   },
   {
     "v": 3,
@@ -94,7 +190,9 @@
     "why_hi": "संभावित जोखिमों के खिलाफ एहतियाती कदम उठाया गया।",
     "chips_hi": {
       "बफर राशि": "₹100 करोड़"
-    }
+    },
+    "hi_tries": 0,
+    "hi_ver": 2
   },
   {
     "v": 3,
@@ -123,7 +221,9 @@
     "title_hi": "कंज्यूमर कमीशन के फैसले से बैंक लॉकर के जोखिम कैसे सामने आए?",
     "summary_hi": "यूनियन बैंक के खिलाफ कंज्यूमर कमीशन के फैसले से पता चलता है कि ग्राहक बैंक लॉकर में रखे सामान को कैसे सुरक्षित रख सकते हैं। वित्तीय नुकसान से बचने के लिए सही दस्तावेज, सरेंडर रसीद, बीमा और समय पर शिकायत करना जरूरी है।",
     "why_hi": "बैंक लॉकर के लिए उपभोक्ता सुरक्षा उपायों को उजागर करता है।",
-    "chips_hi": {}
+    "chips_hi": {},
+    "hi_tries": 0,
+    "hi_ver": 2
   },
   {
     "v": 3,
@@ -158,7 +258,9 @@
     "chips_hi": {
       "हिस्सेदारी": "51%",
       "निवेश": "₹35 करोड़"
-    }
+    },
+    "hi_tries": 0,
+    "hi_ver": 2
   },
   {
     "v": 3,
@@ -187,7 +289,38 @@
     "title_hi": "क्या इस Samvat बड़ी कंपनियां उद्यमियों की तरह सोचना सीख सकती हैं?",
     "summary_hi": "नए Samvat की शुरुआत के साथ, बड़ी कंपनियों को उद्यमी सोच अपनाने की सलाह दी गई है। सिर्फ बजट और अनुमानों पर निर्भर रहने के बजाय, व्यवसायों को नवाचार को बढ़ावा देना चाहिए और अनिश्चितता से निपटने के लिए आवश्यक फुर्ती विकसित करनी चाहिए।",
     "why_hi": "कंपनी के वित्तीय नतीजे नहीं दिए गए हैं।",
-    "chips_hi": {}
+    "chips_hi": {},
+    "hi_tries": 0,
+    "hi_ver": 2
+  },
+  {
+    "v": 3,
+    "cat": "Industry",
+    "tk": "SBI",
+    "title": "IFC extends $150 mn loan to SBI to expand farm credit among rural women",
+    "summary": "The International Finance Corporation has provided a loan of $150 million to SBI. This funding aims to boost farm credit for rural women across various agricultural value chains. A large portion of this financing will specifically support women borrowers connected through self-help groups in rural areas.",
+    "source": "Business Standard",
+    "published": "2026-11-06T15:33:22+00:00",
+    "ago": "14h",
+    "impact": "Positive",
+    "why": "Expands rural credit access for women.",
+    "url": "https://www.business-standard.com/industry/banking/ifc-extends-150-mn-loan-to-sbi-to-expand-farm-credit-among-rural-women-126110601913_1.html",
+    "chips": {
+      "Loan amount": "$150 million",
+      "Beneficiaries": "864,000 rural women"
+    },
+    "trend": [
+      0.1,
+      0.25,
+      0.2,
+      0.5,
+      0.45,
+      0.8,
+      0.95
+    ],
+    "color": "0F766E",
+    "premium": false,
+    "hi_tries": 1
   },
   {
     "v": 3,
@@ -285,7 +418,7 @@
     ],
     "color": "0F766E",
     "premium": false,
-    "hi_tries": 1,
+    "hi_tries": 2,
     "hi_ver": 2
   },
   {
@@ -681,135 +814,6 @@
       "मार्केट कैप": "₹10.96 लाख करोड़",
       "शेयर तेजी": "10%",
       "अवधि": "4 दिन"
-    },
-    "hi_tries": 0,
-    "hi_ver": 2
-  },
-  {
-    "v": 3,
-    "cat": "Finance",
-    "tk": "AIR INDIA",
-    "title": "How daily shopping can now pay for your next flight",
-    "summary": "Air India has announced that everyday purchases can help customers earn Maharaja Points. These collected points are now available to be redeemed for award flights as well as cabin upgrades with the airline, giving regular shoppers a new way to save on future travel expenses through their routine spending habits.",
-    "source": "Business Standard",
-    "published": "2026-11-06T06:05:00+00:00",
-    "ago": "18m",
-    "impact": "Positive",
-    "why": "Rewards boost customer loyalty and service usage.",
-    "url": "https://www.business-standard.com/finance/personal-finance/air-india-loyalty-points-everyday-shopping-can-pay-for-your-next-flight-126110600630_1.html",
-    "chips": {},
-    "trend": [
-      0.1,
-      0.25,
-      0.2,
-      0.5,
-      0.45,
-      0.8,
-      0.95
-    ],
-    "color": "0F766E",
-    "premium": false,
-    "title_hi": "रोजमर्रा की खरीदारी से कैसे मिल सकते हैं मुफ्त फ्लाइट टिकट",
-    "summary_hi": "एयर इंडिया ने घोषणा की है कि ग्राहक रोजमर्रा की खरीदारी के जरिए महाराजा पॉइंट्स कमा सकते हैं। इन इकट्ठे किए गए पॉइंट्स को एयरलाइन पर अवॉर्ड उड़ानों और केबिन अपग्रेड के लिए भुनाया जा सकता है, जिससे यात्रियों को अपने नियमित खर्चों के माध्यम से भविष्य की यात्रा पर बचत करने का नया मौका मिलता है।",
-    "why_hi": "रिवार्ड्स से ग्राहकों की संख्या और सेवा उपयोग बढ़ता है।",
-    "chips_hi": {},
-    "hi_tries": 0,
-    "hi_ver": 2
-  },
-  {
-    "v": 3,
-    "cat": "Companies",
-    "tk": "HPCL",
-    "title": "Why is HPCL facing trouble booking crude oil tankers?",
-    "summary": "HPCL is finding it difficult to secure crude shipments from the Persian Gulf due to vessel availability issues. Shipowners are also making last-minute withdrawals from voyages, creating hurdles for the company in booking tankers for crude transport through the Strait of Hormuz, according to Chairman Vikas Kaushal.",
-    "source": "Business Standard / Bloomberg",
-    "published": "2026-11-06T06:02:50+00:00",
-    "ago": "20m",
-    "impact": "Negative",
-    "why": "Crude shipment hurdles can disrupt operations.",
-    "url": "https://www.business-standard.com/companies/news/hpcl-struggles-to-book-tankers-for-crude-shipments-via-strait-of-hormuz-126110600624_1.html",
-    "chips": {},
-    "trend": [
-      0.95,
-      0.85,
-      0.7,
-      0.6,
-      0.4,
-      0.3,
-      0.1
-    ],
-    "color": "9B2C2C",
-    "premium": false,
-    "title_hi": "HPCL को Strait of Hormuz से कच्चा तेल लाने में क्यों आ रही है मुश्किल?",
-    "summary_hi": "चेयरमैन विकास कौशल के अनुसार, जहाजों की उपलब्धता में कमी और शिप ओनर्स द्वारा अंतिम समय पर यात्रा रद्द करने के कारण HPCL को Persian Gulf से कच्चे तेल के कार्गो सुरक्षित करने में परेशानी का सामना करना पड़ रहा है।",
-    "why_hi": "कच्चे तेल के नौवहन में बाधा आ रही है।",
-    "chips_hi": {},
-    "hi_tries": 0,
-    "hi_ver": 2
-  },
-  {
-    "v": 3,
-    "cat": "Earnings",
-    "tk": "LIC",
-    "title": "LIC shares drop 4 percent despite rising net profit",
-    "summary": "Shares of LIC fell four percent following the second quarter financial results. The insurance major posted a 20.12 percent year on year rise in net profit, reaching Rs 12,076 crore for the quarter. However, the value of new business missed market estimates and the annualized premium equivalent growth stayed weak during the period.",
-    "source": "Business Standard",
-    "published": "2026-11-06T05:57:41+00:00",
-    "ago": "25m",
-    "impact": "Negative",
-    "why": "Weak growth and missed estimates lowered shares.",
-    "url": "https://www.business-standard.com/markets/news/lic-shares-fall-4-as-q2-vnb-misses-estimates-ape-growth-remains-weak-126110600611_1.html",
-    "chips": {
-      "Net profit rise": "20.12%",
-      "Net profit": "Rs 12,076 crore"
-    },
-    "trend": [
-      0.95,
-      0.85,
-      0.7,
-      0.6,
-      0.4,
-      0.3,
-      0.1
-    ],
-    "color": "9B2C2C",
-    "premium": false,
-    "hi_tries": 2,
-    "hi_ver": 2
-  },
-  {
-    "v": 3,
-    "cat": "Markets",
-    "tk": "GROWW",
-    "title": "Why did Groww shares fall 7 percent today?",
-    "summary": "Groww shares fell 7 percent after a nine-day winning streak following multiple block deals on the NSE. Data from Bloomberg showed that 1.41 percent of the total equity changed hands during these transactions, involving over eight crore shares.",
-    "source": "Business Standard",
-    "published": "2026-11-06T05:40:53+00:00",
-    "ago": "42m",
-    "impact": "Negative",
-    "why": "Block deals caused shares to drop.",
-    "url": "https://www.business-standard.com/markets/news/groww-shares-snap-9-day-winning-streak-fall-7-on-multiple-block-deals-126110600592_1.html",
-    "chips": {
-      "Equity traded": "1.41 per cent",
-      "Shares traded": "88,524,639"
-    },
-    "trend": [
-      0.95,
-      0.85,
-      0.7,
-      0.6,
-      0.4,
-      0.3,
-      0.1
-    ],
-    "color": "9B2C2C",
-    "premium": false,
-    "title_hi": "Groww के शेयर 7 प्रतिशत क्यों गिरे?",
-    "summary_hi": "NSE पर कई ब्लॉक डील होने के बाद Groww के शेयरों में लगातार नौ दिन की तेजी थम गई और ये 7 प्रतिशत गिर गए। आंकड़ों के अनुसार, कुल इक्विटी का 1.41 प्रतिशत हिस्सा इन ब्लॉक डील के जरिए बदला गया।",
-    "why_hi": "ब्लॉक डील के कारण शेयर गिरे।",
-    "chips_hi": {
-      "इक्विटी ट्रेड": "1.41 प्रतिशत",
-      "ट्रेडेड शेयर": "88,524,639"
     },
     "hi_tries": 0,
     "hi_ver": 2
