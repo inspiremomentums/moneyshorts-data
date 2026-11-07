@@ -1,6 +1,183 @@
 [
   {
     "v": 3,
+    "cat": "Companies",
+    "tk": "GROWW",
+    "title": "Major investors sell 1.84% stake in Groww for ₹2,457 crore",
+    "summary": "Peak XV Partners, Y Combinator and Goldman Sachs sold over 11.52 crore shares of Billionbrains Garage Ventures, Groww's parent company, in bulk deals. The transactions occurred in the price range of Rs 211.09 to 215.20 per share on the BSE and NSE. Meanwhile, Goldman Sachs also purchased 3.55 crore shares.",
+    "source": "Business Standard / Press Trust of India",
+    "published": "2026-11-07T13:07:34+00:00",
+    "ago": "1h",
+    "impact": "Neutral",
+    "why": "Routine stake sales by existing institutional investors.",
+    "url": "https://www.business-standard.com/companies/news/three-investors-offload-1-84-stake-in-groww-for-2-457-crore-in-bulk-deals-126110701037_1.html",
+    "chips": {
+      "Deal value": "Rs 2,457 crore",
+      "Stake sold": "1.84%",
+      "Shares sold": "11.52 crore"
+    },
+    "trend": [
+      0.5,
+      0.55,
+      0.45,
+      0.5,
+      0.47,
+      0.52,
+      0.5
+    ],
+    "color": "B7791F",
+    "premium": false,
+    "title_hi": "Groww में बड़े निवेशकों ने 2,457 करोड़ रुपये में बेची हिस्सेदारी",
+    "summary_hi": "Peak XV Partners, Y Combinator और Goldman Sachs ने bulk deals के जरिए Groww की पैरेट कंपनी Billionbrains Garage Ventures में 1.84 प्रतिशत हिस्सेदारी बेची है। बीएसई और एनएसई के डेटा के अनुसार यह सौदा 211.09 से 215.20 रुपये प्रति शेयर के भाव पर हुआ। इस बीच, Goldman Sachs ने कुछ शेयर खरीदे भी हैं।",
+    "why_hi": "संस्थागत निवेशकों द्वारा नियमित हिस्सेदारी की बिक्री।",
+    "chips_hi": {
+      "डील वैल्यू": "₹2,457 करोड़",
+      "बेची गई हिस्सेदारी": "1.84%",
+      "बेचे गए शेयर": "11.52 करोड़"
+    }
+  },
+  {
+    "v": 3,
+    "cat": "Companies",
+    "tk": "LENSKART",
+    "title": "SoftBank sells Lenskart stake for 1896 crore as Goldman buys",
+    "summary": "SoftBank offloaded a 1.56 percent stake in Lenskart through an affiliate company. The shares were sold in ten tranches at an average price of 697.15 rupees each on Friday. Goldman Sachs emerged as the biggest buyer in this large transaction.",
+    "source": "Business Standard / Press Trust of India",
+    "published": "2026-11-07T12:47:40+00:00",
+    "ago": "1h",
+    "impact": "Neutral",
+    "why": "Stake sale details without fundamental impact.",
+    "url": "https://www.business-standard.com/companies/news/softbank-sells-1-56-lenskart-stake-for-1-896-crore-goldman-biggest-buyer-126110701043_1.html",
+    "chips": {
+      "Stake sold": "1.56%",
+      "Value": "₹1,896 crore",
+      "Shares": "2.72 crore"
+    },
+    "trend": [
+      0.5,
+      0.55,
+      0.45,
+      0.5,
+      0.47,
+      0.52,
+      0.5
+    ],
+    "color": "B7791F",
+    "premium": false,
+    "title_hi": "SoftBank ने बेची Lenskart की हिस्सेदारी, Goldman बना सबसे बड़ा खरीदार",
+    "summary_hi": "SoftBank ने अपनी सहयोगी कंपनी के जरिए Lenskart में 1.56 प्रतिशत हिस्सेदारी बेच दी है। शुक्रवार को ये शेयर 10 किस्तों में बेचे गए, जिसमें औसत कीमत 697.15 रुपये प्रति शेयर रही और Goldman Sachs सबसे बड़ा खरीदार रहा।",
+    "why_hi": "हि हिस्सेदारी बेचने से जुड़े विवरण सामने आए।",
+    "chips_hi": {
+      "हिस्सेदारी": "1.56%",
+      "मूल्य": "₹1,896 करोड़",
+      "शेयर": "2.72 करोड़"
+    }
+  },
+  {
+    "v": 3,
+    "cat": "Finance",
+    "tk": "FINANCE",
+    "title": "UP Government Hikes Dearness Allowance by 5 Percent to 63 Percent",
+    "summary": "The Uttar Pradesh government has increased the Dearness Allowance by 5 percent, taking it to 63 percent from 58 percent for eligible employees. The revised rate is effective from July 1, 2026. Arrears will be provided retrospectively, and the enhanced allowance will be paid with the November 2026 salary, benefiting lakhs of workers across the state.",
+    "source": "Business Standard / Press Trust of India",
+    "published": "2026-11-07T10:59:09+00:00",
+    "ago": "3h",
+    "impact": "Neutral",
+    "why": "Routine government salary and allowance revision.",
+    "url": "https://www.business-standard.com/finance/personal-finance/up-govt-hikes-da-by-5-to-63-employees-to-get-arrears-from-july-1-126110700762_1.html",
+    "chips": {
+      "DA hike": "5 per cent",
+      "New DA rate": "63 per cent",
+      "Previous DA rate": "58 per cent"
+    },
+    "trend": [
+      0.5,
+      0.55,
+      0.45,
+      0.5,
+      0.47,
+      0.52,
+      0.5
+    ],
+    "color": "B7791F",
+    "premium": false,
+    "title_hi": "UP सरकार ने Dearness Allowance में 5 प्रतिशत की बढ़ोतरी की",
+    "summary_hi": "उत्तर प्रदेश सरकार ने राज्य के कर्मचारियों के लिए Dearness Allowance में 5 प्रतिशत की बढ़ोतरी की है, जिससे यह 58 प्रतिशत से बढ़कर 63 प्रतिशत हो गया है। बढ़ी हुई दर 1 जुलाई 2026 से लागू होगी। एरियर का भुगतान किया जाएगा और बढ़ा हुआ भत्ता नवंबर 2026 के वेतन के साथ मिलेगा, जिससे राज्यभर के लाखों कर्मचारियों को लाभ होगा।",
+    "why_hi": "नियमित सरकारी वेतन और भत्ते में संशोधन।",
+    "chips_hi": {
+      "DA बढ़ोतरी": "5 प्रतिशत",
+      "नया DA रेट": "63 प्रतिशत",
+      "पुराना DA रेट": "58 प्रतिशत"
+    }
+  },
+  {
+    "v": 3,
+    "cat": "Earnings",
+    "tk": "TATA STEEL",
+    "title": "Tata Steel Q2 net profit climbs 18.2 percent on strong India business",
+    "summary": "Tata Steel posted an 18.2 percent year-on-year rise in its net profit for the second quarter, supported by its operations in India. Consolidated revenue grew by 11.5 percent to reach Rs 65,436 crore. Meanwhile, the company reported a sequential increase of 14 percent in its EBITDA.",
+    "source": "Business Standard",
+    "published": "2026-11-07T10:39:57+00:00",
+    "ago": "3h",
+    "impact": "Positive",
+    "why": "Rising profit and revenue show strong operational performanc",
+    "url": "https://www.business-standard.com/companies/quarterly-results/tata-steel-q2-fy27-results-net-profit-india-operations-uk-netherlands-126110700767_1.html",
+    "chips": {
+      "Net profit growth": "18.2 per cent Y-o-Y",
+      "Consolidated revenue": "Rs 65,436 crore",
+      "EBITDA": "Rs 10,665 crore"
+    },
+    "trend": [
+      0.1,
+      0.25,
+      0.2,
+      0.5,
+      0.45,
+      0.8,
+      0.95
+    ],
+    "color": "0F766E",
+    "premium": false,
+    "title_hi": "Tata Steel का Q2 नेट प्रॉफिट 18.2 प्रतिशत बढ़ा",
+    "summary_hi": "भारत में मजबूत कामकाज के दम पर Tata Steel का दूसरी तिमाही का नेट प्रॉफिट साल-दर-साल 18.2 प्रतिशत बढ़ गया है। कंसोलिडेटेड रेवेन्यू 11.5 प्रतिशत बढ़कर 65,436 करोड़ रुपये पर पहुंच गया। इसके अलावा, कंपनी का EBITDA तिमाही आधार पर 14 प्रतिशत बढ़कर 10,665 करोड़ रुपये हो गया।",
+    "why_hi": "बढ़ा हुआ मुनाफा और मजबूत कमाई।",
+    "chips_hi": {
+      "नेट प्रॉफिट वृद्धि": "18.2 प्रतिशत",
+      "कंसोलिडेटेड रेवेन्यू": "₹65,436 करोड़",
+      "EBITDA": "₹10,665 करोड़"
+    }
+  },
+  {
+    "v": 3,
+    "cat": "Industry",
+    "tk": "INDUSTRY",
+    "title": "Why are oil firms tightening water checks at petrol pumps?",
+    "summary": "Oil marketing companies have stepped up monitoring at retail outlets. Regular inspections of underground storage tanks and dispensing nozzles are now required to prevent water contamination in E20 petrol, ensuring better quality control across fuel stations.",
+    "source": "Business Standard",
+    "published": "2026-11-07T10:04:33+00:00",
+    "ago": "4h",
+    "impact": "Neutral",
+    "why": "Routine quality control measure with unclear impact.",
+    "url": "https://www.business-standard.com/industry/news/oil-firms-tighten-water-checks-at-petrol-pumps-to-protect-e20-quality-126110700695_1.html",
+    "chips": {},
+    "trend": [
+      0.5,
+      0.55,
+      0.45,
+      0.5,
+      0.47,
+      0.52,
+      0.5
+    ],
+    "color": "B7791F",
+    "premium": false,
+    "title_hi": "पेट्रोल पंपों पर पानी की जांच क्यों कड़ी की जा रही है?",
+    "summary_hi": "ऑयल मार्केटिंग कंपनियों ने पेट्रोल पंपों पर निगरानी बढ़ा दी है। E20 पेट्रोल में पानी के संदूषण को रोकने के लिए अब अंडरग्राउंड स्टोरेज टैंक और डिस्पेंसिंग नोज़ल की नियमित जांच अनिवार्य कर दी गई है।",
+    "why_hi": "स्पष्ट प्रभाव के बिना नियमित गुणवत्ता नियंत्रण उपाय।",
+    "chips_hi": {}
+  },
+  {
+    "v": 3,
     "cat": "IPO",
     "tk": "MARKETS",
     "title": "Hindustan Coca-Cola Files Draft Papers With Sebi For IPO",
@@ -30,7 +207,9 @@
     "why_hi": "कंपनी को सीधे कोई फंड नहीं मिलेगा।",
     "chips_hi": {
       "इक्विटी शेयर": "99,74,61,456"
-    }
+    },
+    "hi_tries": 0,
+    "hi_ver": 2
   },
   {
     "v": 3,
@@ -67,7 +246,9 @@
       "नेट प्रॉफिट": "₹1,127 करोड़",
       "रेवेन्यू": "₹3,676 करोड़",
       "खर्च": "₹2,265 करोड़"
-    }
+    },
+    "hi_tries": 0,
+    "hi_ver": 2
   },
   {
     "v": 3,
@@ -100,7 +281,9 @@
     "why_hi": "कर्ज भुगतान और विस्तार से फंड का उपयोग।",
     "chips_hi": {
       "आईपीओ आकार": "₹2,500 करोड़"
-    }
+    },
+    "hi_tries": 0,
+    "hi_ver": 2
   },
   {
     "v": 3,
@@ -135,7 +318,9 @@
     "chips_hi": {
       "सेवानिवृत्ति तिथि": "11 नवंबर 2026",
       "जुड़े हुए हैं": "2003 से"
-    }
+    },
+    "hi_tries": 0,
+    "hi_ver": 2
   },
   {
     "v": 3,
@@ -265,7 +450,9 @@
     "why_hi": "कच्चे तेल और मुद्रा में उतार-चढ़ाव।",
     "chips_hi": {
       "क्रूड उछाल": "60.4%"
-    }
+    },
+    "hi_tries": 0,
+    "hi_ver": 2
   },
   {
     "v": 3,
@@ -496,7 +683,7 @@
     ],
     "color": "0F766E",
     "premium": false,
-    "hi_tries": 1,
+    "hi_tries": 2,
     "hi_ver": 2
   },
   {
@@ -631,179 +818,6 @@
     "chips_hi": {
       "नेट प्रॉफिट": "₹262 करोड़",
       "राजस्व": "₹2,829 करोड़"
-    },
-    "hi_tries": 0,
-    "hi_ver": 2
-  },
-  {
-    "v": 3,
-    "cat": "Companies",
-    "tk": "TATA POWER",
-    "title": "Singapore court orders seizure and sale of Tata Power shares",
-    "summary": "A Singapore court directed the enforcement of arbitration awards in favor of Kleros. This legal step permits the seizure and sale of Tata Power shares held in two subsidiaries. The action stems from an ongoing dispute between the involved parties.",
-    "source": "Business Standard",
-    "published": "2026-11-06T13:53:00+00:00",
-    "ago": "36m",
-    "impact": "Negative",
-    "why": "Court ordered seizure of subsidiary shares.",
-    "url": "https://www.business-standard.com/companies/news/singapore-court-orders-seizure-sale-of-tata-power-s-subsidiary-shares-126110601737_1.html",
-    "chips": {},
-    "trend": [
-      0.95,
-      0.85,
-      0.7,
-      0.6,
-      0.4,
-      0.3,
-      0.1
-    ],
-    "color": "9B2C2C",
-    "premium": false,
-    "title_hi": "Singapore court का Tata Power के शेयर्स को कुर्क और बेचने का आदेश",
-    "summary_hi": "Singapore की अदालत ने Kleros के पक्ष में मध्यस्थता फैसलों को लागू करने का आदेश दिया है। इस कानूनी कदम से Tata Power की दो सहायक कंपनियों में रखे गए शेयरों को कुर्क करने और बेचने की अनुमति मिल गई है। यह कार्रवाई दोनों पक्षों के बीच चल रहे विवाद से जुड़ी है।",
-    "why_hi": "अदालत ने सहायक कंपनी के शेयर कुर्क करने को कहा।",
-    "chips_hi": {},
-    "hi_tries": 0,
-    "hi_ver": 2
-  },
-  {
-    "v": 3,
-    "cat": "Companies",
-    "tk": "TATA SONS",
-    "title": "Bombay HC plea asks RBI to list Tata Sons",
-    "summary": "A new petition in the Bombay High Court asks for directions to force Tata Sons to list its shares on the stock market. The petitioners argue that the company needs to follow RBI listing rules. They also ask for Noel Tata to be removed from key roles, citing governance concerns and public interest.",
-    "source": "Business Standard",
-    "published": "2026-11-06T13:45:56+00:00",
-    "ago": "44m",
-    "impact": "Neutral",
-    "why": "Legal plea seeks listing and leadership changes.",
-    "url": "https://www.business-standard.com/companies/news/bombay-hc-plea-seeks-rbi-direction-for-tata-sons-stock-market-listing-126110601724_1.html",
-    "chips": {},
-    "trend": [
-      0.5,
-      0.55,
-      0.45,
-      0.5,
-      0.47,
-      0.52,
-      0.5
-    ],
-    "color": "B7791F",
-    "premium": false,
-    "title_hi": "Bombay HC में याचिका, Tata Sons को स्टॉक मार्केट में लिस्ट करने की मांग",
-    "summary_hi": "बॉम्बे हाईकोर्ट में एक याचिका दायर कर Tata Sons को स्टॉक मार्केट में लिस्ट कराने के लिए RBI को निर्देश देने की मांग की गई है। याचिकाकर्ताओं का तर्क है कि कंपनी को RBI के नियमों का पालन करना चाहिए। उन्होंने सार्वजनिक हित और गवर्नेंस चिंताओं का हवाला देते हुए Noel Tata को मुख्य पदों से हटाने की भी मांग की है।",
-    "why_hi": "कानूनी याचिका में लिस्टिंग और बदलाव की मांग।",
-    "chips_hi": {},
-    "hi_tries": 0,
-    "hi_ver": 2
-  },
-  {
-    "v": 3,
-    "cat": "Companies",
-    "tk": "TECH MAHINDRA",
-    "title": "How Tech Mahindra is raising its stake in Pininfarina",
-    "summary": "Tech Mahindra is set to increase its shareholding in Pininfarina to 92.59 per cent. Its subsidiary currently owns an 82.57 per cent stake in the company. The planned transaction will raise the total holding significantly upon successful completion.",
-    "source": "Business Standard",
-    "published": "2026-11-06T10:01:31+00:00",
-    "ago": "23m",
-    "impact": "Positive",
-    "why": "Increasing stake in a subsidiary company.",
-    "url": "https://www.business-standard.com/companies/news/tech-mahindra-acquire-more-shares-in-pininfarina-raise-stake-to-92-59-pc-126110601080_1.html",
-    "chips": {
-      "Current stake": "82.57%",
-      "New stake": "92.59%"
-    },
-    "trend": [
-      0.1,
-      0.25,
-      0.2,
-      0.5,
-      0.45,
-      0.8,
-      0.95
-    ],
-    "color": "0F766E",
-    "premium": false,
-    "title_hi": "Tech Mahindra कैसे Pininfarina में अपनी हिस्सेदारी बढ़ा रहा है",
-    "summary_hi": "Tech Mahindra की सहायक कंपनी Pininfarina में अपनी हिस्सेदारी बढ़ाकर 92.59 प्रतिशत करने जा रही है। वर्तमान में इसकी हिस्सेदारी 82.57 प्रतिशत है। प्रस्तावित लेनदेन पूरा होने पर यह हिस्सेदारी बढ़ जाएगी।",
-    "why_hi": "सहायक कंपनी में हिस्सेदारी बढ़ रही है।",
-    "chips_hi": {
-      "वर्तमान हिस्सेदारी": "82.57%",
-      "नई हिस्सेदारी": "92.59%"
-    },
-    "hi_tries": 0,
-    "hi_ver": 2
-  },
-  {
-    "v": 3,
-    "cat": "Markets",
-    "tk": "MARKETS",
-    "title": "Pharma stocks surge as multiple firms hit new highs",
-    "summary": "Shares of several pharmaceutical companies climbed significantly on Friday, registering gains between 9 percent and 20 percent. Symbiotec Pharmalab, Windlas Biotech, Sai Life Sciences, Alembic Pharmaceuticals, and Fermation Biotech were among the notable firms that saw their stocks rally and reach new highs during the trading session.",
-    "source": "Business Standard",
-    "published": "2026-11-06T09:45:15+00:00",
-    "ago": "39m",
-    "impact": "Positive",
-    "why": "Strong double-digit gains across multiple pharma stocks.",
-    "url": "https://www.business-standard.com/markets/news/pharma-stocks-rally-aurobindo-divi-s-glenmark-symbiotec-sai-life-hit-new-highs-126110601011_1.html",
-    "chips": {
-      "Stock gains": "9-20%"
-    },
-    "trend": [
-      0.1,
-      0.25,
-      0.2,
-      0.5,
-      0.45,
-      0.8,
-      0.95
-    ],
-    "color": "0F766E",
-    "premium": false,
-    "title_hi": "फार्मा शेयरों में जबरदस्त तेजी, कई कंपनियों ने छुए नए शिखर",
-    "summary_hi": "शुक्रवार को कई फार्मा कंपनियों के शेयरों में शानदार तेजी देखने को मिली। Symbiotec Pharmalab, Windlas Biotech, Sai Life Sciences, Alembic Pharmaceuticals और Fermation Biotech के शेयर 9 प्रतिशत से 20 प्रतिशत तक की बढ़त के साथ कारोबार कर रहे थे।",
-    "why_hi": "फार्मा शेयरों में मजबूत दो अंकों की तेजी।",
-    "chips_hi": {
-      "शेयर बढ़त": "9-20%"
-    },
-    "hi_tries": 0,
-    "hi_ver": 2
-  },
-  {
-    "v": 3,
-    "cat": "Earnings",
-    "tk": "COMPANIES",
-    "title": "Hindalco Posts 59 Percent Profit Jump in Second Quarter",
-    "summary": "Hindalco Industries reported a 58.8 percent increase in consolidated net profit to Rs 7,533 crore for the September quarter of FY27, compared to Rs 4,741 crore a year ago. Revenue rose 39 percent to Rs 92,651 crore. The strong performance was driven by the company's integrated business model spanning upstream and downstream segments in aluminium and copper.",
-    "source": "Business Standard / Press Trust of India",
-    "published": "2026-11-06T09:42:34+00:00",
-    "ago": "42m",
-    "impact": "Positive",
-    "why": "Higher profit and revenue growth reported.",
-    "url": "https://www.business-standard.com/companies/quarterly-results/hindalco-q2-result-net-profit-jumps-59-to-7-533-cr-revenue-rises-39-126110601026_1.html",
-    "chips": {
-      "Net profit": "Rs 7,533 crore",
-      "Revenue": "Rs 92,651 crore",
-      "Profit rise": "58.8 per cent"
-    },
-    "trend": [
-      0.1,
-      0.25,
-      0.2,
-      0.5,
-      0.45,
-      0.8,
-      0.95
-    ],
-    "color": "0F766E",
-    "premium": false,
-    "title_hi": "Hindalco का दूसरी तिमाही में नेट प्रॉफिट 59 प्रतिशत बढ़ा",
-    "summary_hi": "Hindalco Industries ने सितंबर तिमाही में कंसोलिडेटेड नेट प्रॉफिट 58.8 प्रतिशत बढ़कर 7,533 करोड़ रुपये रहने की जानकारी दी है। एक साल पहले यह 4,741 करोड़ रुपये था। कंपनी की आय बढ़कर 92,651 करोड़ रुपये हो गई। यह मजबूत प्रदर्शन एल्युमीनियम और कॉपर सेगमेंट में बेहतर कामकाज के कारण रहा।",
-    "why_hi": "मुनाफे और आय में मजबूत बढ़ोतरी।",
-    "chips_hi": {
-      "नेट प्रॉफिट": "₹7,533 करोड़",
-      "रेवेन्यू": "₹92,651 करोड़",
-      "प्रॉफिट बढ़त": "58.8 प्रतिशत"
     },
     "hi_tries": 0,
     "hi_ver": 2
