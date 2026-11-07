@@ -1,6 +1,144 @@
 [
   {
     "v": 3,
+    "cat": "IPO",
+    "tk": "MARKETS",
+    "title": "Hindustan Coca-Cola Files Draft Papers With Sebi For IPO",
+    "summary": "Hindustan Coca-Cola Holdings has submitted draft papers to market regulator Sebi to raise funds via an initial public offering. The proposed share sale consists entirely of an offer for sale of up to 99,74,61,456 equity shares by the promoter. Because the issue is an offer for sale, the company will not receive any proceeds from the public offering.",
+    "source": "Business Standard / Press Trust of India",
+    "published": "2026-11-07T09:43:49+00:00",
+    "ago": "26m",
+    "impact": "Neutral",
+    "why": "No direct funds flow to the company.",
+    "url": "https://www.business-standard.com/markets/ipo/hindustan-coca-cola-holdings-files-draft-papers-with-sebi-for-ipo-126110700650_1.html",
+    "chips": {
+      "Equity shares": "99,74,61,456"
+    },
+    "trend": [
+      0.5,
+      0.55,
+      0.45,
+      0.5,
+      0.47,
+      0.52,
+      0.5
+    ],
+    "color": "B7791F",
+    "premium": false,
+    "title_hi": "Hindustan Coca-Cola ने IPO के लिए Sebi के पास ड्राफ्ट पेपर दाखिल किए",
+    "summary_hi": "Hindustan Coca-Cola Holdings ने पब्लिक इश्यू के जरिए फंड जुटाने के लिए मार्केट रेगुलेटर Sebi के पास ड्राफ्ट पेपर दाखिल किए हैं। इस प्रस्तावित इश्यू में प्रमोटर द्वारा 99,74,61,456 इक्विटी शेयरों की पूरी तरह से ऑफर फॉर सेल शामिल है। इश्यू पूरी तरह से ऑफर फॉर सेल होने के कारण कंपनी को बिक्री से कोई फंड प्राप्त नहीं होगा।",
+    "why_hi": "कंपनी को सीधे कोई फंड नहीं मिलेगा।",
+    "chips_hi": {
+      "इक्विटी शेयर": "99,74,61,456"
+    }
+  },
+  {
+    "v": 3,
+    "cat": "Earnings",
+    "tk": "COMPANIES",
+    "title": "How did Divi's Laboratories boost net profit by 64%?",
+    "summary": "Divi's Laboratories reported a 64 percent rise in net profit to Rs 1,127 crore for the September quarter. This growth was driven by higher revenue from operations, which increased to Rs 3,676 crore. Total expenses for the period also went up to Rs 2,265 crore, according to the regulatory filing.",
+    "source": "Business Standard / Press Trust of India",
+    "published": "2026-11-07T09:41:06+00:00",
+    "ago": "29m",
+    "impact": "Positive",
+    "why": "Higher net profit and revenue growth.",
+    "url": "https://www.business-standard.com/companies/quarterly-results/divi-s-labs-q2-result-net-profit-rises-64-to-1-127-cr-on-higher-revenue-126110700599_1.html",
+    "chips": {
+      "Net profit": "Rs 1,127 crore",
+      "Revenue": "Rs 3,676 crore",
+      "Expenses": "Rs 2,265 crore"
+    },
+    "trend": [
+      0.1,
+      0.25,
+      0.2,
+      0.5,
+      0.45,
+      0.8,
+      0.95
+    ],
+    "color": "0F766E",
+    "premium": false,
+    "title_hi": "Divi's Laboratories का नेट प्रॉफिट 64% बढ़कर कितना हुआ?",
+    "summary_hi": "सितंबर तिमाही में Divi's Laboratories का नेट प्रॉफिट 64 प्रतिशत बढ़कर 1,127 करोड़ रुपये हो गया। कंपनी का ऑपरेशनल रेवेन्यू बढ़कर 3,676 करोड़ रुपये पर पहुंच गया। इस दौरान कंपनी का कुल खर्च भी बढ़कर 2,265 करोड़ रुपये हो गया।",
+    "why_hi": "नेट प्रॉफिट और रेवेन्यू में बढ़ोतरी।",
+    "chips_hi": {
+      "नेट प्रॉफिट": "₹1,127 करोड़",
+      "रेवेन्यू": "₹3,676 करोड़",
+      "खर्च": "₹2,265 करोड़"
+    }
+  },
+  {
+    "v": 3,
+    "cat": "IPO",
+    "tk": "MARKETS",
+    "title": "Amber Enterprises arm IL JIN Electronics files for Rs 2,500 crore IPO",
+    "summary": "IL JIN Electronics, a subsidiary of Amber Enterprises, has submitted preliminary papers to Sebi for an initial public offering worth Rs 2,500 crore. The share sale is entirely a fresh issue with no offer for sale. Proceeds will be utilized to clear debt, buy machinery and equipment, and for general corporate purposes.",
+    "source": "Business Standard / Press Trust of India",
+    "published": "2026-11-07T08:57:31+00:00",
+    "ago": "1h",
+    "impact": "Positive",
+    "why": "Fresh capital helps debt repayment and expansion.",
+    "url": "https://www.business-standard.com/markets/ipo/amber-enterprises-arm-il-jin-electronics-files-drhp-for-2-500-crore-ipo-126110700332_1.html",
+    "chips": {
+      "IPO size": "Rs 2,500 crore"
+    },
+    "trend": [
+      0.1,
+      0.25,
+      0.2,
+      0.5,
+      0.45,
+      0.8,
+      0.95
+    ],
+    "color": "0F766E",
+    "premium": false,
+    "title_hi": "Amber Enterprises की सहायक कंपनी IL JIN Electronics लाई ₹2,500 करोड़ का IPO",
+    "summary_hi": "Amber Enterprises की यूनिट IL JIN Electronics ने 2,500 करोड़ रुपये जुटाने के लिए सेबी के पास शुरुआती दस्तावेज जमा किए हैं। यह आईपीओ पूरी तरह से नए शेयरों का होगा। जुटाई गई राशि का उपयोग कर्ज चुकाने, मशीनरी खरीदने और सामान्य उद्देश्यों के लिए किया जाएगा।",
+    "why_hi": "कर्ज भुगतान और विस्तार से फंड का उपयोग।",
+    "chips_hi": {
+      "आईपीओ आकार": "₹2,500 करोड़"
+    }
+  },
+  {
+    "v": 3,
+    "cat": "Companies",
+    "tk": "VOLTAS",
+    "title": "Why is Noel Tata stepping down as Voltas chairman?",
+    "summary": "Noel Tata will step down as chairman and director of Voltas on November 11, 2026, due to superannuation guidelines. Following this, he will take on the role of Chairman Emeritus starting November 12, 2026. Meanwhile, Sunil D'Souza has been appointed as the new chairman of the company.",
+    "source": "Business Standard / Press Trust of India",
+    "published": "2026-11-07T07:17:20+00:00",
+    "ago": "2h",
+    "impact": "Neutral",
+    "why": "Leadership transition due to age retirement norms.",
+    "url": "https://www.business-standard.com/companies/news/noel-tata-to-step-down-as-voltas-chairman-appointed-chairman-emeritus-126110602076_1.html",
+    "chips": {
+      "Retirement date": "November 11, 2026",
+      "Association since": "2003"
+    },
+    "trend": [
+      0.5,
+      0.55,
+      0.45,
+      0.5,
+      0.47,
+      0.52,
+      0.5
+    ],
+    "color": "B7791F",
+    "premium": false,
+    "title_hi": "Noel Tata Voltas के चेयरमैन पद से क्यों हटेंगे?",
+    "summary_hi": "सुपरएनुएशन नियमों के कारण Noel Tata 11 नवंबर 2026 को Voltas के चेयरमैन और डायरेक्टर पद से सेवानिवृत्त होंगे। इसके बाद वह 12 नवंबर 2026 से चेयरमैन एमेरिटस का पद संभालेंगे। इस बीच, सुनील डिसूजा को कंपनी का नया चेयरमैन नियुक्त किया गया है।",
+    "why_hi": "उम्र के नियमों के तहत नेतृत्व में बदलाव।",
+    "chips_hi": {
+      "सेवानिवृत्ति तिथि": "11 नवंबर 2026",
+      "जुड़े हुए हैं": "2003 से"
+    }
+  },
+  {
+    "v": 3,
     "cat": "Markets",
     "tk": "MARKETS",
     "title": "Should India scrap capital gains tax for foreign investors?",
@@ -26,7 +164,9 @@
     "title_hi": "क्या भारत को विदेशी निवेशकों पर कैपिटल गेन टैक्स हटाना चाहिए?",
     "summary_hi": "Edelweiss Financial Services के चेयरमैन रशेष शाह ने सुझाव दिया है कि विदेशी पोर्टफोलियो निवेशकों के लिए कैपिटल गेन टैक्स हटाने से इक्विटी में निवेश बढ़ाने और रुपये को सहारा मिलने में मदद मिल सकती है। यह सुझाव विदेशी निवेशकों की भारी बिकवाली के बीच आया है।",
     "why_hi": "विदेशी फंड प्रवाह को पुनर्जीवित करने का सुझाव।",
-    "chips_hi": {}
+    "chips_hi": {},
+    "hi_tries": 0,
+    "hi_ver": 2
   },
   {
     "v": 3,
@@ -52,11 +192,12 @@
     ],
     "color": "B7791F",
     "premium": false,
-    "hi_tries": 1,
+    "hi_tries": 0,
     "title_hi": "दीवाली पर अगले हफ्ते कितने दिन बंद रहेंगे बैंक?",
     "summary_hi": "धनतेरस के साथ दीवाली का पाँच दिवसीय त्योहार शुरू हो रहा है। ऐसे में ग्राहकों को सलाह दी जाती है कि वे बैंक जाने से पहले अपने यहाँ की छुट्टियों की सूची जरूर देख लें। अलग-अलग राज्यों में छुट्टियाँ अलग हो सकती हैं, जिससे आपको त्योहार के दौरान काम निपटाने में आसानी होगी।",
     "why_hi": "Routine festival bank holiday advisory.",
-    "chips_hi": {}
+    "chips_hi": {},
+    "hi_ver": 2
   },
   {
     "v": 3,
@@ -89,6 +230,41 @@
     "why_hi": "सेमीकंडक्टर शेयरों में 4.2 प्रतिशत की तेजी।",
     "chips_hi": {
       "फिलाडेल्फिया सेमीकंड": "4.2%"
+    },
+    "hi_tries": 0,
+    "hi_ver": 2
+  },
+  {
+    "v": 3,
+    "cat": "Markets",
+    "tk": "MARKETS",
+    "title": "Why did Brent crude surge 60.4% in Samvat 2082?",
+    "summary": "During Samvat 2082, commodities experienced high volatility driven by a sharp rise in Brent crude due to the US-Iran conflict. Meanwhile, gold and silver dropped in dollar terms after sliding from record peaks, although a weaker rupee helped boost domestic returns for investors.",
+    "source": "Business Standard",
+    "published": "2026-11-06T18:04:28+00:00",
+    "ago": "16h",
+    "impact": "Neutral",
+    "why": "Mixed commodity movements driven by crude and currency.",
+    "url": "https://www.business-standard.com/markets/news/samvat-2082-commodities-witness-sharp-volatility-as-crude-surges-126110601860_1.html",
+    "chips": {
+      "Crude surge": "60.4%"
+    },
+    "trend": [
+      0.5,
+      0.55,
+      0.45,
+      0.5,
+      0.47,
+      0.52,
+      0.5
+    ],
+    "color": "B7791F",
+    "premium": false,
+    "title_hi": "Samvat 2082 में क्यों आया Brent crude में 60.4% का उछाल?",
+    "summary_hi": "Samvat 2082 के दौरान US-Iran संघर्ष के चलते कच्चे तेल में भारी तेजी आई। इस दौरान सोने और चांदी की कीमतों में डॉलर के संदर्भ में गिरावट आई, हालांकि रुपये के कमजोर होने से घरेलू रिटर्न को समर्थन मिला।",
+    "why_hi": "कच्चे तेल और मुद्रा में उतार-चढ़ाव।",
+    "chips_hi": {
+      "क्रूड उछाल": "60.4%"
     }
   },
   {
@@ -320,7 +496,8 @@
     ],
     "color": "0F766E",
     "premium": false,
-    "hi_tries": 1
+    "hi_tries": 1,
+    "hi_ver": 2
   },
   {
     "v": 3,
@@ -627,193 +804,6 @@
       "नेट प्रॉफिट": "₹7,533 करोड़",
       "रेवेन्यू": "₹92,651 करोड़",
       "प्रॉफिट बढ़त": "58.8 प्रतिशत"
-    },
-    "hi_tries": 0,
-    "hi_ver": 2
-  },
-  {
-    "v": 3,
-    "cat": "Markets",
-    "tk": "BOSCH",
-    "title": "Bosch announces 1:5 stock split and 3:1 bonus issue",
-    "summary": "Bosch shares dropped four percent from the day high after reporting strong financial results. The company revealed a one to five stock split alongside a three to one bonus share issue on Friday. Standalone net profit grew significantly by 21.7 percent year on year, while revenue from operations increased by 28.5 percent.",
-    "source": "Business Standard",
-    "published": "2026-11-06T09:36:46+00:00",
-    "ago": "49m",
-    "impact": "Positive",
-    "why": "Strong profit and bonus announcement.",
-    "url": "https://www.business-standard.com/markets/news/bosch-slips-4-from-day-s-high-announces-1-5-stock-split-3-1-bonus-issue-126110601033_1.html",
-    "chips": {
-      "Net profit growth": "21.7%",
-      "Revenue growth": "28.5%",
-      "Stock split": "1:5"
-    },
-    "trend": [
-      0.1,
-      0.25,
-      0.2,
-      0.5,
-      0.45,
-      0.8,
-      0.95
-    ],
-    "color": "0F766E",
-    "premium": false,
-    "title_hi": "Bosch ने किया 1:5 स्टॉक स्प्लिट और 3:1 बोनस शेयर का ऐलान",
-    "summary_hi": "शानदार वित्तीय नतीजे जारी करने के बाद Bosch के शेयर में गिरावट आई। कंपनी ने शुक्रवार को एक अनुपात पाँच में स्टॉक स्प्लिट और तीन अनुपात एक में बोनस शेयर जारी करने की घोषणा की। सालाना आधार पर शुद्ध लाभ में 21.7 प्रतिशत की वृद्धि हुई, जबकि परिचालन से होने वाला राजस्व 28.5 प्रतिशत बढ़ा।",
-    "why_hi": "मजबूत मुनाफा और बोनस घोषणा।",
-    "chips_hi": {
-      "शुद्ध लाभ वृद्धि": "21.7%",
-      "राजस्व वृद्धि": "28.5%",
-      "स्टॉक स्प्लिट": "1:5"
-    },
-    "hi_tries": 0,
-    "hi_ver": 2
-  },
-  {
-    "v": 3,
-    "cat": "Industry",
-    "tk": "INDUSTRY",
-    "title": "Government invites import duty quota applications for India-UK trade pact",
-    "summary": "The commerce ministry has invited applications from importers for tariff rate quotas to secure duty concessions under the India-UK Comprehensive Economic and Trade Agreement. Importers dealing in specified products like passenger cars can submit requests between November 6 and November 21, 2026, for the calendar year 2027 following the pact's implementation in July 2026.",
-    "source": "Business Standard / Press Trust of India",
-    "published": "2026-11-06T09:30:09+00:00",
-    "ago": "55m",
-    "impact": "Neutral",
-    "why": "Routine trade pact quota application process.",
-    "url": "https://www.business-standard.com/industry/news/govt-invites-applications-for-india-uk-trade-pact-duty-quotas-for-2027-126110600943_1.html",
-    "chips": {},
-    "trend": [
-      0.5,
-      0.55,
-      0.45,
-      0.5,
-      0.47,
-      0.52,
-      0.5
-    ],
-    "color": "B7791F",
-    "premium": false,
-    "title_hi": "सरकार ने India-UK ट्रेड पैक्ट के लिए ड्यूटी कोटा आवेदन आमंत्रित किए",
-    "summary_hi": "वाणिज्य मंत्रालय ने इंडिया-यूके कॉम्प्रिहेंसिव इकोनॉमिक एंड ट्रेड एग्रीमेंट के तहत ड्यूटी रियायतें पाने के लिए आयातकों से टैरिफ रेट कोटा आवेदन मांगे हैं। पैक्ट के जुलाई 2026 में लागू होने के बाद, पैसेंजर कारों जैसे चुनिंदा उत्पादों से जुड़े आयातक कैलेंडर वर्ष 2027 के लिए 6 नवंबर से 21 नवंबर 2026 के बीच आवेदन कर सकते हैं।",
-    "why_hi": "नियमित व्यापार समझौता कोटा प्रक्रिया।",
-    "chips_hi": {},
-    "hi_tries": 0,
-    "hi_ver": 2
-  },
-  {
-    "v": 3,
-    "cat": "Earnings",
-    "tk": "MARKETS",
-    "title": "Symbiotec Pharma jumps 20 percent to a new high",
-    "summary": "Shares of Symbiotec Pharmalab surged 20 percent to reach a new high following recent quarterly results and a fresh order win. The company's stock made its market debut on September 1 of this year and has recorded a gain of 54 percent compared to the original initial public offering price.",
-    "source": "Business Standard",
-    "published": "2026-11-06T09:21:11+00:00",
-    "ago": "1h",
-    "impact": "Positive",
-    "why": "Strong earnings and new order win.",
-    "url": "https://www.business-standard.com/markets/news/q2-results-order-win-drive-symbiotec-pharma-share-price-up-20-higher-to-new-high-126110600995_1.html",
-    "chips": {
-      "IPO price": "Rs 988",
-      "Stock rally": "54 per cent",
-      "Recent surge": "20%"
-    },
-    "trend": [
-      0.1,
-      0.25,
-      0.2,
-      0.5,
-      0.45,
-      0.8,
-      0.95
-    ],
-    "color": "0F766E",
-    "premium": false,
-    "title_hi": "Symbiotec Pharma के शेयर 20 प्रतिशत चढ़कर नए उच्च स्तर पर पहुंचे",
-    "summary_hi": "Symbiotec Pharmalab के शेयरों में तिमाही नतीजों और नए ऑर्डर के बाद 20 प्रतिशत की तेजी आई है। कंपनी ने इस साल 1 सितंबर को शेयर बाजार में शुरुआत की थी और यह आईपीओ कीमत से 54 प्रतिशत ऊपर ट्रेड कर रहा है।",
-    "why_hi": "मजबूत तिमाही नतीजे और नया ऑर्डर।",
-    "chips_hi": {
-      "आईपीओ कीमत": "₹988",
-      "स्टॉक तेजी": "54 प्रतिशत",
-      "हालिया बढ़त": "20%"
-    },
-    "hi_tries": 0,
-    "hi_ver": 2
-  },
-  {
-    "v": 3,
-    "cat": "Industry",
-    "tk": "INDUSTRY",
-    "title": "Why did Maharashtra lead the new sugar crushing season rollout?",
-    "summary": "The new sugar season has gained momentum as 184 mills started operations across the country. Maharashtra led the crushing activity with 136 mills beginning operations and producing 1.078 million tonnes of sugar up to November 5, according to the Indian Sugar Mills Association data.",
-    "source": "Business Standard",
-    "published": "2026-11-06T09:18:43+00:00",
-    "ago": "1h",
-    "impact": "Neutral",
-    "why": "Seasonal crushing activity is currently underway.",
-    "url": "https://www.business-standard.com/industry/news/india-sugar-new-season-production-crushing-operations-mills-domestic-stock-126110601000_1.html",
-    "chips": {
-      "Active mills": "184",
-      "Maharashtra mills": "136",
-      "Sugar production": "1.078 million tonnes"
-    },
-    "trend": [
-      0.5,
-      0.55,
-      0.45,
-      0.5,
-      0.47,
-      0.52,
-      0.5
-    ],
-    "color": "B7791F",
-    "premium": false,
-    "title_hi": "नए शुगर सीजन में 184 मिलों ने कैसे शुरू किया कामकाज?",
-    "summary_hi": "देशभर में नए शुगर सीजन की शुरुआत हो चुकी है और 184 मिलों ने अपना कामकाज शुरू कर दिया है। ISMA के अनुसार, 5 नवंबर तक महाराष्ट्र सबसे आगे रहा जहाँ 136 मिलों ने पेराई का काम शुरू किया और 1.078 मिलियन टन चीनी का उत्पादन किया।",
-    "why_hi": "मौसमी पेराई का काम शुरू हुआ है।",
-    "chips_hi": {
-      "सक्रिय मिलें": "184",
-      "महाराष्ट्र मिलें": "136",
-      "चीनी उत्पादन": "1.078 मिलियन टन"
-    },
-    "hi_tries": 0,
-    "hi_ver": 2
-  },
-  {
-    "v": 3,
-    "cat": "Markets",
-    "tk": "ICICI BANK",
-    "title": "ICICI Bank soars 10 percent in four days",
-    "summary": "ICICI Bank shares extended a strong rally, surging ten percent over four trading sessions. During intraday trade on Friday, the institution's market capitalization reached nearly eleven trillion rupees, specifically touching ten point nine six trillion rupees on the Bombay Stock Exchange, according to exchange data.",
-    "source": "Business Standard",
-    "published": "2026-11-06T06:16:11+00:00",
-    "ago": "6m",
-    "impact": "Positive",
-    "why": "Rising market capitalization and strong share price rally.",
-    "url": "https://www.business-standard.com/markets/news/icici-bank-extends-rally-soars-10-in-4-days-market-cap-nears-11-trn-126110600622_1.html",
-    "chips": {
-      "Market cap": "₹10.96 trillion",
-      "Stock gain": "10%",
-      "Duration": "4 days"
-    },
-    "trend": [
-      0.1,
-      0.25,
-      0.2,
-      0.5,
-      0.45,
-      0.8,
-      0.95
-    ],
-    "color": "0F766E",
-    "premium": false,
-    "title_hi": "ICICI Bank में तेजी, चार दिन में 10 प्रतिशत उछला शेयर",
-    "summary_hi": "ICICI Bank के शेयरों में लगातार तेजी देखने को मिली है, जिससे चार सत्रों में यह दस प्रतिशत चढ़ गया। शुक्रवार को इंट्राडे कारोबार के दौरान बैंक का बाजार पूंजीकरण लगभग ग्यारह लाख करोड़ रुपये के करीब पहुंच गया। BSE के आंकड़ों के अनुसार यह आंकड़ा दस लाख छियानवे हजार करोड़ रुपये पर पहुंच गया।",
-    "why_hi": "बढ़ता बाजार पूंजीकरण और मजबूत शेयर प्रदर्शन।",
-    "chips_hi": {
-      "मार्केट कैप": "₹10.96 लाख करोड़",
-      "शेयर तेजी": "10%",
-      "अवधि": "4 दिन"
     },
     "hi_tries": 0,
     "hi_ver": 2
