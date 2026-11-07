@@ -1,6 +1,196 @@
 [
   {
     "v": 3,
+    "cat": "Markets",
+    "tk": "MARKETS",
+    "title": "Weakest Samvat in 15 years ends with a late market rally",
+    "summary": "Domestic markets concluded Samvat 2082 with overall losses of 4 percent for the Sensex and 3.1 percent for the Nifty, marking the weakest Samvat performance in 15 years. This decline occurred despite a strong late rally that resulted in the largest weekly gains for both indices in nearly six years.",
+    "source": "Business Standard",
+    "published": "2026-11-06T17:52:49+00:00",
+    "ago": "8h",
+    "impact": "Negative",
+    "why": "Indices closed the Samvat year with losses.",
+    "url": "https://www.business-standard.com/markets/news/weakest-samvat-in-15-years-ends-on-a-high-for-mkts-as-sensex-nifty-rally-126110601769_1.html",
+    "chips": {
+      "Sensex loss": "4%",
+      "Nifty loss": "3.1%"
+    },
+    "trend": [
+      0.95,
+      0.85,
+      0.7,
+      0.6,
+      0.4,
+      0.3,
+      0.1
+    ],
+    "color": "9B2C2C",
+    "premium": false,
+    "title_hi": "15 साल का सबसे कमजोर संवत तेज उछाल के साथ हुआ समाप्त",
+    "summary_hi": "संवत 2082 के दौरान Sensex में 4 प्रतिशत और Nifty में 3.1 प्रतिशत की गिरावट दर्ज की गई, जो पिछले 15 वर्षों में सबसे कमजोर प्रदर्शन है। हालांकि, आखिरी समय में आई एक मजबूत तेजी के कारण दोनों सूचकांकों ने लगभग छह वर्षों में अपना सबसे बड़ा साप्ताहिक लाभ हासिल किया।",
+    "why_hi": "इंडेक्स साल के अंत में घाटे में रहे।",
+    "chips_hi": {
+      "Sensex गिरावट": "4%",
+      "Nifty गिरावट": "3.1%"
+    }
+  },
+  {
+    "v": 3,
+    "cat": "Markets",
+    "tk": "MARKETS",
+    "title": "Indian benchmark indices post their best weekly gain in six years",
+    "summary": "Indian benchmark indices recorded their strongest weekly performance in six years during the Diwali week. Market sentiment was supported by strength in the local currency against Asian peers. Meanwhile, international crude oil prices experienced their steepest weekly decline since the pandemic.",
+    "source": "Business Standard",
+    "published": "2026-11-06T17:51:19+00:00",
+    "ago": "8h",
+    "impact": "Positive",
+    "why": "Strong market gains and positive currency movement.",
+    "url": "https://www.business-standard.com/markets/news/street-basks-in-diwali-glow-benchmark-indices-post-best-week-in-6-years-126110602064_1.html",
+    "chips": {},
+    "trend": [
+      0.1,
+      0.25,
+      0.2,
+      0.5,
+      0.45,
+      0.8,
+      0.95
+    ],
+    "color": "0F766E",
+    "premium": false,
+    "title_hi": "भारतीय बाजार ने छह साल में दर्ज की सबसे बेहतरीन साप्ताहिक बढ़त",
+    "summary_hi": "दिवाली के इस हफ्ते भारतीय बेंचमार्क सूचकांकों ने छह साल में अपना सबसे मजबूत साप्ताहिक प्रदर्शन दर्ज किया। एशियाई बाजारों के मुकाबले भारतीय करेंसी में मजबूती देखने को मिली। वहीं, अंतरराष्ट्रीय कच्चे तेल की कीमतों में महामारी के बाद से सबसे बड़ी साप्ताहिक गिरावट दर्ज की गई।",
+    "why_hi": "बाजार में तेजी और मजबूत करेंसी प्रदर्शन।",
+    "chips_hi": {}
+  },
+  {
+    "v": 3,
+    "cat": "Finance",
+    "tk": "SATIN CREDITCARE",
+    "title": "Satin Creditcare Network to build 100 crore buffer against shocks",
+    "summary": "Satin Creditcare Network is creating a financial cushion of 100 crore rupees to protect against potential risks. The microfinance lender stated that it currently faces no repayment stress related to the El Nino weather pattern or the conflict in West Asia, but chose to build this reserve as a precaution.",
+    "source": "Business Standard",
+    "published": "2026-11-06T17:38:08+00:00",
+    "ago": "8h",
+    "impact": "Neutral",
+    "why": "Proactive buffer creation against unseen future risks.",
+    "url": "https://www.business-standard.com/finance/interviews/satin-creditcare-network-to-build-100-cr-buffer-amid-risks-h-p-singh-126103001734_1.html",
+    "chips": {
+      "Buffer amount": "Rs 100 cr"
+    },
+    "trend": [
+      0.5,
+      0.55,
+      0.45,
+      0.5,
+      0.47,
+      0.52,
+      0.5
+    ],
+    "color": "B7791F",
+    "premium": true,
+    "title_hi": "Satin Creditcare Network संभावित जोखिमों से निपटने के लिए बनाएगा 100 करोड़ का बफर",
+    "summary_hi": "Satin Creditcare Network संभावित झटकों से बचने के लिए 100 करोड़ रुपये का वित्तीय कुशन तैयार कर रहा है। माइक्रोलेंडर का कहना है कि उसे एल नीनो या पश्चिम एशिया संघर्ष से अभी तक कोई पुनर्भुगतान तनाव नहीं दिखा है, लेकिन उसने एहतियात के तौर पर यह रिजर्व बनाने का फैसला किया है।",
+    "why_hi": "संभावित जोखिमों के खिलाफ एहतियाती कदम उठाया गया।",
+    "chips_hi": {
+      "बफर राशि": "₹100 करोड़"
+    }
+  },
+  {
+    "v": 3,
+    "cat": "Finance",
+    "tk": "FINANCE",
+    "title": "How did a consumer commission ruling expose bank locker risks?",
+    "summary": "A consumer commission ruling against Union Bank shows how customers can protect their valuables in bank lockers. Key steps to avoid financial losses include keeping proper documentation, obtaining surrender acknowledgements, securing insurance, and filing timely complaints.",
+    "source": "Business Standard",
+    "published": "2026-11-06T16:55:41+00:00",
+    "ago": "9h",
+    "impact": "Neutral",
+    "why": "Highlights consumer protection measures for bank lockers.",
+    "url": "https://www.business-standard.com/finance/personal-finance/bank-locker-risks-how-to-protect-your-valuables-and-avoid-financial-losses-126110602012_1.html",
+    "chips": {},
+    "trend": [
+      0.5,
+      0.55,
+      0.45,
+      0.5,
+      0.47,
+      0.52,
+      0.5
+    ],
+    "color": "B7791F",
+    "premium": false,
+    "title_hi": "कंज्यूमर कमीशन के फैसले से बैंक लॉकर के जोखिम कैसे सामने आए?",
+    "summary_hi": "यूनियन बैंक के खिलाफ कंज्यूमर कमीशन के फैसले से पता चलता है कि ग्राहक बैंक लॉकर में रखे सामान को कैसे सुरक्षित रख सकते हैं। वित्तीय नुकसान से बचने के लिए सही दस्तावेज, सरेंडर रसीद, बीमा और समय पर शिकायत करना जरूरी है।",
+    "why_hi": "बैंक लॉकर के लिए उपभोक्ता सुरक्षा उपायों को उजागर करता है।",
+    "chips_hi": {}
+  },
+  {
+    "v": 3,
+    "cat": "Companies",
+    "tk": "MARICO",
+    "title": "Marico to buy 51% stake in Bonorizon for ₹35 crore",
+    "summary": "FMCG major Marico is set to acquire a 51 percent stake in Bonorizon Consumer Ventures through a primary subscription. The agreement includes the option to purchase the remaining equity after a period of three years, pending specific conditions.",
+    "source": "Business Standard",
+    "published": "2026-11-06T16:27:15+00:00",
+    "ago": "9h",
+    "impact": "Positive",
+    "why": "Strategic stake expansion in consumer venture.",
+    "url": "https://www.business-standard.com/companies/news/marico-to-acquire-51-stake-in-bonorizon-consumer-ventures-for-35-crore-126110601971_1.html",
+    "chips": {
+      "Stake": "51%",
+      "Investment": "₹35 crore"
+    },
+    "trend": [
+      0.1,
+      0.25,
+      0.2,
+      0.5,
+      0.45,
+      0.8,
+      0.95
+    ],
+    "color": "0F766E",
+    "premium": false,
+    "title_hi": "Marico खरीदेगी Bonorizon में 51 प्रतिशत हिस्सेदारी, जानिए पूरी बात",
+    "summary_hi": "FMCG प्रमुख Marico प्राइमरी सब्सक्रिप्शन के जरिए Bonorizon Consumer Ventures में 51 प्रतिशत हिस्सेदारी का अधिग्रहण करेगी। इस सौदे के तहत कंपनी के पास कुछ शर्तों के अधीन तीन साल बाद शेष इक्विटी खरीदने का अधिकार भी सुरक्षित रहेगा।",
+    "why_hi": "रणनीतिक हिस्सेदारी का विस्तार।",
+    "chips_hi": {
+      "हिस्सेदारी": "51%",
+      "निवेश": "₹35 करोड़"
+    }
+  },
+  {
+    "v": 3,
+    "cat": "Companies",
+    "tk": "COMPANIES",
+    "title": "Can large companies learn to think like entrepreneurs this Samvat?",
+    "summary": "As a new Samvat begins, major corporations are urged to adopt entrepreneurial mindsets. Instead of depending entirely on standard budgets and forecasts, businesses need to cultivate innovation and develop the organizational agility required to navigate uncertainty effectively during these changing times.",
+    "source": "Business Standard",
+    "published": "2026-11-06T15:52:24+00:00",
+    "ago": "10h",
+    "impact": "Neutral",
+    "why": "Focuses on corporate mindset shift without earnings.",
+    "url": "https://www.business-standard.com/companies/news/this-samvat-can-large-companies-learn-to-think-like-entrepreneurs-126110601936_1.html",
+    "chips": {},
+    "trend": [
+      0.5,
+      0.55,
+      0.45,
+      0.5,
+      0.47,
+      0.52,
+      0.5
+    ],
+    "color": "B7791F",
+    "premium": false,
+    "title_hi": "क्या इस Samvat बड़ी कंपनियां उद्यमियों की तरह सोचना सीख सकती हैं?",
+    "summary_hi": "नए Samvat की शुरुआत के साथ, बड़ी कंपनियों को उद्यमी सोच अपनाने की सलाह दी गई है। सिर्फ बजट और अनुमानों पर निर्भर रहने के बजाय, व्यवसायों को नवाचार को बढ़ावा देना चाहिए और अनिश्चितता से निपटने के लिए आवश्यक फुर्ती विकसित करनी चाहिए।",
+    "why_hi": "कंपनी के वित्तीय नतीजे नहीं दिए गए हैं।",
+    "chips_hi": {}
+  },
+  {
+    "v": 3,
     "cat": "Industry",
     "tk": "INDUSTRY",
     "title": "How falling gold prices boosted Dhanteras footfalls and sales",
@@ -26,7 +216,9 @@
     "title_hi": "Gold के भाव घटने से कैसे बढ़े धनतेरस के आंकड़े",
     "summary_hi": "सोने की कीमतों में नरमी आने से धनतेरस पर ज्वैलर्स के यहां ग्राहकों की भारी भीड़ और बिक्री देखने को मिली। शादी की खरीदारी, पुराने सोने के एक्सचेंज और हल्के वजन की ज्वैलरी की मांग ने इस बिक्री को और बढ़ावा दिया।",
     "why_hi": "कम कीमत और शादियों की मांग से बढ़ी बिक्री।",
-    "chips_hi": {}
+    "chips_hi": {},
+    "hi_tries": 0,
+    "hi_ver": 2
   },
   {
     "v": 3,
@@ -61,7 +253,9 @@
     "chips_hi": {
       "प्रीपेड प्लान": "₹299",
       "वैधता": "28 दिन"
-    }
+    },
+    "hi_tries": 0,
+    "hi_ver": 2
   },
   {
     "v": 3,
@@ -91,7 +285,8 @@
     ],
     "color": "0F766E",
     "premium": false,
-    "hi_tries": 1
+    "hi_tries": 1,
+    "hi_ver": 2
   },
   {
     "v": 3,
@@ -126,7 +321,9 @@
     "chips_hi": {
       "नेट प्रॉफिट": "₹262 करोड़",
       "राजस्व": "₹2,829 करोड़"
-    }
+    },
+    "hi_tries": 0,
+    "hi_ver": 2
   },
   {
     "v": 3,
@@ -155,7 +352,9 @@
     "title_hi": "Singapore court का Tata Power के शेयर्स को कुर्क और बेचने का आदेश",
     "summary_hi": "Singapore की अदालत ने Kleros के पक्ष में मध्यस्थता फैसलों को लागू करने का आदेश दिया है। इस कानूनी कदम से Tata Power की दो सहायक कंपनियों में रखे गए शेयरों को कुर्क करने और बेचने की अनुमति मिल गई है। यह कार्रवाई दोनों पक्षों के बीच चल रहे विवाद से जुड़ी है।",
     "why_hi": "अदालत ने सहायक कंपनी के शेयर कुर्क करने को कहा।",
-    "chips_hi": {}
+    "chips_hi": {},
+    "hi_tries": 0,
+    "hi_ver": 2
   },
   {
     "v": 3,
@@ -184,7 +383,9 @@
     "title_hi": "Bombay HC में याचिका, Tata Sons को स्टॉक मार्केट में लिस्ट करने की मांग",
     "summary_hi": "बॉम्बे हाईकोर्ट में एक याचिका दायर कर Tata Sons को स्टॉक मार्केट में लिस्ट कराने के लिए RBI को निर्देश देने की मांग की गई है। याचिकाकर्ताओं का तर्क है कि कंपनी को RBI के नियमों का पालन करना चाहिए। उन्होंने सार्वजनिक हित और गवर्नेंस चिंताओं का हवाला देते हुए Noel Tata को मुख्य पदों से हटाने की भी मांग की है।",
     "why_hi": "कानूनी याचिका में लिस्टिंग और बदलाव की मांग।",
-    "chips_hi": {}
+    "chips_hi": {},
+    "hi_tries": 0,
+    "hi_ver": 2
   },
   {
     "v": 3,
@@ -609,216 +810,6 @@
     "chips_hi": {
       "इक्विटी ट्रेड": "1.41 प्रतिशत",
       "ट्रेडेड शेयर": "88,524,639"
-    },
-    "hi_tries": 0,
-    "hi_ver": 2
-  },
-  {
-    "v": 3,
-    "cat": "Industry",
-    "tk": "INDUSTRY",
-    "title": "Why did India's auto retail sales drop 23.8% in October?",
-    "summary": "India experienced a 23.8 per cent decline in automobile retail sales to over 31.72 lakh units in October compared to the same month last year. The Federation of Automobile Dealers Associations stated this drop was largely due to the festive calendar shift, as Navratri and Diwali fell in November this year.",
-    "source": "Business Standard / Press Trust of India",
-    "published": "2026-11-06T05:27:01+00:00",
-    "ago": "56m",
-    "impact": "Negative",
-    "why": "Retail sales fell significantly across vehicle categories.",
-    "url": "https://www.business-standard.com/industry/auto/auto-retail-sales-fall-23-8-in-october-to-3-172-million-units-fada-126110600528_1.html",
-    "chips": {
-      "Retail sales decline": "23.8%",
-      "Total sales": "31.72 lakh units",
-      "Two-wheeler sales dr": "28.35%"
-    },
-    "trend": [
-      0.95,
-      0.85,
-      0.7,
-      0.6,
-      0.4,
-      0.3,
-      0.1
-    ],
-    "color": "9B2C2C",
-    "premium": false,
-    "title_hi": "अक्टूबर में भारत की ऑटो खुदरा बिक्री क्यों 23.8% गिर गई?",
-    "summary_hi": "ऑटोमोबाइल डीलर्स एसोसिएशन के डेटा के अनुसार, इस साल अक्टूबर में भारत की ऑटो खुदरा बिक्री साल-दर-साल 23.8 प्रतिशत घटकर 31.72 लाख यूनिट से अधिक रह गई। यह गिरावट मुख्य रूप से त्योहारों के कैलेंडर में बदलाव के कारण हुई, क्योंकि इस साल नवरात्रि और दिवाली नवंबर के महीने में पड़े थे।",
-    "why_hi": "खुदरा बिक्री में भारी गिरावट दर्ज की गई।",
-    "chips_hi": {
-      "खुदरा बिक्री में गिर": "23.8%",
-      "कुल बिक्री": "31.72 लाख यूनिट",
-      "दोपहिया वाहन बिक्री ": "28.35%"
-    },
-    "hi_tries": 0,
-    "hi_ver": 2
-  },
-  {
-    "v": 3,
-    "cat": "Earnings",
-    "tk": "MARKETS",
-    "title": "Sai Life shares jump 10 percent to reach record high",
-    "summary": "Shares of Sai Life Sciences climbed 10 percent to touch a record high following strong financial results for the second quarter. The company expects the second half of the year to be stronger, driven by new capacity ramp-ups and the progress of its commercial and development pipeline.",
-    "source": "Business Standard",
-    "published": "2026-11-06T05:09:10+00:00",
-    "ago": "1h",
-    "impact": "Positive",
-    "why": "Strong earnings and positive future outlook.",
-    "url": "https://www.business-standard.com/markets/news/sai-life-soars-10-hits-record-high-on-strong-q2-earnings-126110600520_1.html",
-    "chips": {
-      "Share price surge": "10%"
-    },
-    "trend": [
-      0.1,
-      0.25,
-      0.2,
-      0.5,
-      0.45,
-      0.8,
-      0.95
-    ],
-    "color": "0F766E",
-    "premium": false,
-    "title_hi": "Sai Life के शेयर 10 प्रतिशत उछलकर रिकॉर्ड स्तर पर पहुंचे",
-    "summary_hi": "मजबूत दूसरी तिमाही के परिणामों के बाद Sai Life Sciences के शेयरों में 10 प्रतिशत की तेजी आई और यह रिकॉर्ड स्तर पर पहुंच गया। कंपनी को नई क्षमता बढ़ने और पाइपलाइन के विकास से साल के दूसरे हिस्से में बेहतर प्रदर्शन की उम्मीद है।",
-    "why_hi": "मजबूत कमाई और बेहतर भविष्य का अनुमान।",
-    "chips_hi": {
-      "शेयर में तेजी": "10%"
-    },
-    "hi_tries": 0,
-    "hi_ver": 2
-  },
-  {
-    "v": 3,
-    "cat": "Markets",
-    "tk": "HERO MOTOCORP",
-    "title": "Why are experts suggesting a bull spread strategy for these stocks?",
-    "summary": "An analyst from HDFC Securities has suggested a bull spread trading strategy for two prominent companies. The recommended approach focuses on Hero MotoCorp and Punjab National Bank. Market participants track such professional options and futures strategies for potential movement insights.",
-    "source": "Business Standard",
-    "published": "2026-11-06T02:16:11+00:00",
-    "ago": "10m",
-    "impact": "Neutral",
-    "why": "Analyst suggests options strategy for specific stocks.",
-    "url": "https://www.business-standard.com/markets/news/f-o-pick-today-hdf-securities-analyst-nandish-shah-recommends-bull-spread-strategy-on-hero-motocorp-pnb-126110600096_1.html",
-    "chips": {},
-    "trend": [
-      0.5,
-      0.55,
-      0.45,
-      0.5,
-      0.47,
-      0.52,
-      0.5
-    ],
-    "color": "B7791F",
-    "premium": false,
-    "title_hi": "इन शेयरों के लिए बुल स्प्रेड रणनीति का सुझाव क्यों दिया गया है?",
-    "summary_hi": "HDFC सिक्योरिटीज के एक विश्लेषक ने दो प्रमुख कंपनियों के लिए बुल स्प्रेड ट्रेडिंग रणनीति का सुझाव दिया है। यह अनुशंसित दृष्टिकोण Hero MotoCorp और पंजाब नेशनल बैंक पर केंद्रित है।",
-    "why_hi": "विश्लेषक ने शेयरों के लिए रणनीति सुझाई।",
-    "chips_hi": {},
-    "hi_tries": 0,
-    "hi_ver": 2
-  },
-  {
-    "v": 3,
-    "cat": "Markets",
-    "tk": "MARKETS",
-    "title": "Sensex surges 6,064 points heading towards a record pre-Diwali rally",
-    "summary": "The BSE Sensex and NSE Nifty jumped by 8.3 percent and 8.1 percent respectively over the last six trading sessions. The indices are tracking their strongest pre-Diwali performance since the start of NSE Muhurat trading in 1992. This rapid climb highlights significant market momentum leading into the festive trading period.",
-    "source": "Business Standard",
-    "published": "2026-11-06T02:02:22+00:00",
-    "ago": "24m",
-    "impact": "Positive",
-    "why": "Strong market gains during the festive season.",
-    "url": "https://www.business-standard.com/markets/news/sensex-up-6-064-pts-in-six-days-eyes-strongest-pre-diwali-rally-in-35-yrs-126110600091_1.html",
-    "chips": {
-      "Sensex rise": "6,064 pts",
-      "Sensex gain": "8.3%",
-      "Nifty gain": "8.1%"
-    },
-    "trend": [
-      0.1,
-      0.25,
-      0.2,
-      0.5,
-      0.45,
-      0.8,
-      0.95
-    ],
-    "color": "0F766E",
-    "premium": false,
-    "title_hi": "Sensex में 6,064 अंकों की तेजी, 35 साल की सबसे मजबूत प्री-दिवाली रैली",
-    "summary_hi": "पिछले छह कारोबारी सत्रों में BSE Sensex और NSE Nifty में क्रमशः 8.3 प्रतिशत और 8.1 प्रतिशत की जोरदार तेजी आई है। ये सूचकांक 1992 में NSE पर मुहूर्त ट्रेडिंग की शुरुआत के बाद से सबसे बेहतरीन सात दिवसीय प्री-दिवाली रैली दर्ज करने की राह पर हैं।",
-    "why_hi": "त्योहार के दौरान मजबूत बाजार तेजी।",
-    "chips_hi": {
-      "Sensex बढ़त": "6,064 अंक",
-      "Sensex तेजी": "8.3%",
-      "Nifty तेजी": "8.1%"
-    },
-    "hi_tries": 0,
-    "hi_ver": 2
-  },
-  {
-    "v": 3,
-    "cat": "Economy",
-    "tk": "ECONOMY",
-    "title": "How is Uttar Pradesh attracting private medical college investments?",
-    "summary": "A new scheme in Uttar Pradesh aims to draw private capital and expertise to build medical colleges and teaching hospitals in districts lacking these facilities. The policy introduces specific models, incentives, and eligibility criteria to encourage healthcare infrastructure development across underserved regions.",
-    "source": "Business Standard",
-    "published": "2026-11-06T01:30:48+00:00",
-    "ago": "57m",
-    "impact": "Positive",
-    "why": "Boosts healthcare infrastructure in underserved districts.",
-    "url": "https://www.business-standard.com/economy/uttar-pradesh/uttar-pradesh-private-medical-college-scheme-2022-models-incentives-and-eligibility-126110200883_1.html",
-    "chips": {},
-    "trend": [
-      0.1,
-      0.25,
-      0.2,
-      0.5,
-      0.45,
-      0.8,
-      0.95
-    ],
-    "color": "0F766E",
-    "premium": false,
-    "title_hi": "Uttar Pradesh में प्राइवेट मेडिकल कॉलेज लाने के लिए क्या है योजना?",
-    "summary_hi": "Uttar Pradesh सरकार ने उन जिलों में मेडिकल कॉलेज और अस्पताल बनाने के लिए निजी निवेश आकर्षित करने की योजना शुरू की है जहां ऐसे संस्थान नहीं थे। यह नीति स्वास्थ्य ढांचा मजबूत करने के लिए प्रोत्साहन और पात्रता तय करती है।",
-    "why_hi": "अस्पताल और मेडिकल कॉलेज का विस्तार।",
-    "chips_hi": {},
-    "hi_tries": 0,
-    "hi_ver": 2
-  },
-  {
-    "v": 3,
-    "cat": "Industry",
-    "tk": "INDUSTRY",
-    "title": "How did wheat exports surge fourfold after the ban?",
-    "summary": "India's wheat exports rose fourfold in September, reaching $69 million following the removal of the ban. However, high domestic prices and limited competitiveness in the global market may restrict future shipments in the upcoming months, according to the latest available data.",
-    "source": "Business Standard",
-    "published": "2026-11-05T18:37:45+00:00",
-    "ago": "7h",
-    "impact": "Neutral",
-    "why": "Mixed signals from higher exports and domestic prices.",
-    "url": "https://www.business-standard.com/industry/agriculture/a-month-after-lifting-of-ban-wheat-exports-rise-fourfold-shows-data-126110502116_1.html",
-    "chips": {
-      "Export value": "$69 million"
-    },
-    "trend": [
-      0.5,
-      0.55,
-      0.45,
-      0.5,
-      0.47,
-      0.52,
-      0.5
-    ],
-    "color": "B7791F",
-    "premium": true,
-    "title_hi": "बैन हटने के एक महीने बाद गेहूं के निर्यात में चार गुना बढ़ोतरी",
-    "summary_hi": "बैन हटने के बाद सितंबर में भारत का गेहूं निर्यात चार गुना बढ़कर 69 मिलियन डॉलर पर पहुंच गया। हालांकि, घरेलू स्तर पर ऊंची कीमतें और सीमित निर्यात प्रतिस्पर्धा आने वाले महीनों में शिपमेंट को प्रभावित कर सकती हैं।",
-    "why_hi": "निर्यात बढ़ने और घरेलू कीमतों का मिलाजुला असर।",
-    "chips_hi": {
-      "निर्यात मूल्य": "$69 मिलियन"
     },
     "hi_tries": 0,
     "hi_ver": 2
