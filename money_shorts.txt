@@ -1,6 +1,212 @@
 [
   {
     "v": 3,
+    "cat": "Industry",
+    "tk": "INDUSTRY",
+    "title": "Kalpataru aims for Rs 6,500 crore pre-sales target for FY27",
+    "summary": "Realty firm Kalpataru Ltd expects to meet its Rs 6,500 crore pre-sales target this fiscal, marking a 23 percent rise from the previous year. The company's CFO noted that housing demand remains strong for established players despite global economic uncertainties.",
+    "source": "Business Standard / Press Trust of India",
+    "published": "2026-11-08T09:56:46+00:00",
+    "ago": "13m",
+    "impact": "Positive",
+    "why": "Strong housing demand supports higher pre-sales targets.",
+    "url": "https://www.business-standard.com/industry/news/kalpataru-confident-of-meeting-6-500-cr-pre-sales-target-for-fy27-cfo-126110800339_1.html",
+    "chips": {
+      "Pre-sales target": "Rs 6,500 crore",
+      "Target growth": "23 per cent",
+      "H1 sales bookings": "Rs 2,587 crore"
+    },
+    "trend": [
+      0.1,
+      0.25,
+      0.2,
+      0.5,
+      0.45,
+      0.8,
+      0.95
+    ],
+    "color": "0F766E",
+    "premium": false,
+    "title_hi": "Kalpataru को FY27 के लिए Rs 6,500 करोड़ के प्री-सेल्स लक्ष्य की उम्मीद",
+    "summary_hi": "रियल्टी फर्म Kalpataru Ltd को चालू वित्त वर्ष में अपने 6,500 करोड़ रुपये के प्री-सेल्स लक्ष्य को हासिल करने की उम्मीद है, जो पिछले वर्ष से 23 प्रतिशत अधिक है। कंपनी के सीएफओ के अनुसार, वैश्विक अनिश्चितताओं के बावजूद स्थापित खिलाड़ियों के लिए आवास की मांग मजबूत बनी हुई है। साल की पहली छमाही में बुकिंग लगभग 2,600 करोड़ रुपये पर सपाट रही।",
+    "why_hi": "मजबूत आवास मांग से प्री-सेल्स लक्ष्य पूरा होने की उम्मीद।",
+    "chips_hi": {
+      "प्री-सेल्स लक्ष्य": "₹6,500 करोड़",
+      "लक्ष्य वृद्धि": "23 प्रतिशत",
+      "H1 सेल्स बुकिंग": "₹2,587 करोड़"
+    }
+  },
+  {
+    "v": 3,
+    "cat": "Markets",
+    "tk": "MARKETS",
+    "title": "Why did Divi's Labs surge six percent to reach a record high?",
+    "summary": "Divi's Labs climbed to a new peak of Rs 10,950 during the special Muhurat trading session. The pharmaceutical company saw its shares jump by six percent. This positive movement followed the announcement of a sixty-four percent increase in its net profit for the second quarter.",
+    "source": "Business Standard",
+    "published": "2026-11-08T09:40:54+00:00",
+    "ago": "29m",
+    "impact": "Positive",
+    "why": "Strong profit growth drove share price higher.",
+    "url": "https://www.business-standard.com/markets/news/icici-bank-divi-s-among-14-nse-500-stocks-hit-new-highs-in-muhurat-session-126110800329_1.html",
+    "chips": {
+      "Share surge": "6%",
+      "New high": "Rs 10,950",
+      "Q2 net profit growth": "64%"
+    },
+    "trend": [
+      0.1,
+      0.25,
+      0.2,
+      0.5,
+      0.45,
+      0.8,
+      0.95
+    ],
+    "color": "0F766E",
+    "premium": false,
+    "title_hi": "मुहूर्त ट्रेडिंग सत्र में Divi's Labs का शेयर नए रिकॉर्ड स्तर पर क्यों पहुंचा?",
+    "summary_hi": "विशेष मुहूर्त ट्रेडिंग सत्र के दौरान Divi's Labs का शेयर छह प्रतिशत चढ़कर 10,950 रुपये के नए उच्च स्तर पर पहुंच गया। फार्मा कंपनी द्वारा दूसरी तिमाही के शुद्ध लाभ में 64 प्रतिशत की वृद्धि की रिपोर्ट करने के बाद शेयरों में यह तेजी आई है।",
+    "why_hi": "मजबूत लाभ वृद्धि से शेयर में तेजी आई।",
+    "chips_hi": {
+      "शेयर तेजी": "6%",
+      "नया उच्च स्तर": "₹10,950",
+      "Q2 शुद्ध लाभ वृद्धि": "64%"
+    }
+  },
+  {
+    "v": 3,
+    "cat": "Earnings",
+    "tk": "TATA STEEL",
+    "title": "Tata Steel jumps 3 percent during Sunday Muhurat trading session",
+    "summary": "Tata Steel shares rose over 3 percent, reaching a high of ₹192.19 on the NSE. This movement followed the company's steady financial results for the second quarter, capturing investor attention during the special trading session.",
+    "source": "Business Standard",
+    "published": "2026-11-08T09:17:44+00:00",
+    "ago": "52m",
+    "impact": "Positive",
+    "why": "Higher share price and steady earnings.",
+    "url": "https://www.business-standard.com/markets/news/tata-steel-spurts-3-in-muhurat-trading-session-post-steady-q2-earnings-126110800313_1.html",
+    "chips": {
+      "Share price high": "₹192.19",
+      "Gain": "3 percent"
+    },
+    "trend": [
+      0.1,
+      0.25,
+      0.2,
+      0.5,
+      0.45,
+      0.8,
+      0.95
+    ],
+    "color": "0F766E",
+    "premium": false,
+    "title_hi": "रविवार के मुहूर्त ट्रेडिंग सत्र में Tata Steel के शेयरों में 3 प्रतिशत की तेजी",
+    "summary_hi": "Tata Steel के शेयरों में 3 प्रतिशत से अधिक की बढ़त दर्ज की गई और एनएसई पर यह ₹192.19 के उच्च स्तर पर पहुंच गया। यह हलचल कंपनी के स्थिर दूसरी तिमाही के नतीजों के बाद विशेष मुहूर्त ट्रेडिंग सत्र के दौरान देखने को मिली।",
+    "why_hi": "शेयर भाव में बढ़त और स्थिर नतीजे।",
+    "chips_hi": {
+      "शेयर मूल्य": "₹192.19",
+      "बढ़ت": "3 प्रतिशत"
+    }
+  },
+  {
+    "v": 3,
+    "cat": "Companies",
+    "tk": "HINDALCO",
+    "title": "Why are Hindalco's aluminium production costs jumping by 5 percent?",
+    "summary": "Hindalco faces a coal shortage leading to rising expenses. The metals company anticipates aluminium production costs to increase by another 5 percent sequentially in the December quarter. A similar rise occurred in the September quarter, according to MD Satish Pai.",
+    "source": "Business Standard",
+    "published": "2026-11-08T08:26:47+00:00",
+    "ago": "1h",
+    "impact": "Negative",
+    "why": "Rising production costs impact profit margins.",
+    "url": "https://www.business-standard.com/companies/news/hindalco-flags-coal-shortage-expects-5-rise-in-aluminium-production-costs-126110800282_1.html",
+    "chips": {
+      "Cost increase": "5 per cent"
+    },
+    "trend": [
+      0.95,
+      0.85,
+      0.7,
+      0.6,
+      0.4,
+      0.3,
+      0.1
+    ],
+    "color": "9B2C2C",
+    "premium": false,
+    "title_hi": "Hindalco के एल्युमिनियम उत्पादन खर्च में 5 प्रतिशत की बढ़ोतरी क्यों होगी?",
+    "summary_hi": "कोयले की कमी का सामना कर रही मेटल कंपनी Hindalco का एल्युमिनियम उत्पादन खर्च दिसंबर तिमाही में क्रमिक रूप से 5 प्रतिशत और बढ़ने की उम्मीद है। एमडी सतीश पाई के अनुसार, सितंबर तिमाही में भी इसी तरह की बढ़ोतरी हुई थी।",
+    "why_hi": "बढ़ता उत्पादन खर्च मुनाफे को प्रभावित करता है।",
+    "chips_hi": {
+      "लागत वृद्धि": "5 प्रतिशत"
+    }
+  },
+  {
+    "v": 3,
+    "cat": "Industry",
+    "tk": "INDUSTRY",
+    "title": "Will global insurance coverage spark a boom in Indian medical tourism?",
+    "summary": "Medical tourism numbers in India could grow exponentially if international insurance companies start covering treatment expenses for foreign patients. According to Apollo Hospitals Joint Managing Director Sangita Reddy, this move would save patients money and attract a large segment of the Western world. The global medical travel market reached USD 115.6 billion in 2022 and is projected to grow significantly.",
+    "source": "Business Standard / Press Trust of India",
+    "published": "2026-11-08T08:03:14+00:00",
+    "ago": "2h",
+    "impact": "Positive",
+    "why": "Global insurance coverage could boost patient numbers.",
+    "url": "https://www.business-standard.com/industry/news/medical-tourism-could-spike-if-global-insurance-firms-cover-treatments-126110800219_1.html",
+    "chips": {
+      "2022 market value": "USD 115.6 billion",
+      "2030 projected value": "USD 286.1 billion"
+    },
+    "trend": [
+      0.1,
+      0.25,
+      0.2,
+      0.5,
+      0.45,
+      0.8,
+      0.95
+    ],
+    "color": "0F766E",
+    "premium": false,
+    "title_hi": "क्या ग्लोबल इंश्योरेंस कवर से भारत के मेडिकल टूरिज्म में आएगी तेजी?",
+    "summary_hi": "यदि अंतरराष्ट्रीय बीमा कंपनियां विदेशी मरीजों के इलाज का खर्च उठाने लगें, तो भारत में मेडिकल टूरिज्म बहुत तेजी से बढ़ सकता है। अपोलो हॉस्पिटल्स की संयुक्त प्रबंध निदेशक संगीता रेड्डी के अनुसार, इससे मरीजों के पैसे बचेंगे और पश्चिमी देशों के लोग आकर्षित होंगे। ग्लोबल मेडिकल ट्रैवल मार्केट 2022 में USD 115.6 अरब था और इसके बढ़ने का अनुमान है।",
+    "why_hi": "ग्लोबल इंश्योरेंस कवर से मरीजों की संख्या बढ़ सकती है।",
+    "chips_hi": {
+      "2022 मार्केट वैल्यू": "USD 115.6 अरब",
+      "2030 अनुमानित वैल्यू": "USD 286.1 अरब"
+    }
+  },
+  {
+    "v": 3,
+    "cat": "Industry",
+    "tk": "INDUSTRY",
+    "title": "Honda extends retail lead over Hero MotoCorp for four months",
+    "summary": "Honda has outsold Hero MotoCorp for the fourth consecutive month in October. This growth has narrowed the gap in calendar-year sales between the two companies. Rising demand for scooters and changing market dynamics have intensified the competition in the two-wheeler sector.",
+    "source": "Business Standard",
+    "published": "2026-11-08T07:48:24+00:00",
+    "ago": "2h",
+    "impact": "Negative",
+    "why": "Hero MotoCorp loses retail market share.",
+    "url": "https://www.business-standard.com/industry/auto/industry-auto-honda-four-month-sales-lead-puts-hero-motocorp-top-position-at-risk-126110800258_1.html",
+    "chips": {},
+    "trend": [
+      0.95,
+      0.85,
+      0.7,
+      0.6,
+      0.4,
+      0.3,
+      0.1
+    ],
+    "color": "9B2C2C",
+    "premium": false,
+    "title_hi": "Honda ने Hero MotoCorp पर लगातार चौथे महीने बढ़त बनाई",
+    "summary_hi": "अक्टूबर में लगातार चौथे महीने Honda की बिक्री Hero MotoCorp से आगे रही है। इस वजह से कैलेंडर वर्ष की बिक्री का अंतर भी कम हो गया है। स्कूटर की मांग और बदलते बाजार के रुझानों के कारण दोनों कंपनियों के बीच मुकाबला काफी तेज हो गया है।",
+    "why_hi": "Hero MotoCorp की खुदरा हिस्सेदारी घटी।",
+    "chips_hi": {}
+  },
+  {
+    "v": 3,
     "cat": "Companies",
     "tk": "COMPANIES",
     "title": "Why is Indian Oil Corporation planning to buy shipping vessels?",
@@ -26,7 +232,9 @@
     "title_hi": "Indian Oil Corporation क्यों खरीदना चाहती है खुद के जहाज?",
     "summary_hi": "इंडियन ऑयल कॉरपोरेशन ने अपनी एनर्जी सप्लाई चेन को सुरक्षित करने के लिए क्रूड ऑयल और एलपीजी कैरियर खरीदने की योजना बनाई है। स्ट्रेट ऑफ होर्मुज के पास शिपिंग में बाधाओं और बढ़ते माल भाड़े के कारण यह कदम उठाया गया है। बोर्ड ने जहाजों की खरीद को मंजूरी दे दी है।",
     "why_hi": "शिपिंग जोखिमों के बीच सप्लाई चेन मजबूत करना",
-    "chips_hi": {}
+    "chips_hi": {},
+    "hi_tries": 0,
+    "hi_ver": 2
   },
   {
     "v": 3,
@@ -59,7 +267,9 @@
     "why_hi": "बड़ा पूंजीगत खर्च बुनियादी ढांचे का विस्तार करेगा।",
     "chips_hi": {
       "सालाना capex": "₹35,000-40,000 करोड़"
-    }
+    },
+    "hi_tries": 0,
+    "hi_ver": 2
   },
   {
     "v": 3,
@@ -85,7 +295,8 @@
     ],
     "color": "0F766E",
     "premium": false,
-    "hi_tries": 1
+    "hi_tries": 1,
+    "hi_ver": 2
   },
   {
     "v": 3,
@@ -111,7 +322,8 @@
     ],
     "color": "0F766E",
     "premium": false,
-    "hi_tries": 1
+    "hi_tries": 1,
+    "hi_ver": 2
   },
   {
     "v": 3,
@@ -246,7 +458,7 @@
     ],
     "color": "B7791F",
     "premium": false,
-    "hi_tries": 1,
+    "hi_tries": 2,
     "hi_ver": 2
   },
   {
@@ -611,212 +823,6 @@
     "why_hi": "कर्ज भुगतान और विस्तार से फंड का उपयोग।",
     "chips_hi": {
       "आईपीओ आकार": "₹2,500 करोड़"
-    },
-    "hi_tries": 0,
-    "hi_ver": 2
-  },
-  {
-    "v": 3,
-    "cat": "Companies",
-    "tk": "VOLTAS",
-    "title": "Why is Noel Tata stepping down as Voltas chairman?",
-    "summary": "Noel Tata will step down as chairman and director of Voltas on November 11, 2026, due to superannuation guidelines. Following this, he will take on the role of Chairman Emeritus starting November 12, 2026. Meanwhile, Sunil D'Souza has been appointed as the new chairman of the company.",
-    "source": "Business Standard / Press Trust of India",
-    "published": "2026-11-07T07:17:20+00:00",
-    "ago": "2h",
-    "impact": "Neutral",
-    "why": "Leadership transition due to age retirement norms.",
-    "url": "https://www.business-standard.com/companies/news/noel-tata-to-step-down-as-voltas-chairman-appointed-chairman-emeritus-126110602076_1.html",
-    "chips": {
-      "Retirement date": "November 11, 2026",
-      "Association since": "2003"
-    },
-    "trend": [
-      0.5,
-      0.55,
-      0.45,
-      0.5,
-      0.47,
-      0.52,
-      0.5
-    ],
-    "color": "B7791F",
-    "premium": false,
-    "title_hi": "Noel Tata Voltas के चेयरमैन पद से क्यों हटेंगे?",
-    "summary_hi": "सुपरएनुएशन नियमों के कारण Noel Tata 11 नवंबर 2026 को Voltas के चेयरमैन और डायरेक्टर पद से सेवानिवृत्त होंगे। इसके बाद वह 12 नवंबर 2026 से चेयरमैन एमेरिटस का पद संभालेंगे। इस बीच, सुनील डिसूजा को कंपनी का नया चेयरमैन नियुक्त किया गया है।",
-    "why_hi": "उम्र के नियमों के तहत नेतृत्व में बदलाव।",
-    "chips_hi": {
-      "सेवानिवृत्ति तिथि": "11 नवंबर 2026",
-      "जुड़े हुए हैं": "2003 से"
-    },
-    "hi_tries": 0,
-    "hi_ver": 2
-  },
-  {
-    "v": 3,
-    "cat": "Markets",
-    "tk": "MARKETS",
-    "title": "Should India scrap capital gains tax for foreign investors?",
-    "summary": "Edelweiss Financial Services Chairman Rashesh Shah suggested that eliminating capital gains tax for foreign portfolio investors could revive equity inflows and support the rupee. This proposal comes during a period of heavy selling by overseas investors in the Indian market.",
-    "source": "Business Standard / Bloomberg",
-    "published": "2026-11-07T05:11:08+00:00",
-    "ago": "57m",
-    "impact": "Neutral",
-    "why": "Suggestion offered to revive foreign fund inflows.",
-    "url": "https://www.business-standard.com/markets/news/india-should-scrap-equity-tax-on-foreign-investors-says-edelweiss-chief-126110700243_1.html",
-    "chips": {},
-    "trend": [
-      0.5,
-      0.55,
-      0.45,
-      0.5,
-      0.47,
-      0.52,
-      0.5
-    ],
-    "color": "B7791F",
-    "premium": false,
-    "title_hi": "क्या भारत को विदेशी निवेशकों पर कैपिटल गेन टैक्स हटाना चाहिए?",
-    "summary_hi": "Edelweiss Financial Services के चेयरमैन रशेष शाह ने सुझाव दिया है कि विदेशी पोर्टफोलियो निवेशकों के लिए कैपिटल गेन टैक्स हटाने से इक्विटी में निवेश बढ़ाने और रुपये को सहारा मिलने में मदद मिल सकती है। यह सुझाव विदेशी निवेशकों की भारी बिकवाली के बीच आया है।",
-    "why_hi": "विदेशी फंड प्रवाह को पुनर्जीवित करने का सुझाव।",
-    "chips_hi": {},
-    "hi_tries": 0,
-    "hi_ver": 2
-  },
-  {
-    "v": 3,
-    "cat": "Industry",
-    "tk": "INDUSTRY",
-    "title": "How many days will banks remain closed during Diwali next week?",
-    "summary": "As Dhanteras marks the start of the five-day Diwali festival period, bank customers are advised to check their local holiday calendars before visiting any branch next week. Since holiday schedules can vary by region, checking in advance helps customers plan their visits properly during the festive week.",
-    "source": "Business Standard / BS Rich Content",
-    "published": "2026-11-07T05:04:56+00:00",
-    "ago": "1h",
-    "impact": "Neutral",
-    "why": "Routine festival bank holiday advisory.",
-    "url": "https://www.business-standard.com/industry/banking/diwali-2026-bank-holidays-how-many-days-will-banks-be-closed-next-week-nc-126110601344_1.html",
-    "chips": {},
-    "trend": [
-      0.5,
-      0.55,
-      0.45,
-      0.5,
-      0.47,
-      0.52,
-      0.5
-    ],
-    "color": "B7791F",
-    "premium": false,
-    "hi_tries": 0,
-    "title_hi": "दीवाली पर अगले हफ्ते कितने दिन बंद रहेंगे बैंक?",
-    "summary_hi": "धनतेरस के साथ दीवाली का पाँच दिवसीय त्योहार शुरू हो रहा है। ऐसे में ग्राहकों को सलाह दी जाती है कि वे बैंक जाने से पहले अपने यहाँ की छुट्टियों की सूची जरूर देख लें। अलग-अलग राज्यों में छुट्टियाँ अलग हो सकती हैं, जिससे आपको त्योहार के दौरान काम निपटाने में आसानी होगी।",
-    "why_hi": "Routine festival bank holiday advisory.",
-    "chips_hi": {},
-    "hi_ver": 2
-  },
-  {
-    "v": 3,
-    "cat": "Markets",
-    "tk": "MARKETS",
-    "title": "Wall Street rebounds as chip stocks rally after heavy selloff",
-    "summary": "Wall Street indexes closed higher, driven by a rebound in technology and semiconductor shares. The Philadelphia Semiconductor Index advanced by 4.2 percent following a prior selloff linked to artificial intelligence. Despite this daily recovery, all three major US indexes ended the week with losses.",
-    "source": "Business Standard / Reuters",
-    "published": "2026-11-07T02:54:16+00:00",
-    "ago": "3h",
-    "impact": "Positive",
-    "why": "Semiconductor stocks gained 4.2 percent.",
-    "url": "https://www.business-standard.com/markets/news/wall-street-rebounds-as-chip-stocks-rally-after-heavy-ai-related-selloff-126110700047_1.html",
-    "chips": {
-      "Philadelphia Semicon": "4.2%"
-    },
-    "trend": [
-      0.1,
-      0.25,
-      0.2,
-      0.5,
-      0.45,
-      0.8,
-      0.95
-    ],
-    "color": "0F766E",
-    "premium": false,
-    "title_hi": "भारी बिकवाली के बाद चिप शेयरों में तेजी से वॉल स्ट्रीट में सुधार",
-    "summary_hi": "वॉल स्ट्रीट के सूचकांक टेक्नोलॉजी और सेमीकंडक्टर शेयरों में तेजी के साथ ऊपर बंद हुए। आर्टिफिशियल इंटेलिजेंस से जुड़ी बिकवाली के बाद फिलाडेल्फिया सेमीकंडक्टर इंडेक्स में 4.2 प्रतिशत की बढ़त दर्ज की गई। हालांकि, इस दैनिक सुधार के बावजूद तीनों प्रमुख अमेरिकी सूचकांक साप्ताहिक आधार पर नुकसान में रहे।",
-    "why_hi": "सेमीकंडक्टर शेयरों में 4.2 प्रतिशत की तेजी।",
-    "chips_hi": {
-      "फिलाडेल्फिया सेमीकंड": "4.2%"
-    },
-    "hi_tries": 0,
-    "hi_ver": 2
-  },
-  {
-    "v": 3,
-    "cat": "Markets",
-    "tk": "MARKETS",
-    "title": "Why did Brent crude surge 60.4% in Samvat 2082?",
-    "summary": "During Samvat 2082, commodities experienced high volatility driven by a sharp rise in Brent crude due to the US-Iran conflict. Meanwhile, gold and silver dropped in dollar terms after sliding from record peaks, although a weaker rupee helped boost domestic returns for investors.",
-    "source": "Business Standard",
-    "published": "2026-11-06T18:04:28+00:00",
-    "ago": "16h",
-    "impact": "Neutral",
-    "why": "Mixed commodity movements driven by crude and currency.",
-    "url": "https://www.business-standard.com/markets/news/samvat-2082-commodities-witness-sharp-volatility-as-crude-surges-126110601860_1.html",
-    "chips": {
-      "Crude surge": "60.4%"
-    },
-    "trend": [
-      0.5,
-      0.55,
-      0.45,
-      0.5,
-      0.47,
-      0.52,
-      0.5
-    ],
-    "color": "B7791F",
-    "premium": false,
-    "title_hi": "Samvat 2082 में क्यों आया Brent crude में 60.4% का उछाल?",
-    "summary_hi": "Samvat 2082 के दौरान US-Iran संघर्ष के चलते कच्चे तेल में भारी तेजी आई। इस दौरान सोने और चांदी की कीमतों में डॉलर के संदर्भ में गिरावट आई, हालांकि रुपये के कमजोर होने से घरेलू रिटर्न को समर्थन मिला।",
-    "why_hi": "कच्चे तेल और मुद्रा में उतार-चढ़ाव।",
-    "chips_hi": {
-      "क्रूड उछाल": "60.4%"
-    },
-    "hi_tries": 0,
-    "hi_ver": 2
-  },
-  {
-    "v": 3,
-    "cat": "Markets",
-    "tk": "MARKETS",
-    "title": "Weakest Samvat in 15 years ends with a late market rally",
-    "summary": "Domestic markets concluded Samvat 2082 with overall losses of 4 percent for the Sensex and 3.1 percent for the Nifty, marking the weakest Samvat performance in 15 years. This decline occurred despite a strong late rally that resulted in the largest weekly gains for both indices in nearly six years.",
-    "source": "Business Standard",
-    "published": "2026-11-06T17:52:49+00:00",
-    "ago": "8h",
-    "impact": "Negative",
-    "why": "Indices closed the Samvat year with losses.",
-    "url": "https://www.business-standard.com/markets/news/weakest-samvat-in-15-years-ends-on-a-high-for-mkts-as-sensex-nifty-rally-126110601769_1.html",
-    "chips": {
-      "Sensex loss": "4%",
-      "Nifty loss": "3.1%"
-    },
-    "trend": [
-      0.95,
-      0.85,
-      0.7,
-      0.6,
-      0.4,
-      0.3,
-      0.1
-    ],
-    "color": "9B2C2C",
-    "premium": false,
-    "title_hi": "15 साल का सबसे कमजोर संवत तेज उछाल के साथ हुआ समाप्त",
-    "summary_hi": "संवत 2082 के दौरान Sensex में 4 प्रतिशत और Nifty में 3.1 प्रतिशत की गिरावट दर्ज की गई, जो पिछले 15 वर्षों में सबसे कमजोर प्रदर्शन है। हालांकि, आखिरी समय में आई एक मजबूत तेजी के कारण दोनों सूचकांकों ने लगभग छह वर्षों में अपना सबसे बड़ा साप्ताहिक लाभ हासिल किया।",
-    "why_hi": "इंडेक्स साल के अंत में घाटे में रहे।",
-    "chips_hi": {
-      "Sensex गिरावट": "4%",
-      "Nifty गिरावट": "3.1%"
     },
     "hi_tries": 0,
     "hi_ver": 2
