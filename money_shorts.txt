@@ -1,6 +1,71 @@
 [
   {
     "v": 3,
+    "cat": "Finance",
+    "tk": "FINANCE",
+    "title": "Why are institutional investors lining up for premium K-12 schools?",
+    "summary": "Growing demand for quality private education and scarce land availability are opening new doors for developers and institutional investors. These groups are joining forces with established school operators to tap into the expanding premium K-12 school market, creating fresh business opportunities in the sector.",
+    "source": "Business Standard",
+    "published": "2026-11-08T12:29:32+00:00",
+    "ago": "1h",
+    "impact": "Positive",
+    "why": "Growing demand and partnerships create new opportunities.",
+    "url": "https://www.business-standard.com/finance/investment/premium-k-12-school-market-moves-into-top-class-as-investors-line-up-126110800379_1.html",
+    "chips": {},
+    "trend": [
+      0.1,
+      0.25,
+      0.2,
+      0.5,
+      0.45,
+      0.8,
+      0.95
+    ],
+    "color": "0F766E",
+    "premium": true,
+    "hi_tries": 1,
+    "title_hi": "बड़े निवेशक क्यों लगा रहे हैं प्रीमियम स्कूलों में पैसा?",
+    "summary_hi": "बेहतर प्राइवेट शिक्षा की बढ़ती मांग और जमीन की कमी के कारण डेवलपर्स और बड़े निवेशकों के लिए नए रास्ते खुल रहे हैं। ये लोग जाने-माने स्कूल ऑपरेटरों के साथ मिलकर प्रीमियम K-12 स्कूल बाजार में उतर रहे हैं, जिससे इस क्षेत्र में बिजनेस के नए मौके बन रहे हैं।",
+    "why_hi": "बढ़ती मांग और साझेदारियों से नए अवसर पैदा हो रहे हैं।",
+    "chips_hi": {}
+  },
+  {
+    "v": 3,
+    "cat": "Economy",
+    "tk": "ECONOMY",
+    "title": "Could the rupee strengthen to 92 per dollar in Samvat 2083?",
+    "summary": "The path for the rupee and bond yields in Samvat 2083 depends on key factors like West Asia tensions, inflation trends, and capital flows. A cooling of the US-Iran conflict could help the rupee appreciate to 92 per dollar. Meanwhile, bond yields might hover around 7 to 7.5 percent driven by rate adjustments.",
+    "source": "Business Standard",
+    "published": "2026-11-08T10:53:50+00:00",
+    "ago": "3h",
+    "impact": "Neutral",
+    "why": "Direction depends on multiple global and domestic factors.",
+    "url": "https://www.business-standard.com/economy/news/rupee-bond-outlook-in-samvat-2083-hinges-on-west-asia-inflation-flows-126110800392_1.html",
+    "chips": {
+      "Rupee level": "92 per dollar",
+      "Bond yields": "7-7.5 per cent"
+    },
+    "trend": [
+      0.5,
+      0.55,
+      0.45,
+      0.5,
+      0.47,
+      0.52,
+      0.5
+    ],
+    "color": "B7791F",
+    "premium": false,
+    "title_hi": "Samvat 2083 में क्या 92 प्रति डॉलर तक मजबूत हो सकता है रुपया?",
+    "summary_hi": "संवत 2083 में रुपये और बॉन्ड यील्ड का रुख पश्चिम एशिया के हालातों, महंगाई और पूंजी प्रवाह पर निर्भर करेगा। अमेरिका-ईरान संघर्ष कम होने पर रुपया 92 प्रति डॉलर तक मजबूत हो सकता है। वहीं, महंगाई के जोखिम और ब्याज दरों के चलते बॉन्ड यील्ड 7 से 7.5 प्रतिशत के दायरे में रह सकती है।",
+    "why_hi": "दिशा कई वैश्विक और घरेलू कारकों पर निर्भर है।",
+    "chips_hi": {
+      "रुपये का स्तर": "92 प्रति डॉलर",
+      "बॉन्ड यील्ड": "7-7.5 प्रतिशत"
+    }
+  },
+  {
+    "v": 3,
     "cat": "Industry",
     "tk": "INDUSTRY",
     "title": "Kalpataru aims for Rs 6,500 crore pre-sales target for FY27",
@@ -34,7 +99,9 @@
       "प्री-सेल्स लक्ष्य": "₹6,500 करोड़",
       "लक्ष्य वृद्धि": "23 प्रतिशत",
       "H1 सेल्स बुकिंग": "₹2,587 करोड़"
-    }
+    },
+    "hi_tries": 0,
+    "hi_ver": 2
   },
   {
     "v": 3,
@@ -71,7 +138,9 @@
       "शेयर तेजी": "6%",
       "नया उच्च स्तर": "₹10,950",
       "Q2 शुद्ध लाभ वृद्धि": "64%"
-    }
+    },
+    "hi_tries": 0,
+    "hi_ver": 2
   },
   {
     "v": 3,
@@ -106,7 +175,38 @@
     "chips_hi": {
       "शेयर मूल्य": "₹192.19",
       "बढ़ت": "3 प्रतिशत"
-    }
+    },
+    "hi_tries": 0,
+    "hi_ver": 2
+  },
+  {
+    "v": 3,
+    "cat": "Markets",
+    "tk": "MARKETS",
+    "title": "Will global factors keep commodity prices volatile in Samvat 2083?",
+    "summary": "Geopolitical events, global interest rates, and supply-demand dynamics are set to remain the primary drivers influencing crude oil and bullion prices, according to market analysts. These ongoing international developments indicate that commodity markets will experience continued price fluctuations in the upcoming Samvat year.",
+    "source": "Business Standard",
+    "published": "2026-11-08T08:36:08+00:00",
+    "ago": "5h",
+    "impact": "Neutral",
+    "why": "Global factors drive commodity price volatility.",
+    "url": "https://www.business-standard.com/markets/news/markets-commodities-samvat-2083-commodity-outlook-crude-oil-gold-silver-global-risks-126110800289_1.html",
+    "chips": {},
+    "trend": [
+      0.5,
+      0.55,
+      0.45,
+      0.5,
+      0.47,
+      0.52,
+      0.5
+    ],
+    "color": "B7791F",
+    "premium": false,
+    "title_hi": "क्या वैश्विक कारणों से संवत 2083 में कमोडिटी की कीमतों में उतार-चढ़ाव रहेगा?",
+    "summary_hi": "विश्लेषकों का कहना है कि भू-राजनीतिक कारक, वैश्विक ब्याज दरें और मांग-आपूर्ति की स्थिति कच्चे तेल और बुलियन की कीमतों को तय करने वाले मुख्य कारक बने रहेंगे। इन अंतरराष्ट्रीय गतिविधियों के कारण आने वाले संवत वर्ष में कमोडिटी बाजारों में उतार-चढ़ाव देखने को मिल सकता है।",
+    "why_hi": "वैश्विक कारणों से कमोडिटी की कीमतों में उतार-चढ़ाव।",
+    "chips_hi": {}
   },
   {
     "v": 3,
@@ -139,7 +239,9 @@
     "why_hi": "बढ़ता उत्पादन खर्च मुनाफे को प्रभावित करता है।",
     "chips_hi": {
       "लागत वृद्धि": "5 प्रतिशत"
-    }
+    },
+    "hi_tries": 0,
+    "hi_ver": 2
   },
   {
     "v": 3,
@@ -174,7 +276,9 @@
     "chips_hi": {
       "2022 मार्केट वैल्यू": "USD 115.6 अरब",
       "2030 अनुमानित वैल्यू": "USD 286.1 अरब"
-    }
+    },
+    "hi_tries": 0,
+    "hi_ver": 2
   },
   {
     "v": 3,
@@ -203,6 +307,37 @@
     "title_hi": "Honda ने Hero MotoCorp पर लगातार चौथे महीने बढ़त बनाई",
     "summary_hi": "अक्टूबर में लगातार चौथे महीने Honda की बिक्री Hero MotoCorp से आगे रही है। इस वजह से कैलेंडर वर्ष की बिक्री का अंतर भी कम हो गया है। स्कूटर की मांग और बदलते बाजार के रुझानों के कारण दोनों कंपनियों के बीच मुकाबला काफी तेज हो गया है।",
     "why_hi": "Hero MotoCorp की खुदरा हिस्सेदारी घटी।",
+    "chips_hi": {},
+    "hi_tries": 0,
+    "hi_ver": 2
+  },
+  {
+    "v": 3,
+    "cat": "Markets",
+    "tk": "MARKETS",
+    "title": "Why are bullion prices likely to stay under pressure next week?",
+    "summary": "Bullion prices may stay pressured as investors track the US-Iran conflict, crude oil movements, and key inflation data from India, the US, China, Germany, and Japan. Market participants will also monitor US employment numbers and Federal Reserve speeches for interest rate cues. Additionally, domestic commodities trading will remain closed during the morning session on Tuesday for Diwali-Balipratipada.",
+    "source": "Business Standard / Press Trust of India",
+    "published": "2026-11-08T06:17:09+00:00",
+    "ago": "7h",
+    "impact": "Neutral",
+    "why": "Uncertain global factors and upcoming inflation data release",
+    "url": "https://www.business-standard.com/markets/commodities/bullion-may-remain-under-pressure-as-markets-track-us-iran-war-inflation-126110800179_1.html",
+    "chips": {},
+    "trend": [
+      0.5,
+      0.55,
+      0.45,
+      0.5,
+      0.47,
+      0.52,
+      0.5
+    ],
+    "color": "B7791F",
+    "premium": false,
+    "title_hi": "ग्लोबल तनाव और महंगाई के आंकड़ों के बीच क्यों दबाव में रह सकता है बुलियन?",
+    "summary_hi": "अमेरिका-ईरान संघर्ष, कच्चे तेल की चाल और भारत, अमेरिका, चीन, जर्मनी तथा जापान के महंगाई आंकड़ों के कारण बुलियन कीमतों पर दबाव बना रह सकता है। निवेशक ब्याज दरों के संकेतों के लिए फेडरल रिजर्व के भाषणों और अमेरिकी रोजगार डेटा पर भी नजर रखेंगे। दिवाली-बलिप्रतिपदा के चलते मंगलवार को घरेलू कमोडिटी बाजार सुबह के सत्र में बंद रहेगा।",
+    "why_hi": "वैश्विक अनिश्चितता और महत्वपूर्ण आर्थिक आंकड़ों का इंतजार।",
     "chips_hi": {}
   },
   {
@@ -295,7 +430,7 @@
     ],
     "color": "0F766E",
     "premium": false,
-    "hi_tries": 1,
+    "hi_tries": 2,
     "hi_ver": 2
   },
   {
@@ -322,7 +457,7 @@
     ],
     "color": "0F766E",
     "premium": false,
-    "hi_tries": 1,
+    "hi_tries": 2,
     "hi_ver": 2
   },
   {
@@ -683,146 +818,6 @@
       "नेट प्रॉफिट वृद्धि": "18.2 प्रतिशत",
       "कंसोलिडेटेड रेवेन्यू": "₹65,436 करोड़",
       "EBITDA": "₹10,665 करोड़"
-    },
-    "hi_tries": 0,
-    "hi_ver": 2
-  },
-  {
-    "v": 3,
-    "cat": "Industry",
-    "tk": "INDUSTRY",
-    "title": "Why are oil firms tightening water checks at petrol pumps?",
-    "summary": "Oil marketing companies have stepped up monitoring at retail outlets. Regular inspections of underground storage tanks and dispensing nozzles are now required to prevent water contamination in E20 petrol, ensuring better quality control across fuel stations.",
-    "source": "Business Standard",
-    "published": "2026-11-07T10:04:33+00:00",
-    "ago": "4h",
-    "impact": "Neutral",
-    "why": "Routine quality control measure with unclear impact.",
-    "url": "https://www.business-standard.com/industry/news/oil-firms-tighten-water-checks-at-petrol-pumps-to-protect-e20-quality-126110700695_1.html",
-    "chips": {},
-    "trend": [
-      0.5,
-      0.55,
-      0.45,
-      0.5,
-      0.47,
-      0.52,
-      0.5
-    ],
-    "color": "B7791F",
-    "premium": false,
-    "title_hi": "पेट्रोल पंपों पर पानी की जांच क्यों कड़ी की जा रही है?",
-    "summary_hi": "ऑयल मार्केटिंग कंपनियों ने पेट्रोल पंपों पर निगरानी बढ़ा दी है। E20 पेट्रोल में पानी के संदूषण को रोकने के लिए अब अंडरग्राउंड स्टोरेज टैंक और डिस्पेंसिंग नोज़ल की नियमित जांच अनिवार्य कर दी गई है।",
-    "why_hi": "स्पष्ट प्रभाव के बिना नियमित गुणवत्ता नियंत्रण उपाय।",
-    "chips_hi": {},
-    "hi_tries": 0,
-    "hi_ver": 2
-  },
-  {
-    "v": 3,
-    "cat": "IPO",
-    "tk": "MARKETS",
-    "title": "Hindustan Coca-Cola Files Draft Papers With Sebi For IPO",
-    "summary": "Hindustan Coca-Cola Holdings has submitted draft papers to market regulator Sebi to raise funds via an initial public offering. The proposed share sale consists entirely of an offer for sale of up to 99,74,61,456 equity shares by the promoter. Because the issue is an offer for sale, the company will not receive any proceeds from the public offering.",
-    "source": "Business Standard / Press Trust of India",
-    "published": "2026-11-07T09:43:49+00:00",
-    "ago": "26m",
-    "impact": "Neutral",
-    "why": "No direct funds flow to the company.",
-    "url": "https://www.business-standard.com/markets/ipo/hindustan-coca-cola-holdings-files-draft-papers-with-sebi-for-ipo-126110700650_1.html",
-    "chips": {
-      "Equity shares": "99,74,61,456"
-    },
-    "trend": [
-      0.5,
-      0.55,
-      0.45,
-      0.5,
-      0.47,
-      0.52,
-      0.5
-    ],
-    "color": "B7791F",
-    "premium": false,
-    "title_hi": "Hindustan Coca-Cola ने IPO के लिए Sebi के पास ड्राफ्ट पेपर दाखिल किए",
-    "summary_hi": "Hindustan Coca-Cola Holdings ने पब्लिक इश्यू के जरिए फंड जुटाने के लिए मार्केट रेगुलेटर Sebi के पास ड्राफ्ट पेपर दाखिल किए हैं। इस प्रस्तावित इश्यू में प्रमोटर द्वारा 99,74,61,456 इक्विटी शेयरों की पूरी तरह से ऑफर फॉर सेल शामिल है। इश्यू पूरी तरह से ऑफर फॉर सेल होने के कारण कंपनी को बिक्री से कोई फंड प्राप्त नहीं होगा।",
-    "why_hi": "कंपनी को सीधे कोई फंड नहीं मिलेगा।",
-    "chips_hi": {
-      "इक्विटी शेयर": "99,74,61,456"
-    },
-    "hi_tries": 0,
-    "hi_ver": 2
-  },
-  {
-    "v": 3,
-    "cat": "Earnings",
-    "tk": "COMPANIES",
-    "title": "How did Divi's Laboratories boost net profit by 64%?",
-    "summary": "Divi's Laboratories reported a 64 percent rise in net profit to Rs 1,127 crore for the September quarter. This growth was driven by higher revenue from operations, which increased to Rs 3,676 crore. Total expenses for the period also went up to Rs 2,265 crore, according to the regulatory filing.",
-    "source": "Business Standard / Press Trust of India",
-    "published": "2026-11-07T09:41:06+00:00",
-    "ago": "29m",
-    "impact": "Positive",
-    "why": "Higher net profit and revenue growth.",
-    "url": "https://www.business-standard.com/companies/quarterly-results/divi-s-labs-q2-result-net-profit-rises-64-to-1-127-cr-on-higher-revenue-126110700599_1.html",
-    "chips": {
-      "Net profit": "Rs 1,127 crore",
-      "Revenue": "Rs 3,676 crore",
-      "Expenses": "Rs 2,265 crore"
-    },
-    "trend": [
-      0.1,
-      0.25,
-      0.2,
-      0.5,
-      0.45,
-      0.8,
-      0.95
-    ],
-    "color": "0F766E",
-    "premium": false,
-    "title_hi": "Divi's Laboratories का नेट प्रॉफिट 64% बढ़कर कितना हुआ?",
-    "summary_hi": "सितंबर तिमाही में Divi's Laboratories का नेट प्रॉफिट 64 प्रतिशत बढ़कर 1,127 करोड़ रुपये हो गया। कंपनी का ऑपरेशनल रेवेन्यू बढ़कर 3,676 करोड़ रुपये पर पहुंच गया। इस दौरान कंपनी का कुल खर्च भी बढ़कर 2,265 करोड़ रुपये हो गया।",
-    "why_hi": "नेट प्रॉफिट और रेवेन्यू में बढ़ोतरी।",
-    "chips_hi": {
-      "नेट प्रॉफिट": "₹1,127 करोड़",
-      "रेवेन्यू": "₹3,676 करोड़",
-      "खर्च": "₹2,265 करोड़"
-    },
-    "hi_tries": 0,
-    "hi_ver": 2
-  },
-  {
-    "v": 3,
-    "cat": "IPO",
-    "tk": "MARKETS",
-    "title": "Amber Enterprises arm IL JIN Electronics files for Rs 2,500 crore IPO",
-    "summary": "IL JIN Electronics, a subsidiary of Amber Enterprises, has submitted preliminary papers to Sebi for an initial public offering worth Rs 2,500 crore. The share sale is entirely a fresh issue with no offer for sale. Proceeds will be utilized to clear debt, buy machinery and equipment, and for general corporate purposes.",
-    "source": "Business Standard / Press Trust of India",
-    "published": "2026-11-07T08:57:31+00:00",
-    "ago": "1h",
-    "impact": "Positive",
-    "why": "Fresh capital helps debt repayment and expansion.",
-    "url": "https://www.business-standard.com/markets/ipo/amber-enterprises-arm-il-jin-electronics-files-drhp-for-2-500-crore-ipo-126110700332_1.html",
-    "chips": {
-      "IPO size": "Rs 2,500 crore"
-    },
-    "trend": [
-      0.1,
-      0.25,
-      0.2,
-      0.5,
-      0.45,
-      0.8,
-      0.95
-    ],
-    "color": "0F766E",
-    "premium": false,
-    "title_hi": "Amber Enterprises की सहायक कंपनी IL JIN Electronics लाई ₹2,500 करोड़ का IPO",
-    "summary_hi": "Amber Enterprises की यूनिट IL JIN Electronics ने 2,500 करोड़ रुपये जुटाने के लिए सेबी के पास शुरुआती दस्तावेज जमा किए हैं। यह आईपीओ पूरी तरह से नए शेयरों का होगा। जुटाई गई राशि का उपयोग कर्ज चुकाने, मशीनरी खरीदने और सामान्य उद्देश्यों के लिए किया जाएगा।",
-    "why_hi": "कर्ज भुगतान और विस्तार से फंड का उपयोग।",
-    "chips_hi": {
-      "आईपीओ आकार": "₹2,500 करोड़"
     },
     "hi_tries": 0,
     "hi_ver": 2
