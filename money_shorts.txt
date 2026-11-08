@@ -1,6 +1,202 @@
 [
   {
     "v": 3,
+    "cat": "Markets",
+    "tk": "MARKETS",
+    "title": "BSE and NSE announce special Diwali Muhurat trading session timings",
+    "summary": "Stock exchanges BSE and NSE will conduct a special Muhurat trading session on Diwali. The trading window will remain open from 2:20 PM to 3:30 PM. Additionally, a pre-opening session is scheduled to take place from 2:05 PM to 2:20 PM on the same day for market participants.",
+    "source": "Business Standard",
+    "published": "2026-11-08T01:44:18+00:00",
+    "ago": "34m",
+    "impact": "Neutral",
+    "why": "Routine festive trading session.",
+    "url": "https://www.business-standard.com/markets/news/muhurat-trading-stock-markets-to-open-for-special-session-on-diwali-check-timings-126110600907_1.html",
+    "chips": {
+      "Trading time": "2:20 PM to 3:30 PM",
+      "Pre-opening session": "2:05 PM to 2:20 PM"
+    },
+    "trend": [
+      0.5,
+      0.55,
+      0.45,
+      0.5,
+      0.47,
+      0.52,
+      0.5
+    ],
+    "color": "B7791F",
+    "premium": false,
+    "hi_tries": 1,
+    "title_hi": "दिवाली पर शेयर बाजार में होगी स्पेशल ट्रेडिंग, जानिए समय",
+    "summary_hi": "दीपावली के खास मौके पर BSE और NSE पर विशेष मुहूर्त ट्रेडिंग सेशन आयोजित किया जाएगा। इस दौरान बाजार में कुछ देर के लिए कारोबार करने का मौका मिलेगा। निवेशकों के लिए यह सत्र बहुत शुभ माना जाता है।",
+    "why_hi": "Routine festive trading session.",
+    "chips_hi": {
+      "ट्रेडिंग समय": "2:20 PM से 3:30 PM",
+      "प्री-ओपनिंग सेशन": "2:05 PM से 2:20 PM"
+    }
+  },
+  {
+    "v": 3,
+    "cat": "Markets",
+    "tk": "MARKETS",
+    "title": "Will Sensex and Nifty 50 extend Muhurat trading gains?",
+    "summary": "Market data reveals that both the Sensex and Nifty 50 delivered positive returns in eight out of ten Muhurat trading sessions held between 2016 and 2025. Experts are currently analyzing what this historical trend could mean for the market outlook during the upcoming special trading session.",
+    "source": "Business Standard",
+    "published": "2026-11-08T01:43:01+00:00",
+    "ago": "35m",
+    "impact": "Neutral",
+    "why": "Historical data shows mixed market session outcomes.",
+    "url": "https://www.business-standard.com/markets/news/will-bulls-stay-in-control-during-muhurat-trading-experts-decode-outlook-126110600925_1.html",
+    "chips": {},
+    "trend": [
+      0.5,
+      0.55,
+      0.45,
+      0.5,
+      0.47,
+      0.52,
+      0.5
+    ],
+    "color": "B7791F",
+    "premium": false,
+    "title_hi": "क्या मुहूर्त ट्रेडिंग में जारी रहेगा बाजार का रुझान?",
+    "summary_hi": "मार्केट डेटा से पता चलता है कि 2016 से 2025 के बीच दस में से आठ मुहूर्त ट्रेडिंग सत्रों में सेंसेक्स और निफ्टी 50 में बढ़त दर्ज की गई है। एक्सपर्ट्स इसी ऐतिहासिक रुझान के आधार पर आगामी विशेष सत्र के लिए आउटलुक की समीक्षा कर रहे हैं।",
+    "why_hi": "ऐतिहासिक डेटा से मिले-जुले रुझान सामने आए हैं।",
+    "chips_hi": {}
+  },
+  {
+    "v": 3,
+    "cat": "Earnings",
+    "tk": "COMPANIES",
+    "title": "Kirloskar Industries Q2 profit rises 5% to ₹105 crore, income up 17%",
+    "summary": "Kirloskar Industries reported a 5 percent increase in consolidated profit after tax to Rs 105 crore for the quarter ended September 2026. Total consolidated income grew 17 percent to Rs 2,097.7 crore compared to the same period last year. The leadership highlighted steady performance from its subsidiary and ongoing progress in its real estate projects.",
+    "source": "Business Standard / Press Trust of India",
+    "published": "2026-11-07T16:37:31+00:00",
+    "ago": "9h",
+    "impact": "Positive",
+    "why": "Profit and income both saw growth.",
+    "url": "https://www.business-standard.com/companies/quarterly-results/kirloskar-industries-q2-profit-rises-5-to-105-crore-income-up-17-126110701228_1.html",
+    "chips": {
+      "Q2 profit": "Rs 105 crore",
+      "Consolidated income": "Rs 2,097.7 crore"
+    },
+    "trend": [
+      0.1,
+      0.25,
+      0.2,
+      0.5,
+      0.45,
+      0.8,
+      0.95
+    ],
+    "color": "0F766E",
+    "premium": false,
+    "title_hi": "Kirloskar Industries का Q2 मुनाफा बढ़कर 105 करोड़ रुपये पर कैसे पहुंचा?",
+    "summary_hi": "सितंबर 2026 को समाप्त तिमाही में Kirloskar Industries का समेकित शुद्ध लाभ 5 प्रतिशत बढ़कर 105 करोड़ रुपये हो गया। इस दौरान कंपनी की कुल आय बढ़कर 2,097.7 करोड़ रुपये पर पहुंच गई। प्रबंधन ने सहायक कंपनियों के मजबूत प्रदर्शन और रियल एस्टेट प्रोजेक्ट्स की प्रगति का जिक्र किया है।",
+    "why_hi": "मुनाफा और आय दोनों में बढ़ोतरी हुई।",
+    "chips_hi": {
+      "Q2 मुनाफा": "₹105 करोड़",
+      "समेकित आय": "₹2,097.7 करोड़"
+    }
+  },
+  {
+    "v": 3,
+    "cat": "Industry",
+    "tk": "INDUSTRY",
+    "title": "FSSAI seizes 3,280 tonnes of unsafe food worth ₹818 million",
+    "summary": "Food safety authorities have seized 3,280 tonnes of products valued at ₹818 million during inspections of 56,431 establishments. The regulator issued 10,047 improvement notices and suspended 1,133 licences following these checks across various locations to ensure compliance with standards.",
+    "source": "Business Standard",
+    "published": "2026-11-07T16:29:09+00:00",
+    "ago": "9h",
+    "impact": "Neutral",
+    "why": "Routine regulatory enforcement checks across establishments.",
+    "url": "https://www.business-standard.com/industry/news/fssai-seizes-3-280-tonnes-of-food-worth-818-mn-suspends-1-133-licences-126110701245_1.html",
+    "chips": {
+      "Seized food": "3,280 tonnes",
+      "Value": "₹818 million",
+      "Suspended licences": "1,133"
+    },
+    "trend": [
+      0.5,
+      0.55,
+      0.45,
+      0.5,
+      0.47,
+      0.52,
+      0.5
+    ],
+    "color": "B7791F",
+    "premium": false,
+    "hi_tries": 1
+  },
+  {
+    "v": 3,
+    "cat": "Industry",
+    "tk": "BIAL",
+    "title": "Are locals forming the majority of the airport workforce?",
+    "summary": "Bangalore International Airport Ltd stated that Kannadigas make up the majority of its workforce. The response came amid local concerns over private sector employment opportunities. The airport operator added that ongoing expansion work will generate additional jobs for people from Karnataka.",
+    "source": "Business Standard / Press Trust of India",
+    "published": "2026-11-07T16:16:20+00:00",
+    "ago": "10h",
+    "impact": "Neutral",
+    "why": "Clarification on workforce demographics amid local discussio",
+    "url": "https://www.business-standard.com/industry/aviation/bial-responds-to-local-jobs-row-says-kannadigas-form-majority-of-workforce-126110701196_1.html",
+    "chips": {},
+    "trend": [
+      0.5,
+      0.55,
+      0.45,
+      0.5,
+      0.47,
+      0.52,
+      0.5
+    ],
+    "color": "B7791F",
+    "premium": false,
+    "title_hi": "क्या एयरपोर्ट के अधिकांश कर्मचारी स्थानीय लोग हैं?",
+    "summary_hi": "बेंगलुरु इंटरनेशनल एयरपोर्ट लिमिटेड ने कहा कि कन्नडिगा उसकी कार्यबल का अधिकांश हिस्सा हैं। यह बयान निजी क्षेत्र में स्थानीय रोजगार के अवसरों पर चिंताओं के बीच आया है। एयरपोर्ट संचालक ने कहा कि चल रहे विस्तार कार्यों से राज्य के लोगों के लिए और नौकरियां पैदा होंगी।",
+    "why_hi": "स्थानीय रोजगार चिंताओं पर स्पष्टीकरण।",
+    "chips_hi": {}
+  },
+  {
+    "v": 3,
+    "cat": "Industry",
+    "tk": "INDUSTRY",
+    "title": "Why did D2C festive orders and sales value jump this Diwali?",
+    "summary": "Direct-to-consumer brands in India shipped twenty-seven per cent more orders daily ahead of Diwali this year compared to last year. A new report shows the total value of goods sold grew by forty-five per cent. Shoppers bought higher-priced products in categories like luxury fashion, skincare, wellness, and jewellery, resulting in stronger growth for sales value than order volume.",
+    "source": "Business Standard / Press Trust of India",
+    "published": "2026-11-07T13:56:17+00:00",
+    "ago": "12h",
+    "impact": "Positive",
+    "why": "Higher order volumes and sales value reported.",
+    "url": "https://www.business-standard.com/industry/news/d2c-brands-see-27-more-orders-ahead-of-diwali-sales-value-up-45-report-126110701023_1.html",
+    "chips": {
+      "Order growth": "27%",
+      "Sales value growth": "45%",
+      "Brands analysed": "nearly 400"
+    },
+    "trend": [
+      0.1,
+      0.25,
+      0.2,
+      0.5,
+      0.45,
+      0.8,
+      0.95
+    ],
+    "color": "0F766E",
+    "premium": false,
+    "title_hi": "Diwali से पहले D2C ब्रांड्स के ऑर्डर्स और बिक्री में क्यों आई तेजी?",
+    "summary_hi": "भारत में डायरेक्ट-टू-कौंसूमर ब्रांड्स के दिवाली से पहले के दैनिक ऑर्डर्स में पिछले साल की तुलना में 27 प्रतिशत की बढ़ोतरी हुई है। एक रिपोर्ट के अनुसार बेचे गए सामान के कुल मूल्य में 45 प्रतिशत का उछाल आया है। खरीदारो ने लक्जरी फैशन, स्किनकेयर, वेलनेस और ज्वेलरी जैसी महंगी श्रेणियों में खरीदारी की है।",
+    "why_hi": "ऑर्डर वॉल्यूम और बिक्री मूल्य में वृद्धि दर्ज।",
+    "chips_hi": {
+      "ऑर्डर वृद्धि": "27%",
+      "बिक्री मूल्य वृद्धि": "45%",
+      "ब्रांड्स": "लगभग 400"
+    }
+  },
+  {
+    "v": 3,
     "cat": "Companies",
     "tk": "GROWW",
     "title": "Major investors sell 1.84% stake in Groww for ₹2,457 crore",
@@ -34,7 +230,9 @@
       "डील वैल्यू": "₹2,457 करोड़",
       "बेची गई हिस्सेदारी": "1.84%",
       "बेचे गए शेयर": "11.52 करोड़"
-    }
+    },
+    "hi_tries": 0,
+    "hi_ver": 2
   },
   {
     "v": 3,
@@ -71,7 +269,9 @@
       "हिस्सेदारी": "1.56%",
       "मूल्य": "₹1,896 करोड़",
       "शेयर": "2.72 करोड़"
-    }
+    },
+    "hi_tries": 0,
+    "hi_ver": 2
   },
   {
     "v": 3,
@@ -108,7 +308,9 @@
       "DA बढ़ोतरी": "5 प्रतिशत",
       "नया DA रेट": "63 प्रतिशत",
       "पुराना DA रेट": "58 प्रतिशत"
-    }
+    },
+    "hi_tries": 0,
+    "hi_ver": 2
   },
   {
     "v": 3,
@@ -145,7 +347,9 @@
       "नेट प्रॉफिट वृद्धि": "18.2 प्रतिशत",
       "कंसोलिडेटेड रेवेन्यू": "₹65,436 करोड़",
       "EBITDA": "₹10,665 करोड़"
-    }
+    },
+    "hi_tries": 0,
+    "hi_ver": 2
   },
   {
     "v": 3,
@@ -174,7 +378,9 @@
     "title_hi": "पेट्रोल पंपों पर पानी की जांच क्यों कड़ी की जा रही है?",
     "summary_hi": "ऑयल मार्केटिंग कंपनियों ने पेट्रोल पंपों पर निगरानी बढ़ा दी है। E20 पेट्रोल में पानी के संदूषण को रोकने के लिए अब अंडरग्राउंड स्टोरेज टैंक और डिस्पेंसिंग नोज़ल की नियमित जांच अनिवार्य कर दी गई है।",
     "why_hi": "स्पष्ट प्रभाव के बिना नियमित गुणवत्ता नियंत्रण उपाय।",
-    "chips_hi": {}
+    "chips_hi": {},
+    "hi_tries": 0,
+    "hi_ver": 2
   },
   {
     "v": 3,
@@ -621,203 +827,6 @@
     "chips_hi": {
       "हिस्सेदारी": "51%",
       "निवेश": "₹35 करोड़"
-    },
-    "hi_tries": 0,
-    "hi_ver": 2
-  },
-  {
-    "v": 3,
-    "cat": "Companies",
-    "tk": "COMPANIES",
-    "title": "Can large companies learn to think like entrepreneurs this Samvat?",
-    "summary": "As a new Samvat begins, major corporations are urged to adopt entrepreneurial mindsets. Instead of depending entirely on standard budgets and forecasts, businesses need to cultivate innovation and develop the organizational agility required to navigate uncertainty effectively during these changing times.",
-    "source": "Business Standard",
-    "published": "2026-11-06T15:52:24+00:00",
-    "ago": "10h",
-    "impact": "Neutral",
-    "why": "Focuses on corporate mindset shift without earnings.",
-    "url": "https://www.business-standard.com/companies/news/this-samvat-can-large-companies-learn-to-think-like-entrepreneurs-126110601936_1.html",
-    "chips": {},
-    "trend": [
-      0.5,
-      0.55,
-      0.45,
-      0.5,
-      0.47,
-      0.52,
-      0.5
-    ],
-    "color": "B7791F",
-    "premium": false,
-    "title_hi": "क्या इस Samvat बड़ी कंपनियां उद्यमियों की तरह सोचना सीख सकती हैं?",
-    "summary_hi": "नए Samvat की शुरुआत के साथ, बड़ी कंपनियों को उद्यमी सोच अपनाने की सलाह दी गई है। सिर्फ बजट और अनुमानों पर निर्भर रहने के बजाय, व्यवसायों को नवाचार को बढ़ावा देना चाहिए और अनिश्चितता से निपटने के लिए आवश्यक फुर्ती विकसित करनी चाहिए।",
-    "why_hi": "कंपनी के वित्तीय नतीजे नहीं दिए गए हैं।",
-    "chips_hi": {},
-    "hi_tries": 0,
-    "hi_ver": 2
-  },
-  {
-    "v": 3,
-    "cat": "Industry",
-    "tk": "SBI",
-    "title": "IFC extends $150 mn loan to SBI to expand farm credit among rural women",
-    "summary": "The International Finance Corporation has provided a loan of $150 million to SBI. This funding aims to boost farm credit for rural women across various agricultural value chains. A large portion of this financing will specifically support women borrowers connected through self-help groups in rural areas.",
-    "source": "Business Standard",
-    "published": "2026-11-06T15:33:22+00:00",
-    "ago": "14h",
-    "impact": "Positive",
-    "why": "Expands rural credit access for women.",
-    "url": "https://www.business-standard.com/industry/banking/ifc-extends-150-mn-loan-to-sbi-to-expand-farm-credit-among-rural-women-126110601913_1.html",
-    "chips": {
-      "Loan amount": "$150 million",
-      "Beneficiaries": "864,000 rural women"
-    },
-    "trend": [
-      0.1,
-      0.25,
-      0.2,
-      0.5,
-      0.45,
-      0.8,
-      0.95
-    ],
-    "color": "0F766E",
-    "premium": false,
-    "hi_tries": 2,
-    "hi_ver": 2
-  },
-  {
-    "v": 3,
-    "cat": "Industry",
-    "tk": "INDUSTRY",
-    "title": "How falling gold prices boosted Dhanteras footfalls and sales",
-    "summary": "Jewellers witnessed strong customer footfalls and sales during Dhanteras as gold rates cooled down from previous highs. Consumer demand was further supported by wedding purchases, old gold exchanges, and a preference for lightweight jewellery items.",
-    "source": "Business Standard",
-    "published": "2026-11-06T14:13:40+00:00",
-    "ago": "15m",
-    "impact": "Positive",
-    "why": "Lower prices and wedding demand drove sales.",
-    "url": "https://www.business-standard.com/industry/news/correction-in-gold-prices-boosts-dhanteras-sales-footfalls-for-jewellers-126110601777_1.html",
-    "chips": {},
-    "trend": [
-      0.1,
-      0.25,
-      0.2,
-      0.5,
-      0.45,
-      0.8,
-      0.95
-    ],
-    "color": "0F766E",
-    "premium": false,
-    "title_hi": "Gold के भाव घटने से कैसे बढ़े धनतेरस के आंकड़े",
-    "summary_hi": "सोने की कीमतों में नरमी आने से धनतेरस पर ज्वैलर्स के यहां ग्राहकों की भारी भीड़ और बिक्री देखने को मिली। शादी की खरीदारी, पुराने सोने के एक्सचेंज और हल्के वजन की ज्वैलरी की मांग ने इस बिक्री को और बढ़ावा दिया।",
-    "why_hi": "कम कीमत और शादियों की मांग से बढ़ी बिक्री।",
-    "chips_hi": {},
-    "hi_tries": 0,
-    "hi_ver": 2
-  },
-  {
-    "v": 3,
-    "cat": "Companies",
-    "tk": "COMPANIES",
-    "title": "Why did Bharti Airtel bring back its withdrawn prepaid plan?",
-    "summary": "Bharti Airtel has brought back its twenty eight day prepaid plan priced at two hundred ninety nine rupees. This step follows a slowdown in net customer additions during the second quarter of the twenty twenty six and twenty seven financial year.",
-    "source": "Business Standard",
-    "published": "2026-11-06T14:01:34+00:00",
-    "ago": "27m",
-    "impact": "Neutral",
-    "why": "Restoring plans after slower customer additions.",
-    "url": "https://www.business-standard.com/companies/news/airtel-restores-299-prepaid-plan-withdrawn-in-august-as-additions-slow-126110601758_1.html",
-    "chips": {
-      "Prepaid plan": "Rs 299",
-      "Validity": "28 days"
-    },
-    "trend": [
-      0.5,
-      0.55,
-      0.45,
-      0.5,
-      0.47,
-      0.52,
-      0.5
-    ],
-    "color": "B7791F",
-    "premium": false,
-    "title_hi": "Bharti Airtel ने बंद किया गया प्रीपेड प्लान वापस क्यों शुरू किया?",
-    "summary_hi": "Bharti Airtel ने Q2FY27 में ग्राहकों की संख्या में धीमी वृद्धि के बाद अपना 299 रुपये वाला प्रीपेड प्लान फिर से शुरू कर दिया है। इस प्लान की वैधता 28 दिन है। कंपनी अब औसत राजस्व बढ़ाने के लिए पोस्टपेड और यूजर अपग्रेड पर ध्यान केंद्रित कर रही है।",
-    "why_hi": "कम ग्राहक वृद्धि के बाद प्लान की वापसी",
-    "chips_hi": {
-      "प्रीपेड प्लान": "₹299",
-      "वैधता": "28 दिन"
-    },
-    "hi_tries": 0,
-    "hi_ver": 2
-  },
-  {
-    "v": 3,
-    "cat": "Companies",
-    "tk": "ANGEL ONE",
-    "title": "How Angel One surpassed Zerodha to become India's second largest broker",
-    "summary": "Angel One has taken the second spot among Indian stock brokers after its active client base on the NSE climbed to 6.99 million in October. This growth allowed it to edge past Zerodha, which recorded 6.76 million clients. Meanwhile, Groww maintained its position at the top with a total of 13.75 million active clients.",
-    "source": "Business Standard",
-    "published": "2026-11-06T13:59:01+00:00",
-    "ago": "30m",
-    "impact": "Positive",
-    "why": "Higher client base increases market share.",
-    "url": "https://www.business-standard.com/companies/news/angel-one-overtakes-zerodha-to-become-2nd-largest-broker-by-active-clients-126110601754_1.html",
-    "chips": {
-      "Angel One clients": "6.99 million",
-      "Zerodha clients": "6.76 million",
-      "Groww clients": "13.75 million"
-    },
-    "trend": [
-      0.1,
-      0.25,
-      0.2,
-      0.5,
-      0.45,
-      0.8,
-      0.95
-    ],
-    "color": "0F766E",
-    "premium": false,
-    "hi_tries": 2,
-    "hi_ver": 2
-  },
-  {
-    "v": 3,
-    "cat": "Earnings",
-    "tk": "ASTER DM QUALITY",
-    "title": "Aster DM Quality Care Q2 net profit more than doubles",
-    "summary": "Aster DM Quality Care reported a massive jump in its second quarter performance, with net profit more than doubling to ₹262 crore. The hospital chain generated ₹2,829 crore in revenue during the quarter. This financial growth was supported by increased patient volumes, better bed occupancy rates, a rise in complex medical procedures, and expanding medical value travel.",
-    "source": "Business Standard",
-    "published": "2026-11-06T13:58:08+00:00",
-    "ago": "31m",
-    "impact": "Positive",
-    "why": "Net profit more than doubled in Q2.",
-    "url": "https://www.business-standard.com/companies/quarterly-results/aster-dm-quality-care-q2-net-profit-more-than-doubles-to-262-crore-126110601753_1.html",
-    "chips": {
-      "Net profit": "₹262 crore",
-      "Revenue": "₹2,829 crore"
-    },
-    "trend": [
-      0.1,
-      0.25,
-      0.2,
-      0.5,
-      0.45,
-      0.8,
-      0.95
-    ],
-    "color": "0F766E",
-    "premium": false,
-    "title_hi": "Aster DM Quality Care का Q2 नेट प्रॉफिट दोगुने से ज्यादा हुआ",
-    "summary_hi": "अस्पताल श्रृंखला Aster DM Quality Care का दूसरी तिमाही में नेट प्रॉफिट दोगुने से ज्यादा बढ़कर ₹262 करोड़ हो गया है। कंपनी ने इस तिमाही में ₹2,829 करोड़ का राजस्व दर्ज किया। इस वित्तीय बढ़ोतरी के पीछे अधिक मरीज संख्या, बेहतर बेड ऑक्यूपेंसी, जटिल मेडिकल प्रक्रियाएं और मेडिकल वैल्यू ट्रैवल में वृद्धि मुख्य वजह रहे।",
-    "why_hi": "दूसरी तिमाही में नेट प्रॉफिट दोगुना हुआ।",
-    "chips_hi": {
-      "नेट प्रॉफिट": "₹262 करोड़",
-      "राजस्व": "₹2,829 करोड़"
     },
     "hi_tries": 0,
     "hi_ver": 2
