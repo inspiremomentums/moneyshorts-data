@@ -1,6 +1,221 @@
 [
   {
     "v": 3,
+    "cat": "Industry",
+    "tk": "INDUSTRY",
+    "title": "How did Tata Motors maintain its lead in electric vehicles?",
+    "summary": "Tata Motors maintained its passenger vehicle market lead over Mahindra through an electric vehicle lead of 37,803 units. This electric vehicle advantage helped offset Mahindra's strength in non-electric passenger vehicles, while both major automakers continue to ramp up their overall production capacity.",
+    "source": "Business Standard",
+    "published": "2026-11-08T17:17:12+00:00",
+    "ago": "9h",
+    "impact": "Positive",
+    "why": "EV sales drive market lead.",
+    "url": "https://www.business-standard.com/industry/auto/tamo-keeps-m-m-in-its-rearview-as-ev-sales-drive-lead-in-pv-market-race-126110800512_1.html",
+    "chips": {
+      "EV lead": "37,803 units"
+    },
+    "trend": [
+      0.1,
+      0.25,
+      0.2,
+      0.5,
+      0.45,
+      0.8,
+      0.95
+    ],
+    "color": "0F766E",
+    "premium": false,
+    "title_hi": "Tata Motors ने EV बिक्री के दम पर कैसे बनाई बढ़त?",
+    "summary_hi": "Tata Motors ने 37,803 यूनिट्स की इलेक्ट्रिक वाहन बढ़त के साथ पैसेंजर वाहन बाजार में अपनी बढ़त बनाए रखी। इस ईवी बढ़त ने Mahindra के नॉन-इलेक्ट्रिक वाहनों के फायदे को संतुलित कर दिया, जबकि दोनों कंपनियां अपनी उत्पादन क्षमता बढ़ा रही हैं।",
+    "why_hi": "ईवी बिक्री से बढ़त मिली।",
+    "chips_hi": {
+      "EV बढ़त": "37,803 यूनिट"
+    }
+  },
+  {
+    "v": 3,
+    "cat": "Companies",
+    "tk": "AMAZON PAY",
+    "title": "Three in Four Amazon Pay Customers Live Outside Big Cities",
+    "summary": "Amazon Pay reveals that seventy-five percent of its customer base now resides outside major Indian cities. According to chief executive Vikas Bansal, these users from smaller towns are showing a strong demand for credit services as their adoption of digital payments continues to grow across regional markets.",
+    "source": "Business Standard",
+    "published": "2026-11-08T16:23:33+00:00",
+    "ago": "10h",
+    "impact": "Positive",
+    "why": "Growing small-town user base drives credit demand.",
+    "url": "https://www.business-standard.com/companies/news/amazon-pay-s-next-customers-are-in-small-towns-and-they-want-credit-126110800351_1.html",
+    "chips": {},
+    "trend": [
+      0.1,
+      0.25,
+      0.2,
+      0.5,
+      0.45,
+      0.8,
+      0.95
+    ],
+    "color": "0F766E",
+    "premium": false,
+    "title_hi": "Amazon Pay के तीन चौथाई ग्राहक बड़े शहरों से बाहर",
+    "summary_hi": "Amazon Pay के मुख्य कार्यकारी विकास बंसल के अनुसार, कंपनी के तीन में से चार ग्राहक अब भारत के बड़े शहरों से बाहर रहते हैं। छोटे शहरों के ये उपयोगकर्ता डिजिटल भुगतान अपनाने के साथ-साथ क्रेडिट सेवाओं की भी मांग कर रहे हैं।",
+    "why_hi": "छोटे शहरों में ग्राहक बढ़ने से क्रेडिट मांग बढ़ी।",
+    "chips_hi": {}
+  },
+  {
+    "v": 3,
+    "cat": "Markets",
+    "tk": "MARKETS",
+    "title": "Why are investors retreating from artificial intelligence stocks?",
+    "summary": "A retreat from artificial intelligence linked stocks is leading investors to explore undervalued markets like India and China. Easing inflation and trade tensions are further increasing the appeal of these regions, as market participants shift their focus away from technology shares toward previously overlooked investment opportunities across Asia.",
+    "source": "Business Standard / Bloomberg",
+    "published": "2026-11-08T16:13:41+00:00",
+    "ago": "10h",
+    "impact": "Neutral",
+    "why": "Shifting capital flows across regional markets.",
+    "url": "https://www.business-standard.com/markets/news/ai-selloff-rejuvenates-asia-s-forgotten-investment-trades-126110800604_1.html",
+    "chips": {},
+    "trend": [
+      0.5,
+      0.55,
+      0.45,
+      0.5,
+      0.47,
+      0.52,
+      0.5
+    ],
+    "color": "B7791F",
+    "premium": false,
+    "title_hi": "क्यों निवेशक आर्टिफिशियल इंटेलिजेंस शेयरों से बना रहे हैं दूरी?",
+    "summary_hi": "आर्टिफिशियल इंटेलिजेंस से जुड़े शेयरों में गिरावट के बाद निवेशक भारत और चीन जैसे कम मूल्य वाले बाजारों की ओर रुख कर रहे हैं। कम होती महंगाई और घटते व्यापार तनाव इन क्षेत्रों के आकर्षण को और बढ़ा रहे हैं, जिससे बाजार के जानकारों का ध्यान अन्य अवसरों पर जा रहा है।",
+    "why_hi": "क्षेत्रीय बाजारों में बदलता निवेश प्रवाह",
+    "chips_hi": {}
+  },
+  {
+    "v": 3,
+    "cat": "IPO",
+    "tk": "MARKETS",
+    "title": "Specific mutual funds deliver up to 30 percent returns",
+    "summary": "Certain mutual fund categories focused on healthcare, pharma, capital markets, and metals have generated returns of up to 30 percent. Meanwhile, some passive investment schemes experienced a decline in performance during this period. The broader market also saw promoter stakes rising alongside a slowdown in the initial public offering activity.",
+    "source": "Business Standard",
+    "published": "2026-11-08T15:35:24+00:00",
+    "ago": "10h",
+    "impact": "Positive",
+    "why": "Certain mutual funds delivered strong returns.",
+    "url": "https://www.business-standard.com/markets/news/street-signs-select-mfs-shine-promoter-stake-rises-ipo-market-slows-126110800592_1.html",
+    "chips": {
+      "Returns": "up to 30%"
+    },
+    "trend": [
+      0.1,
+      0.25,
+      0.2,
+      0.5,
+      0.45,
+      0.8,
+      0.95
+    ],
+    "color": "0F766E",
+    "premium": true,
+    "title_hi": "कुछ चुनिंदा म्यूचुअल फंड्स ने दिए 30 प्रतिशत तक रिटर्न",
+    "summary_hi": "हेल्थकेयर, फार्मा, कैपिटल मार्केट और मेटल पर केंद्रित कुछ म्यूचुअल फंड योजनाओं ने 30 प्रतिशत तक का रिटर्न दिया है। इस बीच, कुछ चुनिंदा पैसिव स्कीम्स के प्रदर्शन में गिरावट भी देखने को मिली है। इसके अलावा, प्रमोटर हिस्सेदारी में बढ़ोतरी हुई है और आईपीओ बाजार की रफ्तार धीमी पड़ी है।",
+    "why_hi": "कुछ म्यूचुअल फंड्स ने दिया अच्छा रिटर्न।",
+    "chips_hi": {
+      "रिटर्न": "30% तक"
+    }
+  },
+  {
+    "v": 3,
+    "cat": "Industry",
+    "tk": "INDUSTRY",
+    "title": "Electric tractors gear up for massive production growth across India",
+    "summary": "Electric tractors are preparing for a major growth spurt as the industry builds capacity of up to 40,000 units. This expansion is driven by rising industrial demand, lower running costs, and government incentives supporting the shift. Manufacturers are scaling up operations to meet this upcoming requirement from both farms and factories.",
+    "source": "Business Standard",
+    "published": "2026-11-08T15:07:58+00:00",
+    "ago": "11h",
+    "impact": "Positive",
+    "why": "Rising demand and capacity expansion drive growth.",
+    "url": "https://www.business-standard.com/industry/auto/from-farms-to-factories-electric-tractors-prepare-for-a-growth-spurt-126110301500_1.html",
+    "chips": {
+      "Capacity": "40,000 units"
+    },
+    "trend": [
+      0.1,
+      0.25,
+      0.2,
+      0.5,
+      0.45,
+      0.8,
+      0.95
+    ],
+    "color": "0F766E",
+    "premium": true,
+    "title_hi": "इलेक्ट्रिक ट्रैक्टरों का उत्पादन बढ़ाने के लिए उद्योग तैयार",
+    "summary_hi": "इलेक्ट्रिक ट्रैक्टरों का उत्पादन तेजी से बढ़ने की तैयारी में है क्योंकि उद्योग ने 40,000 यूनिट तक की क्षमता का निर्माण किया है। इस विकास को औद्योगिक मांग, कम संचालन लागत और सरकारी प्रोत्साहनों से बढ़ावा मिल रहा है। निर्माता खेतों और कारखानों दोनों की इस आगामी आवश्यकता को पूरा करने के लिए अपने कार्यों का विस्तार कर रहे हैं।",
+    "why_hi": "बढ़ती मांग और क्षमता विस्तार से वृद्धि।",
+    "chips_hi": {
+      "क्षमता": "40,000 यूनिट"
+    }
+  },
+  {
+    "v": 3,
+    "cat": "Markets",
+    "tk": "MARKETS",
+    "title": "Sensex valuations bounce back from October lows in November rally",
+    "summary": "Stock market valuations for the Sensex have bounced back from their lows seen in October. This recovery comes as the November rally gains momentum. Despite this recent upward movement, the current valuation levels still stay lower than the ten-year historical average.",
+    "source": "Business Standard",
+    "published": "2026-11-08T14:58:04+00:00",
+    "ago": "11h",
+    "impact": "Positive",
+    "why": "Valuations recovered from October lows.",
+    "url": "https://www.business-standard.com/markets/news/recovery-signals-sensex-valuation-rebounds-as-november-rally-gathers-pace-126110501948_1.html",
+    "chips": {},
+    "trend": [
+      0.1,
+      0.25,
+      0.2,
+      0.5,
+      0.45,
+      0.8,
+      0.95
+    ],
+    "color": "0F766E",
+    "premium": true,
+    "title_hi": "नवंबर की तेजी के बीच Sensex के वैल्यूएशन में सुधार",
+    "summary_hi": "अक्टूबर के निचले स्तरों से Sensex के वैल्यूएशन में सुधार आया है। यह रिकवरी नवंबर में बाजार की तेजी तेज होने के साथ आई है। हालांकि, यह सुधार के बावजूद अभी भी 10 साल के ऐतिहासिक औसत से नीचे बना हुआ है।",
+    "why_hi": "अक्टूबर के निचले स्तरों से वैल्यूएशन सुधरा।",
+    "chips_hi": {}
+  },
+  {
+    "v": 3,
+    "cat": "Markets",
+    "tk": "MARKETS",
+    "title": "Samvat 2083 starts softly as benchmark indices slip",
+    "summary": "The first trading session of Samvat 2083 began on a muted note with benchmark indices ending slightly lower. Meanwhile, midcap and smallcap stocks showed strength by outperforming the broader market. Sectoral indices recorded a mixed performance during the opening session of the new Samvat year.",
+    "source": "Business Standard",
+    "published": "2026-11-08T14:49:26+00:00",
+    "ago": "11h",
+    "impact": "Neutral",
+    "why": "Mixed market start with smallcaps outperforming.",
+    "url": "https://www.business-standard.com/markets/news/samvat-2083-off-to-a-tepid-start-sensex-nifty-slip-smaller-cos-up-126110800423_1.html",
+    "chips": {},
+    "trend": [
+      0.5,
+      0.55,
+      0.45,
+      0.5,
+      0.47,
+      0.52,
+      0.5
+    ],
+    "color": "B7791F",
+    "premium": false,
+    "title_hi": "Samvat 2083 की सुस्त शुरुआत, सेंसेक्स और निफ्टी में गिरावट",
+    "summary_hi": "Samvat 2083 के पहले सत्र में बेंचमार्क इंडेक्स मामूली गिरावट के साथ बंद हुए। इस दौरान स्मॉलकैप और मिडकैप शेयरों ने बेहतर प्रदर्शन किया। सेक्टोरल इंडेक्स का प्रदर्शन मिलाजुला रहा।",
+    "why_hi": "मिलाजुला बाजार प्रदर्शन।",
+    "chips_hi": {}
+  },
+  {
+    "v": 3,
     "cat": "Finance",
     "tk": "FINANCE",
     "title": "Why are institutional investors lining up for premium K-12 schools?",
@@ -23,11 +238,12 @@
     ],
     "color": "0F766E",
     "premium": true,
-    "hi_tries": 1,
+    "hi_tries": 0,
     "title_hi": "बड़े निवेशक क्यों लगा रहे हैं प्रीमियम स्कूलों में पैसा?",
     "summary_hi": "बेहतर प्राइवेट शिक्षा की बढ़ती मांग और जमीन की कमी के कारण डेवलपर्स और बड़े निवेशकों के लिए नए रास्ते खुल रहे हैं। ये लोग जाने-माने स्कूल ऑपरेटरों के साथ मिलकर प्रीमियम K-12 स्कूल बाजार में उतर रहे हैं, जिससे इस क्षेत्र में बिजनेस के नए मौके बन रहे हैं।",
     "why_hi": "बढ़ती मांग और साझेदारियों से नए अवसर पैदा हो रहे हैं।",
-    "chips_hi": {}
+    "chips_hi": {},
+    "hi_ver": 2
   },
   {
     "v": 3,
@@ -62,7 +278,9 @@
     "chips_hi": {
       "रुपये का स्तर": "92 प्रति डॉलर",
       "बॉन्ड यील्ड": "7-7.5 प्रतिशत"
-    }
+    },
+    "hi_tries": 0,
+    "hi_ver": 2
   },
   {
     "v": 3,
@@ -206,7 +424,9 @@
     "title_hi": "क्या वैश्विक कारणों से संवत 2083 में कमोडिटी की कीमतों में उतार-चढ़ाव रहेगा?",
     "summary_hi": "विश्लेषकों का कहना है कि भू-राजनीतिक कारक, वैश्विक ब्याज दरें और मांग-आपूर्ति की स्थिति कच्चे तेल और बुलियन की कीमतों को तय करने वाले मुख्य कारक बने रहेंगे। इन अंतरराष्ट्रीय गतिविधियों के कारण आने वाले संवत वर्ष में कमोडिटी बाजारों में उतार-चढ़ाव देखने को मिल सकता है।",
     "why_hi": "वैश्विक कारणों से कमोडिटी की कीमतों में उतार-चढ़ाव।",
-    "chips_hi": {}
+    "chips_hi": {},
+    "hi_tries": 0,
+    "hi_ver": 2
   },
   {
     "v": 3,
@@ -338,7 +558,9 @@
     "title_hi": "ग्लोबल तनाव और महंगाई के आंकड़ों के बीच क्यों दबाव में रह सकता है बुलियन?",
     "summary_hi": "अमेरिका-ईरान संघर्ष, कच्चे तेल की चाल और भारत, अमेरिका, चीन, जर्मनी तथा जापान के महंगाई आंकड़ों के कारण बुलियन कीमतों पर दबाव बना रह सकता है। निवेशक ब्याज दरों के संकेतों के लिए फेडरल रिजर्व के भाषणों और अमेरिकी रोजगार डेटा पर भी नजर रखेंगे। दिवाली-बलिप्रतिपदा के चलते मंगलवार को घरेलू कमोडिटी बाजार सुबह के सत्र में बंद रहेगा।",
     "why_hi": "वैश्विक अनिश्चितता और महत्वपूर्ण आर्थिक आंकड़ों का इंतजार।",
-    "chips_hi": {}
+    "chips_hi": {},
+    "hi_tries": 0,
+    "hi_ver": 2
   },
   {
     "v": 3,
@@ -561,263 +783,6 @@
     "chips_hi": {
       "Q2 मुनाफा": "₹105 करोड़",
       "समेकित आय": "₹2,097.7 करोड़"
-    },
-    "hi_tries": 0,
-    "hi_ver": 2
-  },
-  {
-    "v": 3,
-    "cat": "Industry",
-    "tk": "INDUSTRY",
-    "title": "FSSAI seizes 3,280 tonnes of unsafe food worth ₹818 million",
-    "summary": "Food safety authorities have seized 3,280 tonnes of products valued at ₹818 million during inspections of 56,431 establishments. The regulator issued 10,047 improvement notices and suspended 1,133 licences following these checks across various locations to ensure compliance with standards.",
-    "source": "Business Standard",
-    "published": "2026-11-07T16:29:09+00:00",
-    "ago": "9h",
-    "impact": "Neutral",
-    "why": "Routine regulatory enforcement checks across establishments.",
-    "url": "https://www.business-standard.com/industry/news/fssai-seizes-3-280-tonnes-of-food-worth-818-mn-suspends-1-133-licences-126110701245_1.html",
-    "chips": {
-      "Seized food": "3,280 tonnes",
-      "Value": "₹818 million",
-      "Suspended licences": "1,133"
-    },
-    "trend": [
-      0.5,
-      0.55,
-      0.45,
-      0.5,
-      0.47,
-      0.52,
-      0.5
-    ],
-    "color": "B7791F",
-    "premium": false,
-    "hi_tries": 2,
-    "hi_ver": 2
-  },
-  {
-    "v": 3,
-    "cat": "Industry",
-    "tk": "BIAL",
-    "title": "Are locals forming the majority of the airport workforce?",
-    "summary": "Bangalore International Airport Ltd stated that Kannadigas make up the majority of its workforce. The response came amid local concerns over private sector employment opportunities. The airport operator added that ongoing expansion work will generate additional jobs for people from Karnataka.",
-    "source": "Business Standard / Press Trust of India",
-    "published": "2026-11-07T16:16:20+00:00",
-    "ago": "10h",
-    "impact": "Neutral",
-    "why": "Clarification on workforce demographics amid local discussio",
-    "url": "https://www.business-standard.com/industry/aviation/bial-responds-to-local-jobs-row-says-kannadigas-form-majority-of-workforce-126110701196_1.html",
-    "chips": {},
-    "trend": [
-      0.5,
-      0.55,
-      0.45,
-      0.5,
-      0.47,
-      0.52,
-      0.5
-    ],
-    "color": "B7791F",
-    "premium": false,
-    "title_hi": "क्या एयरपोर्ट के अधिकांश कर्मचारी स्थानीय लोग हैं?",
-    "summary_hi": "बेंगलुरु इंटरनेशनल एयरपोर्ट लिमिटेड ने कहा कि कन्नडिगा उसकी कार्यबल का अधिकांश हिस्सा हैं। यह बयान निजी क्षेत्र में स्थानीय रोजगार के अवसरों पर चिंताओं के बीच आया है। एयरपोर्ट संचालक ने कहा कि चल रहे विस्तार कार्यों से राज्य के लोगों के लिए और नौकरियां पैदा होंगी।",
-    "why_hi": "स्थानीय रोजगार चिंताओं पर स्पष्टीकरण।",
-    "chips_hi": {},
-    "hi_tries": 0,
-    "hi_ver": 2
-  },
-  {
-    "v": 3,
-    "cat": "Industry",
-    "tk": "INDUSTRY",
-    "title": "Why did D2C festive orders and sales value jump this Diwali?",
-    "summary": "Direct-to-consumer brands in India shipped twenty-seven per cent more orders daily ahead of Diwali this year compared to last year. A new report shows the total value of goods sold grew by forty-five per cent. Shoppers bought higher-priced products in categories like luxury fashion, skincare, wellness, and jewellery, resulting in stronger growth for sales value than order volume.",
-    "source": "Business Standard / Press Trust of India",
-    "published": "2026-11-07T13:56:17+00:00",
-    "ago": "12h",
-    "impact": "Positive",
-    "why": "Higher order volumes and sales value reported.",
-    "url": "https://www.business-standard.com/industry/news/d2c-brands-see-27-more-orders-ahead-of-diwali-sales-value-up-45-report-126110701023_1.html",
-    "chips": {
-      "Order growth": "27%",
-      "Sales value growth": "45%",
-      "Brands analysed": "nearly 400"
-    },
-    "trend": [
-      0.1,
-      0.25,
-      0.2,
-      0.5,
-      0.45,
-      0.8,
-      0.95
-    ],
-    "color": "0F766E",
-    "premium": false,
-    "title_hi": "Diwali से पहले D2C ब्रांड्स के ऑर्डर्स और बिक्री में क्यों आई तेजी?",
-    "summary_hi": "भारत में डायरेक्ट-टू-कौंसूमर ब्रांड्स के दिवाली से पहले के दैनिक ऑर्डर्स में पिछले साल की तुलना में 27 प्रतिशत की बढ़ोतरी हुई है। एक रिपोर्ट के अनुसार बेचे गए सामान के कुल मूल्य में 45 प्रतिशत का उछाल आया है। खरीदारो ने लक्जरी फैशन, स्किनकेयर, वेलनेस और ज्वेलरी जैसी महंगी श्रेणियों में खरीदारी की है।",
-    "why_hi": "ऑर्डर वॉल्यूम और बिक्री मूल्य में वृद्धि दर्ज।",
-    "chips_hi": {
-      "ऑर्डर वृद्धि": "27%",
-      "बिक्री मूल्य वृद्धि": "45%",
-      "ब्रांड्स": "लगभग 400"
-    },
-    "hi_tries": 0,
-    "hi_ver": 2
-  },
-  {
-    "v": 3,
-    "cat": "Companies",
-    "tk": "GROWW",
-    "title": "Major investors sell 1.84% stake in Groww for ₹2,457 crore",
-    "summary": "Peak XV Partners, Y Combinator and Goldman Sachs sold over 11.52 crore shares of Billionbrains Garage Ventures, Groww's parent company, in bulk deals. The transactions occurred in the price range of Rs 211.09 to 215.20 per share on the BSE and NSE. Meanwhile, Goldman Sachs also purchased 3.55 crore shares.",
-    "source": "Business Standard / Press Trust of India",
-    "published": "2026-11-07T13:07:34+00:00",
-    "ago": "1h",
-    "impact": "Neutral",
-    "why": "Routine stake sales by existing institutional investors.",
-    "url": "https://www.business-standard.com/companies/news/three-investors-offload-1-84-stake-in-groww-for-2-457-crore-in-bulk-deals-126110701037_1.html",
-    "chips": {
-      "Deal value": "Rs 2,457 crore",
-      "Stake sold": "1.84%",
-      "Shares sold": "11.52 crore"
-    },
-    "trend": [
-      0.5,
-      0.55,
-      0.45,
-      0.5,
-      0.47,
-      0.52,
-      0.5
-    ],
-    "color": "B7791F",
-    "premium": false,
-    "title_hi": "Groww में बड़े निवेशकों ने 2,457 करोड़ रुपये में बेची हिस्सेदारी",
-    "summary_hi": "Peak XV Partners, Y Combinator और Goldman Sachs ने bulk deals के जरिए Groww की पैरेट कंपनी Billionbrains Garage Ventures में 1.84 प्रतिशत हिस्सेदारी बेची है। बीएसई और एनएसई के डेटा के अनुसार यह सौदा 211.09 से 215.20 रुपये प्रति शेयर के भाव पर हुआ। इस बीच, Goldman Sachs ने कुछ शेयर खरीदे भी हैं।",
-    "why_hi": "संस्थागत निवेशकों द्वारा नियमित हिस्सेदारी की बिक्री।",
-    "chips_hi": {
-      "डील वैल्यू": "₹2,457 करोड़",
-      "बेची गई हिस्सेदारी": "1.84%",
-      "बेचे गए शेयर": "11.52 करोड़"
-    },
-    "hi_tries": 0,
-    "hi_ver": 2
-  },
-  {
-    "v": 3,
-    "cat": "Companies",
-    "tk": "LENSKART",
-    "title": "SoftBank sells Lenskart stake for 1896 crore as Goldman buys",
-    "summary": "SoftBank offloaded a 1.56 percent stake in Lenskart through an affiliate company. The shares were sold in ten tranches at an average price of 697.15 rupees each on Friday. Goldman Sachs emerged as the biggest buyer in this large transaction.",
-    "source": "Business Standard / Press Trust of India",
-    "published": "2026-11-07T12:47:40+00:00",
-    "ago": "1h",
-    "impact": "Neutral",
-    "why": "Stake sale details without fundamental impact.",
-    "url": "https://www.business-standard.com/companies/news/softbank-sells-1-56-lenskart-stake-for-1-896-crore-goldman-biggest-buyer-126110701043_1.html",
-    "chips": {
-      "Stake sold": "1.56%",
-      "Value": "₹1,896 crore",
-      "Shares": "2.72 crore"
-    },
-    "trend": [
-      0.5,
-      0.55,
-      0.45,
-      0.5,
-      0.47,
-      0.52,
-      0.5
-    ],
-    "color": "B7791F",
-    "premium": false,
-    "title_hi": "SoftBank ने बेची Lenskart की हिस्सेदारी, Goldman बना सबसे बड़ा खरीदार",
-    "summary_hi": "SoftBank ने अपनी सहयोगी कंपनी के जरिए Lenskart में 1.56 प्रतिशत हिस्सेदारी बेच दी है। शुक्रवार को ये शेयर 10 किस्तों में बेचे गए, जिसमें औसत कीमत 697.15 रुपये प्रति शेयर रही और Goldman Sachs सबसे बड़ा खरीदार रहा।",
-    "why_hi": "हि हिस्सेदारी बेचने से जुड़े विवरण सामने आए।",
-    "chips_hi": {
-      "हिस्सेदारी": "1.56%",
-      "मूल्य": "₹1,896 करोड़",
-      "शेयर": "2.72 करोड़"
-    },
-    "hi_tries": 0,
-    "hi_ver": 2
-  },
-  {
-    "v": 3,
-    "cat": "Finance",
-    "tk": "FINANCE",
-    "title": "UP Government Hikes Dearness Allowance by 5 Percent to 63 Percent",
-    "summary": "The Uttar Pradesh government has increased the Dearness Allowance by 5 percent, taking it to 63 percent from 58 percent for eligible employees. The revised rate is effective from July 1, 2026. Arrears will be provided retrospectively, and the enhanced allowance will be paid with the November 2026 salary, benefiting lakhs of workers across the state.",
-    "source": "Business Standard / Press Trust of India",
-    "published": "2026-11-07T10:59:09+00:00",
-    "ago": "3h",
-    "impact": "Neutral",
-    "why": "Routine government salary and allowance revision.",
-    "url": "https://www.business-standard.com/finance/personal-finance/up-govt-hikes-da-by-5-to-63-employees-to-get-arrears-from-july-1-126110700762_1.html",
-    "chips": {
-      "DA hike": "5 per cent",
-      "New DA rate": "63 per cent",
-      "Previous DA rate": "58 per cent"
-    },
-    "trend": [
-      0.5,
-      0.55,
-      0.45,
-      0.5,
-      0.47,
-      0.52,
-      0.5
-    ],
-    "color": "B7791F",
-    "premium": false,
-    "title_hi": "UP सरकार ने Dearness Allowance में 5 प्रतिशत की बढ़ोतरी की",
-    "summary_hi": "उत्तर प्रदेश सरकार ने राज्य के कर्मचारियों के लिए Dearness Allowance में 5 प्रतिशत की बढ़ोतरी की है, जिससे यह 58 प्रतिशत से बढ़कर 63 प्रतिशत हो गया है। बढ़ी हुई दर 1 जुलाई 2026 से लागू होगी। एरियर का भुगतान किया जाएगा और बढ़ा हुआ भत्ता नवंबर 2026 के वेतन के साथ मिलेगा, जिससे राज्यभर के लाखों कर्मचारियों को लाभ होगा।",
-    "why_hi": "नियमित सरकारी वेतन और भत्ते में संशोधन।",
-    "chips_hi": {
-      "DA बढ़ोतरी": "5 प्रतिशत",
-      "नया DA रेट": "63 प्रतिशत",
-      "पुराना DA रेट": "58 प्रतिशत"
-    },
-    "hi_tries": 0,
-    "hi_ver": 2
-  },
-  {
-    "v": 3,
-    "cat": "Earnings",
-    "tk": "TATA STEEL",
-    "title": "Tata Steel Q2 net profit climbs 18.2 percent on strong India business",
-    "summary": "Tata Steel posted an 18.2 percent year-on-year rise in its net profit for the second quarter, supported by its operations in India. Consolidated revenue grew by 11.5 percent to reach Rs 65,436 crore. Meanwhile, the company reported a sequential increase of 14 percent in its EBITDA.",
-    "source": "Business Standard",
-    "published": "2026-11-07T10:39:57+00:00",
-    "ago": "3h",
-    "impact": "Positive",
-    "why": "Rising profit and revenue show strong operational performanc",
-    "url": "https://www.business-standard.com/companies/quarterly-results/tata-steel-q2-fy27-results-net-profit-india-operations-uk-netherlands-126110700767_1.html",
-    "chips": {
-      "Net profit growth": "18.2 per cent Y-o-Y",
-      "Consolidated revenue": "Rs 65,436 crore",
-      "EBITDA": "Rs 10,665 crore"
-    },
-    "trend": [
-      0.1,
-      0.25,
-      0.2,
-      0.5,
-      0.45,
-      0.8,
-      0.95
-    ],
-    "color": "0F766E",
-    "premium": false,
-    "title_hi": "Tata Steel का Q2 नेट प्रॉफिट 18.2 प्रतिशत बढ़ा",
-    "summary_hi": "भारत में मजबूत कामकाज के दम पर Tata Steel का दूसरी तिमाही का नेट प्रॉफिट साल-दर-साल 18.2 प्रतिशत बढ़ गया है। कंसोलिडेटेड रेवेन्यू 11.5 प्रतिशत बढ़कर 65,436 करोड़ रुपये पर पहुंच गया। इसके अलावा, कंपनी का EBITDA तिमाही आधार पर 14 प्रतिशत बढ़कर 10,665 करोड़ रुपये हो गया।",
-    "why_hi": "बढ़ा हुआ मुनाफा और मजबूत कमाई।",
-    "chips_hi": {
-      "नेट प्रॉफिट वृद्धि": "18.2 प्रतिशत",
-      "कंसोलिडेटेड रेवेन्यू": "₹65,436 करोड़",
-      "EBITDA": "₹10,665 करोड़"
     },
     "hi_tries": 0,
     "hi_ver": 2
