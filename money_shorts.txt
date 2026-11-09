@@ -1,6 +1,232 @@
 [
   {
     "v": 3,
+    "cat": "Companies",
+    "tk": "DABUR INDIA",
+    "title": "Rural and urban demand growth gap narrows to 150 basis points",
+    "summary": "Dabur India CEO Herjit Bhalla stated that the growth gap between rural and urban areas has reduced to 150 basis points. The company is currently focusing its efforts on expanding distribution networks, driving cost savings, and pushing premiumisation strategies in the market.",
+    "source": "Business Standard",
+    "published": "2026-11-09T14:18:43+00:00",
+    "ago": "10m",
+    "impact": "Positive",
+    "why": "Rural urban demand growth gap narrows.",
+    "url": "https://www.business-standard.com/companies/people/rural-urban-demand-growth-gap-narrowing-says-dabur-india-ceo-herjit-bhalla-126110901182_1.html",
+    "chips": {
+      "Growth gap": "150 basis points"
+    },
+    "trend": [
+      0.1,
+      0.25,
+      0.2,
+      0.5,
+      0.45,
+      0.8,
+      0.95
+    ],
+    "color": "0F766E",
+    "premium": true,
+    "title_hi": "रूरल और अर्बन डिमांड ग्रोथ का अंतर घटकर 150 बेसिस पॉइंट्स हुआ",
+    "summary_hi": "Dabur India के सीईओ हरजीत भल्ला के अनुसार, ग्रामीण और शहरी क्षेत्रों के बीच की वृद्धि का अंतर घटकर 150 बेसिस पॉइंट्स रह गया है। कंपनी प्रीमियम उत्पादों, लागत में बचत और डिस्ट्रीब्यूशन बढ़ाने पर ध्यान दे रही है।",
+    "why_hi": "ग्रामीण और शहरी मांग का अंतर कम हुआ।",
+    "chips_hi": {
+      "ग्रोथ गैप": "150 बेसिस पॉइंट्स"
+    }
+  },
+  {
+    "v": 3,
+    "cat": "Finance",
+    "tk": "FINANCE",
+    "title": "Why are microfinance lenders expecting stronger loan disbursements soon?",
+    "summary": "Major microfinance institutions like CreditAccess Grameen, Satin Creditcare, and Muthoot Microfin anticipate higher loan disbursements during the second half of the fiscal year. This expected growth is driven by rising seasonal demand and a steady market recovery in areas previously affected by adverse weather conditions.",
+    "source": "Business Standard",
+    "published": "2026-11-09T13:52:56+00:00",
+    "ago": "36m",
+    "impact": "Positive",
+    "why": "Higher loan disbursements expected in H2.",
+    "url": "https://www.business-standard.com/finance/news/microfinance-lenders-expect-h2-disbursements-to-rise-on-seasonal-demand-126110901121_1.html",
+    "chips": {},
+    "trend": [
+      0.1,
+      0.25,
+      0.2,
+      0.5,
+      0.45,
+      0.8,
+      0.95
+    ],
+    "color": "0F766E",
+    "premium": false,
+    "title_hi": "माइक्रोफाइनेंस कंपनियों को दूसरी छमाही में बेहतर लोन वितरण की उम्मीद क्यों है?",
+    "summary_hi": "क्रेडिटएक्सेस ग्रामीण, साटन क्रेडिटकेयर और मुथूट माइक्रोफिन जैसी प्रमुख माइक्रोफाइनेंस कंपनियां वित्त वर्ष की दूसरी छमाही में लोन वितरण में तेजी की उम्मीद कर रही हैं। यह वृद्धि मौसमी मांग बढ़ने और खराब मौसम से प्रभावित बाजारों में सुधार के कारण होने की संभावना है।",
+    "why_hi": "दूसरी छमाही में लोन वितरण बढ़ने की उम्मीद।",
+    "chips_hi": {}
+  },
+  {
+    "v": 3,
+    "cat": "Companies",
+    "tk": "QUEST GLOBAL",
+    "title": "Quest Global expands wearables expertise by acquiring US-based Tests Assured",
+    "summary": "Engineering services firm Quest Global has taken over US-based Tests Assured. This move aims to strengthen the company's testing capabilities for wearables, smart devices, and immersive technologies. Financial terms and transaction details of the acquisition were not made public by the companies.",
+    "source": "Business Standard",
+    "published": "2026-11-09T13:40:21+00:00",
+    "ago": "48m",
+    "impact": "Positive",
+    "why": "Enhances engineering and testing capabilities for smart devi",
+    "url": "https://www.business-standard.com/companies/news/quest-global-acquires-us-based-tests-assured-to-boost-wearables-expertise-126110901048_1.html",
+    "chips": {},
+    "trend": [
+      0.1,
+      0.25,
+      0.2,
+      0.5,
+      0.45,
+      0.8,
+      0.95
+    ],
+    "color": "0F766E",
+    "premium": false,
+    "title_hi": "Quest Global ने US की Tests Assured को खरीदकर बढ़ाई अपनी क्षमता",
+    "summary_hi": "इंजीनियरिंग सर्विसेज फर्म Quest Global ने US स्थित Tests Assured का अधिग्रहण कर लिया है। इस कदम का उद्देश्य वियरेबल्स, स्मार्ट डिवाइस और इमर्सिव टेक्नोलॉजी के लिए कंपनी की टेस्टिंग क्षमताओं को मजबूत करना है। हालांकि, इस सौदे से जुड़े वित्तीय विवरणों को सार्वजनिक नहीं किया गया है।",
+    "why_hi": "स्मार्ट डिवाइस के लिए इंजीनियरिंग और टेस्टिंग क्षमता मजबूत होगी।",
+    "chips_hi": {}
+  },
+  {
+    "v": 3,
+    "cat": "Economy",
+    "tk": "ECONOMY",
+    "title": "Central PSUs pledge ₹2 trn for Uttar Pradesh energy sector",
+    "summary": "Major central public sector undertakings have committed an investment of ₹2 trillion towards the thermal and clean energy sectors in Uttar Pradesh. Prominent state-owned entities such as NTPC Limited, Indian Oil Corporation, Nuclear Power Corporation of India, Coal India, and Bharat Petroleum Corporation are part of these fresh investment pledges aimed at boosting power infrastructure.",
+    "source": "Business Standard",
+    "published": "2026-11-09T13:30:15+00:00",
+    "ago": "59m",
+    "impact": "Positive",
+    "why": "Massive capital infusion into energy sector.",
+    "url": "https://www.business-standard.com/economy/uttar-pradesh/central-psus-pledge-2-trn-investment-in-up-s-thermal-clean-energy-sectors-126110901053_1.html",
+    "chips": {
+      "Investment": "₹2 trn"
+    },
+    "trend": [
+      0.1,
+      0.25,
+      0.2,
+      0.5,
+      0.45,
+      0.8,
+      0.95
+    ],
+    "color": "0F766E",
+    "premium": false,
+    "title_hi": "सेंट्रल PSUs ने उत्तर प्रदेश के एनर्जी सेक्टर में किए ₹2 लाख करोड़ के निवेश",
+    "summary_hi": "प्रमुख सरकारी कंपनियों ने उत्तर प्रदेश के थर्मल और क्लीन एनर्जी सेक्टर में ₹2 लाख करोड़ के निवेश का संकल्प लिया है। इस निवेश प्रतिबद्धता में NTPC Limited, IOCL, NPCIL, Coal India और BPCL जैसी नामी सार्वजनिक क्षेत्र की कंपनियां शामिल हैं।",
+    "why_hi": "एनर्जी सेक्टर में भारी पूंजी निवेश।",
+    "chips_hi": {
+      "निवेश": "₹2 लाख करोड़"
+    }
+  },
+  {
+    "v": 3,
+    "cat": "Economy",
+    "tk": "ECONOMY",
+    "title": "How CPSEs reached 60 percent of their capital expenditure target",
+    "summary": "Capital expenditure by sixty three central public sector enterprises increased nearly thirteen percent to five point zero three trillion rupees during the April to October period. Railways, highways, and energy companies emerged as the leading spenders, achieving sixty percent of their overall capital expenditure target for the financial year twenty twenty seven within this timeframe.",
+    "source": "Business Standard",
+    "published": "2026-11-09T13:03:47+00:00",
+    "ago": "1h",
+    "impact": "Positive",
+    "why": "Higher spending by state firms boosts infrastructure.",
+    "url": "https://www.business-standard.com/economy/news/cpses-achieve-60-of-fy27-capital-expenditure-target-in-april-october-126110900995_1.html",
+    "chips": {
+      "CapEx": "Rs 5.03 trillion",
+      "Growth": "13 percent",
+      "Target achieved": "60 percent"
+    },
+    "trend": [
+      0.1,
+      0.25,
+      0.2,
+      0.5,
+      0.45,
+      0.8,
+      0.95
+    ],
+    "color": "0F766E",
+    "premium": false,
+    "hi_tries": 1,
+    "title_hi": "सरकारी कंपनियों ने कैसे पूरा किया कैपिटल एक्सपेंडिचर का बड़ा लक्ष्य?",
+    "summary_hi": "अप्रैल से अक्टूबर के दौरान सरकारी कंपनियों का कैपिटल एक्सपेंडिचर करीब 13 प्रतिशत बढ़कर 5.03 लाख करोड़ रुपये पर पहुंच गया है। रेलवे, हाईवे और ऊर्जा क्षेत्र की कंपनियों ने इसमें सबसे आगे रहकर वित्त वर्ष के कुल खर्च का 60 प्रतिशत लक्ष्य हासिल कर लिया है।",
+    "why_hi": "Higher spending by state firms boosts infrastructure.",
+    "chips_hi": {
+      "कैपिटल एक्सपेंडिचर": "₹5.03 लाख करोड़",
+      "ग्रोथ": "13 प्रतिशत",
+      "लक्ष्य पूरा": "60 प्रतिशत"
+    }
+  },
+  {
+    "v": 3,
+    "cat": "Earnings",
+    "tk": "MARKETS",
+    "title": "How will scaling up projects drive gains for Divi's Labs?",
+    "summary": "Divi's Laboratories maintains a positive business outlook supported by strong custom synthesis growth, improving margins, and multiple projects nearing commercialization. However, analysts express concern regarding the company's currently elevated valuations, noting that these high price levels warrant careful observation alongside ongoing operational progress and future market performance.",
+    "source": "Business Standard",
+    "published": "2026-11-09T12:57:11+00:00",
+    "ago": "1h",
+    "impact": "Positive",
+    "why": "Strong custom synthesis and improving margins.",
+    "url": "https://www.business-standard.com/markets/news/scaling-up-of-projects-to-drive-gains-for-divi-s-labs-amid-strong-q2-show-126110900986_1.html",
+    "chips": {},
+    "trend": [
+      0.1,
+      0.25,
+      0.2,
+      0.5,
+      0.45,
+      0.8,
+      0.95
+    ],
+    "color": "0F766E",
+    "premium": true,
+    "title_hi": "प्रोजेक्ट्स बढ़ने से Divi's Labs को कैसे फायदा मिलेगा?",
+    "summary_hi": "Divi's Laboratories का बिजनेस आउटलुक मजबूत कस्टम सिंथेटिक ग्रोथ, बेहतर मार्जिन और कमर्शियलाइजेशन के करीब पहुंच रहे प्रोजेक्ट्स के कारण सकारात्मक बना हुआ है। हालांकि, एनालिस्ट्स ऊंचे वैल्यूएशन को लेकर चिंता जता रहे हैं।",
+    "why_hi": "मजबूत कस्टम सिंथेटिक ग्रोथ और बेहतर मार्जिन।",
+    "chips_hi": {}
+  },
+  {
+    "v": 3,
+    "cat": "Companies",
+    "tk": "PRESTIGE ESTATES",
+    "title": "Prestige Estates takes over Noida's Allure Developers for over 523 crore rupees",
+    "summary": "Bengaluru-based Prestige Estates has secured a complete stake in Noida-based Allure Developers. The transaction, valued at up to 523.76 crore rupees, gives the developer control of a residential project located in Sector 150 of Noida.",
+    "source": "Business Standard",
+    "published": "2026-11-09T12:53:34+00:00",
+    "ago": "1h",
+    "impact": "Positive",
+    "why": "Expansion into new residential real estate markets.",
+    "url": "https://www.business-standard.com/companies/news/prestige-estates-acquires-noida-based-allure-developers-for-523-76-crore-126110900977_1.html",
+    "chips": {
+      "Acquisition cost": "Rs 523.76 crore",
+      "Stake acquired": "100 per cent"
+    },
+    "trend": [
+      0.1,
+      0.25,
+      0.2,
+      0.5,
+      0.45,
+      0.8,
+      0.95
+    ],
+    "color": "0F766E",
+    "premium": false,
+    "title_hi": "Prestige Estates ने 523 करोड़ रुपये से अधिक में खरीदी Allure Developers",
+    "summary_hi": "बेंगलुरु की रियल एस्टेट कंपनी Prestige Estates ने नोएडा की Allure Developers में पूरी हिस्सेदारी खरीद ली है। यह सौदा 523.76 करोड़ रुपये तक का है, जिससे कंपनी को नोएडा के सेक्टर 150 में चल रहे एक आवासीय प्रोजेक्ट का नियंत्रण मिल गया है।",
+    "why_hi": "नए रेजिडेंशियल बाजार में हुआ विस्तार।",
+    "chips_hi": {
+      "अधिग्रहण लागत": "₹523.76 करोड़",
+      "खरीदी गई हिस्सेदारी": "100 प्रतिशत"
+    }
+  },
+  {
+    "v": 3,
     "cat": "Earnings",
     "tk": "DATA PATTERNS",
     "title": "Why did Data Patterns shares surge 9 percent despite profit drop?",
@@ -34,7 +260,9 @@
       "Q2 मुनाफा": "₹21.97 करोड़",
       "पिछला Q2 मुनाफा": "₹49.19 करोड़",
       "मुनाफे में बदलाव": "-55.3 प्रतिशत"
-    }
+    },
+    "hi_tries": 0,
+    "hi_ver": 2
   },
   {
     "v": 3,
@@ -67,7 +295,9 @@
     "why_hi": "शेयर कई महीनों के निचले स्तर पर गिरे।",
     "chips_hi": {
       "शेयर गिरावट": "6% से अधिक"
-    }
+    },
+    "hi_tries": 0,
+    "hi_ver": 2
   },
   {
     "v": 3,
@@ -104,7 +334,9 @@
       "गिरावट": "3% तक",
       "पिछली तेजी": "23% तक",
       "अवधि": "6 दिन"
-    }
+    },
+    "hi_tries": 0,
+    "hi_ver": 2
   },
   {
     "v": 3,
@@ -134,7 +366,7 @@
     ],
     "color": "0F766E",
     "premium": false,
-    "hi_tries": 1,
+    "hi_tries": 0,
     "title_hi": "रबर ग्लव्स पर क्यों लग सकता है भारी ड्यूटी?",
     "summary_hi": "कॉमर्स मिनिस्ट्री ने थाईलैंड और मलेशिया से आने वाले मेडिकल रबर ग्लव्स पर भारी एंटी-डंपिंग ड्यूटी लगाने की सिफारिश की है। स्थानीय निर्माताओं को सस्ते आयात से बचाने के लिए यह कदम उठाया गया है। पांच साल के लिए प्रस्तावित इस ड्यूटी पर अब वित्त मंत्रालय को आखिरी फैसला लेना है।",
     "why_hi": "घरेलू निर्माताओं को सस्ते आयात से बचाता है।",
@@ -142,7 +374,8 @@
       "अधिकतम ड्यूटी": "USD 565 प्रति एक लाख",
       "न्यूनतम ड्यूटी": "USD 442 प्रति एक लाख",
       "अवधि": "5 साल"
-    }
+    },
+    "hi_ver": 2
   },
   {
     "v": 3,
@@ -580,255 +813,6 @@
     "summary_hi": "Samvat 2083 के पहले सत्र में बेंचमार्क इंडेक्स मामूली गिरावट के साथ बंद हुए। इस दौरान स्मॉलकैप और मिडकैप शेयरों ने बेहतर प्रदर्शन किया। सेक्टोरल इंडेक्स का प्रदर्शन मिलाजुला रहा।",
     "why_hi": "मिलाजुला बाजार प्रदर्शन।",
     "chips_hi": {},
-    "hi_tries": 0,
-    "hi_ver": 2
-  },
-  {
-    "v": 3,
-    "cat": "Finance",
-    "tk": "FINANCE",
-    "title": "Why are institutional investors lining up for premium K-12 schools?",
-    "summary": "Growing demand for quality private education and scarce land availability are opening new doors for developers and institutional investors. These groups are joining forces with established school operators to tap into the expanding premium K-12 school market, creating fresh business opportunities in the sector.",
-    "source": "Business Standard",
-    "published": "2026-11-08T12:29:32+00:00",
-    "ago": "1h",
-    "impact": "Positive",
-    "why": "Growing demand and partnerships create new opportunities.",
-    "url": "https://www.business-standard.com/finance/investment/premium-k-12-school-market-moves-into-top-class-as-investors-line-up-126110800379_1.html",
-    "chips": {},
-    "trend": [
-      0.1,
-      0.25,
-      0.2,
-      0.5,
-      0.45,
-      0.8,
-      0.95
-    ],
-    "color": "0F766E",
-    "premium": true,
-    "hi_tries": 0,
-    "title_hi": "बड़े निवेशक क्यों लगा रहे हैं प्रीमियम स्कूलों में पैसा?",
-    "summary_hi": "बेहतर प्राइवेट शिक्षा की बढ़ती मांग और जमीन की कमी के कारण डेवलपर्स और बड़े निवेशकों के लिए नए रास्ते खुल रहे हैं। ये लोग जाने-माने स्कूल ऑपरेटरों के साथ मिलकर प्रीमियम K-12 स्कूल बाजार में उतर रहे हैं, जिससे इस क्षेत्र में बिजनेस के नए मौके बन रहे हैं।",
-    "why_hi": "बढ़ती मांग और साझेदारियों से नए अवसर पैदा हो रहे हैं।",
-    "chips_hi": {},
-    "hi_ver": 2
-  },
-  {
-    "v": 3,
-    "cat": "Economy",
-    "tk": "ECONOMY",
-    "title": "Could the rupee strengthen to 92 per dollar in Samvat 2083?",
-    "summary": "The path for the rupee and bond yields in Samvat 2083 depends on key factors like West Asia tensions, inflation trends, and capital flows. A cooling of the US-Iran conflict could help the rupee appreciate to 92 per dollar. Meanwhile, bond yields might hover around 7 to 7.5 percent driven by rate adjustments.",
-    "source": "Business Standard",
-    "published": "2026-11-08T10:53:50+00:00",
-    "ago": "3h",
-    "impact": "Neutral",
-    "why": "Direction depends on multiple global and domestic factors.",
-    "url": "https://www.business-standard.com/economy/news/rupee-bond-outlook-in-samvat-2083-hinges-on-west-asia-inflation-flows-126110800392_1.html",
-    "chips": {
-      "Rupee level": "92 per dollar",
-      "Bond yields": "7-7.5 per cent"
-    },
-    "trend": [
-      0.5,
-      0.55,
-      0.45,
-      0.5,
-      0.47,
-      0.52,
-      0.5
-    ],
-    "color": "B7791F",
-    "premium": false,
-    "title_hi": "Samvat 2083 में क्या 92 प्रति डॉलर तक मजबूत हो सकता है रुपया?",
-    "summary_hi": "संवत 2083 में रुपये और बॉन्ड यील्ड का रुख पश्चिम एशिया के हालातों, महंगाई और पूंजी प्रवाह पर निर्भर करेगा। अमेरिका-ईरान संघर्ष कम होने पर रुपया 92 प्रति डॉलर तक मजबूत हो सकता है। वहीं, महंगाई के जोखिम और ब्याज दरों के चलते बॉन्ड यील्ड 7 से 7.5 प्रतिशत के दायरे में रह सकती है।",
-    "why_hi": "दिशा कई वैश्विक और घरेलू कारकों पर निर्भर है।",
-    "chips_hi": {
-      "रुपये का स्तर": "92 प्रति डॉलर",
-      "बॉन्ड यील्ड": "7-7.5 प्रतिशत"
-    },
-    "hi_tries": 0,
-    "hi_ver": 2
-  },
-  {
-    "v": 3,
-    "cat": "Industry",
-    "tk": "INDUSTRY",
-    "title": "Kalpataru aims for Rs 6,500 crore pre-sales target for FY27",
-    "summary": "Realty firm Kalpataru Ltd expects to meet its Rs 6,500 crore pre-sales target this fiscal, marking a 23 percent rise from the previous year. The company's CFO noted that housing demand remains strong for established players despite global economic uncertainties.",
-    "source": "Business Standard / Press Trust of India",
-    "published": "2026-11-08T09:56:46+00:00",
-    "ago": "13m",
-    "impact": "Positive",
-    "why": "Strong housing demand supports higher pre-sales targets.",
-    "url": "https://www.business-standard.com/industry/news/kalpataru-confident-of-meeting-6-500-cr-pre-sales-target-for-fy27-cfo-126110800339_1.html",
-    "chips": {
-      "Pre-sales target": "Rs 6,500 crore",
-      "Target growth": "23 per cent",
-      "H1 sales bookings": "Rs 2,587 crore"
-    },
-    "trend": [
-      0.1,
-      0.25,
-      0.2,
-      0.5,
-      0.45,
-      0.8,
-      0.95
-    ],
-    "color": "0F766E",
-    "premium": false,
-    "title_hi": "Kalpataru को FY27 के लिए Rs 6,500 करोड़ के प्री-सेल्स लक्ष्य की उम्मीद",
-    "summary_hi": "रियल्टी फर्म Kalpataru Ltd को चालू वित्त वर्ष में अपने 6,500 करोड़ रुपये के प्री-सेल्स लक्ष्य को हासिल करने की उम्मीद है, जो पिछले वर्ष से 23 प्रतिशत अधिक है। कंपनी के सीएफओ के अनुसार, वैश्विक अनिश्चितताओं के बावजूद स्थापित खिलाड़ियों के लिए आवास की मांग मजबूत बनी हुई है। साल की पहली छमाही में बुकिंग लगभग 2,600 करोड़ रुपये पर सपाट रही।",
-    "why_hi": "मजबूत आवास मांग से प्री-सेल्स लक्ष्य पूरा होने की उम्मीद।",
-    "chips_hi": {
-      "प्री-सेल्स लक्ष्य": "₹6,500 करोड़",
-      "लक्ष्य वृद्धि": "23 प्रतिशत",
-      "H1 सेल्स बुकिंग": "₹2,587 करोड़"
-    },
-    "hi_tries": 0,
-    "hi_ver": 2
-  },
-  {
-    "v": 3,
-    "cat": "Markets",
-    "tk": "MARKETS",
-    "title": "Why did Divi's Labs surge six percent to reach a record high?",
-    "summary": "Divi's Labs climbed to a new peak of Rs 10,950 during the special Muhurat trading session. The pharmaceutical company saw its shares jump by six percent. This positive movement followed the announcement of a sixty-four percent increase in its net profit for the second quarter.",
-    "source": "Business Standard",
-    "published": "2026-11-08T09:40:54+00:00",
-    "ago": "29m",
-    "impact": "Positive",
-    "why": "Strong profit growth drove share price higher.",
-    "url": "https://www.business-standard.com/markets/news/icici-bank-divi-s-among-14-nse-500-stocks-hit-new-highs-in-muhurat-session-126110800329_1.html",
-    "chips": {
-      "Share surge": "6%",
-      "New high": "Rs 10,950",
-      "Q2 net profit growth": "64%"
-    },
-    "trend": [
-      0.1,
-      0.25,
-      0.2,
-      0.5,
-      0.45,
-      0.8,
-      0.95
-    ],
-    "color": "0F766E",
-    "premium": false,
-    "title_hi": "मुहूर्त ट्रेडिंग सत्र में Divi's Labs का शेयर नए रिकॉर्ड स्तर पर क्यों पहुंचा?",
-    "summary_hi": "विशेष मुहूर्त ट्रेडिंग सत्र के दौरान Divi's Labs का शेयर छह प्रतिशत चढ़कर 10,950 रुपये के नए उच्च स्तर पर पहुंच गया। फार्मा कंपनी द्वारा दूसरी तिमाही के शुद्ध लाभ में 64 प्रतिशत की वृद्धि की रिपोर्ट करने के बाद शेयरों में यह तेजी आई है।",
-    "why_hi": "मजबूत लाभ वृद्धि से शेयर में तेजी आई।",
-    "chips_hi": {
-      "शेयर तेजी": "6%",
-      "नया उच्च स्तर": "₹10,950",
-      "Q2 शुद्ध लाभ वृद्धि": "64%"
-    },
-    "hi_tries": 0,
-    "hi_ver": 2
-  },
-  {
-    "v": 3,
-    "cat": "Earnings",
-    "tk": "TATA STEEL",
-    "title": "Tata Steel jumps 3 percent during Sunday Muhurat trading session",
-    "summary": "Tata Steel shares rose over 3 percent, reaching a high of ₹192.19 on the NSE. This movement followed the company's steady financial results for the second quarter, capturing investor attention during the special trading session.",
-    "source": "Business Standard",
-    "published": "2026-11-08T09:17:44+00:00",
-    "ago": "52m",
-    "impact": "Positive",
-    "why": "Higher share price and steady earnings.",
-    "url": "https://www.business-standard.com/markets/news/tata-steel-spurts-3-in-muhurat-trading-session-post-steady-q2-earnings-126110800313_1.html",
-    "chips": {
-      "Share price high": "₹192.19",
-      "Gain": "3 percent"
-    },
-    "trend": [
-      0.1,
-      0.25,
-      0.2,
-      0.5,
-      0.45,
-      0.8,
-      0.95
-    ],
-    "color": "0F766E",
-    "premium": false,
-    "title_hi": "रविवार के मुहूर्त ट्रेडिंग सत्र में Tata Steel के शेयरों में 3 प्रतिशत की तेजी",
-    "summary_hi": "Tata Steel के शेयरों में 3 प्रतिशत से अधिक की बढ़त दर्ज की गई और एनएसई पर यह ₹192.19 के उच्च स्तर पर पहुंच गया। यह हलचल कंपनी के स्थिर दूसरी तिमाही के नतीजों के बाद विशेष मुहूर्त ट्रेडिंग सत्र के दौरान देखने को मिली।",
-    "why_hi": "शेयर भाव में बढ़त और स्थिर नतीजे।",
-    "chips_hi": {
-      "शेयर मूल्य": "₹192.19",
-      "बढ़ت": "3 प्रतिशत"
-    },
-    "hi_tries": 0,
-    "hi_ver": 2
-  },
-  {
-    "v": 3,
-    "cat": "Markets",
-    "tk": "MARKETS",
-    "title": "Will global factors keep commodity prices volatile in Samvat 2083?",
-    "summary": "Geopolitical events, global interest rates, and supply-demand dynamics are set to remain the primary drivers influencing crude oil and bullion prices, according to market analysts. These ongoing international developments indicate that commodity markets will experience continued price fluctuations in the upcoming Samvat year.",
-    "source": "Business Standard",
-    "published": "2026-11-08T08:36:08+00:00",
-    "ago": "5h",
-    "impact": "Neutral",
-    "why": "Global factors drive commodity price volatility.",
-    "url": "https://www.business-standard.com/markets/news/markets-commodities-samvat-2083-commodity-outlook-crude-oil-gold-silver-global-risks-126110800289_1.html",
-    "chips": {},
-    "trend": [
-      0.5,
-      0.55,
-      0.45,
-      0.5,
-      0.47,
-      0.52,
-      0.5
-    ],
-    "color": "B7791F",
-    "premium": false,
-    "title_hi": "क्या वैश्विक कारणों से संवत 2083 में कमोडिटी की कीमतों में उतार-चढ़ाव रहेगा?",
-    "summary_hi": "विश्लेषकों का कहना है कि भू-राजनीतिक कारक, वैश्विक ब्याज दरें और मांग-आपूर्ति की स्थिति कच्चे तेल और बुलियन की कीमतों को तय करने वाले मुख्य कारक बने रहेंगे। इन अंतरराष्ट्रीय गतिविधियों के कारण आने वाले संवत वर्ष में कमोडिटी बाजारों में उतार-चढ़ाव देखने को मिल सकता है।",
-    "why_hi": "वैश्विक कारणों से कमोडिटी की कीमतों में उतार-चढ़ाव।",
-    "chips_hi": {},
-    "hi_tries": 0,
-    "hi_ver": 2
-  },
-  {
-    "v": 3,
-    "cat": "Companies",
-    "tk": "HINDALCO",
-    "title": "Why are Hindalco's aluminium production costs jumping by 5 percent?",
-    "summary": "Hindalco faces a coal shortage leading to rising expenses. The metals company anticipates aluminium production costs to increase by another 5 percent sequentially in the December quarter. A similar rise occurred in the September quarter, according to MD Satish Pai.",
-    "source": "Business Standard",
-    "published": "2026-11-08T08:26:47+00:00",
-    "ago": "1h",
-    "impact": "Negative",
-    "why": "Rising production costs impact profit margins.",
-    "url": "https://www.business-standard.com/companies/news/hindalco-flags-coal-shortage-expects-5-rise-in-aluminium-production-costs-126110800282_1.html",
-    "chips": {
-      "Cost increase": "5 per cent"
-    },
-    "trend": [
-      0.95,
-      0.85,
-      0.7,
-      0.6,
-      0.4,
-      0.3,
-      0.1
-    ],
-    "color": "9B2C2C",
-    "premium": false,
-    "title_hi": "Hindalco के एल्युमिनियम उत्पादन खर्च में 5 प्रतिशत की बढ़ोतरी क्यों होगी?",
-    "summary_hi": "कोयले की कमी का सामना कर रही मेटल कंपनी Hindalco का एल्युमिनियम उत्पादन खर्च दिसंबर तिमाही में क्रमिक रूप से 5 प्रतिशत और बढ़ने की उम्मीद है। एमडी सतीश पाई के अनुसार, सितंबर तिमाही में भी इसी तरह की बढ़ोतरी हुई थी।",
-    "why_hi": "बढ़ता उत्पादन खर्च मुनाफे को प्रभावित करता है।",
-    "chips_hi": {
-      "लागत वृद्धि": "5 प्रतिशत"
-    },
     "hi_tries": 0,
     "hi_ver": 2
   }
