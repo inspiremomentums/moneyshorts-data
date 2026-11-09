@@ -1,6 +1,204 @@
 [
   {
     "v": 3,
+    "cat": "Companies",
+    "tk": "L&T",
+    "title": "How L&T secured a major Noida Metro Aqua Line extension project",
+    "summary": "L&T announced it received a significant order from Noida Metro to develop an elevated viaduct. The project includes partial design and construction work across two specific stretches spanning 15.1 kilometers, connecting Botanical Garden to Noida Sector-142 and Depot Station to Boraki.",
+    "source": "Business Standard",
+    "published": "2026-11-09T06:10:26+00:00",
+    "ago": "19m",
+    "impact": "Positive",
+    "why": "New metro infrastructure order boosts business pipeline.",
+    "url": "https://www.business-standard.com/companies/news/l-t-bags-significant-order-from-noida-metro-for-aqua-line-extension-126110900306_1.html",
+    "chips": {
+      "Project length": "15.1-km"
+    },
+    "trend": [
+      0.1,
+      0.25,
+      0.2,
+      0.5,
+      0.45,
+      0.8,
+      0.95
+    ],
+    "color": "0F766E",
+    "premium": false,
+    "title_hi": "L&T को कैसे मिला Noida Metro Aqua Line विस्तार का बड़ा ऑर्डर",
+    "summary_hi": "L&T ने बताया कि उसे Noida Metro से एक महत्वपूर्ण ऑर्डर मिला है। इस प्रोजेक्ट में दो हिस्सों में 15.1 किलोमीटर लंबे एलिवेटेड वायाडक्ट का आंशिक डिजाइन और निर्माण कार्य शामिल है, जो Botanical Garden से Noida Sector-142 और Depot Station से Boraki तक फैला है।",
+    "why_hi": "नया बुनियादी ढांचा ऑर्डर मिलने से बिजनेस मजबूत होगा।",
+    "chips_hi": {
+      "प्रोजेक्ट लंबाई": "15.1-km"
+    }
+  },
+  {
+    "v": 3,
+    "cat": "Earnings",
+    "tk": "SAI LIFE",
+    "title": "Sai Life Sciences hits record high as profit climbs 17 percent",
+    "summary": "Sai Life Sciences shares jumped 9 percent to reach a record high following its September quarter results for FY27. The company posted a 17 percent year-on-year increase in consolidated net profit, reaching ₹98 crore. Meanwhile, revenue grew by 23 percent compared to the previous year, totaling ₹659 crore.",
+    "source": "Business Standard",
+    "published": "2026-11-09T06:08:33+00:00",
+    "ago": "21m",
+    "impact": "Positive",
+    "why": "Higher profit and revenue growth.",
+    "url": "https://www.business-standard.com/markets/news/multibagger-stock-sai-life-sciences-surges-9-to-record-high-after-q2-nos-126110900299_1.html",
+    "chips": {
+      "Net profit": "₹98 crore",
+      "Revenue": "₹659 crore"
+    },
+    "trend": [
+      0.1,
+      0.25,
+      0.2,
+      0.5,
+      0.45,
+      0.8,
+      0.95
+    ],
+    "color": "0F766E",
+    "premium": false,
+    "title_hi": "Sai Life Sciences का शेयर रिकॉर्ड हाई पर, मुनाफा 17% बढ़ा",
+    "summary_hi": "Q2 परिणामों के बाद Sai Life Sciences के शेयर 9 प्रतिशत उछलकर रिकॉर्ड स्तर पर पहुंच गए। वित्त वर्ष 27 की सितंबर तिमाही में कंपनी का समेकित शुद्ध लाभ 17 प्रतिशत बढ़कर ₹98 करोड़ हो गया। इसके अलावा, पिछले वर्ष की तुलना में राजस्व 23 प्रतिशत बढ़कर ₹659 करोड़ दर्ज किया गया।",
+    "why_hi": "मुनाफे और राजस्व में वृद्धि।",
+    "chips_hi": {
+      "शुद्ध लाभ": "₹98 करोड़",
+      "राजस्व": "₹659 करोड़"
+    }
+  },
+  {
+    "v": 3,
+    "cat": "Industry",
+    "tk": "INDUSTRY",
+    "title": "India considers capping soda ash imports for two years",
+    "summary": "India is reportedly considering a two-year cap on soda ash imports to protect domestic manufacturers. This move comes as glass and detergent makers, who rely on soda ash as a primary input, have expressed worries regarding potential supply constraints and rising costs associated with the restriction.",
+    "source": "Business Standard",
+    "published": "2026-11-09T05:56:51+00:00",
+    "ago": "33m",
+    "impact": "Positive",
+    "why": "Protects domestic producers from import competition.",
+    "url": "https://www.business-standard.com/industry/news/india-may-cap-soda-ash-imports-for-two-years-to-shield-domestic-producers-126110900277_1.html",
+    "chips": {},
+    "trend": [
+      0.1,
+      0.25,
+      0.2,
+      0.5,
+      0.45,
+      0.8,
+      0.95
+    ],
+    "color": "0F766E",
+    "premium": false,
+    "title_hi": "घरेलू निर्माताओं को बचाने के लिए भारत soda ash आयात पर लगा सकता है रोक",
+    "summary_hi": "घरेलू निर्माताओं को सुरक्षित रखने के लिए भारत दो साल तक soda ash के आयात पर सीमा तय करने पर विचार कर रहा है। ग्लास और डिटर्जेंट बनाने वाली कंपनियां इस सामग्री का मुख्य रूप से उपयोग करती हैं और उन्होंने आपूर्ति तथा लागत को लेकर चिंता जताई है।",
+    "why_hi": "घरेलू उत्पादकों को आयात से सुरक्षा मिलेगी।",
+    "chips_hi": {}
+  },
+  {
+    "v": 3,
+    "cat": "Earnings",
+    "tk": "JUBILANT",
+    "title": "Jubilant FoodWorks dips five percent despite positive brokerage views",
+    "summary": "Shares of Jubilant FoodWorks fell five percent following its second-quarter results. However, MOFSL maintains a positive stance on the company's medium-term outlook. This optimism is driven by growth potential in like-for-like sales, strong momentum in the Popeyes brand, and a healthy performance internationally.",
+    "source": "Business Standard",
+    "published": "2026-11-09T05:54:15+00:00",
+    "ago": "35m",
+    "impact": "Positive",
+    "why": "Brokerage remains positive on medium-term outlook.",
+    "url": "https://www.business-standard.com/markets/news/jubilant-foodworks-share-price-dips-5-post-q2-but-brokerages-remain-firm-here-s-why-126110900280_1.html",
+    "chips": {
+      "Share dip": "5%",
+      "LFL growth potential": "5-7 percent"
+    },
+    "trend": [
+      0.1,
+      0.25,
+      0.2,
+      0.5,
+      0.45,
+      0.8,
+      0.95
+    ],
+    "color": "0F766E",
+    "premium": false,
+    "title_hi": "Q2 के बाद Jubilant FoodWorks के शेयरों में गिरावट, जानिए ब्रोकरेज की राय",
+    "summary_hi": "दूसरे तिमाही के नतीजों के बाद Jubilant FoodWorks के शेयरों में पाँच प्रतिशत की गिरावट आई। इसके बावजूद, MOFSL ने कंपनी के मध्यम अवधि के दृष्टिकोण पर सकारात्मक रुख बनाए रखा है। यह भरोसा बेहतर बिक्री वृद्धि संभावना, Popeyes के मजबूत प्रदर्शन और अंतरराष्ट्रीय स्तर पर अच्छे कामकाज पर आधारित है।",
+    "why_hi": "ब्रोकरेज का मध्यम अवधि दृष्टिकोण सकारात्मक है।",
+    "chips_hi": {
+      "शेयर गिरावट": "5%",
+      "LFL वृद्धि संभावना": "5-7 प्रतिशत"
+    }
+  },
+  {
+    "v": 3,
+    "cat": "Markets",
+    "tk": "MARKETS",
+    "title": "Why Did PSU Bank Stocks Climb Up to 3% Today?",
+    "summary": "Public sector bank shares saw a positive movement during Monday's trading session. Major state-owned lenders advanced up to 3 percent. Meanwhile, the broader Nifty index dropped by 0.3 percent. The Nifty PSU Bank index emerged as the leading sectoral gainer with a 2 percent increase.",
+    "source": "Business Standard",
+    "published": "2026-11-09T05:32:22+00:00",
+    "ago": "58m",
+    "impact": "Positive",
+    "why": "Sector index gained 2 percent in trade.",
+    "url": "https://www.business-standard.com/markets/news/psu-banks-in-focus-sbi-boi-pnb-indian-bank-canara-ubi-gain-up-to-3-126110900233_1.html",
+    "chips": {
+      "Sector gain": "Up 2%",
+      "Stock gains": "Up to 3%",
+      "Nifty change": "Down 0.3%"
+    },
+    "trend": [
+      0.1,
+      0.25,
+      0.2,
+      0.5,
+      0.45,
+      0.8,
+      0.95
+    ],
+    "color": "0F766E",
+    "premium": false,
+    "title_hi": "PSU Bank के शेयरों में आज क्यों आई 3% तक की तेजी?",
+    "summary_hi": "सोमवार के कारोबार के दौरान सरकारी बैंकों के शेयरों में तेजी देखने को मिली। प्रमुख सरकारी ऋणदाताओं के शेयर 3 प्रतिशत तक चढ़ गए। इस बीच, व्यापक बाजार सूचकांक Nifty में 0.3 प्रतिशत की गिरावट आई। Nifty PSU Bank इंडेक्स 2 प्रतिशत की बढ़त के साथ सेक्टर में सबसे आगे रहा।",
+    "why_hi": "सेक्टर इंडेक्स में 2 प्रतिशत की बढ़त।",
+    "chips_hi": {
+      "सेक्टर बढ़त": "2% ऊपर",
+      "स्टॉक बढ़त": "3% तक ऊपर",
+      "निफ्टी बदलाव": "0.3% नीचे"
+    }
+  },
+  {
+    "v": 3,
+    "cat": "Industry",
+    "tk": "INDUSTRY",
+    "title": "Why are fund managers pushing for tax cuts on debt funds?",
+    "summary": "Mutual fund managers are pressing for tax reductions to halt the departure of foreign funds. They point out that higher taxes on debt funds act as a deterrent and are asking for parity with equity investments to attract investors back.",
+    "source": "Business Standard / Bloomberg",
+    "published": "2026-11-09T05:17:37+00:00",
+    "ago": "1h",
+    "impact": "Neutral",
+    "why": "Tax policies affect mutual fund investment flows.",
+    "url": "https://www.business-standard.com/industry/news/asset-management-industry-push-for-tax-cuts-to-stem-foreign-exodus-126110900242_1.html",
+    "chips": {},
+    "trend": [
+      0.5,
+      0.55,
+      0.45,
+      0.5,
+      0.47,
+      0.52,
+      0.5
+    ],
+    "color": "B7791F",
+    "premium": false,
+    "title_hi": "क्यों एसेट मैनेजमेंट इंडस्ट्री debt funds पर टैक्स कटौती चाहती है?",
+    "summary_hi": "फंड मैनेजर विदेशी निवेश के पलायन को रोकने के लिए टैक्स में राहत मांग रहे हैं। उनका कहना है कि debt funds पर ऊंचा टैक्स एक बाधा बना हुआ है, इसलिए वे शेयरों के बराबर टैक्स समानता की मांग कर रहे हैं।",
+    "why_hi": "टैक्स नीतियों से निवेश प्रवाह प्रभावित होता है।",
+    "chips_hi": {}
+  },
+  {
+    "v": 3,
     "cat": "Industry",
     "tk": "INDUSTRY",
     "title": "How did Tata Motors maintain its lead in electric vehicles?",
@@ -30,7 +228,9 @@
     "why_hi": "ईवी बिक्री से बढ़त मिली।",
     "chips_hi": {
       "EV बढ़त": "37,803 यूनिट"
-    }
+    },
+    "hi_tries": 0,
+    "hi_ver": 2
   },
   {
     "v": 3,
@@ -59,7 +259,9 @@
     "title_hi": "Amazon Pay के तीन चौथाई ग्राहक बड़े शहरों से बाहर",
     "summary_hi": "Amazon Pay के मुख्य कार्यकारी विकास बंसल के अनुसार, कंपनी के तीन में से चार ग्राहक अब भारत के बड़े शहरों से बाहर रहते हैं। छोटे शहरों के ये उपयोगकर्ता डिजिटल भुगतान अपनाने के साथ-साथ क्रेडिट सेवाओं की भी मांग कर रहे हैं।",
     "why_hi": "छोटे शहरों में ग्राहक बढ़ने से क्रेडिट मांग बढ़ी।",
-    "chips_hi": {}
+    "chips_hi": {},
+    "hi_tries": 0,
+    "hi_ver": 2
   },
   {
     "v": 3,
@@ -88,7 +290,9 @@
     "title_hi": "क्यों निवेशक आर्टिफिशियल इंटेलिजेंस शेयरों से बना रहे हैं दूरी?",
     "summary_hi": "आर्टिफिशियल इंटेलिजेंस से जुड़े शेयरों में गिरावट के बाद निवेशक भारत और चीन जैसे कम मूल्य वाले बाजारों की ओर रुख कर रहे हैं। कम होती महंगाई और घटते व्यापार तनाव इन क्षेत्रों के आकर्षण को और बढ़ा रहे हैं, जिससे बाजार के जानकारों का ध्यान अन्य अवसरों पर जा रहा है।",
     "why_hi": "क्षेत्रीय बाजारों में बदलता निवेश प्रवाह",
-    "chips_hi": {}
+    "chips_hi": {},
+    "hi_tries": 0,
+    "hi_ver": 2
   },
   {
     "v": 3,
@@ -121,7 +325,9 @@
     "why_hi": "कुछ म्यूचुअल फंड्स ने दिया अच्छा रिटर्न।",
     "chips_hi": {
       "रिटर्न": "30% तक"
-    }
+    },
+    "hi_tries": 0,
+    "hi_ver": 2
   },
   {
     "v": 3,
@@ -154,7 +360,9 @@
     "why_hi": "बढ़ती मांग और क्षमता विस्तार से वृद्धि।",
     "chips_hi": {
       "क्षमता": "40,000 यूनिट"
-    }
+    },
+    "hi_tries": 0,
+    "hi_ver": 2
   },
   {
     "v": 3,
@@ -183,7 +391,9 @@
     "title_hi": "नवंबर की तेजी के बीच Sensex के वैल्यूएशन में सुधार",
     "summary_hi": "अक्टूबर के निचले स्तरों से Sensex के वैल्यूएशन में सुधार आया है। यह रिकवरी नवंबर में बाजार की तेजी तेज होने के साथ आई है। हालांकि, यह सुधार के बावजूद अभी भी 10 साल के ऐतिहासिक औसत से नीचे बना हुआ है।",
     "why_hi": "अक्टूबर के निचले स्तरों से वैल्यूएशन सुधरा।",
-    "chips_hi": {}
+    "chips_hi": {},
+    "hi_tries": 0,
+    "hi_ver": 2
   },
   {
     "v": 3,
@@ -212,7 +422,9 @@
     "title_hi": "Samvat 2083 की सुस्त शुरुआत, सेंसेक्स और निफ्टी में गिरावट",
     "summary_hi": "Samvat 2083 के पहले सत्र में बेंचमार्क इंडेक्स मामूली गिरावट के साथ बंद हुए। इस दौरान स्मॉलकैप और मिडकैप शेयरों ने बेहतर प्रदर्शन किया। सेक्टोरल इंडेक्स का प्रदर्शन मिलाजुला रहा।",
     "why_hi": "मिलाजुला बाजार प्रदर्शन।",
-    "chips_hi": {}
+    "chips_hi": {},
+    "hi_tries": 0,
+    "hi_ver": 2
   },
   {
     "v": 3,
@@ -590,200 +802,6 @@
     "summary_hi": "इंडियन ऑयल कॉरपोरेशन ने अपनी एनर्जी सप्लाई चेन को सुरक्षित करने के लिए क्रूड ऑयल और एलपीजी कैरियर खरीदने की योजना बनाई है। स्ट्रेट ऑफ होर्मुज के पास शिपिंग में बाधाओं और बढ़ते माल भाड़े के कारण यह कदम उठाया गया है। बोर्ड ने जहाजों की खरीद को मंजूरी दे दी है।",
     "why_hi": "शिपिंग जोखिमों के बीच सप्लाई चेन मजबूत करना",
     "chips_hi": {},
-    "hi_tries": 0,
-    "hi_ver": 2
-  },
-  {
-    "v": 3,
-    "cat": "Companies",
-    "tk": "COMPANIES",
-    "title": "Adani Enterprises plans huge annual spending of up to Rs 40,000 crore",
-    "summary": "Adani Enterprises plans to invest between Rs 35,000 crore and Rs 40,000 crore annually over the next two years. Airports, data centres, and the new PVC complex will drive this massive infrastructure expansion. The spending aims to scale up recent businesses and bring large manufacturing units to commercial operation, as stated during the earnings call.",
-    "source": "Business Standard / Press Trust of India",
-    "published": "2026-11-08T05:22:53+00:00",
-    "ago": "48m",
-    "impact": "Positive",
-    "why": "Massive capital expenditure drives infrastructure expansion.",
-    "url": "https://www.business-standard.com/companies/news/adani-enterprises-plans-35-000-40-000-cr-annual-capex-in-next-two-years-126110800133_1.html",
-    "chips": {
-      "Annual capex": "Rs 35,000-40,000 cr"
-    },
-    "trend": [
-      0.1,
-      0.25,
-      0.2,
-      0.5,
-      0.45,
-      0.8,
-      0.95
-    ],
-    "color": "0F766E",
-    "premium": false,
-    "title_hi": "Adani Enterprises अगले दो वर्षों में करेगी 40,000 करोड़ रुपये तक का सालाना निवेश",
-    "summary_hi": "Adani Enterprises अगले दो सालों में हर साल 35,000 करोड़ से 40,000 करोड़ रुपये के बीच खर्च करने की योजना बना रही है। इस बड़े बुनियादी ढांचे के विस्तार का मुख्य जरिया एयरपोर्ट, डेटा सेंटर और प्रस्तावित PVC कॉम्प्लेक्स होंगे। कंपनी अपने हालिया व्यवसायों को बढ़ाने और विनिर्माण निवेश को शुरू करने के लिए यह खर्च कर रही है।",
-    "why_hi": "बड़ा पूंजीगत खर्च बुनियादी ढांचे का विस्तार करेगा।",
-    "chips_hi": {
-      "सालाना capex": "₹35,000-40,000 करोड़"
-    },
-    "hi_tries": 0,
-    "hi_ver": 2
-  },
-  {
-    "v": 3,
-    "cat": "Markets",
-    "tk": "MARKETS",
-    "title": "AI trade shift prompts fresh investor interest in India and China",
-    "summary": "A recent shift in the artificial intelligence sector is encouraging investors to look beyond popular technology bets. Market participants are increasingly diversifying their portfolios into previously neglected regions such as India and China following a political change in the United States Congress and a subsequent re-evaluation of technology investments.",
-    "source": "Business Standard / Bloomberg",
-    "published": "2026-11-08T02:29:44+00:00",
-    "ago": "3h",
-    "impact": "Positive",
-    "why": "Diversification into India and China increases.",
-    "url": "https://www.business-standard.com/markets/news/ai-slump-revives-asia-s-forgotten-stock-bets-from-china-to-india-126110800052_1.html",
-    "chips": {},
-    "trend": [
-      0.1,
-      0.25,
-      0.2,
-      0.5,
-      0.45,
-      0.8,
-      0.95
-    ],
-    "color": "0F766E",
-    "premium": false,
-    "hi_tries": 2,
-    "hi_ver": 2
-  },
-  {
-    "v": 3,
-    "cat": "Companies",
-    "tk": "COMPANIES",
-    "title": "SBI expands US footprint as California subsidiary opens Texas branch",
-    "summary": "State Bank of India's California subsidiary has opened its first physical branch outside California in Frisco, Texas. Led by SBI Group Chairman Challa Sreenivasulu Setty, this expansion brings the total number of US branch locations to eight. The new location aims to provide retail and business banking services, including deposits, commercial lending, and international remittances, across the North Dallas region.",
-    "source": "Business Standard / Press Trust of India",
-    "published": "2026-11-08T02:18:40+00:00",
-    "ago": "3h",
-    "impact": "Positive",
-    "why": "Expands international business presence and banking services",
-    "url": "https://www.business-standard.com/companies/news/sbi-expands-us-footprint-as-california-subsidiary-opens-first-texas-branch-126110800036_1.html",
-    "chips": {},
-    "trend": [
-      0.1,
-      0.25,
-      0.2,
-      0.5,
-      0.45,
-      0.8,
-      0.95
-    ],
-    "color": "0F766E",
-    "premium": false,
-    "hi_tries": 2,
-    "hi_ver": 2
-  },
-  {
-    "v": 3,
-    "cat": "Markets",
-    "tk": "MARKETS",
-    "title": "BSE and NSE announce special Diwali Muhurat trading session timings",
-    "summary": "Stock exchanges BSE and NSE will conduct a special Muhurat trading session on Diwali. The trading window will remain open from 2:20 PM to 3:30 PM. Additionally, a pre-opening session is scheduled to take place from 2:05 PM to 2:20 PM on the same day for market participants.",
-    "source": "Business Standard",
-    "published": "2026-11-08T01:44:18+00:00",
-    "ago": "34m",
-    "impact": "Neutral",
-    "why": "Routine festive trading session.",
-    "url": "https://www.business-standard.com/markets/news/muhurat-trading-stock-markets-to-open-for-special-session-on-diwali-check-timings-126110600907_1.html",
-    "chips": {
-      "Trading time": "2:20 PM to 3:30 PM",
-      "Pre-opening session": "2:05 PM to 2:20 PM"
-    },
-    "trend": [
-      0.5,
-      0.55,
-      0.45,
-      0.5,
-      0.47,
-      0.52,
-      0.5
-    ],
-    "color": "B7791F",
-    "premium": false,
-    "hi_tries": 0,
-    "title_hi": "दिवाली पर शेयर बाजार में होगी स्पेशल ट्रेडिंग, जानिए समय",
-    "summary_hi": "दीपावली के खास मौके पर BSE और NSE पर विशेष मुहूर्त ट्रेडिंग सेशन आयोजित किया जाएगा। इस दौरान बाजार में कुछ देर के लिए कारोबार करने का मौका मिलेगा। निवेशकों के लिए यह सत्र बहुत शुभ माना जाता है।",
-    "why_hi": "Routine festive trading session.",
-    "chips_hi": {
-      "ट्रेडिंग समय": "2:20 PM से 3:30 PM",
-      "प्री-ओपनिंग सेशन": "2:05 PM से 2:20 PM"
-    },
-    "hi_ver": 2
-  },
-  {
-    "v": 3,
-    "cat": "Markets",
-    "tk": "MARKETS",
-    "title": "Will Sensex and Nifty 50 extend Muhurat trading gains?",
-    "summary": "Market data reveals that both the Sensex and Nifty 50 delivered positive returns in eight out of ten Muhurat trading sessions held between 2016 and 2025. Experts are currently analyzing what this historical trend could mean for the market outlook during the upcoming special trading session.",
-    "source": "Business Standard",
-    "published": "2026-11-08T01:43:01+00:00",
-    "ago": "35m",
-    "impact": "Neutral",
-    "why": "Historical data shows mixed market session outcomes.",
-    "url": "https://www.business-standard.com/markets/news/will-bulls-stay-in-control-during-muhurat-trading-experts-decode-outlook-126110600925_1.html",
-    "chips": {},
-    "trend": [
-      0.5,
-      0.55,
-      0.45,
-      0.5,
-      0.47,
-      0.52,
-      0.5
-    ],
-    "color": "B7791F",
-    "premium": false,
-    "title_hi": "क्या मुहूर्त ट्रेडिंग में जारी रहेगा बाजार का रुझान?",
-    "summary_hi": "मार्केट डेटा से पता चलता है कि 2016 से 2025 के बीच दस में से आठ मुहूर्त ट्रेडिंग सत्रों में सेंसेक्स और निफ्टी 50 में बढ़त दर्ज की गई है। एक्सपर्ट्स इसी ऐतिहासिक रुझान के आधार पर आगामी विशेष सत्र के लिए आउटलुक की समीक्षा कर रहे हैं।",
-    "why_hi": "ऐतिहासिक डेटा से मिले-जुले रुझान सामने आए हैं।",
-    "chips_hi": {},
-    "hi_tries": 0,
-    "hi_ver": 2
-  },
-  {
-    "v": 3,
-    "cat": "Earnings",
-    "tk": "COMPANIES",
-    "title": "Kirloskar Industries Q2 profit rises 5% to ₹105 crore, income up 17%",
-    "summary": "Kirloskar Industries reported a 5 percent increase in consolidated profit after tax to Rs 105 crore for the quarter ended September 2026. Total consolidated income grew 17 percent to Rs 2,097.7 crore compared to the same period last year. The leadership highlighted steady performance from its subsidiary and ongoing progress in its real estate projects.",
-    "source": "Business Standard / Press Trust of India",
-    "published": "2026-11-07T16:37:31+00:00",
-    "ago": "9h",
-    "impact": "Positive",
-    "why": "Profit and income both saw growth.",
-    "url": "https://www.business-standard.com/companies/quarterly-results/kirloskar-industries-q2-profit-rises-5-to-105-crore-income-up-17-126110701228_1.html",
-    "chips": {
-      "Q2 profit": "Rs 105 crore",
-      "Consolidated income": "Rs 2,097.7 crore"
-    },
-    "trend": [
-      0.1,
-      0.25,
-      0.2,
-      0.5,
-      0.45,
-      0.8,
-      0.95
-    ],
-    "color": "0F766E",
-    "premium": false,
-    "title_hi": "Kirloskar Industries का Q2 मुनाफा बढ़कर 105 करोड़ रुपये पर कैसे पहुंचा?",
-    "summary_hi": "सितंबर 2026 को समाप्त तिमाही में Kirloskar Industries का समेकित शुद्ध लाभ 5 प्रतिशत बढ़कर 105 करोड़ रुपये हो गया। इस दौरान कंपनी की कुल आय बढ़कर 2,097.7 करोड़ रुपये पर पहुंच गई। प्रबंधन ने सहायक कंपनियों के मजबूत प्रदर्शन और रियल एस्टेट प्रोजेक्ट्स की प्रगति का जिक्र किया है।",
-    "why_hi": "मुनाफा और आय दोनों में बढ़ोतरी हुई।",
-    "chips_hi": {
-      "Q2 मुनाफा": "₹105 करोड़",
-      "समेकित आय": "₹2,097.7 करोड़"
-    },
     "hi_tries": 0,
     "hi_ver": 2
   }
