@@ -1,6 +1,151 @@
 [
   {
     "v": 3,
+    "cat": "Earnings",
+    "tk": "DATA PATTERNS",
+    "title": "Why did Data Patterns shares surge 9 percent despite profit drop?",
+    "summary": "Data Patterns shares jumped nine percent following its second-quarter financial results. The company reported a profit after tax of 21.97 crore rupees for the quarter, which is a decrease of 55.3 percent compared to the same period in the previous fiscal year. Despite the lower earnings, the stock price has nearly doubled from its lows seen in January.",
+    "source": "Business Standard",
+    "published": "2026-11-09T09:39:55+00:00",
+    "ago": "43m",
+    "impact": "Negative",
+    "why": "Profit after tax declined by 55 percent.",
+    "url": "https://www.business-standard.com/markets/news/data-patterns-shares-zoom-9-post-q2-show-nearly-double-from-jan-lows-126110900563_1.html",
+    "chips": {
+      "Q2 PAT": "21.97 crore",
+      "Q2 previous PAT": "49.19 crore",
+      "PAT change": "-55.3 percent"
+    },
+    "trend": [
+      0.95,
+      0.85,
+      0.7,
+      0.6,
+      0.4,
+      0.3,
+      0.1
+    ],
+    "color": "9B2C2C",
+    "premium": false,
+    "title_hi": "प्रॉफिट घटने के बावजूद Data Patterns के शेयर 9% क्यों उछले?",
+    "summary_hi": "Data Patterns के शेयरों में दूसरी तिमाही के नतीजों के बाद नौ प्रतिशत की तेजी आई। कंपनी ने दूसरी तिमाही में 21.97 करोड़ रुपये का मुनाफा दर्ज किया, जो पिछले वित्त वर्ष की इसी अवधि की तुलना में 55.3 प्रतिशत कम है। मुनाफे में गिरावट के बावजूद स्टॉक का भाव जनवरी के निचले स्तर से लगभग दोगुना हो चुका है।",
+    "why_hi": "मुनाफे में 55 प्रतिशत की गिरावट आई।",
+    "chips_hi": {
+      "Q2 मुनाफा": "₹21.97 करोड़",
+      "पिछला Q2 मुनाफा": "₹49.19 करोड़",
+      "मुनाफे में बदलाव": "-55.3 प्रतिशत"
+    }
+  },
+  {
+    "v": 3,
+    "cat": "Markets",
+    "tk": "NVIDIA",
+    "title": "Why did Nvidia shares drop over 6 percent in Frankfurt?",
+    "summary": "Nvidia shares experienced a decline of more than 6 percent in Frankfurt trading. This downward movement follows a previous selloff from last week and brings the stock value down to new multi-month lows, amid a probe involving CEO Huang.",
+    "source": "Business Standard / Reuters",
+    "published": "2026-11-09T09:12:38+00:00",
+    "ago": "1h",
+    "impact": "Negative",
+    "why": "Shares dropped to multi-month lows.",
+    "url": "https://www.business-standard.com/markets/news/nvidia-s-shares-slide-as-chip-giant-probes-ceo-huang-over-spy-claims-126110900547_1.html",
+    "chips": {
+      "Share drop": "More than 6%"
+    },
+    "trend": [
+      0.95,
+      0.85,
+      0.7,
+      0.6,
+      0.4,
+      0.3,
+      0.1
+    ],
+    "color": "9B2C2C",
+    "premium": false,
+    "title_hi": "Nvidia के शेयर Frankfurt में 6 प्रतिशत से अधिक क्यों गिरे?",
+    "summary_hi": "Nvidia के शेयरों में Frankfurt ट्रेडिंग के दौरान 6 प्रतिशत से अधिक की गिरावट दर्ज की गई। पिछले हफ्ते की बिकवाली के बाद यह गिरावट आई है, जिससे स्टॉक नए कई महीनों के निचले स्तर पर पहुंच गया है।",
+    "why_hi": "शेयर कई महीनों के निचले स्तर पर गिरे।",
+    "chips_hi": {
+      "शेयर गिरावट": "6% से अधिक"
+    }
+  },
+  {
+    "v": 3,
+    "cat": "Markets",
+    "tk": "PAYTM",
+    "title": "Why did Ashok Leyland and Paytm drop after a strong rally?",
+    "summary": "Ashok Leyland and Paytm shares fell by up to 3 percent in Friday intraday trades. This decline follows a strong period where both stocks rallied by up to 23 percent over the preceding six trading sessions. Meanwhile, an analyst pointed out positive charts for these equities.",
+    "source": "Business Standard",
+    "published": "2026-11-09T08:47:44+00:00",
+    "ago": "1h",
+    "impact": "Neutral",
+    "why": "Correction follows a strong recent rally.",
+    "url": "https://www.business-standard.com/markets/news/ashok-leyland-paytm-down-after-6-day-rally-analyst-flags-positive-charts-126110900526_1.html",
+    "chips": {
+      "Drop": "up to 3%",
+      "Prior rally": "up to 23%",
+      "Duration": "6 days"
+    },
+    "trend": [
+      0.5,
+      0.55,
+      0.45,
+      0.5,
+      0.47,
+      0.52,
+      0.5
+    ],
+    "color": "B7791F",
+    "premium": false,
+    "title_hi": "शानदार तेजी के बाद अशोक लेलैंड और पेटीएम के शेयरों में क्यों आई गिरावट?",
+    "summary_hi": "शुक्रवार के करोबार के दौरान अशोक लेलैंड और पेटीएम के शेयरों में 3 प्रतिशत तक की गिरावट दर्ज की गई। यह गिरावट पिछले छह सत्रों में 23 प्रतिशत तक की तेजी के बाद आई है। हालांकि, एक विश्लेषक ने इनके चार्ट सकारात्मक बताए हैं।",
+    "why_hi": "हालिया तेजी के बाद मामूली मुनाफावसूली।",
+    "chips_hi": {
+      "गिरावट": "3% तक",
+      "पिछली तेजी": "23% तक",
+      "अवधि": "6 दिन"
+    }
+  },
+  {
+    "v": 3,
+    "cat": "Industry",
+    "tk": "INDUSTRY",
+    "title": "Why is a USD 565 duty proposed on rubber gloves?",
+    "summary": "The commerce ministry's investigation arm has recommended an anti-dumping duty of up to USD 565 per one lakh pieces on medical examination rubber gloves imported from Thailand and Malaysia. This proposed five-year duty aims to protect local manufacturers from cheap foreign imports. The final decision now rests with the finance ministry.",
+    "source": "Business Standard / Press Trust of India",
+    "published": "2026-11-09T08:42:12+00:00",
+    "ago": "1h",
+    "impact": "Positive",
+    "why": "Protects domestic manufacturers from cheap imports.",
+    "url": "https://www.business-standard.com/industry/news/dgtr-proposes-anti-dumping-duty-of-up-to-565-on-rubber-glove-imports-126110900501_1.html",
+    "chips": {
+      "Max duty": "USD 565 per one lakh",
+      "Min duty": "USD 442 per one lakh",
+      "Duration": "5 years"
+    },
+    "trend": [
+      0.1,
+      0.25,
+      0.2,
+      0.5,
+      0.45,
+      0.8,
+      0.95
+    ],
+    "color": "0F766E",
+    "premium": false,
+    "hi_tries": 1,
+    "title_hi": "रबर ग्लव्स पर क्यों लग सकता है भारी ड्यूटी?",
+    "summary_hi": "कॉमर्स मिनिस्ट्री ने थाईलैंड और मलेशिया से आने वाले मेडिकल रबर ग्लव्स पर भारी एंटी-डंपिंग ड्यूटी लगाने की सिफारिश की है। स्थानीय निर्माताओं को सस्ते आयात से बचाने के लिए यह कदम उठाया गया है। पांच साल के लिए प्रस्तावित इस ड्यूटी पर अब वित्त मंत्रालय को आखिरी फैसला लेना है।",
+    "why_hi": "घरेलू निर्माताओं को सस्ते आयात से बचाता है।",
+    "chips_hi": {
+      "अधिकतम ड्यूटी": "USD 565 प्रति एक लाख",
+      "न्यूनतम ड्यूटी": "USD 442 प्रति एक लाख",
+      "अवधि": "5 साल"
+    }
+  },
+  {
+    "v": 3,
     "cat": "Companies",
     "tk": "L&T",
     "title": "How L&T secured a major Noida Metro Aqua Line extension project",
@@ -30,7 +175,9 @@
     "why_hi": "नया बुनियादी ढांचा ऑर्डर मिलने से बिजनेस मजबूत होगा।",
     "chips_hi": {
       "प्रोजेक्ट लंबाई": "15.1-km"
-    }
+    },
+    "hi_tries": 0,
+    "hi_ver": 2
   },
   {
     "v": 3,
@@ -65,7 +212,9 @@
     "chips_hi": {
       "शुद्ध लाभ": "₹98 करोड़",
       "राजस्व": "₹659 करोड़"
-    }
+    },
+    "hi_tries": 0,
+    "hi_ver": 2
   },
   {
     "v": 3,
@@ -94,7 +243,9 @@
     "title_hi": "घरेलू निर्माताओं को बचाने के लिए भारत soda ash आयात पर लगा सकता है रोक",
     "summary_hi": "घरेलू निर्माताओं को सुरक्षित रखने के लिए भारत दो साल तक soda ash के आयात पर सीमा तय करने पर विचार कर रहा है। ग्लास और डिटर्जेंट बनाने वाली कंपनियां इस सामग्री का मुख्य रूप से उपयोग करती हैं और उन्होंने आपूर्ति तथा लागत को लेकर चिंता जताई है।",
     "why_hi": "घरेलू उत्पादकों को आयात से सुरक्षा मिलेगी।",
-    "chips_hi": {}
+    "chips_hi": {},
+    "hi_tries": 0,
+    "hi_ver": 2
   },
   {
     "v": 3,
@@ -129,7 +280,9 @@
     "chips_hi": {
       "शेयर गिरावट": "5%",
       "LFL वृद्धि संभावना": "5-7 प्रतिशत"
-    }
+    },
+    "hi_tries": 0,
+    "hi_ver": 2
   },
   {
     "v": 3,
@@ -166,7 +319,9 @@
       "सेक्टर बढ़त": "2% ऊपर",
       "स्टॉक बढ़त": "3% तक ऊपर",
       "निफ्टी बदलाव": "0.3% नीचे"
-    }
+    },
+    "hi_tries": 0,
+    "hi_ver": 2
   },
   {
     "v": 3,
@@ -195,7 +350,9 @@
     "title_hi": "क्यों एसेट मैनेजमेंट इंडस्ट्री debt funds पर टैक्स कटौती चाहती है?",
     "summary_hi": "फंड मैनेजर विदेशी निवेश के पलायन को रोकने के लिए टैक्स में राहत मांग रहे हैं। उनका कहना है कि debt funds पर ऊंचा टैक्स एक बाधा बना हुआ है, इसलिए वे शेयरों के बराबर टैक्स समानता की मांग कर रहे हैं।",
     "why_hi": "टैक्स नीतियों से निवेश प्रवाह प्रभावित होता है।",
-    "chips_hi": {}
+    "chips_hi": {},
+    "hi_tries": 0,
+    "hi_ver": 2
   },
   {
     "v": 3,
@@ -672,136 +829,6 @@
     "chips_hi": {
       "लागत वृद्धि": "5 प्रतिशत"
     },
-    "hi_tries": 0,
-    "hi_ver": 2
-  },
-  {
-    "v": 3,
-    "cat": "Industry",
-    "tk": "INDUSTRY",
-    "title": "Will global insurance coverage spark a boom in Indian medical tourism?",
-    "summary": "Medical tourism numbers in India could grow exponentially if international insurance companies start covering treatment expenses for foreign patients. According to Apollo Hospitals Joint Managing Director Sangita Reddy, this move would save patients money and attract a large segment of the Western world. The global medical travel market reached USD 115.6 billion in 2022 and is projected to grow significantly.",
-    "source": "Business Standard / Press Trust of India",
-    "published": "2026-11-08T08:03:14+00:00",
-    "ago": "2h",
-    "impact": "Positive",
-    "why": "Global insurance coverage could boost patient numbers.",
-    "url": "https://www.business-standard.com/industry/news/medical-tourism-could-spike-if-global-insurance-firms-cover-treatments-126110800219_1.html",
-    "chips": {
-      "2022 market value": "USD 115.6 billion",
-      "2030 projected value": "USD 286.1 billion"
-    },
-    "trend": [
-      0.1,
-      0.25,
-      0.2,
-      0.5,
-      0.45,
-      0.8,
-      0.95
-    ],
-    "color": "0F766E",
-    "premium": false,
-    "title_hi": "क्या ग्लोबल इंश्योरेंस कवर से भारत के मेडिकल टूरिज्म में आएगी तेजी?",
-    "summary_hi": "यदि अंतरराष्ट्रीय बीमा कंपनियां विदेशी मरीजों के इलाज का खर्च उठाने लगें, तो भारत में मेडिकल टूरिज्म बहुत तेजी से बढ़ सकता है। अपोलो हॉस्पिटल्स की संयुक्त प्रबंध निदेशक संगीता रेड्डी के अनुसार, इससे मरीजों के पैसे बचेंगे और पश्चिमी देशों के लोग आकर्षित होंगे। ग्लोबल मेडिकल ट्रैवल मार्केट 2022 में USD 115.6 अरब था और इसके बढ़ने का अनुमान है।",
-    "why_hi": "ग्लोबल इंश्योरेंस कवर से मरीजों की संख्या बढ़ सकती है।",
-    "chips_hi": {
-      "2022 मार्केट वैल्यू": "USD 115.6 अरब",
-      "2030 अनुमानित वैल्यू": "USD 286.1 अरब"
-    },
-    "hi_tries": 0,
-    "hi_ver": 2
-  },
-  {
-    "v": 3,
-    "cat": "Industry",
-    "tk": "INDUSTRY",
-    "title": "Honda extends retail lead over Hero MotoCorp for four months",
-    "summary": "Honda has outsold Hero MotoCorp for the fourth consecutive month in October. This growth has narrowed the gap in calendar-year sales between the two companies. Rising demand for scooters and changing market dynamics have intensified the competition in the two-wheeler sector.",
-    "source": "Business Standard",
-    "published": "2026-11-08T07:48:24+00:00",
-    "ago": "2h",
-    "impact": "Negative",
-    "why": "Hero MotoCorp loses retail market share.",
-    "url": "https://www.business-standard.com/industry/auto/industry-auto-honda-four-month-sales-lead-puts-hero-motocorp-top-position-at-risk-126110800258_1.html",
-    "chips": {},
-    "trend": [
-      0.95,
-      0.85,
-      0.7,
-      0.6,
-      0.4,
-      0.3,
-      0.1
-    ],
-    "color": "9B2C2C",
-    "premium": false,
-    "title_hi": "Honda ने Hero MotoCorp पर लगातार चौथे महीने बढ़त बनाई",
-    "summary_hi": "अक्टूबर में लगातार चौथे महीने Honda की बिक्री Hero MotoCorp से आगे रही है। इस वजह से कैलेंडर वर्ष की बिक्री का अंतर भी कम हो गया है। स्कूटर की मांग और बदलते बाजार के रुझानों के कारण दोनों कंपनियों के बीच मुकाबला काफी तेज हो गया है।",
-    "why_hi": "Hero MotoCorp की खुदरा हिस्सेदारी घटी।",
-    "chips_hi": {},
-    "hi_tries": 0,
-    "hi_ver": 2
-  },
-  {
-    "v": 3,
-    "cat": "Markets",
-    "tk": "MARKETS",
-    "title": "Why are bullion prices likely to stay under pressure next week?",
-    "summary": "Bullion prices may stay pressured as investors track the US-Iran conflict, crude oil movements, and key inflation data from India, the US, China, Germany, and Japan. Market participants will also monitor US employment numbers and Federal Reserve speeches for interest rate cues. Additionally, domestic commodities trading will remain closed during the morning session on Tuesday for Diwali-Balipratipada.",
-    "source": "Business Standard / Press Trust of India",
-    "published": "2026-11-08T06:17:09+00:00",
-    "ago": "7h",
-    "impact": "Neutral",
-    "why": "Uncertain global factors and upcoming inflation data release",
-    "url": "https://www.business-standard.com/markets/commodities/bullion-may-remain-under-pressure-as-markets-track-us-iran-war-inflation-126110800179_1.html",
-    "chips": {},
-    "trend": [
-      0.5,
-      0.55,
-      0.45,
-      0.5,
-      0.47,
-      0.52,
-      0.5
-    ],
-    "color": "B7791F",
-    "premium": false,
-    "title_hi": "ग्लोबल तनाव और महंगाई के आंकड़ों के बीच क्यों दबाव में रह सकता है बुलियन?",
-    "summary_hi": "अमेरिका-ईरान संघर्ष, कच्चे तेल की चाल और भारत, अमेरिका, चीन, जर्मनी तथा जापान के महंगाई आंकड़ों के कारण बुलियन कीमतों पर दबाव बना रह सकता है। निवेशक ब्याज दरों के संकेतों के लिए फेडरल रिजर्व के भाषणों और अमेरिकी रोजगार डेटा पर भी नजर रखेंगे। दिवाली-बलिप्रतिपदा के चलते मंगलवार को घरेलू कमोडिटी बाजार सुबह के सत्र में बंद रहेगा।",
-    "why_hi": "वैश्विक अनिश्चितता और महत्वपूर्ण आर्थिक आंकड़ों का इंतजार।",
-    "chips_hi": {},
-    "hi_tries": 0,
-    "hi_ver": 2
-  },
-  {
-    "v": 3,
-    "cat": "Companies",
-    "tk": "COMPANIES",
-    "title": "Why is Indian Oil Corporation planning to buy shipping vessels?",
-    "summary": "Indian Oil Corporation plans to purchase crude oil and liquefied petroleum gas carriers to control its energy supply chain. Rising shipping risks near the Strait of Hormuz and high freight costs prompted this shift. The board has approved buying vessels, with tenders issued months ago, and domestic shipbuilding is also being explored.",
-    "source": "Business Standard / Press Trust of India",
-    "published": "2026-11-08T05:52:20+00:00",
-    "ago": "18m",
-    "impact": "Neutral",
-    "why": "Secures energy supply chain amidst shipping risks.",
-    "url": "https://www.business-standard.com/companies/news/ioc-to-buy-crude-lpg-ships-as-west-asia-crisis-exposes-shipping-risks-126110800164_1.html",
-    "chips": {},
-    "trend": [
-      0.5,
-      0.55,
-      0.45,
-      0.5,
-      0.47,
-      0.52,
-      0.5
-    ],
-    "color": "B7791F",
-    "premium": false,
-    "title_hi": "Indian Oil Corporation क्यों खरीदना चाहती है खुद के जहाज?",
-    "summary_hi": "इंडियन ऑयल कॉरपोरेशन ने अपनी एनर्जी सप्लाई चेन को सुरक्षित करने के लिए क्रूड ऑयल और एलपीजी कैरियर खरीदने की योजना बनाई है। स्ट्रेट ऑफ होर्मुज के पास शिपिंग में बाधाओं और बढ़ते माल भाड़े के कारण यह कदम उठाया गया है। बोर्ड ने जहाजों की खरीद को मंजूरी दे दी है।",
-    "why_hi": "शिपिंग जोखिमों के बीच सप्लाई चेन मजबूत करना",
-    "chips_hi": {},
     "hi_tries": 0,
     "hi_ver": 2
   }
