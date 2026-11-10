@@ -2,6 +2,252 @@
   {
     "v": 3,
     "cat": "Companies",
+    "tk": "NVIDIA",
+    "title": "Will Nvidia board probe into Jensen Huang test leadership?",
+    "summary": "Nvidia faces a corporate governance test as the board investigates Jensen Huang over an affair. This situation raises important questions regarding leadership, future succession plans, and the overall direction of the chipmaking company during a critical time for its operations.",
+    "source": "Business Standard",
+    "published": "2026-11-09T18:16:52+00:00",
+    "ago": "8h",
+    "impact": "Neutral",
+    "why": "Governance questions create uncertainty without financial im",
+    "url": "https://www.business-standard.com/companies/news/huang-s-grip-on-nvidia-may-pose-challenge-to-board-s-probe-into-his-affair-126110901614_1.html",
+    "chips": {},
+    "trend": [
+      0.5,
+      0.55,
+      0.45,
+      0.5,
+      0.47,
+      0.52,
+      0.5
+    ],
+    "color": "B7791F",
+    "premium": false,
+    "title_hi": "क्या Jensen Huang की जांच से Nvidia का नेतृत्व परखेगा?",
+    "summary_hi": "Nvidia के बोर्ड को कॉर्पोरेट गवर्नेंस की एक बड़ी परीक्षा का सामना करना पड़ रहा है, क्योंकि Jensen Huang से जुड़े मामले की जांच शुरू हो गई है। इस जांच से चिप बनाने वाली कंपनी के नेतृत्व, भविष्य की उत्तराधिकार योजनाओं और दिशा को लेकर कई सवाल खड़े हो गए हैं।",
+    "why_hi": "नेतृत्व की जांच से अनिश्चितता पैदा होती है।",
+    "chips_hi": {}
+  },
+  {
+    "v": 3,
+    "cat": "Markets",
+    "tk": "MARKETS",
+    "title": "How debt pushed Indian companies to a seven-year overseas fundraising high",
+    "summary": "Indian companies have raised foreign funds at a seven-year high rate. Debt issuances and steps taken by the Reserve Bank of India to lower foreign borrowing costs have caused this significant surge in overseas fundraising activities.",
+    "source": "Business Standard",
+    "published": "2026-11-09T18:09:18+00:00",
+    "ago": "8h",
+    "impact": "Positive",
+    "why": "Debt issuances and RBI easing borrowing costs.",
+    "url": "https://www.business-standard.com/markets/news/debt-drives-overseas-fundraising-by-indian-companies-to-7-year-high-126110901601_1.html",
+    "chips": {},
+    "trend": [
+      0.1,
+      0.25,
+      0.2,
+      0.5,
+      0.45,
+      0.8,
+      0.95
+    ],
+    "color": "0F766E",
+    "premium": true,
+    "title_hi": "क्यों विदेशी फंड जुटाने के मामले में 7 साल के उच्चतम स्तर पर पहुंचीं भारतीय कंपनियां?",
+    "summary_hi": "भारतीय कंपनियों द्वारा विदेशी फंड जुटाने का काम सात साल के सबसे ऊंचे स्तर पर पहुंच गया है। कर्ज जारी करने और विदेशी कर्ज की लागत को कम करने के लिए आरबीआई के उपायों के कारण इस विदेशी फंड जुटाने में भारी उछाल आया है।",
+    "why_hi": "कर्ज जारी करने और आरबीआई द्वारा लागत घटाने से।",
+    "chips_hi": {}
+  },
+  {
+    "v": 3,
+    "cat": "Companies",
+    "tk": "INDIQUBE",
+    "title": "Why is IndiQube testing data centres inside office spaces?",
+    "summary": "Flexible workspace provider IndiQube is exploring the integration of small-scale enterprise data centres within its current office properties. This new initiative is designed to broaden the company's portfolio of managed workspace offerings, responding directly to evolving client demand in the market.",
+    "source": "Business Standard",
+    "published": "2026-11-09T18:04:29+00:00",
+    "ago": "8h",
+    "impact": "Positive",
+    "why": "Expands workspace offerings to meet client demand.",
+    "url": "https://www.business-standard.com/companies/news/indiqube-plans-to-pilot-data-centres-in-office-spaces-amid-client-demand-126110901014_1.html",
+    "chips": {},
+    "trend": [
+      0.1,
+      0.25,
+      0.2,
+      0.5,
+      0.45,
+      0.8,
+      0.95
+    ],
+    "color": "0F766E",
+    "premium": true,
+    "title_hi": "IndiQube ऑफिस स्पेस में क्यों शुरू कर रहा है डेटा सेंटर?",
+    "summary_hi": "फ्लेक्सिबल वर्कस्पेस प्रोवाइडर IndiQube अपनी मौजूदा ऑफिस इमारतों के भीतर छोटे पैमाने पर एंटरप्राइज डेटा सेंटर स्थापित करने की संभावना तलाश रहा है। इस नई पहल का उद्देश्य क्लाइंट की मांग के बीच अपने मैनेज्ड वर्कस्पेस विकल्पों के पोर्टफोलियो का विस्तार करना है।",
+    "why_hi": "क्लाइंट की मांग पर वर्कस्पेस विकल्पों का विस्तार।",
+    "chips_hi": {}
+  },
+  {
+    "v": 3,
+    "cat": "Markets",
+    "tk": "MARKETS",
+    "title": "Jewellery stocks surge forty two percent despite lower gold volumes",
+    "summary": "Shares of jewellery companies posted an average gain of forty two percent over a period of six months. This upward movement was driven by market optimism regarding festive sales, even though high prices led consumers to buy lower volumes of gold overall.",
+    "source": "Business Standard",
+    "published": "2026-11-09T18:02:56+00:00",
+    "ago": "8h",
+    "impact": "Positive",
+    "why": "Higher stock gains driven by festive demand.",
+    "url": "https://www.business-standard.com/markets/news/jewellery-stocks-outshine-nifty-as-festive-gold-demand-fuels-optimism-126110901183_1.html",
+    "chips": {
+      "Average gain": "42%"
+    },
+    "trend": [
+      0.1,
+      0.25,
+      0.2,
+      0.5,
+      0.45,
+      0.8,
+      0.95
+    ],
+    "color": "0F766E",
+    "premium": true,
+    "title_hi": "हाई प्राइज के बाद भी ज्वेलरी स्टॉक में 42 प्रतिशत का उछाल",
+    "summary_hi": "ज्वेलरी कंपनियों के शेयरों में छह महीने के भीतर औसतन 42 प्रतिशत की तेजी दर्ज की गई है। ऊंचे दामों की वजह से ग्राहकों द्वारा कम मात्रा में सोना खरीदने के बावजूद, त्योहारी बिक्री को लेकर निवेशकों की उम्मीदों के कारण शेयरों में यह बढ़त देखने को मिली।",
+    "why_hi": "त्योहारी मांग के बीच शेयरों में तेजी आई।",
+    "chips_hi": {
+      "औसतन तेजी": "42%"
+    }
+  },
+  {
+    "v": 3,
+    "cat": "Economy",
+    "tk": "ECONOMY",
+    "title": "How will a new study map India's gender wage gap?",
+    "summary": "The International Labour Organization is working on a new study to examine the gender wage gap in India. The detailed analysis will focus on pay discrimination, workplace practices, and variations in job roles and designations to understand salary differences across the country.",
+    "source": "Business Standard",
+    "published": "2026-11-09T18:02:07+00:00",
+    "ago": "8h",
+    "impact": "Neutral",
+    "why": "Study on gender wage gap in India.",
+    "url": "https://www.business-standard.com/economy/news/ilo-working-on-study-to-map-gender-wage-gap-in-india-via-detailed-analysis-126110900873_1.html",
+    "chips": {},
+    "trend": [
+      0.5,
+      0.55,
+      0.45,
+      0.5,
+      0.47,
+      0.52,
+      0.5
+    ],
+    "color": "B7791F",
+    "premium": true,
+    "title_hi": "ILO study से भारत में जेंडर वेज गैप का कैसे लगेगा पता?",
+    "summary_hi": "अंतर्राष्ट्रीय श्रम संगठन भारत में जेंडर वेज गैप की जांच के लिए एक नए अध्ययन पर काम कर रहा है। इस विस्तृत विश्लेषण में वेतन भेदभाव, कार्यस्थल की प्रथाओं और नौकरी की भूमिकाओं तथा पदनामों में अंतर पर ध्यान केंद्रित किया जाएगा।",
+    "why_hi": "भारत में जेंडर वेज गैप का अध्ययन।",
+    "chips_hi": {}
+  },
+  {
+    "v": 3,
+    "cat": "Companies",
+    "tk": "COMPANIES",
+    "title": "WTi Cabs aims for up to ₹7,000 crore revenue in five years",
+    "summary": "Wise Travel India plans to scale up its fleet, venture into fresh international markets, and introduce self-drive car rentals. The company aims to achieve an annual revenue between ₹5,000 crore and ₹7,000 crore over the next five years.",
+    "source": "Business Standard",
+    "published": "2026-11-09T18:00:57+00:00",
+    "ago": "8h",
+    "impact": "Positive",
+    "why": "Expansion plans and major revenue targets announced.",
+    "url": "https://www.business-standard.com/companies/news/wti-cabs-targets-5k-7k-cr-annual-revenue-in-5-years-ceo-ashok-vashist-126110901118_1.html",
+    "chips": {
+      "Target revenue": "Rs 5,000-7,000 crore",
+      "Timeline": "5 years"
+    },
+    "trend": [
+      0.1,
+      0.25,
+      0.2,
+      0.5,
+      0.45,
+      0.8,
+      0.95
+    ],
+    "color": "0F766E",
+    "premium": true,
+    "title_hi": "WTi Cabs का 5 वर्षों में ₹7,000 करोड़ तक का राजस्व लक्ष्य",
+    "summary_hi": "Wise Travel India ने अपने बेड़े का विस्तार करने, नए अंतरराष्ट्रीय बाजारों में उतरने और सेल्फ-ड्राइव कार रेंटल शुरू करने की योजना बनाई है। कंपनी का लक्ष्य अगले पांच वर्षों में ₹5,000 करोड़ से ₹7,000 करोड़ के बीच वार्षिक राजस्व हासिल करना है।",
+    "why_hi": "विस्तार योजनाएं और बड़े राजस्व लक्ष्य घोषित।",
+    "chips_hi": {
+      "लक्ष्य राजस्व": "₹5,000-7,000 करोड़",
+      "समय सीमा": "5 वर्ष"
+    }
+  },
+  {
+    "v": 3,
+    "cat": "Economy",
+    "tk": "ECONOMY",
+    "title": "Will October retail inflation cross the RBI tolerance limit?",
+    "summary": "Retail inflation is projected to climb to 6.05 percent in October due to higher food prices. This marks the first time since October 2024 that the rate is expected to breach the central bank's upper tolerance threshold, according to a recent poll.",
+    "source": "Business Standard",
+    "published": "2026-11-09T18:00:04+00:00",
+    "ago": "8h",
+    "impact": "Negative",
+    "why": "Inflation breaching the upper limit raises concerns.",
+    "url": "https://www.business-standard.com/economy/news/october-retail-inflation-may-have-breached-rbi-s-6-upper-limit-bs-poll-126110901082_1.html",
+    "chips": {
+      "Retail inflation": "6.05%"
+    },
+    "trend": [
+      0.95,
+      0.85,
+      0.7,
+      0.6,
+      0.4,
+      0.3,
+      0.1
+    ],
+    "color": "9B2C2C",
+    "premium": true,
+    "title_hi": "क्या अक्टूबर में खुदरा महंगाई आरबीआई की तय सीमा को पार कर जाएगी?",
+    "summary_hi": "महंगे खाद्य उत्पादों के कारण अक्टूबर में खुदरा महंगाई बढ़कर 6.05 प्रतिशत रहने की संभावना है। एक पोल के मुताबिक, अक्टूबर 2024 के बाद यह पहला मौका होगा जब महंगाई दर केंद्रीय बैंक की ऊपरी सहनशीलता सीमा को पार करेगी।",
+    "why_hi": "महंगाई बढ़ने से आर्थिक चिंताएं पैदा होती हैं।",
+    "chips_hi": {
+      "खुदरा महंगाई": "6.05%"
+    }
+  },
+  {
+    "v": 3,
+    "cat": "Earnings",
+    "tk": "MARKETS",
+    "title": "How did closing auctions and curbs squeeze second quarter brokerage earnings?",
+    "summary": "Brokerages faced a sequential earnings squeeze in the second quarter due to closing auction sessions and new curbs. Weaker derivatives activity impacted financial performance, though commodity trading and margin funding helped cushion the overall blow during the period.",
+    "source": "Business Standard",
+    "published": "2026-11-09T17:59:44+00:00",
+    "ago": "8h",
+    "impact": "Negative",
+    "why": "Curbs and weaker derivatives squeezed brokerage earnings.",
+    "url": "https://www.business-standard.com/markets/news/brokerages-feel-sequential-squeeze-as-closing-auction-session-curbs-hit-q2-126110901092_1.html",
+    "chips": {},
+    "trend": [
+      0.95,
+      0.85,
+      0.7,
+      0.6,
+      0.4,
+      0.3,
+      0.1
+    ],
+    "color": "9B2C2C",
+    "premium": true,
+    "title_hi": "क्यों क्लोजिंग ऑक्शन और नियमों की वजह से ब्रोकरेज कंपनियों को झटका लगा?",
+    "summary_hi": "क्लोजिंग ऑक्शन सत्र और नए नियमों के कारण दूसरी तिमाही में ब्रोकरेज कंपनियों के मुनाफे पर दबाव देखा गया। कमजोर डेरिवेटिव गतिविधियों ने वित्तीय प्रदर्शन को प्रभावित किया, हालांकि कमोडिटी ट्रेडिंग और मार्जिन फंडिंग ने इस झटके को कुछ हद तक कम करने में मदद की।",
+    "why_hi": "नियमों और कमजोर गतिविधियों से मुनाफा घटा।",
+    "chips_hi": {}
+  },
+  {
+    "v": 3,
+    "cat": "Companies",
     "tk": "DABUR INDIA",
     "title": "Rural and urban demand growth gap narrows to 150 basis points",
     "summary": "Dabur India CEO Herjit Bhalla stated that the growth gap between rural and urban areas has reduced to 150 basis points. The company is currently focusing its efforts on expanding distribution networks, driving cost savings, and pushing premiumisation strategies in the market.",
@@ -30,7 +276,9 @@
     "why_hi": "ग्रामीण और शहरी मांग का अंतर कम हुआ।",
     "chips_hi": {
       "ग्रोथ गैप": "150 बेसिस पॉइंट्स"
-    }
+    },
+    "hi_tries": 0,
+    "hi_ver": 2
   },
   {
     "v": 3,
@@ -59,7 +307,9 @@
     "title_hi": "माइक्रोफाइनेंस कंपनियों को दूसरी छमाही में बेहतर लोन वितरण की उम्मीद क्यों है?",
     "summary_hi": "क्रेडिटएक्सेस ग्रामीण, साटन क्रेडिटकेयर और मुथूट माइक्रोफिन जैसी प्रमुख माइक्रोफाइनेंस कंपनियां वित्त वर्ष की दूसरी छमाही में लोन वितरण में तेजी की उम्मीद कर रही हैं। यह वृद्धि मौसमी मांग बढ़ने और खराब मौसम से प्रभावित बाजारों में सुधार के कारण होने की संभावना है।",
     "why_hi": "दूसरी छमाही में लोन वितरण बढ़ने की उम्मीद।",
-    "chips_hi": {}
+    "chips_hi": {},
+    "hi_tries": 0,
+    "hi_ver": 2
   },
   {
     "v": 3,
@@ -88,7 +338,9 @@
     "title_hi": "Quest Global ने US की Tests Assured को खरीदकर बढ़ाई अपनी क्षमता",
     "summary_hi": "इंजीनियरिंग सर्विसेज फर्म Quest Global ने US स्थित Tests Assured का अधिग्रहण कर लिया है। इस कदम का उद्देश्य वियरेबल्स, स्मार्ट डिवाइस और इमर्सिव टेक्नोलॉजी के लिए कंपनी की टेस्टिंग क्षमताओं को मजबूत करना है। हालांकि, इस सौदे से जुड़े वित्तीय विवरणों को सार्वजनिक नहीं किया गया है।",
     "why_hi": "स्मार्ट डिवाइस के लिए इंजीनियरिंग और टेस्टिंग क्षमता मजबूत होगी।",
-    "chips_hi": {}
+    "chips_hi": {},
+    "hi_tries": 0,
+    "hi_ver": 2
   },
   {
     "v": 3,
@@ -121,7 +373,9 @@
     "why_hi": "एनर्जी सेक्टर में भारी पूंजी निवेश।",
     "chips_hi": {
       "निवेश": "₹2 लाख करोड़"
-    }
+    },
+    "hi_tries": 0,
+    "hi_ver": 2
   },
   {
     "v": 3,
@@ -151,7 +405,7 @@
     ],
     "color": "0F766E",
     "premium": false,
-    "hi_tries": 1,
+    "hi_tries": 0,
     "title_hi": "सरकारी कंपनियों ने कैसे पूरा किया कैपिटल एक्सपेंडिचर का बड़ा लक्ष्य?",
     "summary_hi": "अप्रैल से अक्टूबर के दौरान सरकारी कंपनियों का कैपिटल एक्सपेंडिचर करीब 13 प्रतिशत बढ़कर 5.03 लाख करोड़ रुपये पर पहुंच गया है। रेलवे, हाईवे और ऊर्जा क्षेत्र की कंपनियों ने इसमें सबसे आगे रहकर वित्त वर्ष के कुल खर्च का 60 प्रतिशत लक्ष्य हासिल कर लिया है।",
     "why_hi": "Higher spending by state firms boosts infrastructure.",
@@ -159,7 +413,8 @@
       "कैपिटल एक्सपेंडिचर": "₹5.03 लाख करोड़",
       "ग्रोथ": "13 प्रतिशत",
       "लक्ष्य पूरा": "60 प्रतिशत"
-    }
+    },
+    "hi_ver": 2
   },
   {
     "v": 3,
@@ -188,7 +443,9 @@
     "title_hi": "प्रोजेक्ट्स बढ़ने से Divi's Labs को कैसे फायदा मिलेगा?",
     "summary_hi": "Divi's Laboratories का बिजनेस आउटलुक मजबूत कस्टम सिंथेटिक ग्रोथ, बेहतर मार्जिन और कमर्शियलाइजेशन के करीब पहुंच रहे प्रोजेक्ट्स के कारण सकारात्मक बना हुआ है। हालांकि, एनालिस्ट्स ऊंचे वैल्यूएशन को लेकर चिंता जता रहे हैं।",
     "why_hi": "मजबूत कस्टम सिंथेटिक ग्रोथ और बेहतर मार्जिन।",
-    "chips_hi": {}
+    "chips_hi": {},
+    "hi_tries": 0,
+    "hi_ver": 2
   },
   {
     "v": 3,
@@ -223,7 +480,9 @@
     "chips_hi": {
       "अधिग्रहण लागत": "₹523.76 करोड़",
       "खरीदी गई हिस्सेदारी": "100 प्रतिशत"
-    }
+    },
+    "hi_tries": 0,
+    "hi_ver": 2
   },
   {
     "v": 3,
@@ -553,266 +812,6 @@
       "स्टॉक बढ़त": "3% तक ऊपर",
       "निफ्टी बदलाव": "0.3% नीचे"
     },
-    "hi_tries": 0,
-    "hi_ver": 2
-  },
-  {
-    "v": 3,
-    "cat": "Industry",
-    "tk": "INDUSTRY",
-    "title": "Why are fund managers pushing for tax cuts on debt funds?",
-    "summary": "Mutual fund managers are pressing for tax reductions to halt the departure of foreign funds. They point out that higher taxes on debt funds act as a deterrent and are asking for parity with equity investments to attract investors back.",
-    "source": "Business Standard / Bloomberg",
-    "published": "2026-11-09T05:17:37+00:00",
-    "ago": "1h",
-    "impact": "Neutral",
-    "why": "Tax policies affect mutual fund investment flows.",
-    "url": "https://www.business-standard.com/industry/news/asset-management-industry-push-for-tax-cuts-to-stem-foreign-exodus-126110900242_1.html",
-    "chips": {},
-    "trend": [
-      0.5,
-      0.55,
-      0.45,
-      0.5,
-      0.47,
-      0.52,
-      0.5
-    ],
-    "color": "B7791F",
-    "premium": false,
-    "title_hi": "क्यों एसेट मैनेजमेंट इंडस्ट्री debt funds पर टैक्स कटौती चाहती है?",
-    "summary_hi": "फंड मैनेजर विदेशी निवेश के पलायन को रोकने के लिए टैक्स में राहत मांग रहे हैं। उनका कहना है कि debt funds पर ऊंचा टैक्स एक बाधा बना हुआ है, इसलिए वे शेयरों के बराबर टैक्स समानता की मांग कर रहे हैं।",
-    "why_hi": "टैक्स नीतियों से निवेश प्रवाह प्रभावित होता है।",
-    "chips_hi": {},
-    "hi_tries": 0,
-    "hi_ver": 2
-  },
-  {
-    "v": 3,
-    "cat": "Industry",
-    "tk": "INDUSTRY",
-    "title": "How did Tata Motors maintain its lead in electric vehicles?",
-    "summary": "Tata Motors maintained its passenger vehicle market lead over Mahindra through an electric vehicle lead of 37,803 units. This electric vehicle advantage helped offset Mahindra's strength in non-electric passenger vehicles, while both major automakers continue to ramp up their overall production capacity.",
-    "source": "Business Standard",
-    "published": "2026-11-08T17:17:12+00:00",
-    "ago": "9h",
-    "impact": "Positive",
-    "why": "EV sales drive market lead.",
-    "url": "https://www.business-standard.com/industry/auto/tamo-keeps-m-m-in-its-rearview-as-ev-sales-drive-lead-in-pv-market-race-126110800512_1.html",
-    "chips": {
-      "EV lead": "37,803 units"
-    },
-    "trend": [
-      0.1,
-      0.25,
-      0.2,
-      0.5,
-      0.45,
-      0.8,
-      0.95
-    ],
-    "color": "0F766E",
-    "premium": false,
-    "title_hi": "Tata Motors ने EV बिक्री के दम पर कैसे बनाई बढ़त?",
-    "summary_hi": "Tata Motors ने 37,803 यूनिट्स की इलेक्ट्रिक वाहन बढ़त के साथ पैसेंजर वाहन बाजार में अपनी बढ़त बनाए रखी। इस ईवी बढ़त ने Mahindra के नॉन-इलेक्ट्रिक वाहनों के फायदे को संतुलित कर दिया, जबकि दोनों कंपनियां अपनी उत्पादन क्षमता बढ़ा रही हैं।",
-    "why_hi": "ईवी बिक्री से बढ़त मिली।",
-    "chips_hi": {
-      "EV बढ़त": "37,803 यूनिट"
-    },
-    "hi_tries": 0,
-    "hi_ver": 2
-  },
-  {
-    "v": 3,
-    "cat": "Companies",
-    "tk": "AMAZON PAY",
-    "title": "Three in Four Amazon Pay Customers Live Outside Big Cities",
-    "summary": "Amazon Pay reveals that seventy-five percent of its customer base now resides outside major Indian cities. According to chief executive Vikas Bansal, these users from smaller towns are showing a strong demand for credit services as their adoption of digital payments continues to grow across regional markets.",
-    "source": "Business Standard",
-    "published": "2026-11-08T16:23:33+00:00",
-    "ago": "10h",
-    "impact": "Positive",
-    "why": "Growing small-town user base drives credit demand.",
-    "url": "https://www.business-standard.com/companies/news/amazon-pay-s-next-customers-are-in-small-towns-and-they-want-credit-126110800351_1.html",
-    "chips": {},
-    "trend": [
-      0.1,
-      0.25,
-      0.2,
-      0.5,
-      0.45,
-      0.8,
-      0.95
-    ],
-    "color": "0F766E",
-    "premium": false,
-    "title_hi": "Amazon Pay के तीन चौथाई ग्राहक बड़े शहरों से बाहर",
-    "summary_hi": "Amazon Pay के मुख्य कार्यकारी विकास बंसल के अनुसार, कंपनी के तीन में से चार ग्राहक अब भारत के बड़े शहरों से बाहर रहते हैं। छोटे शहरों के ये उपयोगकर्ता डिजिटल भुगतान अपनाने के साथ-साथ क्रेडिट सेवाओं की भी मांग कर रहे हैं।",
-    "why_hi": "छोटे शहरों में ग्राहक बढ़ने से क्रेडिट मांग बढ़ी।",
-    "chips_hi": {},
-    "hi_tries": 0,
-    "hi_ver": 2
-  },
-  {
-    "v": 3,
-    "cat": "Markets",
-    "tk": "MARKETS",
-    "title": "Why are investors retreating from artificial intelligence stocks?",
-    "summary": "A retreat from artificial intelligence linked stocks is leading investors to explore undervalued markets like India and China. Easing inflation and trade tensions are further increasing the appeal of these regions, as market participants shift their focus away from technology shares toward previously overlooked investment opportunities across Asia.",
-    "source": "Business Standard / Bloomberg",
-    "published": "2026-11-08T16:13:41+00:00",
-    "ago": "10h",
-    "impact": "Neutral",
-    "why": "Shifting capital flows across regional markets.",
-    "url": "https://www.business-standard.com/markets/news/ai-selloff-rejuvenates-asia-s-forgotten-investment-trades-126110800604_1.html",
-    "chips": {},
-    "trend": [
-      0.5,
-      0.55,
-      0.45,
-      0.5,
-      0.47,
-      0.52,
-      0.5
-    ],
-    "color": "B7791F",
-    "premium": false,
-    "title_hi": "क्यों निवेशक आर्टिफिशियल इंटेलिजेंस शेयरों से बना रहे हैं दूरी?",
-    "summary_hi": "आर्टिफिशियल इंटेलिजेंस से जुड़े शेयरों में गिरावट के बाद निवेशक भारत और चीन जैसे कम मूल्य वाले बाजारों की ओर रुख कर रहे हैं। कम होती महंगाई और घटते व्यापार तनाव इन क्षेत्रों के आकर्षण को और बढ़ा रहे हैं, जिससे बाजार के जानकारों का ध्यान अन्य अवसरों पर जा रहा है।",
-    "why_hi": "क्षेत्रीय बाजारों में बदलता निवेश प्रवाह",
-    "chips_hi": {},
-    "hi_tries": 0,
-    "hi_ver": 2
-  },
-  {
-    "v": 3,
-    "cat": "IPO",
-    "tk": "MARKETS",
-    "title": "Specific mutual funds deliver up to 30 percent returns",
-    "summary": "Certain mutual fund categories focused on healthcare, pharma, capital markets, and metals have generated returns of up to 30 percent. Meanwhile, some passive investment schemes experienced a decline in performance during this period. The broader market also saw promoter stakes rising alongside a slowdown in the initial public offering activity.",
-    "source": "Business Standard",
-    "published": "2026-11-08T15:35:24+00:00",
-    "ago": "10h",
-    "impact": "Positive",
-    "why": "Certain mutual funds delivered strong returns.",
-    "url": "https://www.business-standard.com/markets/news/street-signs-select-mfs-shine-promoter-stake-rises-ipo-market-slows-126110800592_1.html",
-    "chips": {
-      "Returns": "up to 30%"
-    },
-    "trend": [
-      0.1,
-      0.25,
-      0.2,
-      0.5,
-      0.45,
-      0.8,
-      0.95
-    ],
-    "color": "0F766E",
-    "premium": true,
-    "title_hi": "कुछ चुनिंदा म्यूचुअल फंड्स ने दिए 30 प्रतिशत तक रिटर्न",
-    "summary_hi": "हेल्थकेयर, फार्मा, कैपिटल मार्केट और मेटल पर केंद्रित कुछ म्यूचुअल फंड योजनाओं ने 30 प्रतिशत तक का रिटर्न दिया है। इस बीच, कुछ चुनिंदा पैसिव स्कीम्स के प्रदर्शन में गिरावट भी देखने को मिली है। इसके अलावा, प्रमोटर हिस्सेदारी में बढ़ोतरी हुई है और आईपीओ बाजार की रफ्तार धीमी पड़ी है।",
-    "why_hi": "कुछ म्यूचुअल फंड्स ने दिया अच्छा रिटर्न।",
-    "chips_hi": {
-      "रिटर्न": "30% तक"
-    },
-    "hi_tries": 0,
-    "hi_ver": 2
-  },
-  {
-    "v": 3,
-    "cat": "Industry",
-    "tk": "INDUSTRY",
-    "title": "Electric tractors gear up for massive production growth across India",
-    "summary": "Electric tractors are preparing for a major growth spurt as the industry builds capacity of up to 40,000 units. This expansion is driven by rising industrial demand, lower running costs, and government incentives supporting the shift. Manufacturers are scaling up operations to meet this upcoming requirement from both farms and factories.",
-    "source": "Business Standard",
-    "published": "2026-11-08T15:07:58+00:00",
-    "ago": "11h",
-    "impact": "Positive",
-    "why": "Rising demand and capacity expansion drive growth.",
-    "url": "https://www.business-standard.com/industry/auto/from-farms-to-factories-electric-tractors-prepare-for-a-growth-spurt-126110301500_1.html",
-    "chips": {
-      "Capacity": "40,000 units"
-    },
-    "trend": [
-      0.1,
-      0.25,
-      0.2,
-      0.5,
-      0.45,
-      0.8,
-      0.95
-    ],
-    "color": "0F766E",
-    "premium": true,
-    "title_hi": "इलेक्ट्रिक ट्रैक्टरों का उत्पादन बढ़ाने के लिए उद्योग तैयार",
-    "summary_hi": "इलेक्ट्रिक ट्रैक्टरों का उत्पादन तेजी से बढ़ने की तैयारी में है क्योंकि उद्योग ने 40,000 यूनिट तक की क्षमता का निर्माण किया है। इस विकास को औद्योगिक मांग, कम संचालन लागत और सरकारी प्रोत्साहनों से बढ़ावा मिल रहा है। निर्माता खेतों और कारखानों दोनों की इस आगामी आवश्यकता को पूरा करने के लिए अपने कार्यों का विस्तार कर रहे हैं।",
-    "why_hi": "बढ़ती मांग और क्षमता विस्तार से वृद्धि।",
-    "chips_hi": {
-      "क्षमता": "40,000 यूनिट"
-    },
-    "hi_tries": 0,
-    "hi_ver": 2
-  },
-  {
-    "v": 3,
-    "cat": "Markets",
-    "tk": "MARKETS",
-    "title": "Sensex valuations bounce back from October lows in November rally",
-    "summary": "Stock market valuations for the Sensex have bounced back from their lows seen in October. This recovery comes as the November rally gains momentum. Despite this recent upward movement, the current valuation levels still stay lower than the ten-year historical average.",
-    "source": "Business Standard",
-    "published": "2026-11-08T14:58:04+00:00",
-    "ago": "11h",
-    "impact": "Positive",
-    "why": "Valuations recovered from October lows.",
-    "url": "https://www.business-standard.com/markets/news/recovery-signals-sensex-valuation-rebounds-as-november-rally-gathers-pace-126110501948_1.html",
-    "chips": {},
-    "trend": [
-      0.1,
-      0.25,
-      0.2,
-      0.5,
-      0.45,
-      0.8,
-      0.95
-    ],
-    "color": "0F766E",
-    "premium": true,
-    "title_hi": "नवंबर की तेजी के बीच Sensex के वैल्यूएशन में सुधार",
-    "summary_hi": "अक्टूबर के निचले स्तरों से Sensex के वैल्यूएशन में सुधार आया है। यह रिकवरी नवंबर में बाजार की तेजी तेज होने के साथ आई है। हालांकि, यह सुधार के बावजूद अभी भी 10 साल के ऐतिहासिक औसत से नीचे बना हुआ है।",
-    "why_hi": "अक्टूबर के निचले स्तरों से वैल्यूएशन सुधरा।",
-    "chips_hi": {},
-    "hi_tries": 0,
-    "hi_ver": 2
-  },
-  {
-    "v": 3,
-    "cat": "Markets",
-    "tk": "MARKETS",
-    "title": "Samvat 2083 starts softly as benchmark indices slip",
-    "summary": "The first trading session of Samvat 2083 began on a muted note with benchmark indices ending slightly lower. Meanwhile, midcap and smallcap stocks showed strength by outperforming the broader market. Sectoral indices recorded a mixed performance during the opening session of the new Samvat year.",
-    "source": "Business Standard",
-    "published": "2026-11-08T14:49:26+00:00",
-    "ago": "11h",
-    "impact": "Neutral",
-    "why": "Mixed market start with smallcaps outperforming.",
-    "url": "https://www.business-standard.com/markets/news/samvat-2083-off-to-a-tepid-start-sensex-nifty-slip-smaller-cos-up-126110800423_1.html",
-    "chips": {},
-    "trend": [
-      0.5,
-      0.55,
-      0.45,
-      0.5,
-      0.47,
-      0.52,
-      0.5
-    ],
-    "color": "B7791F",
-    "premium": false,
-    "title_hi": "Samvat 2083 की सुस्त शुरुआत, सेंसेक्स और निफ्टी में गिरावट",
-    "summary_hi": "Samvat 2083 के पहले सत्र में बेंचमार्क इंडेक्स मामूली गिरावट के साथ बंद हुए। इस दौरान स्मॉलकैप और मिडकैप शेयरों ने बेहतर प्रदर्शन किया। सेक्टोरल इंडेक्स का प्रदर्शन मिलाजुला रहा।",
-    "why_hi": "मिलाजुला बाजार प्रदर्शन।",
-    "chips_hi": {},
     "hi_tries": 0,
     "hi_ver": 2
   }
