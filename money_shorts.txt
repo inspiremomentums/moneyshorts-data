@@ -2,6 +2,195 @@
   {
     "v": 3,
     "cat": "Companies",
+    "tk": "TATA",
+    "title": "Three workers die of asphyxiation at a Tata iPhone parts plant",
+    "summary": "Three workers lost their lives due to asphyxiation while performing maintenance work on a water tank. The incident occurred at the facility located in Hosur, Tamil Nadu, which is involved in manufacturing components for Apple iPhones.",
+    "source": "Business Standard / Reuters",
+    "published": "2026-11-10T05:02:59+00:00",
+    "ago": "1h",
+    "impact": "Negative",
+    "why": "Workplace deaths at the manufacturing facility.",
+    "url": "https://www.business-standard.com/companies/news/3-workers-die-of-asphyxiation-at-tata-s-iphone-parts-factory-in-tamil-nadu-126111000129_1.html",
+    "chips": {},
+    "trend": [
+      0.95,
+      0.85,
+      0.7,
+      0.6,
+      0.4,
+      0.3,
+      0.1
+    ],
+    "color": "9B2C2C",
+    "premium": false,
+    "title_hi": "टाटा के आईफोन पार्ट्स प्लांट में तीन कर्मचारियों की मौत",
+    "summary_hi": "तमिलनाडु के होसुर स्थित प्लांट में वाटर टैंक के रखरखाव के दौरान दम घुटने से तीन मजदूरों की मौत हो गई। यह फैसिलिटी एप्पल आईफोन के लिए कंपोनेंट्स बनाती है।",
+    "why_hi": "मैन्युफैक्चरिंग प्लांट में कार्यस्थल पर मौतें।",
+    "chips_hi": {}
+  },
+  {
+    "v": 3,
+    "cat": "Finance",
+    "tk": "FINANCE",
+    "title": "Can a newborn investment of ₹12,500 monthly reach ₹1 crore?",
+    "summary": "An investment of ₹12,500 every month can potentially build a corpus of ₹1 crore. Parents are exploring the details behind this financial possibility through NPS Vatsalya, which involves a total investment amount of ₹22.5 lakh to understand how these long-term savings grow over time.",
+    "source": "Business Standard",
+    "published": "2026-11-10T04:50:33+00:00",
+    "ago": "1h",
+    "impact": "Neutral",
+    "why": "Informs parents about long-term savings schemes.",
+    "url": "https://www.business-standard.com/finance/personal-finance/can-investing-12-500-a-month-for-your-newborn-create-a-1-crore-corpus-126111000178_1.html",
+    "chips": {
+      "Monthly investment": "₹12,500",
+      "Target corpus": "₹1 crore",
+      "Total investment": "₹22.5 lakh"
+    },
+    "trend": [
+      0.5,
+      0.55,
+      0.45,
+      0.5,
+      0.47,
+      0.52,
+      0.5
+    ],
+    "color": "B7791F",
+    "premium": false,
+    "title_hi": "क्या नवजात शिशु के लिए हर महीने ₹12,500 निवेश करने से ₹1 करोड़ बन सकते हैं?",
+    "summary_hi": "हर महीने ₹12,500 का निवेश करके ₹1 करोड़ का फंड बनाया जा सकता है। माता-पिता NPS वात्सल्य के जरिए इस लंबी अवधि की बचत योजना के बारे में जानकारी ले रहे हैं, जिसमें कुल निवेश ₹22.5 लाख होता है।",
+    "why_hi": "माता-पिता को बचत योजनाओं की जानकारी देता है।",
+    "chips_hi": {
+      "मासिक निवेश": "₹12,500",
+      "लक्ष्य राशि": "₹1 करोड़",
+      "कुल निवेश": "₹22.5 लाख"
+    }
+  },
+  {
+    "v": 3,
+    "cat": "Industry",
+    "tk": "AIR INDIA",
+    "title": "Will Air India appoint ex-Garuda executive Kunduvara as CFO?",
+    "summary": "Air India is reportedly considering the former finance chief of Garuda Indonesia, Kunduvara, for the role of Chief Financial Officer. The airline is currently looking to strengthen its financial position following a record financial loss reported during the previous fiscal year.",
+    "source": "Business Standard / Bloomberg",
+    "published": "2026-11-10T04:17:07+00:00",
+    "ago": "2h",
+    "impact": "Positive",
+    "why": "Aims to revive finances after record loss.",
+    "url": "https://www.business-standard.com/industry/aviation/air-india-considers-appointing-departed-garuda-executive-kunduvara-as-cfo-126111000145_1.html",
+    "chips": {},
+    "trend": [
+      0.1,
+      0.25,
+      0.2,
+      0.5,
+      0.45,
+      0.8,
+      0.95
+    ],
+    "color": "0F766E",
+    "premium": false,
+    "title_hi": "क्या Air India पूर्व Garuda कार्यकारी कुंदुवारा को बनाएगी CFO?",
+    "summary_hi": "Air India द्वारा Garuda Indonesia के पूर्व वित्त प्रमुख कुंदुवारा को मुख्य वित्तीय अधिकारी पद के लिए विचाराधीन बताया जा रहा है। पिछले वित्त वर्ष में रिकॉर्ड घाटा दर्ज करने के बाद एयरलाइन अपनी वित्तीय स्थिति को सुधारने का प्रयास कर रही है।",
+    "why_hi": "रिकॉर्ड घाटे के बाद वित्तीय स्थिति सुधारना।",
+    "chips_hi": {}
+  },
+  {
+    "v": 3,
+    "cat": "Markets",
+    "tk": "MARKETS",
+    "title": "Why did Asian stocks rise as oil prices slipped?",
+    "summary": "Asian markets moved higher after Brent crude dropped 1 percent to $91.56 a barrel. The decline followed a signal from Trump to pause further military strikes against Iran. This development helped ease inflation worries among investors as they awaited upcoming United States price data.",
+    "source": "Business Standard / Reuters",
+    "published": "2026-11-10T03:41:31+00:00",
+    "ago": "2h",
+    "impact": "Positive",
+    "why": "Falling oil prices and easing inflation concerns.",
+    "url": "https://www.business-standard.com/markets/news/asian-stocks-rise-amid-falling-oil-prices-on-hopes-of-us-iran-talks-126111000080_1.html",
+    "chips": {
+      "Brent crude": "$91.56 a barrel"
+    },
+    "trend": [
+      0.1,
+      0.25,
+      0.2,
+      0.5,
+      0.45,
+      0.8,
+      0.95
+    ],
+    "color": "0F766E",
+    "premium": false,
+    "title_hi": "घटते तेल दामों और US-Iran चर्चा की उम्मीदों से क्यों बढ़े Asian बाजार?",
+    "summary_hi": "ब्रेंट क्रूड के 1 प्रतिशत गिरकर 91.56 डॉलर प्रति बैरल पर आने से एशियाई बाजारों में तेजी आई। ट्रंप द्वारा ईरान पर आगे के सैन्य हमलों को रोकने के संकेत से यह गिरावट आई। अमेरिका के मुख्य मूल्य आंकड़ों से पहले इससे महंगाई की चिंताएं कम हुईं।",
+    "why_hi": "घटते तेल दाम और कम होती महंगाई की चिंता।",
+    "chips_hi": {
+      "ब्रेंट क्रूड": "$91.56 प्रति बैरल"
+    }
+  },
+  {
+    "v": 3,
+    "cat": "Companies",
+    "tk": "IIFL FINANCE",
+    "title": "Blackstone prepares to acquire a 15 percent stake in IIFL Finance",
+    "summary": "Private equity firm Blackstone is set to become a major investor in IIFL Finance by acquiring a 15 percent stake. At the same time, company promoters Nirmal Jain and R Venkataraman will also invest capital alongside Blackstone in this upcoming financial deal.",
+    "source": "Business Standard",
+    "published": "2026-11-10T03:03:11+00:00",
+    "ago": "3h",
+    "impact": "Positive",
+    "why": "Major investment boosts company financial backing.",
+    "url": "https://www.business-standard.com/companies/news/blackstone-set-to-become-key-investor-in-iifl-finance-with-15-stake-126111000088_1.html",
+    "chips": {
+      "Blackstone investmen": "₹5,000 crore",
+      "Promoter investment": "₹1,200 crore"
+    },
+    "trend": [
+      0.1,
+      0.25,
+      0.2,
+      0.5,
+      0.45,
+      0.8,
+      0.95
+    ],
+    "color": "0F766E",
+    "premium": false,
+    "title_hi": "Blackstone बनेगी IIFL Finance में 15 प्रतिशत हिस्सेदारी के साथ अहम निवेशक",
+    "summary_hi": "प्राइवेट इक्विटी फर्म Blackstone IIFL Finance में 15 प्रतिशत हिस्सेदारी हासिल करके एक प्रमुख निवेशक बनने जा रही है। इस प्रस्तावित निवेश के साथ ही कंपनी के प्रमोटर्स निर्मल जैन और आर वेंकटरमण भी पूंजी लगाएंगे।",
+    "why_hi": "बड़ा निवेश मिलने से वित्तीय स्थिति मजबूत होगी।",
+    "chips_hi": {
+      "Blackstone निवेश": "₹5,000 करोड़",
+      "प्रमोटर निवेश": "₹1,200 करोड़"
+    }
+  },
+  {
+    "v": 3,
+    "cat": "Markets",
+    "tk": "MARKETS",
+    "title": "Why are the NSE and BSE closed today?",
+    "summary": "Stock markets are closed today, Tuesday, November 10, for the Diwali-Balipratipada holiday. Trading on both the National Stock Exchange and the Bombay Stock Exchange remains suspended for the day. Normal trading operations will resume after this holiday break.",
+    "source": "Business Standard",
+    "published": "2026-11-10T02:17:22+00:00",
+    "ago": "4h",
+    "impact": "Neutral",
+    "why": "Routine market closure for holiday.",
+    "url": "https://www.business-standard.com/markets/news/stock-market-holiday-today-nse-bse-to-remain-closed-for-diwali-balipratipada-126111000071_1.html",
+    "chips": {},
+    "trend": [
+      0.5,
+      0.55,
+      0.45,
+      0.5,
+      0.47,
+      0.52,
+      0.5
+    ],
+    "color": "B7791F",
+    "premium": false,
+    "hi_tries": 1
+  },
+  {
+    "v": 3,
+    "cat": "Companies",
     "tk": "NVIDIA",
     "title": "Will Nvidia board probe into Jensen Huang test leadership?",
     "summary": "Nvidia faces a corporate governance test as the board investigates Jensen Huang over an affair. This situation raises important questions regarding leadership, future succession plans, and the overall direction of the chipmaking company during a critical time for its operations.",
@@ -26,7 +215,9 @@
     "title_hi": "क्या Jensen Huang की जांच से Nvidia का नेतृत्व परखेगा?",
     "summary_hi": "Nvidia के बोर्ड को कॉर्पोरेट गवर्नेंस की एक बड़ी परीक्षा का सामना करना पड़ रहा है, क्योंकि Jensen Huang से जुड़े मामले की जांच शुरू हो गई है। इस जांच से चिप बनाने वाली कंपनी के नेतृत्व, भविष्य की उत्तराधिकार योजनाओं और दिशा को लेकर कई सवाल खड़े हो गए हैं।",
     "why_hi": "नेतृत्व की जांच से अनिश्चितता पैदा होती है।",
-    "chips_hi": {}
+    "chips_hi": {},
+    "hi_tries": 0,
+    "hi_ver": 2
   },
   {
     "v": 3,
@@ -55,7 +246,9 @@
     "title_hi": "क्यों विदेशी फंड जुटाने के मामले में 7 साल के उच्चतम स्तर पर पहुंचीं भारतीय कंपनियां?",
     "summary_hi": "भारतीय कंपनियों द्वारा विदेशी फंड जुटाने का काम सात साल के सबसे ऊंचे स्तर पर पहुंच गया है। कर्ज जारी करने और विदेशी कर्ज की लागत को कम करने के लिए आरबीआई के उपायों के कारण इस विदेशी फंड जुटाने में भारी उछाल आया है।",
     "why_hi": "कर्ज जारी करने और आरबीआई द्वारा लागत घटाने से।",
-    "chips_hi": {}
+    "chips_hi": {},
+    "hi_tries": 0,
+    "hi_ver": 2
   },
   {
     "v": 3,
@@ -84,7 +277,9 @@
     "title_hi": "IndiQube ऑफिस स्पेस में क्यों शुरू कर रहा है डेटा सेंटर?",
     "summary_hi": "फ्लेक्सिबल वर्कस्पेस प्रोवाइडर IndiQube अपनी मौजूदा ऑफिस इमारतों के भीतर छोटे पैमाने पर एंटरप्राइज डेटा सेंटर स्थापित करने की संभावना तलाश रहा है। इस नई पहल का उद्देश्य क्लाइंट की मांग के बीच अपने मैनेज्ड वर्कस्पेस विकल्पों के पोर्टफोलियो का विस्तार करना है।",
     "why_hi": "क्लाइंट की मांग पर वर्कस्पेस विकल्पों का विस्तार।",
-    "chips_hi": {}
+    "chips_hi": {},
+    "hi_tries": 0,
+    "hi_ver": 2
   },
   {
     "v": 3,
@@ -117,7 +312,9 @@
     "why_hi": "त्योहारी मांग के बीच शेयरों में तेजी आई।",
     "chips_hi": {
       "औसतन तेजी": "42%"
-    }
+    },
+    "hi_tries": 0,
+    "hi_ver": 2
   },
   {
     "v": 3,
@@ -146,7 +343,9 @@
     "title_hi": "ILO study से भारत में जेंडर वेज गैप का कैसे लगेगा पता?",
     "summary_hi": "अंतर्राष्ट्रीय श्रम संगठन भारत में जेंडर वेज गैप की जांच के लिए एक नए अध्ययन पर काम कर रहा है। इस विस्तृत विश्लेषण में वेतन भेदभाव, कार्यस्थल की प्रथाओं और नौकरी की भूमिकाओं तथा पदनामों में अंतर पर ध्यान केंद्रित किया जाएगा।",
     "why_hi": "भारत में जेंडर वेज गैप का अध्ययन।",
-    "chips_hi": {}
+    "chips_hi": {},
+    "hi_tries": 0,
+    "hi_ver": 2
   },
   {
     "v": 3,
@@ -181,7 +380,9 @@
     "chips_hi": {
       "लक्ष्य राजस्व": "₹5,000-7,000 करोड़",
       "समय सीमा": "5 वर्ष"
-    }
+    },
+    "hi_tries": 0,
+    "hi_ver": 2
   },
   {
     "v": 3,
@@ -214,7 +415,9 @@
     "why_hi": "महंगाई बढ़ने से आर्थिक चिंताएं पैदा होती हैं।",
     "chips_hi": {
       "खुदरा महंगाई": "6.05%"
-    }
+    },
+    "hi_tries": 0,
+    "hi_ver": 2
   },
   {
     "v": 3,
@@ -243,7 +446,71 @@
     "title_hi": "क्यों क्लोजिंग ऑक्शन और नियमों की वजह से ब्रोकरेज कंपनियों को झटका लगा?",
     "summary_hi": "क्लोजिंग ऑक्शन सत्र और नए नियमों के कारण दूसरी तिमाही में ब्रोकरेज कंपनियों के मुनाफे पर दबाव देखा गया। कमजोर डेरिवेटिव गतिविधियों ने वित्तीय प्रदर्शन को प्रभावित किया, हालांकि कमोडिटी ट्रेडिंग और मार्जिन फंडिंग ने इस झटके को कुछ हद तक कम करने में मदद की।",
     "why_hi": "नियमों और कमजोर गतिविधियों से मुनाफा घटा।",
+    "chips_hi": {},
+    "hi_tries": 0,
+    "hi_ver": 2
+  },
+  {
+    "v": 3,
+    "cat": "Industry",
+    "tk": "INDUSTRY",
+    "title": "Why is Odisha hosting its largest-ever Japanese delegation?",
+    "summary": "Odisha is welcoming a large Japanese delegation to explore industrial partnerships, trade, and tourism. The visit aims to boost bilateral ties through cooperation agreements and institutional memorandums of understanding, focusing on technology and economic collaboration between the region and Japan.",
+    "source": "Business Standard",
+    "published": "2026-11-09T17:59:18+00:00",
+    "ago": "12h",
+    "impact": "Positive",
+    "why": "New partnerships can boost economic growth.",
+    "url": "https://www.business-standard.com/industry/news/odisha-eyes-fresh-japanese-investments-as-60-member-delegation-visits-126110901547_1.html",
+    "chips": {},
+    "trend": [
+      0.1,
+      0.25,
+      0.2,
+      0.5,
+      0.45,
+      0.8,
+      0.95
+    ],
+    "color": "0F766E",
+    "premium": false,
+    "title_hi": "Odisha क्यों कर रहा है सबसे बड़े जापानी प्रतिनिधिमंडल की मेजबानी?",
+    "summary_hi": "ओडिशा औद्योगिक साझेदारी, व्यापार और पर्यटन की संभावनाओं तलाशने के लिए एक बड़े जापानी प्रतिनिधिमंडल की मेजबानी कर रहा है। इस यात्रा का उद्देश्य सहयोग समझौतों और समझौता ज्ञापनों के जरिए द्विपक्षीय संबंधों को मजबूत करना है।",
+    "why_hi": "नई साझेदारियों से आर्थिक विकास को बढ़ावा मिलेगा।",
     "chips_hi": {}
+  },
+  {
+    "v": 3,
+    "cat": "Industry",
+    "tk": "INDUSTRY",
+    "title": "Will a new 7,000 crore scheme transform India's bulk-drug manufacturing?",
+    "summary": "A fresh scheme worth 7,000 crore rupees is currently being planned to strengthen the bulk-drug value chain. This initiative may offer incentives to existing manufacturing plants, implement a platform-based strategy, and enhance research and development within the sector.",
+    "source": "Business Standard",
+    "published": "2026-11-09T17:56:21+00:00",
+    "ago": "12h",
+    "impact": "Positive",
+    "why": "Boosts manufacturing and research capabilities.",
+    "url": "https://www.business-standard.com/industry/news/7-000-crore-bulk-drug-scheme-in-the-works-to-boost-value-chain-126110901594_1.html",
+    "chips": {
+      "Scheme outlay": "Rs 7,000 crore"
+    },
+    "trend": [
+      0.1,
+      0.25,
+      0.2,
+      0.5,
+      0.45,
+      0.8,
+      0.95
+    ],
+    "color": "0F766E",
+    "premium": true,
+    "title_hi": "क्या 7,000 करोड़ रुपये की नई योजना से बदलेगी बल्क-ड्रग मैन्युफैक्चरिंग?",
+    "summary_hi": "बल्क-ड्रग वैल्यू चेन को मजबूत करने के लिए 7,000 करोड़ रुपये की एक नई योजना पर काम चल रहा है। इस पहल के तहत मौजूदा प्लांट्स को प्रोत्साहन मिल सकता है, एक प्लेटफॉर्म-आधारित तरीका अपनाया जा सकता है और इस क्षेत्र में रिसर्च व डेवलपमेंट को बढ़ावा दिया जा सकता है।",
+    "why_hi": "मैन्युफैक्चरिंग और रिसर्च को बढ़ावा मिलेगा।",
+    "chips_hi": {
+      "योजना राशि": "₹7,000 करोड़"
+    }
   },
   {
     "v": 3,
@@ -519,298 +786,6 @@
       "Q2 मुनाफा": "₹21.97 करोड़",
       "पिछला Q2 मुनाफा": "₹49.19 करोड़",
       "मुनाफे में बदलाव": "-55.3 प्रतिशत"
-    },
-    "hi_tries": 0,
-    "hi_ver": 2
-  },
-  {
-    "v": 3,
-    "cat": "Markets",
-    "tk": "NVIDIA",
-    "title": "Why did Nvidia shares drop over 6 percent in Frankfurt?",
-    "summary": "Nvidia shares experienced a decline of more than 6 percent in Frankfurt trading. This downward movement follows a previous selloff from last week and brings the stock value down to new multi-month lows, amid a probe involving CEO Huang.",
-    "source": "Business Standard / Reuters",
-    "published": "2026-11-09T09:12:38+00:00",
-    "ago": "1h",
-    "impact": "Negative",
-    "why": "Shares dropped to multi-month lows.",
-    "url": "https://www.business-standard.com/markets/news/nvidia-s-shares-slide-as-chip-giant-probes-ceo-huang-over-spy-claims-126110900547_1.html",
-    "chips": {
-      "Share drop": "More than 6%"
-    },
-    "trend": [
-      0.95,
-      0.85,
-      0.7,
-      0.6,
-      0.4,
-      0.3,
-      0.1
-    ],
-    "color": "9B2C2C",
-    "premium": false,
-    "title_hi": "Nvidia के शेयर Frankfurt में 6 प्रतिशत से अधिक क्यों गिरे?",
-    "summary_hi": "Nvidia के शेयरों में Frankfurt ट्रेडिंग के दौरान 6 प्रतिशत से अधिक की गिरावट दर्ज की गई। पिछले हफ्ते की बिकवाली के बाद यह गिरावट आई है, जिससे स्टॉक नए कई महीनों के निचले स्तर पर पहुंच गया है।",
-    "why_hi": "शेयर कई महीनों के निचले स्तर पर गिरे।",
-    "chips_hi": {
-      "शेयर गिरावट": "6% से अधिक"
-    },
-    "hi_tries": 0,
-    "hi_ver": 2
-  },
-  {
-    "v": 3,
-    "cat": "Markets",
-    "tk": "PAYTM",
-    "title": "Why did Ashok Leyland and Paytm drop after a strong rally?",
-    "summary": "Ashok Leyland and Paytm shares fell by up to 3 percent in Friday intraday trades. This decline follows a strong period where both stocks rallied by up to 23 percent over the preceding six trading sessions. Meanwhile, an analyst pointed out positive charts for these equities.",
-    "source": "Business Standard",
-    "published": "2026-11-09T08:47:44+00:00",
-    "ago": "1h",
-    "impact": "Neutral",
-    "why": "Correction follows a strong recent rally.",
-    "url": "https://www.business-standard.com/markets/news/ashok-leyland-paytm-down-after-6-day-rally-analyst-flags-positive-charts-126110900526_1.html",
-    "chips": {
-      "Drop": "up to 3%",
-      "Prior rally": "up to 23%",
-      "Duration": "6 days"
-    },
-    "trend": [
-      0.5,
-      0.55,
-      0.45,
-      0.5,
-      0.47,
-      0.52,
-      0.5
-    ],
-    "color": "B7791F",
-    "premium": false,
-    "title_hi": "शानदार तेजी के बाद अशोक लेलैंड और पेटीएम के शेयरों में क्यों आई गिरावट?",
-    "summary_hi": "शुक्रवार के करोबार के दौरान अशोक लेलैंड और पेटीएम के शेयरों में 3 प्रतिशत तक की गिरावट दर्ज की गई। यह गिरावट पिछले छह सत्रों में 23 प्रतिशत तक की तेजी के बाद आई है। हालांकि, एक विश्लेषक ने इनके चार्ट सकारात्मक बताए हैं।",
-    "why_hi": "हालिया तेजी के बाद मामूली मुनाफावसूली।",
-    "chips_hi": {
-      "गिरावट": "3% तक",
-      "पिछली तेजी": "23% तक",
-      "अवधि": "6 दिन"
-    },
-    "hi_tries": 0,
-    "hi_ver": 2
-  },
-  {
-    "v": 3,
-    "cat": "Industry",
-    "tk": "INDUSTRY",
-    "title": "Why is a USD 565 duty proposed on rubber gloves?",
-    "summary": "The commerce ministry's investigation arm has recommended an anti-dumping duty of up to USD 565 per one lakh pieces on medical examination rubber gloves imported from Thailand and Malaysia. This proposed five-year duty aims to protect local manufacturers from cheap foreign imports. The final decision now rests with the finance ministry.",
-    "source": "Business Standard / Press Trust of India",
-    "published": "2026-11-09T08:42:12+00:00",
-    "ago": "1h",
-    "impact": "Positive",
-    "why": "Protects domestic manufacturers from cheap imports.",
-    "url": "https://www.business-standard.com/industry/news/dgtr-proposes-anti-dumping-duty-of-up-to-565-on-rubber-glove-imports-126110900501_1.html",
-    "chips": {
-      "Max duty": "USD 565 per one lakh",
-      "Min duty": "USD 442 per one lakh",
-      "Duration": "5 years"
-    },
-    "trend": [
-      0.1,
-      0.25,
-      0.2,
-      0.5,
-      0.45,
-      0.8,
-      0.95
-    ],
-    "color": "0F766E",
-    "premium": false,
-    "hi_tries": 0,
-    "title_hi": "रबर ग्लव्स पर क्यों लग सकता है भारी ड्यूटी?",
-    "summary_hi": "कॉमर्स मिनिस्ट्री ने थाईलैंड और मलेशिया से आने वाले मेडिकल रबर ग्लव्स पर भारी एंटी-डंपिंग ड्यूटी लगाने की सिफारिश की है। स्थानीय निर्माताओं को सस्ते आयात से बचाने के लिए यह कदम उठाया गया है। पांच साल के लिए प्रस्तावित इस ड्यूटी पर अब वित्त मंत्रालय को आखिरी फैसला लेना है।",
-    "why_hi": "घरेलू निर्माताओं को सस्ते आयात से बचाता है।",
-    "chips_hi": {
-      "अधिकतम ड्यूटी": "USD 565 प्रति एक लाख",
-      "न्यूनतम ड्यूटी": "USD 442 प्रति एक लाख",
-      "अवधि": "5 साल"
-    },
-    "hi_ver": 2
-  },
-  {
-    "v": 3,
-    "cat": "Companies",
-    "tk": "L&T",
-    "title": "How L&T secured a major Noida Metro Aqua Line extension project",
-    "summary": "L&T announced it received a significant order from Noida Metro to develop an elevated viaduct. The project includes partial design and construction work across two specific stretches spanning 15.1 kilometers, connecting Botanical Garden to Noida Sector-142 and Depot Station to Boraki.",
-    "source": "Business Standard",
-    "published": "2026-11-09T06:10:26+00:00",
-    "ago": "19m",
-    "impact": "Positive",
-    "why": "New metro infrastructure order boosts business pipeline.",
-    "url": "https://www.business-standard.com/companies/news/l-t-bags-significant-order-from-noida-metro-for-aqua-line-extension-126110900306_1.html",
-    "chips": {
-      "Project length": "15.1-km"
-    },
-    "trend": [
-      0.1,
-      0.25,
-      0.2,
-      0.5,
-      0.45,
-      0.8,
-      0.95
-    ],
-    "color": "0F766E",
-    "premium": false,
-    "title_hi": "L&T को कैसे मिला Noida Metro Aqua Line विस्तार का बड़ा ऑर्डर",
-    "summary_hi": "L&T ने बताया कि उसे Noida Metro से एक महत्वपूर्ण ऑर्डर मिला है। इस प्रोजेक्ट में दो हिस्सों में 15.1 किलोमीटर लंबे एलिवेटेड वायाडक्ट का आंशिक डिजाइन और निर्माण कार्य शामिल है, जो Botanical Garden से Noida Sector-142 और Depot Station से Boraki तक फैला है।",
-    "why_hi": "नया बुनियादी ढांचा ऑर्डर मिलने से बिजनेस मजबूत होगा।",
-    "chips_hi": {
-      "प्रोजेक्ट लंबाई": "15.1-km"
-    },
-    "hi_tries": 0,
-    "hi_ver": 2
-  },
-  {
-    "v": 3,
-    "cat": "Earnings",
-    "tk": "SAI LIFE",
-    "title": "Sai Life Sciences hits record high as profit climbs 17 percent",
-    "summary": "Sai Life Sciences shares jumped 9 percent to reach a record high following its September quarter results for FY27. The company posted a 17 percent year-on-year increase in consolidated net profit, reaching ₹98 crore. Meanwhile, revenue grew by 23 percent compared to the previous year, totaling ₹659 crore.",
-    "source": "Business Standard",
-    "published": "2026-11-09T06:08:33+00:00",
-    "ago": "21m",
-    "impact": "Positive",
-    "why": "Higher profit and revenue growth.",
-    "url": "https://www.business-standard.com/markets/news/multibagger-stock-sai-life-sciences-surges-9-to-record-high-after-q2-nos-126110900299_1.html",
-    "chips": {
-      "Net profit": "₹98 crore",
-      "Revenue": "₹659 crore"
-    },
-    "trend": [
-      0.1,
-      0.25,
-      0.2,
-      0.5,
-      0.45,
-      0.8,
-      0.95
-    ],
-    "color": "0F766E",
-    "premium": false,
-    "title_hi": "Sai Life Sciences का शेयर रिकॉर्ड हाई पर, मुनाफा 17% बढ़ा",
-    "summary_hi": "Q2 परिणामों के बाद Sai Life Sciences के शेयर 9 प्रतिशत उछलकर रिकॉर्ड स्तर पर पहुंच गए। वित्त वर्ष 27 की सितंबर तिमाही में कंपनी का समेकित शुद्ध लाभ 17 प्रतिशत बढ़कर ₹98 करोड़ हो गया। इसके अलावा, पिछले वर्ष की तुलना में राजस्व 23 प्रतिशत बढ़कर ₹659 करोड़ दर्ज किया गया।",
-    "why_hi": "मुनाफे और राजस्व में वृद्धि।",
-    "chips_hi": {
-      "शुद्ध लाभ": "₹98 करोड़",
-      "राजस्व": "₹659 करोड़"
-    },
-    "hi_tries": 0,
-    "hi_ver": 2
-  },
-  {
-    "v": 3,
-    "cat": "Industry",
-    "tk": "INDUSTRY",
-    "title": "India considers capping soda ash imports for two years",
-    "summary": "India is reportedly considering a two-year cap on soda ash imports to protect domestic manufacturers. This move comes as glass and detergent makers, who rely on soda ash as a primary input, have expressed worries regarding potential supply constraints and rising costs associated with the restriction.",
-    "source": "Business Standard",
-    "published": "2026-11-09T05:56:51+00:00",
-    "ago": "33m",
-    "impact": "Positive",
-    "why": "Protects domestic producers from import competition.",
-    "url": "https://www.business-standard.com/industry/news/india-may-cap-soda-ash-imports-for-two-years-to-shield-domestic-producers-126110900277_1.html",
-    "chips": {},
-    "trend": [
-      0.1,
-      0.25,
-      0.2,
-      0.5,
-      0.45,
-      0.8,
-      0.95
-    ],
-    "color": "0F766E",
-    "premium": false,
-    "title_hi": "घरेलू निर्माताओं को बचाने के लिए भारत soda ash आयात पर लगा सकता है रोक",
-    "summary_hi": "घरेलू निर्माताओं को सुरक्षित रखने के लिए भारत दो साल तक soda ash के आयात पर सीमा तय करने पर विचार कर रहा है। ग्लास और डिटर्जेंट बनाने वाली कंपनियां इस सामग्री का मुख्य रूप से उपयोग करती हैं और उन्होंने आपूर्ति तथा लागत को लेकर चिंता जताई है।",
-    "why_hi": "घरेलू उत्पादकों को आयात से सुरक्षा मिलेगी।",
-    "chips_hi": {},
-    "hi_tries": 0,
-    "hi_ver": 2
-  },
-  {
-    "v": 3,
-    "cat": "Earnings",
-    "tk": "JUBILANT",
-    "title": "Jubilant FoodWorks dips five percent despite positive brokerage views",
-    "summary": "Shares of Jubilant FoodWorks fell five percent following its second-quarter results. However, MOFSL maintains a positive stance on the company's medium-term outlook. This optimism is driven by growth potential in like-for-like sales, strong momentum in the Popeyes brand, and a healthy performance internationally.",
-    "source": "Business Standard",
-    "published": "2026-11-09T05:54:15+00:00",
-    "ago": "35m",
-    "impact": "Positive",
-    "why": "Brokerage remains positive on medium-term outlook.",
-    "url": "https://www.business-standard.com/markets/news/jubilant-foodworks-share-price-dips-5-post-q2-but-brokerages-remain-firm-here-s-why-126110900280_1.html",
-    "chips": {
-      "Share dip": "5%",
-      "LFL growth potential": "5-7 percent"
-    },
-    "trend": [
-      0.1,
-      0.25,
-      0.2,
-      0.5,
-      0.45,
-      0.8,
-      0.95
-    ],
-    "color": "0F766E",
-    "premium": false,
-    "title_hi": "Q2 के बाद Jubilant FoodWorks के शेयरों में गिरावट, जानिए ब्रोकरेज की राय",
-    "summary_hi": "दूसरे तिमाही के नतीजों के बाद Jubilant FoodWorks के शेयरों में पाँच प्रतिशत की गिरावट आई। इसके बावजूद, MOFSL ने कंपनी के मध्यम अवधि के दृष्टिकोण पर सकारात्मक रुख बनाए रखा है। यह भरोसा बेहतर बिक्री वृद्धि संभावना, Popeyes के मजबूत प्रदर्शन और अंतरराष्ट्रीय स्तर पर अच्छे कामकाज पर आधारित है।",
-    "why_hi": "ब्रोकरेज का मध्यम अवधि दृष्टिकोण सकारात्मक है।",
-    "chips_hi": {
-      "शेयर गिरावट": "5%",
-      "LFL वृद्धि संभावना": "5-7 प्रतिशत"
-    },
-    "hi_tries": 0,
-    "hi_ver": 2
-  },
-  {
-    "v": 3,
-    "cat": "Markets",
-    "tk": "MARKETS",
-    "title": "Why Did PSU Bank Stocks Climb Up to 3% Today?",
-    "summary": "Public sector bank shares saw a positive movement during Monday's trading session. Major state-owned lenders advanced up to 3 percent. Meanwhile, the broader Nifty index dropped by 0.3 percent. The Nifty PSU Bank index emerged as the leading sectoral gainer with a 2 percent increase.",
-    "source": "Business Standard",
-    "published": "2026-11-09T05:32:22+00:00",
-    "ago": "58m",
-    "impact": "Positive",
-    "why": "Sector index gained 2 percent in trade.",
-    "url": "https://www.business-standard.com/markets/news/psu-banks-in-focus-sbi-boi-pnb-indian-bank-canara-ubi-gain-up-to-3-126110900233_1.html",
-    "chips": {
-      "Sector gain": "Up 2%",
-      "Stock gains": "Up to 3%",
-      "Nifty change": "Down 0.3%"
-    },
-    "trend": [
-      0.1,
-      0.25,
-      0.2,
-      0.5,
-      0.45,
-      0.8,
-      0.95
-    ],
-    "color": "0F766E",
-    "premium": false,
-    "title_hi": "PSU Bank के शेयरों में आज क्यों आई 3% तक की तेजी?",
-    "summary_hi": "सोमवार के कारोबार के दौरान सरकारी बैंकों के शेयरों में तेजी देखने को मिली। प्रमुख सरकारी ऋणदाताओं के शेयर 3 प्रतिशत तक चढ़ गए। इस बीच, व्यापक बाजार सूचकांक Nifty में 0.3 प्रतिशत की गिरावट आई। Nifty PSU Bank इंडेक्स 2 प्रतिशत की बढ़त के साथ सेक्टर में सबसे आगे रहा।",
-    "why_hi": "सेक्टर इंडेक्स में 2 प्रतिशत की बढ़त।",
-    "chips_hi": {
-      "सेक्टर बढ़त": "2% ऊपर",
-      "स्टॉक बढ़त": "3% तक ऊपर",
-      "निफ्टी बदलाव": "0.3% नीचे"
     },
     "hi_tries": 0,
     "hi_ver": 2
