@@ -1,6 +1,192 @@
 [
   {
     "v": 3,
+    "cat": "Earnings",
+    "tk": "PB FINTECH",
+    "title": "Why did retail buyers and FPIs diverge on PB Fintech?",
+    "summary": "During the second quarter, retail investors increased their focus on the business of PB Fintech. Meanwhile, foreign portfolio investors turned cautious. Analysts noted that the reaction from foreign investors was triggered by a recent policy shock.",
+    "source": "Business Standard",
+    "published": "2026-11-11T01:44:22+00:00",
+    "ago": "33m",
+    "impact": "Neutral",
+    "why": "Mixed buying and selling by different investors.",
+    "url": "https://www.business-standard.com/markets/news/pb-fintech-retailers-buy-fpis-turn-wary-in-q2-who-got-right-end-of-deal-126111100075_1.html",
+    "chips": {},
+    "trend": [
+      0.5,
+      0.55,
+      0.45,
+      0.5,
+      0.47,
+      0.52,
+      0.5
+    ],
+    "color": "B7791F",
+    "premium": false,
+    "title_hi": "Q2 में PB Fintech पर रिटेल निवेशकों और FPIs की राहें क्यों अलग हुईं?",
+    "summary_hi": "दूसरी तिमाही में रिटेल निवेशकों ने PB Fintech के बिजनेस पर ध्यान केंद्रित किया। इस बीच, फॉरेन पोर्टफोलियो इन्वेस्टर्स ने सतर्क रुख अपनाया। विश्लेषकों के अनुसार, विदेशी निवेशकों की यह प्रतिक्रिया एक नीतिगत झटके के कारण थी।",
+    "why_hi": "अलग-अलग निवेशकों की मिली-जुली प्रतिक्रिया।",
+    "chips_hi": {}
+  },
+  {
+    "v": 3,
+    "cat": "Economy",
+    "tk": "ECONOMY",
+    "title": "Odisha removes pension limits, adding over 500,000 new beneficiaries",
+    "summary": "The state government has removed the quota-based system for pensions, widening the reach of the Madhu Babu Pension Yojana. This change brings the total count of beneficiaries to 4.18 million. An extra annual financial commitment of Rs 625 crore supports this expansion across the state, ensuring broader welfare support for eligible residents under the revised scheme rules.",
+    "source": "Business Standard",
+    "published": "2026-11-10T18:32:00+00:00",
+    "ago": "7h",
+    "impact": "Neutral",
+    "why": "Welfare policy change with no corporate impact.",
+    "url": "https://www.business-standard.com/economy/news/odisha-scraps-pension-quota-system-adds-over-500-000-beneficiaries-126111100004_1.html",
+    "chips": {
+      "Beneficiaries": "4.18 million",
+      "Additional annual co": "Rs 625 crore"
+    },
+    "trend": [
+      0.5,
+      0.55,
+      0.45,
+      0.5,
+      0.47,
+      0.52,
+      0.5
+    ],
+    "color": "B7791F",
+    "premium": false,
+    "hi_tries": 1
+  },
+  {
+    "v": 3,
+    "cat": "Industry",
+    "tk": "ADANI POWER",
+    "title": "Adani Power advances its 30,181 crore Odisha project groundwork",
+    "summary": "Adani Power has moved its proposed thermal power project in Odisha into the environmental clearance stage. The initiative involves a major investment and a planned capacity of 2,400 Mw. A public hearing regarding the venture is scheduled for December, marking a key step forward for the development.",
+    "source": "Business Standard",
+    "published": "2026-11-10T17:55:44+00:00",
+    "ago": "8h",
+    "impact": "Positive",
+    "why": "Project progress moves closer to execution.",
+    "url": "https://www.business-standard.com/industry/news/adani-power-fast-tracks-groundwork-for-30k-crore-odisha-project-126111000699_1.html",
+    "chips": {
+      "Investment": "Rs 30,181 crore",
+      "Capacity": "2,400 Mw"
+    },
+    "trend": [
+      0.1,
+      0.25,
+      0.2,
+      0.5,
+      0.45,
+      0.8,
+      0.95
+    ],
+    "color": "0F766E",
+    "premium": true,
+    "title_hi": "Adani Power के 30,181 करोड़ के ओडिशा प्रोजेक्ट पर काम तेज",
+    "summary_hi": "Adani Power के ओडिशा में प्रस्तावित थर्मल पावर प्रोजेक्ट ने पर्यावरण मंजूरी की प्रक्रिया में प्रवेश कर लिया है। इस बड़े निवेश वाले प्रोजेक्ट की क्षमता 2,400 Mw है। इसे आगे बढ़ाने के लिए दिसंबर में एक जनसुनवाई तय की गई है।",
+    "why_hi": "प्रोजेक्ट प्रक्रिया आगे बढ़ने से प्रगति।",
+    "chips_hi": {
+      "निवेश": "₹30,181 करोड़",
+      "क्षमता": "2,400 Mw"
+    }
+  },
+  {
+    "v": 3,
+    "cat": "Industry",
+    "tk": "INDUSTRY",
+    "title": "Why are travelers shifting from expensive flights to buses?",
+    "summary": "Bus travel is gaining popularity as rising airfares push passengers toward the roads. Improved highway infrastructure, better-quality buses, and a growing network of sleeper services are making long-distance road journeys significantly more comfortable and reliable for travelers across the country.",
+    "source": "Business Standard",
+    "published": "2026-11-10T17:43:18+00:00",
+    "ago": "8h",
+    "impact": "Neutral",
+    "why": "Infrastructure improvements and rising airfares drive demand",
+    "url": "https://www.business-standard.com/industry/news/from-runways-to-highways-bus-travel-gathers-pace-amid-soaring-airfares-126111001068_1.html",
+    "chips": {},
+    "trend": [
+      0.5,
+      0.55,
+      0.45,
+      0.5,
+      0.47,
+      0.52,
+      0.5
+    ],
+    "color": "B7791F",
+    "premium": true,
+    "title_hi": "महंगे हवाई किराए के बीच बस यात्रा क्यों तेजी से बढ़ रही है?",
+    "summary_hi": "हवाई किराए बढ़ने के कारण यात्री सड़कों की ओर रुख कर रहे हैं, जिससे बस यात्रा लोकप्रिय हो रही है। बेहतर राजमार्ग बुनियादी ढांचे, अच्छी गुणवत्ता वाली बसों और स्लीपर सेवाओं के विस्तार से यात्रियों के लिए लंबी सड़क यात्राएं अधिक आरामदायक और भरोसेमंद बन रही हैं।",
+    "why_hi": "बुनियादी ढांचे में सुधार और बढ़ते हवाई किराए।",
+    "chips_hi": {}
+  },
+  {
+    "v": 3,
+    "cat": "Economy",
+    "tk": "MTNL",
+    "title": "Govt targets ₹6,000 crore in FY27 from sale of MTNL's land assets",
+    "summary": "The government aims to generate Rs 6,000 crore in financial year 27 through the monetization of land assets owned by MTNL. Approval has already been secured for five properties located in Mumbai, which hold an estimated value of around Rs 4,000 crore from an alternative mechanism.",
+    "source": "Business Standard",
+    "published": "2026-11-10T17:38:56+00:00",
+    "ago": "8h",
+    "impact": "Positive",
+    "why": "Asset monetization generates funds for the company.",
+    "url": "https://www.business-standard.com/economy/news/govt-targets-6-000-crore-in-fy27-from-sale-of-mtnl-s-land-assets-126111001064_1.html",
+    "chips": {
+      "Target amount": "Rs 6,000 crore",
+      "Asset value": "Rs 4,000 crore"
+    },
+    "trend": [
+      0.1,
+      0.25,
+      0.2,
+      0.5,
+      0.45,
+      0.8,
+      0.95
+    ],
+    "color": "0F766E",
+    "premium": true,
+    "hi_tries": 1
+  },
+  {
+    "v": 3,
+    "cat": "Markets",
+    "tk": "MARKETS",
+    "title": "Foreign investors pour billions into Indian equities and bonds",
+    "summary": "Foreign portfolio investors turned buyers in November, purchasing massive amounts of Indian shares and government bonds within the first nine days alone. This strong return halts a ten-month stretch of continuous equity withdrawals from the domestic market, signaling renewed confidence among overseas participants in the local financial ecosystem.",
+    "source": "Business Standard",
+    "published": "2026-11-10T17:29:29+00:00",
+    "ago": "8h",
+    "impact": "Positive",
+    "why": "Inflow of funds ends equity withdrawal streak.",
+    "url": "https://www.business-standard.com/markets/news/the-turn-of-the-tide-foreign-investors-return-signalling-longer-india-bet-126111000761_1.html",
+    "chips": {
+      "Equity purchases": "₹53,172 crore",
+      "Bond purchases": "₹7,480 crore"
+    },
+    "trend": [
+      0.1,
+      0.25,
+      0.2,
+      0.5,
+      0.45,
+      0.8,
+      0.95
+    ],
+    "color": "0F766E",
+    "premium": false,
+    "title_hi": "विदेशी निवेशकों ने भारतीय शेयरों और बॉन्ड में खरीदे भारी दांव",
+    "summary_hi": "विदेशी पोर्टफोलियो निवेशकों ने नवंबर के पहले नौ दिनों के भीतर भारतीय शेयरों और सरकारी बॉन्ड में भारी निवेश किया है। इस मजबूत वापसी ने घरेलू बाजार से लगातार दस महीनों तक शेयरों की निकासी के सिलसिले को रोक दिया है, जो विदेशी निवेशकों के बीच स्थानीय वित्तीय प्रणाली में नए सिरे से बढ़ते भरोसे का संकेत देता है।",
+    "why_hi": "फंड आने से शेयरों की निकासी थमी।",
+    "chips_hi": {
+      "इक्विटी खरीद": "₹53,172 करोड़",
+      "बॉन्ड खरीद": "₹7,480 करोड़"
+    }
+  },
+  {
+    "v": 3,
     "cat": "Companies",
     "tk": "YATHARTH",
     "title": "Why is Advent investing ₹3,150 crore in Yatharth Hospitals?",
@@ -34,7 +220,9 @@
       "निवेश": "₹3,150 करोड़",
       "हिस्सेदारी": "24.9 प्रतिशत",
       "बेड क्षमता": "5,000 बेड"
-    }
+    },
+    "hi_tries": 0,
+    "hi_ver": 2
   },
   {
     "v": 3,
@@ -63,7 +251,9 @@
     "title_hi": "दिल्ली के आखिरी 48 गांव शहरी बने, खुलेगा नया रियल एस्टेट बाजार",
     "summary_hi": "दिल्ली ने अपने बाकी बचे 48 ग्रामीण गांवों को शहरी बनाने का फैसला किया है। इस कदम से गुरुग्राम के पास नए प्रॉपर्टी बाजार बन सकते हैं। हालांकि, विशेषज्ञों का कहना है कि इसके लिए ज़ोनिंग, भूमि समूहन, बुनियादी ढांचे और मंजूरियां अहम होंगी।",
     "why_hi": "नए प्रॉपर्टी बाजार बन सकते हैं।",
-    "chips_hi": {}
+    "chips_hi": {},
+    "hi_tries": 0,
+    "hi_ver": 2
   },
   {
     "v": 3,
@@ -92,7 +282,9 @@
     "title_hi": "ओडिशा ने इंफ्रास्ट्रक्चर प्रोजेक्ट्स को तेजी से पूरा करने के लिए बनाई कमेटी",
     "summary_hi": "ओडिशा सरकार ने मुख्यमंत्री के नेतृत्व में एक नई समिति का गठन किया है, जिसका उद्देश्य बुनियादी ढांचा परियोजनाओं के काम में तेजी लाना है। यह पैनल महत्वपूर्ण प्रोजेक्ट्स की समीक्षा करने, विभागों के बीच आने वाली अड़चनों को दूर करने और पूंजीगत व्यय उपयोग में सुधार के लिए हर महीने बैठक करेगा।",
     "why_hi": "समिति का लक्ष्य प्रोजेक्ट्स को तेजी से पूरा करना है।",
-    "chips_hi": {}
+    "chips_hi": {},
+    "hi_tries": 0,
+    "hi_ver": 2
   },
   {
     "v": 3,
@@ -121,14 +313,15 @@
     ],
     "color": "B7791F",
     "premium": true,
-    "hi_tries": 1,
+    "hi_tries": 0,
     "title_hi": "मार्केट में गिरावट के बावजूद म्यूचुअल फंड डिस्ट्रीब्यूटरों की कमाई में क्यों आई तेजी?",
     "summary_hi": "वित्त वर्ष FY26 के दौरान बड़े म्यूचुअल फंड डिस्ट्रीब्यूटरों के कमीशन में 12% की बढ़ोतरी दर्ज की गई है। बाजार में सुस्ती के माहौल के बावजूद यह इजाफा देखने को मिला है। हालांकि, पिछले कुछ सालों की तुलना में यह रफ्तार थोड़ी धीमी रही है।",
     "why_hi": "कमजोरी के बावजूद डिस्ट्रीब्यूटरों की कमाई बढ़ना यह दिखाता है कि म्यूचुअल फंड में",
     "chips_hi": {
       "कमीशन ग्रोथ": "12%",
       "अवधि": "FY26"
-    }
+    },
+    "hi_ver": 2
   },
   {
     "v": 3,
@@ -158,7 +351,8 @@
     ],
     "color": "0F766E",
     "premium": false,
-    "hi_tries": 1
+    "hi_tries": 1,
+    "hi_ver": 2
   },
   {
     "v": 3,
@@ -191,7 +385,9 @@
     "why_hi": "विस्तार योजनाएं और मजबूत राजस्व उम्मीदें।",
     "chips_hi": {
       "राजस्व लक्ष्य": "₹2,000 करोड़"
-    }
+    },
+    "hi_tries": 0,
+    "hi_ver": 2
   },
   {
     "v": 3,
@@ -220,7 +416,9 @@
     "title_hi": "बिखरे हुए प्लेटफॉर्म रिकॉर्ड्स से गिग वर्कर्स की सोशल सिक्योरिटी क्यों मुश्किल हुई",
     "summary_hi": "भारत के नए सोशल सुरक्षा बोर्ड को कई प्लेटफॉर्म्स पर गिग वर्कर्स को ट्रैक करने में चुनौतियों का सामना करना पड़ रहा है। केंद्रीय और राज्य के ओवरलैपिंग नियमों के कारण योगदान की गणना करना और पोर्टेबल लाभ सुनिश्चित करना कठिन हो गया है।",
     "why_hi": "ट्रैकिंग की चुनौतियां नीति क्रियान्वयन में बाधा दिखाती हैं।",
-    "chips_hi": {}
+    "chips_hi": {},
+    "hi_tries": 0,
+    "hi_ver": 2
   },
   {
     "v": 3,
@@ -253,7 +451,9 @@
     "why_hi": "एंटरप्राइज क्लाइंट्स के लिए AI क्षमताएं बढ़ाईं।",
     "chips_hi": {
       "प्रोफेशनल्स": "25,000"
-    }
+    },
+    "hi_tries": 0,
+    "hi_ver": 2
   },
   {
     "v": 3,
@@ -465,7 +665,7 @@
     ],
     "color": "9B2C2C",
     "premium": false,
-    "hi_tries": 1,
+    "hi_tries": 2,
     "hi_ver": 2
   },
   {
@@ -596,198 +796,6 @@
     "title_hi": "क्या Air India पूर्व Garuda कार्यकारी कुंदुवारा को बनाएगी CFO?",
     "summary_hi": "Air India द्वारा Garuda Indonesia के पूर्व वित्त प्रमुख कुंदुवारा को मुख्य वित्तीय अधिकारी पद के लिए विचाराधीन बताया जा रहा है। पिछले वित्त वर्ष में रिकॉर्ड घाटा दर्ज करने के बाद एयरलाइन अपनी वित्तीय स्थिति को सुधारने का प्रयास कर रही है।",
     "why_hi": "रिकॉर्ड घाटे के बाद वित्तीय स्थिति सुधारना।",
-    "chips_hi": {},
-    "hi_tries": 0,
-    "hi_ver": 2
-  },
-  {
-    "v": 3,
-    "cat": "Markets",
-    "tk": "MARKETS",
-    "title": "Why did Asian stocks rise as oil prices slipped?",
-    "summary": "Asian markets moved higher after Brent crude dropped 1 percent to $91.56 a barrel. The decline followed a signal from Trump to pause further military strikes against Iran. This development helped ease inflation worries among investors as they awaited upcoming United States price data.",
-    "source": "Business Standard / Reuters",
-    "published": "2026-11-10T03:41:31+00:00",
-    "ago": "2h",
-    "impact": "Positive",
-    "why": "Falling oil prices and easing inflation concerns.",
-    "url": "https://www.business-standard.com/markets/news/asian-stocks-rise-amid-falling-oil-prices-on-hopes-of-us-iran-talks-126111000080_1.html",
-    "chips": {
-      "Brent crude": "$91.56 a barrel"
-    },
-    "trend": [
-      0.1,
-      0.25,
-      0.2,
-      0.5,
-      0.45,
-      0.8,
-      0.95
-    ],
-    "color": "0F766E",
-    "premium": false,
-    "title_hi": "घटते तेल दामों और US-Iran चर्चा की उम्मीदों से क्यों बढ़े Asian बाजार?",
-    "summary_hi": "ब्रेंट क्रूड के 1 प्रतिशत गिरकर 91.56 डॉलर प्रति बैरल पर आने से एशियाई बाजारों में तेजी आई। ट्रंप द्वारा ईरान पर आगे के सैन्य हमलों को रोकने के संकेत से यह गिरावट आई। अमेरिका के मुख्य मूल्य आंकड़ों से पहले इससे महंगाई की चिंताएं कम हुईं।",
-    "why_hi": "घटते तेल दाम और कम होती महंगाई की चिंता।",
-    "chips_hi": {
-      "ब्रेंट क्रूड": "$91.56 प्रति बैरल"
-    },
-    "hi_tries": 0,
-    "hi_ver": 2
-  },
-  {
-    "v": 3,
-    "cat": "Companies",
-    "tk": "IIFL FINANCE",
-    "title": "Blackstone prepares to acquire a 15 percent stake in IIFL Finance",
-    "summary": "Private equity firm Blackstone is set to become a major investor in IIFL Finance by acquiring a 15 percent stake. At the same time, company promoters Nirmal Jain and R Venkataraman will also invest capital alongside Blackstone in this upcoming financial deal.",
-    "source": "Business Standard",
-    "published": "2026-11-10T03:03:11+00:00",
-    "ago": "3h",
-    "impact": "Positive",
-    "why": "Major investment boosts company financial backing.",
-    "url": "https://www.business-standard.com/companies/news/blackstone-set-to-become-key-investor-in-iifl-finance-with-15-stake-126111000088_1.html",
-    "chips": {
-      "Blackstone investmen": "₹5,000 crore",
-      "Promoter investment": "₹1,200 crore"
-    },
-    "trend": [
-      0.1,
-      0.25,
-      0.2,
-      0.5,
-      0.45,
-      0.8,
-      0.95
-    ],
-    "color": "0F766E",
-    "premium": false,
-    "title_hi": "Blackstone बनेगी IIFL Finance में 15 प्रतिशत हिस्सेदारी के साथ अहम निवेशक",
-    "summary_hi": "प्राइवेट इक्विटी फर्म Blackstone IIFL Finance में 15 प्रतिशत हिस्सेदारी हासिल करके एक प्रमुख निवेशक बनने जा रही है। इस प्रस्तावित निवेश के साथ ही कंपनी के प्रमोटर्स निर्मल जैन और आर वेंकटरमण भी पूंजी लगाएंगे।",
-    "why_hi": "बड़ा निवेश मिलने से वित्तीय स्थिति मजबूत होगी।",
-    "chips_hi": {
-      "Blackstone निवेश": "₹5,000 करोड़",
-      "प्रमोटर निवेश": "₹1,200 करोड़"
-    },
-    "hi_tries": 0,
-    "hi_ver": 2
-  },
-  {
-    "v": 3,
-    "cat": "Markets",
-    "tk": "MARKETS",
-    "title": "Why are the NSE and BSE closed today?",
-    "summary": "Stock markets are closed today, Tuesday, November 10, for the Diwali-Balipratipada holiday. Trading on both the National Stock Exchange and the Bombay Stock Exchange remains suspended for the day. Normal trading operations will resume after this holiday break.",
-    "source": "Business Standard",
-    "published": "2026-11-10T02:17:22+00:00",
-    "ago": "4h",
-    "impact": "Neutral",
-    "why": "Routine market closure for holiday.",
-    "url": "https://www.business-standard.com/markets/news/stock-market-holiday-today-nse-bse-to-remain-closed-for-diwali-balipratipada-126111000071_1.html",
-    "chips": {},
-    "trend": [
-      0.5,
-      0.55,
-      0.45,
-      0.5,
-      0.47,
-      0.52,
-      0.5
-    ],
-    "color": "B7791F",
-    "premium": false,
-    "hi_tries": 2,
-    "hi_ver": 2
-  },
-  {
-    "v": 3,
-    "cat": "Companies",
-    "tk": "NVIDIA",
-    "title": "Will Nvidia board probe into Jensen Huang test leadership?",
-    "summary": "Nvidia faces a corporate governance test as the board investigates Jensen Huang over an affair. This situation raises important questions regarding leadership, future succession plans, and the overall direction of the chipmaking company during a critical time for its operations.",
-    "source": "Business Standard",
-    "published": "2026-11-09T18:16:52+00:00",
-    "ago": "8h",
-    "impact": "Neutral",
-    "why": "Governance questions create uncertainty without financial im",
-    "url": "https://www.business-standard.com/companies/news/huang-s-grip-on-nvidia-may-pose-challenge-to-board-s-probe-into-his-affair-126110901614_1.html",
-    "chips": {},
-    "trend": [
-      0.5,
-      0.55,
-      0.45,
-      0.5,
-      0.47,
-      0.52,
-      0.5
-    ],
-    "color": "B7791F",
-    "premium": false,
-    "title_hi": "क्या Jensen Huang की जांच से Nvidia का नेतृत्व परखेगा?",
-    "summary_hi": "Nvidia के बोर्ड को कॉर्पोरेट गवर्नेंस की एक बड़ी परीक्षा का सामना करना पड़ रहा है, क्योंकि Jensen Huang से जुड़े मामले की जांच शुरू हो गई है। इस जांच से चिप बनाने वाली कंपनी के नेतृत्व, भविष्य की उत्तराधिकार योजनाओं और दिशा को लेकर कई सवाल खड़े हो गए हैं।",
-    "why_hi": "नेतृत्व की जांच से अनिश्चितता पैदा होती है।",
-    "chips_hi": {},
-    "hi_tries": 0,
-    "hi_ver": 2
-  },
-  {
-    "v": 3,
-    "cat": "Markets",
-    "tk": "MARKETS",
-    "title": "How debt pushed Indian companies to a seven-year overseas fundraising high",
-    "summary": "Indian companies have raised foreign funds at a seven-year high rate. Debt issuances and steps taken by the Reserve Bank of India to lower foreign borrowing costs have caused this significant surge in overseas fundraising activities.",
-    "source": "Business Standard",
-    "published": "2026-11-09T18:09:18+00:00",
-    "ago": "8h",
-    "impact": "Positive",
-    "why": "Debt issuances and RBI easing borrowing costs.",
-    "url": "https://www.business-standard.com/markets/news/debt-drives-overseas-fundraising-by-indian-companies-to-7-year-high-126110901601_1.html",
-    "chips": {},
-    "trend": [
-      0.1,
-      0.25,
-      0.2,
-      0.5,
-      0.45,
-      0.8,
-      0.95
-    ],
-    "color": "0F766E",
-    "premium": true,
-    "title_hi": "क्यों विदेशी फंड जुटाने के मामले में 7 साल के उच्चतम स्तर पर पहुंचीं भारतीय कंपनियां?",
-    "summary_hi": "भारतीय कंपनियों द्वारा विदेशी फंड जुटाने का काम सात साल के सबसे ऊंचे स्तर पर पहुंच गया है। कर्ज जारी करने और विदेशी कर्ज की लागत को कम करने के लिए आरबीआई के उपायों के कारण इस विदेशी फंड जुटाने में भारी उछाल आया है।",
-    "why_hi": "कर्ज जारी करने और आरबीआई द्वारा लागत घटाने से।",
-    "chips_hi": {},
-    "hi_tries": 0,
-    "hi_ver": 2
-  },
-  {
-    "v": 3,
-    "cat": "Companies",
-    "tk": "INDIQUBE",
-    "title": "Why is IndiQube testing data centres inside office spaces?",
-    "summary": "Flexible workspace provider IndiQube is exploring the integration of small-scale enterprise data centres within its current office properties. This new initiative is designed to broaden the company's portfolio of managed workspace offerings, responding directly to evolving client demand in the market.",
-    "source": "Business Standard",
-    "published": "2026-11-09T18:04:29+00:00",
-    "ago": "8h",
-    "impact": "Positive",
-    "why": "Expands workspace offerings to meet client demand.",
-    "url": "https://www.business-standard.com/companies/news/indiqube-plans-to-pilot-data-centres-in-office-spaces-amid-client-demand-126110901014_1.html",
-    "chips": {},
-    "trend": [
-      0.1,
-      0.25,
-      0.2,
-      0.5,
-      0.45,
-      0.8,
-      0.95
-    ],
-    "color": "0F766E",
-    "premium": true,
-    "title_hi": "IndiQube ऑफिस स्पेस में क्यों शुरू कर रहा है डेटा सेंटर?",
-    "summary_hi": "फ्लेक्सिबल वर्कस्पेस प्रोवाइडर IndiQube अपनी मौजूदा ऑफिस इमारतों के भीतर छोटे पैमाने पर एंटरप्राइज डेटा सेंटर स्थापित करने की संभावना तलाश रहा है। इस नई पहल का उद्देश्य क्लाइंट की मांग के बीच अपने मैनेज्ड वर्कस्पेस विकल्पों के पोर्टफोलियो का विस्तार करना है।",
-    "why_hi": "क्लाइंट की मांग पर वर्कस्पेस विकल्पों का विस्तार।",
     "chips_hi": {},
     "hi_tries": 0,
     "hi_ver": 2
