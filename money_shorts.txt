@@ -1,6 +1,276 @@
 [
   {
     "v": 3,
+    "cat": "Companies",
+    "tk": "VALUEQUEST",
+    "title": "ValueQuest Pours Rs 775 Crore Into Three Manufacturing And Defence Firms",
+    "summary": "ValueQuest has invested Rs 775 crore across three Indian manufacturing and defence companies. The funding targets Sagar Defence Engineering, Rational Engineers, and TASE Global. These firms operate in sectors including autonomous defence systems, power infrastructure, and precision engineering.",
+    "source": "Business Standard",
+    "published": "2026-11-11T10:11:41+00:00",
+    "ago": "11m",
+    "impact": "Positive",
+    "why": "Major investment supports manufacturing and defence growth.",
+    "url": "https://www.business-standard.com/companies/news/valuequest-investment-sagar-defence-rational-engineers-tase-global-126111100837_1.html",
+    "chips": {
+      "Investment amount": "Rs 775 crore"
+    },
+    "trend": [
+      0.1,
+      0.25,
+      0.2,
+      0.5,
+      0.45,
+      0.8,
+      0.95
+    ],
+    "color": "0F766E",
+    "premium": false,
+    "title_hi": "ValueQuest ने 3 भारतीय मैन्युफैक्चरिंग और डिफेंस कंपनियों में लगाए ₹775 करोड़",
+    "summary_hi": "ValueQuest ने भारत की तीन मैन्युफैक्चरिंग और डिफेंस कंपनियों में ₹775 करोड़ का निवेश किया है। यह फंडिंग Sagar Defence Engineering, Rational Engineers और TASE Global में की गई है। ये कंपनियां ऑटोनॉमस डिफेंस सिस्टम, पावर इंफ्रास्ट्रक्चर और प्रेसिजन इंजीनियरिंग के क्षेत्रों में काम करती हैं।",
+    "why_hi": "बड़ा निवेश विनिर्माण और रक्षा क्षेत्र को बढ़ाएगा।",
+    "chips_hi": {
+      "निवेश राशि": "₹775 करोड़"
+    }
+  },
+  {
+    "v": 3,
+    "cat": "Companies",
+    "tk": "TIDE",
+    "title": "How is Tide planning to invest ₹3,100 crore in India?",
+    "summary": "UK-based business financial platform Tide plans to invest approximately Rs 3,100 crore in India over the next four years. The funds will scale up operations and technology centers supporting global businesses. The company currently employs about 800 people at its Hyderabad centre, which drives core operations, engineering, and product innovation for the firm.",
+    "source": "Business Standard / Press Trust of India",
+    "published": "2026-11-11T09:56:16+00:00",
+    "ago": "27m",
+    "impact": "Positive",
+    "why": "Significant funding for technology and expansion.",
+    "url": "https://www.business-standard.com/companies/news/uk-based-tide-plans-to-invest-3-100-crore-in-india-in-next-four-years-126111100746_1.html",
+    "chips": {
+      "Investment": "Rs 3,100 crore",
+      "Workforce": "800 people"
+    },
+    "trend": [
+      0.1,
+      0.25,
+      0.2,
+      0.5,
+      0.45,
+      0.8,
+      0.95
+    ],
+    "color": "0F766E",
+    "premium": false,
+    "title_hi": "Tide भारत में अगले चार वर्षों में कैसे करेगी ₹3,100 करोड़ का निवेश?",
+    "summary_hi": "ब्रिटेन की वित्तीय कंपनी Tide भारत में वैश्विक कारोबार को समर्थन देने के लिए अपनी तकनीक और संचालन केंद्रों को बढ़ाने हेतु ₹3,100 करोड़ का निवेश करेगी। हैदराबाद में कंपनी के केंद्र में लगभग 800 कर्मचारी काम करते हैं जो मुख्य संचालन और उत्पाद नवाचार को संभालते हैं।",
+    "why_hi": "तकनीक और विस्तार के लिए बड़ा निवेश।",
+    "chips_hi": {
+      "निवेश": "₹3,100 करोड़",
+      "कर्मचारी": "800"
+    }
+  },
+  {
+    "v": 3,
+    "cat": "Finance",
+    "tk": "FINANCE",
+    "title": "How reviewing seven overlooked credit card settings can reduce fraud risk",
+    "summary": "Protecting your finances from potential fraud involves checking seven specific settings on your credit card. Ignoring these overlooked choices can leave your account vulnerable when fraudsters strike. Reviewing these options helps ensure better security and control over your transactions, reducing the chances of unauthorized activity occurring on your card.",
+    "source": "Business Standard",
+    "published": "2026-11-11T09:55:37+00:00",
+    "ago": "28m",
+    "impact": "Neutral",
+    "why": "Enhances personal financial security against fraud risks",
+    "url": "https://www.business-standard.com/finance/personal-finance/credit-card-safety-7-settings-you-should-review-to-reduce-fraud-risk-126111100797_1.html",
+    "chips": {},
+    "trend": [
+      0.5,
+      0.55,
+      0.45,
+      0.5,
+      0.47,
+      0.52,
+      0.5
+    ],
+    "color": "B7791F",
+    "premium": false,
+    "title_hi": "सात जरूरी क्रेडिट कार्ड सेटिंग बदलकर फ्रॉड के खतरे को कैसे कम करें",
+    "summary_hi": "अपने क्रेडिट कार्ड की सात चुनिंदा सेटिंग्स की समीक्षा करके वित्तीय सुरक्षा को बेहतर बनाया जा सकता है। इन अनसुनी सेटिंग्स को नजरअंदाज करने से अकाउंट पर फ्रॉड का खतरा बढ़ सकता है। इन विकल्पों की जांच करने से आपको अपने ट्रांजैक्शन पर बेहतर नियंत्रण मिलता है और अनधिकृत गतिविधियों की संभावना घट जाती है।",
+    "why_hi": "फ्रॉड के खतरे से व्यक्तिगत सुरक्षा बढ़ती है",
+    "chips_hi": {}
+  },
+  {
+    "v": 3,
+    "cat": "Industry",
+    "tk": "INDUSTRY",
+    "title": "Government raises eligible officers electronic device price limit to Rs 1.8 lakh",
+    "summary": "The central government has increased the price ceiling for laptops, tablets, and similar devices to Rs 1.8 lakh plus taxes for eligible officers of Section Officer rank and above. Officials can keep the devices for personal use after four years. These revised guidelines replace the previous rules from July 2023, while excluding mobile devices.",
+    "source": "Business Standard / Press Trust of India",
+    "published": "2026-11-11T09:54:18+00:00",
+    "ago": "29m",
+    "impact": "Neutral",
+    "why": "Routine update of administrative purchase guidelines.",
+    "url": "https://www.business-standard.com/industry/news/govt-raises-price-cap-for-officers-electronic-devices-to-1-8-lakh-126111100734_1.html",
+    "chips": {
+      "Price cap": "Rs 1.8 lakh"
+    },
+    "trend": [
+      0.5,
+      0.55,
+      0.45,
+      0.5,
+      0.47,
+      0.52,
+      0.5
+    ],
+    "color": "B7791F",
+    "premium": false,
+    "title_hi": "सरकार ने अधिकारियों के इलेक्ट्रॉनिक उपकरणों की मूल्य सीमा बढ़ाई",
+    "summary_hi": "केंद्र सरकार ने योग्य अधिकारियों के लिए लैपटॉप और टैबलेट जैसे उपकरणों की मूल्य सीमा को बढ़ाकर टैक्स सहित 1.8 लाख रुपये कर दिया है। सेक्शन ऑफिसर रैंक और उससे ऊपर के अधिकारी इन गैजेट्स को चार साल बाद अपने पास रख सकते हैं। नए दिशानिर्देशों ने जुलाई 2023 के नियमों की जगह ली है।",
+    "why_hi": "प्रशासनिक खरीद दिशानिर्देशों में सामान्य बदलाव।",
+    "chips_hi": {
+      "मूल्य सीमा": "₹1.8 लाख"
+    }
+  },
+  {
+    "v": 3,
+    "cat": "Companies",
+    "tk": "QUALCOMM",
+    "title": "Qualcomm cuts jobs in India as part of global restructuring",
+    "summary": "Qualcomm has started reducing its workforce in India, beginning with the Bengaluru facility. This move is part of a larger global restructuring plan. Around 1,000 jobs are potentially at risk due to these ongoing workforce reductions across the company.",
+    "source": "Business Standard",
+    "published": "2026-11-11T09:37:15+00:00",
+    "ago": "47m",
+    "impact": "Negative",
+    "why": "Job cuts signal restructuring and operational challenges.",
+    "url": "https://www.business-standard.com/companies/news/qualcomm-starts-india-layoffs-around-1-000-jobs-potentially-at-risk-126111100761_1.html",
+    "chips": {
+      "Jobs at risk": "1,000"
+    },
+    "trend": [
+      0.95,
+      0.85,
+      0.7,
+      0.6,
+      0.4,
+      0.3,
+      0.1
+    ],
+    "color": "9B2C2C",
+    "premium": false,
+    "title_hi": "Qualcomm ने भारत में शुरू की छंटनी, 1,000 नौकरियां खतरे में",
+    "summary_hi": "Qualcomm ने ग्लोबल रीस्ट्रक्चरिंग के तहत भारत में कर्मचारियों की संख्या कम करना शुरू कर दिया है। इसकी शुरुआत बेंगलुरु फैसिलिटी से हुई है। इस वैश्विक बदलाव के कारण देश भर में लगभग 1,000 नौकरियां खतरे में पड़ सकती हैं।",
+    "why_hi": "छंटनी से कंपनी के रीस्ट्रक्चरिंग संकेत मिलते हैं।",
+    "chips_hi": {
+      "नौकरियां खतरे में": "1,000"
+    }
+  },
+  {
+    "v": 3,
+    "cat": "Earnings",
+    "tk": "RENTOMOJO",
+    "title": "Rentomojo shares hit 52-week high despite profit dropping 63 percent",
+    "summary": "Rentomojo shares climbed 10 percent to reach a 52-week high. This movement occurred even as the company announced a 63 percent year-on-year drop in its consolidated net profit for the September quarter. The firm made its debut on Dalal Street in September of this year.",
+    "source": "Business Standard",
+    "published": "2026-11-11T09:22:26+00:00",
+    "ago": "1h",
+    "impact": "Neutral",
+    "why": "Profit drop contrasted with share price rise.",
+    "url": "https://www.business-standard.com/markets/news/rentomojo-climbs-10-to-52-wk-high-what-s-behind-gains-as-q2-pat-dips-63-126111100703_1.html",
+    "chips": {
+      "Share price jump": "10%",
+      "Net profit": "₹18.1 crore",
+      "Profit decline": "63%"
+    },
+    "trend": [
+      0.5,
+      0.55,
+      0.45,
+      0.5,
+      0.47,
+      0.52,
+      0.5
+    ],
+    "color": "B7791F",
+    "premium": false,
+    "title_hi": "प्रॉफिट में भारी गिरावट के बावजूद Rentomojo के शेयर क्यों चढ़े?",
+    "summary_hi": "Rentomojo के शेयरों में 10 प्रतिशत की तेजी आई और यह 52 हफ्ते के उच्चतम स्तर पर पहुंच गया। हालांकि कंपनी ने सितंबर तिमाही के लिए अपने समेकित शुद्ध लाभ में 63 प्रतिशत की वार्षिक गिरावट दर्ज की है। इस कंपनी ने इसी साल सितंबर में शेयर बाजार में शुरुआत की थी।",
+    "why_hi": "प्रॉफिट गिरने पर भी शेयर चढ़े।",
+    "chips_hi": {
+      "शेयर तेजी": "10%",
+      "शुद्ध लाभ": "₹18.1 करोड़",
+      "लाभ में गिरावट": "63%"
+    }
+  },
+  {
+    "v": 3,
+    "cat": "Markets",
+    "tk": "MARKETS",
+    "title": "Why did equity mutual fund investments fall 14% in October?",
+    "summary": "Equity mutual fund investments dropped nearly 14 percent to Rs 32,994 crore in October, down from September. The industry body Amfi reported this decline was due to market correction. Despite the drop, it marks the 60th consecutive month of net inflows into the equity category, while total assets under management reached Rs 37.14 lakh crore.",
+    "source": "Business Standard / Press Trust of India",
+    "published": "2026-11-11T08:56:59+00:00",
+    "ago": "1h",
+    "impact": "Neutral",
+    "why": "Inflows fell due to market volatility.",
+    "url": "https://www.business-standard.com/markets/mutual-fund/equity-mf-investments-drop-14-to-33-000-crore-on-market-volatility-126111100637_1.html",
+    "chips": {
+      "October equity inves": "Rs 32,994 crore",
+      "September equity inv": "Rs 38,306 crore",
+      "Total equity AUM": "Rs 37.14 lakh crore"
+    },
+    "trend": [
+      0.5,
+      0.55,
+      0.45,
+      0.5,
+      0.47,
+      0.52,
+      0.5
+    ],
+    "color": "B7791F",
+    "premium": false,
+    "title_hi": "अक्टूबर में इक्विटी म्यूचुअल फंड निवेश 14% क्यों गिर गया?",
+    "summary_hi": "Amfi के अनुसार, अक्टूबर में इक्विटी म्यूचुअल फंड का निवेश लगभग 14 प्रतिशत घटकर 32,994 करोड़ रुपये रह गया, जो सितंबर में 38,306 करोड़ रुपये था। बाजार में सुधार के कारण यह गिरावट आई है। इसके बावजूद, इक्विटी श्रेणी में लगातार 60वें महीने शुद्ध निवेश आया है, और कुल एसेट अंडर मैनेजमेंट 37.14 लाख करोड़ रुपये पर पहुंच गया।",
+    "why_hi": "बाजार में उतार-चढ़ाव से निवेश घटा।",
+    "chips_hi": {
+      "अक्टूबर इक्विटी निवे": "₹32,994 करोड़",
+      "सितंबर इक्विटी निवेश": "₹38,306 करोड़",
+      "कुल इक्विटी AUM": "₹37.14 लाख करोड़"
+    }
+  },
+  {
+    "v": 3,
+    "cat": "Industry",
+    "tk": "MOTHER DAIRY",
+    "title": "Mother Dairy raises milk prices by ₹2 to ₹4 per litre",
+    "summary": "Mother Dairy has increased milk prices by ₹2 to ₹4 per litre, following similar hikes by Nandini and Amul. This upward revision in retail prices is driven by rising costs associated with milk procurement, animal feed, fodder, transportation, and packaging materials.",
+    "source": "Business Standard",
+    "published": "2026-11-11T08:48:45+00:00",
+    "ago": "1h",
+    "impact": "Negative",
+    "why": "Higher operational and procurement costs drive hikes.",
+    "url": "https://www.business-standard.com/industry/news/after-nandini-mother-dairy-hikes-milk-rates-why-are-dairy-prices-rising-126111100682_1.html",
+    "chips": {
+      "Price hike": "₹2-4 per litre"
+    },
+    "trend": [
+      0.95,
+      0.85,
+      0.7,
+      0.6,
+      0.4,
+      0.3,
+      0.1
+    ],
+    "color": "9B2C2C",
+    "premium": false,
+    "title_hi": "Mother Dairy ने दूध के दाम ₹2 से ₹4 प्रति लीटर बढ़ाए",
+    "summary_hi": "Nandini और Amul के बाद Mother Dairy ने भी दूध की कीमतों में ₹2 से ₹4 प्रति लीटर की बढ़ोतरी कर दी है। दूध की खरीद, पशु आहार, चारे, ट्रांसपोर्ट और पैकेजिंग की लागत बढ़ने के कारण यह दाम बढ़ाए गए हैं।",
+    "why_hi": "बढ़ी हुई लागत के कारण दाम महंगे हुए।",
+    "chips_hi": {
+      "दाम वृद्धि": "₹2-4 प्रति लीटर"
+    }
+  },
+  {
+    "v": 3,
     "cat": "Markets",
     "tk": "RVNL",
     "title": "Why did railway stocks like RVNL and RailTel jump up to 7%?",
@@ -30,7 +300,9 @@
     "why_hi": "लंबे समय के सुस्त प्रदर्शन के बाद सकारात्मक निवेशकों का रुख।",
     "chips_hi": {
       "शेयर तेजी": "7% तक"
-    }
+    },
+    "hi_tries": 0,
+    "hi_ver": 2
   },
   {
     "v": 3,
@@ -56,7 +328,8 @@
     ],
     "color": "0F766E",
     "premium": false,
-    "hi_tries": 1
+    "hi_tries": 1,
+    "hi_ver": 2
   },
   {
     "v": 3,
@@ -86,7 +359,7 @@
     ],
     "color": "0F766E",
     "premium": false,
-    "hi_tries": 1,
+    "hi_tries": 0,
     "title_hi": "Bright Outdoor Media का BSE और NSE पर बड़ा कदम",
     "summary_hi": "Bright Outdoor Media के शेयर अब BSE और NSE के मेन बोर्ड पर ट्रेड होंगे। SME प्लेटफॉर्म से इस शिफ्ट के बाद कंपनी अपने विज्ञापन नेटवर्क को बढ़ाने, डिजिटल होर्डिंग्स पोर्टफोलियो को मजबूत करने और नए सरकारी प्रोजेक्ट्स हासिल करने की तैयारी में है।",
     "why_hi": "मेन बोर्ड पर आने से कंपनी के विस्तार योजनाओं को बढ़ावा मिलेगा।",
@@ -94,7 +367,8 @@
       "स्थापना": "1980",
       "होर्डिंग्स": "1,350+",
       "डिजिटल LEDs": "50+"
-    }
+    },
+    "hi_ver": 2
   },
   {
     "v": 3,
@@ -129,7 +403,9 @@
     "chips_hi": {
       "होटल छूट": "65%",
       "फ्लाइट छूट": "30%"
-    }
+    },
+    "hi_tries": 0,
+    "hi_ver": 2
   },
   {
     "v": 3,
@@ -162,7 +438,9 @@
     "why_hi": "बढ़ी हुई ट्रेडिंग और नया उच्च स्तर।",
     "chips_hi": {
       "ट्रेडिंग वॉल्यूम": "17.37 million shares"
-    }
+    },
+    "hi_tries": 0,
+    "hi_ver": 2
   },
   {
     "v": 3,
@@ -199,7 +477,9 @@
       "शुद्ध लाभ में गिरावट": "49.9 प्रतिशत",
       "Q2 FY27 शुद्ध लाभ": "₹53.77 करोड़",
       "पिछले वर्ष का लाभ": "₹107.53 करोड़"
-    }
+    },
+    "hi_tries": 0,
+    "hi_ver": 2
   },
   {
     "v": 3,
@@ -364,7 +644,7 @@
     ],
     "color": "0F766E",
     "premium": true,
-    "hi_tries": 1,
+    "hi_tries": 2,
     "hi_ver": 2
   },
   {
@@ -540,282 +820,6 @@
       "कमीशन ग्रोथ": "12%",
       "अवधि": "FY26"
     },
-    "hi_ver": 2
-  },
-  {
-    "v": 3,
-    "cat": "Finance",
-    "tk": "FINANCE",
-    "title": "Why did UPI transaction volume jump 32 percent on Diwali?",
-    "summary": "Unified Payments Interface transaction volume saw a 32 per cent surge on Diwali, reaching 916.9 million compared to 695.7 million last year. Data from the National Payments Corporation of India shows transaction value also rose to Rs 90,029.43 crore, driven largely by festival shopping.",
-    "source": "Business Standard / Press Trust of India",
-    "published": "2026-11-10T13:24:46+00:00",
-    "ago": "1h",
-    "impact": "Positive",
-    "why": "Higher transaction volume indicates strong digital payments ",
-    "url": "https://www.business-standard.com/finance/news/upi-volume-jumps-32-on-diwali-driven-by-last-minute-festival-buying-126111000636_1.html",
-    "chips": {
-      "Volume surge": "32 per cent",
-      "Diwali volume": "916.9 million",
-      "Transaction value": "Rs 90,029.43 crore"
-    },
-    "trend": [
-      0.1,
-      0.25,
-      0.2,
-      0.5,
-      0.45,
-      0.8,
-      0.95
-    ],
-    "color": "0F766E",
-    "premium": false,
-    "hi_tries": 2,
-    "hi_ver": 2
-  },
-  {
-    "v": 3,
-    "cat": "Companies",
-    "tk": "MYTVS",
-    "title": "myTVS targets West Asia entry by April 2027 with global plans",
-    "summary": "Automotive aftermarket chain myTVS plans to enter West Asia by April 2027 through a partnership with UAE-based Crescent Enterprises. The company also anticipates its revenue to exceed two thousand crore rupees in the current financial year as part of its wider international expansion strategy in the sector.",
-    "source": "Business Standard",
-    "published": "2026-11-10T13:09:49+00:00",
-    "ago": "1h",
-    "impact": "Positive",
-    "why": "Expansion plans and strong revenue expectations.",
-    "url": "https://www.business-standard.com/companies/news/mytvs-plans-west-asia-foray-by-april-2027-eyes-global-expansion-126111000721_1.html",
-    "chips": {
-      "Revenue target": "Rs 2,000 crore"
-    },
-    "trend": [
-      0.1,
-      0.25,
-      0.2,
-      0.5,
-      0.45,
-      0.8,
-      0.95
-    ],
-    "color": "0F766E",
-    "premium": true,
-    "title_hi": "myTVS अप्रैल 2027 तक West Asia में प्रवेश की कर रही तैयारी",
-    "summary_hi": "ऑटोमोटिव आफ्टरमार्केट चेन myTVS यूएई की Crescent Enterprises के साथ साझेदारी करके अप्रैल 2027 तक West Asia में प्रवेश करेगी। कंपनी को चालू वित्त वर्ष में अपनी आय दो हजार करोड़ रुपये से अधिक होने की उम्मीद है।",
-    "why_hi": "विस्तार योजनाएं और मजबूत राजस्व उम्मीदें।",
-    "chips_hi": {
-      "राजस्व लक्ष्य": "₹2,000 करोड़"
-    },
-    "hi_tries": 0,
-    "hi_ver": 2
-  },
-  {
-    "v": 3,
-    "cat": "Economy",
-    "tk": "ECONOMY",
-    "title": "How fragmented platform records complicate social security for gig workers",
-    "summary": "India's newly formed social security board faces hurdles in monitoring gig workers across multiple platforms. Calculating contributions and providing portable benefits have become difficult due to overlapping central and state policy frameworks. This situation creates administrative challenges in implementing effective welfare measures for these workers.",
-    "source": "Business Standard",
-    "published": "2026-11-10T13:09:36+00:00",
-    "ago": "1h",
-    "impact": "Neutral",
-    "why": "Tracking challenges highlight policy implementation hurdles.",
-    "url": "https://www.business-standard.com/economy/news/gig-workers-social-security-benefits-multiple-apps-national-board-labour-code-126111000722_1.html",
-    "chips": {},
-    "trend": [
-      0.5,
-      0.55,
-      0.45,
-      0.5,
-      0.47,
-      0.52,
-      0.5
-    ],
-    "color": "B7791F",
-    "premium": true,
-    "title_hi": "बिखरे हुए प्लेटफॉर्म रिकॉर्ड्स से गिग वर्कर्स की सोशल सिक्योरिटी क्यों मुश्किल हुई",
-    "summary_hi": "भारत के नए सोशल सुरक्षा बोर्ड को कई प्लेटफॉर्म्स पर गिग वर्कर्स को ट्रैक करने में चुनौतियों का सामना करना पड़ रहा है। केंद्रीय और राज्य के ओवरलैपिंग नियमों के कारण योगदान की गणना करना और पोर्टेबल लाभ सुनिश्चित करना कठिन हो गया है।",
-    "why_hi": "ट्रैकिंग की चुनौतियां नीति क्रियान्वयन में बाधा दिखाती हैं।",
-    "chips_hi": {},
-    "hi_tries": 0,
-    "hi_ver": 2
-  },
-  {
-    "v": 3,
-    "cat": "Companies",
-    "tk": "COGNIZANT",
-    "title": "Cognizant launches new group with over 25,000 professionals",
-    "summary": "Cognizant has created a new Claude Frontier group consisting of more than 25,000 professionals. Additionally, the IT services company rolled out a managed services model for Claude. This initiative is designed to assist enterprises in deploying, operating, and scaling artificial intelligence systems securely across their core business functions.",
-    "source": "Business Standard",
-    "published": "2026-11-10T13:03:33+00:00",
-    "ago": "1h",
-    "impact": "Positive",
-    "why": "Expands artificial intelligence capabilities for enterprise ",
-    "url": "https://www.business-standard.com/companies/news/cognizant-sets-up-claude-frontier-group-with-over-25-000-professionals-126111000713_1.html",
-    "chips": {
-      "Professionals": "25,000"
-    },
-    "trend": [
-      0.1,
-      0.25,
-      0.2,
-      0.5,
-      0.45,
-      0.8,
-      0.95
-    ],
-    "color": "0F766E",
-    "premium": false,
-    "title_hi": "Cognizant ने 25,000 से अधिक प्रोफेशनल्स के साथ बनाया नया ग्रुप",
-    "summary_hi": "IT सर्विसेज फर्म Cognizant ने Claude Frontier ग्रुप की स्थापना की है, जिसमें 25,000 से अधिक प्रोफेशनल्स शामिल हैं। कंपनी ने Claude के लिए एक मैनेज्ड सर्विसेज मॉडल भी पेश किया है, जिसका उद्देश्य उद्यमों को मुख्य व्यावसायिक कार्यों में सुरक्षित रूप से AI सिस्टम तैनात करने, संचालित करने और बढ़ाने में मदद करना है।",
-    "why_hi": "एंटरप्राइज क्लाइंट्स के लिए AI क्षमताएं बढ़ाईं।",
-    "chips_hi": {
-      "प्रोफेशनल्स": "25,000"
-    },
-    "hi_tries": 0,
-    "hi_ver": 2
-  },
-  {
-    "v": 3,
-    "cat": "Companies",
-    "tk": "AMAZON",
-    "title": "Amazon wants to bring AI agents to millions of Indian sellers",
-    "summary": "Global e-commerce giant Amazon plans to introduce artificial intelligence agents to assist two million Indian sellers. The company aims to expand its reach to a total of fifteen million businesses across the country. According to seller-services leaders, this festive growth is being largely driven by small-town businesses, women entrepreneurs, and local artisans.",
-    "source": "Business Standard",
-    "published": "2026-11-10T09:54:34+00:00",
-    "ago": "23m",
-    "impact": "Positive",
-    "why": "Expansion of seller base and technology adoption",
-    "url": "https://www.business-standard.com/companies/news/amazon-india-ai-agents-sellers-small-businesses-2030-126111000429_1.html",
-    "chips": {
-      "Sellers target": "2 million",
-      "Business target": "15 million"
-    },
-    "trend": [
-      0.1,
-      0.25,
-      0.2,
-      0.5,
-      0.45,
-      0.8,
-      0.95
-    ],
-    "color": "0F766E",
-    "premium": false,
-    "hi_tries": 1,
-    "hi_ver": 2,
-    "title_hi": "Amazon ला रहा है AI, भारतीय सेलर्स को मिलेगा फायदा",
-    "summary_hi": "Amazon भारत में अपने लाखों सेलर्स के लिए AI एजेंट्स लाने की तैयारी कर रहा है। कंपनी का लक्ष्य देश में कुल 15 मिलियन बिजनेस तक अपनी पहुंच बढ़ाना है। इस त्योहारी सीजन में छोटे शहरों के कारोबारियों, महिला उद्यमियों और स्थानीय कारीगरों से जबरदस्त ग्रोथ देखने को मिल रही है, जिससे इस तकनीक की मदद और बढ़ेगी।",
-    "why_hi": "सेलर्स का दायरा बढ़ाने और नई तकनीक अपनाने के लिए",
-    "chips_hi": {
-      "सेलर्स टारगेट": "2 मिलियन",
-      "बिजनेस टारगेट": "15 मिलियन"
-    }
-  },
-  {
-    "v": 3,
-    "cat": "Markets",
-    "tk": "MARKETS",
-    "title": "GIFT Nifty jumps 1 percent as crude tests 90 dollars",
-    "summary": "GIFT Nifty climbed by one percent. This movement follows crude oil prices testing 90 dollars per barrel. A drop in oil prices might also affect the outlook for interest rates as worries about inflation begin to ease.",
-    "source": "Business Standard",
-    "published": "2026-11-10T09:43:40+00:00",
-    "ago": "34m",
-    "impact": "Positive",
-    "why": "Crude oil decline eases inflation fears.",
-    "url": "https://www.business-standard.com/markets/news/bullish-signals-gift-nifty-jumps-1-as-crude-oil-prices-test-90-bbl-126111000417_1.html",
-    "chips": {
-      "GIFT Nifty jump": "1%",
-      "Crude oil": "$90/bbl"
-    },
-    "trend": [
-      0.1,
-      0.25,
-      0.2,
-      0.5,
-      0.45,
-      0.8,
-      0.95
-    ],
-    "color": "0F766E",
-    "premium": false,
-    "title_hi": "crude oil के $90 पर पहुंचने से GIFT Nifty 1 प्रतिशत चढ़ा",
-    "summary_hi": "GIFT Nifty में 1 प्रतिशत की तेजी आई है। यह उछال crude oil की कीमतों के 90 डॉलर प्रति बैरल पर पहुंचने के बाद आया है। तेल की कीमतों में गिरावट से महंगाई की चिंताएं कम होने के बीच ब्याज दरों के अनुमान पर भी असर पड़ सकता है।",
-    "why_hi": "तेल घटने से महंगाई की चिंता कम हुई।",
-    "chips_hi": {
-      "GIFT Nifty उछाल": "1%",
-      "Crude oil": "$90/bbl"
-    },
-    "hi_tries": 0,
-    "hi_ver": 2
-  },
-  {
-    "v": 3,
-    "cat": "Markets",
-    "tk": "MARKETS",
-    "title": "Why did oil prices fall after Trump's Iran remarks?",
-    "summary": "Crude oil prices declined after comments from Trump pointed to a pause in military action against Iran. This eased worries about extended supply disruptions in the Middle East. Brent crude dropped to $90.99 a barrel, while WTI also recorded a decline.",
-    "source": "Business Standard / Reuters",
-    "published": "2026-11-10T09:37:58+00:00",
-    "ago": "40m",
-    "impact": "Negative",
-    "why": "Lower oil prices reduce revenues for energy producers.",
-    "url": "https://www.business-standard.com/markets/commodities/oil-prices-fall-as-trump-signals-pause-in-military-action-against-iran-126111000067_1.html",
-    "chips": {
-      "Brent crude drop": "1.7%",
-      "Brent price": "$90.99",
-      "WTI drop": "1.8%"
-    },
-    "trend": [
-      0.95,
-      0.85,
-      0.7,
-      0.6,
-      0.4,
-      0.3,
-      0.1
-    ],
-    "color": "9B2C2C",
-    "premium": false,
-    "title_hi": "Trump के ईरान पर बयान के बाद ऑयल के दाम क्यों गिरे?",
-    "summary_hi": "Iran के खिलाफ सैन्य कार्रवाई रुकने के संकेत मिलने के बाद कच्चे तेल के दाम में गिरावट आई है। इससे मध्य पूर्व में लंबे समय तक सप्लाई बाधित रहने की चिंताएं कम हुई हैं। Brent crude गिरकर $90.99 प्रति बैरल पर आ गया और WTI में भी गिरावट दर्ज की गई।",
-    "why_hi": "कम तेल कीमतों से ऊर्जा कंपनियों की आय घटेगी।",
-    "chips_hi": {
-      "Brent crude गिरावट": "1.7%",
-      "Brent कीमत": "$90.99",
-      "WTI गिरावट": "1.8%"
-    },
-    "hi_tries": 0,
-    "hi_ver": 2
-  },
-  {
-    "v": 3,
-    "cat": "Finance",
-    "tk": "FINANCE",
-    "title": "How can you check if your employer is depositing PF?",
-    "summary": "Employees can verify their provident fund deposits by checking their EPF passbook and comparing monthly credits with their salary slips. If any payments are missing, individuals can raise a formal complaint with the EPFO to address the issue. Regular monitoring helps ensure employers are depositing the required amounts on time.",
-    "source": "Business Standard",
-    "published": "2026-11-10T09:07:43+00:00",
-    "ago": "1h",
-    "impact": "Neutral",
-    "why": "Routine guidance on checking provident fund deposits.",
-    "url": "https://www.business-standard.com/finance/personal-finance/is-your-employer-depositing-pf-how-to-check-and-report-missing-payments-126111000382_1.html",
-    "chips": {},
-    "trend": [
-      0.5,
-      0.55,
-      0.45,
-      0.5,
-      0.47,
-      0.52,
-      0.5
-    ],
-    "color": "B7791F",
-    "premium": false,
-    "title_hi": "क्या आपका नियोक्ता पीएफ जमा कर रहा है? ऐसे करें जांच",
-    "summary_hi": "कर्मचारी अपनी ईपीएफ पासबुक की जांच करके और मासिक क्रेडिट का अपने वेतन पर्ची से मिलान करके अपने प्रोविडेंट फंड जमा को सत्यापित कर सकते हैं। यदि कोई भुगतान गायब है, तो व्यक्ति समस्या के समाधान के लिए EPFO के पास औपचारिक शिकायत दर्ज करा सकते हैं। नियमित निगरानी से यह सुनिश्चित करने में मदद मिलती है कि नियोक्ता समय पर आवश्यक राशि जमा कर रहे हैं।",
-    "why_hi": "प्रोविडेंट फंड जमा की जांच करने के लिए नियमित मार्गदर्शन।",
-    "chips_hi": {},
-    "hi_tries": 0,
     "hi_ver": 2
   }
 ]
