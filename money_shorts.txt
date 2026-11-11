@@ -1,6 +1,208 @@
 [
   {
     "v": 3,
+    "cat": "Markets",
+    "tk": "RVNL",
+    "title": "Why did railway stocks like RVNL and RailTel jump up to 7%?",
+    "summary": "Shares of railway companies including RVNL and RailTel rose by up to 7 percent. Market experts noted that these gains show renewed investor confidence in the railway sector following a nearly two-year phase of underperformance.",
+    "source": "Business Standard",
+    "published": "2026-11-11T05:53:58+00:00",
+    "ago": "27m",
+    "impact": "Positive",
+    "why": "Positive investor sentiment after prolonged underperformance",
+    "url": "https://www.business-standard.com/markets/news/railway-stocks-rvnl-railtel-irfc-gain-up-to-7-experts-see-valuation-comfort-126111100379_1.html",
+    "chips": {
+      "Stock gains": "up to 7%"
+    },
+    "trend": [
+      0.1,
+      0.25,
+      0.2,
+      0.5,
+      0.45,
+      0.8,
+      0.95
+    ],
+    "color": "0F766E",
+    "premium": false,
+    "title_hi": "RVNL और RailTel जैसे रेलवे शेयरों में 7% तक की तेजी क्यों आई?",
+    "summary_hi": "RVNL और RailTel सहित रेलवे कंपनियों के शेयर 7 प्रतिशत तक बढ़ गए। बाजार विशेषज्ञों ने बताया कि यह तेजी लगभग दो साल के सुस्त प्रदर्शन के बाद इस सेक्टर में निवेशकों के सकारात्मक रुख को दर्शाती है।",
+    "why_hi": "लंबे समय के सुस्त प्रदर्शन के बाद सकारात्मक निवेशकों का रुख।",
+    "chips_hi": {
+      "शेयर तेजी": "7% तक"
+    }
+  },
+  {
+    "v": 3,
+    "cat": "Markets",
+    "tk": "MARKETS",
+    "title": "Nineteen NSE 500 stocks reach new life-time highs on Wednesday",
+    "summary": "Nineteen stocks from the NSE 500 index reached new life-time highs on Wednesday. Companies like Engineers India, Indian Hotels Company, Marico, Navin Fluorine International, Asahi India Glass, and Phoenix Mills were among those that touched these new peak levels during the trading session.",
+    "source": "Business Standard",
+    "published": "2026-11-11T05:42:47+00:00",
+    "ago": "38m",
+    "impact": "Positive",
+    "why": "Stocks touched new life-time highs.",
+    "url": "https://www.business-standard.com/markets/news/at-new-highs-eternal-groww-adani-ports-ather-16-more-nse-500-stocks-126111100312_1.html",
+    "chips": {},
+    "trend": [
+      0.1,
+      0.25,
+      0.2,
+      0.5,
+      0.45,
+      0.8,
+      0.95
+    ],
+    "color": "0F766E",
+    "premium": false,
+    "hi_tries": 1
+  },
+  {
+    "v": 3,
+    "cat": "Companies",
+    "tk": "COMPANIES",
+    "title": "Bright Outdoor Media shifts to main boards of BSE and NSE",
+    "summary": "Bright Outdoor Media has transitioned its shares to the main boards of the BSE and National Stock Exchange. The move from the SME platform supports the outdoor advertising firm's plans to expand its network, grow its digital billboard portfolio, and target new government and infrastructure projects.",
+    "source": "Business Standard / Press Trust of India",
+    "published": "2026-11-11T04:55:21+00:00",
+    "ago": "1h",
+    "impact": "Positive",
+    "why": "Main board shift supports expansion plans.",
+    "url": "https://www.business-standard.com/companies/news/bright-outdoor-media-moves-to-bse-nse-main-boards-eyes-expansion-126110800386_1.html",
+    "chips": {
+      "Founded in": "1980",
+      "Hoardings": "1,350+",
+      "Digital LEDs": "50+"
+    },
+    "trend": [
+      0.1,
+      0.25,
+      0.2,
+      0.5,
+      0.45,
+      0.8,
+      0.95
+    ],
+    "color": "0F766E",
+    "premium": false,
+    "hi_tries": 1,
+    "title_hi": "Bright Outdoor Media का BSE और NSE पर बड़ा कदम",
+    "summary_hi": "Bright Outdoor Media के शेयर अब BSE और NSE के मेन बोर्ड पर ट्रेड होंगे। SME प्लेटफॉर्म से इस शिफ्ट के बाद कंपनी अपने विज्ञापन नेटवर्क को बढ़ाने, डिजिटल होर्डिंग्स पोर्टफोलियो को मजबूत करने और नए सरकारी प्रोजेक्ट्स हासिल करने की तैयारी में है।",
+    "why_hi": "मेन बोर्ड पर आने से कंपनी के विस्तार योजनाओं को बढ़ावा मिलेगा।",
+    "chips_hi": {
+      "स्थापना": "1980",
+      "होर्डिंग्स": "1,350+",
+      "डिजिटल LEDs": "50+"
+    }
+  },
+  {
+    "v": 3,
+    "cat": "Finance",
+    "tk": "AMAZON",
+    "title": "Amazon Pay sale offers up to 65% off on hotels",
+    "summary": "Amazon Pay is launching its Impossible Travel Deals 2026 sale, providing discounts of up to 65 percent on hotel bookings and 30 percent on flight tickets. The special promotional event runs for two weeks, starting on November 12 and concluding on November 26, giving travellers a chance to save on their holiday planning expenses.",
+    "source": "Business Standard",
+    "published": "2026-11-11T04:42:31+00:00",
+    "ago": "1h",
+    "impact": "Positive",
+    "why": "Discounts could drive higher booking volumes.",
+    "url": "https://www.business-standard.com/finance/personal-finance/holiday-planning-amazon-pay-sale-offers-65-off-on-hotels-30-on-flights-126111100267_1.html",
+    "chips": {
+      "Hotel discount": "65%",
+      "Flight discount": "30%"
+    },
+    "trend": [
+      0.1,
+      0.25,
+      0.2,
+      0.5,
+      0.45,
+      0.8,
+      0.95
+    ],
+    "color": "0F766E",
+    "premium": false,
+    "title_hi": "Amazon Pay sale पर होटल्स पर मिल रही है 65% तक छूट",
+    "summary_hi": "Amazon Pay अपना Impossible Travel Deals 2026 सेल वापस लेकर आ रहा है। यह सेल 12 नवंबर से 26 नवंबर तक चलेगी, जिसमें फ्लाइट बुकिंग पर 30 प्रतिशत तक और होटल बुकिंग पर 65 प्रतिशत तक की छूट दी जा रही है।",
+    "why_hi": "छूट मिलने से बुकिंग बढ़ सकती है।",
+    "chips_hi": {
+      "होटल छूट": "65%",
+      "फ्लाइट छूट": "30%"
+    }
+  },
+  {
+    "v": 3,
+    "cat": "Earnings",
+    "tk": "KALYAN JEWELLERS",
+    "title": "Kalyan Jewellers shares jump ten-fold in volume and hit a yearly peak",
+    "summary": "Shares of Kalyan Jewellers climbed ten percent to reach a new fifty-two-week high following the release of second quarter results. Trading activity surged sharply as nearly seventeen million shares were traded across major stock exchanges during morning hours.",
+    "source": "Business Standard",
+    "published": "2026-11-11T04:41:56+00:00",
+    "ago": "1h",
+    "impact": "Positive",
+    "why": "Higher trading volume and new peak price.",
+    "url": "https://www.business-standard.com/markets/news/kalyan-jewellers-surges-10-hits-52-week-high-post-q2-results-126111100244_1.html",
+    "chips": {
+      "Trading volume": "17.37 million shares"
+    },
+    "trend": [
+      0.1,
+      0.25,
+      0.2,
+      0.5,
+      0.45,
+      0.8,
+      0.95
+    ],
+    "color": "0F766E",
+    "premium": false,
+    "title_hi": "Kalyan Jewellers के शेयरों में भारी तेजी, stock ने छुआ नया high",
+    "summary_hi": "Q2 के नतीजों के बाद Kalyan Jewellers के शेयरों में दस प्रतिशत की तेजी आई और यह 52-week के उच्च स्तर पर पहुंच गया। सुबह के समय NSE और BSE पर सत्रह लाख से ज्यादा शेयरों का आदान-प्रदान हुआ।",
+    "why_hi": "बढ़ी हुई ट्रेडिंग और नया उच्च स्तर।",
+    "chips_hi": {
+      "ट्रेडिंग वॉल्यूम": "17.37 million shares"
+    }
+  },
+  {
+    "v": 3,
+    "cat": "Earnings",
+    "tk": "COCHIN SHIPYARD",
+    "title": "Why did Cochin Shipyard profits drop by nearly half?",
+    "summary": "Cochin Shipyard reported a significant decline in its quarterly financial performance. The company's consolidated net profit fell by 49.9 per cent compared to the same period in the previous year. This drop in earnings has led to a sharp decrease in the stock price during recent market trading hours.",
+    "source": "Business Standard",
+    "published": "2026-11-11T04:40:29+00:00",
+    "ago": "1h",
+    "impact": "Negative",
+    "why": "Profit declined by nearly half year-on-year.",
+    "url": "https://www.business-standard.com/markets/news/cochin-shipyard-share-price-tanks-8-post-q2-show-what-s-plaguing-the-defence-stock-126111100253_1.html",
+    "chips": {
+      "Net profit drop": "49.9 per cent",
+      "Q2 FY27 net profit": "₹53.77 crore",
+      "Year-ago period prof": "₹107.53 crore"
+    },
+    "trend": [
+      0.95,
+      0.85,
+      0.7,
+      0.6,
+      0.4,
+      0.3,
+      0.1
+    ],
+    "color": "9B2C2C",
+    "premium": false,
+    "title_hi": "Cochin Shipyard का मुनाफा आधा क्यों रह गया?",
+    "summary_hi": "Cochin Shipyard का तिमाही वित्तीय प्रदर्शन कमजोर रहा है। कंपनी का समेकित शुद्ध लाभ पिछले वर्ष की इसी अवधि की तुलना में 49.9 प्रतिशत कम हुआ है। कमाई में इस बड़ी गिरावट के कारण शेयर की कीमत में भी तेज कमजोरी देखने को मिली है।",
+    "why_hi": "मुनाफे में भारी गिरावट दर्ज की गई।",
+    "chips_hi": {
+      "शुद्ध लाभ में गिरावट": "49.9 प्रतिशत",
+      "Q2 FY27 शुद्ध लाभ": "₹53.77 करोड़",
+      "पिछले वर्ष का लाभ": "₹107.53 करोड़"
+    }
+  },
+  {
+    "v": 3,
     "cat": "Earnings",
     "tk": "PB FINTECH",
     "title": "Why did retail buyers and FPIs diverge on PB Fintech?",
@@ -26,7 +228,9 @@
     "title_hi": "Q2 में PB Fintech पर रिटेल निवेशकों और FPIs की राहें क्यों अलग हुईं?",
     "summary_hi": "दूसरी तिमाही में रिटेल निवेशकों ने PB Fintech के बिजनेस पर ध्यान केंद्रित किया। इस बीच, फॉरेन पोर्टफोलियो इन्वेस्टर्स ने सतर्क रुख अपनाया। विश्लेषकों के अनुसार, विदेशी निवेशकों की यह प्रतिक्रिया एक नीतिगत झटके के कारण थी।",
     "why_hi": "अलग-अलग निवेशकों की मिली-जुली प्रतिक्रिया।",
-    "chips_hi": {}
+    "chips_hi": {},
+    "hi_tries": 0,
+    "hi_ver": 2
   },
   {
     "v": 3,
@@ -55,7 +259,15 @@
     ],
     "color": "B7791F",
     "premium": false,
-    "hi_tries": 1
+    "hi_tries": 1,
+    "hi_ver": 2,
+    "title_hi": "ओडिशा सरकार का बड़ा फैसला, अब लाखों लोगों को मिलेगी पेंशन",
+    "summary_hi": "राज्य सरकार ने पेंशन योजनाओं से कोटा की सीमा हटा दी है। इससे मधु बाबू पेंशन योजना का दायरा काफी बढ़ गया है और अब लाखों नए लोग इससे जुड़ गए हैं। इस बड़े बदलाव से सरकार पर हर साल अतिरिक्त वित्तीय बोझ बढ़ेगा, जिससे राज्य के जरूरतमंद नागरिकों को सीधी आर्थिक मदद मिल सकेगी।",
+    "why_hi": "Welfare policy change with no corporate impact.",
+    "chips_hi": {
+      "कुल लाभार्थी": "4.18 million",
+      "अतिरिक्त खर्च": "₹625 करोड़"
+    }
   },
   {
     "v": 3,
@@ -90,7 +302,9 @@
     "chips_hi": {
       "निवेश": "₹30,181 करोड़",
       "क्षमता": "2,400 Mw"
-    }
+    },
+    "hi_tries": 0,
+    "hi_ver": 2
   },
   {
     "v": 3,
@@ -119,7 +333,9 @@
     "title_hi": "महंगे हवाई किराए के बीच बस यात्रा क्यों तेजी से बढ़ रही है?",
     "summary_hi": "हवाई किराए बढ़ने के कारण यात्री सड़कों की ओर रुख कर रहे हैं, जिससे बस यात्रा लोकप्रिय हो रही है। बेहतर राजमार्ग बुनियादी ढांचे, अच्छी गुणवत्ता वाली बसों और स्लीपर सेवाओं के विस्तार से यात्रियों के लिए लंबी सड़क यात्राएं अधिक आरामदायक और भरोसेमंद बन रही हैं।",
     "why_hi": "बुनियादी ढांचे में सुधार और बढ़ते हवाई किराए।",
-    "chips_hi": {}
+    "chips_hi": {},
+    "hi_tries": 0,
+    "hi_ver": 2
   },
   {
     "v": 3,
@@ -148,7 +364,8 @@
     ],
     "color": "0F766E",
     "premium": true,
-    "hi_tries": 1
+    "hi_tries": 1,
+    "hi_ver": 2
   },
   {
     "v": 3,
@@ -183,7 +400,9 @@
     "chips_hi": {
       "इक्विटी खरीद": "₹53,172 करोड़",
       "बॉन्ड खरीद": "₹7,480 करोड़"
-    }
+    },
+    "hi_tries": 0,
+    "hi_ver": 2
   },
   {
     "v": 3,
@@ -351,7 +570,7 @@
     ],
     "color": "0F766E",
     "premium": false,
-    "hi_tries": 1,
+    "hi_tries": 2,
     "hi_ver": 2
   },
   {
@@ -595,207 +814,6 @@
     "title_hi": "क्या आपका नियोक्ता पीएफ जमा कर रहा है? ऐसे करें जांच",
     "summary_hi": "कर्मचारी अपनी ईपीएफ पासबुक की जांच करके और मासिक क्रेडिट का अपने वेतन पर्ची से मिलान करके अपने प्रोविडेंट फंड जमा को सत्यापित कर सकते हैं। यदि कोई भुगतान गायब है, तो व्यक्ति समस्या के समाधान के लिए EPFO के पास औपचारिक शिकायत दर्ज करा सकते हैं। नियमित निगरानी से यह सुनिश्चित करने में मदद मिलती है कि नियोक्ता समय पर आवश्यक राशि जमा कर रहे हैं।",
     "why_hi": "प्रोविडेंट फंड जमा की जांच करने के लिए नियमित मार्गदर्शन।",
-    "chips_hi": {},
-    "hi_tries": 0,
-    "hi_ver": 2
-  },
-  {
-    "v": 3,
-    "cat": "Industry",
-    "tk": "INDUSTRY",
-    "title": "Maharashtra farmers demand uniform sugarcane pricing and loan incentives",
-    "summary": "A delegation of farmers in Maharashtra met the Cooperation Minister to demand equal sugarcane pricing across the state, pointing out disparities with western Maharashtra rates. They also asked for a loan repayment incentive of Rs 2 lakh and drought relief financial assistance of Rs 1 lakh per hectare for affected cultivators.",
-    "source": "Business Standard / Press Trust of India",
-    "published": "2026-11-10T08:13:18+00:00",
-    "ago": "2h",
-    "impact": "Neutral",
-    "why": "Demands submitted to the government.",
-    "url": "https://www.business-standard.com/industry/agriculture/maharashtra-farmers-seek-uniform-sugarcane-price-2-lakh-loan-incentive-126111000316_1.html",
-    "chips": {
-      "Loan incentive": "Rs 2 lakh",
-      "Western Maharashtra ": "Rs 4,200 per tonne",
-      "Drought relief": "Rs 1 lakh per hectar"
-    },
-    "trend": [
-      0.5,
-      0.55,
-      0.45,
-      0.5,
-      0.47,
-      0.52,
-      0.5
-    ],
-    "color": "B7791F",
-    "premium": false,
-    "title_hi": "महाराष्ट्र के किसानों ने एक समान गन्ना मूल्य की मांग उठाई",
-    "summary_hi": "महाराष्ट्र के किसानों के एक प्रतिनिधिमंडल ने सहकारिता मंत्री से मिलकर राज्य भर में गन्ने के लिए एक समान कीमत तय करने की मांग की। उन्होंने नियमित कर्ज चुकाने वाले किसानों के लिए 2 लाख रुपये के प्रोत्साहन और सूखा प्रभावित किसानों के लिए 1 लाख रुपये प्रति हेक्टेयर वित्तीय सहायता की भी मांग की।",
-    "why_hi": "सरकार के सामने मांगें रखी गईं।",
-    "chips_hi": {
-      "लोन प्रोत्साहन": "₹2 लाख",
-      "पश्चिमी महाराष्ट्र द": "₹4,200 प्रति टन",
-      "सूखा राहत": "₹1 लाख प्रति हेक्टेय"
-    },
-    "hi_tries": 0,
-    "hi_ver": 2
-  },
-  {
-    "v": 3,
-    "cat": "Earnings",
-    "tk": "MRF",
-    "title": "Why did MRF profit drop despite an 18% revenue jump?",
-    "summary": "Tyre maker MRF posted a 28 percent decline in net profit to ₹369 crore for the quarter, compared to ₹512 crore in the previous year. This drop occurred even as revenue from operations increased 18 percent to reach ₹8,524 crore.",
-    "source": "Business Standard / Reuters",
-    "published": "2026-11-10T07:48:20+00:00",
-    "ago": "2h",
-    "impact": "Negative",
-    "why": "Rising raw material costs reduced net profit.",
-    "url": "https://www.business-standard.com/companies/quarterly-results/mrf-q2-result-profit-falls-28-to-369-crore-as-raw-material-costs-rise-126111000298_1.html",
-    "chips": {
-      "Net profit": "₹369 crore",
-      "Revenue": "₹8,524 crore"
-    },
-    "trend": [
-      0.95,
-      0.85,
-      0.7,
-      0.6,
-      0.4,
-      0.3,
-      0.1
-    ],
-    "color": "9B2C2C",
-    "premium": false,
-    "hi_tries": 2,
-    "hi_ver": 2
-  },
-  {
-    "v": 3,
-    "cat": "Finance",
-    "tk": "FINANCE",
-    "title": "Will a higher salary actually increase your take-home pay?",
-    "summary": "Switching to a new job with a higher CTC does not always mean more take-home pay. Employees should carefully review their salary structure, TDS deductions, applicable tax regimes, and available deductions before making a career move to understand the true financial impact.",
-    "source": "Business Standard",
-    "published": "2026-11-10T07:06:45+00:00",
-    "ago": "3h",
-    "impact": "Neutral",
-    "why": "Tax implications vary with salary restructuring.",
-    "url": "https://www.business-standard.com/finance/personal-finance/new-job-higher-pay-check-these-tax-implications-before-switching-126111000292_1.html",
-    "chips": {},
-    "trend": [
-      0.5,
-      0.55,
-      0.45,
-      0.5,
-      0.47,
-      0.52,
-      0.5
-    ],
-    "color": "B7791F",
-    "premium": false,
-    "title_hi": "क्या अधिक वेतन से आपकी टेक-होम सैलरी सचमुच बढ़ेगी?",
-    "summary_hi": "अधिक सीटीसी मिलने का मतलब यह नहीं है कि आपकी टेक-होम सैलरी भी बढ़ जाएगी। नौकरी बदलने से पहले कर्मचारियों को अपनी सैलरी स्ट्रक्चर, टीडीएस, टैक्स व्यवस्था और कटौतियों की अच्छी तरह जांच कर लेनी चाहिए ताकि असली वित्तीय असर समझ आ सके।",
-    "why_hi": "टैक्स के नियम सैलरी स्ट्रक्चर पर निर्भर करते हैं।",
-    "chips_hi": {},
-    "hi_tries": 0,
-    "hi_ver": 2
-  },
-  {
-    "v": 3,
-    "cat": "Companies",
-    "tk": "TATA",
-    "title": "Three workers die of asphyxiation at a Tata iPhone parts plant",
-    "summary": "Three workers lost their lives due to asphyxiation while performing maintenance work on a water tank. The incident occurred at the facility located in Hosur, Tamil Nadu, which is involved in manufacturing components for Apple iPhones.",
-    "source": "Business Standard / Reuters",
-    "published": "2026-11-10T05:02:59+00:00",
-    "ago": "1h",
-    "impact": "Negative",
-    "why": "Workplace deaths at the manufacturing facility.",
-    "url": "https://www.business-standard.com/companies/news/3-workers-die-of-asphyxiation-at-tata-s-iphone-parts-factory-in-tamil-nadu-126111000129_1.html",
-    "chips": {},
-    "trend": [
-      0.95,
-      0.85,
-      0.7,
-      0.6,
-      0.4,
-      0.3,
-      0.1
-    ],
-    "color": "9B2C2C",
-    "premium": false,
-    "title_hi": "टाटा के आईफोन पार्ट्स प्लांट में तीन कर्मचारियों की मौत",
-    "summary_hi": "तमिलनाडु के होसुर स्थित प्लांट में वाटर टैंक के रखरखाव के दौरान दम घुटने से तीन मजदूरों की मौत हो गई। यह फैसिलिटी एप्पल आईफोन के लिए कंपोनेंट्स बनाती है।",
-    "why_hi": "मैन्युफैक्चरिंग प्लांट में कार्यस्थल पर मौतें।",
-    "chips_hi": {},
-    "hi_tries": 0,
-    "hi_ver": 2
-  },
-  {
-    "v": 3,
-    "cat": "Finance",
-    "tk": "FINANCE",
-    "title": "Can a newborn investment of ₹12,500 monthly reach ₹1 crore?",
-    "summary": "An investment of ₹12,500 every month can potentially build a corpus of ₹1 crore. Parents are exploring the details behind this financial possibility through NPS Vatsalya, which involves a total investment amount of ₹22.5 lakh to understand how these long-term savings grow over time.",
-    "source": "Business Standard",
-    "published": "2026-11-10T04:50:33+00:00",
-    "ago": "1h",
-    "impact": "Neutral",
-    "why": "Informs parents about long-term savings schemes.",
-    "url": "https://www.business-standard.com/finance/personal-finance/can-investing-12-500-a-month-for-your-newborn-create-a-1-crore-corpus-126111000178_1.html",
-    "chips": {
-      "Monthly investment": "₹12,500",
-      "Target corpus": "₹1 crore",
-      "Total investment": "₹22.5 lakh"
-    },
-    "trend": [
-      0.5,
-      0.55,
-      0.45,
-      0.5,
-      0.47,
-      0.52,
-      0.5
-    ],
-    "color": "B7791F",
-    "premium": false,
-    "title_hi": "क्या नवजात शिशु के लिए हर महीने ₹12,500 निवेश करने से ₹1 करोड़ बन सकते हैं?",
-    "summary_hi": "हर महीने ₹12,500 का निवेश करके ₹1 करोड़ का फंड बनाया जा सकता है। माता-पिता NPS वात्सल्य के जरिए इस लंबी अवधि की बचत योजना के बारे में जानकारी ले रहे हैं, जिसमें कुल निवेश ₹22.5 लाख होता है।",
-    "why_hi": "माता-पिता को बचत योजनाओं की जानकारी देता है।",
-    "chips_hi": {
-      "मासिक निवेश": "₹12,500",
-      "लक्ष्य राशि": "₹1 करोड़",
-      "कुल निवेश": "₹22.5 लाख"
-    },
-    "hi_tries": 0,
-    "hi_ver": 2
-  },
-  {
-    "v": 3,
-    "cat": "Industry",
-    "tk": "AIR INDIA",
-    "title": "Will Air India appoint ex-Garuda executive Kunduvara as CFO?",
-    "summary": "Air India is reportedly considering the former finance chief of Garuda Indonesia, Kunduvara, for the role of Chief Financial Officer. The airline is currently looking to strengthen its financial position following a record financial loss reported during the previous fiscal year.",
-    "source": "Business Standard / Bloomberg",
-    "published": "2026-11-10T04:17:07+00:00",
-    "ago": "2h",
-    "impact": "Positive",
-    "why": "Aims to revive finances after record loss.",
-    "url": "https://www.business-standard.com/industry/aviation/air-india-considers-appointing-departed-garuda-executive-kunduvara-as-cfo-126111000145_1.html",
-    "chips": {},
-    "trend": [
-      0.1,
-      0.25,
-      0.2,
-      0.5,
-      0.45,
-      0.8,
-      0.95
-    ],
-    "color": "0F766E",
-    "premium": false,
-    "title_hi": "क्या Air India पूर्व Garuda कार्यकारी कुंदुवारा को बनाएगी CFO?",
-    "summary_hi": "Air India द्वारा Garuda Indonesia के पूर्व वित्त प्रमुख कुंदुवारा को मुख्य वित्तीय अधिकारी पद के लिए विचाराधीन बताया जा रहा है। पिछले वित्त वर्ष में रिकॉर्ड घाटा दर्ज करने के बाद एयरलाइन अपनी वित्तीय स्थिति को सुधारने का प्रयास कर रही है।",
-    "why_hi": "रिकॉर्ड घाटे के बाद वित्तीय स्थिति सुधारना।",
     "chips_hi": {},
     "hi_tries": 0,
     "hi_ver": 2
