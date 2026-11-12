@@ -2,6 +2,213 @@
   {
     "v": 3,
     "cat": "Industry",
+    "tk": "KW GROUP",
+    "title": "KW Group buys 1.5-acre Ghaziabad land for Rs 134 crore",
+    "summary": "Realty firm KW Group acquired a 1.5-acre freehold land parcel in Indirapuram, Ghaziabad, for Rs 134 crore through an auction. The company plans to build an ultra-luxury residential project with a development potential of about 5 lakh sq ft. The project is backed by a Rs 150 crore commitment from ASK Property Fund.",
+    "source": "Business Standard / Press Trust of India",
+    "published": "2026-11-12T10:18:03+00:00",
+    "ago": "8m",
+    "impact": "Positive",
+    "why": "New land acquisition for luxury housing.",
+    "url": "https://www.business-standard.com/industry/news/kw-group-buys-1-5-acre-land-in-ghaziabad-134-cr-to-build-luxury-homes-126111200899_1.html",
+    "chips": {
+      "Land area": "1.5 acres",
+      "Land cost": "Rs 134 crore",
+      "Fund backing": "Rs 150 crore"
+    },
+    "trend": [
+      0.1,
+      0.25,
+      0.2,
+      0.5,
+      0.45,
+      0.8,
+      0.95
+    ],
+    "color": "0F766E",
+    "premium": false,
+    "title_hi": "KW Group ने गाजियाबाद में 134 करोड़ रुपये में खरीदी जमीन",
+    "summary_hi": "रियल्टी फर्म KW Group ने गाजियाबाद के इंदिरापुरम में 1.5 एकड़ जमीन नीलामी के जरिए 134 करोड़ रुपये में खरीदी है। कंपनी इस साइट पर लगभग 5 लाख वर्ग फीट में एक अल्ट्रा-लग्जरी आवासीय परियोजना विकसित करने की योजना बना रही है। इस प्रोजेक्ट को ASK Property Fund से 150 करोड़ रुपये की प्रतिबद्धता का समर्थन प्राप्त है।",
+    "why_hi": "लग्जरी आवास के लिए नई जमीन की खरीद।",
+    "chips_hi": {
+      "जमीन का क्षेत्रफल": "1.5 एकड़",
+      "जमीन की लागत": "₹134 करोड़",
+      "फंड समर्थन": "₹150 करोड़"
+    }
+  },
+  {
+    "v": 3,
+    "cat": "Economy",
+    "tk": "ECONOMY",
+    "title": "Why did festive online sales hit ₹1.41 lakh crore despite missing forecasts?",
+    "summary": "India's online festive sales grew 17 percent to reach ₹1.41 lakh crore, according to Datum Intelligence. However, the total collections missed initial forecasts as average card payments dropped 13 percent. Additionally, mobile phone sales showed weakness during the festive period, while shoppers spent less per order overall.",
+    "source": "Business Standard",
+    "published": "2026-11-12T10:17:09+00:00",
+    "ago": "11m",
+    "impact": "Negative",
+    "why": "Sales missed forecasts and card spending fell.",
+    "url": "https://www.business-standard.com/economy/news/india-s-festive-online-sales-rise-17-but-shoppers-spend-less-per-order-126111200967_1.html",
+    "chips": {
+      "Festive online sales": "₹1.41 lakh crore",
+      "Sales growth": "17%",
+      "Card payments drop": "13%"
+    },
+    "trend": [
+      0.95,
+      0.85,
+      0.7,
+      0.6,
+      0.4,
+      0.3,
+      0.1
+    ],
+    "color": "9B2C2C",
+    "premium": false,
+    "title_hi": "अनुमान से कम क्यों रहे ₹1.41 लाख करोड़ के फेस्टिव ऑनलाइन सेल्स?",
+    "summary_hi": "Datum Intelligence के अनुसार भारत की फेस्टिव ऑनलाइन बिक्री 17 प्रतिशत बढ़कर ₹1.41 लाख करोड़ पर पहुंच गई। हालांकि, शुरुआती अनुमानों से बिक्री कम रही क्योंकि औसत कार्ड पेमेंट में 13 प्रतिशत की गिरावट आई। इसके अलावा, फेस्टिव सीजन के दौरान मोबाइल फोन की बिक्री कमजोर रही और ग्राहकों ने प्रति ऑर्डर कम खर्च किया।",
+    "why_hi": "बिक्री अनुमान से कम रही और कार्ड खर्च घटा।",
+    "chips_hi": {
+      "फेस्टिव ऑनलाइन सेल्स": "₹1.41 लाख करोड़",
+      "सेल्स ग्रोथ": "17%",
+      "कार्ड पेमेंट गिरावट": "13%"
+    }
+  },
+  {
+    "v": 3,
+    "cat": "Markets",
+    "tk": "GABRIEL INDIA",
+    "title": "Gabriel India surges 20 percent on massive trading volume",
+    "summary": "Gabriel India shares hit the 20 percent upper circuit following a massive jump in trading volume. Combined volume across major exchanges surged over 20-fold, with more than 8 million shares changing hands on Thursday. The stock has witnessed a sharp rally, moving up significantly from its low in March.",
+    "source": "Business Standard",
+    "published": "2026-11-12T10:10:09+00:00",
+    "ago": "18m",
+    "impact": "Positive",
+    "why": "Massive trading volume and sharp stock surge.",
+    "url": "https://www.business-standard.com/markets/news/gabriel-india-hits-20-upper-circuit-on-huge-volume-up-112-from-march-low-126111200893_1.html",
+    "chips": {
+      "Upper circuit": "20%",
+      "Shares traded": "8.02 million",
+      "Rise from March low": "112%"
+    },
+    "trend": [
+      0.1,
+      0.25,
+      0.2,
+      0.5,
+      0.45,
+      0.8,
+      0.95
+    ],
+    "color": "0F766E",
+    "premium": false,
+    "hi_tries": 1,
+    "title_hi": "Gabriel India के शेयरों में आया जबरदस्त उछाल, लगा अपर सर्किट",
+    "summary_hi": "गुरुवार को Gabriel India के शेयरों में भारी तेजी देखने को मिली और यह 20 प्रतिशत के अपर सर्किट पर पहुंच गया। इस दौरान शेयरों के कारोबार में भारी उछाल आया और बड़े एक्सचेंजों पर कुल वॉल्यूम में जबरदस्त बढ़ोतरी दर्ज की गई। मार्च के निचले स्तर से उबरने के बाद स्टॉक में यह एक बड़ी तेजी है।",
+    "why_hi": "भारी ट्रेडिंग वॉल्यूम और शेयरों में तेज उछाल।",
+    "chips_hi": {
+      "अपर सर्किट": "20%",
+      "traded शेयर": "8.02 million",
+      "मार्च के निचले स्तर ": "112%"
+    }
+  },
+  {
+    "v": 3,
+    "cat": "Finance",
+    "tk": "FINANCE",
+    "title": "Want assured returns? These options offer up to 8.2%",
+    "summary": "Investors seeking stability can explore government-backed schemes and bank deposits. However, these options come with varying interest rates, distinct tax rules, and different lock-in periods for individuals looking for safe ways to grow their money.",
+    "source": "Business Standard",
+    "published": "2026-11-12T09:32:52+00:00",
+    "ago": "56m",
+    "impact": "Neutral",
+    "why": "Savings options feature varying rates and rules.",
+    "url": "https://www.business-standard.com/finance/personal-finance/looking-for-assured-returns-these-savings-options-offer-up-to-8-2-return-126111200836_1.html",
+    "chips": {
+      "Maximum return": "8.2%"
+    },
+    "trend": [
+      0.5,
+      0.55,
+      0.45,
+      0.5,
+      0.47,
+      0.52,
+      0.5
+    ],
+    "color": "B7791F",
+    "premium": false,
+    "title_hi": "पक्के रिटर्न की तलाश? ये विकल्प दे रहे हैं 8.2% तक",
+    "summary_hi": "सुरक्षित रिटर्न चाहने वाले निवेशक सरकारी योजनाओं और बैंक डिपॉजिट में से चुन सकते हैं। हालांकि, इन विकल्पों में ब्याज दरें, टैक्स नियम और लॉक-इन अवधि अलग-अलग होती हैं।",
+    "why_hi": "बचत विकल्पों में अलग-अलग दरें और नियम हैं।",
+    "chips_hi": {
+      "अधिकतम रिटर्न": "8.2%"
+    }
+  },
+  {
+    "v": 3,
+    "cat": "Companies",
+    "tk": "R SYSTEMS",
+    "title": "How is AI-native work changing revenue and coding demand?",
+    "summary": "R Systems CEO Nitesh Bansal stated that traditional engineering services will eventually decline as products and services become AI-native. This shift is expected to alter both delivery models and the future of hiring for the company.",
+    "source": "Business Standard",
+    "published": "2026-11-12T09:29:37+00:00",
+    "ago": "59m",
+    "impact": "Neutral",
+    "why": "Shifting industry trends with unclear financial impact.",
+    "url": "https://www.business-standard.com/companies/news/r-systems-ai-native-revenue-traditional-coding-nitesh-bansal-126111200834_1.html",
+    "chips": {},
+    "trend": [
+      0.5,
+      0.55,
+      0.45,
+      0.5,
+      0.47,
+      0.52,
+      0.5
+    ],
+    "color": "B7791F",
+    "premium": false,
+    "title_hi": "एआई-फर्स्ट कामकाज कैसे बदल रहा है रेवेन्यू और कोडिंग की मांग?",
+    "summary_hi": "R Systems के सीईओ नितेश बंसल ने कहा कि जैसे-जैसे उत्पाद और सेवाएं एआई-फर्स्ट बनेंगे, पारंपरिक इंजीनियरिंग सेवाएं अंततः कम हो जाएंगी। इससे डिलीवरी मॉडल और हायरिंग दोनों में बदलाव आएगा।",
+    "why_hi": "बदलाव का असर अभी स्पष्ट नहीं है।",
+    "chips_hi": {}
+  },
+  {
+    "v": 3,
+    "cat": "Industry",
+    "tk": "GMR GROUP",
+    "title": "GMR Group is building a massive 500-acre aerospace hub in Andhra Pradesh",
+    "summary": "GMR Group is building an aviation and aerospace ecosystem across 500 acres in Andhra Pradesh, according to the group's chairman. Speaking at an industry summit, he highlighted that modern economies now grow around airports, which act as new economic engines. He also praised the state government's speed in supporting business investments.",
+    "source": "Business Standard / Press Trust of India",
+    "published": "2026-11-12T09:15:33+00:00",
+    "ago": "1h",
+    "impact": "Positive",
+    "why": "Expands business footprint in aerospace sector.",
+    "url": "https://www.business-standard.com/industry/news/gmr-group-to-develop-500-acre-aviation-aerospace-hub-in-andhra-pradesh-126111200766_1.html",
+    "chips": {
+      "Land area": "500 acres"
+    },
+    "trend": [
+      0.1,
+      0.25,
+      0.2,
+      0.5,
+      0.45,
+      0.8,
+      0.95
+    ],
+    "color": "0F766E",
+    "premium": false,
+    "title_hi": "GMR Group आंध्र प्रदेश में बनाएगा 500 एकड़ का एयरोस्पेस हब",
+    "summary_hi": "GMR Group आंध्र प्रदेश में 500 एकड़ में एक एविएशन और एयरोस्पेस इकोसिस्टम विकसित कर रहा है। समूह के चेयरमैन ने एक शिखर सम्मेलन में बताया कि आज के समय में अर्थव्यवस्थाएं एयरपोर्ट के आसपास विकसित हो रही हैं। उन्होंने राज्य सरकार की तेज कार्यशैली की भी सराहना की।",
+    "why_hi": "एयरोस्पेस क्षेत्र में व्यवसाय का विस्तार।",
+    "chips_hi": {
+      "भूमि क्षेत्र": "500 एकड़"
+    }
+  },
+  {
+    "v": 3,
+    "cat": "Industry",
     "tk": "KIA",
     "title": "Kia plans $2 billion Andhra investment to boost capacity",
     "summary": "Kia is investing $2 billion in Andhra Pradesh to expand its manufacturing footprint. This move will raise its production capacity to 630,000 units, supporting the company's goal to make India a major global production and export hub for vehicles.",
@@ -32,7 +239,9 @@
     "chips_hi": {
       "निवेश": "$2 अरब",
       "क्षमता": "6,30,000 यूनिट"
-    }
+    },
+    "hi_tries": 0,
+    "hi_ver": 2
   },
   {
     "v": 3,
@@ -67,7 +276,9 @@
     "chips_hi": {
       "सोना वायदा": "$3,990 प्रति औंस",
       "चांदी": "$51.40 प्रति औंस"
-    }
+    },
+    "hi_tries": 0,
+    "hi_ver": 2
   },
   {
     "v": 3,
@@ -96,7 +307,9 @@
     "title_hi": "रिश्तेदार के नाम पर घर खरीदना क्यों बढ़ा सकता है टैक्स जांच?",
     "summary_hi": "किसी रिश्तेदार के नाम पर संपत्ति खरीदने मात्र से वह ट्रांजैक्शन बेनामी जांच से सुरक्षित नहीं रहता है। अधिकारी यह तय करने के लिए फंडिंग के स्रोत, मालिकाना हक के रिकॉर्ड और दस्तावेजों की पूरी जांच करते हैं।",
     "why_hi": "टैक्स नियमों से जुड़ी जानकारी देता है।",
-    "chips_hi": {}
+    "chips_hi": {},
+    "hi_tries": 0,
+    "hi_ver": 2
   },
   {
     "v": 3,
@@ -133,7 +346,9 @@
       "शेयर बढ़त": "4%",
       "दो दिन की तेजी": "6.4%",
       "लगातार दिन": "4"
-    }
+    },
+    "hi_tries": 0,
+    "hi_ver": 2
   },
   {
     "v": 3,
@@ -162,7 +377,9 @@
     "title_hi": "Tata Power ने 4 और राज्यों के साथ Mundra टैरिफ समझौतों के लिए क्या कहा?",
     "summary_hi": "Tata Power गुजरात के साथ समझौता पक्का करने के बाद अब राजस्थान, महाराष्ट्र, पंजाब और हरियाणा के साथ अतिरिक्त बिजली खरीद अनुबंधों को अंतिम रूप देने की कोशिश कर रहा है। कंपनी इन नए क्षेत्रों में संशोधित लागत-जुड़े टैरिफ समझौतों के तहत बिजली बेचने की तैयारी कर रही है।",
     "why_hi": "नए समझौतों से कारोबार का विस्तार होगा।",
-    "chips_hi": {}
+    "chips_hi": {},
+    "hi_tries": 0,
+    "hi_ver": 2
   },
   {
     "v": 3,
@@ -219,7 +436,7 @@
     ],
     "color": "B7791F",
     "premium": false,
-    "hi_tries": 1,
+    "hi_tries": 2,
     "hi_ver": 2
   },
   {
@@ -586,206 +803,6 @@
     "summary_hi": "किरायेदार स्पष्ट रिफंड शर्तें तय करके, संपत्ति की स्थिति के सबूत रखकर और बिना वजह काटे गए पैसों को चुनौती देकर अपने सिक्योरिटी डिपॉजिट को सुरक्षित रख सकते हैं।",
     "why_hi": "किराए के पैसों से जुड़े अधिकार।",
     "chips_hi": {},
-    "hi_tries": 0,
-    "hi_ver": 2
-  },
-  {
-    "v": 3,
-    "cat": "Industry",
-    "tk": "INDUSTRY",
-    "title": "How does the revamped medical device PLI boost local manufacturing?",
-    "summary": "The government has revised its medical device production linked incentive scheme to expand the domestic manufacturing base. The updated framework now includes component makers and micro, small, and medium enterprises. It also offers higher financial incentives specifically for critical components and high-end devices to deepen local production across the country.",
-    "source": "Business Standard",
-    "published": "2026-11-11T13:36:04+00:00",
-    "ago": "1h",
-    "impact": "Positive",
-    "why": "Expands domestic manufacturing and includes MSMEs.",
-    "url": "https://www.business-standard.com/industry/news/revamped-medical-device-pli-to-boost-localisation-widen-manufacturing-base-126111101338_1.html",
-    "chips": {},
-    "trend": [
-      0.1,
-      0.25,
-      0.2,
-      0.5,
-      0.45,
-      0.8,
-      0.95
-    ],
-    "color": "0F766E",
-    "premium": false,
-    "hi_tries": 2,
-    "hi_ver": 2
-  },
-  {
-    "v": 3,
-    "cat": "Companies",
-    "tk": "VALUEQUEST",
-    "title": "ValueQuest Pours Rs 775 Crore Into Three Manufacturing And Defence Firms",
-    "summary": "ValueQuest has invested Rs 775 crore across three Indian manufacturing and defence companies. The funding targets Sagar Defence Engineering, Rational Engineers, and TASE Global. These firms operate in sectors including autonomous defence systems, power infrastructure, and precision engineering.",
-    "source": "Business Standard",
-    "published": "2026-11-11T10:11:41+00:00",
-    "ago": "11m",
-    "impact": "Positive",
-    "why": "Major investment supports manufacturing and defence growth.",
-    "url": "https://www.business-standard.com/companies/news/valuequest-investment-sagar-defence-rational-engineers-tase-global-126111100837_1.html",
-    "chips": {
-      "Investment amount": "Rs 775 crore"
-    },
-    "trend": [
-      0.1,
-      0.25,
-      0.2,
-      0.5,
-      0.45,
-      0.8,
-      0.95
-    ],
-    "color": "0F766E",
-    "premium": false,
-    "title_hi": "ValueQuest ने 3 भारतीय मैन्युफैक्चरिंग और डिफेंस कंपनियों में लगाए ₹775 करोड़",
-    "summary_hi": "ValueQuest ने भारत की तीन मैन्युफैक्चरिंग और डिफेंस कंपनियों में ₹775 करोड़ का निवेश किया है। यह फंडिंग Sagar Defence Engineering, Rational Engineers और TASE Global में की गई है। ये कंपनियां ऑटोनॉमस डिफेंस सिस्टम, पावर इंफ्रास्ट्रक्चर और प्रेसिजन इंजीनियरिंग के क्षेत्रों में काम करती हैं।",
-    "why_hi": "बड़ा निवेश विनिर्माण और रक्षा क्षेत्र को बढ़ाएगा।",
-    "chips_hi": {
-      "निवेश राशि": "₹775 करोड़"
-    },
-    "hi_tries": 0,
-    "hi_ver": 2
-  },
-  {
-    "v": 3,
-    "cat": "Companies",
-    "tk": "TIDE",
-    "title": "How is Tide planning to invest ₹3,100 crore in India?",
-    "summary": "UK-based business financial platform Tide plans to invest approximately Rs 3,100 crore in India over the next four years. The funds will scale up operations and technology centers supporting global businesses. The company currently employs about 800 people at its Hyderabad centre, which drives core operations, engineering, and product innovation for the firm.",
-    "source": "Business Standard / Press Trust of India",
-    "published": "2026-11-11T09:56:16+00:00",
-    "ago": "27m",
-    "impact": "Positive",
-    "why": "Significant funding for technology and expansion.",
-    "url": "https://www.business-standard.com/companies/news/uk-based-tide-plans-to-invest-3-100-crore-in-india-in-next-four-years-126111100746_1.html",
-    "chips": {
-      "Investment": "Rs 3,100 crore",
-      "Workforce": "800 people"
-    },
-    "trend": [
-      0.1,
-      0.25,
-      0.2,
-      0.5,
-      0.45,
-      0.8,
-      0.95
-    ],
-    "color": "0F766E",
-    "premium": false,
-    "title_hi": "Tide भारत में अगले चार वर्षों में कैसे करेगी ₹3,100 करोड़ का निवेश?",
-    "summary_hi": "ब्रिटेन की वित्तीय कंपनी Tide भारत में वैश्विक कारोबार को समर्थन देने के लिए अपनी तकनीक और संचालन केंद्रों को बढ़ाने हेतु ₹3,100 करोड़ का निवेश करेगी। हैदराबाद में कंपनी के केंद्र में लगभग 800 कर्मचारी काम करते हैं जो मुख्य संचालन और उत्पाद नवाचार को संभालते हैं।",
-    "why_hi": "तकनीक और विस्तार के लिए बड़ा निवेश।",
-    "chips_hi": {
-      "निवेश": "₹3,100 करोड़",
-      "कर्मचारी": "800"
-    },
-    "hi_tries": 0,
-    "hi_ver": 2
-  },
-  {
-    "v": 3,
-    "cat": "Finance",
-    "tk": "FINANCE",
-    "title": "How reviewing seven overlooked credit card settings can reduce fraud risk",
-    "summary": "Protecting your finances from potential fraud involves checking seven specific settings on your credit card. Ignoring these overlooked choices can leave your account vulnerable when fraudsters strike. Reviewing these options helps ensure better security and control over your transactions, reducing the chances of unauthorized activity occurring on your card.",
-    "source": "Business Standard",
-    "published": "2026-11-11T09:55:37+00:00",
-    "ago": "28m",
-    "impact": "Neutral",
-    "why": "Enhances personal financial security against fraud risks",
-    "url": "https://www.business-standard.com/finance/personal-finance/credit-card-safety-7-settings-you-should-review-to-reduce-fraud-risk-126111100797_1.html",
-    "chips": {},
-    "trend": [
-      0.5,
-      0.55,
-      0.45,
-      0.5,
-      0.47,
-      0.52,
-      0.5
-    ],
-    "color": "B7791F",
-    "premium": false,
-    "title_hi": "सात जरूरी क्रेडिट कार्ड सेटिंग बदलकर फ्रॉड के खतरे को कैसे कम करें",
-    "summary_hi": "अपने क्रेडिट कार्ड की सात चुनिंदा सेटिंग्स की समीक्षा करके वित्तीय सुरक्षा को बेहतर बनाया जा सकता है। इन अनसुनी सेटिंग्स को नजरअंदाज करने से अकाउंट पर फ्रॉड का खतरा बढ़ सकता है। इन विकल्पों की जांच करने से आपको अपने ट्रांजैक्शन पर बेहतर नियंत्रण मिलता है और अनधिकृत गतिविधियों की संभावना घट जाती है।",
-    "why_hi": "फ्रॉड के खतरे से व्यक्तिगत सुरक्षा बढ़ती है",
-    "chips_hi": {},
-    "hi_tries": 0,
-    "hi_ver": 2
-  },
-  {
-    "v": 3,
-    "cat": "Industry",
-    "tk": "INDUSTRY",
-    "title": "Government raises eligible officers electronic device price limit to Rs 1.8 lakh",
-    "summary": "The central government has increased the price ceiling for laptops, tablets, and similar devices to Rs 1.8 lakh plus taxes for eligible officers of Section Officer rank and above. Officials can keep the devices for personal use after four years. These revised guidelines replace the previous rules from July 2023, while excluding mobile devices.",
-    "source": "Business Standard / Press Trust of India",
-    "published": "2026-11-11T09:54:18+00:00",
-    "ago": "29m",
-    "impact": "Neutral",
-    "why": "Routine update of administrative purchase guidelines.",
-    "url": "https://www.business-standard.com/industry/news/govt-raises-price-cap-for-officers-electronic-devices-to-1-8-lakh-126111100734_1.html",
-    "chips": {
-      "Price cap": "Rs 1.8 lakh"
-    },
-    "trend": [
-      0.5,
-      0.55,
-      0.45,
-      0.5,
-      0.47,
-      0.52,
-      0.5
-    ],
-    "color": "B7791F",
-    "premium": false,
-    "title_hi": "सरकार ने अधिकारियों के इलेक्ट्रॉनिक उपकरणों की मूल्य सीमा बढ़ाई",
-    "summary_hi": "केंद्र सरकार ने योग्य अधिकारियों के लिए लैपटॉप और टैबलेट जैसे उपकरणों की मूल्य सीमा को बढ़ाकर टैक्स सहित 1.8 लाख रुपये कर दिया है। सेक्शन ऑफिसर रैंक और उससे ऊपर के अधिकारी इन गैजेट्स को चार साल बाद अपने पास रख सकते हैं। नए दिशानिर्देशों ने जुलाई 2023 के नियमों की जगह ली है।",
-    "why_hi": "प्रशासनिक खरीद दिशानिर्देशों में सामान्य बदलाव।",
-    "chips_hi": {
-      "मूल्य सीमा": "₹1.8 लाख"
-    },
-    "hi_tries": 0,
-    "hi_ver": 2
-  },
-  {
-    "v": 3,
-    "cat": "Companies",
-    "tk": "QUALCOMM",
-    "title": "Qualcomm cuts jobs in India as part of global restructuring",
-    "summary": "Qualcomm has started reducing its workforce in India, beginning with the Bengaluru facility. This move is part of a larger global restructuring plan. Around 1,000 jobs are potentially at risk due to these ongoing workforce reductions across the company.",
-    "source": "Business Standard",
-    "published": "2026-11-11T09:37:15+00:00",
-    "ago": "47m",
-    "impact": "Negative",
-    "why": "Job cuts signal restructuring and operational challenges.",
-    "url": "https://www.business-standard.com/companies/news/qualcomm-starts-india-layoffs-around-1-000-jobs-potentially-at-risk-126111100761_1.html",
-    "chips": {
-      "Jobs at risk": "1,000"
-    },
-    "trend": [
-      0.95,
-      0.85,
-      0.7,
-      0.6,
-      0.4,
-      0.3,
-      0.1
-    ],
-    "color": "9B2C2C",
-    "premium": false,
-    "title_hi": "Qualcomm ने भारत में शुरू की छंटनी, 1,000 नौकरियां खतरे में",
-    "summary_hi": "Qualcomm ने ग्लोबल रीस्ट्रक्चरिंग के तहत भारत में कर्मचारियों की संख्या कम करना शुरू कर दिया है। इसकी शुरुआत बेंगलुरु फैसिलिटी से हुई है। इस वैश्विक बदलाव के कारण देश भर में लगभग 1,000 नौकरियां खतरे में पड़ सकती हैं।",
-    "why_hi": "छंटनी से कंपनी के रीस्ट्रक्चरिंग संकेत मिलते हैं।",
-    "chips_hi": {
-      "नौकरियां खतरे में": "1,000"
-    },
     "hi_tries": 0,
     "hi_ver": 2
   }
