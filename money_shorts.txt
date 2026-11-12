@@ -1,6 +1,191 @@
 [
   {
     "v": 3,
+    "cat": "Markets",
+    "tk": "PAYTM",
+    "title": "Could Nifty climb to 25,500 levels according to experts?",
+    "summary": "Market expert Ajit Mishra suggests that investors use any market dips to accumulate quality stocks rather than chase extended rallies. He also highlights Paytm as one of three stock ideas to watch, while projecting a potential movement for the Nifty index towards the 25,500 to 25,750 range.",
+    "source": "Business Standard",
+    "published": "2026-11-12T02:13:01+00:00",
+    "ago": "11m",
+    "impact": "Neutral",
+    "why": "Broking expert shares market outlook and stock ideas.",
+    "url": "https://www.business-standard.com/markets/news/stocks-to-buy-today-nifty-could-move-to-25-500-25-750-paytm-among-3-stock-ideas-ajit-mishra-126111200062_1.html",
+    "chips": {},
+    "trend": [
+      0.5,
+      0.55,
+      0.45,
+      0.5,
+      0.47,
+      0.52,
+      0.5
+    ],
+    "color": "B7791F",
+    "premium": false,
+    "title_hi": "क्या Nifty 25,500 के स्तर तक जा सकता है?",
+    "summary_hi": "विशेषज्ञ अजीत मिश्रा का सुझाव है कि निवेशकों को बाजार में गिरावट का उपयोग गुणवत्तापूर्ण शेयर जोड़ने के लिए करना चाहिए। उन्होंने Paytm समेत तीन शेयरों का जिक्र किया है और Nifty के 25,500 से 25,750 के दायरे में जाने की संभावना जताई है।",
+    "why_hi": "ब्रोकरेज विशेषज्ञ ने बाजार का दृष्टिकोण साझा किया।",
+    "chips_hi": {}
+  },
+  {
+    "v": 3,
+    "cat": "Markets",
+    "tk": "BSE",
+    "title": "BSE traders face technical issues while NCDEX launches steel scrap futures",
+    "summary": "BSE traders encountered difficulties executing limit orders during derivatives price update issues. Meanwhile, the National Commodity and Derivatives Exchange introduced steel scrap futures. This new contract aims to assist manufacturers and market participants in managing price volatility and hedging risks effectively in the metal sector.",
+    "source": "Business Standard",
+    "published": "2026-11-11T18:25:13+00:00",
+    "ago": "7h",
+    "impact": "Neutral",
+    "why": "Technical glitch and new futures contract launch.",
+    "url": "https://www.business-standard.com/markets/news/bse-traders-face-technical-glitch-ncdex-launches-steel-scrap-futures-126111101646_1.html",
+    "chips": {},
+    "trend": [
+      0.5,
+      0.55,
+      0.45,
+      0.5,
+      0.47,
+      0.52,
+      0.5
+    ],
+    "color": "B7791F",
+    "premium": false,
+    "hi_tries": 1
+  },
+  {
+    "v": 3,
+    "cat": "Companies",
+    "tk": "ALEMBIC",
+    "title": "Alembic plans 30 US drug launches despite losing exclusivity",
+    "summary": "Alembic aims for about forty percent US growth in fiscal year twenty twenty seven. This strategy relies on thirty upcoming product launches and a strong focus on complex generics. The drugmaker also plans to boost domestic sales productivity to maintain its overall business growth as previous product exclusivity ends.",
+    "source": "Business Standard",
+    "published": "2026-11-11T17:57:17+00:00",
+    "ago": "8h",
+    "impact": "Positive",
+    "why": "New US launches drive strong growth.",
+    "url": "https://www.business-standard.com/companies/news/alembic-bets-on-30-us-drug-launches-to-sustain-growth-as-exclusivity-ends-126111000812_1.html",
+    "chips": {
+      "US growth target": "40 per cent",
+      "Fiscal year": "FY27",
+      "US drug launches": "30"
+    },
+    "trend": [
+      0.1,
+      0.25,
+      0.2,
+      0.5,
+      0.45,
+      0.8,
+      0.95
+    ],
+    "color": "0F766E",
+    "premium": true,
+    "title_hi": "Alembic की US में 30 नई दवाएं लाने की योजना",
+    "summary_hi": "Bosutinib की अनिवार्यता समाप्त होने के बावजूद Alembic को वित्त वर्ष 27 में US में लगभग 40 प्रतिशत वृद्धि की उम्मीद है। कंपनी जटिल जेनेरिक उत्पादों और घरेलू बिक्री उत्पादकता में सुधार पर ध्यान केंद्रित कर रही है। विकास को बनाए रखने के लिए तीस नए उत्पाद लॉन्च की योजना बनाई गई है।",
+    "why_hi": "नए उत्पादों से वृद्धि को बढ़ावा मिलेगा।",
+    "chips_hi": {
+      "US वृद्धि लक्ष्य": "40 प्रतिशत",
+      "वित्त वर्ष": "FY27",
+      "US दवा लॉन्च": "30"
+    }
+  },
+  {
+    "v": 3,
+    "cat": "Companies",
+    "tk": "CITI",
+    "title": "Where do Indian firms find new merger opportunities today?",
+    "summary": "Citi executive Viswas Raghavan states that Indian businesses have merger and acquisition opportunities in Europe. He points to strong pipelines for public offerings and cross-border transactions despite global uncertainties. Additionally, he emphasizes that the country needs to evolve into an artificial intelligence native nation to stay competitive in the current landscape.",
+    "source": "Business Standard",
+    "published": "2026-11-11T17:56:29+00:00",
+    "ago": "8h",
+    "impact": "Positive",
+    "why": "Strong deal pipelines indicate healthy business expansion.",
+    "url": "https://www.business-standard.com/companies/people/m-a-opportunities-existfor-indian-firms-in-europe-citi-s-viswas-raghavan-126111101628_1.html",
+    "chips": {},
+    "trend": [
+      0.1,
+      0.25,
+      0.2,
+      0.5,
+      0.45,
+      0.8,
+      0.95
+    ],
+    "color": "0F766E",
+    "premium": true,
+    "title_hi": "भारतीय कंपनियों के लिए यूरोप में क्या अवसर हैं?",
+    "summary_hi": "Citi के Viswas Raghavan का कहना है कि भारतीय फर्मों के पास यूरोप में विलय और अधिग्रहण के अवसर मौजूद हैं। वैश्विक अनिश्चितताओं के बीच आईपीओ और क्रॉस-बोर्डन सौदों के लिए मजबूत पाइपलाइन दिख रही है। उन्होंने यह भी कहा कि देश को एआई-नेटिव राष्ट्र बनना चाहिए।",
+    "why_hi": "मजबूत सौदों की पाइपलाइन से विकास का संकेत मिलता है।",
+    "chips_hi": {}
+  },
+  {
+    "v": 3,
+    "cat": "Industry",
+    "tk": "IIFL FINANCE",
+    "title": "Why is Fairfax planning to exit its stake in IIFL Finance?",
+    "summary": "Fairfax Financial intends to sell its nearly 11 percent stake in IIFL Finance. This move is designed to generate funds for the proposed acquisition of a 60 percent stake in IDBI Bank. The strategic shift involves divesting from one financial firm to secure capital for another major banking acquisition.",
+    "source": "Business Standard / Reuters",
+    "published": "2026-11-11T17:55:47+00:00",
+    "ago": "8h",
+    "impact": "Neutral",
+    "why": "Fundraising for a major bank acquisition.",
+    "url": "https://www.business-standard.com/industry/banking/fairfax-likely-to-exit-iifl-finance-to-fund-its-acquisition-of-idbi-bank-126111100864_1.html",
+    "chips": {
+      "Stake exit": "nearly 11%",
+      "Target stake": "60%"
+    },
+    "trend": [
+      0.5,
+      0.55,
+      0.45,
+      0.5,
+      0.47,
+      0.52,
+      0.5
+    ],
+    "color": "B7791F",
+    "premium": false,
+    "title_hi": "Fairfax क्यों बेच रहा है अपनी IIFL Finance में हिस्सेदारी?",
+    "summary_hi": "Fairfax Financial अपनी लगभग 11 प्रतिशत हिस्सेदारी IIFL Finance से बेचने की योजना बना रहा है। इस कदम का उद्देश्य IDBI Bank में 60 प्रतिशत हिस्सेदारी के प्रस्तावित अधिग्रहण के लिए फंड जुटाना है। इस रणनीतिक बदलाव से एक वित्तीय फर्म से पूंजी निकालकर दूसरी बड़ी बैंकिंग खरीद के लिए उपयोग किया जाएगा।",
+    "why_hi": "बैंक अधिग्रहण के लिए फंड जुटाना।",
+    "chips_hi": {
+      "हिस्सेदारी बिक्री": "लगभग 11%",
+      "लक्ष्य हिस्सेदारी": "60%"
+    }
+  },
+  {
+    "v": 3,
+    "cat": "Industry",
+    "tk": "INDUSTRY",
+    "title": "Why are banks tightening merchant checks for fintech firms?",
+    "summary": "Banks are increasing security checks for merchant onboarding and payouts at fintech companies. This move comes as cyber fraud risks rise alongside record digital payment volumes during the festive season. Financial institutions aim to address security concerns in digital transactions.",
+    "source": "Business Standard",
+    "published": "2026-11-11T17:43:00+00:00",
+    "ago": "8h",
+    "impact": "Neutral",
+    "why": "Addressing rising cyber fraud risks in digital payments.",
+    "url": "https://www.business-standard.com/industry/banking/banks-push-fintechs-to-plug-fraud-risks-amid-surge-in-digital-payments-126111101618_1.html",
+    "chips": {},
+    "trend": [
+      0.5,
+      0.55,
+      0.45,
+      0.5,
+      0.47,
+      0.52,
+      0.5
+    ],
+    "color": "B7791F",
+    "premium": true,
+    "title_hi": "बैंक फिनटेक कंपनियों पर मर्चेंट जांच क्यों बढ़ा रहे हैं?",
+    "summary_hi": "त्योहारों के दौरान डिजिटल भुगतान में रिकॉर्ड बढ़ोतरी और बढ़ते साइबर धोखाधड़ी के जोखिमों के बीच बैंक फिनटेक फर्मों पर मर्चेंट ऑनबोर्डिंग और पेआउट जांच सख्त कर रहे हैं।",
+    "why_hi": "डिजिटल भुगतान में बढ़ते साइबर धोखाधड़ी के जोखिम।",
+    "chips_hi": {}
+  },
+  {
+    "v": 3,
     "cat": "Economy",
     "tk": "ECONOMY",
     "title": "Why did the rupee reach a seven-month high?",
@@ -26,7 +211,9 @@
     "title_hi": "रुपया सात महीने के उच्च स्तर पर क्यों पहुंचा?",
     "summary_hi": "अन्य एशियाई मुद्राओं के मुकाबले भारतीय रुपया मजबूत होकर सात महीने के उच्च स्तर पर पहुंच गया। मजबूत अमेरिकी डॉलर के बावजूद विदेशी पोर्टफोलियो inflows और सकारात्मक बाजार धारणा के कारण इसे समर्थन मिला।",
     "why_hi": "विदेशी inflows से मुद्रा को मिला समर्थन।",
-    "chips_hi": {}
+    "chips_hi": {},
+    "hi_tries": 0,
+    "hi_ver": 2
   },
   {
     "v": 3,
@@ -61,7 +248,9 @@
     "chips_hi": {
       "नेट इक्विटी इनफ्लो": "₹32,994 करोड़",
       "एसआईपी योगदान": "₹32,160 करोड़"
-    }
+    },
+    "hi_tries": 0,
+    "hi_ver": 2
   },
   {
     "v": 3,
@@ -96,7 +285,9 @@
     "chips_hi": {
       "पिछली बचत": "$100 billion",
       "संभावित बचत": "$240 billion"
-    }
+    },
+    "hi_tries": 0,
+    "hi_ver": 2
   },
   {
     "v": 3,
@@ -122,11 +313,12 @@
     ],
     "color": "9B2C2C",
     "premium": false,
-    "hi_tries": 1,
+    "hi_tries": 0,
     "title_hi": "फेस्टिव सीज़न के बाद क्यों धीमी हो सकती है टू-व्हीलर की रफ्तार?",
     "summary_hi": "त्योहारी सीजन में शानदार बिक्री के बाद, चालू वित्त वर्ष की दूसरी छमाही में टू-व्हीलर कंपनियों की ग्रोथ सुस्त पड़ने की आशंका है। पिछले साल का मजबूत आधार, ग्रामीण इलाकों में मांग का धीरे-धीरे पटरी पर लौटना और प्रीमियम तथा सस्ती बाइक्स की बिक्री में बढ़ता अंतर इसके मुख्य कारण हैं।",
     "why_hi": "ग्रामीण मांग में सुधार की कमी और पिछले साल के ऊंचे आंकड़ों के कारण रफ्तार धीमी ह",
-    "chips_hi": {}
+    "chips_hi": {},
+    "hi_ver": 2
   },
   {
     "v": 3,
@@ -155,7 +347,9 @@
     "title_hi": "Moody's ने भारत की ग्रोथ रेट 7% पर क्यों बरकरार रखी?",
     "summary_hi": "Moody's ने वित्त वर्ष के लिए भारत का विकास अनुमान सात प्रतिशत पर स्थिर रखा है। रेटिंग एजेंसी मजबूत घरेलू खपत और बेहतर निजी निवेश को इसके मुख्य कारण मानती है। हालांकि, एजेंसी ने बढ़ती महंगाई, मानसून के जोखिम और सख्त मौद्रिक नीति को लेकर चेतावनी भी दी है।",
     "why_hi": "मजबूत मांग से आर्थिक वृद्धि को समर्थन मिला है।",
-    "chips_hi": {}
+    "chips_hi": {},
+    "hi_tries": 0,
+    "hi_ver": 2
   },
   {
     "v": 3,
@@ -184,7 +378,9 @@
     "title_hi": "R Systems की कमाई में AI की हिस्सेदारी क्यों बढ़ रही है?",
     "summary_hi": "R Systems के एमडी और सीईओ नितेश बंसल के अनुसार, आर्टिफिशियल इंटेलिजेंस-नेटिव उत्पादों और सेवाओं से कंपनी को एक महत्वपूर्ण हिस्सा मिल रहा है। इस बीच, पारंपरिक इंजीनियरिंग सेवाओं में धीरे-धीरे गिरावट आ रही है।",
     "why_hi": "उत्पाद और सेवा खंडों में मिले-जुले रुझान।",
-    "chips_hi": {}
+    "chips_hi": {},
+    "hi_tries": 0,
+    "hi_ver": 2
   },
   {
     "v": 3,
@@ -213,7 +409,9 @@
     "title_hi": "क्या आपका मकान मालिक आपका सिक्योरिटी डिपॉजिट रोक सकता है?",
     "summary_hi": "किरायेदार स्पष्ट रिफंड शर्तें तय करके, संपत्ति की स्थिति के सबूत रखकर और बिना वजह काटे गए पैसों को चुनौती देकर अपने सिक्योरिटी डिपॉजिट को सुरक्षित रख सकते हैं।",
     "why_hi": "किराए के पैसों से जुड़े अधिकार।",
-    "chips_hi": {}
+    "chips_hi": {},
+    "hi_tries": 0,
+    "hi_ver": 2
   },
   {
     "v": 3,
@@ -239,7 +437,8 @@
     ],
     "color": "0F766E",
     "premium": false,
-    "hi_tries": 1
+    "hi_tries": 1,
+    "hi_ver": 2
   },
   {
     "v": 3,
@@ -588,223 +787,5 @@
     "premium": false,
     "hi_tries": 2,
     "hi_ver": 2
-  },
-  {
-    "v": 3,
-    "cat": "Companies",
-    "tk": "COMPANIES",
-    "title": "Bright Outdoor Media shifts to main boards of BSE and NSE",
-    "summary": "Bright Outdoor Media has transitioned its shares to the main boards of the BSE and National Stock Exchange. The move from the SME platform supports the outdoor advertising firm's plans to expand its network, grow its digital billboard portfolio, and target new government and infrastructure projects.",
-    "source": "Business Standard / Press Trust of India",
-    "published": "2026-11-11T04:55:21+00:00",
-    "ago": "1h",
-    "impact": "Positive",
-    "why": "Main board shift supports expansion plans.",
-    "url": "https://www.business-standard.com/companies/news/bright-outdoor-media-moves-to-bse-nse-main-boards-eyes-expansion-126110800386_1.html",
-    "chips": {
-      "Founded in": "1980",
-      "Hoardings": "1,350+",
-      "Digital LEDs": "50+"
-    },
-    "trend": [
-      0.1,
-      0.25,
-      0.2,
-      0.5,
-      0.45,
-      0.8,
-      0.95
-    ],
-    "color": "0F766E",
-    "premium": false,
-    "hi_tries": 0,
-    "title_hi": "Bright Outdoor Media का BSE और NSE पर बड़ा कदम",
-    "summary_hi": "Bright Outdoor Media के शेयर अब BSE और NSE के मेन बोर्ड पर ट्रेड होंगे। SME प्लेटफॉर्म से इस शिफ्ट के बाद कंपनी अपने विज्ञापन नेटवर्क को बढ़ाने, डिजिटल होर्डिंग्स पोर्टफोलियो को मजबूत करने और नए सरकारी प्रोजेक्ट्स हासिल करने की तैयारी में है।",
-    "why_hi": "मेन बोर्ड पर आने से कंपनी के विस्तार योजनाओं को बढ़ावा मिलेगा।",
-    "chips_hi": {
-      "स्थापना": "1980",
-      "होर्डिंग्स": "1,350+",
-      "डिजिटल LEDs": "50+"
-    },
-    "hi_ver": 2
-  },
-  {
-    "v": 3,
-    "cat": "Finance",
-    "tk": "AMAZON",
-    "title": "Amazon Pay sale offers up to 65% off on hotels",
-    "summary": "Amazon Pay is launching its Impossible Travel Deals 2026 sale, providing discounts of up to 65 percent on hotel bookings and 30 percent on flight tickets. The special promotional event runs for two weeks, starting on November 12 and concluding on November 26, giving travellers a chance to save on their holiday planning expenses.",
-    "source": "Business Standard",
-    "published": "2026-11-11T04:42:31+00:00",
-    "ago": "1h",
-    "impact": "Positive",
-    "why": "Discounts could drive higher booking volumes.",
-    "url": "https://www.business-standard.com/finance/personal-finance/holiday-planning-amazon-pay-sale-offers-65-off-on-hotels-30-on-flights-126111100267_1.html",
-    "chips": {
-      "Hotel discount": "65%",
-      "Flight discount": "30%"
-    },
-    "trend": [
-      0.1,
-      0.25,
-      0.2,
-      0.5,
-      0.45,
-      0.8,
-      0.95
-    ],
-    "color": "0F766E",
-    "premium": false,
-    "title_hi": "Amazon Pay sale पर होटल्स पर मिल रही है 65% तक छूट",
-    "summary_hi": "Amazon Pay अपना Impossible Travel Deals 2026 सेल वापस लेकर आ रहा है। यह सेल 12 नवंबर से 26 नवंबर तक चलेगी, जिसमें फ्लाइट बुकिंग पर 30 प्रतिशत तक और होटल बुकिंग पर 65 प्रतिशत तक की छूट दी जा रही है।",
-    "why_hi": "छूट मिलने से बुकिंग बढ़ सकती है।",
-    "chips_hi": {
-      "होटल छूट": "65%",
-      "फ्लाइट छूट": "30%"
-    },
-    "hi_tries": 0,
-    "hi_ver": 2
-  },
-  {
-    "v": 3,
-    "cat": "Earnings",
-    "tk": "KALYAN JEWELLERS",
-    "title": "Kalyan Jewellers shares jump ten-fold in volume and hit a yearly peak",
-    "summary": "Shares of Kalyan Jewellers climbed ten percent to reach a new fifty-two-week high following the release of second quarter results. Trading activity surged sharply as nearly seventeen million shares were traded across major stock exchanges during morning hours.",
-    "source": "Business Standard",
-    "published": "2026-11-11T04:41:56+00:00",
-    "ago": "1h",
-    "impact": "Positive",
-    "why": "Higher trading volume and new peak price.",
-    "url": "https://www.business-standard.com/markets/news/kalyan-jewellers-surges-10-hits-52-week-high-post-q2-results-126111100244_1.html",
-    "chips": {
-      "Trading volume": "17.37 million shares"
-    },
-    "trend": [
-      0.1,
-      0.25,
-      0.2,
-      0.5,
-      0.45,
-      0.8,
-      0.95
-    ],
-    "color": "0F766E",
-    "premium": false,
-    "title_hi": "Kalyan Jewellers के शेयरों में भारी तेजी, stock ने छुआ नया high",
-    "summary_hi": "Q2 के नतीजों के बाद Kalyan Jewellers के शेयरों में दस प्रतिशत की तेजी आई और यह 52-week के उच्च स्तर पर पहुंच गया। सुबह के समय NSE और BSE पर सत्रह लाख से ज्यादा शेयरों का आदान-प्रदान हुआ।",
-    "why_hi": "बढ़ी हुई ट्रेडिंग और नया उच्च स्तर।",
-    "chips_hi": {
-      "ट्रेडिंग वॉल्यूम": "17.37 million shares"
-    },
-    "hi_tries": 0,
-    "hi_ver": 2
-  },
-  {
-    "v": 3,
-    "cat": "Earnings",
-    "tk": "COCHIN SHIPYARD",
-    "title": "Why did Cochin Shipyard profits drop by nearly half?",
-    "summary": "Cochin Shipyard reported a significant decline in its quarterly financial performance. The company's consolidated net profit fell by 49.9 per cent compared to the same period in the previous year. This drop in earnings has led to a sharp decrease in the stock price during recent market trading hours.",
-    "source": "Business Standard",
-    "published": "2026-11-11T04:40:29+00:00",
-    "ago": "1h",
-    "impact": "Negative",
-    "why": "Profit declined by nearly half year-on-year.",
-    "url": "https://www.business-standard.com/markets/news/cochin-shipyard-share-price-tanks-8-post-q2-show-what-s-plaguing-the-defence-stock-126111100253_1.html",
-    "chips": {
-      "Net profit drop": "49.9 per cent",
-      "Q2 FY27 net profit": "₹53.77 crore",
-      "Year-ago period prof": "₹107.53 crore"
-    },
-    "trend": [
-      0.95,
-      0.85,
-      0.7,
-      0.6,
-      0.4,
-      0.3,
-      0.1
-    ],
-    "color": "9B2C2C",
-    "premium": false,
-    "title_hi": "Cochin Shipyard का मुनाफा आधा क्यों रह गया?",
-    "summary_hi": "Cochin Shipyard का तिमाही वित्तीय प्रदर्शन कमजोर रहा है। कंपनी का समेकित शुद्ध लाभ पिछले वर्ष की इसी अवधि की तुलना में 49.9 प्रतिशत कम हुआ है। कमाई में इस बड़ी गिरावट के कारण शेयर की कीमत में भी तेज कमजोरी देखने को मिली है।",
-    "why_hi": "मुनाफे में भारी गिरावट दर्ज की गई।",
-    "chips_hi": {
-      "शुद्ध लाभ में गिरावट": "49.9 प्रतिशत",
-      "Q2 FY27 शुद्ध लाभ": "₹53.77 करोड़",
-      "पिछले वर्ष का लाभ": "₹107.53 करोड़"
-    },
-    "hi_tries": 0,
-    "hi_ver": 2
-  },
-  {
-    "v": 3,
-    "cat": "Earnings",
-    "tk": "PB FINTECH",
-    "title": "Why did retail buyers and FPIs diverge on PB Fintech?",
-    "summary": "During the second quarter, retail investors increased their focus on the business of PB Fintech. Meanwhile, foreign portfolio investors turned cautious. Analysts noted that the reaction from foreign investors was triggered by a recent policy shock.",
-    "source": "Business Standard",
-    "published": "2026-11-11T01:44:22+00:00",
-    "ago": "33m",
-    "impact": "Neutral",
-    "why": "Mixed buying and selling by different investors.",
-    "url": "https://www.business-standard.com/markets/news/pb-fintech-retailers-buy-fpis-turn-wary-in-q2-who-got-right-end-of-deal-126111100075_1.html",
-    "chips": {},
-    "trend": [
-      0.5,
-      0.55,
-      0.45,
-      0.5,
-      0.47,
-      0.52,
-      0.5
-    ],
-    "color": "B7791F",
-    "premium": false,
-    "title_hi": "Q2 में PB Fintech पर रिटेल निवेशकों और FPIs की राहें क्यों अलग हुईं?",
-    "summary_hi": "दूसरी तिमाही में रिटेल निवेशकों ने PB Fintech के बिजनेस पर ध्यान केंद्रित किया। इस बीच, फॉरेन पोर्टफोलियो इन्वेस्टर्स ने सतर्क रुख अपनाया। विश्लेषकों के अनुसार, विदेशी निवेशकों की यह प्रतिक्रिया एक नीतिगत झटके के कारण थी।",
-    "why_hi": "अलग-अलग निवेशकों की मिली-जुली प्रतिक्रिया।",
-    "chips_hi": {},
-    "hi_tries": 0,
-    "hi_ver": 2
-  },
-  {
-    "v": 3,
-    "cat": "Economy",
-    "tk": "ECONOMY",
-    "title": "Odisha removes pension limits, adding over 500,000 new beneficiaries",
-    "summary": "The state government has removed the quota-based system for pensions, widening the reach of the Madhu Babu Pension Yojana. This change brings the total count of beneficiaries to 4.18 million. An extra annual financial commitment of Rs 625 crore supports this expansion across the state, ensuring broader welfare support for eligible residents under the revised scheme rules.",
-    "source": "Business Standard",
-    "published": "2026-11-10T18:32:00+00:00",
-    "ago": "7h",
-    "impact": "Neutral",
-    "why": "Welfare policy change with no corporate impact.",
-    "url": "https://www.business-standard.com/economy/news/odisha-scraps-pension-quota-system-adds-over-500-000-beneficiaries-126111100004_1.html",
-    "chips": {
-      "Beneficiaries": "4.18 million",
-      "Additional annual co": "Rs 625 crore"
-    },
-    "trend": [
-      0.5,
-      0.55,
-      0.45,
-      0.5,
-      0.47,
-      0.52,
-      0.5
-    ],
-    "color": "B7791F",
-    "premium": false,
-    "hi_tries": 1,
-    "hi_ver": 2,
-    "title_hi": "ओडिशा सरकार का बड़ा फैसला, अब लाखों लोगों को मिलेगी पेंशन",
-    "summary_hi": "राज्य सरकार ने पेंशन योजनाओं से कोटा की सीमा हटा दी है। इससे मधु बाबू पेंशन योजना का दायरा काफी बढ़ गया है और अब लाखों नए लोग इससे जुड़ गए हैं। इस बड़े बदलाव से सरकार पर हर साल अतिरिक्त वित्तीय बोझ बढ़ेगा, जिससे राज्य के जरूरतमंद नागरिकों को सीधी आर्थिक मदद मिल सकेगी।",
-    "why_hi": "Welfare policy change with no corporate impact.",
-    "chips_hi": {
-      "कुल लाभार्थी": "4.18 million",
-      "अतिरिक्त खर्च": "₹625 करोड़"
-    }
   }
 ]
