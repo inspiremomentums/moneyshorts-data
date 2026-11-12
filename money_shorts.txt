@@ -1,6 +1,171 @@
 [
   {
     "v": 3,
+    "cat": "Industry",
+    "tk": "KIA",
+    "title": "Kia plans $2 billion Andhra investment to boost capacity",
+    "summary": "Kia is investing $2 billion in Andhra Pradesh to expand its manufacturing footprint. This move will raise its production capacity to 630,000 units, supporting the company's goal to make India a major global production and export hub for vehicles.",
+    "source": "Business Standard",
+    "published": "2026-11-12T06:13:02+00:00",
+    "ago": "13m",
+    "impact": "Positive",
+    "why": "Expands manufacturing capacity and export potential.",
+    "url": "https://www.business-standard.com/industry/agriculture/kia-india-andhra-pradesh-expansion-2-billion-capacity-630000-units-126111200365_1.html",
+    "chips": {
+      "Investment": "$2 billion",
+      "Capacity": "630,000 units"
+    },
+    "trend": [
+      0.1,
+      0.25,
+      0.2,
+      0.5,
+      0.45,
+      0.8,
+      0.95
+    ],
+    "color": "0F766E",
+    "premium": false,
+    "title_hi": "Kia का आंध्र प्रदेश में 2 अरब डॉलर का निवेश",
+    "summary_hi": "Kia ने आंध्र प्रदेश में अपना मैन्युफैक्चरिंग दायरा बढ़ाने के लिए 2 अरब डॉलर के निवेश की योजना बनाई है। इससे कंपनी की उत्पादन क्षमता बढ़कर 6,30,000 यूनिट हो जाएगी, जिससे भारत को एक वैश्विक उत्पादन और निर्यात केंद्र बनाने में मदद मिलेगी।",
+    "why_hi": "उत्पादन क्षमता और निर्यात में बढ़ोतरी होगी।",
+    "chips_hi": {
+      "निवेश": "$2 अरब",
+      "क्षमता": "6,30,000 यूनिट"
+    }
+  },
+  {
+    "v": 3,
+    "cat": "Markets",
+    "tk": "MARKETS",
+    "title": "Why are gold and silver prices falling right now?",
+    "summary": "Precious metals saw a decline as market expectations for a December rate hike grew stronger. At the time of the report, gold futures on Comex traded near $3,990 per ounce, while silver hovered around $51.40 per ounce.",
+    "source": "Business Standard",
+    "published": "2026-11-12T05:59:58+00:00",
+    "ago": "26m",
+    "impact": "Negative",
+    "why": "Rate hike expectations pressure precious metal prices.",
+    "url": "https://www.business-standard.com/markets/commodities/gold-silver-fall-as-expectations-of-december-rate-hike-strengthen-126111200351_1.html",
+    "chips": {
+      "Gold futures": "$3,990 per ounce",
+      "Silver": "$51.40 per ounce"
+    },
+    "trend": [
+      0.95,
+      0.85,
+      0.7,
+      0.6,
+      0.4,
+      0.3,
+      0.1
+    ],
+    "color": "9B2C2C",
+    "premium": false,
+    "title_hi": "दिसंबर में रेट हाइक की उम्मीदों से क्यों गिरे सोना और चांदी?",
+    "summary_hi": "दिसंबर में ब्याज दरें बढ़ने की उम्मीदें मजबूत होने से सोने और चांदी की कीमतों में गिरावट दर्ज की गई। इस दौरान Comex पर सोने के वायदा भाव करीब $3,990 प्रति औंस पर और चांदी करीब $51.40 प्रति औंस पर कारोबार कर रहे थे।",
+    "why_hi": "रेट हाइक की उम्मीदों से कीमतों पर दबाव।",
+    "chips_hi": {
+      "सोना वायदा": "$3,990 प्रति औंस",
+      "चांदी": "$51.40 प्रति औंस"
+    }
+  },
+  {
+    "v": 3,
+    "cat": "Finance",
+    "tk": "FINANCE",
+    "title": "Buying property in a relative's name can invite tax scrutiny",
+    "summary": "Purchasing a house in the name of a relative does not automatically protect the transaction from tax scrutiny. Authorities examine specific factors such as the source of funding, official ownership records, and proper documentation to determine the validity of the property purchase under relevant regulations.",
+    "source": "Business Standard",
+    "published": "2026-11-12T05:47:20+00:00",
+    "ago": "39m",
+    "impact": "Neutral",
+    "why": "Explores tax rules without giving financial advice.",
+    "url": "https://www.business-standard.com/finance/personal-finance/buying-a-house-in-a-relative-s-name-know-when-it-can-invite-tax-scrutiny-126111000509_1.html",
+    "chips": {},
+    "trend": [
+      0.5,
+      0.55,
+      0.45,
+      0.5,
+      0.47,
+      0.52,
+      0.5
+    ],
+    "color": "B7791F",
+    "premium": false,
+    "title_hi": "रिश्तेदार के नाम पर घर खरीदना क्यों बढ़ा सकता है टैक्स जांच?",
+    "summary_hi": "किसी रिश्तेदार के नाम पर संपत्ति खरीदने मात्र से वह ट्रांजैक्शन बेनामी जांच से सुरक्षित नहीं रहता है। अधिकारी यह तय करने के लिए फंडिंग के स्रोत, मालिकाना हक के रिकॉर्ड और दस्तावेजों की पूरी जांच करते हैं।",
+    "why_hi": "टैक्स नियमों से जुड़ी जानकारी देता है।",
+    "chips_hi": {}
+  },
+  {
+    "v": 3,
+    "cat": "Markets",
+    "tk": "TATA MOTORS CV",
+    "title": "Why did Tata Motors CV share rise for four straight days?",
+    "summary": "Tata Motors CV shares increased by four percent, extending gains for a fourth consecutive day. The stock rose over the past two trading days amid reports of strong commercial vehicle sales, pushing the value up further.",
+    "source": "Business Standard",
+    "published": "2026-11-12T05:34:49+00:00",
+    "ago": "54m",
+    "impact": "Positive",
+    "why": "Strong commercial vehicle sales drove the rally.",
+    "url": "https://www.business-standard.com/markets/news/tata-motors-cv-share-price-gains-4-up-for-4th-straight-day-here-s-why-126111200273_1.html",
+    "chips": {
+      "Share price gain": "4%",
+      "Rally in two days": "6.4%",
+      "Winning streak": "4 days"
+    },
+    "trend": [
+      0.1,
+      0.25,
+      0.2,
+      0.5,
+      0.45,
+      0.8,
+      0.95
+    ],
+    "color": "0F766E",
+    "premium": false,
+    "title_hi": "Tata Motors CV के शेयरों में लगातार चौथे दिन तेजी क्यों आई?",
+    "summary_hi": "Tata Motors CV के शेयर भाव में 4 प्रतिशत की वृद्धि हुई, जिससे यह लगातार चौथे दिन ऊपर चढ़े। मजबूत कमर्शियल वाहनों की बिक्री की रिपोर्ट के बीच पिछले दो सत्रों में स्टॉक में उछाल आया।",
+    "why_hi": "मजबूत कमर्शियल वाहन बिक्री से शेयरों में तेजी।",
+    "chips_hi": {
+      "शेयर बढ़त": "4%",
+      "दो दिन की तेजी": "6.4%",
+      "लगातार दिन": "4"
+    }
+  },
+  {
+    "v": 3,
+    "cat": "Companies",
+    "tk": "TATA POWER",
+    "title": "Tata Power seeks cost-linked Mundra tariff pacts with four states",
+    "summary": "Tata Power is working to finalize supplementary power purchase contracts with Rajasthan, Maharashtra, Punjab, and Haryana. This move follows a similar agreement already secured with Gujarat. The company aims to sell electricity through these cost-linked pacts across the additional regions, expanding its revised tariff arrangements beyond the initial state.",
+    "source": "Business Standard / Bloomberg",
+    "published": "2026-11-12T05:30:34+00:00",
+    "ago": "1h",
+    "impact": "Positive",
+    "why": "Expanding tariff agreements aids revenue stability.",
+    "url": "https://www.business-standard.com/companies/news/tata-power-seeks-cost-linked-mundra-tariff-pacts-with-4-more-states-126111200307_1.html",
+    "chips": {},
+    "trend": [
+      0.1,
+      0.25,
+      0.2,
+      0.5,
+      0.45,
+      0.8,
+      0.95
+    ],
+    "color": "0F766E",
+    "premium": false,
+    "title_hi": "Tata Power ने 4 और राज्यों के साथ Mundra टैरिफ समझौतों के लिए क्या कहा?",
+    "summary_hi": "Tata Power गुजरात के साथ समझौता पक्का करने के बाद अब राजस्थान, महाराष्ट्र, पंजाब और हरियाणा के साथ अतिरिक्त बिजली खरीद अनुबंधों को अंतिम रूप देने की कोशिश कर रहा है। कंपनी इन नए क्षेत्रों में संशोधित लागत-जुड़े टैरिफ समझौतों के तहत बिजली बेचने की तैयारी कर रही है।",
+    "why_hi": "नए समझौतों से कारोबार का विस्तार होगा।",
+    "chips_hi": {}
+  },
+  {
+    "v": 3,
     "cat": "Markets",
     "tk": "PAYTM",
     "title": "Could Nifty climb to 25,500 levels according to experts?",
@@ -26,7 +191,9 @@
     "title_hi": "क्या Nifty 25,500 के स्तर तक जा सकता है?",
     "summary_hi": "विशेषज्ञ अजीत मिश्रा का सुझाव है कि निवेशकों को बाजार में गिरावट का उपयोग गुणवत्तापूर्ण शेयर जोड़ने के लिए करना चाहिए। उन्होंने Paytm समेत तीन शेयरों का जिक्र किया है और Nifty के 25,500 से 25,750 के दायरे में जाने की संभावना जताई है।",
     "why_hi": "ब्रोकरेज विशेषज्ञ ने बाजार का दृष्टिकोण साझा किया।",
-    "chips_hi": {}
+    "chips_hi": {},
+    "hi_tries": 0,
+    "hi_ver": 2
   },
   {
     "v": 3,
@@ -52,7 +219,8 @@
     ],
     "color": "B7791F",
     "premium": false,
-    "hi_tries": 1
+    "hi_tries": 1,
+    "hi_ver": 2
   },
   {
     "v": 3,
@@ -89,7 +257,9 @@
       "US वृद्धि लक्ष्य": "40 प्रतिशत",
       "वित्त वर्ष": "FY27",
       "US दवा लॉन्च": "30"
-    }
+    },
+    "hi_tries": 0,
+    "hi_ver": 2
   },
   {
     "v": 3,
@@ -118,7 +288,9 @@
     "title_hi": "भारतीय कंपनियों के लिए यूरोप में क्या अवसर हैं?",
     "summary_hi": "Citi के Viswas Raghavan का कहना है कि भारतीय फर्मों के पास यूरोप में विलय और अधिग्रहण के अवसर मौजूद हैं। वैश्विक अनिश्चितताओं के बीच आईपीओ और क्रॉस-बोर्डन सौदों के लिए मजबूत पाइपलाइन दिख रही है। उन्होंने यह भी कहा कि देश को एआई-नेटिव राष्ट्र बनना चाहिए।",
     "why_hi": "मजबूत सौदों की पाइपलाइन से विकास का संकेत मिलता है।",
-    "chips_hi": {}
+    "chips_hi": {},
+    "hi_tries": 0,
+    "hi_ver": 2
   },
   {
     "v": 3,
@@ -153,7 +325,9 @@
     "chips_hi": {
       "हिस्सेदारी बिक्री": "लगभग 11%",
       "लक्ष्य हिस्सेदारी": "60%"
-    }
+    },
+    "hi_tries": 0,
+    "hi_ver": 2
   },
   {
     "v": 3,
@@ -182,7 +356,9 @@
     "title_hi": "बैंक फिनटेक कंपनियों पर मर्चेंट जांच क्यों बढ़ा रहे हैं?",
     "summary_hi": "त्योहारों के दौरान डिजिटल भुगतान में रिकॉर्ड बढ़ोतरी और बढ़ते साइबर धोखाधड़ी के जोखिमों के बीच बैंक फिनटेक फर्मों पर मर्चेंट ऑनबोर्डिंग और पेआउट जांच सख्त कर रहे हैं।",
     "why_hi": "डिजिटल भुगतान में बढ़ते साइबर धोखाधड़ी के जोखिम।",
-    "chips_hi": {}
+    "chips_hi": {},
+    "hi_tries": 0,
+    "hi_ver": 2
   },
   {
     "v": 3,
@@ -437,7 +613,7 @@
     ],
     "color": "0F766E",
     "premium": false,
-    "hi_tries": 1,
+    "hi_tries": 2,
     "hi_ver": 2
   },
   {
@@ -611,181 +787,6 @@
       "नौकरियां खतरे में": "1,000"
     },
     "hi_tries": 0,
-    "hi_ver": 2
-  },
-  {
-    "v": 3,
-    "cat": "Earnings",
-    "tk": "RENTOMOJO",
-    "title": "Rentomojo shares hit 52-week high despite profit dropping 63 percent",
-    "summary": "Rentomojo shares climbed 10 percent to reach a 52-week high. This movement occurred even as the company announced a 63 percent year-on-year drop in its consolidated net profit for the September quarter. The firm made its debut on Dalal Street in September of this year.",
-    "source": "Business Standard",
-    "published": "2026-11-11T09:22:26+00:00",
-    "ago": "1h",
-    "impact": "Neutral",
-    "why": "Profit drop contrasted with share price rise.",
-    "url": "https://www.business-standard.com/markets/news/rentomojo-climbs-10-to-52-wk-high-what-s-behind-gains-as-q2-pat-dips-63-126111100703_1.html",
-    "chips": {
-      "Share price jump": "10%",
-      "Net profit": "₹18.1 crore",
-      "Profit decline": "63%"
-    },
-    "trend": [
-      0.5,
-      0.55,
-      0.45,
-      0.5,
-      0.47,
-      0.52,
-      0.5
-    ],
-    "color": "B7791F",
-    "premium": false,
-    "title_hi": "प्रॉफिट में भारी गिरावट के बावजूद Rentomojo के शेयर क्यों चढ़े?",
-    "summary_hi": "Rentomojo के शेयरों में 10 प्रतिशत की तेजी आई और यह 52 हफ्ते के उच्चतम स्तर पर पहुंच गया। हालांकि कंपनी ने सितंबर तिमाही के लिए अपने समेकित शुद्ध लाभ में 63 प्रतिशत की वार्षिक गिरावट दर्ज की है। इस कंपनी ने इसी साल सितंबर में शेयर बाजार में शुरुआत की थी।",
-    "why_hi": "प्रॉफिट गिरने पर भी शेयर चढ़े।",
-    "chips_hi": {
-      "शेयर तेजी": "10%",
-      "शुद्ध लाभ": "₹18.1 करोड़",
-      "लाभ में गिरावट": "63%"
-    },
-    "hi_tries": 0,
-    "hi_ver": 2
-  },
-  {
-    "v": 3,
-    "cat": "Markets",
-    "tk": "MARKETS",
-    "title": "Why did equity mutual fund investments fall 14% in October?",
-    "summary": "Equity mutual fund investments dropped nearly 14 percent to Rs 32,994 crore in October, down from September. The industry body Amfi reported this decline was due to market correction. Despite the drop, it marks the 60th consecutive month of net inflows into the equity category, while total assets under management reached Rs 37.14 lakh crore.",
-    "source": "Business Standard / Press Trust of India",
-    "published": "2026-11-11T08:56:59+00:00",
-    "ago": "1h",
-    "impact": "Neutral",
-    "why": "Inflows fell due to market volatility.",
-    "url": "https://www.business-standard.com/markets/mutual-fund/equity-mf-investments-drop-14-to-33-000-crore-on-market-volatility-126111100637_1.html",
-    "chips": {
-      "October equity inves": "Rs 32,994 crore",
-      "September equity inv": "Rs 38,306 crore",
-      "Total equity AUM": "Rs 37.14 lakh crore"
-    },
-    "trend": [
-      0.5,
-      0.55,
-      0.45,
-      0.5,
-      0.47,
-      0.52,
-      0.5
-    ],
-    "color": "B7791F",
-    "premium": false,
-    "title_hi": "अक्टूबर में इक्विटी म्यूचुअल फंड निवेश 14% क्यों गिर गया?",
-    "summary_hi": "Amfi के अनुसार, अक्टूबर में इक्विटी म्यूचुअल फंड का निवेश लगभग 14 प्रतिशत घटकर 32,994 करोड़ रुपये रह गया, जो सितंबर में 38,306 करोड़ रुपये था। बाजार में सुधार के कारण यह गिरावट आई है। इसके बावजूद, इक्विटी श्रेणी में लगातार 60वें महीने शुद्ध निवेश आया है, और कुल एसेट अंडर मैनेजमेंट 37.14 लाख करोड़ रुपये पर पहुंच गया।",
-    "why_hi": "बाजार में उतार-चढ़ाव से निवेश घटा।",
-    "chips_hi": {
-      "अक्टूबर इक्विटी निवे": "₹32,994 करोड़",
-      "सितंबर इक्विटी निवेश": "₹38,306 करोड़",
-      "कुल इक्विटी AUM": "₹37.14 लाख करोड़"
-    },
-    "hi_tries": 0,
-    "hi_ver": 2
-  },
-  {
-    "v": 3,
-    "cat": "Industry",
-    "tk": "MOTHER DAIRY",
-    "title": "Mother Dairy raises milk prices by ₹2 to ₹4 per litre",
-    "summary": "Mother Dairy has increased milk prices by ₹2 to ₹4 per litre, following similar hikes by Nandini and Amul. This upward revision in retail prices is driven by rising costs associated with milk procurement, animal feed, fodder, transportation, and packaging materials.",
-    "source": "Business Standard",
-    "published": "2026-11-11T08:48:45+00:00",
-    "ago": "1h",
-    "impact": "Negative",
-    "why": "Higher operational and procurement costs drive hikes.",
-    "url": "https://www.business-standard.com/industry/news/after-nandini-mother-dairy-hikes-milk-rates-why-are-dairy-prices-rising-126111100682_1.html",
-    "chips": {
-      "Price hike": "₹2-4 per litre"
-    },
-    "trend": [
-      0.95,
-      0.85,
-      0.7,
-      0.6,
-      0.4,
-      0.3,
-      0.1
-    ],
-    "color": "9B2C2C",
-    "premium": false,
-    "title_hi": "Mother Dairy ने दूध के दाम ₹2 से ₹4 प्रति लीटर बढ़ाए",
-    "summary_hi": "Nandini और Amul के बाद Mother Dairy ने भी दूध की कीमतों में ₹2 से ₹4 प्रति लीटर की बढ़ोतरी कर दी है। दूध की खरीद, पशु आहार, चारे, ट्रांसपोर्ट और पैकेजिंग की लागत बढ़ने के कारण यह दाम बढ़ाए गए हैं।",
-    "why_hi": "बढ़ी हुई लागत के कारण दाम महंगे हुए।",
-    "chips_hi": {
-      "दाम वृद्धि": "₹2-4 प्रति लीटर"
-    },
-    "hi_tries": 0,
-    "hi_ver": 2
-  },
-  {
-    "v": 3,
-    "cat": "Markets",
-    "tk": "RVNL",
-    "title": "Why did railway stocks like RVNL and RailTel jump up to 7%?",
-    "summary": "Shares of railway companies including RVNL and RailTel rose by up to 7 percent. Market experts noted that these gains show renewed investor confidence in the railway sector following a nearly two-year phase of underperformance.",
-    "source": "Business Standard",
-    "published": "2026-11-11T05:53:58+00:00",
-    "ago": "27m",
-    "impact": "Positive",
-    "why": "Positive investor sentiment after prolonged underperformance",
-    "url": "https://www.business-standard.com/markets/news/railway-stocks-rvnl-railtel-irfc-gain-up-to-7-experts-see-valuation-comfort-126111100379_1.html",
-    "chips": {
-      "Stock gains": "up to 7%"
-    },
-    "trend": [
-      0.1,
-      0.25,
-      0.2,
-      0.5,
-      0.45,
-      0.8,
-      0.95
-    ],
-    "color": "0F766E",
-    "premium": false,
-    "title_hi": "RVNL और RailTel जैसे रेलवे शेयरों में 7% तक की तेजी क्यों आई?",
-    "summary_hi": "RVNL और RailTel सहित रेलवे कंपनियों के शेयर 7 प्रतिशत तक बढ़ गए। बाजार विशेषज्ञों ने बताया कि यह तेजी लगभग दो साल के सुस्त प्रदर्शन के बाद इस सेक्टर में निवेशकों के सकारात्मक रुख को दर्शाती है।",
-    "why_hi": "लंबे समय के सुस्त प्रदर्शन के बाद सकारात्मक निवेशकों का रुख।",
-    "chips_hi": {
-      "शेयर तेजी": "7% तक"
-    },
-    "hi_tries": 0,
-    "hi_ver": 2
-  },
-  {
-    "v": 3,
-    "cat": "Markets",
-    "tk": "MARKETS",
-    "title": "Nineteen NSE 500 stocks reach new life-time highs on Wednesday",
-    "summary": "Nineteen stocks from the NSE 500 index reached new life-time highs on Wednesday. Companies like Engineers India, Indian Hotels Company, Marico, Navin Fluorine International, Asahi India Glass, and Phoenix Mills were among those that touched these new peak levels during the trading session.",
-    "source": "Business Standard",
-    "published": "2026-11-11T05:42:47+00:00",
-    "ago": "38m",
-    "impact": "Positive",
-    "why": "Stocks touched new life-time highs.",
-    "url": "https://www.business-standard.com/markets/news/at-new-highs-eternal-groww-adani-ports-ather-16-more-nse-500-stocks-126111100312_1.html",
-    "chips": {},
-    "trend": [
-      0.1,
-      0.25,
-      0.2,
-      0.5,
-      0.45,
-      0.8,
-      0.95
-    ],
-    "color": "0F766E",
-    "premium": false,
-    "hi_tries": 2,
     "hi_ver": 2
   }
 ]
