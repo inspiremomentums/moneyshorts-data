@@ -2,6 +2,122 @@
   {
     "v": 3,
     "cat": "Earnings",
+    "tk": "NATCO PHARMA",
+    "title": "Natco Pharma Q2 net profit falls 61% to Rs 203 crore",
+    "summary": "Natco Pharma told the National Stock Exchange its consolidated net profit for the quarter ended 30 September 2026 fell 60.9% from a year earlier to Rs 202.6 crore, as revenue from operations dropped 29%.",
+    "source": "Oquilia",
+    "published": "2026-11-13T09:50:26.115000+00:00",
+    "ago": "33m",
+    "impact": "Negative",
+    "why": "Significant drop in net profit and revenue.",
+    "url": "https://www.oquilia.com/news/natco-pharma-q2-fy27-results-net-profit-falls",
+    "chips": {
+      "Net Profit Fall": "61%",
+      "Net Profit": "Rs 203 crore",
+      "Revenue Drop": "29%"
+    },
+    "trend": [
+      0.95,
+      0.85,
+      0.7,
+      0.6,
+      0.4,
+      0.3,
+      0.1
+    ],
+    "color": "9B2C2C",
+    "premium": false,
+    "verbatim": false,
+    "src_title": "Natco Pharma Q2 results: net profit falls 61% to Rs 203 crore",
+    "src_summary": "Natco Pharma told the National Stock Exchange its consolidated net profit for the quarter ended 30 September 2026 fell 60.9% from a year earlier to Rs 202.6 crore, as revenue from operations dropped 29%.",
+    "title_hi": "Natco Pharma Q2 net profit 61% घटकर Rs 203 crore हुआ",
+    "summary_hi": "Natco Pharma ने National Stock Exchange को बताया कि 30 सितंबर 2026 को समाप्त तिमाही के लिए उसका समेकित शुद्ध लाभ एक साल पहले की तुलना में 60.9% घटकर Rs 202.6 crore हो गया, क्योंकि परिचालन से राजस्व 29% गिर गया।",
+    "why_hi": "शुद्ध लाभ और राजस्व में भारी गिरावट।",
+    "chips_hi": {
+      "शुद्ध लाभ गिरावट": "61%",
+      "शुद्ध लाभ": "Rs 203 crore",
+      "राजस्व गिरावट": "29%"
+    }
+  },
+  {
+    "v": 3,
+    "cat": "Companies",
+    "tk": "COMPANIES",
+    "title": "McNally Bharat independent director resigns citing conflict",
+    "summary": "McNally Bharat Engineering told the National Stock Exchange that a non-executive independent director resigned from its board from 12 November 2026, to avoid a potential conflict of interest, the letter says.",
+    "source": "Oquilia",
+    "published": "2026-11-13T09:49:42.827000+00:00",
+    "ago": "34m",
+    "impact": "Negative",
+    "why": "Board resignation creates corporate governance uncertainty.",
+    "url": "https://www.oquilia.com/news/mcnally-bharat-independent-director-resignation-nse-filing",
+    "chips": {
+      "Resignation Date": "12 November 2026"
+    },
+    "trend": [
+      0.95,
+      0.85,
+      0.7,
+      0.6,
+      0.4,
+      0.3,
+      0.1
+    ],
+    "color": "9B2C2C",
+    "premium": false,
+    "verbatim": false,
+    "src_title": "McNally Bharat independent director resigns, cites conflict of interest",
+    "src_summary": "McNally Bharat Engineering told the National Stock Exchange that a non-executive independent director resigned from its board from 12 November 2026, to avoid a potential conflict of interest, the letter says.",
+    "title_hi": "McNally Bharat के स्वतंत्र निदेशक ने संघर्ष का हवाला देकर दिया इस्तीफा",
+    "summary_hi": "McNally Bharat Engineering ने National Stock Exchange को बताया कि एक गैर-कार्यकारी स्वतंत्र निदेशक ने 12 November 2026 से अपने बोर्ड से इस्तीफा दे दिया है, पत्र में कहा गया है कि यह संभावित हितों के टकराव से बचने के लिए था।",
+    "why_hi": "बोर्ड से इस्तीफा कॉर्पोरेट प्रशासन अनिश्चितता पैदा करता है।",
+    "chips_hi": {
+      "इस्तीफा तिथि": "12 November 2026"
+    }
+  },
+  {
+    "v": 3,
+    "cat": "Finance",
+    "tk": "FINANCE",
+    "title": "Income-tax Act 2025 Section 158 avoids double taxation on foreign pension accounts",
+    "summary": "Section 158 of the Income-tax Act 2025 lets returning residents align Indian tax on a 401(k), UK pension or RRSP with the year of withdrawal, via Form 40. What the law says.",
+    "source": "Oquilia",
+    "published": "2026-11-13T09:06:50.989000+00:00",
+    "ago": "1h",
+    "impact": "Neutral",
+    "why": "Clarifies tax rules for foreign pensions.",
+    "url": "https://www.oquilia.com/news/oquilia-research-returning-nri-401k-foreign-retirement-account-section-158",
+    "chips": {
+      "Section": "158",
+      "Act": "Income-tax Act 2025",
+      "Form": "Form 40"
+    },
+    "trend": [
+      0.5,
+      0.55,
+      0.45,
+      0.5,
+      0.47,
+      0.52,
+      0.5
+    ],
+    "color": "B7791F",
+    "premium": false,
+    "verbatim": false,
+    "src_title": "Moved Back With a 401(k) or Foreign Pension Account? How Section 158 of the Income-tax Act 2025 Avoids Taxing It Twice",
+    "src_summary": "Section 158 of the Income-tax Act 2025 lets returning residents align Indian tax on a 401(k), UK pension or RRSP with the year of withdrawal, via Form 40. What the law says.",
+    "title_hi": "Income-tax Act 2025 की धारा 158 विदेशी पेंशन खातों पर दोहरे कराधान से बचाती है",
+    "summary_hi": "Income-tax Act 2025 की धारा 158 भारत लौटने वाले निवासियों को Form 40 के माध्यम से 401(k), UK pension या RRSP पर भारतीय कर को निकासी के वर्ष के साथ संरेखित करने देती है। कानून क्या कहता है।",
+    "why_hi": "विदेशी पेंशन के लिए कर नियमों को स्पष्ट करता है।",
+    "chips_hi": {
+      "धारा": "158",
+      "अधिनियम": "Income-tax Act 2025",
+      "फॉर्म": "Form 40"
+    }
+  },
+  {
+    "v": 3,
+    "cat": "Earnings",
     "tk": "GILLETTE INDIA",
     "title": "Gillette India Q2 net profit rises 10.8% to Rs 159.1 crore",
     "summary": "Gillette India said in an NSE filing that its standalone net profit for the September 2026 quarter was Rs 159.1 crore, up 10.8% year on year, on revenue of Rs 846.1 crore.",
@@ -37,7 +153,9 @@
       "Net Profit": "Rs 159.1 crore",
       "Profit Growth": "10.8%",
       "Revenue": "Rs 846.1 crore"
-    }
+    },
+    "hi_tries": 0,
+    "hi_ver": 2
   },
   {
     "v": 3,
@@ -73,7 +191,9 @@
     "why_hi": "स्वतंत्र निदेशक का सामान्य इस्तीफा।",
     "chips_hi": {
       "इस्तीफा की तारीख": "12 नवंबर 2026"
-    }
+    },
+    "hi_tries": 0,
+    "hi_ver": 2
   },
   {
     "v": 3,
@@ -105,7 +225,9 @@
     "title_hi": "Yes Bank को जापानी एजेंसियों से पहली बार मिली A- और BBB+ रेटिंग",
     "summary_hi": "Yes Bank ने नेशनल स्टॉक एक्सचेंज को बताया कि Japan Credit Rating Agency ने इसे A- और Rating and Investment Information ने BBB+ रेटिंग दी है, दोनों के आउटलुक स्थिर हैं।",
     "why_hi": "जापानी एजेंसियों से पहली बार निवेश-ग्रेड रेटिंग।",
-    "chips_hi": {}
+    "chips_hi": {},
+    "hi_tries": 0,
+    "hi_ver": 2
   },
   {
     "v": 3,
@@ -143,7 +265,9 @@
     "chips_hi": {
       "हिस्सेदारी": "100%",
       "तारीख": "12 नवंबर 2026"
-    }
+    },
+    "hi_tries": 0,
+    "hi_ver": 2
   },
   {
     "v": 3,
@@ -183,7 +307,9 @@
       "Nifty 50": "25,299.35",
       "Nifty Bank": "1.19%",
       "स्मॉलकैप": "1.12%"
-    }
+    },
+    "hi_tries": 0,
+    "hi_ver": 2
   },
   {
     "v": 3,
@@ -216,7 +342,16 @@
     "verbatim": false,
     "src_title": "Foreign Retirement Account Income in ITR-2: Section 89A Relief, Form 10EE and the AY 2026-27 Validation Checks",
     "src_summary": "How residents defer tax on US, UK and Canadian retirement account income under section 89A, file Form 10-EE, and clear the nine ITR-2 validation checks for AY 2026-27.",
-    "hi_tries": 1
+    "hi_tries": 1,
+    "hi_ver": 2,
+    "title_hi": "ITR-2 में विदेशी सेवानिवृत्ति खाता आय: Section 89A राहत, Form 10EE और AY 2026-27 वैलिडेशन चेक",
+    "summary_hi": "जाने कि कैसे निवासी Section 89A के तहत US, UK और Canadian सेवानिवृत्ति खाते की आय पर टैक्स टालते हैं, Form 10-EE दाखिल करते हैं, और AY 2026-27 के लिए नौ ITR-2 वैलिडेशन चेक पास करते हैं।",
+    "why_hi": "बिना किसी सीधे वित्तीय प्रभाव वाला टैक्स प्रक्रिया अपडेट।",
+    "chips_hi": {
+      "असेसमेंट ईयर": "2026-27",
+      "फॉर्म": "Form 10-EE",
+      "चेक": "9"
+    }
   },
   {
     "v": 3,
@@ -248,7 +383,9 @@
     "title_hi": "NCLT ने भुगतान न होने पर Heavy Engineering Corporation को दिवालिया प्रक्रिया में स्वीकार किया",
     "summary_hi": "NCLT कोलकाता बेंच ने रांची स्थित Heavy Engineering Corporation को, जो भारत सरकार का उपक्रम है, एक छोटे सप्लायर की याचिका पर बकाया भुगतान न होने के कारण दिवालिया प्रक्रिया में स्वीकार कर लिया है।",
     "why_hi": "दिवालिया प्रक्रिया वित्तीय संकट दर्शाती है।",
-    "chips_hi": {}
+    "chips_hi": {},
+    "hi_tries": 0,
+    "hi_ver": 2
   },
   {
     "v": 3,
@@ -286,7 +423,9 @@
     "chips_hi": {
       "शुद्ध घाटा": "Rs 5,975 crore",
       "राजस्व": "Rs 11,884 crore"
-    }
+    },
+    "hi_tries": 0,
+    "hi_ver": 2
   },
   {
     "v": 3,
@@ -324,7 +463,9 @@
     "chips_hi": {
       "Nifty 50": "25,299.35",
       "बढ़ت": "0.18%"
-    }
+    },
+    "hi_tries": 0,
+    "hi_ver": 2
   },
   {
     "v": 3,
@@ -362,6 +503,259 @@
     "chips_hi": {
       "बायबैक आकार": "600 करोड़ रुपये",
       "कीमत": "91 रुपये"
+    },
+    "hi_tries": 0,
+    "hi_ver": 2
+  },
+  {
+    "v": 3,
+    "cat": "Companies",
+    "tk": "COMPANIES",
+    "title": "Popular Vehicles says auditor of material subsidiary Prabal Motors resigned",
+    "summary": "Popular Vehicles and Services told NSE that B S R and Co has resigned as statutory auditor of its material subsidiary Prabal Motors, citing rotation of the firm at the parent company.",
+    "source": "Oquilia",
+    "published": "2026-11-12T12:46:34.240000+00:00",
+    "ago": "21h",
+    "impact": "Neutral",
+    "why": "Auditor resignation due to rotation policy.",
+    "url": "https://www.oquilia.com/news/popular-vehicles-subsidiary-prabal-motors-auditor-resigns",
+    "chips": {},
+    "trend": [
+      0.5,
+      0.55,
+      0.45,
+      0.5,
+      0.47,
+      0.52,
+      0.5
+    ],
+    "color": "B7791F",
+    "premium": false,
+    "verbatim": false,
+    "src_title": "Popular Vehicles says auditor of material subsidiary Prabal Motors resigned",
+    "src_summary": "Popular Vehicles and Services told NSE that B S R and Co has resigned as statutory auditor of its material subsidiary Prabal Motors, citing rotation of the firm at the parent company.",
+    "title_hi": "Popular Vehicles ने कहा कि Prabal Motors के ऑडिटर ने इस्तीफा दिया",
+    "summary_hi": "Popular Vehicles and Services ने NSE को बताया कि B S R and Co ने parent company में फर्म के rotation का हवाला देते हुए अपनी material subsidiary Prabal Motors के statutory auditor के रूप में इस्तीफा दे दिया है।",
+    "why_hi": "रोशन नीति के कारण ऑडिटर का इस्तीफा।",
+    "chips_hi": {}
+  },
+  {
+    "v": 3,
+    "cat": "Companies",
+    "tk": "MABELLO DOORS &",
+    "title": "NCLT Cuttack admits Mabello Doors & Furniture into insolvency; claims due 18 November",
+    "summary": "The NCLT's Cuttack Bench has admitted Mabello Doors & Furniture Private Limited into insolvency from 4 November 2026, an IBBI-format public announcement says; creditors must file claims by 18 November 2026.",
+    "source": "Oquilia",
+    "published": "2026-11-12T12:35:32.054000+00:00",
+    "ago": "21h",
+    "impact": "Negative",
+    "why": "Company admitted into insolvency proceedings.",
+    "url": "https://www.oquilia.com/news/nclt-cuttack-admits-mabello-doors-furniture-into-insolvency",
+    "chips": {
+      "Claim date": "18 November 2026"
+    },
+    "trend": [
+      0.95,
+      0.85,
+      0.7,
+      0.6,
+      0.4,
+      0.3,
+      0.1
+    ],
+    "color": "9B2C2C",
+    "premium": false,
+    "verbatim": false,
+    "src_title": "NCLT Cuttack admits Mabello Doors & Furniture into insolvency; claims due 18 November",
+    "src_summary": "The NCLT's Cuttack Bench has admitted Mabello Doors & Furniture Private Limited into insolvency from 4 November 2026, an IBBI-format public announcement says; creditors must file claims by 18 November 2026.",
+    "title_hi": "NCLT Cuttack ने Mabello Doors & Furniture को दिवालिया घोषित किया",
+    "summary_hi": "IBBI-प्रारूप की सार्वजनिक घोषणा के अनुसार, NCLT की Cuttack बेंच ने 4 November 2026 से Mabello Doors & Furniture Private Limited को दिवालिया प्रक्रिया में स्वीकार कर लिया है; लेनदारों को 18 November 2026 तक दावे दाखिल करने होंगे।",
+    "why_hi": "कंपनी दिवालिया प्रक्रिया में शामिल।",
+    "chips_hi": {
+      "दावा तिथि": "18 November 2026"
+    }
+  },
+  {
+    "v": 3,
+    "cat": "Markets",
+    "tk": "ADANI PORTS",
+    "title": "Adani Ports agrees to buy Dutch liquid storage firm Evos at EUR 2.56 billion EV",
+    "summary": "Adani Ports and Special Economic Zone told the stock exchanges it has agreed to buy all of Evos B.V. for cash, with an equity consideration of EUR 1,184 million, funded by debt.",
+    "source": "Oquilia",
+    "published": "2026-11-12T12:20:25.552000+00:00",
+    "ago": "22h",
+    "impact": "Positive",
+    "why": "Expands global terminal footprint through strategic acquisit",
+    "url": "https://www.oquilia.com/news/adani-ports-agrees-to-buy-evos-liquid-storage-enterprise-value",
+    "chips": {
+      "Enterprise Value": "EUR 2.56 billion",
+      "Equity Consideration": "EUR 1,184 million"
+    },
+    "trend": [
+      0.1,
+      0.25,
+      0.2,
+      0.5,
+      0.45,
+      0.8,
+      0.95
+    ],
+    "color": "0F766E",
+    "premium": false,
+    "verbatim": false,
+    "src_title": "Adani Ports agrees to buy Dutch liquid storage firm Evos at EUR 2.56 billion enterprise value",
+    "src_summary": "Adani Ports and Special Economic Zone told the stock exchanges it has agreed to buy all of Evos B.V. for cash, with an equity consideration of EUR 1,184 million, funded by debt.",
+    "title_hi": "Adani Ports ने EUR 2.56 अरब के EV पर डच लिक्विड स्टोरेज फर्म Evos को खरीदने का समझौता किया",
+    "summary_hi": "Adani Ports and Special Economic Zone ने स्टॉक एक्सचेंज को बताया कि उसने कर्ज से वित्तपोषण के साथ, EUR 1,184 मिलियन के इक्विटी विचार के साथ, नकद में Evos B.V. को पूरी तरह खरीदने का समझौता किया है।",
+    "why_hi": "रणनीतिक अधिग्रहण से वैश्विक उपस्थिति का विस्तार।",
+    "chips_hi": {
+      "एंटरप्राइज वैल्यू": "EUR 2.56 अरब",
+      "इक्विटी कंसीडरेशन": "EUR 1,184 मिलियन"
+    }
+  },
+  {
+    "v": 3,
+    "cat": "Earnings",
+    "tk": "HITACHI ENERGY",
+    "title": "Hitachi Energy India Q2 net profit rises 20.5% to Rs 318.49 crore",
+    "summary": "Hitachi Energy India said in an NSE filing that net profit for the quarter ended 30 September 2026 rose 20.5% to Rs 318.49 crore, while revenue from operations rose 63.5% to Rs 2,996.51 crore.",
+    "source": "Oquilia",
+    "published": "2026-11-12T11:46:38.996000+00:00",
+    "ago": "22h",
+    "impact": "Positive",
+    "why": "Strong net profit and revenue growth reported.",
+    "url": "https://www.oquilia.com/news/hitachi-energy-india-q2-results-net-profit-rises-20-5-percent",
+    "chips": {
+      "Net Profit": "Rs 318.49 crore",
+      "Revenue": "Rs 2,996.51 crore"
+    },
+    "trend": [
+      0.1,
+      0.25,
+      0.2,
+      0.5,
+      0.45,
+      0.8,
+      0.95
+    ],
+    "color": "0F766E",
+    "premium": false,
+    "verbatim": false,
+    "src_title": "Hitachi Energy India Q2 results: net profit rises 20.5% to Rs 318.49 crore",
+    "src_summary": "Hitachi Energy India said in an NSE filing that net profit for the quarter ended 30 September 2026 rose 20.5% to Rs 318.49 crore, while revenue from operations rose 63.5% to Rs 2,996.51 crore.",
+    "title_hi": "Hitachi Energy India का Q2 शुद्ध लाभ 20.5% बढ़कर 318.49 करोड़ रुपये हुआ",
+    "summary_hi": "Hitachi Energy India ने NSE फाइलिंग में कहा कि 30 सितंबर 2026 को समाप्त तिमाही के लिए शुद्ध लाभ 20.5% बढ़कर 318.49 करोड़ रुपये हो गया, जबकि परिचालन से राजस्व 63.5% बढ़कर 2,996.51 करोड़ रुपये हो गया।",
+    "why_hi": "मजबूत शुद्ध लाभ और राजस्व वृद्धि दर्ज की गई।",
+    "chips_hi": {
+      "शुद्ध लाभ": "318.49 करोड़ रुपये",
+      "राजस्व": "2,996.51 करोड़ रुपये"
+    }
+  },
+  {
+    "v": 3,
+    "cat": "Finance",
+    "tk": "FINANCE",
+    "title": "Retail inflation rises to 6.09% in October 2026, food inflation at 8.94%: MoSPI",
+    "summary": "Retail inflation rose to 6.09% in October 2026 from 5.54% in September, and food inflation to 8.94%, according to provisional CPI data from the statistics ministry.",
+    "source": "Oquilia",
+    "published": "2026-11-12T11:34:25.672000+00:00",
+    "ago": "22h",
+    "impact": "Negative",
+    "why": "Higher inflation negatively impacts economic fundamentals.",
+    "url": "https://www.oquilia.com/news/retail-inflation-rises-to-6-09-percent-october-food-inflation-8-94",
+    "chips": {
+      "Retail inflation": "6.09%",
+      "Food inflation": "8.94%"
+    },
+    "trend": [
+      0.95,
+      0.85,
+      0.7,
+      0.6,
+      0.4,
+      0.3,
+      0.1
+    ],
+    "color": "9B2C2C",
+    "premium": false,
+    "verbatim": false,
+    "src_title": "Retail inflation rises to 6.09% in October 2026, food inflation at 8.94%: MoSPI",
+    "src_summary": "Retail inflation rose to 6.09% in October 2026 from 5.54% in September, and food inflation to 8.94%, according to provisional CPI data from the statistics ministry.",
+    "title_hi": "अक्टूबर 2026 में खुदरा महंगाई बढ़कर 6.09% हुई, खाद्य महंगाई 8.94% रही: MoSPI",
+    "summary_hi": "सांख्यिकी मंत्रालय के अनंतिम CPI डेटा के अनुसार, सितंबर में 5.54% से खुदरा महंगाई अक्टूबर 2026 में बढ़कर 6.09% हो गई और खाद्य महंगाई बढ़कर 8.94% हो गई।",
+    "why_hi": "उच्च महंगाई आर्थिक बुनियादी बातों को नकारात्मक रूप से प्रभावित करती है।",
+    "chips_hi": {
+      "खुदरा महंगाई": "6.09%",
+      "खाद्य महंगाई": "8.94%"
+    }
+  },
+  {
+    "v": 3,
+    "cat": "Finance",
+    "tk": "FINANCE",
+    "title": "NPS exit held up by bank name mismatch and penny-drop check",
+    "summary": "PFRDA blocks every NPS exit or withdrawal until a penny drop bank check passes with the name matching. The 5 failure reasons, who fixes each, and how the cleared corpus is taxed.",
+    "source": "Oquilia",
+    "published": "2026-11-12T10:33:08.926000+00:00",
+    "ago": "23h",
+    "impact": "Neutral",
+    "why": "Operational process for NPS exits.",
+    "url": "https://www.oquilia.com/news/oquilia-research-nps-exit-blocked-penny-drop-name-mismatch-bank-account",
+    "chips": {
+      "Failure reasons": "5"
+    },
+    "trend": [
+      0.5,
+      0.55,
+      0.45,
+      0.5,
+      0.47,
+      0.52,
+      0.5
+    ],
+    "color": "B7791F",
+    "premium": false,
+    "verbatim": false,
+    "src_title": "NPS exit held up by a bank name mismatch? PFRDA's mandatory penny-drop check and how to clear a failure",
+    "src_summary": "PFRDA blocks every NPS exit or withdrawal until a penny drop bank check passes with the name matching. The 5 failure reasons, who fixes each, and how the cleared corpus is taxed.",
+    "hi_tries": 1
+  },
+  {
+    "v": 3,
+    "cat": "Markets",
+    "tk": "MARKETS",
+    "title": "Temasek affiliate to invest Rs 2,500 crore in Godrej Capital, filing shows",
+    "summary": "Godrej Industries told the stock exchanges on 12 November 2026 that a Temasek affiliate will invest Rs 2,500 crore in Godrej Capital, valuing the lender at up to Rs 28,000 crore.",
+    "source": "Oquilia",
+    "published": "2026-11-12T10:17:06.721000+00:00",
+    "ago": "1d",
+    "impact": "Positive",
+    "why": "Major capital infusion aids financial growth.",
+    "url": "https://www.oquilia.com/news/temasek-affiliate-to-invest-rs-2500-crore-in-godrej-capital",
+    "chips": {
+      "Investment": "Rs 2,500 crore",
+      "Valuation": "Rs 28,000 crore"
+    },
+    "trend": [
+      0.1,
+      0.25,
+      0.2,
+      0.5,
+      0.45,
+      0.8,
+      0.95
+    ],
+    "color": "0F766E",
+    "premium": false,
+    "verbatim": false,
+    "src_title": "Temasek affiliate to invest Rs 2,500 crore in Godrej Capital, filing shows",
+    "src_summary": "Godrej Industries told the stock exchanges on 12 November 2026 that a Temasek affiliate will invest Rs 2,500 crore in Godrej Capital, valuing the lender at up to Rs 28,000 crore.",
+    "title_hi": "Temasek सहयोगी Godrej Capital में 2,500 करोड़ रुपये का निवेश करेगा, फाइलिंग से पता चलता है",
+    "summary_hi": "Godrej Industries ने 12 नवंबर 2026 को स्टॉक एक्सचेंजों को बताया कि एक Temasek सहयोगी Godrej Capital में 2,500 करोड़ रुपये का निवेश करेगा, जिससे ऋणदाता का मूल्यांकन 28,000 करोड़ रुपये तक आंका गया है।",
+    "why_hi": "बड़ा पूंजी निवेश वित्तीय विकास में सहायक।",
+    "chips_hi": {
+      "निवेश": "2,500 करोड़ रुपये",
+      "मूल्यांकन": "28,000 करोड़ रुपये"
     }
   }
 ]
