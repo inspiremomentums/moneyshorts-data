@@ -16,7 +16,32 @@ import xml.etree.ElementTree as ET
 from datetime import datetime, timezone
 from email.utils import parsedate_to_datetime
 
-FEED_URL = "https://www.business-standard.com/rss/latest.rss"
+# News sources. "cat" is the category used when a feed has no sections of its own.
+# Before a public launch keep only the sources you have permission to use.
+# Sources in use. Only sources we have written permission for belong here.
+FEEDS = [
+    # Oquilia: written permission received. Their terms: headline and summary only, credit
+    # "Oquilia" with the link, never edit items marked protected (we leave those out, and
+    # also leave out enforcement and courts), refresh every few hours, drop dead links.
+    {"name": "Oquilia", "url": "https://www.oquilia.com/api/v1/news?limit=50",
+     "kind": "oquilia", "cat": "Markets"},
+]
+
+# Switched off until we have permission. To use one, move its line up into FEEDS.
+OTHER_FEEDS = [
+    {"name": "Business Standard", "url": "https://www.business-standard.com/rss/latest.rss", "kind": "bs"},
+    {"name": "Mint", "url": "https://www.livemint.com/rss/markets", "cat": "Markets"},
+    {"name": "Mint", "url": "https://www.livemint.com/rss/companies", "cat": "Companies"},
+    {"name": "Reserve Bank of India", "url": "https://rbi.org.in/pressreleases_rss.xml", "cat": "Economy"},
+    {"name": "SEBI", "url": "https://www.sebi.gov.in/sebirss.xml", "cat": "Markets"},
+]
+
+# Oquilia allowed us in writing (email of 12 Nov 2026) to shorten their summary to about 50-60
+# words and to shorten their headline, if facts and meaning stay the same, nothing is added, and
+# no claim reads stronger than theirs. Protected and enforcement items stay exactly as supplied
+# (we leave those out). If shortening fails our checks, their text is shown as supplied.
+OQUILIA_REWRITE = True
+MAX_VERBATIM_WORDS = 130  # Oquilia summaries are shown as supplied, so very long ones are skipped
 OUT_FILE = "money_shorts.txt"
 # Tried in this order; if a name is not available for your key, the next one is used.
 MODELS = [m for m in [os.environ.get("GEMINI_MODEL", ""),
@@ -25,8 +50,9 @@ API_KEY = os.environ.get("GEMINI_API_KEY", "")
 BS = "{https://www.business-standard.com/rss/}"
 
 KEEP_SECTIONS = {"Markets", "Companies", "Economy", "Industry", "Finance"}
-MAX_NEW = 8        # new stories to add per run
-MAX_TOTAL = 24     # stories kept in the file
+MAX_NEW = 10       # new stories to add per run
+PER_FEED = 10      # at most this many new stories from one feed per run
+MAX_TOTAL = 40     # stories kept in the file
 MIN_WORDS = 35     # shorter than 50 only when the source is thin
 MAX_WORDS = 60
 PAUSE = 8          # seconds between AI calls (free plan is rate limited)
@@ -88,9 +114,9 @@ def ago(iso):
     return f"{m // 1440}d"
 
 
-def fetch_feed():
+def fetch_feed(url):
     req = urllib.request.Request(
-        FEED_URL, headers={"User-Agent": "Mozilla/5.0 (Moneyshorts learning project)"})
+        url, headers={"User-Agent": "Mozilla/5.0 (Moneyshorts learning project)"})
     with urllib.request.urlopen(req, timeout=30) as r:
         return r.read()
 
@@ -100,7 +126,35 @@ def text_of(item, tag):
     return clean(el.text) if el is not None and el.text else ""
 
 
-def parse_items(xml_bytes):
+OQ_SECTIONS = {"markets": "Markets", "corporate": "Companies", "companies": "Companies",
+               "economy": "Economy"}  # any other category goes under Finance
+
+
+def parse_oquilia(raw, feed):
+    out, seen_cats = [], {}
+    for it in json.loads(raw).get("items", []):
+        cat = str(it.get("category", "")).lower()
+        seen_cats[cat] = seen_cats.get(cat, 0) + 1
+        if it.get("protected") or cat in ("enforcement", "legal"):
+            continue  # protected items must not be edited, so we do not use them
+        try:
+            pub = datetime.fromisoformat(str(it.get("publishedAt", "")).replace("Z", "+00:00")
+                                         ).astimezone(timezone.utc).isoformat()
+        except Exception:
+            pub = ""
+        out.append({
+            "title": clean(it.get("title", "")), "url": clean(it.get("url", "")),
+            "desc": clean(it.get("summary", "")), "published": pub,
+            "feed": feed["name"], "feed_url": feed["url"], "section": OQ_SECTIONS.get(cat, "Finance"),
+            "subsection": "", "source": feed["name"], "premium": False, "verbatim": True,
+        })
+    print("  Oquilia categories in the feed:", seen_cats)
+    return out
+
+
+def parse_items(xml_bytes, feed):
+    if feed.get("kind") == "oquilia":
+        return parse_oquilia(xml_bytes, feed)
     root = ET.fromstring(xml_bytes)
     out = []
     for it in root.iter("item"):
@@ -114,9 +168,11 @@ def parse_items(xml_bytes):
             "url": text_of(it, "link"),
             "desc": text_of(it, "description"),
             "published": pub,
-            "section": text_of(it, BS + "section"),
+            "feed": feed["name"],
+            "feed_url": feed["url"],
+            "section": text_of(it, BS + "section") or feed.get("cat", ""),
             "subsection": text_of(it, BS + "subsection"),
-            "source": text_of(it, BS + "source"),
+            "source": text_of(it, BS + "source") or feed["name"],
             "premium": text_of(it, BS + "premium") == "true",
         })
     return out
@@ -124,7 +180,8 @@ def parse_items(xml_bytes):
 
 def wanted(i):
     return (i["section"] in KEEP_SECTIONS and i["source"] != "Sponsored Content"
-            and i["title"] and i["url"].startswith("https://") and i["desc"])
+            and i["title"] and i["url"].startswith("https://") and words(i["desc"]) >= 8
+            and (not i.get("verbatim") or words(i["desc"]) <= MAX_VERBATIM_WORDS))
 
 
 def category(i):
@@ -221,7 +278,7 @@ def good_title(t, source, max_words):
             and not HYPE.search(t) and numbers_ok(t, source))
 
 
-def clean_hindi(h, source):
+def clean_hindi(h, source, lenient=False):
     """Return the checked Hindi card, or None if anything looks wrong."""
     if not isinstance(h, dict):
         return None
@@ -229,7 +286,8 @@ def clean_hindi(h, source):
     title = hclean(str(h.get("title", "")))
     if not (DEVANAGARI.search(summary) and DEVANAGARI.search(title)):
         return None
-    if not (25 <= words(summary) <= 100) or not good_title(title, source, 20):
+    low, high, tmax = (8, 220, 26) if lenient else (25, 100, 20)
+    if not (low <= words(summary) <= high) or not good_title(title, source, tmax):
         return None
     if not numbers_ok(summary, source):
         return None
@@ -237,23 +295,24 @@ def clean_hindi(h, source):
             "chips": h.get("chips") if isinstance(h.get("chips"), list) else []}
 
 
-def check(res, title, desc, need_hi=True):
+def check(res, title, desc, need_hi=True, verbatim=False):
     """Return a cleaned result, or None if it fails our safety checks."""
     if not isinstance(res, dict) or not isinstance(res.get("summary"), str):
         return None
-    summary = trim_to_limit(clean(res["summary"]))
-    if words(summary) < MIN_WORDS:
+    # verbatim = another newsroom's headline and summary, shown exactly as supplied
+    summary = clean(res["summary"]) if verbatim else trim_to_limit(clean(res["summary"]))
+    if not verbatim and words(summary) < MIN_WORDS:
         return None
-    if re.search(r"\b(should (buy|sell)|target price|we recommend|recommended to (buy|sell))\b",
+    if not verbatim and re.search(r"\b(should (buy|sell)|target price|we recommend|recommended to (buy|sell))\b",
                  summary, re.I):
         return None
     source = (title + " " + desc).replace(",", "")
-    if not numbers_ok(summary, source):
+    if not verbatim and not numbers_ok(summary, source):
         return None
-    new_title = clean(str(res.get("title", "")))
-    if not good_title(new_title, source, 12):
+    new_title = title if verbatim else clean(str(res.get("title", "")))
+    if not verbatim and not good_title(new_title, source, 12):
         new_title = title  # fall back to the original headline
-    hi = clean_hindi(res.get("hi"), source)
+    hi = clean_hindi(res.get("hi"), source, lenient=verbatim)
     if need_hi and hi is None:
         return None
     chips, chips_hi = {}, {}
@@ -284,6 +343,59 @@ def check(res, title, desc, need_hi=True):
     return out
 
 
+HEDGE = re.compile(r"alleg|accus|\border|complaint|reportedly|claim|probe|notice|raid|suspect|"
+                   r"charge|investigat|expected|likely|\bmay\b|\bcould\b|proposed|set to|\bplan",
+                   re.I)
+
+
+def check_short(res, title, desc):
+    """Checks a shortened headline and summary. Returns None if anything looks wrong."""
+    if not isinstance(res, dict):
+        return None
+    source = (title + " " + desc).replace(",", "")
+    src_words = words(desc)
+    summary = clean(str(res.get("summary", "")))
+    if src_words <= MAX_WORDS:
+        if words(summary) > src_words:  # shortening must never make it longer
+            summary = desc
+    else:
+        summary = trim_to_limit(summary)
+    if words(summary) < min(MIN_WORDS, max(10, int(src_words * 0.6))):
+        return None
+    if not numbers_ok(summary, source):
+        return None
+    if HEDGE.search(desc) and not HEDGE.search(summary):
+        return None  # a hedge such as "alleged" or "expected" was lost
+    new_title = clean(str(res.get("title", "")))
+    if not (3 <= words(new_title) <= words(title) and "!" not in new_title
+            and not new_title.isupper() and numbers_ok(new_title, source)
+            and (not HEDGE.search(title) or HEDGE.search(new_title))):
+        new_title = title  # keep their headline if ours is not clearly safe
+    r = check(dict(res, title=new_title, summary=summary), title, desc,
+              need_hi=False, verbatim=True)
+    if r is None:
+        return None
+    r["title"], r["summary"] = new_title, summary
+    return r
+
+
+def oquilia_result(i):
+    title, desc = i["title"], i["desc"]
+    if OQUILIA_REWRITE:
+        r = check_short(call_json(OQ_SHORT_SYSTEM, f"Headline: {title}\nSummary: {desc}"), title, desc)
+        if r is not None:
+            r["verbatim_used"] = False
+            return r
+        print("  shortening did not pass checks: using their text as supplied")
+    raw = call_json(OQ_SYSTEM, f"Headline: {title}\nSummary: {desc}")
+    if isinstance(raw, dict):
+        raw = dict(raw, title=title, summary=desc)
+    r = check(raw, title, desc, need_hi=False, verbatim=True)
+    if r is not None:
+        r["verbatim_used"] = True
+    return r
+
+
 def make_story(i, r):
     name = re.sub(r"\b(LIMITED|LTD|PVT)\b\.?", "", r["company"].upper()).strip()
     tk = ""
@@ -292,8 +404,8 @@ def make_story(i, r):
             break
         tk = (tk + " " + w).strip()
     tk = tk or (name or i["section"].upper())[:16]
-    src = "Business Standard"
-    if i["source"] and i["source"] != "Business Standard":
+    src = i["feed"]
+    if i["source"] and i["source"] != i["feed"]:
         src += f" / {i['source']}"
     story = {
         "v": 3, "cat": category(i), "tk": tk, "title": r["title"], "summary": r["summary"],
@@ -301,10 +413,37 @@ def make_story(i, r):
         "impact": r["impact"], "why": r["why"], "url": i["url"], "chips": r["chips"],
         "trend": TRENDS[r["impact"]], "color": COLORS[r["impact"]], "premium": i["premium"],
     }
+    if i.get("verbatim"):  # came from a syndication feed (Oquilia)
+        story["verbatim"] = bool(r.get("verbatim_used"))
+        story["src_title"], story["src_summary"] = i["title"], i["desc"]
     if r["hi"]:
         story.update({"title_hi": r["hi"]["title"], "summary_hi": r["hi"]["summary"],
                       "why_hi": r["hi"]["why"], "chips_hi": r["hi"]["chips"]})
     return story
+
+
+OQ_SHORT_SYSTEM = """You help a small news app for retail investors in India. You are given a headline and a summary written by another newsroom (Oquilia). They allow us to SHORTEN both, on strict terms. Reply with JSON only.
+- title: a shorter version of the headline, never longer than the original. Same facts and meaning, nothing added. It must not make any claim stronger than the original: an allegation, complaint, order, estimate or plan must not read as a proven fact. No questions, teasers, hype, exclamation marks or ALL CAPS. Keep every hedge word (alleged, ordered, expected, may, reportedly and so on).
+- summary: if the original is longer than 60 words, shorten it to 50 to 60 words. If it is 60 words or fewer, keep it as it is. Same facts and meaning, nothing added: no new causes, no predictions, no opinions. Keep every hedge.
+- impact: Positive, Neutral or Negative for the fundamentals of the company or sector in the story. Use Neutral when unclear or when the story is not about a company or sector. This is our own analysis.
+- why: at most 8 words explaining the impact.
+- company: the main company named in the headline, or an empty string.
+- chips: up to 3 key figures copied exactly from the text, each with a short label.
+- hi: a faithful Hindi (Devanagari) translation of YOUR shortened title and summary, with the same meaning and nothing added, removed or softened. Keep every name and number. Keep company names and terms like IPO, NSE, Sensex in English letters. Write numbers with digits 0-9. hi.why is the Hindi of why, and hi.chips has the same number and order as chips with Hindi labels and values.
+Never give investment advice.
+{"title": "...", "summary": "...", "impact": "...", "why": "...", "company": "...", "chips": [{"label": "...", "value": "..."}], "hi": {"title": "...", "summary": "...", "why": "...", "chips": [{"label": "...", "value": "..."}]}}"""
+
+OQ_SYSTEM = """You help a small news app for retail investors in India. You are given a headline and a summary written by another newsroom. Do NOT rewrite or shorten them. Reply with JSON only:
+- impact: Positive, Neutral or Negative for the fundamentals of the company or sector in the story. Use Neutral when unclear or when the story is not about a company or sector. This is our own analysis.
+- why: at most 8 words explaining the impact.
+- company: the main company named in the headline, or an empty string.
+- chips: up to 3 key figures copied exactly from the text, each with a short label.
+- hi: a faithful Hindi (Devanagari) translation of the headline and the summary. Keep the same meaning, with nothing added, removed or softened, and keep every name and number. Keep company names and terms like IPO, NSE, Sensex in English letters. Write numbers with digits 0-9. hi.why is the Hindi of why, and hi.chips has the same number and order as chips with Hindi labels and values.
+Never give investment advice.
+{"impact": "...", "why": "...", "company": "...", "chips": [{"label": "...", "value": "..."}], "hi": {"title": "...", "summary": "...", "why": "...", "chips": [{"label": "...", "value": "..."}]}}"""
+
+HINDI_FAITHFUL_SYSTEM = """You translate a news headline and summary from English into natural Hindi (Devanagari) faithfully. Keep the same meaning. Add nothing, remove nothing and soften nothing. Keep every name and number. Keep company names and terms like IPO, NSE, Sensex in English letters. Write numbers with digits 0-9. chips: same number and order as the input chips, with Hindi labels and values.
+Reply with JSON only: {"title": "...", "summary": "...", "why": "...", "chips": [{"label": "...", "value": "..."}]}"""
 
 
 HINDI_SYSTEM = """You translate finished stock-market news cards from English into natural, simple Hindi (Devanagari) for everyday Indian readers. Do not translate word by word. Add no facts and no numbers. The summary must have at most 75 words. Keep company names and terms like IPO, NSE, Sensex in English letters. Write numbers with digits 0-9 and use words like करोड़ and लाख. title: at most 14 words, curiosity-driven like the English one. chips: same number and order as the input chips, with Hindi labels and values (for example "₹545 करोड़").
@@ -317,7 +456,9 @@ def add_hindi(story):
             "chips": [{"label": k, "value": v} for k, v in story["chips"].items()]}
     source = (story["title"] + " " + story["summary"] + " "
               + " ".join(story["chips"].values())).replace(",", "")
-    h = clean_hindi(call_json(HINDI_SYSTEM, json.dumps(card, ensure_ascii=False)), source)
+    v = "src_summary" in story  # from a syndication feed: translate faithfully
+    h = clean_hindi(call_json(HINDI_FAITHFUL_SYSTEM if v else HINDI_SYSTEM,
+                              json.dumps(card, ensure_ascii=False)), source, lenient=v)
     story["hi_tries"] = story.get("hi_tries", 0) + 1
     if h is None:
         return False
@@ -333,15 +474,33 @@ def add_hindi(story):
     return True
 
 
+def link_alive(url):
+    """False only when the page is gone (404 or 410). Network trouble keeps the story."""
+    try:
+        req = urllib.request.Request(url, method="HEAD",
+                                     headers={"User-Agent": "Mozilla/5.0 (Moneyshorts learning project)"})
+        with urllib.request.urlopen(req, timeout=15) as r:
+            return r.status < 400
+    except urllib.error.HTTPError as e:
+        return e.code not in (404, 410)
+    except Exception:
+        return True
+
+
 # ---------- main ----------
 def main():
     if not API_KEY:
         print("GEMINI_API_KEY is missing. Add it as a repository secret.")
         return 1
-    try:
-        items = parse_items(fetch_feed())
-    except Exception as e:
-        print(f"Could not read the feed: {type(e).__name__}")
+    items = []
+    for feed in FEEDS:
+        try:
+            got = parse_items(fetch_feed(feed["url"]), feed)
+            print(f"{feed['name']} ({feed['url'].split('/')[-1]}): {len(got)} items")
+            items += got
+        except Exception as e:
+            print(f"Could not read {feed['name']} ({feed['url']}): {type(e).__name__}")
+    if not items:
         return 1
 
     try:
@@ -351,19 +510,54 @@ def main():
         old = []
     # keep only stories made by this version (older ones are redone, with titles and Hindi)
     old = [s for s in old if s.get("v") in (2, 3) and "example.com" not in s.get("url", "")]
+    # drop stories from any source that is not in FEEDS (no permission for those)
+    old = [s for s in old if any(s.get("source", "").startswith(f["name"]) for f in FEEDS)]
     for s in old:  # give Hindi a fresh start once, now that the checks are fairer
         if s.get("hi_ver") != 2:
             s["hi_tries"] = 0
             s["hi_ver"] = 2
+    # Oquilia terms: pick up their corrections and drop stories whose link no longer works
+    live = {i["url"]: i for i in items if i.get("verbatim")}
+    kept = []
+    for s in old:
+        if "src_summary" in s:  # story came from a syndication feed
+            if not link_alive(s["url"]):
+                print(f"- removed (link no longer works): {s['title'][:60]}")
+                continue
+            cur = live.get(s["url"])
+            if cur and (cur["title"] != s.get("src_title") or cur["desc"] != s.get("src_summary")):
+                print(f"- corrected by publisher: {cur['title'][:60]}")
+                s["title"], s["summary"] = cur["title"], cur["desc"]
+                s["src_title"], s["src_summary"] = cur["title"], cur["desc"]
+                for k in ("title_hi", "summary_hi", "why_hi", "chips_hi"):
+                    s.pop(k, None)
+                s["hi_tries"] = 0
+                s["v"] = 2  # analysed again below
+        kept.append(s)
+    old = kept
     seen = {s["url"] for s in old if s.get("v") == 3}  # older versions get redone
 
     good = sorted((i for i in items if wanted(i)), key=lambda i: i["published"], reverse=True)
-    todo = [i for i in good if i["url"] not in seen][:MAX_NEW]
+    todo, count = [], {}
+    for i in good:  # newest first; a few from each source so one feed cannot take every slot
+        if i["url"] not in seen and count.get(i["feed_url"], 0) < PER_FEED:
+            count[i["feed_url"]] = count.get(i["feed_url"], 0) + 1
+            todo.append(i)
+    todo = sorted(todo, key=lambda i: i["published"], reverse=True)[:MAX_NEW]
     print(f"Feed items: {len(items)}, business stories: {len(good)}, new to summarise: {len(todo)}")
 
     added = []
     for n, i in enumerate(todo):
         print(f"- {i['title'][:70]}")
+        if i.get("verbatim"):  # Oquilia: their rules apply
+            r = oquilia_result(i)
+            if r is None:
+                print("  skipped (did not pass checks)")
+            else:
+                added.append(make_story(i, r))
+            if n < len(todo) - 1:
+                time.sleep(PAUSE)
+            continue
         r = check(call_gemini(i["title"], i["desc"]), i["title"], i["desc"])
         if r is None:
             r = check(call_gemini(i["title"], i["desc"],
