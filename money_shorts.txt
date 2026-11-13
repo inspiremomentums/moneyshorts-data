@@ -1,6 +1,274 @@
 [
   {
     "v": 3,
+    "cat": "Earnings",
+    "tk": "ALKEM",
+    "title": "Why did Alkem shares fall 3% following Q2 results?",
+    "summary": "Alkem shares dropped 3% after releasing Q2 results. Motilal Oswal Financial Services kept a neutral rating, stating that FY27 will be a consolidation period for the firm. The new business is currently in a gestation phase before scaling up, meaning operational expenses are coming early while revenues are still pending.",
+    "source": "Business Standard",
+    "published": "2026-11-13T05:58:42+00:00",
+    "ago": "24m",
+    "impact": "Neutral",
+    "why": "Consolidation phase with costs preceding revenue growth.",
+    "url": "https://www.business-standard.com/markets/news/alkem-shares-fall-3-after-q2-results-mofsl-retains-neutral-rating-126111300548_1.html",
+    "chips": {
+      "Share drop": "3%"
+    },
+    "trend": [
+      0.5,
+      0.55,
+      0.45,
+      0.5,
+      0.47,
+      0.52,
+      0.5
+    ],
+    "color": "B7791F",
+    "premium": false,
+    "title_hi": "Q2 नतीजों के बाद Alkem के शेयरों में 3% की गिरावट क्यों आई?",
+    "summary_hi": "Q2 नतीजों के सामने आने के बाद Alkem के शेयरों में 3% की गिरावट दर्ज की गई। MOFSL ने न्यूट्रल रेटिंग बरकरार रखी है और बताया कि FY27 कंपनी के लिए एक समेकन का वर्ष रहेगा। नया व्यवसाय अभी विस्तार से पहले के दौर में है, जिसके चलते परिचालन लागत पहले आ रही है और राजस्व अभी बढ़ना बाकी है।",
+    "why_hi": "राजस्व से पहले परिचालन लागत का आना।",
+    "chips_hi": {
+      "शेयर गिरावट": "3%"
+    }
+  },
+  {
+    "v": 3,
+    "cat": "Markets",
+    "tk": "MANAPPURAM",
+    "title": "Why did Manappuram Finance shares drop despite brokerage upgrades?",
+    "summary": "Shares of Manappuram Finance dropped four percent even though brokerages remained positive on the stock. Equirus revised its estimates upward for financial years twenty-seven and twenty-eight following a strong performance in the second quarter and the first half of financial year twenty-seven. The dip comes despite these upbeat projections from analysts.",
+    "source": "Business Standard",
+    "published": "2026-11-13T05:51:08+00:00",
+    "ago": "31m",
+    "impact": "Positive",
+    "why": "Strong financial performance and upgraded brokerage estimate",
+    "url": "https://www.business-standard.com/markets/news/manappuram-finance-shares-dip-4-even-as-brokerages-upbeat-here-s-why-126111300542_1.html",
+    "chips": {},
+    "trend": [
+      0.1,
+      0.25,
+      0.2,
+      0.5,
+      0.45,
+      0.8,
+      0.95
+    ],
+    "color": "0F766E",
+    "premium": false,
+    "title_hi": "ब्रोकरेज की तेजी के बावजूद Manappuram Finance के शेयर क्यों गिरे?",
+    "summary_hi": "Manappuram Finance के शेयरों में चार प्रतिशत की गिरावट आई, जबकि ब्रोकरेज फर्म इस पर सकारात्मक बनी हुई हैं। दूसरी तिमाही और वित्त वर्ष twenty-seven की पहली छमाही के मजबूत प्रदर्शन के बाद Equirus ने अपने अनुमानों को ऊपर की ओर संशोधित किया है।",
+    "why_hi": "मजबूत वित्तीय प्रदर्शन और अपग्रेडेड ब्रोकरेज अनुमान।",
+    "chips_hi": {}
+  },
+  {
+    "v": 3,
+    "cat": "Earnings",
+    "tk": "HITACHI ENERGY",
+    "title": "Hitachi Energy shares jump 12 percent after orders rise 86 percent",
+    "summary": "Hitachi Energy shares rallied 12 percent following an 85.9 percent increase in Q2 order inflows to ₹4,120.8 crore compared to the previous year. The company also recorded a profit after tax growth of 21 percent and achieved a record-high order backlog of ₹33,335.4 crore by September 2026.",
+    "source": "Business Standard",
+    "published": "2026-11-13T05:43:15+00:00",
+    "ago": "39m",
+    "impact": "Positive",
+    "why": "Higher orders, profit and record backlog.",
+    "url": "https://www.business-standard.com/markets/news/hitachi-energy-shares-rally-12-on-86-rise-in-q2-order-inflows-pat-up-21-126111300504_1.html",
+    "chips": {
+      "Order rise": "85.9%",
+      "Q2 orders": "₹4,120.8 crore",
+      "Order backlog": "₹33,335.4 crore"
+    },
+    "trend": [
+      0.1,
+      0.25,
+      0.2,
+      0.5,
+      0.45,
+      0.8,
+      0.95
+    ],
+    "color": "0F766E",
+    "premium": false,
+    "title_hi": "Hitachi Energy के शेयर 12% चढ़े, Q2 ऑर्डर में 86% की बढ़ोतरी",
+    "summary_hi": "Hitachi Energy के शेयरों में 12 प्रतिशत की तेजी आई क्योंकि Q2 में ऑर्डर 85.9 प्रतिशत बढ़कर ₹4,120.8 करोड़ हो गए। कंपनी के मुनाफे में 21 प्रतिशत की वृद्धि हुई और सितंबर 2026 तक इसका ऑर्डर बैकलॉग ₹33,335.4 करोड़ के रिकॉर्ड स्तर पर पहुंच गया।",
+    "why_hi": "ऑर्डर, मुनाफे और बैकलॉग में बढ़त।",
+    "chips_hi": {
+      "ऑर्डर बढ़त": "85.9%",
+      "Q2 ऑर्डर": "₹4,120.8 करोड़",
+      "ऑर्डर बैकलॉग": "₹33,335.4 करोड़"
+    }
+  },
+  {
+    "v": 3,
+    "cat": "Markets",
+    "tk": "MARKETS",
+    "title": "Power sector gains as ₹68,816 crore transmission project approved",
+    "summary": "Shares in the power sector rose on Friday following reports that a major new transmission project received approval. The National Committee on Transmission cleared the unique 1,150 kV infrastructure initiative, leading to gains of up to 5 percent for companies like Siemens Energy and GE Vernova while pushing the overall power index up by 1 percent.",
+    "source": "Business Standard",
+    "published": "2026-11-13T05:32:11+00:00",
+    "ago": "51m",
+    "impact": "Positive",
+    "why": "New high-value transmission project approved.",
+    "url": "https://www.business-standard.com/markets/news/power-index-rises-1-siemens-energy-ge-vernova-rally-up-to-5-here-s-why-126111300489_1.html",
+    "chips": {
+      "Project value": "₹68,816 crore",
+      "Transmission capacit": "1,150 kV",
+      "Index rise": "1%"
+    },
+    "trend": [
+      0.1,
+      0.25,
+      0.2,
+      0.5,
+      0.45,
+      0.8,
+      0.95
+    ],
+    "color": "0F766E",
+    "premium": false,
+    "title_hi": "₹68,816 करोड़ के ट्रांसमिशन प्रोजेक्ट को मंजूरी मिलने से पावर शेयरों में तेजी",
+    "summary_hi": "शुक्रवार को पावर शेयरों में मांग देखी गई क्योंकि नेशनल कमेटी ऑन ट्रांसमिशन ने अपनी तरह के पहले ₹68,816 करोड़ के ट्रांसमिशन प्रोजेक्ट को मंजूरी दे दी। इस खबर के बाद Siemens Energy और GE Vernova में 5 प्रतिशत तक की तेजी आई और पावर इंडेक्स 1 प्रतिशत चढ़ गया।",
+    "why_hi": "बड़े ट्रांसमिशन प्रोजेक्ट की मंजूरी मिली।",
+    "chips_hi": {
+      "प्रोजेक्ट मूल्य": "₹68,816 करोड़",
+      "ट्रांसमिशन क्षमता": "1,150 kV",
+      "इंडेक्स में तेजी": "1%"
+    }
+  },
+  {
+    "v": 3,
+    "cat": "Companies",
+    "tk": "JINDAL POWER",
+    "title": "Jindal Power secures 470 million dollar loan for Botswana project",
+    "summary": "Jindal Power has obtained a 470 million dollar loan from three Indian lenders. Axis Bank, ICICI Bank, and the Export-Import Bank of India provided this nine-year credit facility. The financing will support a power project located in Botswana.",
+    "source": "Business Standard / Bloomberg",
+    "published": "2026-11-13T05:29:35+00:00",
+    "ago": "53m",
+    "impact": "Positive",
+    "why": "Secured major funding for an international project.",
+    "url": "https://www.business-standard.com/companies/news/jindal-power-secures-470-million-loan-for-botswana-power-project-126111300500_1.html",
+    "chips": {
+      "Loan amount": "$470 million"
+    },
+    "trend": [
+      0.1,
+      0.25,
+      0.2,
+      0.5,
+      0.45,
+      0.8,
+      0.95
+    ],
+    "color": "0F766E",
+    "premium": false,
+    "title_hi": "Jindal Power को Botswana प्रोजेक्ट के लिए मिला 470 मिलियन डॉलर का लोन",
+    "summary_hi": "Jindal Power ने तीन भारतीय ऋणदाताओं से 470 मिलियन डॉलर का कर्ज हासिल किया है। इस नौ साल की सुविधा को Axis Bank, ICICI Bank और Export-Import Bank of India ने मिलकर प्रदान किया है। यह फंडिंग Botswana में एक पावर प्रोजेक्ट के लिए है।",
+    "why_hi": "अंतर्राष्ट्रीय प्रोजेक्ट के लिए बड़ा कर्ज हासिल हुआ।",
+    "chips_hi": {
+      "लोन राशि": "$470 million"
+    }
+  },
+  {
+    "v": 3,
+    "cat": "Markets",
+    "tk": "BPCL",
+    "title": "Why did crude-sensitive stocks like BPCL and IndiGo drop?",
+    "summary": "Shares of fuel retailers and related companies on Dalal Street declined more than two percent. This downward movement followed crude oil trading at ninety-five dollars. Bharat Petroleum Corporation led the losses among oil marketing firms as the sector reacted to the commodity price level.",
+    "source": "Business Standard",
+    "published": "2026-11-13T05:16:09+00:00",
+    "ago": "1h",
+    "impact": "Negative",
+    "why": "Crude oil trading at 95 dollars.",
+    "url": "https://www.business-standard.com/markets/news/crude-sensitive-stocks-fall-as-oil-trades-at-95-bpcl-indigo-down-over-2-126111300478_1.html",
+    "chips": {
+      "Oil price": "$95",
+      "Stock drop": "over 2%"
+    },
+    "trend": [
+      0.95,
+      0.85,
+      0.7,
+      0.6,
+      0.4,
+      0.3,
+      0.1
+    ],
+    "color": "9B2C2C",
+    "premium": false,
+    "title_hi": "BPCL और IndiGo जैसे क्रूड-संवेदनशील शेयर क्यों गिरे?",
+    "summary_hi": "दलाल स्ट्रीट पर तेल विपणन कंपनियों और संबंधित शेयरों में दो प्रतिशत से अधिक की गिरावट आई। यह गिरावट कच्चे तेल के 95 डॉलर पर कारोबार करने के बाद आई। इस दौरान भारत पेट्रोलियम कॉर्पोरेशन तेल कंपनियों में गिरावट का नेतृत्व कर रहा था, क्योंकि सेक्टर ने जिंस मूल्य पर प्रतिक्रिया दी।",
+    "why_hi": "कच्चे तेल का 95 डॉलर पर कारोबार।",
+    "chips_hi": {
+      "तेल की कीमत": "$95",
+      "शेयर गिरावट": "2% से अधिक"
+    }
+  },
+  {
+    "v": 3,
+    "cat": "Markets",
+    "tk": "COFORGE",
+    "title": "How do Coforge and LIC look on charts during MSCI rejig?",
+    "summary": "Ahead of the MSCI November rejig, market experts have shared their technical views on select stocks. While Coforge and Meesho show a favourable chart setup, the LIC stock appears stuck within a defined trading range.",
+    "source": "Business Standard",
+    "published": "2026-11-13T04:53:58+00:00",
+    "ago": "1h",
+    "impact": "Neutral",
+    "why": "Mixed technical signals ahead of MSCI rejig.",
+    "url": "https://www.business-standard.com/markets/news/lic-meesho-coforge-stocks-amid-msci-nov-rejig-what-charts-say-technical-analysis-126111300450_1.html",
+    "chips": {},
+    "trend": [
+      0.5,
+      0.55,
+      0.45,
+      0.5,
+      0.47,
+      0.52,
+      0.5
+    ],
+    "color": "B7791F",
+    "premium": false,
+    "title_hi": "MSCI नवंबर फेरबदल के बीच Coforge और LIC के चार्ट क्या कहते हैं?",
+    "summary_hi": "MSCI नवंबर फेरबदल से पहले जानकारों ने चुनिंदा शेयरों पर अपनी तकनीकी राय दी है। Coforge और Meesho का चार्ट सेटअप अनुकूल दिख रहा है, जबकि LIC का शेयर एक दायरे में फंसा नजर आ रहा है।",
+    "why_hi": "MSCI फेरबदल से पहले मिले-जुले तकनीकी संकेत।",
+    "chips_hi": {}
+  },
+  {
+    "v": 3,
+    "cat": "Finance",
+    "tk": "FINANCE",
+    "title": "Why did the rupee edge up 7 paise in early trade?",
+    "summary": "The Indian rupee gained 7 paise to trade at 94.05 against the US dollar during early morning trade. Foreign fund inflows provided support to the domestic currency, though a stronger US dollar in overseas markets limited further gains. The currency had previously closed at 94.12 against the dollar.",
+    "source": "Business Standard / Press Trust of India",
+    "published": "2026-11-13T04:45:08+00:00",
+    "ago": "1h",
+    "impact": "Neutral",
+    "why": "Mixed signals from foreign inflows and dollar strength.",
+    "url": "https://www.business-standard.com/finance/news/rupee-rises-7-paise-to-94-05-against-us-dollar-during-early-trade-126111300423_1.html",
+    "chips": {
+      "Rupee gain": "7 paise",
+      "Exchange rate": "94.05"
+    },
+    "trend": [
+      0.5,
+      0.55,
+      0.45,
+      0.5,
+      0.47,
+      0.52,
+      0.5
+    ],
+    "color": "B7791F",
+    "premium": false,
+    "title_hi": "शुरुआती कारोबार में रुपया 7 पैसे चढ़कर 94.05 पर क्यों पहुंचा?",
+    "summary_hi": "विदेशी पूंजी के आने से भारतीय रुपया शुरुआती कारोबार में अमेरिकी डॉलर के मुकाबले 7 पैसे की मामूली बढ़त के साथ 94.05 पर पहुंच गया। हालांकि, वैश्विक बाजारों में अमेरिकी डॉलर की मजबूती ने इस बढ़त को सीमित कर दिया। इससे पहले रुपया 94.12 के स्तर पर बंद हुआ था।",
+    "why_hi": "विदेशी निवेश और मजबूत डॉलर का मिला-जुला असर।",
+    "chips_hi": {
+      "रुपये में तेजी": "7 पैसे",
+      "विनिमय दर": "94.05"
+    }
+  },
+  {
+    "v": 3,
     "cat": "Industry",
     "tk": "KW GROUP",
     "title": "KW Group buys 1.5-acre Ghaziabad land for Rs 134 crore",
@@ -34,7 +302,9 @@
       "जमीन का क्षेत्रफल": "1.5 एकड़",
       "जमीन की लागत": "₹134 करोड़",
       "फंड समर्थन": "₹150 करोड़"
-    }
+    },
+    "hi_tries": 0,
+    "hi_ver": 2
   },
   {
     "v": 3,
@@ -71,7 +341,9 @@
       "फेस्टिव ऑनलाइन सेल्स": "₹1.41 लाख करोड़",
       "सेल्स ग्रोथ": "17%",
       "कार्ड पेमेंट गिरावट": "13%"
-    }
+    },
+    "hi_tries": 0,
+    "hi_ver": 2
   },
   {
     "v": 3,
@@ -101,7 +373,7 @@
     ],
     "color": "0F766E",
     "premium": false,
-    "hi_tries": 1,
+    "hi_tries": 0,
     "title_hi": "Gabriel India के शेयरों में आया जबरदस्त उछाल, लगा अपर सर्किट",
     "summary_hi": "गुरुवार को Gabriel India के शेयरों में भारी तेजी देखने को मिली और यह 20 प्रतिशत के अपर सर्किट पर पहुंच गया। इस दौरान शेयरों के कारोबार में भारी उछाल आया और बड़े एक्सचेंजों पर कुल वॉल्यूम में जबरदस्त बढ़ोतरी दर्ज की गई। मार्च के निचले स्तर से उबरने के बाद स्टॉक में यह एक बड़ी तेजी है।",
     "why_hi": "भारी ट्रेडिंग वॉल्यूम और शेयरों में तेज उछाल।",
@@ -109,7 +381,8 @@
       "अपर सर्किट": "20%",
       "traded शेयर": "8.02 million",
       "मार्च के निचले स्तर ": "112%"
-    }
+    },
+    "hi_ver": 2
   },
   {
     "v": 3,
@@ -142,7 +415,9 @@
     "why_hi": "बचत विकल्पों में अलग-अलग दरें और नियम हैं।",
     "chips_hi": {
       "अधिकतम रिटर्न": "8.2%"
-    }
+    },
+    "hi_tries": 0,
+    "hi_ver": 2
   },
   {
     "v": 3,
@@ -171,7 +446,9 @@
     "title_hi": "एआई-फर्स्ट कामकाज कैसे बदल रहा है रेवेन्यू और कोडिंग की मांग?",
     "summary_hi": "R Systems के सीईओ नितेश बंसल ने कहा कि जैसे-जैसे उत्पाद और सेवाएं एआई-फर्स्ट बनेंगे, पारंपरिक इंजीनियरिंग सेवाएं अंततः कम हो जाएंगी। इससे डिलीवरी मॉडल और हायरिंग दोनों में बदलाव आएगा।",
     "why_hi": "बदलाव का असर अभी स्पष्ट नहीं है।",
-    "chips_hi": {}
+    "chips_hi": {},
+    "hi_tries": 0,
+    "hi_ver": 2
   },
   {
     "v": 3,
@@ -204,7 +481,9 @@
     "why_hi": "एयरोस्पेस क्षेत्र में व्यवसाय का विस्तार।",
     "chips_hi": {
       "भूमि क्षेत्र": "500 एकड़"
-    }
+    },
+    "hi_tries": 0,
+    "hi_ver": 2
   },
   {
     "v": 3,
@@ -543,266 +822,6 @@
       "हिस्सेदारी बिक्री": "लगभग 11%",
       "लक्ष्य हिस्सेदारी": "60%"
     },
-    "hi_tries": 0,
-    "hi_ver": 2
-  },
-  {
-    "v": 3,
-    "cat": "Industry",
-    "tk": "INDUSTRY",
-    "title": "Why are banks tightening merchant checks for fintech firms?",
-    "summary": "Banks are increasing security checks for merchant onboarding and payouts at fintech companies. This move comes as cyber fraud risks rise alongside record digital payment volumes during the festive season. Financial institutions aim to address security concerns in digital transactions.",
-    "source": "Business Standard",
-    "published": "2026-11-11T17:43:00+00:00",
-    "ago": "8h",
-    "impact": "Neutral",
-    "why": "Addressing rising cyber fraud risks in digital payments.",
-    "url": "https://www.business-standard.com/industry/banking/banks-push-fintechs-to-plug-fraud-risks-amid-surge-in-digital-payments-126111101618_1.html",
-    "chips": {},
-    "trend": [
-      0.5,
-      0.55,
-      0.45,
-      0.5,
-      0.47,
-      0.52,
-      0.5
-    ],
-    "color": "B7791F",
-    "premium": true,
-    "title_hi": "बैंक फिनटेक कंपनियों पर मर्चेंट जांच क्यों बढ़ा रहे हैं?",
-    "summary_hi": "त्योहारों के दौरान डिजिटल भुगतान में रिकॉर्ड बढ़ोतरी और बढ़ते साइबर धोखाधड़ी के जोखिमों के बीच बैंक फिनटेक फर्मों पर मर्चेंट ऑनबोर्डिंग और पेआउट जांच सख्त कर रहे हैं।",
-    "why_hi": "डिजिटल भुगतान में बढ़ते साइबर धोखाधड़ी के जोखिम।",
-    "chips_hi": {},
-    "hi_tries": 0,
-    "hi_ver": 2
-  },
-  {
-    "v": 3,
-    "cat": "Economy",
-    "tk": "ECONOMY",
-    "title": "Why did the rupee reach a seven-month high?",
-    "summary": "The Indian rupee gained strength to hit a seven-month high against other Asian peers. Foreign portfolio inflows and positive market sentiment helped drive this movement, even though the US dollar was stronger during the same period.",
-    "source": "Business Standard",
-    "published": "2026-11-11T14:07:51+00:00",
-    "ago": "25m",
-    "impact": "Positive",
-    "why": "Foreign portfolio inflows boosted the local currency.",
-    "url": "https://www.business-standard.com/economy/news/rupee-outperforms-most-asian-peers-as-foreign-inflows-boost-sentiment-126111101383_1.html",
-    "chips": {},
-    "trend": [
-      0.1,
-      0.25,
-      0.2,
-      0.5,
-      0.45,
-      0.8,
-      0.95
-    ],
-    "color": "0F766E",
-    "premium": false,
-    "title_hi": "रुपया सात महीने के उच्च स्तर पर क्यों पहुंचा?",
-    "summary_hi": "अन्य एशियाई मुद्राओं के मुकाबले भारतीय रुपया मजबूत होकर सात महीने के उच्च स्तर पर पहुंच गया। मजबूत अमेरिकी डॉलर के बावजूद विदेशी पोर्टफोलियो inflows और सकारात्मक बाजार धारणा के कारण इसे समर्थन मिला।",
-    "why_hi": "विदेशी inflows से मुद्रा को मिला समर्थन।",
-    "chips_hi": {},
-    "hi_tries": 0,
-    "hi_ver": 2
-  },
-  {
-    "v": 3,
-    "cat": "Markets",
-    "tk": "MARKETS",
-    "title": "Equity mutual fund inflows drop fourteen percent in October",
-    "summary": "Net equity inflows dropped to Rs 32,994 crore in October as investments in midcap and smallcap segments moderated. Market volatility and profit booking also led to a slight dip in SIP contributions, which came in at Rs 32,160 crore during the month.",
-    "source": "Business Standard",
-    "published": "2026-11-11T13:58:05+00:00",
-    "ago": "36m",
-    "impact": "Neutral",
-    "why": "Inflows drop due to moderation and volatility.",
-    "url": "https://www.business-standard.com/markets/news/equity-mf-inflows-fall-14-in-october-as-mid-smallcap-investments-cool-126111101371_1.html",
-    "chips": {
-      "Net equity inflows": "Rs 32,994 crore",
-      "SIP contributions": "Rs 32,160 crore"
-    },
-    "trend": [
-      0.5,
-      0.55,
-      0.45,
-      0.5,
-      0.47,
-      0.52,
-      0.5
-    ],
-    "color": "B7791F",
-    "premium": false,
-    "title_hi": "अक्टूबर में इक्विटी म्यूचुअल फंड्स के इनफ्लो में चौदह प्रतिशत की गिरावट",
-    "summary_hi": "अक्टूबर में नेट इक्विटी इनफ्लो गिरकर ₹32,994 करोड़ रह गया, क्योंकि मिडकैप और स्मॉलकैप में निवेश कम हुआ। बाजार की उतार-चढ़ाव और प्रॉफिट बुकिंग के बीच एसआईपी योगदान भी मामूली रूप से घटकर ₹32,160 करोड़ पर आ गया।",
-    "why_hi": "निवेश घटने और उतार-चढ़ाव के कारण।",
-    "chips_hi": {
-      "नेट इक्विटी इनफ्लो": "₹32,994 करोड़",
-      "एसआईपी योगदान": "₹32,160 करोड़"
-    },
-    "hi_tries": 0,
-    "hi_ver": 2
-  },
-  {
-    "v": 3,
-    "cat": "Industry",
-    "tk": "INDUSTRY",
-    "title": "Renewable energy helped India save $100 billion on fuel imports",
-    "summary": "Between 2011 and 2025, renewable power generation allowed India to avoid spending over $100 billion on coal and gas imports. According to an IEA report, these cumulative savings could eventually reach $240 billion as the country continues its push toward clean energy sources.",
-    "source": "Business Standard",
-    "published": "2026-11-11T13:53:46+00:00",
-    "ago": "43m",
-    "impact": "Positive",
-    "why": "Significant savings on fuel imports.",
-    "url": "https://www.business-standard.com/industry/news/india-s-renewable-energy-push-saved-100-bn-in-fuel-imports-iea-report-126111101361_1.html",
-    "chips": {
-      "Past savings": "$100 billion",
-      "Potential savings": "$240 billion"
-    },
-    "trend": [
-      0.1,
-      0.25,
-      0.2,
-      0.5,
-      0.45,
-      0.8,
-      0.95
-    ],
-    "color": "0F766E",
-    "premium": false,
-    "title_hi": "Renewable energy से भारत को fuel imports में $100 billion की बचत",
-    "summary_hi": "साल 2011 से 2025 के बीच रिन्यूएबल पावर जनरेशन की बदौलत भारत ने कोयला और गैस के आयात पर $100 billion से अधिक की बचत की। IEA रिपोर्ट के अनुसार, देश के इस क्लीन एनर्जी अभियान से कुल बचत भविष्य में $240 billion तक पहुंच सकती है।",
-    "why_hi": "फ्यूल आयात में भारी बचत।",
-    "chips_hi": {
-      "पिछली बचत": "$100 billion",
-      "संभावित बचत": "$240 billion"
-    },
-    "hi_tries": 0,
-    "hi_ver": 2
-  },
-  {
-    "v": 3,
-    "cat": "Industry",
-    "tk": "INDUSTRY",
-    "title": "Why is two-wheeler growth expected to moderate in H2?",
-    "summary": "Despite strong festive sales boosting market sentiment, two-wheeler manufacturers face a growth slowdown in the second half of the financial year. Key factors weighing on this performance include a high base effect from previous periods, uneven rural demand recovery, and a widening performance gap between premium and entry-level vehicle models.",
-    "source": "Business Standard",
-    "published": "2026-11-11T13:50:24+00:00",
-    "ago": "49m",
-    "impact": "Negative",
-    "why": "Uneven demand and high base slow growth.",
-    "url": "https://www.business-standard.com/industry/auto/two-wheeler-makers-see-h2-growth-moderating-on-high-base-uneven-demand-126111101358_1.html",
-    "chips": {},
-    "trend": [
-      0.95,
-      0.85,
-      0.7,
-      0.6,
-      0.4,
-      0.3,
-      0.1
-    ],
-    "color": "9B2C2C",
-    "premium": false,
-    "hi_tries": 0,
-    "title_hi": "फेस्टिव सीज़न के बाद क्यों धीमी हो सकती है टू-व्हीलर की रफ्तार?",
-    "summary_hi": "त्योहारी सीजन में शानदार बिक्री के बाद, चालू वित्त वर्ष की दूसरी छमाही में टू-व्हीलर कंपनियों की ग्रोथ सुस्त पड़ने की आशंका है। पिछले साल का मजबूत आधार, ग्रामीण इलाकों में मांग का धीरे-धीरे पटरी पर लौटना और प्रीमियम तथा सस्ती बाइक्स की बिक्री में बढ़ता अंतर इसके मुख्य कारण हैं।",
-    "why_hi": "ग्रामीण मांग में सुधार की कमी और पिछले साल के ऊंचे आंकड़ों के कारण रफ्तार धीमी ह",
-    "chips_hi": {},
-    "hi_ver": 2
-  },
-  {
-    "v": 3,
-    "cat": "Economy",
-    "tk": "ECONOMY",
-    "title": "Why did Moody's keep India's growth forecast at 7%?",
-    "summary": "Moody's keeps India's growth forecast unchanged at seven percent for the financial year. The rating agency notes strong domestic consumption and better private investment as key drivers. However, it warns about rising inflation, potential monsoon risks, and tighter monetary policy affecting overall economic stability.",
-    "source": "Business Standard",
-    "published": "2026-11-11T13:41:16+00:00",
-    "ago": "58m",
-    "impact": "Positive",
-    "why": "Solid demand supports strong economic growth outlook.",
-    "url": "https://www.business-standard.com/economy/news/moody-s-retains-india-s-fy27-growth-forecast-at-7-on-resilient-demand-126111101341_1.html",
-    "chips": {},
-    "trend": [
-      0.1,
-      0.25,
-      0.2,
-      0.5,
-      0.45,
-      0.8,
-      0.95
-    ],
-    "color": "0F766E",
-    "premium": false,
-    "title_hi": "Moody's ने भारत की ग्रोथ रेट 7% पर क्यों बरकरार रखी?",
-    "summary_hi": "Moody's ने वित्त वर्ष के लिए भारत का विकास अनुमान सात प्रतिशत पर स्थिर रखा है। रेटिंग एजेंसी मजबूत घरेलू खपत और बेहतर निजी निवेश को इसके मुख्य कारण मानती है। हालांकि, एजेंसी ने बढ़ती महंगाई, मानसून के जोखिम और सख्त मौद्रिक नीति को लेकर चेतावनी भी दी है।",
-    "why_hi": "मजबूत मांग से आर्थिक वृद्धि को समर्थन मिला है।",
-    "chips_hi": {},
-    "hi_tries": 0,
-    "hi_ver": 2
-  },
-  {
-    "v": 3,
-    "cat": "Companies",
-    "tk": "R SYSTEMS",
-    "title": "How is artificial intelligence reshaping revenue at R Systems?",
-    "summary": "Artificial intelligence-native products and services now generate a significant share of revenue for R Systems. Meanwhile, traditional engineering services at the company are experiencing a gradual decline, according to managing director and chief executive officer Nitesh Bansal.",
-    "source": "Business Standard",
-    "published": "2026-11-11T13:41:07+00:00",
-    "ago": "58m",
-    "impact": "Neutral",
-    "why": "Mixed trends in product and service segments.",
-    "url": "https://www.business-standard.com/companies/news/significant-share-of-r-systems-revenue-now-driven-by-ai-ceo-nitesh-bansal-126111101342_1.html",
-    "chips": {},
-    "trend": [
-      0.5,
-      0.55,
-      0.45,
-      0.5,
-      0.47,
-      0.52,
-      0.5
-    ],
-    "color": "B7791F",
-    "premium": true,
-    "title_hi": "R Systems की कमाई में AI की हिस्सेदारी क्यों बढ़ रही है?",
-    "summary_hi": "R Systems के एमडी और सीईओ नितेश बंसल के अनुसार, आर्टिफिशियल इंटेलिजेंस-नेटिव उत्पादों और सेवाओं से कंपनी को एक महत्वपूर्ण हिस्सा मिल रहा है। इस बीच, पारंपरिक इंजीनियरिंग सेवाओं में धीरे-धीरे गिरावट आ रही है।",
-    "why_hi": "उत्पाद और सेवा खंडों में मिले-जुले रुझान।",
-    "chips_hi": {},
-    "hi_tries": 0,
-    "hi_ver": 2
-  },
-  {
-    "v": 3,
-    "cat": "Finance",
-    "tk": "FINANCE",
-    "title": "Can your landlord legally withhold your security deposit?",
-    "summary": "Tenant rights allow you to protect your security deposit by establishing clear refund terms upfront. Renters should maintain proper evidence regarding the condition of the rented property and actively challenge any unfair or unjustified deductions made by the property owner when moving out.",
-    "source": "Business Standard",
-    "published": "2026-11-11T13:36:35+00:00",
-    "ago": "1h",
-    "impact": "Neutral",
-    "why": "General guidance on rental deposit rights.",
-    "url": "https://www.business-standard.com/finance/personal-finance/can-a-landlord-withhold-your-security-deposit-know-your-legal-rights-126111101337_1.html",
-    "chips": {},
-    "trend": [
-      0.5,
-      0.55,
-      0.45,
-      0.5,
-      0.47,
-      0.52,
-      0.5
-    ],
-    "color": "B7791F",
-    "premium": false,
-    "title_hi": "क्या आपका मकान मालिक आपका सिक्योरिटी डिपॉजिट रोक सकता है?",
-    "summary_hi": "किरायेदार स्पष्ट रिफंड शर्तें तय करके, संपत्ति की स्थिति के सबूत रखकर और बिना वजह काटे गए पैसों को चुनौती देकर अपने सिक्योरिटी डिपॉजिट को सुरक्षित रख सकते हैं।",
-    "why_hi": "किराए के पैसों से जुड़े अधिकार।",
-    "chips_hi": {},
     "hi_tries": 0,
     "hi_ver": 2
   }
