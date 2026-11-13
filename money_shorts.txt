@@ -1,6 +1,124 @@
 [
   {
     "v": 3,
+    "cat": "Companies",
+    "tk": "RHI MAGNESITA",
+    "title": "RHI Magnesita India CFO resigns, successor named from 1 January 2027",
+    "summary": "RHI Magnesita India said in a filing with the National Stock Exchange that its chief financial officer will leave on 31 December 2026 to take a role in another group company.",
+    "source": "Oquilia",
+    "published": "2026-11-13T12:48:10.014000+00:00",
+    "ago": "1h",
+    "impact": "Neutral",
+    "why": "Planned transition, no immediate impact.",
+    "url": "https://www.oquilia.com/news/rhi-magnesita-india-cfo-resigns-successor-named-from-1-january-2027",
+    "chips": {
+      "Exit Date": "31 Dec 2026",
+      "Joining Date": "1 Jan 2027"
+    },
+    "trend": [
+      0.5,
+      0.55,
+      0.45,
+      0.5,
+      0.47,
+      0.52,
+      0.5
+    ],
+    "color": "B7791F",
+    "premium": false,
+    "verbatim": false,
+    "src_title": "RHI Magnesita India CFO resigns, successor named from 1 January 2027",
+    "src_summary": "RHI Magnesita India said in a filing with the National Stock Exchange that its chief financial officer will leave on 31 December 2026 to take a role in another group company.",
+    "title_hi": "RHI Magnesita India के CFO ने दिया इस्तीफा, नए उत्तराधिकारी की घोषणा 1 जनवरी 2027 से",
+    "summary_hi": "RHI Magnesita India ने नेशनल स्टॉक एक्सचेंज को दी गई जानकारी में बताया कि उसके मुख्य वित्तीय अधिकारी 31 दिसंबर 2026 को पद छोड़ देंगे और समूह की दूसरी कंपनी में जिम्मेदारी संभालेंगे।",
+    "why_hi": "नियोजित बदलाव, कोई तात्कालिक प्रभाव नहीं।",
+    "chips_hi": {
+      "पद छोड़ने की तारीख": "31 Dec 2026",
+      "कार्यभार की तारीख": "1 Jan 2027"
+    }
+  },
+  {
+    "v": 3,
+    "cat": "Earnings",
+    "tk": "ABB INDIA",
+    "title": "ABB India Q3 net profit rises 8.2% to Rs 442.52 crore",
+    "summary": "ABB India said in a filing with the National Stock Exchange that consolidated net profit for the September 2026 quarter rose 8.2% to Rs 442.52 crore on revenue of Rs 3,738.13 crore.",
+    "source": "Oquilia",
+    "published": "2026-11-13T12:48:06.870000+00:00",
+    "ago": "1h",
+    "impact": "Positive",
+    "why": "Net profit and revenue increased in Q3.",
+    "url": "https://www.oquilia.com/news/abb-india-q3-results-net-profit-rises-8-2-percent-rs-442-crore",
+    "chips": {
+      "Net Profit": "Rs 442.52 crore",
+      "Profit Growth": "8.2%",
+      "Revenue": "Rs 3,738.13 crore"
+    },
+    "trend": [
+      0.1,
+      0.25,
+      0.2,
+      0.5,
+      0.45,
+      0.8,
+      0.95
+    ],
+    "color": "0F766E",
+    "premium": false,
+    "verbatim": false,
+    "src_title": "ABB India Q3 results: net profit rises 8.2% to Rs 442.52 crore",
+    "src_summary": "ABB India said in a filing with the National Stock Exchange that consolidated net profit for the September 2026 quarter rose 8.2% to Rs 442.52 crore on revenue of Rs 3,738.13 crore.",
+    "title_hi": "ABB India Q3 net profit 8.2% बढ़कर Rs 442.52 crore हुआ",
+    "summary_hi": "ABB India ने National Stock Exchange को दी गई जानकारी में बताया कि September 2026 तिमाही में konsolidated net profit 8.2% बढ़कर Rs 442.52 crore हो गया, जबकि revenue Rs 3,738.13 crore रहा।",
+    "why_hi": "Q3 में शुद्ध लाभ और राजस्व बढ़ा।",
+    "chips_hi": {
+      "Net Profit": "Rs 442.52 crore",
+      "Profit Growth": "8.2%",
+      "Revenue": "Rs 3,738.13 crore"
+    }
+  },
+  {
+    "v": 3,
+    "cat": "Finance",
+    "tk": "FINANCE",
+    "title": "Government-Sector NPS Members Get Wider Investment Choice",
+    "summary": "PFRDA's 9 July 2026 circular adds two Auto Choice life-cycle funds for Central Autonomous Body NPS subscribers, taking options to six, with up to 75% equity until 35.",
+    "source": "Oquilia",
+    "published": "2026-11-13T10:33:44.720000+00:00",
+    "ago": "3h",
+    "impact": "Positive",
+    "why": "More investment choices for NPS subscribers.",
+    "url": "https://www.oquilia.com/news/oquilia-research-nps-investment-choice-central-autonomous-bodies-equity",
+    "chips": {
+      "Date": "9 July 2026",
+      "Options": "6",
+      "Equity": "75%"
+    },
+    "trend": [
+      0.1,
+      0.25,
+      0.2,
+      0.5,
+      0.45,
+      0.8,
+      0.95
+    ],
+    "color": "0F766E",
+    "premium": false,
+    "verbatim": false,
+    "src_title": "Government-Sector NPS Members Get Wider Investment Choice: What CAB Subscribers Can Now Do",
+    "src_summary": "PFRDA's 9 July 2026 circular adds two Auto Choice life-cycle funds for Central Autonomous Body NPS subscribers, taking options to six, with up to 75% equity until 35.",
+    "title_hi": "Government-Sector NPS सदस्यों को मिला व्यापक निवेश विकल्प",
+    "summary_hi": "PFRDA के 9 July 2026 के सर्कुलर ने सेंट्रल ऑटोनॉमस बॉडी NPS सब्सक्राइबर्स के लिए दो ऑटो चॉइस लाइफ-साइकिल फंड जोड़े हैं, जिससे विकल्प बढ़कर छह हो गए हैं, जिसमें 35 वर्ष की आयु तक 75% तक इक्विटी शामिल है।",
+    "why_hi": "NPS ग्राहकों के लिए अधिक निवेश विकल्प।",
+    "chips_hi": {
+      "तारीख": "9 July 2026",
+      "विकल्प": "6",
+      "इक्विटी": "75%"
+    }
+  },
+  {
+    "v": 3,
     "cat": "Earnings",
     "tk": "NATCO PHARMA",
     "title": "Natco Pharma Q2 net profit falls 61% to Rs 203 crore",
@@ -37,7 +155,9 @@
       "शुद्ध लाभ गिरावट": "61%",
       "शुद्ध लाभ": "Rs 203 crore",
       "राजस्व गिरावट": "29%"
-    }
+    },
+    "hi_tries": 0,
+    "hi_ver": 2
   },
   {
     "v": 3,
@@ -73,7 +193,9 @@
     "why_hi": "बोर्ड से इस्तीफा कॉर्पोरेट प्रशासन अनिश्चितता पैदा करता है।",
     "chips_hi": {
       "इस्तीफा तिथि": "12 November 2026"
-    }
+    },
+    "hi_tries": 0,
+    "hi_ver": 2
   },
   {
     "v": 3,
@@ -113,7 +235,9 @@
       "धारा": "158",
       "अधिनियम": "Income-tax Act 2025",
       "फॉर्म": "Form 40"
-    }
+    },
+    "hi_tries": 0,
+    "hi_ver": 2
   },
   {
     "v": 3,
@@ -537,7 +661,9 @@
     "title_hi": "Popular Vehicles ने कहा कि Prabal Motors के ऑडिटर ने इस्तीफा दिया",
     "summary_hi": "Popular Vehicles and Services ने NSE को बताया कि B S R and Co ने parent company में फर्म के rotation का हवाला देते हुए अपनी material subsidiary Prabal Motors के statutory auditor के रूप में इस्तीफा दे दिया है।",
     "why_hi": "रोशन नीति के कारण ऑडिटर का इस्तीफा।",
-    "chips_hi": {}
+    "chips_hi": {},
+    "hi_tries": 0,
+    "hi_ver": 2
   },
   {
     "v": 3,
@@ -573,7 +699,9 @@
     "why_hi": "कंपनी दिवालिया प्रक्रिया में शामिल।",
     "chips_hi": {
       "दावा तिथि": "18 November 2026"
-    }
+    },
+    "hi_tries": 0,
+    "hi_ver": 2
   },
   {
     "v": 3,
@@ -611,7 +739,9 @@
     "chips_hi": {
       "एंटरप्राइज वैल्यू": "EUR 2.56 अरब",
       "इक्विटी कंसीडरेशन": "EUR 1,184 मिलियन"
-    }
+    },
+    "hi_tries": 0,
+    "hi_ver": 2
   },
   {
     "v": 3,
@@ -649,7 +779,9 @@
     "chips_hi": {
       "शुद्ध लाभ": "318.49 करोड़ रुपये",
       "राजस्व": "2,996.51 करोड़ रुपये"
-    }
+    },
+    "hi_tries": 0,
+    "hi_ver": 2
   },
   {
     "v": 3,
@@ -687,7 +819,9 @@
     "chips_hi": {
       "खुदरा महंगाई": "6.09%",
       "खाद्य महंगाई": "8.94%"
-    }
+    },
+    "hi_tries": 0,
+    "hi_ver": 2
   },
   {
     "v": 3,
@@ -718,7 +852,8 @@
     "verbatim": false,
     "src_title": "NPS exit held up by a bank name mismatch? PFRDA's mandatory penny-drop check and how to clear a failure",
     "src_summary": "PFRDA blocks every NPS exit or withdrawal until a penny drop bank check passes with the name matching. The 5 failure reasons, who fixes each, and how the cleared corpus is taxed.",
-    "hi_tries": 1
+    "hi_tries": 1,
+    "hi_ver": 2
   },
   {
     "v": 3,
@@ -756,6 +891,284 @@
     "chips_hi": {
       "निवेश": "2,500 करोड़ रुपये",
       "मूल्यांकन": "28,000 करोड़ रुपये"
+    },
+    "hi_tries": 0,
+    "hi_ver": 2
+  },
+  {
+    "v": 3,
+    "cat": "Earnings",
+    "tk": "PAGE INDUSTRIES",
+    "title": "Page Industries Q2 net profit rises 4% to Rs 202.54 crore",
+    "summary": "Page Industries said in its NSE filing that Q2 FY27 revenue rose 11.5% to Rs 1,439.61 crore and net profit 4.0% to Rs 202.54 crore. Its board declared a Rs 150 interim dividend.",
+    "source": "Oquilia",
+    "published": "2026-11-12T09:46:08.360000+00:00",
+    "ago": "1d",
+    "impact": "Positive",
+    "why": "Higher revenue, profit and interim dividend declared.",
+    "url": "https://www.oquilia.com/news/page-industries-q2-results-net-profit-rises-4-percent-rs-202-crore",
+    "chips": {
+      "Net Profit": "Rs 202.54 cr",
+      "Revenue": "Rs 1,439.61 cr",
+      "Dividend": "Rs 150"
+    },
+    "trend": [
+      0.1,
+      0.25,
+      0.2,
+      0.5,
+      0.45,
+      0.8,
+      0.95
+    ],
+    "color": "0F766E",
+    "premium": false,
+    "verbatim": false,
+    "src_title": "Page Industries Q2 results: net profit rises 4% to Rs 202.54 crore",
+    "src_summary": "Page Industries said in its NSE filing that Q2 FY27 revenue rose 11.5% to Rs 1,439.61 crore and net profit 4.0% to Rs 202.54 crore. Its board declared a Rs 150 interim dividend.",
+    "title_hi": "Page Industries का Q2 नेट प्रॉफिट 4% बढ़कर 202.54 करोड़ रुपये हुआ",
+    "summary_hi": "Page Industries ने NSE फाइलिंग में कहा कि Q2 FY27 में रेवेन्यू 11.5% बढ़कर 1,439.61 करोड़ रुपये और नेट प्रॉफिट 4.0% बढ़कर 202.54 करोड़ रुपये हो गया। इसके बोर्ड ने 150 रुपये के अंतरिम डिविडेंड की घोषणा की।",
+    "why_hi": "बेहतर रेवेन्यू, प्रॉफिट और डिविडेंड घोषणा।",
+    "chips_hi": {
+      "नेट प्रॉफिट": "Rs 202.54 cr",
+      "रेवेन्यू": "Rs 1,439.61 cr",
+      "डिविडेंड": "Rs 150"
+    }
+  },
+  {
+    "v": 3,
+    "cat": "Finance",
+    "tk": "FINANCE",
+    "title": "Carrying foreign cash into India: Currency Declaration Form annexed to FEMA rules",
+    "summary": "RBI's February 2026 FEMA amendment annexes the Currency Declaration Form to the 2015 currency rules. When NRIs must declare above USD 10,000 or USD 5,000 in notes, and how to take unspent cash out.",
+    "source": "Oquilia",
+    "published": "2026-11-12T09:06:22.024000+00:00",
+    "ago": "1d",
+    "impact": "Neutral",
+    "why": "Regulatory update on currency declaration rules.",
+    "url": "https://www.oquilia.com/news/oquilia-research-currency-declaration-form-fema-6r-2026-annex-nri-arrivals",
+    "chips": {
+      "Limit": "USD 10,000",
+      "Notes limit": "USD 5,000"
+    },
+    "trend": [
+      0.5,
+      0.55,
+      0.45,
+      0.5,
+      0.47,
+      0.52,
+      0.5
+    ],
+    "color": "B7791F",
+    "premium": false,
+    "verbatim": false,
+    "src_title": "Carrying foreign cash into India: the Currency Declaration Form now annexed to FEMA's currency regulations by the February 2026 amendment",
+    "src_summary": "RBI's February 2026 FEMA amendment annexes the Currency Declaration Form to the 2015 currency rules. When NRIs must declare above USD 10,000 or USD 5,000 in notes, and how to take unspent cash out.",
+    "hi_tries": 1,
+    "title_hi": "भारत में विदेशी नकदी लाना: FEMA नियमों के साथ संलग्न किया गया Currency Declaration Form",
+    "summary_hi": "RBI के फरवरी 2026 के FEMA संशोधन ने 2015 के मुद्रा नियमों के साथ Currency Declaration Form को संलग्न किया है। जानिए कब NRI को 10,000 USD या 5,000 USD से अधिक के नोटों की घोषणा करनी होगी, और बिना खर्च की गई नकदी को बाहर कैसे ले जाया जाए।",
+    "why_hi": "मुद्रा घोषणा नियमों पर विनियामक अपडेट।",
+    "chips_hi": {
+      "सीमा": "USD 10,000",
+      "नोट सीमा": "USD 5,000"
+    }
+  },
+  {
+    "v": 3,
+    "cat": "Earnings",
+    "tk": "ALKEM",
+    "title": "Alkem Laboratories Q2 net profit falls 11.7% to Rs 675.3 crore",
+    "summary": "Alkem Laboratories said in its filing that consolidated net profit attributable to owners for the September 2026 quarter was Rs 675.3 crore, down 11.7% year on year, on revenue of Rs 4,552.0 crore.",
+    "source": "Oquilia",
+    "published": "2026-11-12T08:47:51.471000+00:00",
+    "ago": "1d",
+    "impact": "Negative",
+    "why": "Net profit fell 11.7% year-on-year.",
+    "url": "https://www.oquilia.com/news/alkem-laboratories-q2-results-net-profit-falls-11-7-percent",
+    "chips": {
+      "Net Profit": "Rs 675.3 crore",
+      "Profit Fall": "11.7%",
+      "Revenue": "Rs 4,552.0 crore"
+    },
+    "trend": [
+      0.95,
+      0.85,
+      0.7,
+      0.6,
+      0.4,
+      0.3,
+      0.1
+    ],
+    "color": "9B2C2C",
+    "premium": false,
+    "verbatim": false,
+    "src_title": "Alkem Laboratories Q2 results: net profit falls 11.7% to Rs 675.3 crore",
+    "src_summary": "Alkem Laboratories said in its filing that consolidated net profit attributable to owners for the September 2026 quarter was Rs 675.3 crore, down 11.7% year on year, on revenue of Rs 4,552.0 crore.",
+    "title_hi": "Alkem Laboratories का Q2 शुद्ध लाभ 11.7% घटकर Rs 675.3 करोड़ हुआ",
+    "summary_hi": "Alkem Laboratories ने अपनी फाइलिंग में कहा कि सितंबर 2026 तिमाही के लिए मालिकों के नाम समेकित शुद्ध लाभ Rs 675.3 करोड़ था, जो साल-दर-साल 11.7% कम है और राजस्व Rs 4,552.0 करोड़ रहा।",
+    "why_hi": "शुद्ध लाभ 11.7% घट गया।",
+    "chips_hi": {
+      "शुद्ध लाभ": "Rs 675.3 करोड़",
+      "लाभ में गिरावट": "11.7%",
+      "राजस्व": "Rs 4,552.0 करोड़"
+    }
+  },
+  {
+    "v": 3,
+    "cat": "Earnings",
+    "tk": "BHARAT DYNAMICS",
+    "title": "Bharat Dynamics Q2 net profit falls 15% to Rs 183.5 crore",
+    "summary": "Bharat Dynamics said in its filing that standalone net profit for the September 2026 quarter was Rs 183.5 crore, down 15.0% year on year, while revenue rose 45.1% to Rs 1,664.1 crore.",
+    "source": "Oquilia",
+    "published": "2026-11-12T08:47:33.001000+00:00",
+    "ago": "1d",
+    "impact": "Negative",
+    "why": "Net profit declined by 15 percent.",
+    "url": "https://www.oquilia.com/news/bharat-dynamics-q2-results-net-profit-falls-15-percent",
+    "chips": {
+      "Net Profit": "Rs 183.5 cr",
+      "Profit Fall": "15%",
+      "Revenue Rise": "45.1%"
+    },
+    "trend": [
+      0.95,
+      0.85,
+      0.7,
+      0.6,
+      0.4,
+      0.3,
+      0.1
+    ],
+    "color": "9B2C2C",
+    "premium": false,
+    "verbatim": false,
+    "src_title": "Bharat Dynamics Q2 results: net profit falls 15% to Rs 183.5 crore",
+    "src_summary": "Bharat Dynamics said in its filing that standalone net profit for the September 2026 quarter was Rs 183.5 crore, down 15.0% year on year, while revenue rose 45.1% to Rs 1,664.1 crore.",
+    "hi_tries": 1,
+    "title_hi": "Bharat Dynamics का Q2 नेट प्रॉफिट 15% घटकर 183.5 करोड़ रुपये रहा",
+    "summary_hi": "Bharat Dynamics ने अपनी फाइलिंग में कहा कि सितंबर 2026 तिमाही के लिए स्टैंडअलोन नेट प्रॉफिट 15.0% साल-दर-साल घटकर 183.5 करोड़ रुपये रहा, जबकि रेवेन्यू 45.1% बढ़कर 1,664.1 करोड़ रुपये हो गया।",
+    "why_hi": "नेट प्रॉफिट 15 प्रतिशत कम हो गया।",
+    "chips_hi": {
+      "नेट प्रॉफिट": "183.5 करोड़ रुपये",
+      "प्रॉफिट में गिरावट": "15%",
+      "रेवेन्यू में वृद्धि": "45.1%"
+    }
+  },
+  {
+    "v": 3,
+    "cat": "Markets",
+    "tk": "TATA POWER",
+    "title": "Tata Power board approves Rs 11,871 crore Shirwata pumped storage project",
+    "summary": "Tata Power told the National Stock Exchange that its board approved an investment of Rs 11,871 crore in a 1,800 MW pumped storage project at Shirwata, Maharashtra, to be added within 51 months.",
+    "source": "Oquilia",
+    "published": "2026-11-12T08:17:37.075000+00:00",
+    "ago": "1d",
+    "impact": "Positive",
+    "why": "Investment in large capacity expansion.",
+    "url": "https://www.oquilia.com/news/tata-power-board-approves-shirwata-pumped-storage-project",
+    "chips": {
+      "Investment": "Rs 11,871 crore",
+      "Capacity": "1,800 MW",
+      "Timeline": "51 months"
+    },
+    "trend": [
+      0.1,
+      0.25,
+      0.2,
+      0.5,
+      0.45,
+      0.8,
+      0.95
+    ],
+    "color": "0F766E",
+    "premium": false,
+    "verbatim": false,
+    "src_title": "Tata Power board approves Rs 11,871 crore Shirwata pumped storage project",
+    "src_summary": "Tata Power told the National Stock Exchange that its board approved an investment of Rs 11,871 crore in a 1,800 MW pumped storage project at Shirwata, Maharashtra, to be added within 51 months.",
+    "title_hi": "Tata Power बोर्ड ने 11,871 करोड़ रुपये की शिरवाटा पंप स्टोरेज परियोजना को दी मंजूरी",
+    "summary_hi": "Tata Power ने National Stock Exchange को बताया कि उसके बोर्ड ने महाराष्ट्र के शिरवाटा में 51 महीनों के भीतर 1,800 MW की पंप स्टोरेज परियोजना में 11,871 करोड़ रुपये के निवेश को मंजूरी दे दी है।",
+    "why_hi": "बड़ी क्षमता विस्तार में निवेश।",
+    "chips_hi": {
+      "निवेश": "Rs 11,871 crore",
+      "क्षमता": "1,800 MW",
+      "समय सीमा": "51 months"
+    }
+  },
+  {
+    "v": 3,
+    "cat": "Earnings",
+    "tk": "MARKETS",
+    "title": "Caplin Point Q2 net profit rises 13.8% to Rs 182.35 crore",
+    "summary": "Caplin Point Laboratories told the NSE its consolidated net profit rose 13.8% to Rs 182.35 crore in the September 2026 quarter, with revenue from operations up 17.9% to Rs 629.84 crore.",
+    "source": "Oquilia",
+    "published": "2026-11-12T07:47:07.759000+00:00",
+    "ago": "1d",
+    "impact": "Positive",
+    "why": "Higher net profit and revenue reported.",
+    "url": "https://www.oquilia.com/news/caplin-point-q2-results-net-profit-rises-13-8-percent-to-rs-182-crore",
+    "chips": {
+      "Net Profit": "Rs 182.35 cr",
+      "Profit Growth": "13.8%",
+      "Revenue": "Rs 629.84 cr"
+    },
+    "trend": [
+      0.1,
+      0.25,
+      0.2,
+      0.5,
+      0.45,
+      0.8,
+      0.95
+    ],
+    "color": "0F766E",
+    "premium": false,
+    "verbatim": false,
+    "src_title": "Caplin Point Q2 results: net profit rises 13.8% to Rs 182.35 crore",
+    "src_summary": "Caplin Point Laboratories told the NSE its consolidated net profit rose 13.8% to Rs 182.35 crore in the September 2026 quarter, with revenue from operations up 17.9% to Rs 629.84 crore.",
+    "title_hi": "Caplin Point Q2 net profit 13.8% बढ़कर Rs 182.35 crore हुआ",
+    "summary_hi": "Caplin Point Laboratories ने NSE को बताया कि सितंबर 2026 तिमाही में उसका समेकित शुद्ध लाभ 13.8% बढ़कर Rs 182.35 crore हो गया, और परिचालन से राजस्व 17.9% बढ़कर Rs 629.84 crore हो गया।",
+    "why_hi": "शुद्ध लाभ और राजस्व में वृद्धि।",
+    "chips_hi": {
+      "नेट प्रॉफिट": "Rs 182.35 cr",
+      "प्रॉफिट ग्रोथ": "13.8%",
+      "रेवेन्यू": "Rs 629.84 cr"
+    }
+  },
+  {
+    "v": 3,
+    "cat": "Companies",
+    "tk": "FELIX INDUSTRIES",
+    "title": "Felix Industries says independent director resigned over new employment",
+    "summary": "Felix Industries said in an NSE filing that a non-executive independent director resigned effective 31 October 2026, citing the terms of new employment.",
+    "source": "Oquilia",
+    "published": "2026-11-12T06:46:30.590000+00:00",
+    "ago": "1d",
+    "impact": "Neutral",
+    "why": "Routine director resignation due to new employment.",
+    "url": "https://www.oquilia.com/news/felix-industries-independent-director-resigns-new-employment",
+    "chips": {
+      "Effective date": "31 October 2026"
+    },
+    "trend": [
+      0.5,
+      0.55,
+      0.45,
+      0.5,
+      0.47,
+      0.52,
+      0.5
+    ],
+    "color": "B7791F",
+    "premium": false,
+    "verbatim": false,
+    "src_title": "Felix Industries says independent director resigned over new employment",
+    "src_summary": "Felix Industries said in an NSE filing that a non-executive independent director resigned effective 31 October 2026, citing the terms of new employment.",
+    "title_hi": "Felix Industries का कहना है कि नए रोजगार के कारण स्वतंत्र निदेशक ने इस्तीफा दिया",
+    "summary_hi": "Felix Industries ने एक NSE फाइलिंग में कहा कि एक गैर-कार्यकारी स्वतंत्र निदेशक ने 31 अक्टूबर 2026 से प्रभावी इस्तीफा दे दिया, जिसका कारण नए रोजगार की शर्तें बताई गईं।",
+    "why_hi": "नए रोजगार के कारण नियमित निदेशक का इस्तीफा।",
+    "chips_hi": {
+      "प्रभावी तिथि": "31 October 2026"
     }
   }
 ]
