@@ -2,6 +2,84 @@
   {
     "v": 3,
     "cat": "Markets",
+    "tk": "MARKETS",
+    "title": "Stock market this week: Nifty 50 gains 0.63% as PSU banks jump 7.84%, IT lags",
+    "summary": "The Nifty 50 rose 0.63% to 25,144.30 in the week of 9 November 2026 as 1,449 NSE stocks advanced and 1,169 declined; the Nifty PSU Bank led sectors with a 7.84% gain.",
+    "source": "Oquilia",
+    "published": "2026-11-14T04:40:06.926000+00:00",
+    "ago": "1h",
+    "impact": "Neutral",
+    "why": "Broad market movement with mixed sector trends.",
+    "url": "https://www.oquilia.com/news/stock-market-this-week-13-november-2026",
+    "chips": {
+      "Nifty 50": "0.63%",
+      "PSU Banks": "7.84%",
+      "Level": "25,144.30"
+    },
+    "trend": [
+      0.5,
+      0.55,
+      0.45,
+      0.5,
+      0.47,
+      0.52,
+      0.5
+    ],
+    "color": "B7791F",
+    "premium": false,
+    "verbatim": false,
+    "src_title": "Stock market this week: Nifty 50 gains 0.63% as PSU banks jump 7.84%, IT lags",
+    "src_summary": "The Nifty 50 rose 0.63% to 25,144.30 in the week of 9 November 2026 as 1,449 NSE stocks advanced and 1,169 declined; the Nifty PSU Bank led sectors with a 7.84% gain.",
+    "title_hi": "इस सप्ताह शेयर बाजार: Nifty 50 में 0.63% की बढ़त, PSU बैंक 7.84% उछले, IT पिछड़ा",
+    "summary_hi": "9 नवंबर 2026 को समाप्त सप्ताह में Nifty 50 0.63% बढ़कर 25,144.30 पर पहुंच गया, जिसमें NSE के 1,449 शेयर चढ़े और 1,169 गिरे। Nifty PSU बैंक 7.84% की तेजी के साथ सबसे आगे रहा।",
+    "why_hi": "विस्तृत बाजार में मिश्रित रुझान।",
+    "chips_hi": {
+      "Nifty 50": "0.63%",
+      "PSU बैंक": "7.84%",
+      "स्तर": "25,144.30"
+    }
+  },
+  {
+    "v": 3,
+    "cat": "Markets",
+    "tk": "CRYSTAL CROP",
+    "title": "Crystal Crop Protection files RHP; Rs 355 cr fresh issue opens Nov 18",
+    "summary": "Crystal Crop Protection's IPO runs November 18-20 per its RHP dated November 12, 2026, with a fresh issue of up to Rs 3,550.03 million and a promoter offer for sale.",
+    "source": "Oquilia",
+    "published": "2026-11-14T04:23:47.870000+00:00",
+    "ago": "1h",
+    "impact": "Neutral",
+    "why": "IPO details announced without fundamental impact.",
+    "url": "https://www.oquilia.com/news/crystal-crop-protection-ipo-rhp-opens-november-18",
+    "chips": {
+      "Fresh issue": "Rs 355 cr",
+      "IPO dates": "Nov 18-20"
+    },
+    "trend": [
+      0.5,
+      0.55,
+      0.45,
+      0.5,
+      0.47,
+      0.52,
+      0.5
+    ],
+    "color": "B7791F",
+    "premium": false,
+    "verbatim": false,
+    "src_title": "Crystal Crop Protection files RHP; Rs 355 crore fresh issue opens Nov 18",
+    "src_summary": "Crystal Crop Protection's IPO runs November 18-20 per its RHP dated November 12, 2026, with a fresh issue of up to Rs 3,550.03 million and a promoter offer for sale.",
+    "title_hi": "Crystal Crop Protection ने RHP दाखिल किया; Rs 355 cr का नया इश्यू 18 Nov को खुलेगा",
+    "summary_hi": "Crystal Crop Protection का IPO 12 नवंबर 2026 के RHP के अनुसार 18-20 नवंबर तक चलेगा, जिसमें 3,550.03 मिलियन रुपये तक का नया इश्यू और प्रमोटर ऑफर फॉर सेल शामिल है।",
+    "why_hi": "IPO विवरण घोषित किए गए।",
+    "chips_hi": {
+      "नया इश्यू": "Rs 355 cr",
+      "IPO तिथियां": "Nov 18-20"
+    }
+  },
+  {
+    "v": 3,
+    "cat": "Markets",
     "tk": "YES BANK",
     "title": "Yes Bank seeks Supreme Court review of AT-1 bond write-down ruling",
     "summary": "Yes Bank told the stock exchanges on 13 November 2026 that it has asked the Supreme Court to review its 15 October 2026 judgment on the write-down of AT-1 bonds of Rs 8,415 crore.",
@@ -33,7 +111,9 @@
     "why_hi": "मौजूदा बॉंड राइट-डाउन पर कानूनी समीक्षा मांगी गई।",
     "chips_hi": {
       "बॉंड मूल्य": "Rs 8,415 crore"
-    }
+    },
+    "hi_tries": 0,
+    "hi_ver": 2
   },
   {
     "v": 3,
@@ -66,7 +146,7 @@
     "verbatim": false,
     "src_title": "Truck Owners on Section 44AE: The ITR-3 Validation Rules for AY 2026-27 That Reject Goods Carriage Returns",
     "src_summary": "CBDT's ITR-3 validation rules for AY 2026-27 block 44AE goods carriage returns that break the Rs 7,500-a-month floor, the 120-month cap or the schedule totals. Here is what each rule checks.",
-    "hi_tries": 1,
+    "hi_tries": 0,
     "title_hi": "ट्रक मालिकों के लिए Section 44AE: AY 2026-27 के ITR-3 वैलिडेशन नियम जो गुड्स कैरिज रिटर्न को करते हैं खारिज",
     "summary_hi": "AY 2026-27 के लिए CBDT के ITR-3 वैलिडेशन नियम 44AE गुड्स कैरिज रिटर्न को ब्लॉक करते हैं जो 7,500 रुपये प्रति माह के फ्लोर, 120 महीने की कैप या शेड्यूल टोटल का उल्लंघन करते हैं। यहाँ बताया गया है कि प्रत्येक नियम क्या जाँचता है।",
     "why_hi": "ट्रक मालिकों के लिए टैक्स फाइलिंग नियम अपडेट किए गए।",
@@ -74,7 +154,8 @@
       "मासिक फ्लोर": "Rs 7,500",
       "महीने की कैप": "120-month",
       "असेसमेंट ईयर": "AY 2026-27"
-    }
+    },
+    "hi_ver": 2
   },
   {
     "v": 3,
@@ -114,7 +195,9 @@
       "Q2 घाटा": "Rs 5,451 crore",
       "राजस्व वृद्धि": "34%",
       "राजस्व": "Rs 96,920 crore"
-    }
+    },
+    "hi_tries": 0,
+    "hi_ver": 2
   },
   {
     "v": 3,
@@ -152,7 +235,9 @@
     "chips_hi": {
       "Nifty 50": "25,144.30",
       "गिरावट": "0.61%"
-    }
+    },
+    "hi_tries": 0,
+    "hi_ver": 2
   },
   {
     "v": 3,
@@ -181,7 +266,8 @@
     "verbatim": false,
     "src_title": "IBBI suspends liquidator for two years over SBI vote cut in Manglam Fiscal case",
     "src_summary": "IBBI suspended an insolvency professional for two years, finding the liquidator cut SBI's voting share to block its own replacement in Manglam Fiscal Services' liquidation.",
-    "hi_tries": 1
+    "hi_tries": 1,
+    "hi_ver": 2
   },
   {
     "v": 3,
@@ -213,7 +299,9 @@
     "title_hi": "IBBI ने Associate Decor मामले में इंसॉल्वेंसी प्रोफेशनल को दो साल के लिए निलंबित किया",
     "summary_hi": "IBBI की अनुशासन समिति ने Associate Decor Limited की इंसॉल्वेंसी प्रक्रिया में कमियां मिलने के बाद एक इंसॉल्वेंसी प्रोफेशनल का रजिस्ट्रेशन दो साल के लिए निलंबित कर दिया।",
     "why_hi": "इंसॉल्वेंसी प्रोफेशनल पर विनियामक कार्रवाई।",
-    "chips_hi": {}
+    "chips_hi": {},
+    "hi_tries": 0,
+    "hi_ver": 2
   },
   {
     "v": 3,
