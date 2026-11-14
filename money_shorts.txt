@@ -1,6 +1,238 @@
 [
   {
     "v": 3,
+    "cat": "Finance",
+    "tk": "FINANCE",
+    "title": "Income-Tax Clearance Rules for Leaving India Under Section 420 of the 2025 Act",
+    "summary": "Section 420 of the Income-tax Act 2025 sets three different departure duties: an employer undertaking for expatriates, a PAN declaration for domiciled travellers, and a rare clearance certificate.",
+    "source": "Oquilia",
+    "published": "2026-11-14T09:04:38.669000+00:00",
+    "ago": "1h",
+    "impact": "Neutral",
+    "why": "Clarifies existing tax departure rules.",
+    "url": "https://www.oquilia.com/news/oquilia-research-tax-clearance-certificate-leaving-india-section-420",
+    "chips": {
+      "Section": "420",
+      "Act": "2025"
+    },
+    "trend": [
+      0.5,
+      0.55,
+      0.45,
+      0.5,
+      0.47,
+      0.52,
+      0.5
+    ],
+    "color": "B7791F",
+    "premium": false,
+    "verbatim": false,
+    "src_title": "Do You Need an Income-Tax Clearance Before Leaving India? What Section 420 of the 2025 Act Actually Requires and From Whom",
+    "src_summary": "Section 420 of the Income-tax Act 2025 sets three different departure duties: an employer undertaking for expatriates, a PAN declaration for domiciled travellers, and a rare clearance certificate.",
+    "title_hi": "2025 Act के Section 420 के तहत भारत छोड़ने पर Income-Tax Clearance नियम",
+    "summary_hi": "Income-tax Act 2025 का Section 420 तीन अलग-अलग प्रस्थान कर्तव्य तय करता है: प्रवासियों के लिए नियोक्ता उपक्रम, घरेलू यात्रियों के लिए PAN घोषणा, और एक दुर्लभ clearance certificate।",
+    "why_hi": "कर प्रस्थान नियमों को स्पष्ट करता है।",
+    "chips_hi": {
+      "Section": "420",
+      "Act": "2025"
+    }
+  },
+  {
+    "v": 3,
+    "cat": "Companies",
+    "tk": "SECUREKLOUD",
+    "title": "SecureKloud Technologies discloses default of Rs 8.11 crore on Indian Bank cash credit",
+    "summary": "SecureKloud Technologies told the National Stock Exchange it defaulted on Rs 8.11 crore of principal on a Rs 15 crore cash credit facility from Indian Bank, with the default dated 15 October 2026.",
+    "source": "Oquilia",
+    "published": "2026-11-14T08:47:25.843000+00:00",
+    "ago": "1h",
+    "impact": "Negative",
+    "why": "Company reported a loan default.",
+    "url": "https://www.oquilia.com/news/securekloud-technologies-discloses-default-indian-bank-cash-credit",
+    "chips": {
+      "Default amount": "Rs 8.11 crore",
+      "Facility amount": "Rs 15 crore",
+      "Default date": "15 October 2026"
+    },
+    "trend": [
+      0.95,
+      0.85,
+      0.7,
+      0.6,
+      0.4,
+      0.3,
+      0.1
+    ],
+    "color": "9B2C2C",
+    "premium": false,
+    "verbatim": false,
+    "src_title": "SecureKloud Technologies discloses default of Rs 8.11 crore on Indian Bank cash credit",
+    "src_summary": "SecureKloud Technologies told the National Stock Exchange it defaulted on Rs 8.11 crore of principal on a Rs 15 crore cash credit facility from Indian Bank, with the default dated 15 October 2026.",
+    "title_hi": "SecureKloud Technologies ने Indian Bank कैश क्रेडिट पर 8.11 करोड़ रुपये के डिफॉल्ट का खुलासा किया",
+    "summary_hi": "SecureKloud Technologies ने नेशनल स्टॉक एक्सचेंज को बताया कि उसने Indian Bank की 15 करोड़ रुपये की कैश क्रेडिट सुविधा पर 8.11 करोड़ रुपये के मूलधन का डिफॉल्ट किया है, जिसकी तिथि 15 अक्टूबर 2026 है।",
+    "why_hi": "कंपनी ने ऋण डिफॉल्ट की सूचना दी।",
+    "chips_hi": {
+      "डिफॉल्ट राशि": "Rs 8.11 crore",
+      "सुविधा राशि": "Rs 15 crore",
+      "डिफॉल्ट तिथि": "15 October 2026"
+    }
+  },
+  {
+    "v": 3,
+    "cat": "Companies",
+    "tk": "MONEYBOXX",
+    "title": "Moneyboxx Finance statutory auditor resigns",
+    "summary": "Moneyboxx Finance told the National Stock Exchange its statutory auditor, Gaur & Associates, resigned on 13 November 2026 after the company moved to the RBI's NBFC middle layer.",
+    "source": "Oquilia",
+    "published": "2026-11-14T08:47:08.143000+00:00",
+    "ago": "1h",
+    "impact": "Negative",
+    "why": "Auditor resignation creates uncertainty for investors.",
+    "url": "https://www.oquilia.com/news/moneyboxx-finance-statutory-auditor-resigns-nbfc-middle-layer",
+    "chips": {
+      "Resignation Date": "13 Nov 2026"
+    },
+    "trend": [
+      0.95,
+      0.85,
+      0.7,
+      0.6,
+      0.4,
+      0.3,
+      0.1
+    ],
+    "color": "9B2C2C",
+    "premium": false,
+    "verbatim": false,
+    "src_title": "Moneyboxx Finance statutory auditor resigns after NBFC moves to RBI middle layer",
+    "src_summary": "Moneyboxx Finance told the National Stock Exchange its statutory auditor, Gaur & Associates, resigned on 13 November 2026 after the company moved to the RBI's NBFC middle layer.",
+    "title_hi": "Moneyboxx Finance के वैधानिक लेखापरीक्षक ने इस्तीफा दिया",
+    "summary_hi": "Moneyboxx Finance ने नेशनल स्टॉक एक्सचेंज को बताया कि कंपनी के RBI के NBFC मिडिल लेयर में जाने के बाद उसके वैधानिक लेखापरीक्षक, गौर एंड एसोसिएट्स ने 13 नवंबर 2026 को इस्तीफा दे दिया।",
+    "why_hi": "ऑडिट के इस्तीफे से अनिश्चितता बढ़ती है।",
+    "chips_hi": {
+      "इस्तीफा तिथि": "13 Nov 2026"
+    }
+  },
+  {
+    "v": 3,
+    "cat": "Earnings",
+    "tk": "PATANJALI FOODS",
+    "title": "Patanjali Foods Q2 net profit falls 18.8% to Rs 419.8 crore",
+    "summary": "Patanjali Foods told the National Stock Exchange its standalone Q2 FY27 revenue rose 15.6% to Rs 11,322.58 crore, while net profit fell 18.8% to Rs 419.8 crore from a year earlier.",
+    "source": "Oquilia",
+    "published": "2026-11-14T08:46:50.903000+00:00",
+    "ago": "1h",
+    "impact": "Negative",
+    "why": "Net profit declined by 18.8 percent.",
+    "url": "https://www.oquilia.com/news/patanjali-foods-q2-results-standalone-net-profit-falls-18-8-percent",
+    "chips": {
+      "Net Profit Fall": "18.8%",
+      "Net Profit": "Rs 419.8 crore",
+      "Revenue Growth": "15.6%"
+    },
+    "trend": [
+      0.95,
+      0.85,
+      0.7,
+      0.6,
+      0.4,
+      0.3,
+      0.1
+    ],
+    "color": "9B2C2C",
+    "premium": false,
+    "verbatim": false,
+    "src_title": "Patanjali Foods Q2 results: standalone net profit falls 18.8% to Rs 419.8 crore",
+    "src_summary": "Patanjali Foods told the National Stock Exchange its standalone Q2 FY27 revenue rose 15.6% to Rs 11,322.58 crore, while net profit fell 18.8% to Rs 419.8 crore from a year earlier.",
+    "title_hi": "Patanjali Foods का Q2 शुद्ध लाभ 18.8% घटकर 419.8 करोड़ रुपये हुआ",
+    "summary_hi": "Patanjali Foods ने National Stock Exchange को बताया कि उसका स्टैंडअलोन Q2 FY27 का राजस्व 15.6% बढ़कर 11,322.58 करोड़ रुपये हो गया, जबकि शुद्ध लाभ एक साल पहले की तुलना में 18.8% घटकर 419.8 करोड़ रुपये रह गया।",
+    "why_hi": "शुद्ध लाभ में 18.8 प्रतिशत की गिरावट आई।",
+    "chips_hi": {
+      "शुद्ध लाभ में गिरावट": "18.8%",
+      "शुद्ध लाभ": "419.8 करोड़ रुपये",
+      "राजस्व वृद्धि": "15.6%"
+    }
+  },
+  {
+    "v": 3,
+    "cat": "Earnings",
+    "tk": "SAMMAAN CAPITAL",
+    "title": "Sammaan Capital Q2 net profit rises 1.3% to Rs 312.34 crore",
+    "summary": "Sammaan Capital said in its National Stock Exchange filing that consolidated net profit for the September 2026 quarter was Rs 312.34 crore, up 1.3% on the year, while revenue from operations fell 17.8%.",
+    "source": "Oquilia",
+    "published": "2026-11-14T06:46:23.098000+00:00",
+    "ago": "3h",
+    "impact": "Positive",
+    "why": "Net profit increased year-on-year.",
+    "url": "https://www.oquilia.com/news/sammaan-capital-q2-results-net-profit-rises-1-3-percent",
+    "chips": {
+      "Net Profit": "Rs 312.34 crore",
+      "Profit Growth": "1.3%",
+      "Revenue Drop": "17.8%"
+    },
+    "trend": [
+      0.1,
+      0.25,
+      0.2,
+      0.5,
+      0.45,
+      0.8,
+      0.95
+    ],
+    "color": "0F766E",
+    "premium": false,
+    "verbatim": false,
+    "src_title": "Sammaan Capital Q2 results: net profit rises 1.3% to Rs 312.34 crore",
+    "src_summary": "Sammaan Capital said in its National Stock Exchange filing that consolidated net profit for the September 2026 quarter was Rs 312.34 crore, up 1.3% on the year, while revenue from operations fell 17.8%.",
+    "title_hi": "Sammaan Capital की Q2 शुद्ध आय 1.3% बढ़कर 312.34 करोड़ रुपये हुई",
+    "summary_hi": "Sammaan Capital ने अपने नेशनल स्टॉक एक्सचेंज फाइलिंग में कहा कि सितंबर 2026 तिमाही के लिए समेकित शुद्ध लाभ साल-दर-साल 1.3% बढ़कर 312.34 करोड़ रुपये हो गया, जबकि परिचालन से राजस्व 17.8% गिर गया।",
+    "why_hi": "शुद्ध लाभ में साल-दर-साल वृद्धि हुई।",
+    "chips_hi": {
+      "शुद्ध लाभ": "312.34 करोड़ रुपये",
+      "लाभ वृद्धि": "1.3%",
+      "राजस्व में गिरावट": "17.8%"
+    }
+  },
+  {
+    "v": 3,
+    "cat": "Markets",
+    "tk": "MARKETS",
+    "title": "SVF II Meerkat sells 7,64,00,000 Meesho shares in NSE block deal at Rs 246.75",
+    "summary": "SVF II Meerkat (DE) LLC sold 7,64,00,000 shares of Meesho Limited at Rs 246.75 each in a block deal on 13 November 2026, according to the National Stock Exchange's deal data.",
+    "source": "Oquilia",
+    "published": "2026-11-14T06:21:52.074000+00:00",
+    "ago": "3h",
+    "impact": "Neutral",
+    "why": "Large stake sale is a normal transaction.",
+    "url": "https://www.oquilia.com/news/svf-ii-meerkat-sells-meesho-shares-nse-block-deal",
+    "chips": {
+      "Shares Sold": "7,64,00,000",
+      "Price": "Rs 246.75"
+    },
+    "trend": [
+      0.5,
+      0.55,
+      0.45,
+      0.5,
+      0.47,
+      0.52,
+      0.5
+    ],
+    "color": "B7791F",
+    "premium": false,
+    "verbatim": false,
+    "src_title": "SVF II Meerkat sells 7,64,00,000 Meesho shares in NSE block deal at Rs 246.75",
+    "src_summary": "SVF II Meerkat (DE) LLC sold 7,64,00,000 shares of Meesho Limited at Rs 246.75 each in a block deal on 13 November 2026, according to the National Stock Exchange's deal data.",
+    "title_hi": "SVF II Meerkat ने NSE ब्लॉक डील में 246.75 रुपये पर 7,64,00,000 Meesho शेयर बेचे",
+    "summary_hi": "National Stock Exchange के डील डेटा के अनुसार, SVF II Meerkat (DE) LLC ने 13 नवंबर 2026 को एक ब्लॉक डील में Meesho Limited के 7,64,00,000 शेयर 246.75 रुपये प्रति शेयर की दर से बेचे।",
+    "why_hi": "बड़ी हिस्सेदारी बेचना एक सामान्य सौदा है।",
+    "chips_hi": {
+      "बेचे गए शेयर": "7,64,00,000",
+      "कीमत": "Rs 246.75"
+    }
+  },
+  {
+    "v": 3,
     "cat": "Markets",
     "tk": "MARKETS",
     "title": "Stock market this week: Nifty 50 gains 0.63% as PSU banks jump 7.84%, IT lags",
@@ -37,7 +269,9 @@
       "Nifty 50": "0.63%",
       "PSU बैंक": "7.84%",
       "स्तर": "25,144.30"
-    }
+    },
+    "hi_tries": 0,
+    "hi_ver": 2
   },
   {
     "v": 3,
@@ -75,7 +309,9 @@
     "chips_hi": {
       "नया इश्यू": "Rs 355 cr",
       "IPO तिथियां": "Nov 18-20"
-    }
+    },
+    "hi_tries": 0,
+    "hi_ver": 2
   },
   {
     "v": 3,
@@ -266,7 +502,7 @@
     "verbatim": false,
     "src_title": "IBBI suspends liquidator for two years over SBI vote cut in Manglam Fiscal case",
     "src_summary": "IBBI suspended an insolvency professional for two years, finding the liquidator cut SBI's voting share to block its own replacement in Manglam Fiscal Services' liquidation.",
-    "hi_tries": 1,
+    "hi_tries": 2,
     "hi_ver": 2
   },
   {
@@ -1325,170 +1561,6 @@
       "शुद्ध लाभ": "Rs 675.3 करोड़",
       "लाभ में गिरावट": "11.7%",
       "राजस्व": "Rs 4,552.0 करोड़"
-    },
-    "hi_tries": 0,
-    "hi_ver": 2
-  },
-  {
-    "v": 3,
-    "cat": "Earnings",
-    "tk": "BHARAT DYNAMICS",
-    "title": "Bharat Dynamics Q2 net profit falls 15% to Rs 183.5 crore",
-    "summary": "Bharat Dynamics said in its filing that standalone net profit for the September 2026 quarter was Rs 183.5 crore, down 15.0% year on year, while revenue rose 45.1% to Rs 1,664.1 crore.",
-    "source": "Oquilia",
-    "published": "2026-11-12T08:47:33.001000+00:00",
-    "ago": "1d",
-    "impact": "Negative",
-    "why": "Net profit declined by 15 percent.",
-    "url": "https://www.oquilia.com/news/bharat-dynamics-q2-results-net-profit-falls-15-percent",
-    "chips": {
-      "Net Profit": "Rs 183.5 cr",
-      "Profit Fall": "15%",
-      "Revenue Rise": "45.1%"
-    },
-    "trend": [
-      0.95,
-      0.85,
-      0.7,
-      0.6,
-      0.4,
-      0.3,
-      0.1
-    ],
-    "color": "9B2C2C",
-    "premium": false,
-    "verbatim": false,
-    "src_title": "Bharat Dynamics Q2 results: net profit falls 15% to Rs 183.5 crore",
-    "src_summary": "Bharat Dynamics said in its filing that standalone net profit for the September 2026 quarter was Rs 183.5 crore, down 15.0% year on year, while revenue rose 45.1% to Rs 1,664.1 crore.",
-    "hi_tries": 0,
-    "title_hi": "Bharat Dynamics का Q2 नेट प्रॉफिट 15% घटकर 183.5 करोड़ रुपये रहा",
-    "summary_hi": "Bharat Dynamics ने अपनी फाइलिंग में कहा कि सितंबर 2026 तिमाही के लिए स्टैंडअलोन नेट प्रॉफिट 15.0% साल-दर-साल घटकर 183.5 करोड़ रुपये रहा, जबकि रेवेन्यू 45.1% बढ़कर 1,664.1 करोड़ रुपये हो गया।",
-    "why_hi": "नेट प्रॉफिट 15 प्रतिशत कम हो गया।",
-    "chips_hi": {
-      "नेट प्रॉफिट": "183.5 करोड़ रुपये",
-      "प्रॉफिट में गिरावट": "15%",
-      "रेवेन्यू में वृद्धि": "45.1%"
-    },
-    "hi_ver": 2
-  },
-  {
-    "v": 3,
-    "cat": "Markets",
-    "tk": "TATA POWER",
-    "title": "Tata Power board approves Rs 11,871 crore Shirwata pumped storage project",
-    "summary": "Tata Power told the National Stock Exchange that its board approved an investment of Rs 11,871 crore in a 1,800 MW pumped storage project at Shirwata, Maharashtra, to be added within 51 months.",
-    "source": "Oquilia",
-    "published": "2026-11-12T08:17:37.075000+00:00",
-    "ago": "1d",
-    "impact": "Positive",
-    "why": "Investment in large capacity expansion.",
-    "url": "https://www.oquilia.com/news/tata-power-board-approves-shirwata-pumped-storage-project",
-    "chips": {
-      "Investment": "Rs 11,871 crore",
-      "Capacity": "1,800 MW",
-      "Timeline": "51 months"
-    },
-    "trend": [
-      0.1,
-      0.25,
-      0.2,
-      0.5,
-      0.45,
-      0.8,
-      0.95
-    ],
-    "color": "0F766E",
-    "premium": false,
-    "verbatim": false,
-    "src_title": "Tata Power board approves Rs 11,871 crore Shirwata pumped storage project",
-    "src_summary": "Tata Power told the National Stock Exchange that its board approved an investment of Rs 11,871 crore in a 1,800 MW pumped storage project at Shirwata, Maharashtra, to be added within 51 months.",
-    "title_hi": "Tata Power बोर्ड ने 11,871 करोड़ रुपये की शिरवाटा पंप स्टोरेज परियोजना को दी मंजूरी",
-    "summary_hi": "Tata Power ने National Stock Exchange को बताया कि उसके बोर्ड ने महाराष्ट्र के शिरवाटा में 51 महीनों के भीतर 1,800 MW की पंप स्टोरेज परियोजना में 11,871 करोड़ रुपये के निवेश को मंजूरी दे दी है।",
-    "why_hi": "बड़ी क्षमता विस्तार में निवेश।",
-    "chips_hi": {
-      "निवेश": "Rs 11,871 crore",
-      "क्षमता": "1,800 MW",
-      "समय सीमा": "51 months"
-    },
-    "hi_tries": 0,
-    "hi_ver": 2
-  },
-  {
-    "v": 3,
-    "cat": "Earnings",
-    "tk": "MARKETS",
-    "title": "Caplin Point Q2 net profit rises 13.8% to Rs 182.35 crore",
-    "summary": "Caplin Point Laboratories told the NSE its consolidated net profit rose 13.8% to Rs 182.35 crore in the September 2026 quarter, with revenue from operations up 17.9% to Rs 629.84 crore.",
-    "source": "Oquilia",
-    "published": "2026-11-12T07:47:07.759000+00:00",
-    "ago": "1d",
-    "impact": "Positive",
-    "why": "Higher net profit and revenue reported.",
-    "url": "https://www.oquilia.com/news/caplin-point-q2-results-net-profit-rises-13-8-percent-to-rs-182-crore",
-    "chips": {
-      "Net Profit": "Rs 182.35 cr",
-      "Profit Growth": "13.8%",
-      "Revenue": "Rs 629.84 cr"
-    },
-    "trend": [
-      0.1,
-      0.25,
-      0.2,
-      0.5,
-      0.45,
-      0.8,
-      0.95
-    ],
-    "color": "0F766E",
-    "premium": false,
-    "verbatim": false,
-    "src_title": "Caplin Point Q2 results: net profit rises 13.8% to Rs 182.35 crore",
-    "src_summary": "Caplin Point Laboratories told the NSE its consolidated net profit rose 13.8% to Rs 182.35 crore in the September 2026 quarter, with revenue from operations up 17.9% to Rs 629.84 crore.",
-    "title_hi": "Caplin Point Q2 net profit 13.8% बढ़कर Rs 182.35 crore हुआ",
-    "summary_hi": "Caplin Point Laboratories ने NSE को बताया कि सितंबर 2026 तिमाही में उसका समेकित शुद्ध लाभ 13.8% बढ़कर Rs 182.35 crore हो गया, और परिचालन से राजस्व 17.9% बढ़कर Rs 629.84 crore हो गया।",
-    "why_hi": "शुद्ध लाभ और राजस्व में वृद्धि।",
-    "chips_hi": {
-      "नेट प्रॉफिट": "Rs 182.35 cr",
-      "प्रॉफिट ग्रोथ": "13.8%",
-      "रेवेन्यू": "Rs 629.84 cr"
-    },
-    "hi_tries": 0,
-    "hi_ver": 2
-  },
-  {
-    "v": 3,
-    "cat": "Companies",
-    "tk": "FELIX INDUSTRIES",
-    "title": "Felix Industries says independent director resigned over new employment",
-    "summary": "Felix Industries said in an NSE filing that a non-executive independent director resigned effective 31 October 2026, citing the terms of new employment.",
-    "source": "Oquilia",
-    "published": "2026-11-12T06:46:30.590000+00:00",
-    "ago": "1d",
-    "impact": "Neutral",
-    "why": "Routine director resignation due to new employment.",
-    "url": "https://www.oquilia.com/news/felix-industries-independent-director-resigns-new-employment",
-    "chips": {
-      "Effective date": "31 October 2026"
-    },
-    "trend": [
-      0.5,
-      0.55,
-      0.45,
-      0.5,
-      0.47,
-      0.52,
-      0.5
-    ],
-    "color": "B7791F",
-    "premium": false,
-    "verbatim": false,
-    "src_title": "Felix Industries says independent director resigned over new employment",
-    "src_summary": "Felix Industries said in an NSE filing that a non-executive independent director resigned effective 31 October 2026, citing the terms of new employment.",
-    "title_hi": "Felix Industries का कहना है कि नए रोजगार के कारण स्वतंत्र निदेशक ने इस्तीफा दिया",
-    "summary_hi": "Felix Industries ने एक NSE फाइलिंग में कहा कि एक गैर-कार्यकारी स्वतंत्र निदेशक ने 31 अक्टूबर 2026 से प्रभावी इस्तीफा दे दिया, जिसका कारण नए रोजगार की शर्तें बताई गईं।",
-    "why_hi": "नए रोजगार के कारण नियमित निदेशक का इस्तीफा।",
-    "chips_hi": {
-      "प्रभावी तिथि": "31 October 2026"
     },
     "hi_tries": 0,
     "hi_ver": 2
