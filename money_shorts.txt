@@ -1,6 +1,222 @@
 [
   {
     "v": 3,
+    "cat": "Markets",
+    "tk": "YES BANK",
+    "title": "Yes Bank seeks Supreme Court review of AT-1 bond write-down ruling",
+    "summary": "Yes Bank told the stock exchanges on 13 November 2026 that it has asked the Supreme Court to review its 15 October 2026 judgment on the write-down of AT-1 bonds of Rs 8,415 crore.",
+    "source": "Oquilia",
+    "published": "2026-11-14T02:17:58.552000+00:00",
+    "ago": "1m",
+    "impact": "Neutral",
+    "why": "Legal review sought on existing bond write-down.",
+    "url": "https://www.oquilia.com/news/yes-bank-seeks-supreme-court-review-at1-bond-write-down-ruling",
+    "chips": {
+      "Bond Value": "Rs 8,415 crore"
+    },
+    "trend": [
+      0.5,
+      0.55,
+      0.45,
+      0.5,
+      0.47,
+      0.52,
+      0.5
+    ],
+    "color": "B7791F",
+    "premium": false,
+    "verbatim": false,
+    "src_title": "Yes Bank seeks Supreme Court review of ruling on Rs 8,415 crore AT-1 bond write-down",
+    "src_summary": "Yes Bank told the stock exchanges on 13 November 2026 that it has asked the Supreme Court to review its 15 October 2026 judgment on the write-down of AT-1 bonds of Rs 8,415 crore.",
+    "title_hi": "Yes Bank ने AT-1 बॉंड राइट-डाउन फैसले पर सुप्रीम कोर्ट से समीक्षा का अनुरोध किया",
+    "summary_hi": "Yes Bank ने 13 नवंबर 2026 को स्टॉक एक्सचेंजों को बताया कि उसने 8,415 करोड़ रुपये के AT-1 बॉंड के राइट-डाउन पर अपने 15 अक्टूबर 2026 के फैसले की समीक्षा के लिए सुप्रीम कोर्ट से अनुरोध किया है।",
+    "why_hi": "मौजूदा बॉंड राइट-डाउन पर कानूनी समीक्षा मांगी गई।",
+    "chips_hi": {
+      "बॉंड मूल्य": "Rs 8,415 crore"
+    }
+  },
+  {
+    "v": 3,
+    "cat": "Finance",
+    "tk": "FINANCE",
+    "title": "Truck Owners on Section 44AE: The ITR-3 Validation Rules for AY 2026-27 That Reject Goods Carriage Returns",
+    "summary": "CBDT's ITR-3 validation rules for AY 2026-27 block 44AE goods carriage returns that break the Rs 7,500-a-month floor, the 120-month cap or the schedule totals. Here is what each rule checks.",
+    "source": "Oquilia",
+    "published": "2026-11-14T00:42:12.665000+00:00",
+    "ago": "1h",
+    "impact": "Neutral",
+    "why": "Tax filing rules updated for truck owners.",
+    "url": "https://www.oquilia.com/news/oquilia-research-section-44ae-goods-carriage-itr-3-validation-rules-ay-2026-27",
+    "chips": {
+      "Monthly Floor": "Rs 7,500",
+      "Month Cap": "120-month",
+      "Assessment Year": "AY 2026-27"
+    },
+    "trend": [
+      0.5,
+      0.55,
+      0.45,
+      0.5,
+      0.47,
+      0.52,
+      0.5
+    ],
+    "color": "B7791F",
+    "premium": false,
+    "verbatim": false,
+    "src_title": "Truck Owners on Section 44AE: The ITR-3 Validation Rules for AY 2026-27 That Reject Goods Carriage Returns",
+    "src_summary": "CBDT's ITR-3 validation rules for AY 2026-27 block 44AE goods carriage returns that break the Rs 7,500-a-month floor, the 120-month cap or the schedule totals. Here is what each rule checks.",
+    "hi_tries": 1,
+    "title_hi": "ट्रक मालिकों के लिए Section 44AE: AY 2026-27 के ITR-3 वैलिडेशन नियम जो गुड्स कैरिज रिटर्न को करते हैं खारिज",
+    "summary_hi": "AY 2026-27 के लिए CBDT के ITR-3 वैलिडेशन नियम 44AE गुड्स कैरिज रिटर्न को ब्लॉक करते हैं जो 7,500 रुपये प्रति माह के फ्लोर, 120 महीने की कैप या शेड्यूल टोटल का उल्लंघन करते हैं। यहाँ बताया गया है कि प्रत्येक नियम क्या जाँचता है।",
+    "why_hi": "ट्रक मालिकों के लिए टैक्स फाइलिंग नियम अपडेट किए गए।",
+    "chips_hi": {
+      "मासिक फ्लोर": "Rs 7,500",
+      "महीने की कैप": "120-month",
+      "असेसमेंट ईयर": "AY 2026-27"
+    }
+  },
+  {
+    "v": 3,
+    "cat": "Earnings",
+    "tk": "TATA MOTORS",
+    "title": "Tata Motors PV posts Rs 5,451 crore Q2 loss on Rs 6,738 crore exceptional items",
+    "summary": "Tata Motors Passenger Vehicles reported a consolidated net loss of Rs 5,451 crore for July-September 2026 after Rs 6,738 crore of exceptional items, while revenue rose 34% to Rs 96,920 crore.",
+    "source": "Oquilia",
+    "published": "2026-11-13T16:00:53.997000+00:00",
+    "ago": "10h",
+    "impact": "Negative",
+    "why": "Massive net loss reported in Q2.",
+    "url": "https://www.oquilia.com/news/tata-motors-pv-q2-loss-exceptional-items-revenue-rises",
+    "chips": {
+      "Q2 Loss": "Rs 5,451 crore",
+      "Revenue Rise": "34%",
+      "Revenue": "Rs 96,920 crore"
+    },
+    "trend": [
+      0.95,
+      0.85,
+      0.7,
+      0.6,
+      0.4,
+      0.3,
+      0.1
+    ],
+    "color": "9B2C2C",
+    "premium": false,
+    "verbatim": false,
+    "src_title": "Tata Motors PV posts Rs 5,451 crore Q2 loss on Rs 6,738 crore exceptional items",
+    "src_summary": "Tata Motors Passenger Vehicles reported a consolidated net loss of Rs 5,451 crore for July-September 2026 after Rs 6,738 crore of exceptional items, while revenue rose 34% to Rs 96,920 crore.",
+    "title_hi": "Tata Motors PV को Q2 में 5,451 करोड़ रुपये का घाटा",
+    "summary_hi": "Tata Motors Passenger Vehicles ने 6,738 करोड़ रुपये की असाधारण मदों के बाद जुलाई-सितंबर 2026 के लिए 5,451 करोड़ रुपये का समेकित शुद्ध घाटा दर्ज किया, जबकि राजस्व 34% बढ़कर 96,920 करोड़ रुपये हो गया।",
+    "why_hi": "Q2 में भारी शुद्ध घाटा दर्ज।",
+    "chips_hi": {
+      "Q2 घाटा": "Rs 5,451 crore",
+      "राजस्व वृद्धि": "34%",
+      "राजस्व": "Rs 96,920 crore"
+    }
+  },
+  {
+    "v": 3,
+    "cat": "Markets",
+    "tk": "MARKETS",
+    "title": "Nifty 50 ends 0.61% lower at 25,144.30 as realty and auto decline",
+    "summary": "The Nifty 50 closed at 25,144.30 on 13 November 2026, down 155.05 points or 0.61%, as 1,777 NSE stocks declined against 939 that advanced.",
+    "source": "Oquilia",
+    "published": "2026-11-13T15:34:28.859000+00:00",
+    "ago": "10h",
+    "impact": "Negative",
+    "why": "Market indices closed lower amid broad decline.",
+    "url": "https://www.oquilia.com/news/stock-market-today-nifty-50-closing-13-november-2026",
+    "chips": {
+      "Nifty 50": "25,144.30",
+      "Decline": "0.61%"
+    },
+    "trend": [
+      0.95,
+      0.85,
+      0.7,
+      0.6,
+      0.4,
+      0.3,
+      0.1
+    ],
+    "color": "9B2C2C",
+    "premium": false,
+    "verbatim": false,
+    "src_title": "Nifty 50 ends 0.61% lower at 25,144.30 as realty and auto lead the decline",
+    "src_summary": "The Nifty 50 closed at 25,144.30 on 13 November 2026, down 155.05 points or 0.61%, as 1,777 NSE stocks declined against 939 that advanced.",
+    "title_hi": "Nifty 50 गिरकर 25,144.30 पर बंद, रियल्टी और ऑटो में गिरावट",
+    "summary_hi": "Nifty 50 13 नवंबर 2026 को 155.05 अंक या 0.61% की गिरावट के साथ 25,144.30 पर बंद हुआ, क्योंकि NSE के 1,777 शेयर गिरे जबकि 939 चढ़े।",
+    "why_hi": "बाजार सूचकांक में व्यापक गिरावट आई।",
+    "chips_hi": {
+      "Nifty 50": "25,144.30",
+      "गिरावट": "0.61%"
+    }
+  },
+  {
+    "v": 3,
+    "cat": "Companies",
+    "tk": "COMPANIES",
+    "title": "IBBI suspends liquidator for two years over SBI vote cut in Manglam Fiscal case",
+    "summary": "IBBI suspended an insolvency professional for two years, finding the liquidator cut SBI's voting share to block its own replacement in Manglam Fiscal Services' liquidation.",
+    "source": "Oquilia",
+    "published": "2026-11-13T14:45:17.886000+00:00",
+    "ago": "11h",
+    "impact": "Neutral",
+    "why": "Regulatory action against liquidator in specific case.",
+    "url": "https://www.oquilia.com/news/ibbi-suspends-liquidator-sbi-vote-cut-manglam-fiscal",
+    "chips": {},
+    "trend": [
+      0.5,
+      0.55,
+      0.45,
+      0.5,
+      0.47,
+      0.52,
+      0.5
+    ],
+    "color": "B7791F",
+    "premium": false,
+    "verbatim": false,
+    "src_title": "IBBI suspends liquidator for two years over SBI vote cut in Manglam Fiscal case",
+    "src_summary": "IBBI suspended an insolvency professional for two years, finding the liquidator cut SBI's voting share to block its own replacement in Manglam Fiscal Services' liquidation.",
+    "hi_tries": 1
+  },
+  {
+    "v": 3,
+    "cat": "Companies",
+    "tk": "COMPANIES",
+    "title": "IBBI suspends insolvency professional for two years over Associate Decor case",
+    "summary": "IBBI's Disciplinary Committee suspended an insolvency professional's registration for two years, finding lapses in the insolvency process of Associate Decor Limited.",
+    "source": "Oquilia",
+    "published": "2026-11-13T14:44:40.988000+00:00",
+    "ago": "11h",
+    "impact": "Neutral",
+    "why": "Regulatory action on an insolvency professional.",
+    "url": "https://www.oquilia.com/news/ibbi-suspends-insolvency-professional-associate-decor-case",
+    "chips": {},
+    "trend": [
+      0.5,
+      0.55,
+      0.45,
+      0.5,
+      0.47,
+      0.52,
+      0.5
+    ],
+    "color": "B7791F",
+    "premium": false,
+    "verbatim": false,
+    "src_title": "IBBI suspends insolvency professional for two years over Associate Decor case",
+    "src_summary": "IBBI's Disciplinary Committee suspended an insolvency professional's registration for two years, finding lapses in the insolvency process of Associate Decor Limited.",
+    "title_hi": "IBBI ने Associate Decor मामले में इंसॉल्वेंसी प्रोफेशनल को दो साल के लिए निलंबित किया",
+    "summary_hi": "IBBI की अनुशासन समिति ने Associate Decor Limited की इंसॉल्वेंसी प्रक्रिया में कमियां मिलने के बाद एक इंसॉल्वेंसी प्रोफेशनल का रजिस्ट्रेशन दो साल के लिए निलंबित कर दिया।",
+    "why_hi": "इंसॉल्वेंसी प्रोफेशनल पर विनियामक कार्रवाई।",
+    "chips_hi": {}
+  },
+  {
+    "v": 3,
     "cat": "Companies",
     "tk": "RHI MAGNESITA",
     "title": "RHI Magnesita India CFO resigns, successor named from 1 January 2027",
@@ -35,7 +251,9 @@
     "chips_hi": {
       "पद छोड़ने की तारीख": "31 Dec 2026",
       "कार्यभार की तारीख": "1 Jan 2027"
-    }
+    },
+    "hi_tries": 0,
+    "hi_ver": 2
   },
   {
     "v": 3,
@@ -75,7 +293,9 @@
       "Net Profit": "Rs 442.52 crore",
       "Profit Growth": "8.2%",
       "Revenue": "Rs 3,738.13 crore"
-    }
+    },
+    "hi_tries": 0,
+    "hi_ver": 2
   },
   {
     "v": 3,
@@ -115,7 +335,9 @@
       "तारीख": "9 July 2026",
       "विकल्प": "6",
       "इक्विटी": "75%"
-    }
+    },
+    "hi_tries": 0,
+    "hi_ver": 2
   },
   {
     "v": 3,
@@ -852,7 +1074,7 @@
     "verbatim": false,
     "src_title": "NPS exit held up by a bank name mismatch? PFRDA's mandatory penny-drop check and how to clear a failure",
     "src_summary": "PFRDA blocks every NPS exit or withdrawal until a penny drop bank check passes with the name matching. The 5 failure reasons, who fixes each, and how the cleared corpus is taxed.",
-    "hi_tries": 1,
+    "hi_tries": 2,
     "hi_ver": 2
   },
   {
@@ -933,7 +1155,9 @@
       "नेट प्रॉफिट": "Rs 202.54 cr",
       "रेवेन्यू": "Rs 1,439.61 cr",
       "डिविडेंड": "Rs 150"
-    }
+    },
+    "hi_tries": 0,
+    "hi_ver": 2
   },
   {
     "v": 3,
@@ -965,14 +1189,15 @@
     "verbatim": false,
     "src_title": "Carrying foreign cash into India: the Currency Declaration Form now annexed to FEMA's currency regulations by the February 2026 amendment",
     "src_summary": "RBI's February 2026 FEMA amendment annexes the Currency Declaration Form to the 2015 currency rules. When NRIs must declare above USD 10,000 or USD 5,000 in notes, and how to take unspent cash out.",
-    "hi_tries": 1,
+    "hi_tries": 0,
     "title_hi": "भारत में विदेशी नकदी लाना: FEMA नियमों के साथ संलग्न किया गया Currency Declaration Form",
     "summary_hi": "RBI के फरवरी 2026 के FEMA संशोधन ने 2015 के मुद्रा नियमों के साथ Currency Declaration Form को संलग्न किया है। जानिए कब NRI को 10,000 USD या 5,000 USD से अधिक के नोटों की घोषणा करनी होगी, और बिना खर्च की गई नकदी को बाहर कैसे ले जाया जाए।",
     "why_hi": "मुद्रा घोषणा नियमों पर विनियामक अपडेट।",
     "chips_hi": {
       "सीमा": "USD 10,000",
       "नोट सीमा": "USD 5,000"
-    }
+    },
+    "hi_ver": 2
   },
   {
     "v": 3,
@@ -1012,7 +1237,9 @@
       "शुद्ध लाभ": "Rs 675.3 करोड़",
       "लाभ में गिरावट": "11.7%",
       "राजस्व": "Rs 4,552.0 करोड़"
-    }
+    },
+    "hi_tries": 0,
+    "hi_ver": 2
   },
   {
     "v": 3,
@@ -1045,7 +1272,7 @@
     "verbatim": false,
     "src_title": "Bharat Dynamics Q2 results: net profit falls 15% to Rs 183.5 crore",
     "src_summary": "Bharat Dynamics said in its filing that standalone net profit for the September 2026 quarter was Rs 183.5 crore, down 15.0% year on year, while revenue rose 45.1% to Rs 1,664.1 crore.",
-    "hi_tries": 1,
+    "hi_tries": 0,
     "title_hi": "Bharat Dynamics का Q2 नेट प्रॉफिट 15% घटकर 183.5 करोड़ रुपये रहा",
     "summary_hi": "Bharat Dynamics ने अपनी फाइलिंग में कहा कि सितंबर 2026 तिमाही के लिए स्टैंडअलोन नेट प्रॉफिट 15.0% साल-दर-साल घटकर 183.5 करोड़ रुपये रहा, जबकि रेवेन्यू 45.1% बढ़कर 1,664.1 करोड़ रुपये हो गया।",
     "why_hi": "नेट प्रॉफिट 15 प्रतिशत कम हो गया।",
@@ -1053,7 +1280,8 @@
       "नेट प्रॉफिट": "183.5 करोड़ रुपये",
       "प्रॉफिट में गिरावट": "15%",
       "रेवेन्यू में वृद्धि": "45.1%"
-    }
+    },
+    "hi_ver": 2
   },
   {
     "v": 3,
@@ -1093,7 +1321,9 @@
       "निवेश": "Rs 11,871 crore",
       "क्षमता": "1,800 MW",
       "समय सीमा": "51 months"
-    }
+    },
+    "hi_tries": 0,
+    "hi_ver": 2
   },
   {
     "v": 3,
@@ -1133,7 +1363,9 @@
       "नेट प्रॉफिट": "Rs 182.35 cr",
       "प्रॉफिट ग्रोथ": "13.8%",
       "रेवेन्यू": "Rs 629.84 cr"
-    }
+    },
+    "hi_tries": 0,
+    "hi_ver": 2
   },
   {
     "v": 3,
@@ -1169,6 +1401,8 @@
     "why_hi": "नए रोजगार के कारण नियमित निदेशक का इस्तीफा।",
     "chips_hi": {
       "प्रभावी तिथि": "31 October 2026"
-    }
+    },
+    "hi_tries": 0,
+    "hi_ver": 2
   }
 ]
