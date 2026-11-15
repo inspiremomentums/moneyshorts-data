@@ -3,6 +3,122 @@
     "v": 3,
     "cat": "Finance",
     "tk": "FINANCE",
+    "title": "Section 134 of Income-tax Act 2025 lets old-regime tenants deduct up to Rs 60,000 a year without HRA",
+    "summary": "Section 134 of the Income-tax Act 2025, successor to 80GG, lets tenants without HRA deduct rent up to Rs 5,000 a month. Limits, exclusions, new-regime bar and four worked examples.",
+    "source": "Oquilia",
+    "published": "2026-11-15T00:41:06.010000+00:00",
+    "ago": "1h",
+    "impact": "Neutral",
+    "why": "Standard tax rule without direct company impact.",
+    "url": "https://www.oquilia.com/news/oquilia-research-section-134-rent-deduction-no-hra-income-tax-act-2025",
+    "chips": {
+      "Max Deduction": "Rs 60,000/year"
+    },
+    "trend": [
+      0.5,
+      0.55,
+      0.45,
+      0.5,
+      0.47,
+      0.52,
+      0.5
+    ],
+    "color": "B7791F",
+    "premium": false,
+    "verbatim": false,
+    "src_title": "No HRA From Your Employer? Section 134 of the Income-tax Act 2025 Still Lets Old-Regime Tenants Deduct Up to Rs 60,000 a Year",
+    "src_summary": "Section 134 of the Income-tax Act 2025, successor to 80GG, lets tenants without HRA deduct rent up to Rs 5,000 a month. Limits, exclusions, new-regime bar and four worked examples.",
+    "title_hi": "Income-tax Act 2025 का सेक्शन 134 पुराने régimen के किरायेदारों को HRA के बिना सालाना 60,000 रुपये तक कटौती की अनुमति देता है",
+    "summary_hi": "Income-tax Act 2025 का सेक्शन 134, जो 80GG का उत्तराधिकारी है, HRA के बिना किरायेदारों को 5,000 रुपये प्रति माह तक किराया कटौती की अनुमति देता है। सीमाएं, बहिष्करण, नए régime की रोक और चार उदाहरण।",
+    "why_hi": "कंपनी पर कोई सीधा प्रभाव नहीं।",
+    "chips_hi": {
+      "अधिकतम कटौती": "Rs 60,000/year"
+    }
+  },
+  {
+    "v": 3,
+    "cat": "Earnings",
+    "tk": "PTC INDUSTRIES",
+    "title": "PTC Industries Q2 net profit rises 83.5% to Rs 33.28 crore",
+    "summary": "PTC Industries said in an NSE filing that its consolidated Q2 FY27 net profit was Rs 33.28 crore on revenue from operations of Rs 224.32 crore, up 80.0% from a year earlier.",
+    "source": "Oquilia",
+    "published": "2026-11-14T14:46:55.383000+00:00",
+    "ago": "11h",
+    "impact": "Positive",
+    "why": "Strong rise in quarterly profit and revenue.",
+    "url": "https://www.oquilia.com/news/ptc-industries-q2-results-net-profit-rises-83-5-percent",
+    "chips": {
+      "Net Profit": "Rs 33.28 cr",
+      "Growth": "83.5%",
+      "Revenue": "Rs 224.32 cr"
+    },
+    "trend": [
+      0.1,
+      0.25,
+      0.2,
+      0.5,
+      0.45,
+      0.8,
+      0.95
+    ],
+    "color": "0F766E",
+    "premium": false,
+    "verbatim": false,
+    "src_title": "PTC Industries Q2 results: net profit rises 83.5% to Rs 33.28 crore",
+    "src_summary": "PTC Industries said in an NSE filing that its consolidated Q2 FY27 net profit was Rs 33.28 crore on revenue from operations of Rs 224.32 crore, up 80.0% from a year earlier.",
+    "title_hi": "PTC Industries का Q2 शुद्ध लाभ 83.5% बढ़कर 33.28 करोड़ रुपये हुआ",
+    "summary_hi": "PTC Industries ने NSE फाइलिंग में बताया कि उसका समेकित Q2 FY27 शुद्ध लाभ 33.28 करोड़ रुपये रहा, जबकि परिचालन से राजस्व 224.32 करोड़ रुपये रहा, जो एक साल पहले से 80.0% अधिक है।",
+    "why_hi": "तिमाही मुनाफे और राजस्व में मजबूत वृद्धि।",
+    "chips_hi": {
+      "शुद्ध लाभ": "Rs 33.28 cr",
+      "वृद्धि": "83.5%",
+      "राजस्व": "Rs 224.32 cr"
+    }
+  },
+  {
+    "v": 3,
+    "cat": "Earnings",
+    "tk": "ASHOK LEYLAND",
+    "title": "Ashok Leyland Q2 standalone net profit rises 12.7% to Rs 869 crore",
+    "summary": "Ashok Leyland said in an NSE filing that standalone Q2 FY27 net profit was Rs 869.02 crore on revenue of Rs 13,364.28 crore, and declared an interim dividend of Re 1 per share.",
+    "source": "Oquilia",
+    "published": "2026-11-14T14:46:51.813000+00:00",
+    "ago": "11h",
+    "impact": "Positive",
+    "why": "Higher net profit and interim dividend declared.",
+    "url": "https://www.oquilia.com/news/ashok-leyland-q2-results-standalone-net-profit-rises-12-7-percent",
+    "chips": {
+      "Net Profit": "Rs 869.02 cr",
+      "Revenue": "Rs 13,364.28 cr",
+      "Dividend": "Re 1"
+    },
+    "trend": [
+      0.1,
+      0.25,
+      0.2,
+      0.5,
+      0.45,
+      0.8,
+      0.95
+    ],
+    "color": "0F766E",
+    "premium": false,
+    "verbatim": false,
+    "src_title": "Ashok Leyland Q2 results: standalone net profit rises 12.7% to Rs 869 crore",
+    "src_summary": "Ashok Leyland said in an NSE filing that standalone Q2 FY27 net profit was Rs 869.02 crore on revenue of Rs 13,364.28 crore, and declared an interim dividend of Re 1 per share.",
+    "title_hi": "Ashok Leyland का Q2 standalone net profit 12.7% बढ़कर 869 करोड़ रुपये हुआ",
+    "summary_hi": "Ashok Leyland ने NSE फाइलिंग में बताया कि Q2 FY27 का standalone net profit 13,364.28 करोड़ रुपये के revenue पर 869.02 करोड़ रुपये रहा, और प्रति शेयर 1 रुपये के interim dividend की घोषणा की।",
+    "why_hi": "शुद्ध लाभ में वृद्धि और लाभांश घोषित",
+    "chips_hi": {
+      "शुद्ध लाभ": "869.02 करोड़ रुपये",
+      "राजस्व": "13,364.28 करोड़ रुपय",
+      "लाभांश": "1 रुपये"
+    }
+  },
+  {
+    "v": 3,
+    "cat": "Finance",
+    "tk": "FINANCE",
     "title": "Time Your NPS Deposit Right: Contributions In by 1:30 PM Now Get Same-Day NAV",
     "summary": "PFRDA's 4 August 2026 circular: NPS contributions reaching the Trustee Bank by 1:30 PM get same-day NAV. How the cut-off works, exit tax limits and a worked Rs 1 crore drawdown.",
     "source": "Oquilia",
@@ -29,7 +145,8 @@
     "verbatim": false,
     "src_title": "Time Your NPS Deposit Right: Contributions In by 1:30 PM Now Get Same-Day NAV",
     "src_summary": "PFRDA's 4 August 2026 circular: NPS contributions reaching the Trustee Bank by 1:30 PM get same-day NAV. How the cut-off works, exit tax limits and a worked Rs 1 crore drawdown.",
-    "hi_tries": 1
+    "hi_tries": 1,
+    "hi_ver": 2
   },
   {
     "v": 3,
@@ -1443,128 +1560,6 @@
     "src_title": "NPS exit held up by a bank name mismatch? PFRDA's mandatory penny-drop check and how to clear a failure",
     "src_summary": "PFRDA blocks every NPS exit or withdrawal until a penny drop bank check passes with the name matching. The 5 failure reasons, who fixes each, and how the cleared corpus is taxed.",
     "hi_tries": 2,
-    "hi_ver": 2
-  },
-  {
-    "v": 3,
-    "cat": "Markets",
-    "tk": "MARKETS",
-    "title": "Temasek affiliate to invest Rs 2,500 crore in Godrej Capital, filing shows",
-    "summary": "Godrej Industries told the stock exchanges on 12 November 2026 that a Temasek affiliate will invest Rs 2,500 crore in Godrej Capital, valuing the lender at up to Rs 28,000 crore.",
-    "source": "Oquilia",
-    "published": "2026-11-12T10:17:06.721000+00:00",
-    "ago": "1d",
-    "impact": "Positive",
-    "why": "Major capital infusion aids financial growth.",
-    "url": "https://www.oquilia.com/news/temasek-affiliate-to-invest-rs-2500-crore-in-godrej-capital",
-    "chips": {
-      "Investment": "Rs 2,500 crore",
-      "Valuation": "Rs 28,000 crore"
-    },
-    "trend": [
-      0.1,
-      0.25,
-      0.2,
-      0.5,
-      0.45,
-      0.8,
-      0.95
-    ],
-    "color": "0F766E",
-    "premium": false,
-    "verbatim": false,
-    "src_title": "Temasek affiliate to invest Rs 2,500 crore in Godrej Capital, filing shows",
-    "src_summary": "Godrej Industries told the stock exchanges on 12 November 2026 that a Temasek affiliate will invest Rs 2,500 crore in Godrej Capital, valuing the lender at up to Rs 28,000 crore.",
-    "title_hi": "Temasek सहयोगी Godrej Capital में 2,500 करोड़ रुपये का निवेश करेगा, फाइलिंग से पता चलता है",
-    "summary_hi": "Godrej Industries ने 12 नवंबर 2026 को स्टॉक एक्सचेंजों को बताया कि एक Temasek सहयोगी Godrej Capital में 2,500 करोड़ रुपये का निवेश करेगा, जिससे ऋणदाता का मूल्यांकन 28,000 करोड़ रुपये तक आंका गया है।",
-    "why_hi": "बड़ा पूंजी निवेश वित्तीय विकास में सहायक।",
-    "chips_hi": {
-      "निवेश": "2,500 करोड़ रुपये",
-      "मूल्यांकन": "28,000 करोड़ रुपये"
-    },
-    "hi_tries": 0,
-    "hi_ver": 2
-  },
-  {
-    "v": 3,
-    "cat": "Earnings",
-    "tk": "PAGE INDUSTRIES",
-    "title": "Page Industries Q2 net profit rises 4% to Rs 202.54 crore",
-    "summary": "Page Industries said in its NSE filing that Q2 FY27 revenue rose 11.5% to Rs 1,439.61 crore and net profit 4.0% to Rs 202.54 crore. Its board declared a Rs 150 interim dividend.",
-    "source": "Oquilia",
-    "published": "2026-11-12T09:46:08.360000+00:00",
-    "ago": "1d",
-    "impact": "Positive",
-    "why": "Higher revenue, profit and interim dividend declared.",
-    "url": "https://www.oquilia.com/news/page-industries-q2-results-net-profit-rises-4-percent-rs-202-crore",
-    "chips": {
-      "Net Profit": "Rs 202.54 cr",
-      "Revenue": "Rs 1,439.61 cr",
-      "Dividend": "Rs 150"
-    },
-    "trend": [
-      0.1,
-      0.25,
-      0.2,
-      0.5,
-      0.45,
-      0.8,
-      0.95
-    ],
-    "color": "0F766E",
-    "premium": false,
-    "verbatim": false,
-    "src_title": "Page Industries Q2 results: net profit rises 4% to Rs 202.54 crore",
-    "src_summary": "Page Industries said in its NSE filing that Q2 FY27 revenue rose 11.5% to Rs 1,439.61 crore and net profit 4.0% to Rs 202.54 crore. Its board declared a Rs 150 interim dividend.",
-    "title_hi": "Page Industries का Q2 नेट प्रॉफिट 4% बढ़कर 202.54 करोड़ रुपये हुआ",
-    "summary_hi": "Page Industries ने NSE फाइलिंग में कहा कि Q2 FY27 में रेवेन्यू 11.5% बढ़कर 1,439.61 करोड़ रुपये और नेट प्रॉफिट 4.0% बढ़कर 202.54 करोड़ रुपये हो गया। इसके बोर्ड ने 150 रुपये के अंतरिम डिविडेंड की घोषणा की।",
-    "why_hi": "बेहतर रेवेन्यू, प्रॉफिट और डिविडेंड घोषणा।",
-    "chips_hi": {
-      "नेट प्रॉफिट": "Rs 202.54 cr",
-      "रेवेन्यू": "Rs 1,439.61 cr",
-      "डिविडेंड": "Rs 150"
-    },
-    "hi_tries": 0,
-    "hi_ver": 2
-  },
-  {
-    "v": 3,
-    "cat": "Finance",
-    "tk": "FINANCE",
-    "title": "Carrying foreign cash into India: Currency Declaration Form annexed to FEMA rules",
-    "summary": "RBI's February 2026 FEMA amendment annexes the Currency Declaration Form to the 2015 currency rules. When NRIs must declare above USD 10,000 or USD 5,000 in notes, and how to take unspent cash out.",
-    "source": "Oquilia",
-    "published": "2026-11-12T09:06:22.024000+00:00",
-    "ago": "1d",
-    "impact": "Neutral",
-    "why": "Regulatory update on currency declaration rules.",
-    "url": "https://www.oquilia.com/news/oquilia-research-currency-declaration-form-fema-6r-2026-annex-nri-arrivals",
-    "chips": {
-      "Limit": "USD 10,000",
-      "Notes limit": "USD 5,000"
-    },
-    "trend": [
-      0.5,
-      0.55,
-      0.45,
-      0.5,
-      0.47,
-      0.52,
-      0.5
-    ],
-    "color": "B7791F",
-    "premium": false,
-    "verbatim": false,
-    "src_title": "Carrying foreign cash into India: the Currency Declaration Form now annexed to FEMA's currency regulations by the February 2026 amendment",
-    "src_summary": "RBI's February 2026 FEMA amendment annexes the Currency Declaration Form to the 2015 currency rules. When NRIs must declare above USD 10,000 or USD 5,000 in notes, and how to take unspent cash out.",
-    "hi_tries": 0,
-    "title_hi": "भारत में विदेशी नकदी लाना: FEMA नियमों के साथ संलग्न किया गया Currency Declaration Form",
-    "summary_hi": "RBI के फरवरी 2026 के FEMA संशोधन ने 2015 के मुद्रा नियमों के साथ Currency Declaration Form को संलग्न किया है। जानिए कब NRI को 10,000 USD या 5,000 USD से अधिक के नोटों की घोषणा करनी होगी, और बिना खर्च की गई नकदी को बाहर कैसे ले जाया जाए।",
-    "why_hi": "मुद्रा घोषणा नियमों पर विनियामक अपडेट।",
-    "chips_hi": {
-      "सीमा": "USD 10,000",
-      "नोट सीमा": "USD 5,000"
-    },
     "hi_ver": 2
   }
 ]
