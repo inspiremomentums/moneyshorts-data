@@ -3,6 +3,44 @@
     "v": 3,
     "cat": "Finance",
     "tk": "FINANCE",
+    "title": "PFRDA Extends NPS e-Shramik Incentive for FY 2026-27",
+    "summary": "PFRDA has extended the Rs 100 PoP onboarding incentive under the NPS e-Shramik model to 31 March 2027. How gig workers join, how withdrawals are taxed, and a worked drawdown.",
+    "source": "Oquilia",
+    "published": "2026-11-15T10:34:24.274000+00:00",
+    "ago": "3h",
+    "impact": "Neutral",
+    "why": "Extends existing onboarding incentive for gig workers.",
+    "url": "https://www.oquilia.com/news/oquilia-research-nps-eshramik-gig-worker-pension-fy2026-27",
+    "chips": {
+      "Incentive": "Rs 100",
+      "Deadline": "31 March 2027"
+    },
+    "trend": [
+      0.5,
+      0.55,
+      0.45,
+      0.5,
+      0.47,
+      0.52,
+      0.5
+    ],
+    "color": "B7791F",
+    "premium": false,
+    "verbatim": false,
+    "src_title": "Pension for Gig and Platform Workers: PFRDA Extends the NPS e-Shramik Incentive for FY 2026-27",
+    "src_summary": "PFRDA has extended the Rs 100 PoP onboarding incentive under the NPS e-Shramik model to 31 March 2027. How gig workers join, how withdrawals are taxed, and a worked drawdown.",
+    "title_hi": "PFRDA ने FY 2026-27 के लिए बढ़ाया NPS e-Shramik इंसेंटिव",
+    "summary_hi": "PFRDA ने NPS e-Shramik मॉडल के तहत मिलने वाले 100 रुपये के PoP ऑनबोर्डिंग इंसेंटिव को 31 मार्च 2027 तक बढ़ा दिया है। गिग वर्कर कैसे जुड़ते हैं, निकासी पर कैसे टैक्स लगता है, और एक काम किया गया ड्राडाउन।",
+    "why_hi": "गिग वर्कर्स के लिए इंसेंटिव बढ़ाया गया।",
+    "chips_hi": {
+      "इंसेंटिव": "Rs 100",
+      "समय सीमा": "31 March 2027"
+    }
+  },
+  {
+    "v": 3,
+    "cat": "Finance",
+    "tk": "FINANCE",
     "title": "Emigrating Mid-Year With No Plan to Return? How Section 317 Lets the Tax Officer Assess Your Income Before You Leave",
     "summary": "Section 317 of the Income-tax Act, 2025 lets the Assessing Officer assess income from 1 April to your departure date on a notice of at least 7 days. What it covers, and what it is not.",
     "source": "Oquilia",
@@ -33,7 +71,9 @@
     "why_hi": "प्रत्येक मौलिक प्रभाव के बिना प्रक्रियात्मक कर नियम।",
     "chips_hi": {
       "नोटिस अवधि": "7 days"
-    }
+    },
+    "hi_tries": 0,
+    "hi_ver": 2
   },
   {
     "v": 3,
@@ -1531,44 +1571,6 @@
     "summary_hi": "Popular Vehicles and Services ने NSE को बताया कि B S R and Co ने parent company में फर्म के rotation का हवाला देते हुए अपनी material subsidiary Prabal Motors के statutory auditor के रूप में इस्तीफा दे दिया है।",
     "why_hi": "रोशन नीति के कारण ऑडिटर का इस्तीफा।",
     "chips_hi": {},
-    "hi_tries": 0,
-    "hi_ver": 2
-  },
-  {
-    "v": 3,
-    "cat": "Companies",
-    "tk": "MABELLO DOORS &",
-    "title": "NCLT Cuttack admits Mabello Doors & Furniture into insolvency; claims due 18 November",
-    "summary": "The NCLT's Cuttack Bench has admitted Mabello Doors & Furniture Private Limited into insolvency from 4 November 2026, an IBBI-format public announcement says; creditors must file claims by 18 November 2026.",
-    "source": "Oquilia",
-    "published": "2026-11-12T12:35:32.054000+00:00",
-    "ago": "21h",
-    "impact": "Negative",
-    "why": "Company admitted into insolvency proceedings.",
-    "url": "https://www.oquilia.com/news/nclt-cuttack-admits-mabello-doors-furniture-into-insolvency",
-    "chips": {
-      "Claim date": "18 November 2026"
-    },
-    "trend": [
-      0.95,
-      0.85,
-      0.7,
-      0.6,
-      0.4,
-      0.3,
-      0.1
-    ],
-    "color": "9B2C2C",
-    "premium": false,
-    "verbatim": false,
-    "src_title": "NCLT Cuttack admits Mabello Doors & Furniture into insolvency; claims due 18 November",
-    "src_summary": "The NCLT's Cuttack Bench has admitted Mabello Doors & Furniture Private Limited into insolvency from 4 November 2026, an IBBI-format public announcement says; creditors must file claims by 18 November 2026.",
-    "title_hi": "NCLT Cuttack ने Mabello Doors & Furniture को दिवालिया घोषित किया",
-    "summary_hi": "IBBI-प्रारूप की सार्वजनिक घोषणा के अनुसार, NCLT की Cuttack बेंच ने 4 November 2026 से Mabello Doors & Furniture Private Limited को दिवालिया प्रक्रिया में स्वीकार कर लिया है; लेनदारों को 18 November 2026 तक दावे दाखिल करने होंगे।",
-    "why_hi": "कंपनी दिवालिया प्रक्रिया में शामिल।",
-    "chips_hi": {
-      "दावा तिथि": "18 November 2026"
-    },
     "hi_tries": 0,
     "hi_ver": 2
   }
