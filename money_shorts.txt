@@ -1,6 +1,121 @@
 [
   {
     "v": 3,
+    "cat": "Companies",
+    "tk": "COMPANIES",
+    "title": "Hindalco unit Novelis to sell two China subsidiaries for about $265 million",
+    "summary": "Hindalco said in a filing with the National Stock Exchange that its subsidiary Novelis Inc. has agreed to sell two wholly-owned China entities for about $265 million.",
+    "source": "Oquilia",
+    "published": "2026-11-15T05:46:37.921000+00:00",
+    "ago": "29m",
+    "impact": "Neutral",
+    "why": "Asset sale has neutral fundamental impact.",
+    "url": "https://www.oquilia.com/news/hindalco-novelis-sale-two-china-subsidiaries-265-million",
+    "chips": {
+      "Deal Value": "$265 million"
+    },
+    "trend": [
+      0.5,
+      0.55,
+      0.45,
+      0.5,
+      0.47,
+      0.52,
+      0.5
+    ],
+    "color": "B7791F",
+    "premium": false,
+    "verbatim": false,
+    "src_title": "Hindalco unit Novelis agrees to sell two China subsidiaries for about $265 million",
+    "src_summary": "Hindalco said in a filing with the National Stock Exchange that its subsidiary Novelis Inc. has agreed to sell two wholly-owned China entities for about $265 million.",
+    "title_hi": "Hindalco की यूनिट Novelis लगभग $265 million में दो चीन सहायक कंपनियों को बेचेगी",
+    "summary_hi": "Hindalco ने नेशनल स्टॉक एक्सचेंज को दी गई फाइलिंग में कहा कि उसकी सहायक कंपनी Novelis Inc. ने लगभग $265 million में दो पूर्ण स्वामित्व वाली चीन इकाइयों को बेचने का समझौता किया है।",
+    "why_hi": "परिसंपत्ति बिक्री का तटस्थ प्रभाव है।",
+    "chips_hi": {
+      "डील वैल्यू": "$265 million"
+    }
+  },
+  {
+    "v": 3,
+    "cat": "Markets",
+    "tk": "COAL INDIA",
+    "title": "Mahanadi Coalfields files RHP for Coal India's 10% offer for sale",
+    "summary": "Coal India told BSE and NSE that the RHP of Mahanadi Coalfields, dated 13 November 2026, was filed for an offer for sale of up to 661,836,300 shares, a 10% stake.",
+    "source": "Oquilia",
+    "published": "2026-11-15T04:23:43.926000+00:00",
+    "ago": "1h",
+    "impact": "Neutral",
+    "why": "Subsidiary share sale details filed.",
+    "url": "https://www.oquilia.com/news/mahanadi-coalfields-files-rhp-coal-india-offer-for-sale",
+    "chips": {
+      "Stake": "10%",
+      "Shares": "661,836,300"
+    },
+    "trend": [
+      0.5,
+      0.55,
+      0.45,
+      0.5,
+      0.47,
+      0.52,
+      0.5
+    ],
+    "color": "B7791F",
+    "premium": false,
+    "verbatim": false,
+    "src_title": "Mahanadi Coalfields files RHP for Coal India's 10% offer for sale",
+    "src_summary": "Coal India told BSE and NSE that the RHP of Mahanadi Coalfields, dated 13 November 2026, was filed for an offer for sale of up to 661,836,300 shares, a 10% stake.",
+    "hi_tries": 1,
+    "title_hi": "Mahanadi Coalfields ने Coal India की 10% ऑफर फॉर सेल के लिए RHP दाखिल किया",
+    "summary_hi": "Coal India ने BSE और NSE को बताया कि 13 November 2026 की Mahanadi Coalfields की RHP, 661,836,300 शेयरों यानी 10% हिस्सेदारी की ऑफर for sale के लिए दाखिल की गई थी।",
+    "why_hi": "सहायक कंपनी के शेयर बिक्री का विवरण दाखिल किया गया।",
+    "chips_hi": {
+      "हिस्सेदारी": "10%",
+      "शेयर": "661,836,300"
+    }
+  },
+  {
+    "v": 3,
+    "cat": "Earnings",
+    "tk": "KAYNES",
+    "title": "Kaynes Technology Q2 net profit falls 61.6% to Rs 45.4 crore",
+    "summary": "Kaynes Technology said in a filing with the National Stock Exchange that consolidated revenue rose 4.4% to Rs 952.5 crore in Q2 FY27, while net profit fell 61.6% to Rs 45.4 crore.",
+    "source": "Oquilia",
+    "published": "2026-11-15T03:46:17.999000+00:00",
+    "ago": "2h",
+    "impact": "Negative",
+    "why": "Net profit declined sharply in Q2.",
+    "url": "https://www.oquilia.com/news/kaynes-technology-q2-results-net-profit-falls-to-rs-45-crore",
+    "chips": {
+      "Net Profit": "Rs 45.4 crore",
+      "Profit Fall": "61.6%",
+      "Revenue": "Rs 952.5 crore"
+    },
+    "trend": [
+      0.95,
+      0.85,
+      0.7,
+      0.6,
+      0.4,
+      0.3,
+      0.1
+    ],
+    "color": "9B2C2C",
+    "premium": false,
+    "verbatim": false,
+    "src_title": "Kaynes Technology Q2 results: net profit falls 61.6% to Rs 45.4 crore",
+    "src_summary": "Kaynes Technology said in a filing with the National Stock Exchange that consolidated revenue rose 4.4% to Rs 952.5 crore in Q2 FY27, while net profit fell 61.6% to Rs 45.4 crore.",
+    "title_hi": "Kaynes Technology का Q2 शुद्ध लाभ 61.6% घटकर Rs 45.4 करोड़ हुआ",
+    "summary_hi": "Kaynes Technology ने National Stock Exchange को दी गई जानकारी में बताया कि Q2 FY27 में समेकित राजस्व 4.4% बढ़कर Rs 952.5 करोड़ हो गया, जबकि शुद्ध लाभ 61.6% घटकर Rs 45.4 करोड़ रह गया।",
+    "why_hi": "Q2 में शुद्ध लाभ में भारी गिरावट।",
+    "chips_hi": {
+      "शुद्ध लाभ": "Rs 45.4 करोड़",
+      "लाभ में गिरावट": "61.6%",
+      "राजस्व": "Rs 952.5 करोड़"
+    }
+  },
+  {
+    "v": 3,
     "cat": "Finance",
     "tk": "FINANCE",
     "title": "Section 134 of Income-tax Act 2025 lets old-regime tenants deduct up to Rs 60,000 a year without HRA",
@@ -33,7 +148,9 @@
     "why_hi": "कंपनी पर कोई सीधा प्रभाव नहीं।",
     "chips_hi": {
       "अधिकतम कटौती": "Rs 60,000/year"
-    }
+    },
+    "hi_tries": 0,
+    "hi_ver": 2
   },
   {
     "v": 3,
@@ -73,7 +190,9 @@
       "शुद्ध लाभ": "Rs 33.28 cr",
       "वृद्धि": "83.5%",
       "राजस्व": "Rs 224.32 cr"
-    }
+    },
+    "hi_tries": 0,
+    "hi_ver": 2
   },
   {
     "v": 3,
@@ -113,7 +232,9 @@
       "शुद्ध लाभ": "869.02 करोड़ रुपये",
       "राजस्व": "13,364.28 करोड़ रुपय",
       "लाभांश": "1 रुपये"
-    }
+    },
+    "hi_tries": 0,
+    "hi_ver": 2
   },
   {
     "v": 3,
@@ -145,7 +266,7 @@
     "verbatim": false,
     "src_title": "Time Your NPS Deposit Right: Contributions In by 1:30 PM Now Get Same-Day NAV",
     "src_summary": "PFRDA's 4 August 2026 circular: NPS contributions reaching the Trustee Bank by 1:30 PM get same-day NAV. How the cut-off works, exit tax limits and a worked Rs 1 crore drawdown.",
-    "hi_tries": 1,
+    "hi_tries": 2,
     "hi_ver": 2
   },
   {
@@ -1448,118 +1569,6 @@
       "इक्विटी कंसीडरेशन": "EUR 1,184 मिलियन"
     },
     "hi_tries": 0,
-    "hi_ver": 2
-  },
-  {
-    "v": 3,
-    "cat": "Earnings",
-    "tk": "HITACHI ENERGY",
-    "title": "Hitachi Energy India Q2 net profit rises 20.5% to Rs 318.49 crore",
-    "summary": "Hitachi Energy India said in an NSE filing that net profit for the quarter ended 30 September 2026 rose 20.5% to Rs 318.49 crore, while revenue from operations rose 63.5% to Rs 2,996.51 crore.",
-    "source": "Oquilia",
-    "published": "2026-11-12T11:46:38.996000+00:00",
-    "ago": "22h",
-    "impact": "Positive",
-    "why": "Strong net profit and revenue growth reported.",
-    "url": "https://www.oquilia.com/news/hitachi-energy-india-q2-results-net-profit-rises-20-5-percent",
-    "chips": {
-      "Net Profit": "Rs 318.49 crore",
-      "Revenue": "Rs 2,996.51 crore"
-    },
-    "trend": [
-      0.1,
-      0.25,
-      0.2,
-      0.5,
-      0.45,
-      0.8,
-      0.95
-    ],
-    "color": "0F766E",
-    "premium": false,
-    "verbatim": false,
-    "src_title": "Hitachi Energy India Q2 results: net profit rises 20.5% to Rs 318.49 crore",
-    "src_summary": "Hitachi Energy India said in an NSE filing that net profit for the quarter ended 30 September 2026 rose 20.5% to Rs 318.49 crore, while revenue from operations rose 63.5% to Rs 2,996.51 crore.",
-    "title_hi": "Hitachi Energy India का Q2 शुद्ध लाभ 20.5% बढ़कर 318.49 करोड़ रुपये हुआ",
-    "summary_hi": "Hitachi Energy India ने NSE फाइलिंग में कहा कि 30 सितंबर 2026 को समाप्त तिमाही के लिए शुद्ध लाभ 20.5% बढ़कर 318.49 करोड़ रुपये हो गया, जबकि परिचालन से राजस्व 63.5% बढ़कर 2,996.51 करोड़ रुपये हो गया।",
-    "why_hi": "मजबूत शुद्ध लाभ और राजस्व वृद्धि दर्ज की गई।",
-    "chips_hi": {
-      "शुद्ध लाभ": "318.49 करोड़ रुपये",
-      "राजस्व": "2,996.51 करोड़ रुपये"
-    },
-    "hi_tries": 0,
-    "hi_ver": 2
-  },
-  {
-    "v": 3,
-    "cat": "Finance",
-    "tk": "FINANCE",
-    "title": "Retail inflation rises to 6.09% in October 2026, food inflation at 8.94%: MoSPI",
-    "summary": "Retail inflation rose to 6.09% in October 2026 from 5.54% in September, and food inflation to 8.94%, according to provisional CPI data from the statistics ministry.",
-    "source": "Oquilia",
-    "published": "2026-11-12T11:34:25.672000+00:00",
-    "ago": "22h",
-    "impact": "Negative",
-    "why": "Higher inflation negatively impacts economic fundamentals.",
-    "url": "https://www.oquilia.com/news/retail-inflation-rises-to-6-09-percent-october-food-inflation-8-94",
-    "chips": {
-      "Retail inflation": "6.09%",
-      "Food inflation": "8.94%"
-    },
-    "trend": [
-      0.95,
-      0.85,
-      0.7,
-      0.6,
-      0.4,
-      0.3,
-      0.1
-    ],
-    "color": "9B2C2C",
-    "premium": false,
-    "verbatim": false,
-    "src_title": "Retail inflation rises to 6.09% in October 2026, food inflation at 8.94%: MoSPI",
-    "src_summary": "Retail inflation rose to 6.09% in October 2026 from 5.54% in September, and food inflation to 8.94%, according to provisional CPI data from the statistics ministry.",
-    "title_hi": "अक्टूबर 2026 में खुदरा महंगाई बढ़कर 6.09% हुई, खाद्य महंगाई 8.94% रही: MoSPI",
-    "summary_hi": "सांख्यिकी मंत्रालय के अनंतिम CPI डेटा के अनुसार, सितंबर में 5.54% से खुदरा महंगाई अक्टूबर 2026 में बढ़कर 6.09% हो गई और खाद्य महंगाई बढ़कर 8.94% हो गई।",
-    "why_hi": "उच्च महंगाई आर्थिक बुनियादी बातों को नकारात्मक रूप से प्रभावित करती है।",
-    "chips_hi": {
-      "खुदरा महंगाई": "6.09%",
-      "खाद्य महंगाई": "8.94%"
-    },
-    "hi_tries": 0,
-    "hi_ver": 2
-  },
-  {
-    "v": 3,
-    "cat": "Finance",
-    "tk": "FINANCE",
-    "title": "NPS exit held up by bank name mismatch and penny-drop check",
-    "summary": "PFRDA blocks every NPS exit or withdrawal until a penny drop bank check passes with the name matching. The 5 failure reasons, who fixes each, and how the cleared corpus is taxed.",
-    "source": "Oquilia",
-    "published": "2026-11-12T10:33:08.926000+00:00",
-    "ago": "23h",
-    "impact": "Neutral",
-    "why": "Operational process for NPS exits.",
-    "url": "https://www.oquilia.com/news/oquilia-research-nps-exit-blocked-penny-drop-name-mismatch-bank-account",
-    "chips": {
-      "Failure reasons": "5"
-    },
-    "trend": [
-      0.5,
-      0.55,
-      0.45,
-      0.5,
-      0.47,
-      0.52,
-      0.5
-    ],
-    "color": "B7791F",
-    "premium": false,
-    "verbatim": false,
-    "src_title": "NPS exit held up by a bank name mismatch? PFRDA's mandatory penny-drop check and how to clear a failure",
-    "src_summary": "PFRDA blocks every NPS exit or withdrawal until a penny drop bank check passes with the name matching. The 5 failure reasons, who fixes each, and how the cleared corpus is taxed.",
-    "hi_tries": 2,
     "hi_ver": 2
   }
 ]
