@@ -1,6 +1,42 @@
 [
   {
     "v": 3,
+    "cat": "Finance",
+    "tk": "FINANCE",
+    "title": "Emigrating Mid-Year With No Plan to Return? How Section 317 Lets the Tax Officer Assess Your Income Before You Leave",
+    "summary": "Section 317 of the Income-tax Act, 2025 lets the Assessing Officer assess income from 1 April to your departure date on a notice of at least 7 days. What it covers, and what it is not.",
+    "source": "Oquilia",
+    "published": "2026-11-15T09:05:39.691000+00:00",
+    "ago": "1h",
+    "impact": "Neutral",
+    "why": "Procedural tax rule without direct fundamental impact.",
+    "url": "https://www.oquilia.com/news/oquilia-research-assessment-of-persons-leaving-india-section-317",
+    "chips": {
+      "Notice period": "7 days"
+    },
+    "trend": [
+      0.5,
+      0.55,
+      0.45,
+      0.5,
+      0.47,
+      0.52,
+      0.5
+    ],
+    "color": "B7791F",
+    "premium": false,
+    "verbatim": false,
+    "src_title": "Emigrating Mid-Year With No Plan to Return? How Section 317 Lets the Tax Officer Assess Your Income Before You Leave",
+    "src_summary": "Section 317 of the Income-tax Act, 2025 lets the Assessing Officer assess income from 1 April to your departure date on a notice of at least 7 days. What it covers, and what it is not.",
+    "title_hi": "कैसे धारा 317 टैक्स अधिकारियों को मध्य-वर्ष प्रवास से पहले आय का आकलन करने देती है",
+    "summary_hi": "आयकर अधिनियम, 2025 की धारा 317 असेसिंग ऑफिसर को कम से कम 7 दिन के नोटिस पर 1 अप्रैल से आपकी प्रस्थान तिथि तक की आय का आकलन करने देती है। यह क्या कवर करती है और क्या नहीं।",
+    "why_hi": "प्रत्येक मौलिक प्रभाव के बिना प्रक्रियात्मक कर नियम।",
+    "chips_hi": {
+      "नोटिस अवधि": "7 days"
+    }
+  },
+  {
+    "v": 3,
     "cat": "Companies",
     "tk": "COMPANIES",
     "title": "Hindalco unit Novelis to sell two China subsidiaries for about $265 million",
@@ -33,7 +69,9 @@
     "why_hi": "परिसंपत्ति बिक्री का तटस्थ प्रभाव है।",
     "chips_hi": {
       "डील वैल्यू": "$265 million"
-    }
+    },
+    "hi_tries": 0,
+    "hi_ver": 2
   },
   {
     "v": 3,
@@ -65,14 +103,15 @@
     "verbatim": false,
     "src_title": "Mahanadi Coalfields files RHP for Coal India's 10% offer for sale",
     "src_summary": "Coal India told BSE and NSE that the RHP of Mahanadi Coalfields, dated 13 November 2026, was filed for an offer for sale of up to 661,836,300 shares, a 10% stake.",
-    "hi_tries": 1,
+    "hi_tries": 0,
     "title_hi": "Mahanadi Coalfields ने Coal India की 10% ऑफर फॉर सेल के लिए RHP दाखिल किया",
     "summary_hi": "Coal India ने BSE और NSE को बताया कि 13 November 2026 की Mahanadi Coalfields की RHP, 661,836,300 शेयरों यानी 10% हिस्सेदारी की ऑफर for sale के लिए दाखिल की गई थी।",
     "why_hi": "सहायक कंपनी के शेयर बिक्री का विवरण दाखिल किया गया।",
     "chips_hi": {
       "हिस्सेदारी": "10%",
       "शेयर": "661,836,300"
-    }
+    },
+    "hi_ver": 2
   },
   {
     "v": 3,
@@ -112,7 +151,9 @@
       "शुद्ध लाभ": "Rs 45.4 करोड़",
       "लाभ में गिरावट": "61.6%",
       "राजस्व": "Rs 952.5 करोड़"
-    }
+    },
+    "hi_tries": 0,
+    "hi_ver": 2
   },
   {
     "v": 3,
@@ -1527,46 +1568,6 @@
     "why_hi": "कंपनी दिवालिया प्रक्रिया में शामिल।",
     "chips_hi": {
       "दावा तिथि": "18 November 2026"
-    },
-    "hi_tries": 0,
-    "hi_ver": 2
-  },
-  {
-    "v": 3,
-    "cat": "Markets",
-    "tk": "ADANI PORTS",
-    "title": "Adani Ports agrees to buy Dutch liquid storage firm Evos at EUR 2.56 billion EV",
-    "summary": "Adani Ports and Special Economic Zone told the stock exchanges it has agreed to buy all of Evos B.V. for cash, with an equity consideration of EUR 1,184 million, funded by debt.",
-    "source": "Oquilia",
-    "published": "2026-11-12T12:20:25.552000+00:00",
-    "ago": "22h",
-    "impact": "Positive",
-    "why": "Expands global terminal footprint through strategic acquisit",
-    "url": "https://www.oquilia.com/news/adani-ports-agrees-to-buy-evos-liquid-storage-enterprise-value",
-    "chips": {
-      "Enterprise Value": "EUR 2.56 billion",
-      "Equity Consideration": "EUR 1,184 million"
-    },
-    "trend": [
-      0.1,
-      0.25,
-      0.2,
-      0.5,
-      0.45,
-      0.8,
-      0.95
-    ],
-    "color": "0F766E",
-    "premium": false,
-    "verbatim": false,
-    "src_title": "Adani Ports agrees to buy Dutch liquid storage firm Evos at EUR 2.56 billion enterprise value",
-    "src_summary": "Adani Ports and Special Economic Zone told the stock exchanges it has agreed to buy all of Evos B.V. for cash, with an equity consideration of EUR 1,184 million, funded by debt.",
-    "title_hi": "Adani Ports ने EUR 2.56 अरब के EV पर डच लिक्विड स्टोरेज फर्म Evos को खरीदने का समझौता किया",
-    "summary_hi": "Adani Ports and Special Economic Zone ने स्टॉक एक्सचेंज को बताया कि उसने कर्ज से वित्तपोषण के साथ, EUR 1,184 मिलियन के इक्विटी विचार के साथ, नकद में Evos B.V. को पूरी तरह खरीदने का समझौता किया है।",
-    "why_hi": "रणनीतिक अधिग्रहण से वैश्विक उपस्थिति का विस्तार।",
-    "chips_hi": {
-      "एंटरप्राइज वैल्यू": "EUR 2.56 अरब",
-      "इक्विटी कंसीडरेशन": "EUR 1,184 मिलियन"
     },
     "hi_tries": 0,
     "hi_ver": 2
