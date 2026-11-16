@@ -37,7 +37,9 @@
       "विवाद": "34",
       "Oriental विवाद": "10",
       "हारे": "7"
-    }
+    },
+    "hi_tries": 0,
+    "hi_ver": 2
   },
   {
     "v": 3,
@@ -73,7 +75,9 @@
     "why_hi": "दिवालियापन प्रक्रिया और नेतृत्व बदलाव से अनिश्चितता।",
     "chips_hi": {
       "दिनांक": "4 November 2026"
-    }
+    },
+    "hi_tries": 0,
+    "hi_ver": 2
   },
   {
     "v": 3,
@@ -109,7 +113,9 @@
     "why_hi": "OFS से सीधा व्यापारिक प्रभाव नहीं पड़ता।",
     "chips_hi": {
       "शेयर": "66,18,36,300"
-    }
+    },
+    "hi_tries": 0,
+    "hi_ver": 2
   },
   {
     "v": 3,
@@ -145,7 +151,9 @@
     "why_hi": "बड़ा अंतरराष्ट्रीय ट्रांसमिशन ऑर्डर मिला।",
     "chips_hi": {
       "ऑर्डर मूल्य": "Rs 2,610 करोड़"
-    }
+    },
+    "hi_tries": 0,
+    "hi_ver": 2
   },
   {
     "v": 3,
@@ -176,7 +184,8 @@
     "verbatim": false,
     "src_title": "ITAT Hyderabad deletes Rs 24.1 lakh tax addition on housing society, cites consistency",
     "src_summary": "The Income Tax Appellate Tribunal in Hyderabad deleted a Rs 24,10,110 addition to a co-operative housing society's income, holding the tax officer could not depart from the view accepted a year earlier.",
-    "hi_tries": 1
+    "hi_tries": 1,
+    "hi_ver": 2
   },
   {
     "v": 3,
@@ -216,7 +225,9 @@
       "Nifty 50": "25,144.3",
       "बदलाव": "-0.61%",
       "गिरावट वाले शेयर": "1,777"
-    }
+    },
+    "hi_tries": 0,
+    "hi_ver": 2
   },
   {
     "v": 3,
