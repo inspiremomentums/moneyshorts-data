@@ -3,6 +3,78 @@
     "v": 3,
     "cat": "Finance",
     "tk": "FINANCE",
+    "title": "How Income-tax Act 2025 Splits Goa Married Couples' Income 50:50",
+    "summary": "Spouses governed by Goa's communião dos bens must split rent, interest, business income and capital gains 50:50 under Section 10 of the Income-tax Act 2025; salary stays with the earner.",
+    "source": "Oquilia",
+    "published": "2026-11-16T00:40:47.294000+00:00",
+    "ago": "1h",
+    "impact": "Neutral",
+    "why": "Tax rule clarification without fundamental impact.",
+    "url": "https://www.oquilia.com/news/oquilia-research-goa-couples-communiao-dos-bens-income-split-section-10",
+    "chips": {
+      "Income Split": "50:50"
+    },
+    "trend": [
+      0.5,
+      0.55,
+      0.45,
+      0.5,
+      0.47,
+      0.52,
+      0.5
+    ],
+    "color": "B7791F",
+    "premium": false,
+    "verbatim": false,
+    "src_title": "Married in Goa? How Section 10 of the Income-tax Act 2025 Splits a Couple's Rent, Business and Capital-Gains Income 50:50",
+    "src_summary": "Spouses governed by Goa's communião dos bens must split rent, interest, business income and capital gains 50:50 under Section 10 of the Income-tax Act 2025; salary stays with the earner.",
+    "title_hi": "Income-tax Act 2025 कैसे गोवा के विवाहित जोड़ों की आय को 50:50 बांटता है",
+    "summary_hi": "Income-tax Act 2025 की धारा 10 के तहत गोवा के communião dos bens से शासित पति-पत्नी को किराया, ब्याज, व्यावसायिक आय और पूंजीगत लाभ 50:50 बांटना होगा; वेतन कमाने वाले के पास रहता है।",
+    "why_hi": "बुनियादी प्रभाव के बिना कर नियम स्पष्टीकरण।",
+    "chips_hi": {
+      "आय विभाजन": "50:50"
+    }
+  },
+  {
+    "v": 3,
+    "cat": "Companies",
+    "tk": "KARNATAKA BANK",
+    "title": "Karnataka Bank MD and CEO ceases to hold office on completing tenure",
+    "summary": "Karnataka Bank said in a filing with the National Stock Exchange that its Managing Director and CEO ceased to hold office from the close of business on 15 November 2026, on completion of tenure.",
+    "source": "Oquilia",
+    "published": "2026-11-15T17:46:07.538000+00:00",
+    "ago": "8h",
+    "impact": "Neutral",
+    "why": "Planned exit of MD and CEO.",
+    "url": "https://www.oquilia.com/news/karnataka-bank-md-ceo-ceases-office-completion-of-tenure",
+    "chips": {
+      "Date": "15 November 2026"
+    },
+    "trend": [
+      0.5,
+      0.55,
+      0.45,
+      0.5,
+      0.47,
+      0.52,
+      0.5
+    ],
+    "color": "B7791F",
+    "premium": false,
+    "verbatim": false,
+    "src_title": "Karnataka Bank MD and CEO ceases to hold office on completing tenure",
+    "src_summary": "Karnataka Bank said in a filing with the National Stock Exchange that its Managing Director and CEO ceased to hold office from the close of business on 15 November 2026, on completion of tenure.",
+    "title_hi": "Karnataka Bank के MD और CEO का कार्यकाल पूरा होने पर पद समाप्त",
+    "summary_hi": "Karnataka Bank ने National Stock Exchange को दी गई जानकारी में बताया कि उनके Managing Director और CEO का कार्यकाल पूरा होने पर 15 November 2026 को कारोबार बंद होने के साथ पद समाप्त हो गया।",
+    "why_hi": "MD और CEO की नियोजित विदाई।",
+    "chips_hi": {
+      "तारीख": "15 November 2026"
+    }
+  },
+  {
+    "v": 3,
+    "cat": "Finance",
+    "tk": "FINANCE",
     "title": "PFRDA Extends NPS e-Shramik Incentive for FY 2026-27",
     "summary": "PFRDA has extended the Rs 100 PoP onboarding incentive under the NPS e-Shramik model to 31 March 2027. How gig workers join, how withdrawals are taxed, and a worked drawdown.",
     "source": "Oquilia",
@@ -35,7 +107,9 @@
     "chips_hi": {
       "इंसेंटिव": "Rs 100",
       "समय सीमा": "31 March 2027"
-    }
+    },
+    "hi_tries": 0,
+    "hi_ver": 2
   },
   {
     "v": 3,
@@ -1497,80 +1571,6 @@
       "Nifty 50": "25,299.35",
       "बढ़ت": "0.18%"
     },
-    "hi_tries": 0,
-    "hi_ver": 2
-  },
-  {
-    "v": 3,
-    "cat": "Markets",
-    "tk": "ZEE",
-    "title": "Zee Entertainment board approves Rs 600 crore buyback at Rs 91 a share",
-    "summary": "Zee Entertainment's board approved a buyback of shares at Rs 91 each, worth up to Rs 600 crore, through a tender offer with a 25 November 2026 record date, its NSE filing shows.",
-    "source": "Oquilia",
-    "published": "2026-11-12T13:20:36.709000+00:00",
-    "ago": "19h",
-    "impact": "Positive",
-    "why": "Share buyback usually boosts shareholder value.",
-    "url": "https://www.oquilia.com/news/zee-entertainment-board-approves-rs-600-crore-buyback-at-rs-91",
-    "chips": {
-      "Buyback size": "Rs 600 crore",
-      "Price": "Rs 91"
-    },
-    "trend": [
-      0.1,
-      0.25,
-      0.2,
-      0.5,
-      0.45,
-      0.8,
-      0.95
-    ],
-    "color": "0F766E",
-    "premium": false,
-    "verbatim": false,
-    "src_title": "Zee Entertainment board approves Rs 600 crore buyback at Rs 91 a share",
-    "src_summary": "Zee Entertainment's board approved a buyback of shares at Rs 91 each, worth up to Rs 600 crore, through a tender offer with a 25 November 2026 record date, its NSE filing shows.",
-    "title_hi": "Zee Entertainment बोर्ड ने 91 रुपये प्रति शेयर पर 600 करोड़ रुपये के बायबैक को मंजूरी दी",
-    "summary_hi": "Zee Entertainment के बोर्ड ने NSE फाइलिंग के अनुसार, 25 नवंबर 2026 की रिकॉर्ड डेट के साथ टेंडर ऑफर के माध्यम से 91 रुपये प्रति शेयर की दर से 600 करोड़ रुपये तक के शेयरों के बायबैक को मंजूरी दे दी है।",
-    "why_hi": "शेयर बायबैक से शेयरधारक का मूल्य बढ़ता है।",
-    "chips_hi": {
-      "बायबैक आकार": "600 करोड़ रुपये",
-      "कीमत": "91 रुपये"
-    },
-    "hi_tries": 0,
-    "hi_ver": 2
-  },
-  {
-    "v": 3,
-    "cat": "Companies",
-    "tk": "COMPANIES",
-    "title": "Popular Vehicles says auditor of material subsidiary Prabal Motors resigned",
-    "summary": "Popular Vehicles and Services told NSE that B S R and Co has resigned as statutory auditor of its material subsidiary Prabal Motors, citing rotation of the firm at the parent company.",
-    "source": "Oquilia",
-    "published": "2026-11-12T12:46:34.240000+00:00",
-    "ago": "21h",
-    "impact": "Neutral",
-    "why": "Auditor resignation due to rotation policy.",
-    "url": "https://www.oquilia.com/news/popular-vehicles-subsidiary-prabal-motors-auditor-resigns",
-    "chips": {},
-    "trend": [
-      0.5,
-      0.55,
-      0.45,
-      0.5,
-      0.47,
-      0.52,
-      0.5
-    ],
-    "color": "B7791F",
-    "premium": false,
-    "verbatim": false,
-    "src_title": "Popular Vehicles says auditor of material subsidiary Prabal Motors resigned",
-    "src_summary": "Popular Vehicles and Services told NSE that B S R and Co has resigned as statutory auditor of its material subsidiary Prabal Motors, citing rotation of the firm at the parent company.",
-    "title_hi": "Popular Vehicles ने कहा कि Prabal Motors के ऑडिटर ने इस्तीफा दिया",
-    "summary_hi": "Popular Vehicles and Services ने NSE को बताया कि B S R and Co ने parent company में फर्म के rotation का हवाला देते हुए अपनी material subsidiary Prabal Motors के statutory auditor के रूप में इस्तीफा दे दिया है।",
-    "why_hi": "रोशन नीति के कारण ऑडिटर का इस्तीफा।",
-    "chips_hi": {},
     "hi_tries": 0,
     "hi_ver": 2
   }
