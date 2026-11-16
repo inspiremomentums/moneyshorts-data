@@ -2,6 +2,225 @@
   {
     "v": 3,
     "cat": "Finance",
+    "tk": "ORIENTAL",
+    "title": "Oriental Insurance involved in 10 of 34 consumer commission disputes and lost 7",
+    "summary": "Oriental Insurance appeared in 10 of 34 insurer disputes Oquilia reported over a month, more than any other insurer, and policyholders won 7 of them.",
+    "source": "Oquilia",
+    "published": "2026-11-16T06:54:06.094000+00:00",
+    "ago": "4m",
+    "impact": "Negative",
+    "why": "High dispute losses indicate poor claims handling.",
+    "url": "https://www.oquilia.com/news/oriental-insurance-most-frequent-insurer-consumer-commissions-16-november-2026",
+    "chips": {
+      "Disputes": "34",
+      "Oriental disputes": "10",
+      "Lost": "7"
+    },
+    "trend": [
+      0.95,
+      0.85,
+      0.7,
+      0.6,
+      0.4,
+      0.3,
+      0.1
+    ],
+    "color": "9B2C2C",
+    "premium": false,
+    "verbatim": false,
+    "src_title": "Oriental Insurance was the insurer in 10 of 34 consumer commission disputes and lost 7",
+    "src_summary": "Oriental Insurance appeared in 10 of 34 insurer disputes Oquilia reported over a month, more than any other insurer, and policyholders won 7 of them.",
+    "title_hi": "Oriental Insurance 10 उपभोक्ता आयोग विवादों में शामिल थी और 7 हारी",
+    "summary_hi": "Oriental Insurance Oquilia द्वारा एक महीने में रिपोर्ट किए गए 34 बीमाकर्ता विवादों में से 10 में दिखाई दी, जो किसी भी अन्य बीमाकर्ता से अधिक है, और पॉलिसीधारकों ने उनमें से 7 जीते।",
+    "why_hi": "विवादों में अधिक हार खराब दावों के प्रबंधन को दर्शाती है।",
+    "chips_hi": {
+      "विवाद": "34",
+      "Oriental विवाद": "10",
+      "हारे": "7"
+    }
+  },
+  {
+    "v": 3,
+    "cat": "Companies",
+    "tk": "FUTURE CONSUMER",
+    "title": "Future Consumer says MD tenure ended during insolvency",
+    "summary": "Future Consumer told the NSE its managing director ceased to hold office on 4 November 2026 on completing a fixed tenure, while the company is in insolvency proceedings.",
+    "source": "Oquilia",
+    "published": "2026-11-16T06:46:30.803000+00:00",
+    "ago": "12m",
+    "impact": "Negative",
+    "why": "Insolvency proceedings and leadership departure create uncer",
+    "url": "https://www.oquilia.com/news/future-consumer-managing-director-tenure-ends-during-insolvency",
+    "chips": {
+      "Date": "4 November 2026"
+    },
+    "trend": [
+      0.95,
+      0.85,
+      0.7,
+      0.6,
+      0.4,
+      0.3,
+      0.1
+    ],
+    "color": "9B2C2C",
+    "premium": false,
+    "verbatim": false,
+    "src_title": "Future Consumer says its managing director's tenure ended during insolvency",
+    "src_summary": "Future Consumer told the NSE its managing director ceased to hold office on 4 November 2026 on completing a fixed tenure, while the company is in insolvency proceedings.",
+    "title_hi": "Future Consumer का कहना है कि दिवालियापन के दौरान MD का कार्यकाल समाप्त हुआ",
+    "summary_hi": "Future Consumer ने NSE को बताया कि कंपनी की दिवालियापन प्रक्रिया के बीच 4 November 2026 को निश्चित कार्यकाल पूरा होने पर उसके प्रबंध निदेशक ने पद छोड़ दिया।",
+    "why_hi": "दिवालियापन प्रक्रिया और नेतृत्व बदलाव से अनिश्चितता।",
+    "chips_hi": {
+      "दिनांक": "4 November 2026"
+    }
+  },
+  {
+    "v": 3,
+    "cat": "Markets",
+    "tk": "COAL INDIA",
+    "title": "Mahanadi Coalfields files RHP for Coal India OFS",
+    "summary": "Coal India says the RHP of its subsidiary Mahanadi Coalfields, dated November 13, was filed with SEBI and the exchanges for an offer for sale of up to 661,836,300 shares.",
+    "source": "Oquilia",
+    "published": "2026-11-16T04:23:48.372000+00:00",
+    "ago": "2h",
+    "impact": "Neutral",
+    "why": "OFS represents share dilution without direct business impact",
+    "url": "https://www.oquilia.com/news/mahanadi-coalfields-files-rhp-coal-india-offer-for-sale",
+    "chips": {
+      "Shares": "66,18,36,300"
+    },
+    "trend": [
+      0.5,
+      0.55,
+      0.45,
+      0.5,
+      0.47,
+      0.52,
+      0.5
+    ],
+    "color": "B7791F",
+    "premium": false,
+    "verbatim": false,
+    "src_title": "Mahanadi Coalfields files RHP for 66.18 crore-share Coal India OFS",
+    "src_summary": "Coal India says the RHP of its subsidiary Mahanadi Coalfields, dated November 13, was filed with SEBI and the exchanges for an offer for sale of up to 661,836,300 shares.",
+    "title_hi": "Mahanadi Coalfields ने Coal India OFS के लिए RHP दाखिल किया",
+    "summary_hi": "Coal India का कहना है कि 13 नवंबर को उसकी सहायक कंपनी Mahanadi Coalfields का RHP, SEBI और एक्सचेंजों में 6,61,83,6300 तक के शेयरों की बिक्री के लिए दाखिल किया गया था।",
+    "why_hi": "OFS से सीधा व्यापारिक प्रभाव नहीं पड़ता।",
+    "chips_hi": {
+      "शेयर": "66,18,36,300"
+    }
+  },
+  {
+    "v": 3,
+    "cat": "Markets",
+    "tk": "MARKETS",
+    "title": "Kalpataru Projects secures Rs 2,610 crore overseas power order",
+    "summary": "Kalpataru Projects International told the NSE it has received a notification of award for an order worth about Rs 2,610 crore for transmission lines and substations in an international market.",
+    "source": "Oquilia",
+    "published": "2026-11-16T03:46:04.776000+00:00",
+    "ago": "3h",
+    "impact": "Positive",
+    "why": "Secured large international transmission order.",
+    "url": "https://www.oquilia.com/news/kalpataru-projects-secures-rs-2610-crore-overseas-power-order",
+    "chips": {
+      "Order Value": "Rs 2,610 crore"
+    },
+    "trend": [
+      0.1,
+      0.25,
+      0.2,
+      0.5,
+      0.45,
+      0.8,
+      0.95
+    ],
+    "color": "0F766E",
+    "premium": false,
+    "verbatim": false,
+    "src_title": "Kalpataru Projects says it secured Rs 2,610 crore overseas power order",
+    "src_summary": "Kalpataru Projects International told the NSE it has received a notification of award for an order worth about Rs 2,610 crore for transmission lines and substations in an international market.",
+    "title_hi": "Kalpataru Projects ने हासिल किया Rs 2,610 करोड़ का विदेशी पावर ऑर्डर",
+    "summary_hi": "Kalpataru Projects International ने NSE को बताया कि उसे अंतरराष्ट्रीय बाजार में ट्रांसमिशन लाइनों और सबस्टेशनों के लिए लगभग Rs 2,610 करोड़ के ऑर्डर का अवार्ड नोटिफिकेशन मिला है।",
+    "why_hi": "बड़ा अंतरराष्ट्रीय ट्रांसमिशन ऑर्डर मिला।",
+    "chips_hi": {
+      "ऑर्डर मूल्य": "Rs 2,610 करोड़"
+    }
+  },
+  {
+    "v": 3,
+    "cat": "Finance",
+    "tk": "FINANCE",
+    "title": "ITAT Hyderabad deletes Rs 24.1 lakh tax addition on housing society",
+    "summary": "The Income Tax Appellate Tribunal in Hyderabad deleted a Rs 24,10,110 addition to a co-operative housing society's income, holding the tax officer could not depart from the view accepted a year earlier.",
+    "source": "Oquilia",
+    "published": "2026-11-16T02:36:45.571000+00:00",
+    "ago": "4h",
+    "impact": "Positive",
+    "why": "Tax addition deleted on consistency grounds.",
+    "url": "https://www.oquilia.com/news/itat-hyderabad-deletes-tax-addition-housing-society-consistency",
+    "chips": {
+      "Tax Addition": "Rs 24,10,110"
+    },
+    "trend": [
+      0.1,
+      0.25,
+      0.2,
+      0.5,
+      0.45,
+      0.8,
+      0.95
+    ],
+    "color": "0F766E",
+    "premium": false,
+    "verbatim": false,
+    "src_title": "ITAT Hyderabad deletes Rs 24.1 lakh tax addition on housing society, cites consistency",
+    "src_summary": "The Income Tax Appellate Tribunal in Hyderabad deleted a Rs 24,10,110 addition to a co-operative housing society's income, holding the tax officer could not depart from the view accepted a year earlier.",
+    "hi_tries": 1
+  },
+  {
+    "v": 3,
+    "cat": "Markets",
+    "tk": "MARKETS",
+    "title": "Nifty 50 starts the week at 25,144.3 after Friday sell-off",
+    "summary": "The Nifty 50 closed at 25,144.3 on Friday, 13 November, down 0.61%, as 1,777 stocks declined against 939 advances and every sector index ended lower.",
+    "source": "Oquilia",
+    "published": "2026-11-16T02:33:47.375000+00:00",
+    "ago": "4h",
+    "impact": "Neutral",
+    "why": "Broad market decline following Friday sell-off.",
+    "url": "https://www.oquilia.com/news/nifty-50-pre-market-16-november-2026",
+    "chips": {
+      "Nifty 50": "25,144.3",
+      "Change": "-0.61%",
+      "Declined Stocks": "1,777"
+    },
+    "trend": [
+      0.5,
+      0.55,
+      0.45,
+      0.5,
+      0.47,
+      0.52,
+      0.5
+    ],
+    "color": "B7791F",
+    "premium": false,
+    "verbatim": false,
+    "src_title": "Pre-market: Nifty 50 starts the week at 25,144.3 after a broad Friday sell-off",
+    "src_summary": "The Nifty 50 closed at 25,144.3 on Friday, 13 November, down 0.61%, as 1,777 stocks declined against 939 advances and every sector index ended lower.",
+    "title_hi": "शुक्रवार की बिकवाली के बाद Nifty 50 ने 25,144.3 पर की हफ्ते की शुरुआत",
+    "summary_hi": "शुक्रवार, 13 नवंबर को Nifty 50 0.61% गिरकर 25,144.3 पर बंद हुआ, क्योंकि 939 शेयरों की बढ़त के मुकाबले 1,777 शेयरों में गिरावट आई और सभी सेक्टर इंडेक्स नीचे बंद हुए।",
+    "why_hi": "शुक्रवार की बिकवाली के बाद व्यापक बाजार में गिरावट।",
+    "chips_hi": {
+      "Nifty 50": "25,144.3",
+      "बदलाव": "-0.61%",
+      "गिरावट वाले शेयर": "1,777"
+    }
+  },
+  {
+    "v": 3,
+    "cat": "Finance",
     "tk": "FINANCE",
     "title": "How Income-tax Act 2025 Splits Goa Married Couples' Income 50:50",
     "summary": "Spouses governed by Goa's communião dos bens must split rent, interest, business income and capital gains 50:50 under Section 10 of the Income-tax Act 2025; salary stays with the earner.",
@@ -33,7 +252,9 @@
     "why_hi": "बुनियादी प्रभाव के बिना कर नियम स्पष्टीकरण।",
     "chips_hi": {
       "आय विभाजन": "50:50"
-    }
+    },
+    "hi_tries": 0,
+    "hi_ver": 2
   },
   {
     "v": 3,
@@ -69,7 +290,9 @@
     "why_hi": "MD और CEO की नियोजित विदाई।",
     "chips_hi": {
       "तारीख": "15 November 2026"
-    }
+    },
+    "hi_tries": 0,
+    "hi_ver": 2
   },
   {
     "v": 3,
@@ -185,46 +408,6 @@
       "डील वैल्यू": "$265 million"
     },
     "hi_tries": 0,
-    "hi_ver": 2
-  },
-  {
-    "v": 3,
-    "cat": "Markets",
-    "tk": "COAL INDIA",
-    "title": "Mahanadi Coalfields files RHP for Coal India's 10% offer for sale",
-    "summary": "Coal India told BSE and NSE that the RHP of Mahanadi Coalfields, dated 13 November 2026, was filed for an offer for sale of up to 661,836,300 shares, a 10% stake.",
-    "source": "Oquilia",
-    "published": "2026-11-15T04:23:43.926000+00:00",
-    "ago": "1h",
-    "impact": "Neutral",
-    "why": "Subsidiary share sale details filed.",
-    "url": "https://www.oquilia.com/news/mahanadi-coalfields-files-rhp-coal-india-offer-for-sale",
-    "chips": {
-      "Stake": "10%",
-      "Shares": "661,836,300"
-    },
-    "trend": [
-      0.5,
-      0.55,
-      0.45,
-      0.5,
-      0.47,
-      0.52,
-      0.5
-    ],
-    "color": "B7791F",
-    "premium": false,
-    "verbatim": false,
-    "src_title": "Mahanadi Coalfields files RHP for Coal India's 10% offer for sale",
-    "src_summary": "Coal India told BSE and NSE that the RHP of Mahanadi Coalfields, dated 13 November 2026, was filed for an offer for sale of up to 661,836,300 shares, a 10% stake.",
-    "hi_tries": 0,
-    "title_hi": "Mahanadi Coalfields ने Coal India की 10% ऑफर फॉर सेल के लिए RHP दाखिल किया",
-    "summary_hi": "Coal India ने BSE और NSE को बताया कि 13 November 2026 की Mahanadi Coalfields की RHP, 661,836,300 शेयरों यानी 10% हिस्सेदारी की ऑफर for sale के लिए दाखिल की गई थी।",
-    "why_hi": "सहायक कंपनी के शेयर बिक्री का विवरण दाखिल किया गया।",
-    "chips_hi": {
-      "हिस्सेदारी": "10%",
-      "शेयर": "661,836,300"
-    },
     "hi_ver": 2
   },
   {
@@ -1372,204 +1555,6 @@
     "chips_hi": {
       "हिस्सेदारी": "100%",
       "तारीख": "12 नवंबर 2026"
-    },
-    "hi_tries": 0,
-    "hi_ver": 2
-  },
-  {
-    "v": 3,
-    "cat": "Markets",
-    "tk": "MARKETS",
-    "title": "Pre-market: Nifty 50 at 25,299.35 after Thursday's 0.18% gain; Nifty Bank up 1.19%",
-    "summary": "The Nifty 50 closed Thursday at 25,299.35, up 0.18%, as Nifty Bank rose 1.19%, smallcaps gained 1.12% and 1,536 NSE stocks advanced against 1,163 that declined.",
-    "source": "Oquilia",
-    "published": "2026-11-13T02:33:42.225000+00:00",
-    "ago": "6h",
-    "impact": "Neutral",
-    "why": "Routine market update.",
-    "url": "https://www.oquilia.com/news/nifty-50-pre-market-13-november-2026",
-    "chips": {
-      "Nifty 50": "25,299.35",
-      "Nifty Bank": "1.19%",
-      "Smallcaps": "1.12%"
-    },
-    "trend": [
-      0.5,
-      0.55,
-      0.45,
-      0.5,
-      0.47,
-      0.52,
-      0.5
-    ],
-    "color": "B7791F",
-    "premium": false,
-    "verbatim": false,
-    "src_title": "Pre-market: Nifty 50 at 25,299.35 after Thursday's 0.18% gain; Nifty Bank up 1.19%",
-    "src_summary": "The Nifty 50 closed Thursday at 25,299.35, up 0.18%, as Nifty Bank rose 1.19%, smallcaps gained 1.12% and 1,536 NSE stocks advanced against 1,163 that declined.",
-    "title_hi": "प्री-मार्केट: गुरुवार की 0.18% बढ़त के बाद Nifty 50 25,299.35 पर; Nifty Bank 1.19% ऊपर",
-    "summary_hi": "Nifty 50 गुरुवार को 25,299.35 पर बंद हुआ, जो 0.18% ऊपर था, क्योंकि Nifty Bank 1.19% बढ़ा, स्मॉलकैप में 1.12% की बढ़त हुई और 1,536 NSE शेयरों में गिरावट के मुकाबले 1,163 शेयरों में तेजी आई।",
-    "why_hi": "नियमित बाजार अपडेट।",
-    "chips_hi": {
-      "Nifty 50": "25,299.35",
-      "Nifty Bank": "1.19%",
-      "स्मॉलकैप": "1.12%"
-    },
-    "hi_tries": 0,
-    "hi_ver": 2
-  },
-  {
-    "v": 3,
-    "cat": "Finance",
-    "tk": "FINANCE",
-    "title": "Foreign Retirement Account Income in ITR-2: Section 89A Relief, Form 10EE and AY 2026-27 Validation Checks",
-    "summary": "How residents defer tax on US, UK and Canadian retirement account income under section 89A, file Form 10-EE, and clear the nine ITR-2 validation checks for AY 2026-27.",
-    "source": "Oquilia",
-    "published": "2026-11-13T00:42:09.983000+00:00",
-    "ago": "8h",
-    "impact": "Neutral",
-    "why": "Tax procedure update with no direct financial impact.",
-    "url": "https://www.oquilia.com/news/oquilia-research-section-89a-foreign-retirement-account-itr-2-validation-form-10ee",
-    "chips": {
-      "Assessment Year": "2026-27",
-      "Form": "Form 10-EE",
-      "Checks": "9"
-    },
-    "trend": [
-      0.5,
-      0.55,
-      0.45,
-      0.5,
-      0.47,
-      0.52,
-      0.5
-    ],
-    "color": "B7791F",
-    "premium": false,
-    "verbatim": false,
-    "src_title": "Foreign Retirement Account Income in ITR-2: Section 89A Relief, Form 10EE and the AY 2026-27 Validation Checks",
-    "src_summary": "How residents defer tax on US, UK and Canadian retirement account income under section 89A, file Form 10-EE, and clear the nine ITR-2 validation checks for AY 2026-27.",
-    "hi_tries": 1,
-    "hi_ver": 2,
-    "title_hi": "ITR-2 में विदेशी सेवानिवृत्ति खाता आय: Section 89A राहत, Form 10EE और AY 2026-27 वैलिडेशन चेक",
-    "summary_hi": "जाने कि कैसे निवासी Section 89A के तहत US, UK और Canadian सेवानिवृत्ति खाते की आय पर टैक्स टालते हैं, Form 10-EE दाखिल करते हैं, और AY 2026-27 के लिए नौ ITR-2 वैलिडेशन चेक पास करते हैं।",
-    "why_hi": "बिना किसी सीधे वित्तीय प्रभाव वाला टैक्स प्रक्रिया अपडेट।",
-    "chips_hi": {
-      "असेसमेंट ईयर": "2026-27",
-      "फॉर्म": "Form 10-EE",
-      "चेक": "9"
-    }
-  },
-  {
-    "v": 3,
-    "cat": "Companies",
-    "tk": "HEAVY",
-    "title": "NCLT admits Heavy Engineering Corporation into insolvency over unpaid dues",
-    "summary": "The NCLT Kolkata Bench has admitted Ranchi-based Heavy Engineering Corporation, a Government of India undertaking, into insolvency on a small supplier's plea over unpaid dues.",
-    "source": "Oquilia",
-    "published": "2026-11-12T14:35:30.571000+00:00",
-    "ago": "18h",
-    "impact": "Negative",
-    "why": "Insolvency admission indicates severe financial distress.",
-    "url": "https://www.oquilia.com/news/nclt-admits-heavy-engineering-corporation-into-insolvency",
-    "chips": {},
-    "trend": [
-      0.95,
-      0.85,
-      0.7,
-      0.6,
-      0.4,
-      0.3,
-      0.1
-    ],
-    "color": "9B2C2C",
-    "premium": false,
-    "verbatim": false,
-    "src_title": "NCLT admits Heavy Engineering Corporation into insolvency over unpaid supplier dues",
-    "src_summary": "The NCLT Kolkata Bench has admitted Ranchi-based Heavy Engineering Corporation, a Government of India undertaking, into insolvency on a small supplier's plea over unpaid dues.",
-    "title_hi": "NCLT ने भुगतान न होने पर Heavy Engineering Corporation को दिवालिया प्रक्रिया में स्वीकार किया",
-    "summary_hi": "NCLT कोलकाता बेंच ने रांची स्थित Heavy Engineering Corporation को, जो भारत सरकार का उपक्रम है, एक छोटे सप्लायर की याचिका पर बकाया भुगतान न होने के कारण दिवालिया प्रक्रिया में स्वीकार कर लिया है।",
-    "why_hi": "दिवालिया प्रक्रिया वित्तीय संकट दर्शाती है।",
-    "chips_hi": {},
-    "hi_tries": 0,
-    "hi_ver": 2
-  },
-  {
-    "v": 3,
-    "cat": "Earnings",
-    "tk": "VODAFONE IDEA",
-    "title": "Vodafone Idea Q2 net loss widens to Rs 5,975 crore",
-    "summary": "Vodafone Idea reported a consolidated net loss of Rs 5,975 crore for the September 2026 quarter on revenue from operations of Rs 11,884 crore, according to its filing with the National Stock Exchange.",
-    "source": "Oquilia",
-    "published": "2026-11-12T13:46:32.867000+00:00",
-    "ago": "19h",
-    "impact": "Negative",
-    "why": "Net loss widened significantly in the quarter.",
-    "url": "https://www.oquilia.com/news/vodafone-idea-q2-fy27-results-net-loss-widens",
-    "chips": {
-      "Net Loss": "Rs 5,975 crore",
-      "Revenue": "Rs 11,884 crore"
-    },
-    "trend": [
-      0.95,
-      0.85,
-      0.7,
-      0.6,
-      0.4,
-      0.3,
-      0.1
-    ],
-    "color": "9B2C2C",
-    "premium": false,
-    "verbatim": false,
-    "src_title": "Vodafone Idea Q2 results: net loss widens to Rs 5,975 crore",
-    "src_summary": "Vodafone Idea reported a consolidated net loss of Rs 5,975 crore for the September 2026 quarter on revenue from operations of Rs 11,884 crore, according to its filing with the National Stock Exchange.",
-    "title_hi": "Vodafone Idea Q2 का शुद्ध घाटा बढ़कर 5,975 करोड़ रुपये हुआ",
-    "summary_hi": "National Stock Exchange को दी गई जानकारी के अनुसार, Vodafone Idea ने सितंबर 2026 तिमाही में 11,884 करोड़ रुपये के परिचालन राजस्व पर 5,975 करोड़ रुपये का समेकित शुद्ध घाटा दर्ज किया।",
-    "why_hi": "तिमाही में शुद्ध घाटा काफी बढ़ गया।",
-    "chips_hi": {
-      "शुद्ध घाटा": "Rs 5,975 crore",
-      "राजस्व": "Rs 11,884 crore"
-    },
-    "hi_tries": 0,
-    "hi_ver": 2
-  },
-  {
-    "v": 3,
-    "cat": "Markets",
-    "tk": "MARKETS",
-    "title": "Nifty 50 ends 0.18% higher at 25,299.35 as Nifty Bank and smallcaps outpace",
-    "summary": "The Nifty 50 closed at 25,299.35 on 12 November 2026, up 44.30 points or 0.18%, as 1,536 NSE stocks advanced and 1,163 declined.",
-    "source": "Oquilia",
-    "published": "2026-11-12T13:38:35.317000+00:00",
-    "ago": "19h",
-    "impact": "Positive",
-    "why": "Nifty 50 ends higher with positive advance.",
-    "url": "https://www.oquilia.com/news/stock-market-today-nifty-50-closing-12-november-2026",
-    "chips": {
-      "Nifty 50": "25,299.35",
-      "Gain": "0.18%"
-    },
-    "trend": [
-      0.1,
-      0.25,
-      0.2,
-      0.5,
-      0.45,
-      0.8,
-      0.95
-    ],
-    "color": "0F766E",
-    "premium": false,
-    "verbatim": false,
-    "src_title": "Nifty 50 ends 0.18% higher at 25,299.35 as Nifty Bank and smallcaps outpace",
-    "src_summary": "The Nifty 50 closed at 25,299.35 on 12 November 2026, up 44.30 points or 0.18%, as 1,536 NSE stocks advanced and 1,163 declined.",
-    "title_hi": "Nifty 50 ने 0.18% की बढ़त के साथ 25,299.35 पर कारोबार समाप्त किया",
-    "summary_hi": "12 नवंबर 2026 को Nifty 50 44.30 अंक या 0.18% की तेजी के साथ 25,299.35 पर बंद हुआ, क्योंकि NSE के 1,536 शेयर चढ़े और 1,163 गिरे।",
-    "why_hi": "Nifty 50 बढ़त के साथ बंद हुआ।",
-    "chips_hi": {
-      "Nifty 50": "25,299.35",
-      "बढ़ت": "0.18%"
     },
     "hi_tries": 0,
     "hi_ver": 2
