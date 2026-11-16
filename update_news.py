@@ -25,6 +25,21 @@ FEEDS = [
     # also leave out enforcement and courts), refresh every few hours, drop dead links.
     {"name": "Oquilia", "url": "https://www.oquilia.com/api/v1/news?limit=50",
      "kind": "oquilia", "cat": "Markets"},
+    # PIB (Government of India). Its copyright policy allows free reproduction without prior
+    # approval if the material is accurate, not misleading, excludes third-party material, and
+    # the source is prominently acknowledged. Kept to finance-related releases. Check in a
+    # browser that this address opens an English feed; the log shows "Could not read" if not.
+    {"name": "PIB", "url": "https://pib.gov.in/RssMain.aspx?ModId=6&Lang=1&Regid=3",
+     "cat": "Economy", "verbatim": True,
+     "keywords": r"\b(RBI|Reserve Bank|SEBI|GST|tax|taxes|customs|export|exports|import|imports|trade|tariff|"
+                 r"bank|banks|banking|insurance|pension|inflation|GDP|rupee|forex|FDI|investment|IPO|stock|"
+                 r"capital market|mutual fund|credit|loan|fiscal|budget|Ministry of Finance|Corporate Affairs|MSME)\b"},
+    # Capital Data Wire: its attribution page says content is free to republish in full or in part
+    # with credit and a link, with no fee or permission. It is US-focused and AI-written, so we only
+    # keep items that mention India, and cards still carry the "not investment advice" note.
+    {"name": "Capital Data Wire", "url": "https://capitaldatawire.com/feeds/main.rss",
+     "cat": "Markets", "verbatim": True, "max_words": 2500,
+     "keywords": r"\b(India|Indian|NSE|BSE|Sensex|Nifty|rupee|RBI|SEBI|Mumbai)\b"},
 ]
 
 # Switched off until we have permission. To use one, move its line up into FEEDS.
@@ -174,6 +189,8 @@ def parse_items(xml_bytes, feed):
             "subsection": text_of(it, BS + "subsection"),
             "source": text_of(it, BS + "source") or feed["name"],
             "premium": text_of(it, BS + "premium") == "true",
+            "verbatim": bool(feed.get("verbatim")), "kw": feed.get("keywords", ""),
+            "max_words": feed.get("max_words", MAX_VERBATIM_WORDS),
         })
     return out
 
@@ -181,7 +198,9 @@ def parse_items(xml_bytes, feed):
 def wanted(i):
     return (i["section"] in KEEP_SECTIONS and i["source"] != "Sponsored Content"
             and i["title"] and i["url"].startswith("https://") and words(i["desc"]) >= 8
-            and (not i.get("verbatim") or words(i["desc"]) <= MAX_VERBATIM_WORDS))
+            and (not i.get("verbatim") or words(i["desc"]) <= i.get("max_words", MAX_VERBATIM_WORDS))
+            and (not i.get("kw") or re.search(i["kw"], i["title"] + " " + i["desc"], re.I))
+            and not (i.get("verbatim") and DEVANAGARI.search(i["title"])))  # English only
 
 
 def category(i):
@@ -413,16 +432,16 @@ def make_story(i, r):
         "impact": r["impact"], "why": r["why"], "url": i["url"], "chips": r["chips"],
         "trend": TRENDS[r["impact"]], "color": COLORS[r["impact"]], "premium": i["premium"],
     }
-    if i.get("verbatim"):  # came from a syndication feed (Oquilia)
+    if i.get("verbatim"):  # came from a syndication or official feed
         story["verbatim"] = bool(r.get("verbatim_used"))
-        story["src_title"], story["src_summary"] = i["title"], i["desc"]
+        story["src_title"], story["src_summary"] = i["title"], i["desc"][:600]
     if r["hi"]:
         story.update({"title_hi": r["hi"]["title"], "summary_hi": r["hi"]["summary"],
                       "why_hi": r["hi"]["why"], "chips_hi": r["hi"]["chips"]})
     return story
 
 
-OQ_SHORT_SYSTEM = """You help a small news app for retail investors in India. You are given a headline and a summary written by another newsroom (Oquilia). They allow us to SHORTEN both, on strict terms. Reply with JSON only.
+OQ_SHORT_SYSTEM = """You help a small news app for retail investors in India. You are given a headline and a summary written by another publisher. We may SHORTEN both, on strict terms. Reply with JSON only.
 - title: a shorter version of the headline, never longer than the original. Same facts and meaning, nothing added. It must not make any claim stronger than the original: an allegation, complaint, order, estimate or plan must not read as a proven fact. No questions, teasers, hype, exclamation marks or ALL CAPS. Keep every hedge word (alleged, ordered, expected, may, reportedly and so on).
 - summary: if the original is longer than 60 words, shorten it to 50 to 60 words. If it is 60 words or fewer, keep it as it is. Same facts and meaning, nothing added: no new causes, no predictions, no opinions. Keep every hedge.
 - impact: Positive, Neutral or Negative for the fundamentals of the company or sector in the story. Use Neutral when unclear or when the story is not about a company or sector. This is our own analysis.
@@ -525,14 +544,9 @@ def main():
                 print(f"- removed (link no longer works): {s['title'][:60]}")
                 continue
             cur = live.get(s["url"])
-            if cur and (cur["title"] != s.get("src_title") or cur["desc"] != s.get("src_summary")):
-                print(f"- corrected by publisher: {cur['title'][:60]}")
-                s["title"], s["summary"] = cur["title"], cur["desc"]
-                s["src_title"], s["src_summary"] = cur["title"], cur["desc"]
-                for k in ("title_hi", "summary_hi", "why_hi", "chips_hi"):
-                    s.pop(k, None)
-                s["hi_tries"] = 0
-                s["v"] = 2  # analysed again below
+            if cur and (cur["title"] != s.get("src_title") or cur["desc"][:600] != s.get("src_summary")):
+                print(f"- corrected by publisher, redoing: {cur['title'][:60]}")
+                continue  # dropped here and made again below from the corrected text
         kept.append(s)
     old = kept
     seen = {s["url"] for s in old if s.get("v") == 3}  # older versions get redone
@@ -549,7 +563,7 @@ def main():
     added = []
     for n, i in enumerate(todo):
         print(f"- {i['title'][:70]}")
-        if i.get("verbatim"):  # Oquilia: their rules apply
+        if i.get("verbatim"):  # Oquilia and PIB: shown with their rules
             r = oquilia_result(i)
             if r is None:
                 print("  skipped (did not pass checks)")
