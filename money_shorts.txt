@@ -184,7 +184,7 @@
     "verbatim": false,
     "src_title": "ITAT Hyderabad deletes Rs 24.1 lakh tax addition on housing society, cites consistency",
     "src_summary": "The Income Tax Appellate Tribunal in Hyderabad deleted a Rs 24,10,110 addition to a co-operative housing society's income, holding the tax officer could not depart from the view accepted a year earlier.",
-    "hi_tries": 1,
+    "hi_tries": 2,
     "hi_ver": 2
   },
   {
