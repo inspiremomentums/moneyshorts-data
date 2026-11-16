@@ -1,6 +1,83 @@
 [
   {
     "v": 3,
+    "cat": "Markets",
+    "tk": "MARKETS",
+    "title": "Nifty 50 ends 0.58% higher at 25,291.10 as smallcaps slide 1.10%",
+    "summary": "The Nifty 50 rose 146.80 points, or 0.58%, to close at 25,291.10 on 16 November 2026, but 1,937 NSE stocks fell against 792 that rose as smallcaps lost 1.10%.",
+    "source": "Oquilia",
+    "published": "2026-11-16T13:39:34.202000+00:00",
+    "ago": "2h",
+    "impact": "Neutral",
+    "why": "Mixed market trend with benchmark gains.",
+    "url": "https://www.oquilia.com/news/stock-market-today-nifty-50-closing-16-november-2026",
+    "chips": {
+      "Nifty 50": "25,291.10",
+      "Gain": "0.58%",
+      "Smallcaps": "-1.10%"
+    },
+    "trend": [
+      0.5,
+      0.55,
+      0.45,
+      0.5,
+      0.47,
+      0.52,
+      0.5
+    ],
+    "color": "B7791F",
+    "premium": false,
+    "verbatim": false,
+    "src_title": "Nifty 50 ends 0.58% higher at 25,291.10 as smallcaps slide 1.10%",
+    "src_summary": "The Nifty 50 rose 146.80 points, or 0.58%, to close at 25,291.10 on 16 November 2026, but 1,937 NSE stocks fell against 792 that rose as smallcaps lost 1.10%.",
+    "title_hi": "Nifty 50 0.58% की बढ़त के साथ 25,291.10 पर बंद, smallcaps में 1.10% की गिरावट",
+    "summary_hi": "16 नवंबर 2026 को Nifty 50 146.80 अंक या 0.58% बढ़कर 25,291.10 पर बंद हुआ, लेकिन smallcaps में 1.10% की गिरावट के साथ 1,937 NSE शेयर गिरे जबकि 792 चढ़े।",
+    "why_hi": "मिलाजुला बाजार रुख।",
+    "chips_hi": {
+      "Nifty 50": "25,291.10",
+      "बढ़त": "0.58%",
+      "Smallcaps": "-1.10%"
+    }
+  },
+  {
+    "v": 3,
+    "cat": "Companies",
+    "tk": "MANGALAM DRUGS",
+    "title": "Mangalam Drugs tells NSE it defaulted on loans from two banks",
+    "summary": "Mangalam Drugs and Organics said in an NSE filing that it has defaulted for over 30 days on cash credit loans from Bank of Baroda and Bank of Maharashtra.",
+    "source": "Oquilia",
+    "published": "2026-11-16T12:47:20.638000+00:00",
+    "ago": "3h",
+    "impact": "Negative",
+    "why": "Loan default indicates financial stress.",
+    "url": "https://www.oquilia.com/news/mangalam-drugs-discloses-loan-default-bank-of-baroda-maharashtra",
+    "chips": {
+      "Default Period": "30 days"
+    },
+    "trend": [
+      0.95,
+      0.85,
+      0.7,
+      0.6,
+      0.4,
+      0.3,
+      0.1
+    ],
+    "color": "9B2C2C",
+    "premium": false,
+    "verbatim": false,
+    "src_title": "Mangalam Drugs tells NSE it defaulted on loans from two banks",
+    "src_summary": "Mangalam Drugs and Organics said in an NSE filing that it has defaulted for over 30 days on cash credit loans from Bank of Baroda and Bank of Maharashtra.",
+    "hi_tries": 1,
+    "title_hi": "Mangalam Drugs ने NSE को बताया कि उसने दो बैंकों के ऋणों पर डिफ़ॉल्ट किया है",
+    "summary_hi": "Mangalam Drugs and Organics ने NSE को दी गई एक फ़ाइलिंग में कहा कि उसने Bank of Baroda और Bank of Maharashtra से लिए गए कैश क्रेडिट ऋणों पर 30 दिनों से अधिक समय से डिफ़ॉल्ट किया है।",
+    "why_hi": "ऋण डिफ़ॉल्ट वित्तीय तनाव को दर्शाता है।",
+    "chips_hi": {
+      "डिफ़ॉल्ट अवधि": "30 दिन"
+    }
+  },
+  {
+    "v": 3,
     "cat": "Finance",
     "tk": "FINANCE",
     "title": "Dismissed from service, is gratuity gone? Section 4(6) and Supreme Court Ajay Babu ruling",
@@ -29,7 +106,9 @@
     "title_hi": "सेवा से बर्खास्त, क्या ग्रेच्युटी चली गई? धारा 4(6) और सुप्रीम कोर्ट का अजय बाबू फैसला",
     "summary_hi": "बर्खास्तगी से स्वचालित रूप से ग्रेच्युटी जब्त नहीं होती। धारा 4(6) और सुप्रीम कोर्ट के 2018 के अजय बाबू फैसले ने जब्ती को कैसे सीमित किया है, ग्रेच्युटी पर कर कैसे लगता है, और कटौती का निकासी पर क्या असर होता है।",
     "why_hi": "कर्मचारी लाभ पर सामान्य कानूनी जानकारी।",
-    "chips_hi": {}
+    "chips_hi": {},
+    "hi_tries": 0,
+    "hi_ver": 2
   },
   {
     "v": 3,
@@ -61,7 +140,9 @@
     "title_hi": "जब आपका किराएदार, खरीदार या रिश्तेदार एनआरआई के लिए टैक्समैन का ' एजेंट' बन जाता है",
     "summary_hi": "Income-tax Act 2025 की धारा 306 टैक्स अधिकारी को एनआरआई को भुगतान करने वाले किराएदार, खरीदार या रिश्तेदार को एनआरआई का एजेंट मानने की अनुमति देती है, लेकिन केवल सुनवाई के बाद। यहाँ बताया गया है कि कौन पकड़ा जाता है और टीडीएस आपकी कैसे रक्षा करता है।",
     "why_hi": "एनआरआई लेनदेन के लिए कर नियम स्पष्टीकरण।",
-    "chips_hi": {}
+    "chips_hi": {},
+    "hi_tries": 0,
+    "hi_ver": 2
   },
   {
     "v": 3,
@@ -1476,86 +1557,6 @@
       "धारा": "158",
       "अधिनियम": "Income-tax Act 2025",
       "फॉर्म": "Form 40"
-    },
-    "hi_tries": 0,
-    "hi_ver": 2
-  },
-  {
-    "v": 3,
-    "cat": "Earnings",
-    "tk": "GILLETTE INDIA",
-    "title": "Gillette India Q2 net profit rises 10.8% to Rs 159.1 crore",
-    "summary": "Gillette India said in an NSE filing that its standalone net profit for the September 2026 quarter was Rs 159.1 crore, up 10.8% year on year, on revenue of Rs 846.1 crore.",
-    "source": "Oquilia",
-    "published": "2026-11-13T07:46:38.067000+00:00",
-    "ago": "1h",
-    "impact": "Positive",
-    "why": "Net profit and revenue increased year-on-year.",
-    "url": "https://www.oquilia.com/news/gillette-india-q2-results-net-profit-rises-10-8-percent-rs-159-crore",
-    "chips": {
-      "Net Profit": "Rs 159.1 crore",
-      "Profit Growth": "10.8%",
-      "Revenue": "Rs 846.1 crore"
-    },
-    "trend": [
-      0.1,
-      0.25,
-      0.2,
-      0.5,
-      0.45,
-      0.8,
-      0.95
-    ],
-    "color": "0F766E",
-    "premium": false,
-    "verbatim": false,
-    "src_title": "Gillette India Q2 results: net profit rises 10.8% to Rs 159.1 crore",
-    "src_summary": "Gillette India said in an NSE filing that its standalone net profit for the September 2026 quarter was Rs 159.1 crore, up 10.8% year on year, on revenue of Rs 846.1 crore.",
-    "title_hi": "Gillette India Q2 net profit 10.8% बढ़कर Rs 159.1 crore हुआ",
-    "summary_hi": "Gillette India ने NSE फाइलिंग में कहा कि सितंबर 2026 तिमाही के लिए उसका स्टैंडअलोन शुद्ध लाभ साल-दर-साल 10.8% बढ़कर Rs 159.1 crore रहा, और राजस्व Rs 846.1 crore रहा।",
-    "why_hi": "शुद्ध लाभ और राजस्व में वृद्धि हुई।",
-    "chips_hi": {
-      "Net Profit": "Rs 159.1 crore",
-      "Profit Growth": "10.8%",
-      "Revenue": "Rs 846.1 crore"
-    },
-    "hi_tries": 0,
-    "hi_ver": 2
-  },
-  {
-    "v": 3,
-    "cat": "Companies",
-    "tk": "PTC INDUSTRIES",
-    "title": "PTC Industries independent director resigns, citing personal commitments",
-    "summary": "PTC Industries told the National Stock Exchange that a non-executive independent director resigned on 12 November 2026, citing personal commitments and unavoidable pre-occupations.",
-    "source": "Oquilia",
-    "published": "2026-11-13T03:46:44.866000+00:00",
-    "ago": "5h",
-    "impact": "Neutral",
-    "why": "Routine resignation of an independent director.",
-    "url": "https://www.oquilia.com/news/ptc-industries-independent-director-resigns-personal-commitments",
-    "chips": {
-      "Resignation Date": "12 November 2026"
-    },
-    "trend": [
-      0.5,
-      0.55,
-      0.45,
-      0.5,
-      0.47,
-      0.52,
-      0.5
-    ],
-    "color": "B7791F",
-    "premium": false,
-    "verbatim": false,
-    "src_title": "PTC Industries independent director resigns, citing personal commitments",
-    "src_summary": "PTC Industries told the National Stock Exchange that a non-executive independent director resigned on 12 November 2026, citing personal commitments and unavoidable pre-occupations.",
-    "title_hi": "PTC Industries के स्वतंत्र निदेशक ने व्यक्तिगत प्रतिबद्धताओं का हवाला देते हुए इस्तीफा दिया",
-    "summary_hi": "PTC Industries ने नेशनल स्टॉक एक्सचेंज को बताया कि एक गैर-कार्यकारी स्वतंत्र निदेशक ने व्यक्तिगत प्रतिबद्धताओं और अपरिहार्य व्यस्तताओं का हवाला देते हुए 12 नवंबर 2026 को इस्तीफा दे दिया।",
-    "why_hi": "स्वतंत्र निदेशक का सामान्य इस्तीफा।",
-    "chips_hi": {
-      "इस्तीफा की तारीख": "12 नवंबर 2026"
     },
     "hi_tries": 0,
     "hi_ver": 2
