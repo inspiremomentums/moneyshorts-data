@@ -29,6 +29,7 @@ jobs:
           git config user.name "news-bot"
           git config user.email "news-bot@users.noreply.github.com"
           git add money_shorts.txt
+          git add economy.json 2>/dev/null || true
           if git diff --cached --quiet; then
             echo "No changes to save"
           else
