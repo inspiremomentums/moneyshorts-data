@@ -1,6 +1,44 @@
 [
   {
     "v": 3,
+    "cat": "Markets",
+    "tk": "MARKETS",
+    "title": "Nifty 50 at 25,291 after Monday gain as midcaps and smallcaps slip",
+    "summary": "The Nifty 50 closed Monday at 25,291.1, up 146.8 points, but 1,937 stocks fell against 792 that rose as midcaps lost 0.51% and smallcaps 1.1%.",
+    "source": "Oquilia",
+    "published": "2026-11-17T02:33:17.550000+00:00",
+    "ago": "27m",
+    "impact": "Neutral",
+    "why": "Broad market trend shows mixed sentiment.",
+    "url": "https://www.oquilia.com/news/nifty-50-pre-market-17-november-2026",
+    "chips": {
+      "Nifty 50": "25,291.1",
+      "Gain": "146.8 points"
+    },
+    "trend": [
+      0.5,
+      0.55,
+      0.45,
+      0.5,
+      0.47,
+      0.52,
+      0.5
+    ],
+    "color": "B7791F",
+    "premium": false,
+    "verbatim": false,
+    "src_title": "Pre-market: Nifty 50 at 25,291 after Monday gain as midcaps and smallcaps slip",
+    "src_summary": "The Nifty 50 closed Monday at 25,291.1, up 146.8 points, but 1,937 stocks fell against 792 that rose as midcaps lost 0.51% and smallcaps 1.1%.",
+    "title_hi": "सोमवार की बढ़त के बाद Nifty 50 25,291 पर, जबकि मिडकैप और स्मॉलकैप गिरे",
+    "summary_hi": "Nifty 50 सोमवार को 25,291.1 पर बंद हुआ, जो 146.8 अंक ऊपर था, लेकिन 1,937 शेयर गिरे जबकि 792 चढ़े क्योंकि मिडकैप में 0.51% और स्मॉलकैप में 1.1% की गिरावट आई।",
+    "why_hi": "व्यापक बाजार रुख मिश्रित भावना दिखाता है।",
+    "chips_hi": {
+      "Nifty 50": "25,291.1",
+      "बढ़त": "146.8 अंक"
+    }
+  },
+  {
+    "v": 3,
     "cat": "Finance",
     "tk": "FINANCE",
     "title": "Gifted Money to Your Spouse or Child? Section 99 of the Income-tax Act 2025 Adds the Income Back to Yours, With These Exceptions",
@@ -29,7 +67,8 @@
     "verbatim": false,
     "src_title": "Gifted Money to Your Spouse or Child? Section 99 of the Income-tax Act 2025 Adds the Income Back to Yours, With These Exceptions",
     "src_summary": "Section 99 of the Income-tax Act 2025 clubs income from assets gifted to a spouse, son's wife or minor child with the giver's own. Worked example, Rs 29,120 cost and the exceptions.",
-    "hi_tries": 1
+    "hi_tries": 1,
+    "hi_ver": 2
   },
   {
     "v": 3,
@@ -1512,44 +1551,6 @@
       "शुद्ध लाभ गिरावट": "61%",
       "शुद्ध लाभ": "Rs 203 crore",
       "राजस्व गिरावट": "29%"
-    },
-    "hi_tries": 0,
-    "hi_ver": 2
-  },
-  {
-    "v": 3,
-    "cat": "Companies",
-    "tk": "COMPANIES",
-    "title": "McNally Bharat independent director resigns citing conflict",
-    "summary": "McNally Bharat Engineering told the National Stock Exchange that a non-executive independent director resigned from its board from 12 November 2026, to avoid a potential conflict of interest, the letter says.",
-    "source": "Oquilia",
-    "published": "2026-11-13T09:49:42.827000+00:00",
-    "ago": "34m",
-    "impact": "Negative",
-    "why": "Board resignation creates corporate governance uncertainty.",
-    "url": "https://www.oquilia.com/news/mcnally-bharat-independent-director-resignation-nse-filing",
-    "chips": {
-      "Resignation Date": "12 November 2026"
-    },
-    "trend": [
-      0.95,
-      0.85,
-      0.7,
-      0.6,
-      0.4,
-      0.3,
-      0.1
-    ],
-    "color": "9B2C2C",
-    "premium": false,
-    "verbatim": false,
-    "src_title": "McNally Bharat independent director resigns, cites conflict of interest",
-    "src_summary": "McNally Bharat Engineering told the National Stock Exchange that a non-executive independent director resigned from its board from 12 November 2026, to avoid a potential conflict of interest, the letter says.",
-    "title_hi": "McNally Bharat के स्वतंत्र निदेशक ने संघर्ष का हवाला देकर दिया इस्तीफा",
-    "summary_hi": "McNally Bharat Engineering ने National Stock Exchange को बताया कि एक गैर-कार्यकारी स्वतंत्र निदेशक ने 12 November 2026 से अपने बोर्ड से इस्तीफा दे दिया है, पत्र में कहा गया है कि यह संभावित हितों के टकराव से बचने के लिए था।",
-    "why_hi": "बोर्ड से इस्तीफा कॉर्पोरेट प्रशासन अनिश्चितता पैदा करता है।",
-    "chips_hi": {
-      "इस्तीफा तिथि": "12 November 2026"
     },
     "hi_tries": 0,
     "hi_ver": 2
