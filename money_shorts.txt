@@ -1,6 +1,38 @@
 [
   {
     "v": 3,
+    "cat": "Finance",
+    "tk": "FINANCE",
+    "title": "Gifted Money to Your Spouse or Child? Section 99 of the Income-tax Act 2025 Adds the Income Back to Yours, With These Exceptions",
+    "summary": "Section 99 of the Income-tax Act 2025 clubs income from assets gifted to a spouse, son's wife or minor child with the giver's own. Worked example, Rs 29,120 cost and the exceptions.",
+    "source": "Oquilia",
+    "published": "2026-11-17T00:41:11.533000+00:00",
+    "ago": "1h",
+    "impact": "Neutral",
+    "why": "Tax rule update without direct fundamental impact.",
+    "url": "https://www.oquilia.com/news/oquilia-research-clubbing-of-income-spouse-minor-child-section-99",
+    "chips": {
+      "Section": "99",
+      "Cost": "Rs 29,120"
+    },
+    "trend": [
+      0.5,
+      0.55,
+      0.45,
+      0.5,
+      0.47,
+      0.52,
+      0.5
+    ],
+    "color": "B7791F",
+    "premium": false,
+    "verbatim": false,
+    "src_title": "Gifted Money to Your Spouse or Child? Section 99 of the Income-tax Act 2025 Adds the Income Back to Yours, With These Exceptions",
+    "src_summary": "Section 99 of the Income-tax Act 2025 clubs income from assets gifted to a spouse, son's wife or minor child with the giver's own. Worked example, Rs 29,120 cost and the exceptions.",
+    "hi_tries": 1
+  },
+  {
+    "v": 3,
     "cat": "Markets",
     "tk": "MARKETS",
     "title": "Nifty 50 ends 0.58% higher at 25,291.10 as smallcaps slide 1.10%",
@@ -37,7 +69,9 @@
       "Nifty 50": "25,291.10",
       "बढ़त": "0.58%",
       "Smallcaps": "-1.10%"
-    }
+    },
+    "hi_tries": 0,
+    "hi_ver": 2
   },
   {
     "v": 3,
@@ -68,13 +102,14 @@
     "verbatim": false,
     "src_title": "Mangalam Drugs tells NSE it defaulted on loans from two banks",
     "src_summary": "Mangalam Drugs and Organics said in an NSE filing that it has defaulted for over 30 days on cash credit loans from Bank of Baroda and Bank of Maharashtra.",
-    "hi_tries": 1,
+    "hi_tries": 0,
     "title_hi": "Mangalam Drugs ने NSE को बताया कि उसने दो बैंकों के ऋणों पर डिफ़ॉल्ट किया है",
     "summary_hi": "Mangalam Drugs and Organics ने NSE को दी गई एक फ़ाइलिंग में कहा कि उसने Bank of Baroda और Bank of Maharashtra से लिए गए कैश क्रेडिट ऋणों पर 30 दिनों से अधिक समय से डिफ़ॉल्ट किया है।",
     "why_hi": "ऋण डिफ़ॉल्ट वित्तीय तनाव को दर्शाता है।",
     "chips_hi": {
       "डिफ़ॉल्ट अवधि": "30 दिन"
-    }
+    },
+    "hi_ver": 2
   },
   {
     "v": 3,
@@ -1515,48 +1550,6 @@
     "why_hi": "बोर्ड से इस्तीफा कॉर्पोरेट प्रशासन अनिश्चितता पैदा करता है।",
     "chips_hi": {
       "इस्तीफा तिथि": "12 November 2026"
-    },
-    "hi_tries": 0,
-    "hi_ver": 2
-  },
-  {
-    "v": 3,
-    "cat": "Finance",
-    "tk": "FINANCE",
-    "title": "Income-tax Act 2025 Section 158 avoids double taxation on foreign pension accounts",
-    "summary": "Section 158 of the Income-tax Act 2025 lets returning residents align Indian tax on a 401(k), UK pension or RRSP with the year of withdrawal, via Form 40. What the law says.",
-    "source": "Oquilia",
-    "published": "2026-11-13T09:06:50.989000+00:00",
-    "ago": "1h",
-    "impact": "Neutral",
-    "why": "Clarifies tax rules for foreign pensions.",
-    "url": "https://www.oquilia.com/news/oquilia-research-returning-nri-401k-foreign-retirement-account-section-158",
-    "chips": {
-      "Section": "158",
-      "Act": "Income-tax Act 2025",
-      "Form": "Form 40"
-    },
-    "trend": [
-      0.5,
-      0.55,
-      0.45,
-      0.5,
-      0.47,
-      0.52,
-      0.5
-    ],
-    "color": "B7791F",
-    "premium": false,
-    "verbatim": false,
-    "src_title": "Moved Back With a 401(k) or Foreign Pension Account? How Section 158 of the Income-tax Act 2025 Avoids Taxing It Twice",
-    "src_summary": "Section 158 of the Income-tax Act 2025 lets returning residents align Indian tax on a 401(k), UK pension or RRSP with the year of withdrawal, via Form 40. What the law says.",
-    "title_hi": "Income-tax Act 2025 की धारा 158 विदेशी पेंशन खातों पर दोहरे कराधान से बचाती है",
-    "summary_hi": "Income-tax Act 2025 की धारा 158 भारत लौटने वाले निवासियों को Form 40 के माध्यम से 401(k), UK pension या RRSP पर भारतीय कर को निकासी के वर्ष के साथ संरेखित करने देती है। कानून क्या कहता है।",
-    "why_hi": "विदेशी पेंशन के लिए कर नियमों को स्पष्ट करता है।",
-    "chips_hi": {
-      "धारा": "158",
-      "अधिनियम": "Income-tax Act 2025",
-      "फॉर्म": "Form 40"
     },
     "hi_tries": 0,
     "hi_ver": 2
