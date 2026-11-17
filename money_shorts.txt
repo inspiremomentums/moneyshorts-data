@@ -3,6 +3,80 @@
     "v": 3,
     "cat": "Companies",
     "tk": "COMPANIES",
+    "title": "Operational creditors had 9 of 26 companies admitted to insolvency over Rs 41.24 crore",
+    "summary": "Suppliers and other operational creditors brought 9 of 26 insolvency admissions in a month, with claims of Rs 41.24 crore against Rs 727.78 crore in 11 lender cases.",
+    "source": "Oquilia",
+    "published": "2026-11-17T06:53:11.962000+00:00",
+    "ago": "1h",
+    "impact": "Neutral",
+    "why": "Insolvency data reporting",
+    "url": "https://www.oquilia.com/news/operational-creditors-9-of-26-insolvency-admissions-17-november-2026",
+    "chips": {
+      "Admissions": "9 of 26",
+      "Claims": "Rs 41.24 crore"
+    },
+    "trend": [
+      0.5,
+      0.55,
+      0.45,
+      0.5,
+      0.47,
+      0.52,
+      0.5
+    ],
+    "color": "B7791F",
+    "premium": false,
+    "verbatim": false,
+    "src_title": "Operational creditors had 9 of 26 companies admitted to insolvency over Rs 41.24 crore",
+    "src_summary": "Suppliers and other operational creditors brought 9 of 26 insolvency admissions in a month, with claims of Rs 41.24 crore against Rs 727.78 crore in 11 lender cases.",
+    "title_hi": "Operational creditors ने 41.24 करोड़ रुपये के लिए 26 में से 9 कंपनियों को दिवालिया घोषित किया",
+    "summary_hi": "आपूर्तिकर्ताओं और अन्य operational creditors ने एक महीने में 26 में से 9 insolvency admissions किए, जिसमें 11 lender cases में 727.78 करोड़ रुपये के मुकाबले 41.24 करोड़ रुपये के दावे शामिल हैं।",
+    "why_hi": "दिवालियापन डेटा रिपोर्टिंग",
+    "chips_hi": {
+      "Admissions": "9 of 26",
+      "Claims": "Rs 41.24 crore"
+    }
+  },
+  {
+    "v": 3,
+    "cat": "Markets",
+    "tk": "DIXON",
+    "title": "Dixon Technologies signs deal to buy Vimal Plast assets for up to Rs 49.75 crore",
+    "summary": "Dixon Technologies said in a filing with the National Stock Exchange that it signed an asset purchase agreement with Vimal Plast (India) Private Limited, for up to Rs 49.75 crore before taxes.",
+    "source": "Oquilia",
+    "published": "2026-11-17T06:46:03.346000+00:00",
+    "ago": "1h",
+    "impact": "Positive",
+    "why": "Asset acquisition can expand manufacturing capabilities.",
+    "url": "https://www.oquilia.com/news/dixon-technologies-asset-purchase-vimal-plast-49-75-crore",
+    "chips": {
+      "Deal Value": "Rs 49.75 crore"
+    },
+    "trend": [
+      0.1,
+      0.25,
+      0.2,
+      0.5,
+      0.45,
+      0.8,
+      0.95
+    ],
+    "color": "0F766E",
+    "premium": false,
+    "verbatim": false,
+    "src_title": "Dixon Technologies signs deal to buy Vimal Plast assets for up to Rs 49.75 crore",
+    "src_summary": "Dixon Technologies said in a filing with the National Stock Exchange that it signed an asset purchase agreement with Vimal Plast (India) Private Limited, for up to Rs 49.75 crore before taxes.",
+    "title_hi": "Dixon Technologies ने Rs 49.75 करोड़ तक में Vimal Plast की संपत्ति खरीदने का सौदा किया",
+    "summary_hi": "Dixon Technologies ने नेशनल स्टॉक एक्सचेंज को दी गई जानकारी में बताया कि उसने Vimal Plast (India) Private Limited के साथ टैक्स से पहले Rs 49.75 करोड़ तक के संपत्ति खरीद समझौते पर हस्ताक्षर किए हैं।",
+    "why_hi": "संपत्ति अधिग्रहण से विनिर्माण क्षमता का विस्तार हो सकता है।",
+    "chips_hi": {
+      "सौदा मूल्य": "Rs 49.75 crore"
+    }
+  },
+  {
+    "v": 3,
+    "cat": "Companies",
+    "tk": "COMPANIES",
     "title": "Carysil's Group CFO and executive director resigns",
     "summary": "Carysil Limited said in a filing with the National Stock Exchange that its executive director and group chief financial officer has ceased to hold office from 16 November 2026.",
     "source": "Oquilia",
@@ -33,7 +107,9 @@
     "why_hi": "प्रमुख प्रबंधन के जाने से अनिश्चितता।",
     "chips_hi": {
       "इस्तीफा तिथि": "16 नवंबर 2026"
-    }
+    },
+    "hi_tries": 0,
+    "hi_ver": 2
   },
   {
     "v": 3,
@@ -65,14 +141,15 @@
     "verbatim": false,
     "src_title": "Mahanadi Coalfields sets Rs 129-136 band for Coal India-led OFS IPO",
     "src_summary": "Coal India's subsidiary Mahanadi Coalfields has set a Rs 129-136 price band for its offer for sale of up to 66.18 crore shares, open from November 19 to 23, 2026.",
-    "hi_tries": 1,
+    "hi_tries": 0,
     "title_hi": "महानदी कोलफील्ड्स ने Coal India-led OFS IPO के लिए 129-136 रुपये का दायरा तय किया",
     "summary_hi": "Coal India की सहायक कंपनी महानदी कोलफील्ड्स ने 19 से 23 नवंबर, 2026 तक खुलने वाले अपने 66.18 करोड़ तक के शेयरों की बिक्री के ऑफर के लिए 129-136 रुपये का मूल्य दायरा तय किया है।",
     "why_hi": "सहायक कंपनी द्वारा OFS लॉन्च",
     "chips_hi": {
       "मूल्य दायरा": "Rs 129-136",
       "शेयर": "66.18 crore"
-    }
+    },
+    "hi_ver": 2
   },
   {
     "v": 3,
@@ -112,7 +189,9 @@
       "शेयर": "2.89 करोड़",
       "QIP आकार": "Rs 3,500 crore",
       "मूल्य": "Rs 1,210"
-    }
+    },
+    "hi_tries": 0,
+    "hi_ver": 2
   },
   {
     "v": 3,
@@ -150,7 +229,9 @@
     "chips_hi": {
       "इश्यू प्राइस": "Rs 1,025",
       "शेयर आवंटित": "114,146,341"
-    }
+    },
+    "hi_tries": 0,
+    "hi_ver": 2
   },
   {
     "v": 3,
@@ -182,7 +263,9 @@
     "title_hi": "Calcutta High Court ने borrower के CIBIL record को ठीक करने के Indian Bank को आदेश देने से किया इनकार",
     "summary_hi": "Calcutta High Court ने CIBIL report से 'Loss' tag हटाने की कंपनी की याचिका खारिज कर दी, यह कहते हुए कि Indian Bank के साथ one-time settlement पर इसका विवाद DRT के समक्ष होना चाहिए।",
     "why_hi": "नियमित बैंकिंग विवाद पर अदालत का फैसला।",
-    "chips_hi": {}
+    "chips_hi": {},
+    "hi_tries": 0,
+    "hi_ver": 2
   },
   {
     "v": 3,
@@ -1470,76 +1553,6 @@
       "राजस्व": "Rs 96,920 crore"
     },
     "hi_tries": 0,
-    "hi_ver": 2
-  },
-  {
-    "v": 3,
-    "cat": "Markets",
-    "tk": "MARKETS",
-    "title": "Nifty 50 ends 0.61% lower at 25,144.30 as realty and auto decline",
-    "summary": "The Nifty 50 closed at 25,144.30 on 13 November 2026, down 155.05 points or 0.61%, as 1,777 NSE stocks declined against 939 that advanced.",
-    "source": "Oquilia",
-    "published": "2026-11-13T15:34:28.859000+00:00",
-    "ago": "10h",
-    "impact": "Negative",
-    "why": "Market indices closed lower amid broad decline.",
-    "url": "https://www.oquilia.com/news/stock-market-today-nifty-50-closing-13-november-2026",
-    "chips": {
-      "Nifty 50": "25,144.30",
-      "Decline": "0.61%"
-    },
-    "trend": [
-      0.95,
-      0.85,
-      0.7,
-      0.6,
-      0.4,
-      0.3,
-      0.1
-    ],
-    "color": "9B2C2C",
-    "premium": false,
-    "verbatim": false,
-    "src_title": "Nifty 50 ends 0.61% lower at 25,144.30 as realty and auto lead the decline",
-    "src_summary": "The Nifty 50 closed at 25,144.30 on 13 November 2026, down 155.05 points or 0.61%, as 1,777 NSE stocks declined against 939 that advanced.",
-    "title_hi": "Nifty 50 गिरकर 25,144.30 पर बंद, रियल्टी और ऑटो में गिरावट",
-    "summary_hi": "Nifty 50 13 नवंबर 2026 को 155.05 अंक या 0.61% की गिरावट के साथ 25,144.30 पर बंद हुआ, क्योंकि NSE के 1,777 शेयर गिरे जबकि 939 चढ़े।",
-    "why_hi": "बाजार सूचकांक में व्यापक गिरावट आई।",
-    "chips_hi": {
-      "Nifty 50": "25,144.30",
-      "गिरावट": "0.61%"
-    },
-    "hi_tries": 0,
-    "hi_ver": 2
-  },
-  {
-    "v": 3,
-    "cat": "Companies",
-    "tk": "COMPANIES",
-    "title": "IBBI suspends liquidator for two years over SBI vote cut in Manglam Fiscal case",
-    "summary": "IBBI suspended an insolvency professional for two years, finding the liquidator cut SBI's voting share to block its own replacement in Manglam Fiscal Services' liquidation.",
-    "source": "Oquilia",
-    "published": "2026-11-13T14:45:17.886000+00:00",
-    "ago": "11h",
-    "impact": "Neutral",
-    "why": "Regulatory action against liquidator in specific case.",
-    "url": "https://www.oquilia.com/news/ibbi-suspends-liquidator-sbi-vote-cut-manglam-fiscal",
-    "chips": {},
-    "trend": [
-      0.5,
-      0.55,
-      0.45,
-      0.5,
-      0.47,
-      0.52,
-      0.5
-    ],
-    "color": "B7791F",
-    "premium": false,
-    "verbatim": false,
-    "src_title": "IBBI suspends liquidator for two years over SBI vote cut in Manglam Fiscal case",
-    "src_summary": "IBBI suspended an insolvency professional for two years, finding the liquidator cut SBI's voting share to block its own replacement in Manglam Fiscal Services' liquidation.",
-    "hi_tries": 2,
     "hi_ver": 2
   }
 ]

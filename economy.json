@@ -1,0 +1,32 @@
+{
+  "source": "World Bank",
+  "licence": "CC BY 4.0",
+  "attribution": "The World Bank: World Development Indicators (CC BY 4.0). Not endorsed by The World Bank.",
+  "updated": "2026-11-17T07:52:54.600332+00:00",
+  "items": [
+    {
+      "id": "NY.GDP.MKTP.KD.ZG",
+      "name": "GDP growth (annual %)",
+      "name_hi": "जीडीपी वृद्धि (वार्षिक %)",
+      "display": "7.6%",
+      "year": 2025,
+      "explain": "How fast India's economy grew during the year, after adjusting for price changes.",
+      "explain_hi": "कीमतों में बदलाव को हटाकर, साल के दौरान भारत की अर्थव्यवस्था कितनी तेज़ी से बढ़ी।",
+      "url": "https://data.worldbank.org/indicator/NY.GDP.MKTP.KD.ZG?locations=IN",
+      "prev_display": "7.1%",
+      "prev_year": 2024
+    },
+    {
+      "id": "FP.CPI.TOTL.ZG",
+      "name": "Inflation, consumer prices (annual %)",
+      "name_hi": "महँगाई, उपभोक्ता कीमतें (वार्षिक %)",
+      "display": "2.4%",
+      "year": 2025,
+      "explain": "How much consumer prices rose over the year. The RBI watches this when it sets interest rates.",
+      "explain_hi": "साल में उपभोक्ता कीमतें कितनी बढ़ीं। ब्याज दरें तय करते समय आरबीआई इस पर नज़र रखता है।",
+      "url": "https://data.worldbank.org/indicator/FP.CPI.TOTL.ZG?locations=IN",
+      "prev_display": "5.0%",
+      "prev_year": 2024
+    }
+  ]
+}
