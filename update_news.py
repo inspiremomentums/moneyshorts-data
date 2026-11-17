@@ -25,15 +25,6 @@ FEEDS = [
     # also leave out enforcement and courts), refresh every few hours, drop dead links.
     {"name": "Oquilia", "url": "https://www.oquilia.com/api/v1/news?limit=50",
      "kind": "oquilia", "cat": "Markets"},
-    # PIB (Government of India). Its copyright policy allows free reproduction without prior
-    # approval if the material is accurate, not misleading, excludes third-party material, and
-    # the source is prominently acknowledged. Kept to finance-related releases. Check in a
-    # browser that this address opens an English feed; the log shows "Could not read" if not.
-    {"name": "PIB", "url": "https://pib.gov.in/RssMain.aspx?ModId=6&Lang=1&Regid=3",
-     "cat": "Economy", "verbatim": True,
-     "keywords": r"\b(RBI|Reserve Bank|SEBI|GST|tax|taxes|customs|export|exports|import|imports|trade|tariff|"
-                 r"bank|banks|banking|insurance|pension|inflation|GDP|rupee|forex|FDI|investment|IPO|stock|"
-                 r"capital market|mutual fund|credit|loan|fiscal|budget|Ministry of Finance|Corporate Affairs|MSME)\b"},
     # Capital Data Wire: its attribution page says content is free to republish in full or in part
     # with credit and a link, with no fee or permission. It is US-focused and AI-written, so we only
     # keep items that mention India, and cards still carry the "not investment advice" note.
@@ -44,6 +35,11 @@ FEEDS = [
 
 # Switched off until we have permission. To use one, move its line up into FEEDS.
 OTHER_FEEDS = [
+    # PIB is parked: its feed gives only headlines (no description), and the release text on its
+    # pages loads through JavaScript, so there is nothing to summarise yet. The address below
+    # returned Hindi items in a live run; the English feed may use a different Lang number.
+    {"name": "PIB", "url": "https://pib.gov.in/RssMain.aspx?ModId=6&Lang=1&Regid=3",
+     "cat": "Economy", "verbatim": True},
     {"name": "Business Standard", "url": "https://www.business-standard.com/rss/latest.rss", "kind": "bs"},
     {"name": "Mint", "url": "https://www.livemint.com/rss/markets", "cat": "Markets"},
     {"name": "Mint", "url": "https://www.livemint.com/rss/companies", "cat": "Companies"},
@@ -521,8 +517,116 @@ def link_alive(url):
         return True
 
 
+# ---------- Economy figures (World Bank, CC BY 4.0) ----------
+# The World Bank's dataset terms allow reuse under CC BY 4.0 with attribution in the form
+# "The World Bank: Dataset name: Data source", and no suggestion that it endorses the app.
+# Some indicators come from third parties, so check each indicator page for its licence label.
+ECON_FILE = "economy.json"
+WB_URL = "https://api.worldbank.org/v2/country/IND/indicator/{code}?format=json&per_page=15"
+ECON_MAX_AGE_YEARS = 4  # skip a figure whose latest year is older than this
+ECON_ATTRIBUTION = ("The World Bank: World Development Indicators (CC BY 4.0). "
+                    "Not endorsed by The World Bank.")
+# code, English name, Hindi name, kind, English note, Hindi note
+ECONOMY = [
+    ("NY.GDP.MKTP.KD.ZG", "GDP growth (annual %)", "जीडीपी वृद्धि (वार्षिक %)", "pct",
+     "How fast India's economy grew during the year, after adjusting for price changes.",
+     "कीमतों में बदलाव को हटाकर, साल के दौरान भारत की अर्थव्यवस्था कितनी तेज़ी से बढ़ी।"),
+    ("FP.CPI.TOTL.ZG", "Inflation, consumer prices (annual %)", "महँगाई, उपभोक्ता कीमतें (वार्षिक %)", "pct",
+     "How much consumer prices rose over the year. The RBI watches this when it sets interest rates.",
+     "साल में उपभोक्ता कीमतें कितनी बढ़ीं। ब्याज दरें तय करते समय आरबीआई इस पर नज़र रखता है।"),
+    ("SL.UEM.TOTL.ZS", "Unemployment rate", "बेरोज़गारी दर", "pct",
+     "The share of people in the workforce who want a job but cannot find one (a modelled estimate).",
+     "श्रमबल में उन लोगों का हिस्सा जो नौकरी चाहते हैं पर पा नहीं रहे (मॉडल आधारित अनुमान)।"),
+    ("FR.INR.LEND", "Lending interest rate", "उधारी ब्याज दर", "pct",
+     "The rate banks typically charge their best customers on loans.",
+     "बैंक अपने सबसे अच्छे ग्राहकों से कर्ज़ पर आम तौर पर जो दर लेते हैं।"),
+    ("FR.INR.RINR", "Real interest rate", "वास्तविक ब्याज दर", "pct",
+     "The lending rate after taking out inflation. It shows the true cost of borrowing.",
+     "महँगाई घटाने के बाद की कर्ज़ दर। यह उधार लेने की असली लागत दिखाती है।"),
+    ("PA.NUS.FCRF", "Exchange rate (₹ per US$)", "विनिमय दर (₹ प्रति US$)", "inr",
+     "How many rupees one US dollar bought, on average, during the year.",
+     "साल में औसतन एक अमेरिकी डॉलर के बदले कितने रुपये मिले।"),
+    ("FI.RES.TOTL.CD", "Total reserves incl. gold", "कुल भंडार (सोना सहित)", "usd_bn",
+     "Foreign currency and gold held by the country. These reserves help the RBI manage the rupee.",
+     "देश के पास रखी विदेशी मुद्रा और सोना। ये भंडार आरबीआई को रुपये को सँभालने में मदद करते हैं।"),
+    ("BN.CAB.XOKA.GD.ZS", "Current account balance (% of GDP)", "चालू खाता शेष (जीडीपी का %)", "pct",
+     "India's income and spending with the rest of the world. A negative number means India pays out more than it earns abroad.",
+     "बाकी दुनिया के साथ भारत की कमाई और खर्च। नकारात्मक संख्या का मतलब है कि भारत विदेश से कमाने से ज़्यादा बाहर भेजता है।"),
+    ("NE.EXP.GNFS.ZS", "Exports of goods and services (% of GDP)", "वस्तुओं और सेवाओं का निर्यात (जीडीपी का %)", "pct",
+     "The value of goods and services India sells abroad, compared with the size of the economy.",
+     "भारत जो वस्तुएँ और सेवाएँ विदेश में बेचता है उनका मूल्य, अर्थव्यवस्था के आकार की तुलना में।"),
+    ("BX.KLT.DINV.WD.GD.ZS", "Foreign direct investment, net inflows (% of GDP)", "प्रत्यक्ष विदेशी निवेश, शुद्ध आवक (जीडीपी का %)", "pct",
+     "Money that foreign investors put directly into businesses in India, compared with the size of the economy.",
+     "विदेशी निवेशक भारत के कारोबारों में सीधे जितना पैसा लगाते हैं, अर्थव्यवस्था के आकार की तुलना में।"),
+    ("NE.GDI.TOTL.ZS", "Gross capital formation (% of GDP)", "सकल पूँजी निर्माण (जीडीपी का %)", "pct",
+     "How much of the economy goes into new factories, roads, machines and homes.",
+     "अर्थव्यवस्था का कितना हिस्सा नए कारखानों, सड़कों, मशीनों और मकानों में जाता है।"),
+    ("NY.GNS.ICTR.ZS", "Gross savings (% of GDP)", "सकल बचत (जीडीपी का %)", "pct",
+     "How much of the country's income is saved instead of spent. Savings help fund investment.",
+     "देश की आमदनी का कितना हिस्सा खर्च होने के बजाय बचाया जाता है। बचत निवेश के लिए पैसा जुटाने में मदद करती है।"),
+]
+
+
+def wb_latest_two(code):
+    req = urllib.request.Request(WB_URL.format(code=code),
+                                 headers={"User-Agent": "Mozilla/5.0 (Bazaar Brief)"})
+    with urllib.request.urlopen(req, timeout=30) as r:
+        data = json.loads(r.read())
+    rows = data[1] or []
+    vals = [(int(x["date"]), float(x["value"])) for x in rows if x.get("value") is not None]
+    return sorted(vals, reverse=True)[:2]
+
+
+def show(kind, v):
+    if kind == "inr":
+        return f"₹{v:.2f}"
+    if kind == "usd_bn":
+        return f"US${v / 1e9:,.0f} billion"
+    return f"{v:.1f}%"
+
+
+def update_economy():
+    items = []
+    this_year = datetime.now(timezone.utc).year
+    for code, name, name_hi, kind, note, note_hi in ECONOMY:
+        try:
+            vals = wb_latest_two(code)
+        except Exception as e:
+            print(f"  economy: {code} failed ({type(e).__name__})")
+            continue
+        if not vals or vals[0][0] < this_year - ECON_MAX_AGE_YEARS:
+            print(f"  economy: {code} skipped (no recent value)")
+            continue
+        item = {"id": code, "name": name, "name_hi": name_hi, "display": show(kind, vals[0][1]),
+                "year": vals[0][0], "explain": note, "explain_hi": note_hi,
+                "url": f"https://data.worldbank.org/indicator/{code}?locations=IN"}
+        if len(vals) > 1:
+            item["prev_display"], item["prev_year"] = show(kind, vals[1][1]), vals[1][0]
+        items.append(item)
+    if not items:
+        print("economy: nothing to write")
+        return
+    try:
+        with open(ECON_FILE, encoding="utf-8") as f:
+            old = json.load(f)
+    except Exception:
+        old = {}
+    if old.get("items") == items:
+        print(f"economy: {len(items)} figures, unchanged")
+        return
+    out = {"source": "World Bank", "licence": "CC BY 4.0", "attribution": ECON_ATTRIBUTION,
+           "updated": datetime.now(timezone.utc).isoformat(), "items": items}
+    with open(ECON_FILE, "w", encoding="utf-8") as f:
+        f.write(json.dumps(out, ensure_ascii=False, indent=2) + "\n")
+    print(f"economy: {len(items)} figures written")
+
+
 # ---------- main ----------
 def main():
+    try:
+        update_economy()
+    except Exception as e:
+        print(f"economy: skipped ({type(e).__name__})")
     if not API_KEY:
         print("GEMINI_API_KEY is missing. Add it as a repository secret.")
         return 1
