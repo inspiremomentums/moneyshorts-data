@@ -195,12 +195,27 @@ def parse_items(xml_bytes, feed):
     return out
 
 
+def reject_reason(i):
+    """Why a story is not used, or None if it is wanted."""
+    if i["section"] not in KEEP_SECTIONS:
+        return "other section"
+    if i["source"] == "Sponsored Content":
+        return "sponsored"
+    if not i["title"] or not i["url"].startswith("https://"):
+        return "no title or link"
+    if words(i["desc"]) < 8:
+        return "description under 8 words"
+    if i.get("verbatim") and words(i["desc"]) > i.get("max_words", MAX_VERBATIM_WORDS):
+        return "description too long"
+    if i.get("kw") and not re.search(i["kw"], i["title"] + " " + i["desc"], re.I):
+        return "not finance or India related"
+    if i.get("verbatim") and DEVANAGARI.search(i["title"]):
+        return "Hindi title"
+    return None
+
+
 def wanted(i):
-    return (i["section"] in KEEP_SECTIONS and i["source"] != "Sponsored Content"
-            and i["title"] and i["url"].startswith("https://") and words(i["desc"]) >= 8
-            and (not i.get("verbatim") or words(i["desc"]) <= i.get("max_words", MAX_VERBATIM_WORDS))
-            and (not i.get("kw") or re.search(i["kw"], i["title"] + " " + i["desc"], re.I))
-            and not (i.get("verbatim") and DEVANAGARI.search(i["title"])))  # English only
+    return reject_reason(i) is None
 
 
 def category(i):
@@ -551,6 +566,15 @@ def main():
     old = kept
     seen = {s["url"] for s in old if s.get("v") == 3}  # older versions get redone
 
+    for f in FEEDS:  # one line per source: how many items were used, and why others were not
+        mine = [i for i in items if i["feed_url"] == f["url"]]
+        tally = {}
+        for i in mine:
+            r = reject_reason(i) or "USED"
+            tally[r] = tally.get(r, 0) + 1
+        print(f"  {f['name']}: {tally}")
+        if mine and "USED" not in tally:
+            print(f"    first item: {mine[0]['title'][:70]!r} / description {words(mine[0]['desc'])} words")
     good = sorted((i for i in items if wanted(i)), key=lambda i: i["published"], reverse=True)
     todo, count = [], {}
     for i in good:  # newest first; a few from each source so one feed cannot take every slot
