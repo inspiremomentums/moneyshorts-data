@@ -1,6 +1,191 @@
 [
   {
     "v": 3,
+    "cat": "Companies",
+    "tk": "COMPANIES",
+    "title": "Carysil's Group CFO and executive director resigns",
+    "summary": "Carysil Limited said in a filing with the National Stock Exchange that its executive director and group chief financial officer has ceased to hold office from 16 November 2026.",
+    "source": "Oquilia",
+    "published": "2026-11-17T05:46:07.803000+00:00",
+    "ago": "39m",
+    "impact": "Negative",
+    "why": "Key management departure creates leadership uncertainty.",
+    "url": "https://www.oquilia.com/news/carysil-group-cfo-executive-director-resigns-nse-filing",
+    "chips": {
+      "Resignation Date": "16 November 2026"
+    },
+    "trend": [
+      0.95,
+      0.85,
+      0.7,
+      0.6,
+      0.4,
+      0.3,
+      0.1
+    ],
+    "color": "9B2C2C",
+    "premium": false,
+    "verbatim": false,
+    "src_title": "Carysil's Group CFO and executive director resigns, company says in NSE filing",
+    "src_summary": "Carysil Limited said in a filing with the National Stock Exchange that its executive director and group chief financial officer has ceased to hold office from 16 November 2026.",
+    "title_hi": "Carysil के ग्रुप CFO और कार्यकारी निदेशक ने दिया इस्तीफा",
+    "summary_hi": "Carysil Limited ने नेशनल स्टॉक एक्सचेंज को दी गई फाइलिंग में कहा कि उसके कार्यकारी निदेशक और ग्रुप चीफ फाइनेंशियल ऑफिसर ने 16 नवंबर 2026 से पद छोड़ दिया है।",
+    "why_hi": "प्रमुख प्रबंधन के जाने से अनिश्चितता।",
+    "chips_hi": {
+      "इस्तीफा तिथि": "16 नवंबर 2026"
+    }
+  },
+  {
+    "v": 3,
+    "cat": "IPO",
+    "tk": "COAL INDIA",
+    "title": "Mahanadi Coalfields sets Rs 129-136 band for Coal India-led OFS IPO",
+    "summary": "Coal India's subsidiary Mahanadi Coalfields has set a Rs 129-136 price band for its offer for sale of up to 66.18 crore shares, open from November 19 to 23, 2026.",
+    "source": "Oquilia",
+    "published": "2026-11-17T04:24:09.399000+00:00",
+    "ago": "2h",
+    "impact": "Neutral",
+    "why": "OFS launch by subsidiary",
+    "url": "https://www.oquilia.com/news/mahanadi-coalfields-ipo-price-band-rs-129-136",
+    "chips": {
+      "Price Band": "Rs 129-136",
+      "Shares": "66.18 crore"
+    },
+    "trend": [
+      0.5,
+      0.55,
+      0.45,
+      0.5,
+      0.47,
+      0.52,
+      0.5
+    ],
+    "color": "B7791F",
+    "premium": false,
+    "verbatim": false,
+    "src_title": "Mahanadi Coalfields sets Rs 129-136 band for Coal India-led OFS IPO",
+    "src_summary": "Coal India's subsidiary Mahanadi Coalfields has set a Rs 129-136 price band for its offer for sale of up to 66.18 crore shares, open from November 19 to 23, 2026.",
+    "hi_tries": 1,
+    "title_hi": "महानदी कोलफील्ड्स ने Coal India-led OFS IPO के लिए 129-136 रुपये का दायरा तय किया",
+    "summary_hi": "Coal India की सहायक कंपनी महानदी कोलफील्ड्स ने 19 से 23 नवंबर, 2026 तक खुलने वाले अपने 66.18 करोड़ तक के शेयरों की बिक्री के ऑफर के लिए 129-136 रुपये का मूल्य दायरा तय किया है।",
+    "why_hi": "सहायक कंपनी द्वारा OFS लॉन्च",
+    "chips_hi": {
+      "मूल्य दायरा": "Rs 129-136",
+      "शेयर": "66.18 crore"
+    }
+  },
+  {
+    "v": 3,
+    "cat": "Markets",
+    "tk": "AEGIS LOGISTICS",
+    "title": "Aegis Logistics allots 2.89 crore shares in Rs 3,500 crore QIP at Rs 1,210",
+    "summary": "Aegis Logistics said in a filing with the National Stock Exchange that its fund raising committee approved allotment of 2,89,25,619 shares to 33 institutional buyers at Rs 1,210 a share, totalling Rs 3,500 crore.",
+    "source": "Oquilia",
+    "published": "2026-11-17T03:46:44.519000+00:00",
+    "ago": "2h",
+    "impact": "Neutral",
+    "why": "Fundraising through QIP is capital dilution.",
+    "url": "https://www.oquilia.com/news/aegis-logistics-allots-shares-rs-3500-crore-qip-rs-1210-per-share",
+    "chips": {
+      "Shares": "2.89 crore",
+      "QIP Size": "Rs 3,500 crore",
+      "Issue Price": "Rs 1,210"
+    },
+    "trend": [
+      0.5,
+      0.55,
+      0.45,
+      0.5,
+      0.47,
+      0.52,
+      0.5
+    ],
+    "color": "B7791F",
+    "premium": false,
+    "verbatim": false,
+    "src_title": "Aegis Logistics allots 2.89 crore shares in Rs 3,500 crore QIP at Rs 1,210",
+    "src_summary": "Aegis Logistics said in a filing with the National Stock Exchange that its fund raising committee approved allotment of 2,89,25,619 shares to 33 institutional buyers at Rs 1,210 a share, totalling Rs 3,500 crore.",
+    "title_hi": "Aegis Logistics ने 3,500 करोड़ रुपये के QIP में 1,210 रुपये पर 2.89 करोड़ शेयर आवंटित किए",
+    "summary_hi": "Aegis Logistics ने नेशनल स्टॉक एक्सचेंज को दी गई जानकारी में बताया कि उसकी फंड जुटाने वाली समिति ने 33 संस्थागत खरीदारों को 1,210 रुपये प्रति शेयर के भाव पर 2,89,25,619 शेयरों के आवंटन को मंजूरी दे दी है, जो कुल 3,500 करोड़ रुपये है।",
+    "why_hi": "QIP के जरिए फंड जुटाना पूंजी का डाइल्यूशन है।",
+    "chips_hi": {
+      "शेयर": "2.89 करोड़",
+      "QIP आकार": "Rs 3,500 crore",
+      "मूल्य": "Rs 1,210"
+    }
+  },
+  {
+    "v": 3,
+    "cat": "Markets",
+    "tk": "BAJAJ FINANCE",
+    "title": "Bajaj Finance closes QIP, allocates shares at Rs 1,025 each",
+    "summary": "Bajaj Finance said in a filing with the National Stock Exchange that its board committee closed the qualified institutions placement on 16 November 2026 at an issue price of Rs 1,025 per share.",
+    "source": "Oquilia",
+    "published": "2026-11-17T03:46:41.367000+00:00",
+    "ago": "2h",
+    "impact": "Neutral",
+    "why": "Capital raise completed through QIP.",
+    "url": "https://www.oquilia.com/news/bajaj-finance-closes-qip-allocates-114146341-shares-rs-1025-each",
+    "chips": {
+      "Issue Price": "Rs 1,025",
+      "Shares Allocated": "114,146,341"
+    },
+    "trend": [
+      0.5,
+      0.55,
+      0.45,
+      0.5,
+      0.47,
+      0.52,
+      0.5
+    ],
+    "color": "B7791F",
+    "premium": false,
+    "verbatim": false,
+    "src_title": "Bajaj Finance closes QIP, allocates 114,146,341 shares at Rs 1,025 each",
+    "src_summary": "Bajaj Finance said in a filing with the National Stock Exchange that its board committee closed the qualified institutions placement on 16 November 2026 at an issue price of Rs 1,025 per share.",
+    "title_hi": "Bajaj Finance ने QIP बंद किया, 1,025 रुपये प्रति शेयर पर आवंटन",
+    "summary_hi": "Bajaj Finance ने National Stock Exchange को दी गई जानकारी में बताया कि उसकी बोर्ड समिति ने 16 November 2026 को 1,025 रुपये प्रति शेयर के इश्यू प्राइस पर क्वालिफाइड इंस्टीटutions प्लेसमेंट बंद कर दिया।",
+    "why_hi": "QIP के जरिए पूंजी जुटाई गई।",
+    "chips_hi": {
+      "इश्यू प्राइस": "Rs 1,025",
+      "शेयर आवंटित": "114,146,341"
+    }
+  },
+  {
+    "v": 3,
+    "cat": "Finance",
+    "tk": "INDIAN BANK",
+    "title": "Calcutta High Court declines to order Indian Bank to fix borrower's CIBIL record",
+    "summary": "The Calcutta High Court dismissed a company's plea to remove a 'Loss' tag from its CIBIL report, holding that its dispute with Indian Bank over a one-time settlement belongs before the DRT.",
+    "source": "Oquilia",
+    "published": "2026-11-17T03:36:47.377000+00:00",
+    "ago": "2h",
+    "impact": "Neutral",
+    "why": "Court ruling on routine banking dispute.",
+    "url": "https://www.oquilia.com/news/calcutta-high-court-indian-bank-cibil-loss-classification-ots",
+    "chips": {},
+    "trend": [
+      0.5,
+      0.55,
+      0.45,
+      0.5,
+      0.47,
+      0.52,
+      0.5
+    ],
+    "color": "B7791F",
+    "premium": false,
+    "verbatim": false,
+    "src_title": "Calcutta High Court declines to order Indian Bank to fix borrower's CIBIL record",
+    "src_summary": "The Calcutta High Court dismissed a company's plea to remove a 'Loss' tag from its CIBIL report, holding that its dispute with Indian Bank over a one-time settlement belongs before the DRT.",
+    "title_hi": "Calcutta High Court ने borrower के CIBIL record को ठीक करने के Indian Bank को आदेश देने से किया इनकार",
+    "summary_hi": "Calcutta High Court ने CIBIL report से 'Loss' tag हटाने की कंपनी की याचिका खारिज कर दी, यह कहते हुए कि Indian Bank के साथ one-time settlement पर इसका विवाद DRT के समक्ष होना चाहिए।",
+    "why_hi": "नियमित बैंकिंग विवाद पर अदालत का फैसला।",
+    "chips_hi": {}
+  },
+  {
+    "v": 3,
     "cat": "Markets",
     "tk": "MARKETS",
     "title": "Nifty 50 at 25,291 after Monday gain as midcaps and smallcaps slip",
@@ -35,7 +220,9 @@
     "chips_hi": {
       "Nifty 50": "25,291.1",
       "बढ़त": "146.8 अंक"
-    }
+    },
+    "hi_tries": 0,
+    "hi_ver": 2
   },
   {
     "v": 3,
@@ -67,7 +254,7 @@
     "verbatim": false,
     "src_title": "Gifted Money to Your Spouse or Child? Section 99 of the Income-tax Act 2025 Adds the Income Back to Yours, With These Exceptions",
     "src_summary": "Section 99 of the Income-tax Act 2025 clubs income from assets gifted to a spouse, son's wife or minor child with the giver's own. Worked example, Rs 29,120 cost and the exceptions.",
-    "hi_tries": 1,
+    "hi_tries": 2,
     "hi_ver": 2
   },
   {
@@ -1353,206 +1540,6 @@
     "src_title": "IBBI suspends liquidator for two years over SBI vote cut in Manglam Fiscal case",
     "src_summary": "IBBI suspended an insolvency professional for two years, finding the liquidator cut SBI's voting share to block its own replacement in Manglam Fiscal Services' liquidation.",
     "hi_tries": 2,
-    "hi_ver": 2
-  },
-  {
-    "v": 3,
-    "cat": "Companies",
-    "tk": "COMPANIES",
-    "title": "IBBI suspends insolvency professional for two years over Associate Decor case",
-    "summary": "IBBI's Disciplinary Committee suspended an insolvency professional's registration for two years, finding lapses in the insolvency process of Associate Decor Limited.",
-    "source": "Oquilia",
-    "published": "2026-11-13T14:44:40.988000+00:00",
-    "ago": "11h",
-    "impact": "Neutral",
-    "why": "Regulatory action on an insolvency professional.",
-    "url": "https://www.oquilia.com/news/ibbi-suspends-insolvency-professional-associate-decor-case",
-    "chips": {},
-    "trend": [
-      0.5,
-      0.55,
-      0.45,
-      0.5,
-      0.47,
-      0.52,
-      0.5
-    ],
-    "color": "B7791F",
-    "premium": false,
-    "verbatim": false,
-    "src_title": "IBBI suspends insolvency professional for two years over Associate Decor case",
-    "src_summary": "IBBI's Disciplinary Committee suspended an insolvency professional's registration for two years, finding lapses in the insolvency process of Associate Decor Limited.",
-    "title_hi": "IBBI ने Associate Decor मामले में इंसॉल्वेंसी प्रोफेशनल को दो साल के लिए निलंबित किया",
-    "summary_hi": "IBBI की अनुशासन समिति ने Associate Decor Limited की इंसॉल्वेंसी प्रक्रिया में कमियां मिलने के बाद एक इंसॉल्वेंसी प्रोफेशनल का रजिस्ट्रेशन दो साल के लिए निलंबित कर दिया।",
-    "why_hi": "इंसॉल्वेंसी प्रोफेशनल पर विनियामक कार्रवाई।",
-    "chips_hi": {},
-    "hi_tries": 0,
-    "hi_ver": 2
-  },
-  {
-    "v": 3,
-    "cat": "Companies",
-    "tk": "RHI MAGNESITA",
-    "title": "RHI Magnesita India CFO resigns, successor named from 1 January 2027",
-    "summary": "RHI Magnesita India said in a filing with the National Stock Exchange that its chief financial officer will leave on 31 December 2026 to take a role in another group company.",
-    "source": "Oquilia",
-    "published": "2026-11-13T12:48:10.014000+00:00",
-    "ago": "1h",
-    "impact": "Neutral",
-    "why": "Planned transition, no immediate impact.",
-    "url": "https://www.oquilia.com/news/rhi-magnesita-india-cfo-resigns-successor-named-from-1-january-2027",
-    "chips": {
-      "Exit Date": "31 Dec 2026",
-      "Joining Date": "1 Jan 2027"
-    },
-    "trend": [
-      0.5,
-      0.55,
-      0.45,
-      0.5,
-      0.47,
-      0.52,
-      0.5
-    ],
-    "color": "B7791F",
-    "premium": false,
-    "verbatim": false,
-    "src_title": "RHI Magnesita India CFO resigns, successor named from 1 January 2027",
-    "src_summary": "RHI Magnesita India said in a filing with the National Stock Exchange that its chief financial officer will leave on 31 December 2026 to take a role in another group company.",
-    "title_hi": "RHI Magnesita India के CFO ने दिया इस्तीफा, नए उत्तराधिकारी की घोषणा 1 जनवरी 2027 से",
-    "summary_hi": "RHI Magnesita India ने नेशनल स्टॉक एक्सचेंज को दी गई जानकारी में बताया कि उसके मुख्य वित्तीय अधिकारी 31 दिसंबर 2026 को पद छोड़ देंगे और समूह की दूसरी कंपनी में जिम्मेदारी संभालेंगे।",
-    "why_hi": "नियोजित बदलाव, कोई तात्कालिक प्रभाव नहीं।",
-    "chips_hi": {
-      "पद छोड़ने की तारीख": "31 Dec 2026",
-      "कार्यभार की तारीख": "1 Jan 2027"
-    },
-    "hi_tries": 0,
-    "hi_ver": 2
-  },
-  {
-    "v": 3,
-    "cat": "Earnings",
-    "tk": "ABB INDIA",
-    "title": "ABB India Q3 net profit rises 8.2% to Rs 442.52 crore",
-    "summary": "ABB India said in a filing with the National Stock Exchange that consolidated net profit for the September 2026 quarter rose 8.2% to Rs 442.52 crore on revenue of Rs 3,738.13 crore.",
-    "source": "Oquilia",
-    "published": "2026-11-13T12:48:06.870000+00:00",
-    "ago": "1h",
-    "impact": "Positive",
-    "why": "Net profit and revenue increased in Q3.",
-    "url": "https://www.oquilia.com/news/abb-india-q3-results-net-profit-rises-8-2-percent-rs-442-crore",
-    "chips": {
-      "Net Profit": "Rs 442.52 crore",
-      "Profit Growth": "8.2%",
-      "Revenue": "Rs 3,738.13 crore"
-    },
-    "trend": [
-      0.1,
-      0.25,
-      0.2,
-      0.5,
-      0.45,
-      0.8,
-      0.95
-    ],
-    "color": "0F766E",
-    "premium": false,
-    "verbatim": false,
-    "src_title": "ABB India Q3 results: net profit rises 8.2% to Rs 442.52 crore",
-    "src_summary": "ABB India said in a filing with the National Stock Exchange that consolidated net profit for the September 2026 quarter rose 8.2% to Rs 442.52 crore on revenue of Rs 3,738.13 crore.",
-    "title_hi": "ABB India Q3 net profit 8.2% बढ़कर Rs 442.52 crore हुआ",
-    "summary_hi": "ABB India ने National Stock Exchange को दी गई जानकारी में बताया कि September 2026 तिमाही में konsolidated net profit 8.2% बढ़कर Rs 442.52 crore हो गया, जबकि revenue Rs 3,738.13 crore रहा।",
-    "why_hi": "Q3 में शुद्ध लाभ और राजस्व बढ़ा।",
-    "chips_hi": {
-      "Net Profit": "Rs 442.52 crore",
-      "Profit Growth": "8.2%",
-      "Revenue": "Rs 3,738.13 crore"
-    },
-    "hi_tries": 0,
-    "hi_ver": 2
-  },
-  {
-    "v": 3,
-    "cat": "Finance",
-    "tk": "FINANCE",
-    "title": "Government-Sector NPS Members Get Wider Investment Choice",
-    "summary": "PFRDA's 9 July 2026 circular adds two Auto Choice life-cycle funds for Central Autonomous Body NPS subscribers, taking options to six, with up to 75% equity until 35.",
-    "source": "Oquilia",
-    "published": "2026-11-13T10:33:44.720000+00:00",
-    "ago": "3h",
-    "impact": "Positive",
-    "why": "More investment choices for NPS subscribers.",
-    "url": "https://www.oquilia.com/news/oquilia-research-nps-investment-choice-central-autonomous-bodies-equity",
-    "chips": {
-      "Date": "9 July 2026",
-      "Options": "6",
-      "Equity": "75%"
-    },
-    "trend": [
-      0.1,
-      0.25,
-      0.2,
-      0.5,
-      0.45,
-      0.8,
-      0.95
-    ],
-    "color": "0F766E",
-    "premium": false,
-    "verbatim": false,
-    "src_title": "Government-Sector NPS Members Get Wider Investment Choice: What CAB Subscribers Can Now Do",
-    "src_summary": "PFRDA's 9 July 2026 circular adds two Auto Choice life-cycle funds for Central Autonomous Body NPS subscribers, taking options to six, with up to 75% equity until 35.",
-    "title_hi": "Government-Sector NPS सदस्यों को मिला व्यापक निवेश विकल्प",
-    "summary_hi": "PFRDA के 9 July 2026 के सर्कुलर ने सेंट्रल ऑटोनॉमस बॉडी NPS सब्सक्राइबर्स के लिए दो ऑटो चॉइस लाइफ-साइकिल फंड जोड़े हैं, जिससे विकल्प बढ़कर छह हो गए हैं, जिसमें 35 वर्ष की आयु तक 75% तक इक्विटी शामिल है।",
-    "why_hi": "NPS ग्राहकों के लिए अधिक निवेश विकल्प।",
-    "chips_hi": {
-      "तारीख": "9 July 2026",
-      "विकल्प": "6",
-      "इक्विटी": "75%"
-    },
-    "hi_tries": 0,
-    "hi_ver": 2
-  },
-  {
-    "v": 3,
-    "cat": "Earnings",
-    "tk": "NATCO PHARMA",
-    "title": "Natco Pharma Q2 net profit falls 61% to Rs 203 crore",
-    "summary": "Natco Pharma told the National Stock Exchange its consolidated net profit for the quarter ended 30 September 2026 fell 60.9% from a year earlier to Rs 202.6 crore, as revenue from operations dropped 29%.",
-    "source": "Oquilia",
-    "published": "2026-11-13T09:50:26.115000+00:00",
-    "ago": "33m",
-    "impact": "Negative",
-    "why": "Significant drop in net profit and revenue.",
-    "url": "https://www.oquilia.com/news/natco-pharma-q2-fy27-results-net-profit-falls",
-    "chips": {
-      "Net Profit Fall": "61%",
-      "Net Profit": "Rs 203 crore",
-      "Revenue Drop": "29%"
-    },
-    "trend": [
-      0.95,
-      0.85,
-      0.7,
-      0.6,
-      0.4,
-      0.3,
-      0.1
-    ],
-    "color": "9B2C2C",
-    "premium": false,
-    "verbatim": false,
-    "src_title": "Natco Pharma Q2 results: net profit falls 61% to Rs 203 crore",
-    "src_summary": "Natco Pharma told the National Stock Exchange its consolidated net profit for the quarter ended 30 September 2026 fell 60.9% from a year earlier to Rs 202.6 crore, as revenue from operations dropped 29%.",
-    "title_hi": "Natco Pharma Q2 net profit 61% घटकर Rs 203 crore हुआ",
-    "summary_hi": "Natco Pharma ने National Stock Exchange को बताया कि 30 सितंबर 2026 को समाप्त तिमाही के लिए उसका समेकित शुद्ध लाभ एक साल पहले की तुलना में 60.9% घटकर Rs 202.6 crore हो गया, क्योंकि परिचालन से राजस्व 29% गिर गया।",
-    "why_hi": "शुद्ध लाभ और राजस्व में भारी गिरावट।",
-    "chips_hi": {
-      "शुद्ध लाभ गिरावट": "61%",
-      "शुद्ध लाभ": "Rs 203 crore",
-      "राजस्व गिरावट": "29%"
-    },
-    "hi_tries": 0,
     "hi_ver": 2
   }
 ]
