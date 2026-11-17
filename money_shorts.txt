@@ -1,6 +1,35 @@
 [
   {
     "v": 3,
+    "cat": "Finance",
+    "tk": "FINANCE",
+    "title": "The NRI Who Need Not File a Return: Section 216 Exemption Explained",
+    "summary": "Section 216 of the Income-tax Act, 2025 lets an NRI skip the return if income is only investment income or long-term gains from foreign exchange assets, with TDS deducted. Here is when it applies.",
+    "source": "Oquilia",
+    "published": "2026-11-17T09:07:43.217000+00:00",
+    "ago": "1h",
+    "impact": "Neutral",
+    "why": "Tax exemption rule update for NRIs.",
+    "url": "https://www.oquilia.com/news/oquilia-research-nri-no-return-needed-investment-income-section-216",
+    "chips": {},
+    "trend": [
+      0.5,
+      0.55,
+      0.45,
+      0.5,
+      0.47,
+      0.52,
+      0.5
+    ],
+    "color": "B7791F",
+    "premium": false,
+    "verbatim": false,
+    "src_title": "The NRI Who Need Not File a Return: Section 216's Exemption for Investment Income and Long-Term Gains Fully Taxed at Source",
+    "src_summary": "Section 216 of the Income-tax Act, 2025 lets an NRI skip the return if income is only investment income or long-term gains from foreign exchange assets, with TDS deducted. Here is when it applies.",
+    "hi_tries": 1
+  },
+  {
+    "v": 3,
     "cat": "Companies",
     "tk": "COMPANIES",
     "title": "Operational creditors had 9 of 26 companies admitted to insolvency over Rs 41.24 crore",
@@ -35,7 +64,9 @@
     "chips_hi": {
       "Admissions": "9 of 26",
       "Claims": "Rs 41.24 crore"
-    }
+    },
+    "hi_tries": 0,
+    "hi_ver": 2
   },
   {
     "v": 3,
@@ -71,7 +102,9 @@
     "why_hi": "संपत्ति अधिग्रहण से विनिर्माण क्षमता का विस्तार हो सकता है।",
     "chips_hi": {
       "सौदा मूल्य": "Rs 49.75 crore"
-    }
+    },
+    "hi_tries": 0,
+    "hi_ver": 2
   },
   {
     "v": 3,
@@ -1511,48 +1544,6 @@
       "महीने की कैप": "120-month",
       "असेसमेंट ईयर": "AY 2026-27"
     },
-    "hi_ver": 2
-  },
-  {
-    "v": 3,
-    "cat": "Earnings",
-    "tk": "TATA MOTORS",
-    "title": "Tata Motors PV posts Rs 5,451 crore Q2 loss on Rs 6,738 crore exceptional items",
-    "summary": "Tata Motors Passenger Vehicles reported a consolidated net loss of Rs 5,451 crore for July-September 2026 after Rs 6,738 crore of exceptional items, while revenue rose 34% to Rs 96,920 crore.",
-    "source": "Oquilia",
-    "published": "2026-11-13T16:00:53.997000+00:00",
-    "ago": "10h",
-    "impact": "Negative",
-    "why": "Massive net loss reported in Q2.",
-    "url": "https://www.oquilia.com/news/tata-motors-pv-q2-loss-exceptional-items-revenue-rises",
-    "chips": {
-      "Q2 Loss": "Rs 5,451 crore",
-      "Revenue Rise": "34%",
-      "Revenue": "Rs 96,920 crore"
-    },
-    "trend": [
-      0.95,
-      0.85,
-      0.7,
-      0.6,
-      0.4,
-      0.3,
-      0.1
-    ],
-    "color": "9B2C2C",
-    "premium": false,
-    "verbatim": false,
-    "src_title": "Tata Motors PV posts Rs 5,451 crore Q2 loss on Rs 6,738 crore exceptional items",
-    "src_summary": "Tata Motors Passenger Vehicles reported a consolidated net loss of Rs 5,451 crore for July-September 2026 after Rs 6,738 crore of exceptional items, while revenue rose 34% to Rs 96,920 crore.",
-    "title_hi": "Tata Motors PV को Q2 में 5,451 करोड़ रुपये का घाटा",
-    "summary_hi": "Tata Motors Passenger Vehicles ने 6,738 करोड़ रुपये की असाधारण मदों के बाद जुलाई-सितंबर 2026 के लिए 5,451 करोड़ रुपये का समेकित शुद्ध घाटा दर्ज किया, जबकि राजस्व 34% बढ़कर 96,920 करोड़ रुपये हो गया।",
-    "why_hi": "Q2 में भारी शुद्ध घाटा दर्ज।",
-    "chips_hi": {
-      "Q2 घाटा": "Rs 5,451 crore",
-      "राजस्व वृद्धि": "34%",
-      "राजस्व": "Rs 96,920 crore"
-    },
-    "hi_tries": 0,
     "hi_ver": 2
   }
 ]
