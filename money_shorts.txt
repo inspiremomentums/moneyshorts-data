@@ -2,6 +2,224 @@
   {
     "v": 3,
     "cat": "Markets",
+    "tk": "MARKETS",
+    "title": "Jio Financial invests Rs 123 crore in Jio BlackRock JV",
+    "summary": "Jio Financial Services said in an NSE filing that it subscribed to 12.3 crore shares of Jio BlackRock Asset Management, its 50:50 joint venture, for Rs 123 crore on 18 November 2026.",
+    "source": "Oquilia",
+    "published": "2026-11-18T13:45:50.198000+00:00",
+    "ago": "39m",
+    "impact": "Positive",
+    "why": "Investment in joint venture growth",
+    "url": "https://www.oquilia.com/news/jio-financial-invests-rs-123-crore-jio-blackrock-asset-management",
+    "chips": {
+      "Investment": "Rs 123 crore",
+      "Shares": "12.3 crore",
+      "Date": "18 Nov 2026"
+    },
+    "trend": [
+      0.1,
+      0.25,
+      0.2,
+      0.5,
+      0.45,
+      0.8,
+      0.95
+    ],
+    "color": "0F766E",
+    "premium": false,
+    "verbatim": false,
+    "src_title": "Jio Financial invests Rs 123 crore in Jio BlackRock asset manager JV",
+    "src_summary": "Jio Financial Services said in an NSE filing that it subscribed to 12.3 crore shares of Jio BlackRock Asset Management, its 50:50 joint venture, for Rs 123 crore on 18 November 2026.",
+    "title_hi": "Jio Financial ने Jio BlackRock JV में 123 करोड़ रुपये का निवेश किया",
+    "summary_hi": "Jio Financial Services ने NSE फाइलिंग में कहा कि उसने 18 नवंबर 2026 को 123 करोड़ रुपये में अपने 50:50 संयुक्त उद्यम Jio BlackRock Asset Management के 12.3 करोड़ शेयर खरीदे।",
+    "why_hi": "संयुक्त उद्यम वृद्धि में निवेश",
+    "chips_hi": {
+      "निवेश": "Rs 123 crore",
+      "शेयर": "12.3 crore",
+      "तारीख": "18 Nov 2026"
+    }
+  },
+  {
+    "v": 3,
+    "cat": "Markets",
+    "tk": "MARKETS",
+    "title": "Nifty 50 ends 0.63% lower at 25,227.95 as consumer durables slide 3.13%",
+    "summary": "The Nifty 50 closed at 25,227.95 on 18 November 2026, down 159.45 points or 0.63%, as 2,035 NSE stocks declined against 693 that advanced and 28 were unchanged.",
+    "source": "Oquilia",
+    "published": "2026-11-18T13:38:35.490000+00:00",
+    "ago": "48m",
+    "impact": "Negative",
+    "why": "Broad market decline led by consumer durables.",
+    "url": "https://www.oquilia.com/news/stock-market-today-nifty-50-closing-18-november-2026",
+    "chips": {
+      "Nifty 50": "25,227.95",
+      "Decline": "0.63%",
+      "Consumer durables": "-3.13%"
+    },
+    "trend": [
+      0.95,
+      0.85,
+      0.7,
+      0.6,
+      0.4,
+      0.3,
+      0.1
+    ],
+    "color": "9B2C2C",
+    "premium": false,
+    "verbatim": false,
+    "src_title": "Nifty 50 ends 0.63% lower at 25,227.95 as consumer durables slide 3.13%",
+    "src_summary": "The Nifty 50 closed at 25,227.95 on 18 November 2026, down 159.45 points or 0.63%, as 2,035 NSE stocks declined against 693 that advanced and 28 were unchanged.",
+    "title_hi": "Nifty 50, 0.63% की गिरावट के साथ 25,227.95 पर बंद हुआ, कंज्यूमर ड्यूरेबल्स में 3.13% की गिरावट",
+    "summary_hi": "Nifty 50, 18 नवंबर 2026 को 25,227.95 पर बंद हुआ, जो 159.45 अंक या 0.63% की गिरावट है, क्योंकि 2,035 NSE शेयर गिरे जबकि 693 चढ़े और 28 अपरिवर्तित रहे।",
+    "why_hi": "कंज्यूमर ड्यूरेबल्स की अगुवाई में व्यापक बाजार में गिरावट।",
+    "chips_hi": {
+      "Nifty 50": "25,227.95",
+      "गिरावट": "0.63%",
+      "कंज्यूमर ड्यूरेबल्स": "-3.13%"
+    }
+  },
+  {
+    "v": 3,
+    "cat": "Companies",
+    "tk": "IFCI",
+    "title": "IFCI says Delhi High Court recorded SFIO stand of no action against it",
+    "summary": "IFCI said in a filing with the National Stock Exchange that the Delhi High Court recorded SFIO's stand that its investigation report did not recommend any action against IFCI.",
+    "source": "Oquilia",
+    "published": "2026-11-18T12:46:25.999000+00:00",
+    "ago": "1h",
+    "impact": "Positive",
+    "why": "No action recommended by SFIO.",
+    "url": "https://www.oquilia.com/news/ifci-delhi-high-court-records-sfio-stand-no-action-against-it",
+    "chips": {},
+    "trend": [
+      0.1,
+      0.25,
+      0.2,
+      0.5,
+      0.45,
+      0.8,
+      0.95
+    ],
+    "color": "0F766E",
+    "premium": false,
+    "verbatim": false,
+    "src_title": "IFCI says Delhi High Court recorded SFIO stand of no action against it",
+    "src_summary": "IFCI said in a filing with the National Stock Exchange that the Delhi High Court recorded SFIO's stand that its investigation report did not recommend any action against IFCI.",
+    "hi_tries": 1
+  },
+  {
+    "v": 3,
+    "cat": "Markets",
+    "tk": "MARKETS",
+    "title": "Finance Ministry: public sector banks' H1 net profit rises 16.9% to Rs 1,09,540 crore",
+    "summary": "Public sector banks earned an aggregate net profit of Rs 1,09,540 crore in the half-year to 30 September 2026, up 16.9% from a year earlier, the Ministry of Finance said.",
+    "source": "Oquilia",
+    "published": "2026-11-18T11:35:07.110000+00:00",
+    "ago": "2h",
+    "impact": "Positive",
+    "why": "Higher net profit growth reported for public sector banks.",
+    "url": "https://www.oquilia.com/news/public-sector-banks-h1-net-profit-rises-16-9-percent",
+    "chips": {
+      "H1 Net Profit": "Rs 1,09,540 crore",
+      "Growth": "16.9%"
+    },
+    "trend": [
+      0.1,
+      0.25,
+      0.2,
+      0.5,
+      0.45,
+      0.8,
+      0.95
+    ],
+    "color": "0F766E",
+    "premium": false,
+    "verbatim": false,
+    "src_title": "Finance Ministry: public sector banks' H1 net profit rises 16.9% to Rs 1,09,540 crore",
+    "src_summary": "Public sector banks earned an aggregate net profit of Rs 1,09,540 crore in the half-year to 30 September 2026, up 16.9% from a year earlier, the Ministry of Finance said.",
+    "title_hi": "Finance Ministry ने बताया, public sector banks का H1 net profit 16.9% बढ़कर Rs 1,09,540 crore हुआ",
+    "summary_hi": "Finance Ministry ने कहा कि 30 September 2026 को समाप्त छमाही में public sector banks का कुल net profit एक साल पहले की तुलना में 16.9% बढ़कर Rs 1,09,540 crore हो गया।",
+    "why_hi": "Public sector banks का net profit बढ़ा।",
+    "chips_hi": {
+      "H1 Net Profit": "Rs 1,09,540 crore",
+      "Growth": "16.9%"
+    }
+  },
+  {
+    "v": 3,
+    "cat": "Finance",
+    "tk": "FINANCE",
+    "title": "Late PF deposits and Section 14B damages: why the Supreme Court said intent does not matter",
+    "summary": "The Supreme Court held on 23 February 2022 that any delay in EPF deposits attracts Section 14B damages without proof of intent. What it means for members, tax and drawdown.",
+    "source": "Oquilia",
+    "published": "2026-11-18T10:33:56.998000+00:00",
+    "ago": "3h",
+    "impact": "Negative",
+    "why": "Increases liabilities for delayed PF deposits.",
+    "url": "https://www.oquilia.com/news/oquilia-research-epf-section-14b-damages-late-pf-deposit-horticulture-station",
+    "chips": {
+      "Date": "23 February 2022",
+      "Section": "14B"
+    },
+    "trend": [
+      0.95,
+      0.85,
+      0.7,
+      0.6,
+      0.4,
+      0.3,
+      0.1
+    ],
+    "color": "9B2C2C",
+    "premium": false,
+    "verbatim": false,
+    "src_title": "Late PF deposits and Section 14B damages: why the Supreme Court said an employer's intent does not matter",
+    "src_summary": "The Supreme Court held on 23 February 2022 that any delay in EPF deposits attracts Section 14B damages without proof of intent. What it means for members, tax and drawdown.",
+    "title_hi": "देर से PF जमा और Section 14B नुकसान: सुप्रीम कोर्ट ने क्यों कहा कि इरादे से फर्क नहीं पड़ता",
+    "summary_hi": "सुप्रीम कोर्ट ने 23 फरवरी 2022 को फैसला सुनाया कि EPF जमा में किसी भी देरी पर बिना इरादे के प्रमाण के Section 14B के तहत हर्जाना लगता है। सदस्यों, टैक्स और निकासी के लिए इसके मायने।",
+    "why_hi": "देर से PF जमा पर देनदारी बढ़ती है।",
+    "chips_hi": {
+      "तारीख": "23 फरवरी 2022",
+      "धारा": "14B"
+    }
+  },
+  {
+    "v": 3,
+    "cat": "Finance",
+    "tk": "FINANCE",
+    "title": "Section 217 Lets Returning NRIs Keep Investment-Income Regime on Old Assets Until Sale",
+    "summary": "Section 217 of the Income-tax Act, 2025 lets a returning NRI keep the 20% investment-income rate on public-company debentures, deposits and G-secs bought in foreign exchange, by declaration in the first resident return.",
+    "source": "Oquilia",
+    "published": "2026-11-18T09:06:33.172000+00:00",
+    "ago": "5h",
+    "impact": "Neutral",
+    "why": "Tax rule for returning NRIs.",
+    "url": "https://www.oquilia.com/news/oquilia-research-returning-nri-keep-concessional-tax-foreign-exchange-assets-section-217",
+    "chips": {},
+    "trend": [
+      0.5,
+      0.55,
+      0.45,
+      0.5,
+      0.47,
+      0.52,
+      0.5
+    ],
+    "color": "B7791F",
+    "premium": false,
+    "verbatim": false,
+    "src_title": "Returned to India for Good? Section 217 Lets You Keep the NRI Investment-Income Regime on Old Foreign-Exchange Assets Until You Sell",
+    "src_summary": "Section 217 of the Income-tax Act, 2025 lets a returning NRI keep the 20% investment-income rate on public-company debentures, deposits and G-secs bought in foreign exchange, by declaration in the first resident return.",
+    "hi_tries": 1,
+    "title_hi": "Section 217 लौट रहे NRI को बिक्री तक पुराने एसेट्स पर इन्वेस्टमेंट-इनकम रेजिम बनाए रखने की अनुमति देती है",
+    "summary_hi": "Income-tax Act, 2025 की Section 217 एक लौट रहे NRI को पहले रेजिडेंट रिटर्न में घोषणा करके, विदेशी मुद्रा में खरीदे गए पब्लिक-कंपनी डिबेंचर, डिपॉजिट और G-sec पर 20% इन्वेस्टमेंट-इनकम रेट बनाए रखने की अनुमति देती है।",
+    "why_hi": "लौट रहे NRI के लिए टैक्स नियम।",
+    "chips_hi": {}
+  },
+  {
+    "v": 3,
+    "cat": "Markets",
     "tk": "COAL INDIA",
     "title": "Mahanadi Coalfields files RHP; Coal India offer for sale opens November 19",
     "summary": "Mahanadi Coalfields' red herring prospectus sets out an offer for sale of up to 66.18 crore shares by Coal India, with bidding from November 19 to November 23, 2026.",
@@ -35,7 +253,9 @@
     "chips_hi": {
       "शेयर": "66.18 करोड़",
       "प्रारंभ तिथि": "19 नवंबर"
-    }
+    },
+    "hi_tries": 0,
+    "hi_ver": 2
   },
   {
     "v": 3,
@@ -73,7 +293,9 @@
     "chips_hi": {
       "क्षमता": "150 MW",
       "टैरिफ": "Rs 3.21/unit"
-    }
+    },
+    "hi_tries": 0,
+    "hi_ver": 2
   },
   {
     "v": 3,
@@ -113,7 +335,9 @@
       "Nifty 50": "25,387.4",
       "बढ़ت": "0.38%",
       "Nifty Bank": "1.13%"
-    }
+    },
+    "hi_tries": 0,
+    "hi_ver": 2
   },
   {
     "v": 3,
@@ -1298,243 +1522,6 @@
     "why_hi": "कंपनी पर कोई सीधा प्रभाव नहीं।",
     "chips_hi": {
       "अधिकतम कटौती": "Rs 60,000/year"
-    },
-    "hi_tries": 0,
-    "hi_ver": 2
-  },
-  {
-    "v": 3,
-    "cat": "Earnings",
-    "tk": "PTC INDUSTRIES",
-    "title": "PTC Industries Q2 net profit rises 83.5% to Rs 33.28 crore",
-    "summary": "PTC Industries said in an NSE filing that its consolidated Q2 FY27 net profit was Rs 33.28 crore on revenue from operations of Rs 224.32 crore, up 80.0% from a year earlier.",
-    "source": "Oquilia",
-    "published": "2026-11-14T14:46:55.383000+00:00",
-    "ago": "11h",
-    "impact": "Positive",
-    "why": "Strong rise in quarterly profit and revenue.",
-    "url": "https://www.oquilia.com/news/ptc-industries-q2-results-net-profit-rises-83-5-percent",
-    "chips": {
-      "Net Profit": "Rs 33.28 cr",
-      "Growth": "83.5%",
-      "Revenue": "Rs 224.32 cr"
-    },
-    "trend": [
-      0.1,
-      0.25,
-      0.2,
-      0.5,
-      0.45,
-      0.8,
-      0.95
-    ],
-    "color": "0F766E",
-    "premium": false,
-    "verbatim": false,
-    "src_title": "PTC Industries Q2 results: net profit rises 83.5% to Rs 33.28 crore",
-    "src_summary": "PTC Industries said in an NSE filing that its consolidated Q2 FY27 net profit was Rs 33.28 crore on revenue from operations of Rs 224.32 crore, up 80.0% from a year earlier.",
-    "title_hi": "PTC Industries का Q2 शुद्ध लाभ 83.5% बढ़कर 33.28 करोड़ रुपये हुआ",
-    "summary_hi": "PTC Industries ने NSE फाइलिंग में बताया कि उसका समेकित Q2 FY27 शुद्ध लाभ 33.28 करोड़ रुपये रहा, जबकि परिचालन से राजस्व 224.32 करोड़ रुपये रहा, जो एक साल पहले से 80.0% अधिक है।",
-    "why_hi": "तिमाही मुनाफे और राजस्व में मजबूत वृद्धि।",
-    "chips_hi": {
-      "शुद्ध लाभ": "Rs 33.28 cr",
-      "वृद्धि": "83.5%",
-      "राजस्व": "Rs 224.32 cr"
-    },
-    "hi_tries": 0,
-    "hi_ver": 2
-  },
-  {
-    "v": 3,
-    "cat": "Earnings",
-    "tk": "ASHOK LEYLAND",
-    "title": "Ashok Leyland Q2 standalone net profit rises 12.7% to Rs 869 crore",
-    "summary": "Ashok Leyland said in an NSE filing that standalone Q2 FY27 net profit was Rs 869.02 crore on revenue of Rs 13,364.28 crore, and declared an interim dividend of Re 1 per share.",
-    "source": "Oquilia",
-    "published": "2026-11-14T14:46:51.813000+00:00",
-    "ago": "11h",
-    "impact": "Positive",
-    "why": "Higher net profit and interim dividend declared.",
-    "url": "https://www.oquilia.com/news/ashok-leyland-q2-results-standalone-net-profit-rises-12-7-percent",
-    "chips": {
-      "Net Profit": "Rs 869.02 cr",
-      "Revenue": "Rs 13,364.28 cr",
-      "Dividend": "Re 1"
-    },
-    "trend": [
-      0.1,
-      0.25,
-      0.2,
-      0.5,
-      0.45,
-      0.8,
-      0.95
-    ],
-    "color": "0F766E",
-    "premium": false,
-    "verbatim": false,
-    "src_title": "Ashok Leyland Q2 results: standalone net profit rises 12.7% to Rs 869 crore",
-    "src_summary": "Ashok Leyland said in an NSE filing that standalone Q2 FY27 net profit was Rs 869.02 crore on revenue of Rs 13,364.28 crore, and declared an interim dividend of Re 1 per share.",
-    "title_hi": "Ashok Leyland का Q2 standalone net profit 12.7% बढ़कर 869 करोड़ रुपये हुआ",
-    "summary_hi": "Ashok Leyland ने NSE फाइलिंग में बताया कि Q2 FY27 का standalone net profit 13,364.28 करोड़ रुपये के revenue पर 869.02 करोड़ रुपये रहा, और प्रति शेयर 1 रुपये के interim dividend की घोषणा की।",
-    "why_hi": "शुद्ध लाभ में वृद्धि और लाभांश घोषित",
-    "chips_hi": {
-      "शुद्ध लाभ": "869.02 करोड़ रुपये",
-      "राजस्व": "13,364.28 करोड़ रुपय",
-      "लाभांश": "1 रुपये"
-    },
-    "hi_tries": 0,
-    "hi_ver": 2
-  },
-  {
-    "v": 3,
-    "cat": "Finance",
-    "tk": "FINANCE",
-    "title": "Time Your NPS Deposit Right: Contributions In by 1:30 PM Now Get Same-Day NAV",
-    "summary": "PFRDA's 4 August 2026 circular: NPS contributions reaching the Trustee Bank by 1:30 PM get same-day NAV. How the cut-off works, exit tax limits and a worked Rs 1 crore drawdown.",
-    "source": "Oquilia",
-    "published": "2026-11-14T10:33:59.114000+00:00",
-    "ago": "3h",
-    "impact": "Neutral",
-    "why": "Operational update with no fundamental financial impact.",
-    "url": "https://www.oquilia.com/news/oquilia-research-nps-same-day-nav-investment-contribution-cutoff",
-    "chips": {
-      "Cut-off time": "1:30 PM",
-      "Date": "4 August 2026"
-    },
-    "trend": [
-      0.5,
-      0.55,
-      0.45,
-      0.5,
-      0.47,
-      0.52,
-      0.5
-    ],
-    "color": "B7791F",
-    "premium": false,
-    "verbatim": false,
-    "src_title": "Time Your NPS Deposit Right: Contributions In by 1:30 PM Now Get Same-Day NAV",
-    "src_summary": "PFRDA's 4 August 2026 circular: NPS contributions reaching the Trustee Bank by 1:30 PM get same-day NAV. How the cut-off works, exit tax limits and a worked Rs 1 crore drawdown.",
-    "hi_tries": 2,
-    "hi_ver": 2
-  },
-  {
-    "v": 3,
-    "cat": "Finance",
-    "tk": "FINANCE",
-    "title": "Income-Tax Clearance Rules for Leaving India Under Section 420 of the 2025 Act",
-    "summary": "Section 420 of the Income-tax Act 2025 sets three different departure duties: an employer undertaking for expatriates, a PAN declaration for domiciled travellers, and a rare clearance certificate.",
-    "source": "Oquilia",
-    "published": "2026-11-14T09:04:38.669000+00:00",
-    "ago": "1h",
-    "impact": "Neutral",
-    "why": "Clarifies existing tax departure rules.",
-    "url": "https://www.oquilia.com/news/oquilia-research-tax-clearance-certificate-leaving-india-section-420",
-    "chips": {
-      "Section": "420",
-      "Act": "2025"
-    },
-    "trend": [
-      0.5,
-      0.55,
-      0.45,
-      0.5,
-      0.47,
-      0.52,
-      0.5
-    ],
-    "color": "B7791F",
-    "premium": false,
-    "verbatim": false,
-    "src_title": "Do You Need an Income-Tax Clearance Before Leaving India? What Section 420 of the 2025 Act Actually Requires and From Whom",
-    "src_summary": "Section 420 of the Income-tax Act 2025 sets three different departure duties: an employer undertaking for expatriates, a PAN declaration for domiciled travellers, and a rare clearance certificate.",
-    "title_hi": "2025 Act के Section 420 के तहत भारत छोड़ने पर Income-Tax Clearance नियम",
-    "summary_hi": "Income-tax Act 2025 का Section 420 तीन अलग-अलग प्रस्थान कर्तव्य तय करता है: प्रवासियों के लिए नियोक्ता उपक्रम, घरेलू यात्रियों के लिए PAN घोषणा, और एक दुर्लभ clearance certificate।",
-    "why_hi": "कर प्रस्थान नियमों को स्पष्ट करता है।",
-    "chips_hi": {
-      "Section": "420",
-      "Act": "2025"
-    },
-    "hi_tries": 0,
-    "hi_ver": 2
-  },
-  {
-    "v": 3,
-    "cat": "Companies",
-    "tk": "SECUREKLOUD",
-    "title": "SecureKloud Technologies discloses default of Rs 8.11 crore on Indian Bank cash credit",
-    "summary": "SecureKloud Technologies told the National Stock Exchange it defaulted on Rs 8.11 crore of principal on a Rs 15 crore cash credit facility from Indian Bank, with the default dated 15 October 2026.",
-    "source": "Oquilia",
-    "published": "2026-11-14T08:47:25.843000+00:00",
-    "ago": "1h",
-    "impact": "Negative",
-    "why": "Company reported a loan default.",
-    "url": "https://www.oquilia.com/news/securekloud-technologies-discloses-default-indian-bank-cash-credit",
-    "chips": {
-      "Default amount": "Rs 8.11 crore",
-      "Facility amount": "Rs 15 crore",
-      "Default date": "15 October 2026"
-    },
-    "trend": [
-      0.95,
-      0.85,
-      0.7,
-      0.6,
-      0.4,
-      0.3,
-      0.1
-    ],
-    "color": "9B2C2C",
-    "premium": false,
-    "verbatim": false,
-    "src_title": "SecureKloud Technologies discloses default of Rs 8.11 crore on Indian Bank cash credit",
-    "src_summary": "SecureKloud Technologies told the National Stock Exchange it defaulted on Rs 8.11 crore of principal on a Rs 15 crore cash credit facility from Indian Bank, with the default dated 15 October 2026.",
-    "title_hi": "SecureKloud Technologies ने Indian Bank कैश क्रेडिट पर 8.11 करोड़ रुपये के डिफॉल्ट का खुलासा किया",
-    "summary_hi": "SecureKloud Technologies ने नेशनल स्टॉक एक्सचेंज को बताया कि उसने Indian Bank की 15 करोड़ रुपये की कैश क्रेडिट सुविधा पर 8.11 करोड़ रुपये के मूलधन का डिफॉल्ट किया है, जिसकी तिथि 15 अक्टूबर 2026 है।",
-    "why_hi": "कंपनी ने ऋण डिफॉल्ट की सूचना दी।",
-    "chips_hi": {
-      "डिफॉल्ट राशि": "Rs 8.11 crore",
-      "सुविधा राशि": "Rs 15 crore",
-      "डिफॉल्ट तिथि": "15 October 2026"
-    },
-    "hi_tries": 0,
-    "hi_ver": 2
-  },
-  {
-    "v": 3,
-    "cat": "Companies",
-    "tk": "MONEYBOXX",
-    "title": "Moneyboxx Finance statutory auditor resigns",
-    "summary": "Moneyboxx Finance told the National Stock Exchange its statutory auditor, Gaur & Associates, resigned on 13 November 2026 after the company moved to the RBI's NBFC middle layer.",
-    "source": "Oquilia",
-    "published": "2026-11-14T08:47:08.143000+00:00",
-    "ago": "1h",
-    "impact": "Negative",
-    "why": "Auditor resignation creates uncertainty for investors.",
-    "url": "https://www.oquilia.com/news/moneyboxx-finance-statutory-auditor-resigns-nbfc-middle-layer",
-    "chips": {
-      "Resignation Date": "13 Nov 2026"
-    },
-    "trend": [
-      0.95,
-      0.85,
-      0.7,
-      0.6,
-      0.4,
-      0.3,
-      0.1
-    ],
-    "color": "9B2C2C",
-    "premium": false,
-    "verbatim": false,
-    "src_title": "Moneyboxx Finance statutory auditor resigns after NBFC moves to RBI middle layer",
-    "src_summary": "Moneyboxx Finance told the National Stock Exchange its statutory auditor, Gaur & Associates, resigned on 13 November 2026 after the company moved to the RBI's NBFC middle layer.",
-    "title_hi": "Moneyboxx Finance के वैधानिक लेखापरीक्षक ने इस्तीफा दिया",
-    "summary_hi": "Moneyboxx Finance ने नेशनल स्टॉक एक्सचेंज को बताया कि कंपनी के RBI के NBFC मिडिल लेयर में जाने के बाद उसके वैधानिक लेखापरीक्षक, गौर एंड एसोसिएट्स ने 13 नवंबर 2026 को इस्तीफा दे दिया।",
-    "why_hi": "ऑडिट के इस्तीफे से अनिश्चितता बढ़ती है।",
-    "chips_hi": {
-      "इस्तीफा तिथि": "13 Nov 2026"
     },
     "hi_tries": 0,
     "hi_ver": 2
