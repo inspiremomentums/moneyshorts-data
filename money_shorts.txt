@@ -3,6 +3,156 @@
     "v": 3,
     "cat": "Finance",
     "tk": "FINANCE",
+    "title": "Sold Farmland? Section 83 of the Income-tax Act 2025 Exempts Gain If New Agricultural Land Bought Within Two Years",
+    "summary": "Section 83 of the Income-tax Act 2025, successor to section 54B, exempts capital gains on farmland sold by an individual or HUF if the gain is reinvested in agricultural land within two years.",
+    "source": "Oquilia",
+    "published": "2026-11-18T00:40:50.403000+00:00",
+    "ago": "1h",
+    "impact": "Neutral",
+    "why": "No direct fundamental impact on companies.",
+    "url": "https://www.oquilia.com/news/oquilia-research-farmland-sale-capital-gains-reinvest-section-83-2025-act",
+    "chips": {
+      "Section": "83"
+    },
+    "trend": [
+      0.5,
+      0.55,
+      0.45,
+      0.5,
+      0.47,
+      0.52,
+      0.5
+    ],
+    "color": "B7791F",
+    "premium": false,
+    "verbatim": false,
+    "src_title": "Sold Farmland? Section 83 of the Income-tax Act 2025 Exempts the Gain if You Buy New Agricultural Land Within Two Years",
+    "src_summary": "Section 83 of the Income-tax Act 2025, successor to section 54B, exempts capital gains on farmland sold by an individual or HUF if the gain is reinvested in agricultural land within two years.",
+    "title_hi": "कृषि भूमि बेची? Income-tax Act 2025 का Section 83 दो साल के भीतर नई कृषि भूमि खरीदने पर लाभ छूट देता है",
+    "summary_hi": "Income-tax Act 2025 का Section 83, जो section 54B का उत्तराधिकारी है, किसी व्यक्ति या HUF द्वारा बेची गई कृषि भूमि पर कैपिटल गेन को छूट देता है यदि लाभ को दो साल के भीतर कृषि भूमि में पुनर्निवेश किया जाता है।",
+    "why_hi": "कंपनियों पर कोई सीधा प्रभाव नहीं।",
+    "chips_hi": {
+      "सेक्शन": "83"
+    }
+  },
+  {
+    "v": 3,
+    "cat": "Markets",
+    "tk": "MARKETS",
+    "title": "Nifty 50 ends 0.38% higher at 25,387.40 as banks lead and smallcaps slip",
+    "summary": "The Nifty 50 closed at 25,387.40, up 96.30 points or 0.38%, led by Nifty Bank's 1.13% gain, while 1,404 NSE stocks declined against 1,318 that advanced.",
+    "source": "Oquilia",
+    "published": "2026-11-17T13:39:06.362000+00:00",
+    "ago": "12h",
+    "impact": "Neutral",
+    "why": "Routine market close with mixed sectoral movement.",
+    "url": "https://www.oquilia.com/news/stock-market-today-nifty-50-closing-17-november-2026",
+    "chips": {
+      "Nifty 50": "25,387.40",
+      "Change": "+0.38%"
+    },
+    "trend": [
+      0.5,
+      0.55,
+      0.45,
+      0.5,
+      0.47,
+      0.52,
+      0.5
+    ],
+    "color": "B7791F",
+    "premium": false,
+    "verbatim": false,
+    "src_title": "Nifty 50 ends 0.38% higher at 25,387.40 as banks lead and smallcaps slip",
+    "src_summary": "The Nifty 50 closed at 25,387.40, up 96.30 points or 0.38%, led by Nifty Bank's 1.13% gain, while 1,404 NSE stocks declined against 1,318 that advanced.",
+    "title_hi": "Nifty 50 0.38% की बढ़त के साथ 25,387.40 पर बंद, बैंकों की अगुवाई और स्मॉलकैप में गिरावट",
+    "summary_hi": "Nifty 50 96.30 अंक या 0.38% की बढ़त के साथ 25,387.40 पर बंद हुआ, जिसकी अगुवाई Nifty Bank के 1.13% लाभ ने की, जबकि 1,404 NSE शेयर 1,318 बढ़त वाले शेयरों के मुकाबले गिरे।",
+    "why_hi": "मिश्रित क्षेत्रीय हलचल के साथ सामान्य बाजार बंद।",
+    "chips_hi": {
+      "Nifty 50": "25,387.40",
+      "बदलाव": "+0.38%"
+    }
+  },
+  {
+    "v": 3,
+    "cat": "Finance",
+    "tk": "FINANCE",
+    "title": "GSTN: e-invoicing for reverse-charge self-invoices mandatory from 1 January 2027",
+    "summary": "The GST Network said e-invoicing will apply to reverse-charge self-invoices on supplies from unregistered persons and on imported services from 1 January 2027, with voluntary use from 15 December 2026.",
+    "source": "Oquilia",
+    "published": "2026-11-17T13:34:14.893000+00:00",
+    "ago": "12h",
+    "impact": "Neutral",
+    "why": "Compliance update with no direct financial impact.",
+    "url": "https://www.oquilia.com/news/gstn-e-invoicing-reverse-charge-self-invoices-mandatory-january-2027",
+    "chips": {
+      "Date": "1 January 2027",
+      "Voluntary Date": "15 December 2026"
+    },
+    "trend": [
+      0.5,
+      0.55,
+      0.45,
+      0.5,
+      0.47,
+      0.52,
+      0.5
+    ],
+    "color": "B7791F",
+    "premium": false,
+    "verbatim": false,
+    "src_title": "GSTN: e-invoicing for reverse-charge self-invoices mandatory from 1 January 2027",
+    "src_summary": "The GST Network said e-invoicing will apply to reverse-charge self-invoices on supplies from unregistered persons and on imported services from 1 January 2027, with voluntary use from 15 December 2026.",
+    "title_hi": "GSTN: 1 जनवरी 2027 से रिवर्स-चार्ज सेल्फ-इनवॉइस के लिए e-invoicing अनिवार्य",
+    "summary_hi": "जीएसटी नेटवर्क ने कहा कि 1 जनवरी 2027 से बिना पंजीकृत व्यक्तियों की आपूर्ति और आयातित सेवाओं पर रिवर्स-चार्ज सेल्फ-इनवॉइस के लिए e-invoicing लागू होगी, जबकि 15 दिसंबर 2026 से इसका स्वैच्छिक उपयोग शुरू होगा।",
+    "why_hi": "अनुपालन अपडेट जिसका प्रत्यक्ष वित्तीय प्रभाव नहीं है।",
+    "chips_hi": {
+      "तारीख": "1 जनवरी 2027",
+      "स्वैच्छिक तारीख": "15 दिसंबर 2026"
+    }
+  },
+  {
+    "v": 3,
+    "cat": "Finance",
+    "tk": "FINANCE",
+    "title": "Supreme Court's 2022 ruling backdated private school teachers' gratuity to April 1997",
+    "summary": "The Supreme Court on 29 August 2022 upheld gratuity for private school teachers from 3 April 1997. Who qualifies, how it is calculated and taxed, and a worked Rs 9 lakh drawdown.",
+    "source": "Oquilia",
+    "published": "2026-11-17T10:35:09.796000+00:00",
+    "ago": "15h",
+    "impact": "Negative",
+    "why": "Increased financial liability for private schools.",
+    "url": "https://www.oquilia.com/news/oquilia-research-private-school-teachers-gratuity-2009-amendment-independent-schools-federation",
+    "chips": {
+      "Date": "3 April 1997",
+      "Amount": "Rs 9 lakh"
+    },
+    "trend": [
+      0.95,
+      0.85,
+      0.7,
+      0.6,
+      0.4,
+      0.3,
+      0.1
+    ],
+    "color": "9B2C2C",
+    "premium": false,
+    "verbatim": false,
+    "src_title": "Private school teachers and gratuity: how the Supreme Court's 2022 Independent Schools Federation ruling backdated the right to April 1997",
+    "src_summary": "The Supreme Court on 29 August 2022 upheld gratuity for private school teachers from 3 April 1997. Who qualifies, how it is calculated and taxed, and a worked Rs 9 lakh drawdown.",
+    "title_hi": "Supreme Court के 2022 के फैसले ने प्राइवेट स्कूलों के शिक्षकों की ग्रेच्युटी अप्रैल 1997 से पीछे की तारीख से लागू की",
+    "summary_hi": "Supreme Court ने 29 August 2022 को 3 April 1997 से प्राइवेट स्कूल के शिक्षकों के लिए ग्रेच्युटी को बरकरार रखा। कौन योग्य है, इसकी गणना और कर निर्धारण कैसे होता है, और Rs 9 lakh की निकासी का उदाहरण।",
+    "why_hi": "प्राइवेट स्कूलों पर बढ़ी वित्तीय देनदारी।",
+    "chips_hi": {
+      "तारीख": "3 April 1997",
+      "राशि": "Rs 9 lakh"
+    }
+  },
+  {
+    "v": 3,
+    "cat": "Finance",
+    "tk": "FINANCE",
     "title": "The NRI Who Need Not File a Return: Section 216 Exemption Explained",
     "summary": "Section 216 of the Income-tax Act, 2025 lets an NRI skip the return if income is only investment income or long-term gains from foreign exchange assets, with TDS deducted. Here is when it applies.",
     "source": "Oquilia",
@@ -26,7 +176,12 @@
     "verbatim": false,
     "src_title": "The NRI Who Need Not File a Return: Section 216's Exemption for Investment Income and Long-Term Gains Fully Taxed at Source",
     "src_summary": "Section 216 of the Income-tax Act, 2025 lets an NRI skip the return if income is only investment income or long-term gains from foreign exchange assets, with TDS deducted. Here is when it applies.",
-    "hi_tries": 1
+    "hi_tries": 1,
+    "hi_ver": 2,
+    "title_hi": "वह NRI जिन्हें रिटर्न दाखिल करने की आवश्यकता नहीं है: Section 216 छूट की व्याख्या",
+    "summary_hi": "Income-tax Act, 2025 का Section 216 एक NRI को रिटर्न दाखिल करने से छूट देता है यदि आय केवल निवेश आय या विदेशी मुद्रा परिसंपत्तियों से दीर्घकालिक लाभ है, जिस पर TDS काटा गया है। यहाँ बताया गया है कि यह कब लागू होता है।",
+    "why_hi": "NRI के लिए कर छूट नियम अपडेट।",
+    "chips_hi": {}
   },
   {
     "v": 3,
@@ -1382,168 +1537,6 @@
       "कीमत": "Rs 246.75"
     },
     "hi_tries": 0,
-    "hi_ver": 2
-  },
-  {
-    "v": 3,
-    "cat": "Markets",
-    "tk": "MARKETS",
-    "title": "Stock market this week: Nifty 50 gains 0.63% as PSU banks jump 7.84%, IT lags",
-    "summary": "The Nifty 50 rose 0.63% to 25,144.30 in the week of 9 November 2026 as 1,449 NSE stocks advanced and 1,169 declined; the Nifty PSU Bank led sectors with a 7.84% gain.",
-    "source": "Oquilia",
-    "published": "2026-11-14T04:40:06.926000+00:00",
-    "ago": "1h",
-    "impact": "Neutral",
-    "why": "Broad market movement with mixed sector trends.",
-    "url": "https://www.oquilia.com/news/stock-market-this-week-13-november-2026",
-    "chips": {
-      "Nifty 50": "0.63%",
-      "PSU Banks": "7.84%",
-      "Level": "25,144.30"
-    },
-    "trend": [
-      0.5,
-      0.55,
-      0.45,
-      0.5,
-      0.47,
-      0.52,
-      0.5
-    ],
-    "color": "B7791F",
-    "premium": false,
-    "verbatim": false,
-    "src_title": "Stock market this week: Nifty 50 gains 0.63% as PSU banks jump 7.84%, IT lags",
-    "src_summary": "The Nifty 50 rose 0.63% to 25,144.30 in the week of 9 November 2026 as 1,449 NSE stocks advanced and 1,169 declined; the Nifty PSU Bank led sectors with a 7.84% gain.",
-    "title_hi": "इस सप्ताह शेयर बाजार: Nifty 50 में 0.63% की बढ़त, PSU बैंक 7.84% उछले, IT पिछड़ा",
-    "summary_hi": "9 नवंबर 2026 को समाप्त सप्ताह में Nifty 50 0.63% बढ़कर 25,144.30 पर पहुंच गया, जिसमें NSE के 1,449 शेयर चढ़े और 1,169 गिरे। Nifty PSU बैंक 7.84% की तेजी के साथ सबसे आगे रहा।",
-    "why_hi": "विस्तृत बाजार में मिश्रित रुझान।",
-    "chips_hi": {
-      "Nifty 50": "0.63%",
-      "PSU बैंक": "7.84%",
-      "स्तर": "25,144.30"
-    },
-    "hi_tries": 0,
-    "hi_ver": 2
-  },
-  {
-    "v": 3,
-    "cat": "Markets",
-    "tk": "CRYSTAL CROP",
-    "title": "Crystal Crop Protection files RHP; Rs 355 cr fresh issue opens Nov 18",
-    "summary": "Crystal Crop Protection's IPO runs November 18-20 per its RHP dated November 12, 2026, with a fresh issue of up to Rs 3,550.03 million and a promoter offer for sale.",
-    "source": "Oquilia",
-    "published": "2026-11-14T04:23:47.870000+00:00",
-    "ago": "1h",
-    "impact": "Neutral",
-    "why": "IPO details announced without fundamental impact.",
-    "url": "https://www.oquilia.com/news/crystal-crop-protection-ipo-rhp-opens-november-18",
-    "chips": {
-      "Fresh issue": "Rs 355 cr",
-      "IPO dates": "Nov 18-20"
-    },
-    "trend": [
-      0.5,
-      0.55,
-      0.45,
-      0.5,
-      0.47,
-      0.52,
-      0.5
-    ],
-    "color": "B7791F",
-    "premium": false,
-    "verbatim": false,
-    "src_title": "Crystal Crop Protection files RHP; Rs 355 crore fresh issue opens Nov 18",
-    "src_summary": "Crystal Crop Protection's IPO runs November 18-20 per its RHP dated November 12, 2026, with a fresh issue of up to Rs 3,550.03 million and a promoter offer for sale.",
-    "title_hi": "Crystal Crop Protection ने RHP दाखिल किया; Rs 355 cr का नया इश्यू 18 Nov को खुलेगा",
-    "summary_hi": "Crystal Crop Protection का IPO 12 नवंबर 2026 के RHP के अनुसार 18-20 नवंबर तक चलेगा, जिसमें 3,550.03 मिलियन रुपये तक का नया इश्यू और प्रमोटर ऑफर फॉर सेल शामिल है।",
-    "why_hi": "IPO विवरण घोषित किए गए।",
-    "chips_hi": {
-      "नया इश्यू": "Rs 355 cr",
-      "IPO तिथियां": "Nov 18-20"
-    },
-    "hi_tries": 0,
-    "hi_ver": 2
-  },
-  {
-    "v": 3,
-    "cat": "Markets",
-    "tk": "YES BANK",
-    "title": "Yes Bank seeks Supreme Court review of AT-1 bond write-down ruling",
-    "summary": "Yes Bank told the stock exchanges on 13 November 2026 that it has asked the Supreme Court to review its 15 October 2026 judgment on the write-down of AT-1 bonds of Rs 8,415 crore.",
-    "source": "Oquilia",
-    "published": "2026-11-14T02:17:58.552000+00:00",
-    "ago": "1m",
-    "impact": "Neutral",
-    "why": "Legal review sought on existing bond write-down.",
-    "url": "https://www.oquilia.com/news/yes-bank-seeks-supreme-court-review-at1-bond-write-down-ruling",
-    "chips": {
-      "Bond Value": "Rs 8,415 crore"
-    },
-    "trend": [
-      0.5,
-      0.55,
-      0.45,
-      0.5,
-      0.47,
-      0.52,
-      0.5
-    ],
-    "color": "B7791F",
-    "premium": false,
-    "verbatim": false,
-    "src_title": "Yes Bank seeks Supreme Court review of ruling on Rs 8,415 crore AT-1 bond write-down",
-    "src_summary": "Yes Bank told the stock exchanges on 13 November 2026 that it has asked the Supreme Court to review its 15 October 2026 judgment on the write-down of AT-1 bonds of Rs 8,415 crore.",
-    "title_hi": "Yes Bank ने AT-1 बॉंड राइट-डाउन फैसले पर सुप्रीम कोर्ट से समीक्षा का अनुरोध किया",
-    "summary_hi": "Yes Bank ने 13 नवंबर 2026 को स्टॉक एक्सचेंजों को बताया कि उसने 8,415 करोड़ रुपये के AT-1 बॉंड के राइट-डाउन पर अपने 15 अक्टूबर 2026 के फैसले की समीक्षा के लिए सुप्रीम कोर्ट से अनुरोध किया है।",
-    "why_hi": "मौजूदा बॉंड राइट-डाउन पर कानूनी समीक्षा मांगी गई।",
-    "chips_hi": {
-      "बॉंड मूल्य": "Rs 8,415 crore"
-    },
-    "hi_tries": 0,
-    "hi_ver": 2
-  },
-  {
-    "v": 3,
-    "cat": "Finance",
-    "tk": "FINANCE",
-    "title": "Truck Owners on Section 44AE: The ITR-3 Validation Rules for AY 2026-27 That Reject Goods Carriage Returns",
-    "summary": "CBDT's ITR-3 validation rules for AY 2026-27 block 44AE goods carriage returns that break the Rs 7,500-a-month floor, the 120-month cap or the schedule totals. Here is what each rule checks.",
-    "source": "Oquilia",
-    "published": "2026-11-14T00:42:12.665000+00:00",
-    "ago": "1h",
-    "impact": "Neutral",
-    "why": "Tax filing rules updated for truck owners.",
-    "url": "https://www.oquilia.com/news/oquilia-research-section-44ae-goods-carriage-itr-3-validation-rules-ay-2026-27",
-    "chips": {
-      "Monthly Floor": "Rs 7,500",
-      "Month Cap": "120-month",
-      "Assessment Year": "AY 2026-27"
-    },
-    "trend": [
-      0.5,
-      0.55,
-      0.45,
-      0.5,
-      0.47,
-      0.52,
-      0.5
-    ],
-    "color": "B7791F",
-    "premium": false,
-    "verbatim": false,
-    "src_title": "Truck Owners on Section 44AE: The ITR-3 Validation Rules for AY 2026-27 That Reject Goods Carriage Returns",
-    "src_summary": "CBDT's ITR-3 validation rules for AY 2026-27 block 44AE goods carriage returns that break the Rs 7,500-a-month floor, the 120-month cap or the schedule totals. Here is what each rule checks.",
-    "hi_tries": 0,
-    "title_hi": "ट्रक मालिकों के लिए Section 44AE: AY 2026-27 के ITR-3 वैलिडेशन नियम जो गुड्स कैरिज रिटर्न को करते हैं खारिज",
-    "summary_hi": "AY 2026-27 के लिए CBDT के ITR-3 वैलिडेशन नियम 44AE गुड्स कैरिज रिटर्न को ब्लॉक करते हैं जो 7,500 रुपये प्रति माह के फ्लोर, 120 महीने की कैप या शेड्यूल टोटल का उल्लंघन करते हैं। यहाँ बताया गया है कि प्रत्येक नियम क्या जाँचता है।",
-    "why_hi": "ट्रक मालिकों के लिए टैक्स फाइलिंग नियम अपडेट किए गए।",
-    "chips_hi": {
-      "मासिक फ्लोर": "Rs 7,500",
-      "महीने की कैप": "120-month",
-      "असेसमेंट ईयर": "AY 2026-27"
-    },
     "hi_ver": 2
   }
 ]

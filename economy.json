@@ -2,7 +2,7 @@
   "source": "World Bank",
   "licence": "CC BY 4.0",
   "attribution": "The World Bank: World Development Indicators (CC BY 4.0). Not endorsed by The World Bank.",
-  "updated": "2026-11-17T10:28:59.985843+00:00",
+  "updated": "2026-11-18T02:29:57.806199+00:00",
   "items": [
     {
       "id": "NY.GDP.MKTP.KD.ZG",
@@ -51,42 +51,6 @@
       "url": "https://data.worldbank.org/indicator/FR.INR.LEND?locations=IN",
       "prev_display": "8.7%",
       "prev_year": 2021
-    },
-    {
-      "id": "FR.INR.RINR",
-      "name": "Real interest rate",
-      "name_hi": "वास्तविक ब्याज दर",
-      "display": "5.6%",
-      "year": 2022,
-      "explain": "The lending rate after taking out inflation. It shows the true cost of borrowing.",
-      "explain_hi": "महँगाई घटाने के बाद की कर्ज़ दर। यह उधार लेने की असली लागत दिखाती है।",
-      "url": "https://data.worldbank.org/indicator/FR.INR.RINR?locations=IN",
-      "prev_display": "0.3%",
-      "prev_year": 2021
-    },
-    {
-      "id": "PA.NUS.FCRF",
-      "name": "Exchange rate (₹ per US$)",
-      "name_hi": "विनिमय दर (₹ प्रति US$)",
-      "display": "₹87.16",
-      "year": 2025,
-      "explain": "How many rupees one US dollar bought, on average, during the year.",
-      "explain_hi": "साल में औसतन एक अमेरिकी डॉलर के बदले कितने रुपये मिले।",
-      "url": "https://data.worldbank.org/indicator/PA.NUS.FCRF?locations=IN",
-      "prev_display": "₹83.67",
-      "prev_year": 2024
-    },
-    {
-      "id": "FI.RES.TOTL.CD",
-      "name": "Total reserves incl. gold",
-      "name_hi": "कुल भंडार (सोना सहित)",
-      "display": "US$700 billion",
-      "year": 2025,
-      "explain": "Foreign currency and gold held by the country. These reserves help the RBI manage the rupee.",
-      "explain_hi": "देश के पास रखी विदेशी मुद्रा और सोना। ये भंडार आरबीआई को रुपये को सँभालने में मदद करते हैं।",
-      "url": "https://data.worldbank.org/indicator/FI.RES.TOTL.CD?locations=IN",
-      "prev_display": "US$643 billion",
-      "prev_year": 2024
     },
     {
       "id": "BN.CAB.XOKA.GD.ZS",
