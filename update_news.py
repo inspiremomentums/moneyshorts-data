@@ -570,7 +570,7 @@ ECONOMY = [
 def wb_latest_two(code):
     req = urllib.request.Request(WB_URL.format(code=code),
                                  headers={"User-Agent": "Mozilla/5.0 (Bazaar Brief)"})
-    with urllib.request.urlopen(req, timeout=30) as r:
+    with urllib.request.urlopen(req, timeout=20) as r:
         data = json.loads(r.read())
     rows = data[1] or []
     vals = [(int(x["date"]), float(x["value"])) for x in rows if x.get("value") is not None]
@@ -586,13 +586,36 @@ def show(kind, v):
 
 
 def update_economy():
-    items = []
+    try:
+        with open(ECON_FILE, encoding="utf-8") as f:
+            old = json.load(f)
+    except Exception:
+        old = {}
+    # These figures change once a year, so fetch them at most about once a day
+    try:
+        age_h = (datetime.now(timezone.utc) - datetime.fromisoformat(old["updated"])).total_seconds() / 3600
+        if old.get("complete") and age_h < 20:
+            print("economy: up to date")
+            return
+    except Exception:
+        pass
+    old_items = {x["id"]: x for x in old.get("items", [])}
+    items, failed = [], 0
     this_year = datetime.now(timezone.utc).year
     for code, name, name_hi, kind, note, note_hi in ECONOMY:
-        try:
-            vals = wb_latest_two(code)
-        except Exception as e:
-            print(f"  economy: {code} failed ({type(e).__name__})")
+        vals, err = None, ""
+        for attempt in range(2):  # the World Bank API is sometimes slow, so try twice
+            try:
+                vals = wb_latest_two(code)
+                break
+            except Exception as e:
+                err = type(e).__name__
+                time.sleep(3)
+        if vals is None:
+            failed += 1
+            print(f"  economy: {code} failed ({err})" + (", keeping the last saved figure" if code in old_items else ""))
+            if code in old_items:
+                items.append(old_items[code])
             continue
         if not vals or vals[0][0] < this_year - ECON_MAX_AGE_YEARS:
             print(f"  economy: {code} skipped (no recent value)")
@@ -606,19 +629,15 @@ def update_economy():
     if not items:
         print("economy: nothing to write")
         return
-    try:
-        with open(ECON_FILE, encoding="utf-8") as f:
-            old = json.load(f)
-    except Exception:
-        old = {}
-    if old.get("items") == items:
-        print(f"economy: {len(items)} figures, unchanged")
+    complete = failed == 0
+    if old.get("items") == items and old.get("complete") == complete and not complete:
+        print(f"economy: {len(items)} figures, {failed} could not be refreshed, will retry next run")
         return
     out = {"source": "World Bank", "licence": "CC BY 4.0", "attribution": ECON_ATTRIBUTION,
-           "updated": datetime.now(timezone.utc).isoformat(), "items": items}
+           "updated": datetime.now(timezone.utc).isoformat(), "complete": complete, "items": items}
     with open(ECON_FILE, "w", encoding="utf-8") as f:
         f.write(json.dumps(out, ensure_ascii=False, indent=2) + "\n")
-    print(f"economy: {len(items)} figures written")
+    print(f"economy: {len(items)} figures written" + ("" if complete else f" ({failed} not refreshed)"))
 
 
 # ---------- main ----------
