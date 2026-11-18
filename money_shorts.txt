@@ -1,6 +1,122 @@
 [
   {
     "v": 3,
+    "cat": "Markets",
+    "tk": "COAL INDIA",
+    "title": "Mahanadi Coalfields files RHP; Coal India offer for sale opens November 19",
+    "summary": "Mahanadi Coalfields' red herring prospectus sets out an offer for sale of up to 66.18 crore shares by Coal India, with bidding from November 19 to November 23, 2026.",
+    "source": "Oquilia",
+    "published": "2026-11-18T04:24:01.614000+00:00",
+    "ago": "1h",
+    "impact": "Neutral",
+    "why": "Offer for sale of existing shares.",
+    "url": "https://www.oquilia.com/news/mahanadi-coalfields-rhp-filed-ipo-opens-november-19",
+    "chips": {
+      "Shares": "66.18 crore",
+      "Start Date": "November 19"
+    },
+    "trend": [
+      0.5,
+      0.55,
+      0.45,
+      0.5,
+      0.47,
+      0.52,
+      0.5
+    ],
+    "color": "B7791F",
+    "premium": false,
+    "verbatim": false,
+    "src_title": "Mahanadi Coalfields files RHP; Coal India offer for sale opens November 19",
+    "src_summary": "Mahanadi Coalfields' red herring prospectus sets out an offer for sale of up to 66.18 crore shares by Coal India, with bidding from November 19 to November 23, 2026.",
+    "title_hi": "Mahanadi Coalfields ने RHP दाखिल किया; Coal India की बिक्री के लिए पेशकश 19 नवंबर को खुलेगी",
+    "summary_hi": "Mahanadi Coalfields के रेड हेरिंग प्रॉस्पेक्टस में Coal India द्वारा 66.18 करोड़ तक के शेयरों की बिक्री की पेशकश निर्धारित की गई है, जिसमें 19 नवंबर से 23 नवंबर 2026 तक बोली लगाई जाएगी।",
+    "why_hi": "मौजूदा शेयरों की बिक्री की पेशकश।",
+    "chips_hi": {
+      "शेयर": "66.18 करोड़",
+      "प्रारंभ तिथि": "19 नवंबर"
+    }
+  },
+  {
+    "v": 3,
+    "cat": "Markets",
+    "tk": "MARKETS",
+    "title": "ACME Solar unit signs 150 MW hybrid power deal with NTPC at Rs 3.21 a unit",
+    "summary": "ACME Solar Holdings said in a filing with the National Stock Exchange that its subsidiary signed a power purchase agreement with NTPC for a 150 MW hybrid project at a tariff of Rs 3.21 per unit.",
+    "source": "Oquilia",
+    "published": "2026-11-18T03:45:55.124000+00:00",
+    "ago": "2h",
+    "impact": "Positive",
+    "why": "Secured a new power purchase agreement.",
+    "url": "https://www.oquilia.com/news/acme-solar-unit-signs-150-mw-hybrid-power-deal-with-ntpc",
+    "chips": {
+      "Capacity": "150 MW",
+      "Tariff": "Rs 3.21/unit"
+    },
+    "trend": [
+      0.1,
+      0.25,
+      0.2,
+      0.5,
+      0.45,
+      0.8,
+      0.95
+    ],
+    "color": "0F766E",
+    "premium": false,
+    "verbatim": false,
+    "src_title": "ACME Solar unit signs 150 MW hybrid power deal with NTPC at Rs 3.21 a unit",
+    "src_summary": "ACME Solar Holdings said in a filing with the National Stock Exchange that its subsidiary signed a power purchase agreement with NTPC for a 150 MW hybrid project at a tariff of Rs 3.21 per unit.",
+    "title_hi": "ACME Solar unit ने NTPC के साथ 150 MW हाइब्रिड पावर डील Rs 3.21 प्रति यूनिट पर साइन की",
+    "summary_hi": "ACME Solar Holdings ने National Stock Exchange को दी गई फाइलिंग में कहा कि उसकी subsidiary ने NTPC के साथ 150 MW हाइब्रिड प्रोजेक्ट के लिए Rs 3.21 प्रति यूनिट टैरिफ पर पावर परचेस समझौता साइन किया है।",
+    "why_hi": "नया पावर परचेस समझौता हासिल हुआ।",
+    "chips_hi": {
+      "क्षमता": "150 MW",
+      "टैरिफ": "Rs 3.21/unit"
+    }
+  },
+  {
+    "v": 3,
+    "cat": "Markets",
+    "tk": "MARKETS",
+    "title": "Pre-market: Nifty 50 stands at 25,387.4 after bank-led gain",
+    "summary": "The Nifty 50 closed at 25,387.4 on Tuesday, 17 November, up 96.3 points or 0.38%, as Nifty Bank rose 1.13% while declines (1,404) outnumbered advances (1,318).",
+    "source": "Oquilia",
+    "published": "2026-11-18T02:33:17.952000+00:00",
+    "ago": "3h",
+    "impact": "Neutral",
+    "why": "Routine market update with mixed breadth.",
+    "url": "https://www.oquilia.com/news/nifty-50-pre-market-18-november-2026",
+    "chips": {
+      "Nifty 50": "25,387.4",
+      "Gain": "0.38%",
+      "Nifty Bank": "1.13%"
+    },
+    "trend": [
+      0.5,
+      0.55,
+      0.45,
+      0.5,
+      0.47,
+      0.52,
+      0.5
+    ],
+    "color": "B7791F",
+    "premium": false,
+    "verbatim": false,
+    "src_title": "Pre-market: Nifty 50 stands at 25,387.4 after a bank-led gain on Tuesday",
+    "src_summary": "The Nifty 50 closed at 25,387.4 on Tuesday, 17 November, up 96.3 points or 0.38%, as Nifty Bank rose 1.13% while declines (1,404) outnumbered advances (1,318).",
+    "title_hi": "प्री-मार्केट: बैंक-प्रेरित तेजी के बाद Nifty 50 25,387.4 पर है",
+    "summary_hi": "Nifty 50 मंगलवार, 17 नवंबर को 96.3 अंक या 0.38% की बढ़त के साथ 25,387.4 पर बंद हुआ, क्योंकि Nifty Bank 1.13% बढ़ा जबकि गिरावट वाले शेयर (1,404) बढ़त वाले शेयरों (1,318) से अधिक थे।",
+    "why_hi": "मिश्रित बाजार अपडेट।",
+    "chips_hi": {
+      "Nifty 50": "25,387.4",
+      "बढ़ت": "0.38%",
+      "Nifty Bank": "1.13%"
+    }
+  },
+  {
+    "v": 3,
     "cat": "Finance",
     "tk": "FINANCE",
     "title": "Sold Farmland? Section 83 of the Income-tax Act 2025 Exempts Gain If New Agricultural Land Bought Within Two Years",
@@ -33,7 +149,9 @@
     "why_hi": "कंपनियों पर कोई सीधा प्रभाव नहीं।",
     "chips_hi": {
       "सेक्शन": "83"
-    }
+    },
+    "hi_tries": 0,
+    "hi_ver": 2
   },
   {
     "v": 3,
@@ -71,7 +189,9 @@
     "chips_hi": {
       "Nifty 50": "25,387.40",
       "बदलाव": "+0.38%"
-    }
+    },
+    "hi_tries": 0,
+    "hi_ver": 2
   },
   {
     "v": 3,
@@ -109,7 +229,9 @@
     "chips_hi": {
       "तारीख": "1 जनवरी 2027",
       "स्वैच्छिक तारीख": "15 दिसंबर 2026"
-    }
+    },
+    "hi_tries": 0,
+    "hi_ver": 2
   },
   {
     "v": 3,
@@ -147,7 +269,9 @@
     "chips_hi": {
       "तारीख": "3 April 1997",
       "राशि": "Rs 9 lakh"
-    }
+    },
+    "hi_tries": 0,
+    "hi_ver": 2
   },
   {
     "v": 3,
@@ -1411,130 +1535,6 @@
     "why_hi": "ऑडिट के इस्तीफे से अनिश्चितता बढ़ती है।",
     "chips_hi": {
       "इस्तीफा तिथि": "13 Nov 2026"
-    },
-    "hi_tries": 0,
-    "hi_ver": 2
-  },
-  {
-    "v": 3,
-    "cat": "Earnings",
-    "tk": "PATANJALI FOODS",
-    "title": "Patanjali Foods Q2 net profit falls 18.8% to Rs 419.8 crore",
-    "summary": "Patanjali Foods told the National Stock Exchange its standalone Q2 FY27 revenue rose 15.6% to Rs 11,322.58 crore, while net profit fell 18.8% to Rs 419.8 crore from a year earlier.",
-    "source": "Oquilia",
-    "published": "2026-11-14T08:46:50.903000+00:00",
-    "ago": "1h",
-    "impact": "Negative",
-    "why": "Net profit declined by 18.8 percent.",
-    "url": "https://www.oquilia.com/news/patanjali-foods-q2-results-standalone-net-profit-falls-18-8-percent",
-    "chips": {
-      "Net Profit Fall": "18.8%",
-      "Net Profit": "Rs 419.8 crore",
-      "Revenue Growth": "15.6%"
-    },
-    "trend": [
-      0.95,
-      0.85,
-      0.7,
-      0.6,
-      0.4,
-      0.3,
-      0.1
-    ],
-    "color": "9B2C2C",
-    "premium": false,
-    "verbatim": false,
-    "src_title": "Patanjali Foods Q2 results: standalone net profit falls 18.8% to Rs 419.8 crore",
-    "src_summary": "Patanjali Foods told the National Stock Exchange its standalone Q2 FY27 revenue rose 15.6% to Rs 11,322.58 crore, while net profit fell 18.8% to Rs 419.8 crore from a year earlier.",
-    "title_hi": "Patanjali Foods का Q2 शुद्ध लाभ 18.8% घटकर 419.8 करोड़ रुपये हुआ",
-    "summary_hi": "Patanjali Foods ने National Stock Exchange को बताया कि उसका स्टैंडअलोन Q2 FY27 का राजस्व 15.6% बढ़कर 11,322.58 करोड़ रुपये हो गया, जबकि शुद्ध लाभ एक साल पहले की तुलना में 18.8% घटकर 419.8 करोड़ रुपये रह गया।",
-    "why_hi": "शुद्ध लाभ में 18.8 प्रतिशत की गिरावट आई।",
-    "chips_hi": {
-      "शुद्ध लाभ में गिरावट": "18.8%",
-      "शुद्ध लाभ": "419.8 करोड़ रुपये",
-      "राजस्व वृद्धि": "15.6%"
-    },
-    "hi_tries": 0,
-    "hi_ver": 2
-  },
-  {
-    "v": 3,
-    "cat": "Earnings",
-    "tk": "SAMMAAN CAPITAL",
-    "title": "Sammaan Capital Q2 net profit rises 1.3% to Rs 312.34 crore",
-    "summary": "Sammaan Capital said in its National Stock Exchange filing that consolidated net profit for the September 2026 quarter was Rs 312.34 crore, up 1.3% on the year, while revenue from operations fell 17.8%.",
-    "source": "Oquilia",
-    "published": "2026-11-14T06:46:23.098000+00:00",
-    "ago": "3h",
-    "impact": "Positive",
-    "why": "Net profit increased year-on-year.",
-    "url": "https://www.oquilia.com/news/sammaan-capital-q2-results-net-profit-rises-1-3-percent",
-    "chips": {
-      "Net Profit": "Rs 312.34 crore",
-      "Profit Growth": "1.3%",
-      "Revenue Drop": "17.8%"
-    },
-    "trend": [
-      0.1,
-      0.25,
-      0.2,
-      0.5,
-      0.45,
-      0.8,
-      0.95
-    ],
-    "color": "0F766E",
-    "premium": false,
-    "verbatim": false,
-    "src_title": "Sammaan Capital Q2 results: net profit rises 1.3% to Rs 312.34 crore",
-    "src_summary": "Sammaan Capital said in its National Stock Exchange filing that consolidated net profit for the September 2026 quarter was Rs 312.34 crore, up 1.3% on the year, while revenue from operations fell 17.8%.",
-    "title_hi": "Sammaan Capital की Q2 शुद्ध आय 1.3% बढ़कर 312.34 करोड़ रुपये हुई",
-    "summary_hi": "Sammaan Capital ने अपने नेशनल स्टॉक एक्सचेंज फाइलिंग में कहा कि सितंबर 2026 तिमाही के लिए समेकित शुद्ध लाभ साल-दर-साल 1.3% बढ़कर 312.34 करोड़ रुपये हो गया, जबकि परिचालन से राजस्व 17.8% गिर गया।",
-    "why_hi": "शुद्ध लाभ में साल-दर-साल वृद्धि हुई।",
-    "chips_hi": {
-      "शुद्ध लाभ": "312.34 करोड़ रुपये",
-      "लाभ वृद्धि": "1.3%",
-      "राजस्व में गिरावट": "17.8%"
-    },
-    "hi_tries": 0,
-    "hi_ver": 2
-  },
-  {
-    "v": 3,
-    "cat": "Markets",
-    "tk": "MARKETS",
-    "title": "SVF II Meerkat sells 7,64,00,000 Meesho shares in NSE block deal at Rs 246.75",
-    "summary": "SVF II Meerkat (DE) LLC sold 7,64,00,000 shares of Meesho Limited at Rs 246.75 each in a block deal on 13 November 2026, according to the National Stock Exchange's deal data.",
-    "source": "Oquilia",
-    "published": "2026-11-14T06:21:52.074000+00:00",
-    "ago": "3h",
-    "impact": "Neutral",
-    "why": "Large stake sale is a normal transaction.",
-    "url": "https://www.oquilia.com/news/svf-ii-meerkat-sells-meesho-shares-nse-block-deal",
-    "chips": {
-      "Shares Sold": "7,64,00,000",
-      "Price": "Rs 246.75"
-    },
-    "trend": [
-      0.5,
-      0.55,
-      0.45,
-      0.5,
-      0.47,
-      0.52,
-      0.5
-    ],
-    "color": "B7791F",
-    "premium": false,
-    "verbatim": false,
-    "src_title": "SVF II Meerkat sells 7,64,00,000 Meesho shares in NSE block deal at Rs 246.75",
-    "src_summary": "SVF II Meerkat (DE) LLC sold 7,64,00,000 shares of Meesho Limited at Rs 246.75 each in a block deal on 13 November 2026, according to the National Stock Exchange's deal data.",
-    "title_hi": "SVF II Meerkat ने NSE ब्लॉक डील में 246.75 रुपये पर 7,64,00,000 Meesho शेयर बेचे",
-    "summary_hi": "National Stock Exchange के डील डेटा के अनुसार, SVF II Meerkat (DE) LLC ने 13 नवंबर 2026 को एक ब्लॉक डील में Meesho Limited के 7,64,00,000 शेयर 246.75 रुपये प्रति शेयर की दर से बेचे।",
-    "why_hi": "बड़ी हिस्सेदारी बेचना एक सामान्य सौदा है।",
-    "chips_hi": {
-      "बेचे गए शेयर": "7,64,00,000",
-      "कीमत": "Rs 246.75"
     },
     "hi_tries": 0,
     "hi_ver": 2
