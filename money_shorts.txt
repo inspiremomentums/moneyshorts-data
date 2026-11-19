@@ -1,6 +1,297 @@
 [
   {
     "v": 3,
+    "cat": "Companies",
+    "tk": "JUBILANT",
+    "title": "Jubilant Ingrevia says its chief financial officer has resigned",
+    "summary": "Jubilant Ingrevia said in a filing with the National Stock Exchange that its chief financial officer has resigned, effective close of business on 30 November 2026, citing a better opportunity.",
+    "source": "Oquilia",
+    "published": "2026-11-19T06:46:12.972000+00:00",
+    "ago": "2h",
+    "impact": "Neutral",
+    "why": "CFO resignation due to better opportunity.",
+    "url": "https://www.oquilia.com/news/jubilant-ingrevia-chief-financial-officer-resigns",
+    "chips": {
+      "Effective Date": "30 November 2026"
+    },
+    "trend": [
+      0.5,
+      0.55,
+      0.45,
+      0.5,
+      0.47,
+      0.52,
+      0.5
+    ],
+    "color": "B7791F",
+    "premium": false,
+    "verbatim": false,
+    "src_title": "Jubilant Ingrevia says its chief financial officer has resigned, effective 30 November",
+    "src_summary": "Jubilant Ingrevia said in a filing with the National Stock Exchange that its chief financial officer has resigned, effective close of business on 30 November 2026, citing a better opportunity.",
+    "title_hi": "Jubilant Ingrevia ने कहा कि उसके मुख्य वित्तीय अधिकारी ने इस्तीफा दे दिया है",
+    "summary_hi": "Jubilant Ingrevia ने National Stock Exchange को दी गई एक फाइलिंग में कहा कि उसके मुख्य वित्तीय अधिकारी ने बेहतर अवसर का हवाला देते हुए 30 नवंबर 2026 को कारोबार बंद होने पर इस्तीफा दे दिया है।",
+    "why_hi": "बेहतर अवसर के कारण CFO का इस्तीफा।",
+    "chips_hi": {
+      "प्रभावी तिथि": "30 नवंबर 2026"
+    }
+  },
+  {
+    "v": 3,
+    "cat": "Markets",
+    "tk": "MARKETS",
+    "title": "NBCC says it won work orders worth Rs 84.87 crore from Ravenshaw University",
+    "summary": "NBCC (India) said in a filing with the National Stock Exchange that it has been awarded work orders of about Rs 84.87 crore, excluding GST, by Ravenshaw University in Cuttack, Odisha.",
+    "source": "Oquilia",
+    "published": "2026-11-19T06:46:09.658000+00:00",
+    "ago": "2h",
+    "impact": "Positive",
+    "why": "New work orders boost order book.",
+    "url": "https://www.oquilia.com/news/nbcc-work-orders-rs-84-87-crore-ravenshaw-university",
+    "chips": {
+      "Order Value": "Rs 84.87 crore"
+    },
+    "trend": [
+      0.1,
+      0.25,
+      0.2,
+      0.5,
+      0.45,
+      0.8,
+      0.95
+    ],
+    "color": "0F766E",
+    "premium": false,
+    "verbatim": false,
+    "src_title": "NBCC says it won work orders worth Rs 84.87 crore from Ravenshaw University",
+    "src_summary": "NBCC (India) said in a filing with the National Stock Exchange that it has been awarded work orders of about Rs 84.87 crore, excluding GST, by Ravenshaw University in Cuttack, Odisha.",
+    "title_hi": "NBCC ने कहा कि उसे Ravenshaw University से 84.87 करोड़ रुपये के वर्क ऑर्डर मिले",
+    "summary_hi": "NBCC (India) ने नेशनल स्टॉक एक्सचेंज को दी गई जानकारी में बताया कि उसे कटक, ओडिशा स्थित Ravenshaw University से जीएसटी को छोड़कर लगभग 84.87 करोड़ रुपये के वर्क ऑर्डर मिले हैं।",
+    "why_hi": "नए वर्क ऑर्डर से ऑर्डर बुक बढ़ी।",
+    "chips_hi": {
+      "ऑर्डर मूल्य": "Rs 84.87 crore"
+    }
+  },
+  {
+    "v": 3,
+    "cat": "Finance",
+    "tk": "BANK OF BARODA",
+    "title": "Telangana High Court restores Bank of Baroda auction, says 30-day notice was met",
+    "summary": "The Telangana High Court set aside a DRAT order that had cancelled a Bank of Baroda auction, holding the bank gave the 30-day notice of sale the SARFAESI rules require.",
+    "source": "Oquilia",
+    "published": "2026-11-19T05:38:03.540000+00:00",
+    "ago": "3h",
+    "impact": "Positive",
+    "why": "Auction restored in bank's favor.",
+    "url": "https://www.oquilia.com/news/telangana-high-court-restores-bank-of-baroda-auction-30-day-notice",
+    "chips": {
+      "Notice Period": "30-day"
+    },
+    "trend": [
+      0.1,
+      0.25,
+      0.2,
+      0.5,
+      0.45,
+      0.8,
+      0.95
+    ],
+    "color": "0F766E",
+    "premium": false,
+    "verbatim": false,
+    "src_title": "Telangana High Court restores Bank of Baroda auction, says 30-day notice was met",
+    "src_summary": "The Telangana High Court set aside a DRAT order that had cancelled a Bank of Baroda auction, holding the bank gave the 30-day notice of sale the SARFAESI rules require.",
+    "hi_tries": 1,
+    "title_hi": "तेलंगाना हाई कोर्ट ने Bank of Baroda की नीलामी बहाल की, कहा 30-day का नोटिस पूरा किया गया था",
+    "summary_hi": "तेलंगाना हाई कोर्ट ने DRAT के उस आदेश को रद्द कर दिया जिसमें Bank of Baroda की एक नीलामी को रद्द कर दिया गया था, और यह माना कि बैंक ने SARFAESI नियमों के अनुसार बिक्री का 30-day का नोटिस दिया था।",
+    "why_hi": "बैंक के पक्ष में नीलामी बहाल की गई।",
+    "chips_hi": {
+      "नोटिस अवधि": "30-day"
+    }
+  },
+  {
+    "v": 3,
+    "cat": "Finance",
+    "tk": "FINANCE",
+    "title": "ITAT Jaipur: wrong clause in Form 10AB no ground to reject trust tax registration",
+    "summary": "The Income Tax Appellate Tribunal, Jaipur, set aside the rejection of a charitable trust's 12AB registration and 80G approval, holding the tax officer must decide them on merits.",
+    "source": "Oquilia",
+    "published": "2026-11-19T04:35:21.405000+00:00",
+    "ago": "4h",
+    "impact": "Neutral",
+    "why": "Procedural tax ruling without financial impact.",
+    "url": "https://www.oquilia.com/news/itat-jaipur-wrong-clause-form-10ab-trust-registration",
+    "chips": {},
+    "trend": [
+      0.5,
+      0.55,
+      0.45,
+      0.5,
+      0.47,
+      0.52,
+      0.5
+    ],
+    "color": "B7791F",
+    "premium": false,
+    "verbatim": false,
+    "src_title": "ITAT Jaipur: wrong clause in Form 10AB no ground to reject trust's tax registration",
+    "src_summary": "The Income Tax Appellate Tribunal, Jaipur, set aside the rejection of a charitable trust's 12AB registration and 80G approval, holding the tax officer must decide them on merits.",
+    "hi_tries": 1
+  },
+  {
+    "v": 3,
+    "cat": "IPO",
+    "tk": "COAL INDIA",
+    "title": "Mahanadi Coalfields IPO opens as Coal India offers 66.18 crore shares",
+    "summary": "Mahanadi Coalfields' IPO, an offer for sale of up to 661,836,300 shares by Coal India, is open from November 19 to 23, 2026, per its RHP filed with SEBI.",
+    "source": "Oquilia",
+    "published": "2026-11-19T04:24:33.408000+00:00",
+    "ago": "4h",
+    "impact": "Neutral",
+    "why": "Subsidiary share sale does not impact fundamentals.",
+    "url": "https://www.oquilia.com/news/mahanadi-coalfields-ipo-opens-coal-india-offer-for-sale",
+    "chips": {
+      "Shares": "66.18 crore"
+    },
+    "trend": [
+      0.5,
+      0.55,
+      0.45,
+      0.5,
+      0.47,
+      0.52,
+      0.5
+    ],
+    "color": "B7791F",
+    "premium": false,
+    "verbatim": false,
+    "src_title": "Mahanadi Coalfields IPO opens as Coal India offers 66.18 crore shares",
+    "src_summary": "Mahanadi Coalfields' IPO, an offer for sale of up to 661,836,300 shares by Coal India, is open from November 19 to 23, 2026, per its RHP filed with SEBI.",
+    "hi_tries": 1,
+    "title_hi": "महानदी कोलफील्ड्स IPO खुला, क्योंकि Coal India ने 66.18 करोड़ शेयर पेश किए",
+    "summary_hi": "SEBI के पास दाखिल RHP के अनुसार, Coal India द्वारा 66,18,36,300 शेयरों तक की बिक्री का प्रस्ताव महानदी कोलफील्ड्स का IPO 19 से 23 नवंबर, 2026 तक खुला है।",
+    "why_hi": "सहायक कंपनी की शेयर बिक्री बुनियादी बातों को प्रभावित नहीं करती है।",
+    "chips_hi": {
+      "शेयर": "66.18 करोड़"
+    }
+  },
+  {
+    "v": 3,
+    "cat": "Markets",
+    "tk": "MARKETS",
+    "title": "Pre-market: Nifty 50 at 25,227.95 after midcaps lead Wednesday's broad slide",
+    "summary": "The Nifty 50 closed at 25,227.95 on Wednesday, 18 November, down 159.45 points or 0.63%, as 2,035 NSE stocks fell against 693 that rose and midcaps lost 1.22%.",
+    "source": "Oquilia",
+    "published": "2026-11-19T02:33:31.759000+00:00",
+    "ago": "6h",
+    "impact": "Neutral",
+    "why": "Market wide indices closed lower.",
+    "url": "https://www.oquilia.com/news/nifty-50-pre-market-19-november-2026",
+    "chips": {
+      "Nifty 50": "25,227.95",
+      "Decline": "0.63%",
+      "Midcaps loss": "1.22%"
+    },
+    "trend": [
+      0.5,
+      0.55,
+      0.45,
+      0.5,
+      0.47,
+      0.52,
+      0.5
+    ],
+    "color": "B7791F",
+    "premium": false,
+    "verbatim": false,
+    "src_title": "Pre-market: Nifty 50 at 25,227.95 after midcaps lead Wednesday's broad slide",
+    "src_summary": "The Nifty 50 closed at 25,227.95 on Wednesday, 18 November, down 159.45 points or 0.63%, as 2,035 NSE stocks fell against 693 that rose and midcaps lost 1.22%.",
+    "title_hi": "प्री-मार्केट: बुधवार की बड़ी गिरावट के बाद Nifty 50, 25,227.95 पर",
+    "summary_hi": "Nifty 50 बुधवार, 18 नवंबर को 25,227.95 पर बंद हुआ, जो 159.45 अंक या 0.63% नीचे है, क्योंकि 2,035 NSE शेयर गिरे जबकि 693 चढ़े और midcaps में 1.22% की गिरावट आई।",
+    "why_hi": "व्यापक बाजार सूचकांक नीचे बंद हुए।",
+    "chips_hi": {
+      "Nifty 50": "25,227.95",
+      "गिरावट": "0.63%",
+      "Midcaps नुकसान": "1.22%"
+    }
+  },
+  {
+    "v": 3,
+    "cat": "Finance",
+    "tk": "FINANCE",
+    "title": "Claiming Relief Under Section 157 of the Income-tax Act 2025 for Salary or Family-Pension Arrears",
+    "summary": "Section 157 of the Income-tax Act 2025, successor to section 89, gives relief when salary or family-pension arrears push you into a higher slab. How it is computed, with a worked example.",
+    "source": "Oquilia",
+    "published": "2026-11-19T00:40:54.927000+00:00",
+    "ago": "8h",
+    "impact": "Neutral",
+    "why": "Tax relief provision update for individuals.",
+    "url": "https://www.oquilia.com/news/oquilia-research-arrears-salary-relief-section-157-income-tax-act-2025",
+    "chips": {
+      "Section": "157",
+      "Act": "Income-tax Act 2025"
+    },
+    "trend": [
+      0.5,
+      0.55,
+      0.45,
+      0.5,
+      0.47,
+      0.52,
+      0.5
+    ],
+    "color": "B7791F",
+    "premium": false,
+    "verbatim": false,
+    "src_title": "Got Salary Arrears or Family-Pension Arrears in One Year? Claiming Relief Under Section 157 of the Income-tax Act 2025",
+    "src_summary": "Section 157 of the Income-tax Act 2025, successor to section 89, gives relief when salary or family-pension arrears push you into a higher slab. How it is computed, with a worked example.",
+    "title_hi": "सैलरी या फैमिली-पेंशन एरियर पर Income-tax Act 2025 की धारा 157 के तहत राहत का दावा करना",
+    "summary_hi": "Income-tax Act 2025 की धारा 157, जो धारा 89 की उत्तराधिकारी है, सैलरी या फैमिली-पेंशन एरियर के उच्च स्लैब में जाने पर राहत देती है। इसकी गणना कैसे होती है, एक उदाहरण के साथ।",
+    "why_hi": "व्यक्तियों के लिए कर राहत प्रावधान।",
+    "chips_hi": {
+      "धारा": "157",
+      "एक्ट": "Income-tax Act 2025"
+    }
+  },
+  {
+    "v": 3,
+    "cat": "Companies",
+    "tk": "COMPUAGE INFOCOM",
+    "title": "NCLT orders liquidation of Compuage Infocom after no plan won approval",
+    "summary": "Compuage Infocom told the National Stock Exchange that the NCLT's Mumbai bench ordered its liquidation on 18 November 2026, as no resolution plan got the 66% creditor vote.",
+    "source": "Oquilia",
+    "published": "2026-11-18T17:46:36.047000+00:00",
+    "ago": "15h",
+    "impact": "Negative",
+    "why": "Company is facing liquidation after resolution failure.",
+    "url": "https://www.oquilia.com/news/nclt-orders-liquidation-compuage-infocom-no-resolution-plan-approved",
+    "chips": {
+      "Liquidation Date": "18 November 2026",
+      "Creditor Vote Requir": "66%"
+    },
+    "trend": [
+      0.95,
+      0.85,
+      0.7,
+      0.6,
+      0.4,
+      0.3,
+      0.1
+    ],
+    "color": "9B2C2C",
+    "premium": false,
+    "verbatim": false,
+    "src_title": "NCLT orders liquidation of Compuage Infocom after no plan won approval",
+    "src_summary": "Compuage Infocom told the National Stock Exchange that the NCLT's Mumbai bench ordered its liquidation on 18 November 2026, as no resolution plan got the 66% creditor vote.",
+    "title_hi": "NCLT ने Compuage Infocom के liquidation का आदेश दिया",
+    "summary_hi": "Compuage Infocom ने National Stock Exchange को बताया कि NCLT की मुंबई बेंच ने 18 November 2026 को इसके liquidation का आदेश दिया, क्योंकि किसी भी resolution plan को 66% लेनदारों का वोट नहीं मिला।",
+    "why_hi": "संक समाधान विफल होने पर कंपनी का परिसमापन।",
+    "chips_hi": {
+      "Liquidation की तारीख": "18 November 2026",
+      "आवश्यक लेनदार वोट": "66%"
+    }
+  },
+  {
+    "v": 3,
     "cat": "Markets",
     "tk": "MARKETS",
     "title": "Jio Financial invests Rs 123 crore in Jio BlackRock JV",
@@ -37,7 +328,9 @@
       "निवेश": "Rs 123 crore",
       "शेयर": "12.3 crore",
       "तारीख": "18 Nov 2026"
-    }
+    },
+    "hi_tries": 0,
+    "hi_ver": 2
   },
   {
     "v": 3,
@@ -77,7 +370,9 @@
       "Nifty 50": "25,227.95",
       "गिरावट": "0.63%",
       "कंज्यूमर ड्यूरेबल्स": "-3.13%"
-    }
+    },
+    "hi_tries": 0,
+    "hi_ver": 2
   },
   {
     "v": 3,
@@ -106,7 +401,8 @@
     "verbatim": false,
     "src_title": "IFCI says Delhi High Court recorded SFIO stand of no action against it",
     "src_summary": "IFCI said in a filing with the National Stock Exchange that the Delhi High Court recorded SFIO's stand that its investigation report did not recommend any action against IFCI.",
-    "hi_tries": 1
+    "hi_tries": 1,
+    "hi_ver": 2
   },
   {
     "v": 3,
@@ -144,7 +440,9 @@
     "chips_hi": {
       "H1 Net Profit": "Rs 1,09,540 crore",
       "Growth": "16.9%"
-    }
+    },
+    "hi_tries": 0,
+    "hi_ver": 2
   },
   {
     "v": 3,
@@ -182,7 +480,9 @@
     "chips_hi": {
       "तारीख": "23 फरवरी 2022",
       "धारा": "14B"
-    }
+    },
+    "hi_tries": 0,
+    "hi_ver": 2
   },
   {
     "v": 3,
@@ -211,11 +511,12 @@
     "verbatim": false,
     "src_title": "Returned to India for Good? Section 217 Lets You Keep the NRI Investment-Income Regime on Old Foreign-Exchange Assets Until You Sell",
     "src_summary": "Section 217 of the Income-tax Act, 2025 lets a returning NRI keep the 20% investment-income rate on public-company debentures, deposits and G-secs bought in foreign exchange, by declaration in the first resident return.",
-    "hi_tries": 1,
+    "hi_tries": 0,
     "title_hi": "Section 217 लौट रहे NRI को बिक्री तक पुराने एसेट्स पर इन्वेस्टमेंट-इनकम रेजिम बनाए रखने की अनुमति देती है",
     "summary_hi": "Income-tax Act, 2025 की Section 217 एक लौट रहे NRI को पहले रेजिडेंट रिटर्न में घोषणा करके, विदेशी मुद्रा में खरीदे गए पब्लिक-कंपनी डिबेंचर, डिपॉजिट और G-sec पर 20% इन्वेस्टमेंट-इनकम रेट बनाए रखने की अनुमति देती है।",
     "why_hi": "लौट रहे NRI के लिए टैक्स नियम।",
-    "chips_hi": {}
+    "chips_hi": {},
+    "hi_ver": 2
   },
   {
     "v": 3,
@@ -1210,320 +1511,6 @@
     "src_title": "ITAT Hyderabad deletes Rs 24.1 lakh tax addition on housing society, cites consistency",
     "src_summary": "The Income Tax Appellate Tribunal in Hyderabad deleted a Rs 24,10,110 addition to a co-operative housing society's income, holding the tax officer could not depart from the view accepted a year earlier.",
     "hi_tries": 2,
-    "hi_ver": 2
-  },
-  {
-    "v": 3,
-    "cat": "Markets",
-    "tk": "MARKETS",
-    "title": "Nifty 50 starts the week at 25,144.3 after Friday sell-off",
-    "summary": "The Nifty 50 closed at 25,144.3 on Friday, 13 November, down 0.61%, as 1,777 stocks declined against 939 advances and every sector index ended lower.",
-    "source": "Oquilia",
-    "published": "2026-11-16T02:33:47.375000+00:00",
-    "ago": "4h",
-    "impact": "Neutral",
-    "why": "Broad market decline following Friday sell-off.",
-    "url": "https://www.oquilia.com/news/nifty-50-pre-market-16-november-2026",
-    "chips": {
-      "Nifty 50": "25,144.3",
-      "Change": "-0.61%",
-      "Declined Stocks": "1,777"
-    },
-    "trend": [
-      0.5,
-      0.55,
-      0.45,
-      0.5,
-      0.47,
-      0.52,
-      0.5
-    ],
-    "color": "B7791F",
-    "premium": false,
-    "verbatim": false,
-    "src_title": "Pre-market: Nifty 50 starts the week at 25,144.3 after a broad Friday sell-off",
-    "src_summary": "The Nifty 50 closed at 25,144.3 on Friday, 13 November, down 0.61%, as 1,777 stocks declined against 939 advances and every sector index ended lower.",
-    "title_hi": "शुक्रवार की बिकवाली के बाद Nifty 50 ने 25,144.3 पर की हफ्ते की शुरुआत",
-    "summary_hi": "शुक्रवार, 13 नवंबर को Nifty 50 0.61% गिरकर 25,144.3 पर बंद हुआ, क्योंकि 939 शेयरों की बढ़त के मुकाबले 1,777 शेयरों में गिरावट आई और सभी सेक्टर इंडेक्स नीचे बंद हुए।",
-    "why_hi": "शुक्रवार की बिकवाली के बाद व्यापक बाजार में गिरावट।",
-    "chips_hi": {
-      "Nifty 50": "25,144.3",
-      "बदलाव": "-0.61%",
-      "गिरावट वाले शेयर": "1,777"
-    },
-    "hi_tries": 0,
-    "hi_ver": 2
-  },
-  {
-    "v": 3,
-    "cat": "Finance",
-    "tk": "FINANCE",
-    "title": "How Income-tax Act 2025 Splits Goa Married Couples' Income 50:50",
-    "summary": "Spouses governed by Goa's communião dos bens must split rent, interest, business income and capital gains 50:50 under Section 10 of the Income-tax Act 2025; salary stays with the earner.",
-    "source": "Oquilia",
-    "published": "2026-11-16T00:40:47.294000+00:00",
-    "ago": "1h",
-    "impact": "Neutral",
-    "why": "Tax rule clarification without fundamental impact.",
-    "url": "https://www.oquilia.com/news/oquilia-research-goa-couples-communiao-dos-bens-income-split-section-10",
-    "chips": {
-      "Income Split": "50:50"
-    },
-    "trend": [
-      0.5,
-      0.55,
-      0.45,
-      0.5,
-      0.47,
-      0.52,
-      0.5
-    ],
-    "color": "B7791F",
-    "premium": false,
-    "verbatim": false,
-    "src_title": "Married in Goa? How Section 10 of the Income-tax Act 2025 Splits a Couple's Rent, Business and Capital-Gains Income 50:50",
-    "src_summary": "Spouses governed by Goa's communião dos bens must split rent, interest, business income and capital gains 50:50 under Section 10 of the Income-tax Act 2025; salary stays with the earner.",
-    "title_hi": "Income-tax Act 2025 कैसे गोवा के विवाहित जोड़ों की आय को 50:50 बांटता है",
-    "summary_hi": "Income-tax Act 2025 की धारा 10 के तहत गोवा के communião dos bens से शासित पति-पत्नी को किराया, ब्याज, व्यावसायिक आय और पूंजीगत लाभ 50:50 बांटना होगा; वेतन कमाने वाले के पास रहता है।",
-    "why_hi": "बुनियादी प्रभाव के बिना कर नियम स्पष्टीकरण।",
-    "chips_hi": {
-      "आय विभाजन": "50:50"
-    },
-    "hi_tries": 0,
-    "hi_ver": 2
-  },
-  {
-    "v": 3,
-    "cat": "Companies",
-    "tk": "KARNATAKA BANK",
-    "title": "Karnataka Bank MD and CEO ceases to hold office on completing tenure",
-    "summary": "Karnataka Bank said in a filing with the National Stock Exchange that its Managing Director and CEO ceased to hold office from the close of business on 15 November 2026, on completion of tenure.",
-    "source": "Oquilia",
-    "published": "2026-11-15T17:46:07.538000+00:00",
-    "ago": "8h",
-    "impact": "Neutral",
-    "why": "Planned exit of MD and CEO.",
-    "url": "https://www.oquilia.com/news/karnataka-bank-md-ceo-ceases-office-completion-of-tenure",
-    "chips": {
-      "Date": "15 November 2026"
-    },
-    "trend": [
-      0.5,
-      0.55,
-      0.45,
-      0.5,
-      0.47,
-      0.52,
-      0.5
-    ],
-    "color": "B7791F",
-    "premium": false,
-    "verbatim": false,
-    "src_title": "Karnataka Bank MD and CEO ceases to hold office on completing tenure",
-    "src_summary": "Karnataka Bank said in a filing with the National Stock Exchange that its Managing Director and CEO ceased to hold office from the close of business on 15 November 2026, on completion of tenure.",
-    "title_hi": "Karnataka Bank के MD और CEO का कार्यकाल पूरा होने पर पद समाप्त",
-    "summary_hi": "Karnataka Bank ने National Stock Exchange को दी गई जानकारी में बताया कि उनके Managing Director और CEO का कार्यकाल पूरा होने पर 15 November 2026 को कारोबार बंद होने के साथ पद समाप्त हो गया।",
-    "why_hi": "MD और CEO की नियोजित विदाई।",
-    "chips_hi": {
-      "तारीख": "15 November 2026"
-    },
-    "hi_tries": 0,
-    "hi_ver": 2
-  },
-  {
-    "v": 3,
-    "cat": "Finance",
-    "tk": "FINANCE",
-    "title": "PFRDA Extends NPS e-Shramik Incentive for FY 2026-27",
-    "summary": "PFRDA has extended the Rs 100 PoP onboarding incentive under the NPS e-Shramik model to 31 March 2027. How gig workers join, how withdrawals are taxed, and a worked drawdown.",
-    "source": "Oquilia",
-    "published": "2026-11-15T10:34:24.274000+00:00",
-    "ago": "3h",
-    "impact": "Neutral",
-    "why": "Extends existing onboarding incentive for gig workers.",
-    "url": "https://www.oquilia.com/news/oquilia-research-nps-eshramik-gig-worker-pension-fy2026-27",
-    "chips": {
-      "Incentive": "Rs 100",
-      "Deadline": "31 March 2027"
-    },
-    "trend": [
-      0.5,
-      0.55,
-      0.45,
-      0.5,
-      0.47,
-      0.52,
-      0.5
-    ],
-    "color": "B7791F",
-    "premium": false,
-    "verbatim": false,
-    "src_title": "Pension for Gig and Platform Workers: PFRDA Extends the NPS e-Shramik Incentive for FY 2026-27",
-    "src_summary": "PFRDA has extended the Rs 100 PoP onboarding incentive under the NPS e-Shramik model to 31 March 2027. How gig workers join, how withdrawals are taxed, and a worked drawdown.",
-    "title_hi": "PFRDA ने FY 2026-27 के लिए बढ़ाया NPS e-Shramik इंसेंटिव",
-    "summary_hi": "PFRDA ने NPS e-Shramik मॉडल के तहत मिलने वाले 100 रुपये के PoP ऑनबोर्डिंग इंसेंटिव को 31 मार्च 2027 तक बढ़ा दिया है। गिग वर्कर कैसे जुड़ते हैं, निकासी पर कैसे टैक्स लगता है, और एक काम किया गया ड्राडाउन।",
-    "why_hi": "गिग वर्कर्स के लिए इंसेंटिव बढ़ाया गया।",
-    "chips_hi": {
-      "इंसेंटिव": "Rs 100",
-      "समय सीमा": "31 March 2027"
-    },
-    "hi_tries": 0,
-    "hi_ver": 2
-  },
-  {
-    "v": 3,
-    "cat": "Finance",
-    "tk": "FINANCE",
-    "title": "Emigrating Mid-Year With No Plan to Return? How Section 317 Lets the Tax Officer Assess Your Income Before You Leave",
-    "summary": "Section 317 of the Income-tax Act, 2025 lets the Assessing Officer assess income from 1 April to your departure date on a notice of at least 7 days. What it covers, and what it is not.",
-    "source": "Oquilia",
-    "published": "2026-11-15T09:05:39.691000+00:00",
-    "ago": "1h",
-    "impact": "Neutral",
-    "why": "Procedural tax rule without direct fundamental impact.",
-    "url": "https://www.oquilia.com/news/oquilia-research-assessment-of-persons-leaving-india-section-317",
-    "chips": {
-      "Notice period": "7 days"
-    },
-    "trend": [
-      0.5,
-      0.55,
-      0.45,
-      0.5,
-      0.47,
-      0.52,
-      0.5
-    ],
-    "color": "B7791F",
-    "premium": false,
-    "verbatim": false,
-    "src_title": "Emigrating Mid-Year With No Plan to Return? How Section 317 Lets the Tax Officer Assess Your Income Before You Leave",
-    "src_summary": "Section 317 of the Income-tax Act, 2025 lets the Assessing Officer assess income from 1 April to your departure date on a notice of at least 7 days. What it covers, and what it is not.",
-    "title_hi": "कैसे धारा 317 टैक्स अधिकारियों को मध्य-वर्ष प्रवास से पहले आय का आकलन करने देती है",
-    "summary_hi": "आयकर अधिनियम, 2025 की धारा 317 असेसिंग ऑफिसर को कम से कम 7 दिन के नोटिस पर 1 अप्रैल से आपकी प्रस्थान तिथि तक की आय का आकलन करने देती है। यह क्या कवर करती है और क्या नहीं।",
-    "why_hi": "प्रत्येक मौलिक प्रभाव के बिना प्रक्रियात्मक कर नियम।",
-    "chips_hi": {
-      "नोटिस अवधि": "7 days"
-    },
-    "hi_tries": 0,
-    "hi_ver": 2
-  },
-  {
-    "v": 3,
-    "cat": "Companies",
-    "tk": "COMPANIES",
-    "title": "Hindalco unit Novelis to sell two China subsidiaries for about $265 million",
-    "summary": "Hindalco said in a filing with the National Stock Exchange that its subsidiary Novelis Inc. has agreed to sell two wholly-owned China entities for about $265 million.",
-    "source": "Oquilia",
-    "published": "2026-11-15T05:46:37.921000+00:00",
-    "ago": "29m",
-    "impact": "Neutral",
-    "why": "Asset sale has neutral fundamental impact.",
-    "url": "https://www.oquilia.com/news/hindalco-novelis-sale-two-china-subsidiaries-265-million",
-    "chips": {
-      "Deal Value": "$265 million"
-    },
-    "trend": [
-      0.5,
-      0.55,
-      0.45,
-      0.5,
-      0.47,
-      0.52,
-      0.5
-    ],
-    "color": "B7791F",
-    "premium": false,
-    "verbatim": false,
-    "src_title": "Hindalco unit Novelis agrees to sell two China subsidiaries for about $265 million",
-    "src_summary": "Hindalco said in a filing with the National Stock Exchange that its subsidiary Novelis Inc. has agreed to sell two wholly-owned China entities for about $265 million.",
-    "title_hi": "Hindalco की यूनिट Novelis लगभग $265 million में दो चीन सहायक कंपनियों को बेचेगी",
-    "summary_hi": "Hindalco ने नेशनल स्टॉक एक्सचेंज को दी गई फाइलिंग में कहा कि उसकी सहायक कंपनी Novelis Inc. ने लगभग $265 million में दो पूर्ण स्वामित्व वाली चीन इकाइयों को बेचने का समझौता किया है।",
-    "why_hi": "परिसंपत्ति बिक्री का तटस्थ प्रभाव है।",
-    "chips_hi": {
-      "डील वैल्यू": "$265 million"
-    },
-    "hi_tries": 0,
-    "hi_ver": 2
-  },
-  {
-    "v": 3,
-    "cat": "Earnings",
-    "tk": "KAYNES",
-    "title": "Kaynes Technology Q2 net profit falls 61.6% to Rs 45.4 crore",
-    "summary": "Kaynes Technology said in a filing with the National Stock Exchange that consolidated revenue rose 4.4% to Rs 952.5 crore in Q2 FY27, while net profit fell 61.6% to Rs 45.4 crore.",
-    "source": "Oquilia",
-    "published": "2026-11-15T03:46:17.999000+00:00",
-    "ago": "2h",
-    "impact": "Negative",
-    "why": "Net profit declined sharply in Q2.",
-    "url": "https://www.oquilia.com/news/kaynes-technology-q2-results-net-profit-falls-to-rs-45-crore",
-    "chips": {
-      "Net Profit": "Rs 45.4 crore",
-      "Profit Fall": "61.6%",
-      "Revenue": "Rs 952.5 crore"
-    },
-    "trend": [
-      0.95,
-      0.85,
-      0.7,
-      0.6,
-      0.4,
-      0.3,
-      0.1
-    ],
-    "color": "9B2C2C",
-    "premium": false,
-    "verbatim": false,
-    "src_title": "Kaynes Technology Q2 results: net profit falls 61.6% to Rs 45.4 crore",
-    "src_summary": "Kaynes Technology said in a filing with the National Stock Exchange that consolidated revenue rose 4.4% to Rs 952.5 crore in Q2 FY27, while net profit fell 61.6% to Rs 45.4 crore.",
-    "title_hi": "Kaynes Technology का Q2 शुद्ध लाभ 61.6% घटकर Rs 45.4 करोड़ हुआ",
-    "summary_hi": "Kaynes Technology ने National Stock Exchange को दी गई जानकारी में बताया कि Q2 FY27 में समेकित राजस्व 4.4% बढ़कर Rs 952.5 करोड़ हो गया, जबकि शुद्ध लाभ 61.6% घटकर Rs 45.4 करोड़ रह गया।",
-    "why_hi": "Q2 में शुद्ध लाभ में भारी गिरावट।",
-    "chips_hi": {
-      "शुद्ध लाभ": "Rs 45.4 करोड़",
-      "लाभ में गिरावट": "61.6%",
-      "राजस्व": "Rs 952.5 करोड़"
-    },
-    "hi_tries": 0,
-    "hi_ver": 2
-  },
-  {
-    "v": 3,
-    "cat": "Finance",
-    "tk": "FINANCE",
-    "title": "Section 134 of Income-tax Act 2025 lets old-regime tenants deduct up to Rs 60,000 a year without HRA",
-    "summary": "Section 134 of the Income-tax Act 2025, successor to 80GG, lets tenants without HRA deduct rent up to Rs 5,000 a month. Limits, exclusions, new-regime bar and four worked examples.",
-    "source": "Oquilia",
-    "published": "2026-11-15T00:41:06.010000+00:00",
-    "ago": "1h",
-    "impact": "Neutral",
-    "why": "Standard tax rule without direct company impact.",
-    "url": "https://www.oquilia.com/news/oquilia-research-section-134-rent-deduction-no-hra-income-tax-act-2025",
-    "chips": {
-      "Max Deduction": "Rs 60,000/year"
-    },
-    "trend": [
-      0.5,
-      0.55,
-      0.45,
-      0.5,
-      0.47,
-      0.52,
-      0.5
-    ],
-    "color": "B7791F",
-    "premium": false,
-    "verbatim": false,
-    "src_title": "No HRA From Your Employer? Section 134 of the Income-tax Act 2025 Still Lets Old-Regime Tenants Deduct Up to Rs 60,000 a Year",
-    "src_summary": "Section 134 of the Income-tax Act 2025, successor to 80GG, lets tenants without HRA deduct rent up to Rs 5,000 a month. Limits, exclusions, new-regime bar and four worked examples.",
-    "title_hi": "Income-tax Act 2025 का सेक्शन 134 पुराने régimen के किरायेदारों को HRA के बिना सालाना 60,000 रुपये तक कटौती की अनुमति देता है",
-    "summary_hi": "Income-tax Act 2025 का सेक्शन 134, जो 80GG का उत्तराधिकारी है, HRA के बिना किरायेदारों को 5,000 रुपये प्रति माह तक किराया कटौती की अनुमति देता है। सीमाएं, बहिष्करण, नए régime की रोक और चार उदाहरण।",
-    "why_hi": "कंपनी पर कोई सीधा प्रभाव नहीं।",
-    "chips_hi": {
-      "अधिकतम कटौती": "Rs 60,000/year"
-    },
-    "hi_tries": 0,
     "hi_ver": 2
   }
 ]
