@@ -1,6 +1,360 @@
 [
   {
     "v": 3,
+    "cat": "Markets",
+    "tk": "MARKETS",
+    "title": "Nifty 50 ends 1.14% higher at 25,514.30 as auto stocks surge 4.4%",
+    "summary": "The Nifty 50 closed at 25,514.30 on 19 November 2026, up 286.35 points or 1.14%, as Nifty Auto rose 4.40%. 1,563 NSE stocks advanced and 1,164 declined.",
+    "source": "Oquilia",
+    "published": "2026-11-19T13:38:28.822000+00:00",
+    "ago": "4h",
+    "impact": "Positive",
+    "why": "Market indices and auto stocks rose.",
+    "url": "https://www.oquilia.com/news/stock-market-today-nifty-50-closing-19-november-2026",
+    "chips": {
+      "Nifty 50": "25,514.30",
+      "Change": "1.14%",
+      "Auto": "4.40%"
+    },
+    "trend": [
+      0.1,
+      0.25,
+      0.2,
+      0.5,
+      0.45,
+      0.8,
+      0.95
+    ],
+    "color": "0F766E",
+    "premium": false,
+    "verbatim": false,
+    "src_title": "Nifty 50 ends 1.14% higher at 25,514.30 as auto stocks surge 4.4%",
+    "src_summary": "The Nifty 50 closed at 25,514.30 on 19 November 2026, up 286.35 points or 1.14%, as Nifty Auto rose 4.40%. 1,563 NSE stocks advanced and 1,164 declined.",
+    "title_hi": "Nifty 50 1.14% की बढ़त के साथ 25,514.30 पर बंद, ऑटो शेयर 4.4% उछले",
+    "summary_hi": "Nifty 50, 19 नवंबर 2026 को 286.35 अंक या 1.14% की तेजी के साथ 25,514.30 पर बंद हुआ, क्योंकि Nifty Auto 4.40% बढ़ा। NSE के 1,563 शेयर चढ़े और 1,164 गिरे।",
+    "why_hi": "बाजार सूचकांक और ऑटो शेयर बढ़े।",
+    "chips_hi": {
+      "Nifty 50": "25,514.30",
+      "बदलाव": "1.14%",
+      "ऑटो": "4.40%"
+    }
+  },
+  {
+    "v": 3,
+    "cat": "Companies",
+    "tk": "TRANSSTADIA",
+    "title": "NCLT admits Transstadia Holdings into insolvency on Bank of India's claim",
+    "summary": "The NCLT's Ahmedabad bench on 17 November 2026 admitted Transstadia Holdings into insolvency as guarantor of a stadium project's loans, on Bank of India's claim of Rs 213.43 crore.",
+    "source": "Oquilia",
+    "published": "2026-11-19T13:37:51.527000+00:00",
+    "ago": "4h",
+    "impact": "Negative",
+    "why": "Insolvency admission proceedings initiated by NCLT",
+    "url": "https://www.oquilia.com/news/nclt-admits-transstadia-holdings-insolvency-bank-of-india-claim",
+    "chips": {
+      "Claim Amount": "Rs 213.43 crore",
+      "Date": "17 Nov 2026"
+    },
+    "trend": [
+      0.95,
+      0.85,
+      0.7,
+      0.6,
+      0.4,
+      0.3,
+      0.1
+    ],
+    "color": "9B2C2C",
+    "premium": false,
+    "verbatim": false,
+    "src_title": "NCLT admits Transstadia Holdings into insolvency on Bank of India's Rs 213 crore claim",
+    "src_summary": "The NCLT's Ahmedabad bench on 17 November 2026 admitted Transstadia Holdings into insolvency as guarantor of a stadium project's loans, on Bank of India's claim of Rs 213.43 crore.",
+    "title_hi": "NCLT ने Bank of India के दावे पर Transstadia Holdings को दिवालिया प्रक्रिया में स्वीकार किया",
+    "summary_hi": "NCLT की अहमदाबाद बेंच ने 17 November 2026 को Bank of India के 213.43 करोड़ रुपये के दावे पर, स्टेडियम प्रोजेक्ट के लोन के गारंटर के रूप में Transstadia Holdings को दिवालिया प्रक्रिया में स्वीकार कर लिया।",
+    "why_hi": "NCLT द्वारा दिवालिया प्रक्रिया शुरू की गई",
+    "chips_hi": {
+      "दावा राशि": "Rs 213.43 करोड़",
+      "तारीख": "17 Nov 2026"
+    }
+  },
+  {
+    "v": 3,
+    "cat": "Companies",
+    "tk": "COMPANIES",
+    "title": "NCLT Ahmedabad admits Tiaan Consumer into insolvency over Rs 90 crore loan",
+    "summary": "The NCLT's Ahmedabad bench on 17 November 2026 admitted Tiaan Consumer Limited into insolvency on a lender's petition, finding a default on a Rs 90 crore loan that the company had disputed.",
+    "source": "Oquilia",
+    "published": "2026-11-19T13:37:16.611000+00:00",
+    "ago": "4h",
+    "impact": "Negative",
+    "why": "Insolvency admission indicates severe financial distress.",
+    "url": "https://www.oquilia.com/news/nclt-ahmedabad-admits-tiaan-consumer-into-insolvency",
+    "chips": {
+      "Loan": "Rs 90 crore"
+    },
+    "trend": [
+      0.95,
+      0.85,
+      0.7,
+      0.6,
+      0.4,
+      0.3,
+      0.1
+    ],
+    "color": "9B2C2C",
+    "premium": false,
+    "verbatim": true,
+    "src_title": "NCLT Ahmedabad admits Tiaan Consumer into insolvency over Rs 90 crore loan",
+    "src_summary": "The NCLT's Ahmedabad bench on 17 November 2026 admitted Tiaan Consumer Limited into insolvency on a lender's petition, finding a default on a Rs 90 crore loan that the company had disputed.",
+    "title_hi": "NCLT अहमदाबाद ने 90 करोड़ रुपये के लोन पर Tiaan Consumer को दिवालिया घोषित किया",
+    "summary_hi": "NCLT की अहमदाबाद पीठ ने 17 November 2026 को एक ऋणदाता की याचिका पर Tiaan Consumer Limited को दिवालिया घोषित कर दिया, क्योंकि कंपनी द्वारा विवादित 90 करोड़ रुपये के लोन पर चूक पाई गई।",
+    "why_hi": "दिवालियापन की स्वीकृति गंभीर वित्तीय संकट को दर्शाती है।",
+    "chips_hi": {
+      "लोन": "90 crore रुपये"
+    }
+  },
+  {
+    "v": 3,
+    "cat": "Companies",
+    "tk": "H'RECK ENGINEERS",
+    "title": "NCLT Mumbai orders liquidation of H'Reck Engineers",
+    "summary": "The NCLT's Mumbai bench on 18 November 2026 ordered H'Reck Engineers Private Limited into liquidation, holding that no resolution plan was approved before its insolvency period expired.",
+    "source": "Oquilia",
+    "published": "2026-11-19T13:36:42.798000+00:00",
+    "ago": "4h",
+    "impact": "Negative",
+    "why": "Company is facing liquidation.",
+    "url": "https://www.oquilia.com/news/nclt-mumbai-orders-liquidation-of-hreck-engineers",
+    "chips": {
+      "Date": "18 November 2026"
+    },
+    "trend": [
+      0.95,
+      0.85,
+      0.7,
+      0.6,
+      0.4,
+      0.3,
+      0.1
+    ],
+    "color": "9B2C2C",
+    "premium": false,
+    "verbatim": false,
+    "src_title": "NCLT Mumbai orders liquidation of H'Reck Engineers after creditors reject plan",
+    "src_summary": "The NCLT's Mumbai bench on 18 November 2026 ordered H'Reck Engineers Private Limited into liquidation, holding that no resolution plan was approved before its insolvency period expired.",
+    "title_hi": "NCLT मुंबई ने H'Reck Engineers के समापन का आदेश दिया",
+    "summary_hi": "NCLT की मुंबई पीठ ने 18 नवंबर 2026 को H'Reck Engineers Private Limited को परिसमापन में भेजने का आदेश दिया, यह मानते हुए कि दिवाला अवधि समाप्त होने से पहले कोई समाधान योजना स्वीकृत नहीं की गई थी।",
+    "why_hi": "कंपनी परिसमापन का सामना कर रही है।",
+    "chips_hi": {
+      "तारीख": "18 नवंबर 2026"
+    }
+  },
+  {
+    "v": 3,
+    "cat": "Finance",
+    "tk": "FINANCE",
+    "title": "EPFO board approves systematic withdrawals and cuts PF minimum balance to 10%",
+    "summary": "EPFO's Central Board of Trustees approved a Systematic Withdrawal Plan for retiring members and cut the minimum PF balance from 25% to 10%, the Labour Ministry said on 19 November 2026.",
+    "source": "Oquilia",
+    "published": "2026-11-19T12:35:24.669000+00:00",
+    "ago": "5h",
+    "impact": "Neutral",
+    "why": "Policy update with unclear fundamental impact.",
+    "url": "https://www.oquilia.com/news/epfo-board-approves-systematic-withdrawal-plan-pf-minimum-balance-10",
+    "chips": {
+      "New PF Balance": "10%",
+      "Old PF Balance": "25%"
+    },
+    "trend": [
+      0.5,
+      0.55,
+      0.45,
+      0.5,
+      0.47,
+      0.52,
+      0.5
+    ],
+    "color": "B7791F",
+    "premium": false,
+    "verbatim": false,
+    "src_title": "EPFO board approves systematic withdrawals and cuts PF minimum balance to 10%",
+    "src_summary": "EPFO's Central Board of Trustees approved a Systematic Withdrawal Plan for retiring members and cut the minimum PF balance from 25% to 10%, the Labour Ministry said on 19 November 2026.",
+    "hi_tries": 1
+  },
+  {
+    "v": 3,
+    "cat": "Companies",
+    "tk": "COMPANIES",
+    "title": "NCLT Ahmedabad admits Transstadia Holdings into insolvency; claims due by 1 December",
+    "summary": "The NCLT's Ahmedabad bench has admitted Transstadia Holdings Private Limited into insolvency, according to a public announcement, and creditors must file claims by 1 December 2026.",
+    "source": "Oquilia",
+    "published": "2026-11-19T12:34:52.904000+00:00",
+    "ago": "5h",
+    "impact": "Negative",
+    "why": "Company faces insolvency proceedings.",
+    "url": "https://www.oquilia.com/news/nclt-ahmedabad-admits-transstadia-holdings-insolvency-claims",
+    "chips": {
+      "Deadline": "1 December 2026"
+    },
+    "trend": [
+      0.95,
+      0.85,
+      0.7,
+      0.6,
+      0.4,
+      0.3,
+      0.1
+    ],
+    "color": "9B2C2C",
+    "premium": false,
+    "verbatim": false,
+    "src_title": "NCLT Ahmedabad admits Transstadia Holdings into insolvency; claims due by 1 December",
+    "src_summary": "The NCLT's Ahmedabad bench has admitted Transstadia Holdings Private Limited into insolvency, according to a public announcement, and creditors must file claims by 1 December 2026.",
+    "hi_tries": 1,
+    "title_hi": "NCLT अहमदाबाद ने Transstadia Holdings को दिवालियापन में स्वीकार किया; 1 December तक दावे देय हैं",
+    "summary_hi": "एक सार्वजनिक घोषणा के अनुसार, NCLT की अहमदाबाद पीठ ने Transstadia Holdings Private Limited को दिवालियापन में स्वीकार कर लिया है, और लेनदारों को 1 December 2026 तक अपने दावे प्रस्तुत करने होंगे।",
+    "why_hi": "कंपनी दिवालियापन की कार्यवाही का सामना कर रही है।",
+    "chips_hi": {
+      "अंतिम तिथि": "1 December 2026"
+    }
+  },
+  {
+    "v": 3,
+    "cat": "Companies",
+    "tk": "COMPANIES",
+    "title": "G-TEC Jainx Education joint managing director resigns after share sale",
+    "summary": "G-TEC Jainx Education Limited said in a filing with the National Stock Exchange that its joint managing director resigned on 19 November 2026, after agreeing to sell a 12% stake.",
+    "source": "Oquilia",
+    "published": "2026-11-19T11:46:17.838000+00:00",
+    "ago": "6h",
+    "impact": "Neutral",
+    "why": "Management change after stake sale.",
+    "url": "https://www.oquilia.com/news/g-tec-jainx-education-joint-managing-director-resigns-share-sale",
+    "chips": {
+      "Stake sold": "12%"
+    },
+    "trend": [
+      0.5,
+      0.55,
+      0.45,
+      0.5,
+      0.47,
+      0.52,
+      0.5
+    ],
+    "color": "B7791F",
+    "premium": false,
+    "verbatim": false,
+    "src_title": "G-TEC Jainx Education joint managing director resigns after share sale",
+    "src_summary": "G-TEC Jainx Education Limited said in a filing with the National Stock Exchange that its joint managing director resigned on 19 November 2026, after agreeing to sell a 12% stake.",
+    "title_hi": "G-TEC Jainx Education के संयुक्त प्रबंध निदेशक ने शेयर बिक्री के बाद दिया इस्तीफा",
+    "summary_hi": "G-TEC Jainx Education Limited ने नेशनल स्टॉक एक्सचेंज को दी गई फाइलिंग में कहा कि उसके संयुक्त प्रबंध निदेशक ने 19 November 2026 को 12% हिस्सेदारी बेचने पर सहमति जताने के बाद इस्तीफा दे दिया।",
+    "why_hi": "हिस्सेदारी बिक्री के बाद प्रबंधन में बदलाव।",
+    "chips_hi": {
+      "हिस्सेदारी": "12%"
+    }
+  },
+  {
+    "v": 3,
+    "cat": "Finance",
+    "tk": "FINANCE",
+    "title": "NHAI says insurance renewal SMS alerts carry no challans or penalties at toll plazas",
+    "summary": "NHAI said on 19 November 2026 that SMS alerts on vehicle insurance renewal sent to some highway users are part of a test of an awareness initiative and bring no challans or toll plaza penalties.",
+    "source": "Oquilia",
+    "published": "2026-11-19T10:34:21.857000+00:00",
+    "ago": "8h",
+    "impact": "Neutral",
+    "why": "Only a test alert, no financial impact.",
+    "url": "https://www.oquilia.com/news/nhai-insurance-renewal-sms-alerts-no-challans-toll-plazas",
+    "chips": {
+      "Date": "19 November 2026"
+    },
+    "trend": [
+      0.5,
+      0.55,
+      0.45,
+      0.5,
+      0.47,
+      0.52,
+      0.5
+    ],
+    "color": "B7791F",
+    "premium": false,
+    "verbatim": false,
+    "src_title": "NHAI says insurance renewal SMS alerts carry no challans or penalties at toll plazas",
+    "src_summary": "NHAI said on 19 November 2026 that SMS alerts on vehicle insurance renewal sent to some highway users are part of a test of an awareness initiative and bring no challans or toll plaza penalties.",
+    "hi_tries": 1
+  },
+  {
+    "v": 3,
+    "cat": "Finance",
+    "tk": "FINANCE",
+    "title": "Can a government withhold pension or gratuity while a case is pending? Supreme Court answers in Jitendra Kumar Srivastava",
+    "summary": "The Supreme Court held on 14 August 2013 that without a pension rule allowing it, a State cannot withhold pension, gratuity or leave encashment during a pending inquiry. Tax and costs explained.",
+    "source": "Oquilia",
+    "published": "2026-11-19T10:33:58.589000+00:00",
+    "ago": "8h",
+    "impact": "Neutral",
+    "why": "Legal clarification on pension withholding rights.",
+    "url": "https://www.oquilia.com/news/oquilia-research-pension-withheld-pending-inquiry-article-300a-jitendra-srivastava",
+    "chips": {
+      "Date": "14 August 2013"
+    },
+    "trend": [
+      0.5,
+      0.55,
+      0.45,
+      0.5,
+      0.47,
+      0.52,
+      0.5
+    ],
+    "color": "B7791F",
+    "premium": false,
+    "verbatim": false,
+    "src_title": "Can a government withhold pension or gratuity while a case is pending? The Supreme Court's Article 300A answer in Jitendra Kumar Srivastava",
+    "src_summary": "The Supreme Court held on 14 August 2013 that without a pension rule allowing it, a State cannot withhold pension, gratuity or leave encashment during a pending inquiry. Tax and costs explained.",
+    "title_hi": "क्या मामला लंबित रहने पर सरकार पेंशन या ग्रेच्युटी रोक सकती है? Jitendra Kumar Srivastava मामले में सुप्रीम कोर्ट का जवाब",
+    "summary_hi": "सुप्रीम कोर्ट ने 14 अगस्त 2013 को फैसला सुनाया कि पेंशन नियम के बिना, कोई राज्य लंबित जांच के दौरान पेंशन, ग्रेच्युटी या छुट्टी का नकदीकरण नहीं रोक सकता है। कर और लागत स्पष्ट की गई।",
+    "why_hi": "पेंशन रोकने के अधिकारों पर कानूनी स्पष्टीकरण",
+    "chips_hi": {
+      "तारीख": "14 August 2013"
+    }
+  },
+  {
+    "v": 3,
+    "cat": "Finance",
+    "tk": "FINANCE",
+    "title": "NRI Working for a Foreign Employer During a Long India Visit? Section 9(3) Can Make That Salary Taxable in India",
+    "summary": "Section 9(3) of the Income-tax Act, 2025 treats salary for work done in India as Indian-source, even if a foreign employer pays it abroad. How NRIs apportion it, compute tax and claim treaty relief.",
+    "source": "Oquilia",
+    "published": "2026-11-19T09:06:54.336000+00:00",
+    "ago": "9h",
+    "impact": "Negative",
+    "why": "Increases potential tax burden for NRIs.",
+    "url": "https://www.oquilia.com/news/oquilia-research-nri-working-remotely-from-india-salary-deemed-accrual-section-9",
+    "chips": {
+      "Act": "Income-tax Act, 2025",
+      "Section": "9(3)"
+    },
+    "trend": [
+      0.95,
+      0.85,
+      0.7,
+      0.6,
+      0.4,
+      0.3,
+      0.1
+    ],
+    "color": "9B2C2C",
+    "premium": false,
+    "verbatim": false,
+    "src_title": "NRI Working for a Foreign Employer During a Long India Visit? Section 9(3) Can Make That Salary Taxable in India",
+    "src_summary": "Section 9(3) of the Income-tax Act, 2025 treats salary for work done in India as Indian-source, even if a foreign employer pays it abroad. How NRIs apportion it, compute tax and claim treaty relief.",
+    "hi_tries": 1
+  },
+  {
+    "v": 3,
     "cat": "Companies",
     "tk": "JUBILANT",
     "title": "Jubilant Ingrevia says its chief financial officer has resigned",
@@ -33,7 +387,9 @@
     "why_hi": "बेहतर अवसर के कारण CFO का इस्तीफा।",
     "chips_hi": {
       "प्रभावी तिथि": "30 नवंबर 2026"
-    }
+    },
+    "hi_tries": 0,
+    "hi_ver": 2
   },
   {
     "v": 3,
@@ -69,7 +425,9 @@
     "why_hi": "नए वर्क ऑर्डर से ऑर्डर बुक बढ़ी।",
     "chips_hi": {
       "ऑर्डर मूल्य": "Rs 84.87 crore"
-    }
+    },
+    "hi_tries": 0,
+    "hi_ver": 2
   },
   {
     "v": 3,
@@ -100,13 +458,14 @@
     "verbatim": false,
     "src_title": "Telangana High Court restores Bank of Baroda auction, says 30-day notice was met",
     "src_summary": "The Telangana High Court set aside a DRAT order that had cancelled a Bank of Baroda auction, holding the bank gave the 30-day notice of sale the SARFAESI rules require.",
-    "hi_tries": 1,
+    "hi_tries": 0,
     "title_hi": "तेलंगाना हाई कोर्ट ने Bank of Baroda की नीलामी बहाल की, कहा 30-day का नोटिस पूरा किया गया था",
     "summary_hi": "तेलंगाना हाई कोर्ट ने DRAT के उस आदेश को रद्द कर दिया जिसमें Bank of Baroda की एक नीलामी को रद्द कर दिया गया था, और यह माना कि बैंक ने SARFAESI नियमों के अनुसार बिक्री का 30-day का नोटिस दिया था।",
     "why_hi": "बैंक के पक्ष में नीलामी बहाल की गई।",
     "chips_hi": {
       "नोटिस अवधि": "30-day"
-    }
+    },
+    "hi_ver": 2
   },
   {
     "v": 3,
@@ -135,7 +494,8 @@
     "verbatim": false,
     "src_title": "ITAT Jaipur: wrong clause in Form 10AB no ground to reject trust's tax registration",
     "src_summary": "The Income Tax Appellate Tribunal, Jaipur, set aside the rejection of a charitable trust's 12AB registration and 80G approval, holding the tax officer must decide them on merits.",
-    "hi_tries": 1
+    "hi_tries": 1,
+    "hi_ver": 2
   },
   {
     "v": 3,
@@ -166,13 +526,14 @@
     "verbatim": false,
     "src_title": "Mahanadi Coalfields IPO opens as Coal India offers 66.18 crore shares",
     "src_summary": "Mahanadi Coalfields' IPO, an offer for sale of up to 661,836,300 shares by Coal India, is open from November 19 to 23, 2026, per its RHP filed with SEBI.",
-    "hi_tries": 1,
+    "hi_tries": 0,
     "title_hi": "महानदी कोलफील्ड्स IPO खुला, क्योंकि Coal India ने 66.18 करोड़ शेयर पेश किए",
     "summary_hi": "SEBI के पास दाखिल RHP के अनुसार, Coal India द्वारा 66,18,36,300 शेयरों तक की बिक्री का प्रस्ताव महानदी कोलफील्ड्स का IPO 19 से 23 नवंबर, 2026 तक खुला है।",
     "why_hi": "सहायक कंपनी की शेयर बिक्री बुनियादी बातों को प्रभावित नहीं करती है।",
     "chips_hi": {
       "शेयर": "66.18 करोड़"
-    }
+    },
+    "hi_ver": 2
   },
   {
     "v": 3,
@@ -212,7 +573,9 @@
       "Nifty 50": "25,227.95",
       "गिरावट": "0.63%",
       "Midcaps नुकसान": "1.22%"
-    }
+    },
+    "hi_tries": 0,
+    "hi_ver": 2
   },
   {
     "v": 3,
@@ -250,7 +613,9 @@
     "chips_hi": {
       "धारा": "157",
       "एक्ट": "Income-tax Act 2025"
-    }
+    },
+    "hi_tries": 0,
+    "hi_ver": 2
   },
   {
     "v": 3,
@@ -288,7 +653,9 @@
     "chips_hi": {
       "Liquidation की तारीख": "18 November 2026",
       "आवश्यक लेनदार वोट": "66%"
-    }
+    },
+    "hi_tries": 0,
+    "hi_ver": 2
   },
   {
     "v": 3,
@@ -401,7 +768,7 @@
     "verbatim": false,
     "src_title": "IFCI says Delhi High Court recorded SFIO stand of no action against it",
     "src_summary": "IFCI said in a filing with the National Stock Exchange that the Delhi High Court recorded SFIO's stand that its investigation report did not recommend any action against IFCI.",
-    "hi_tries": 1,
+    "hi_tries": 2,
     "hi_ver": 2
   },
   {
@@ -1142,375 +1509,6 @@
       "बढ़त": "146.8 अंक"
     },
     "hi_tries": 0,
-    "hi_ver": 2
-  },
-  {
-    "v": 3,
-    "cat": "Finance",
-    "tk": "FINANCE",
-    "title": "Gifted Money to Your Spouse or Child? Section 99 of the Income-tax Act 2025 Adds the Income Back to Yours, With These Exceptions",
-    "summary": "Section 99 of the Income-tax Act 2025 clubs income from assets gifted to a spouse, son's wife or minor child with the giver's own. Worked example, Rs 29,120 cost and the exceptions.",
-    "source": "Oquilia",
-    "published": "2026-11-17T00:41:11.533000+00:00",
-    "ago": "1h",
-    "impact": "Neutral",
-    "why": "Tax rule update without direct fundamental impact.",
-    "url": "https://www.oquilia.com/news/oquilia-research-clubbing-of-income-spouse-minor-child-section-99",
-    "chips": {
-      "Section": "99",
-      "Cost": "Rs 29,120"
-    },
-    "trend": [
-      0.5,
-      0.55,
-      0.45,
-      0.5,
-      0.47,
-      0.52,
-      0.5
-    ],
-    "color": "B7791F",
-    "premium": false,
-    "verbatim": false,
-    "src_title": "Gifted Money to Your Spouse or Child? Section 99 of the Income-tax Act 2025 Adds the Income Back to Yours, With These Exceptions",
-    "src_summary": "Section 99 of the Income-tax Act 2025 clubs income from assets gifted to a spouse, son's wife or minor child with the giver's own. Worked example, Rs 29,120 cost and the exceptions.",
-    "hi_tries": 2,
-    "hi_ver": 2
-  },
-  {
-    "v": 3,
-    "cat": "Markets",
-    "tk": "MARKETS",
-    "title": "Nifty 50 ends 0.58% higher at 25,291.10 as smallcaps slide 1.10%",
-    "summary": "The Nifty 50 rose 146.80 points, or 0.58%, to close at 25,291.10 on 16 November 2026, but 1,937 NSE stocks fell against 792 that rose as smallcaps lost 1.10%.",
-    "source": "Oquilia",
-    "published": "2026-11-16T13:39:34.202000+00:00",
-    "ago": "2h",
-    "impact": "Neutral",
-    "why": "Mixed market trend with benchmark gains.",
-    "url": "https://www.oquilia.com/news/stock-market-today-nifty-50-closing-16-november-2026",
-    "chips": {
-      "Nifty 50": "25,291.10",
-      "Gain": "0.58%",
-      "Smallcaps": "-1.10%"
-    },
-    "trend": [
-      0.5,
-      0.55,
-      0.45,
-      0.5,
-      0.47,
-      0.52,
-      0.5
-    ],
-    "color": "B7791F",
-    "premium": false,
-    "verbatim": false,
-    "src_title": "Nifty 50 ends 0.58% higher at 25,291.10 as smallcaps slide 1.10%",
-    "src_summary": "The Nifty 50 rose 146.80 points, or 0.58%, to close at 25,291.10 on 16 November 2026, but 1,937 NSE stocks fell against 792 that rose as smallcaps lost 1.10%.",
-    "title_hi": "Nifty 50 0.58% की बढ़त के साथ 25,291.10 पर बंद, smallcaps में 1.10% की गिरावट",
-    "summary_hi": "16 नवंबर 2026 को Nifty 50 146.80 अंक या 0.58% बढ़कर 25,291.10 पर बंद हुआ, लेकिन smallcaps में 1.10% की गिरावट के साथ 1,937 NSE शेयर गिरे जबकि 792 चढ़े।",
-    "why_hi": "मिलाजुला बाजार रुख।",
-    "chips_hi": {
-      "Nifty 50": "25,291.10",
-      "बढ़त": "0.58%",
-      "Smallcaps": "-1.10%"
-    },
-    "hi_tries": 0,
-    "hi_ver": 2
-  },
-  {
-    "v": 3,
-    "cat": "Companies",
-    "tk": "MANGALAM DRUGS",
-    "title": "Mangalam Drugs tells NSE it defaulted on loans from two banks",
-    "summary": "Mangalam Drugs and Organics said in an NSE filing that it has defaulted for over 30 days on cash credit loans from Bank of Baroda and Bank of Maharashtra.",
-    "source": "Oquilia",
-    "published": "2026-11-16T12:47:20.638000+00:00",
-    "ago": "3h",
-    "impact": "Negative",
-    "why": "Loan default indicates financial stress.",
-    "url": "https://www.oquilia.com/news/mangalam-drugs-discloses-loan-default-bank-of-baroda-maharashtra",
-    "chips": {
-      "Default Period": "30 days"
-    },
-    "trend": [
-      0.95,
-      0.85,
-      0.7,
-      0.6,
-      0.4,
-      0.3,
-      0.1
-    ],
-    "color": "9B2C2C",
-    "premium": false,
-    "verbatim": false,
-    "src_title": "Mangalam Drugs tells NSE it defaulted on loans from two banks",
-    "src_summary": "Mangalam Drugs and Organics said in an NSE filing that it has defaulted for over 30 days on cash credit loans from Bank of Baroda and Bank of Maharashtra.",
-    "hi_tries": 0,
-    "title_hi": "Mangalam Drugs ने NSE को बताया कि उसने दो बैंकों के ऋणों पर डिफ़ॉल्ट किया है",
-    "summary_hi": "Mangalam Drugs and Organics ने NSE को दी गई एक फ़ाइलिंग में कहा कि उसने Bank of Baroda और Bank of Maharashtra से लिए गए कैश क्रेडिट ऋणों पर 30 दिनों से अधिक समय से डिफ़ॉल्ट किया है।",
-    "why_hi": "ऋण डिफ़ॉल्ट वित्तीय तनाव को दर्शाता है।",
-    "chips_hi": {
-      "डिफ़ॉल्ट अवधि": "30 दिन"
-    },
-    "hi_ver": 2
-  },
-  {
-    "v": 3,
-    "cat": "Finance",
-    "tk": "FINANCE",
-    "title": "Dismissed from service, is gratuity gone? Section 4(6) and Supreme Court Ajay Babu ruling",
-    "summary": "Dismissal does not automatically forfeit gratuity. How Section 4(6) and the Supreme Court's 2018 Ajay Babu ruling limit forfeiture, how gratuity is taxed, and what a cut does to drawdown.",
-    "source": "Oquilia",
-    "published": "2026-11-16T10:34:53.162000+00:00",
-    "ago": "17m",
-    "impact": "Neutral",
-    "why": "General legal information on employee benefits.",
-    "url": "https://www.oquilia.com/news/oquilia-research-gratuity-forfeiture-dismissal-section-4-6-ajay-babu",
-    "chips": {},
-    "trend": [
-      0.5,
-      0.55,
-      0.45,
-      0.5,
-      0.47,
-      0.52,
-      0.5
-    ],
-    "color": "B7791F",
-    "premium": false,
-    "verbatim": false,
-    "src_title": "Dismissed from service, is gratuity gone? Section 4(6) of the Gratuity Act and the Supreme Court's Ajay Babu ruling",
-    "src_summary": "Dismissal does not automatically forfeit gratuity. How Section 4(6) and the Supreme Court's 2018 Ajay Babu ruling limit forfeiture, how gratuity is taxed, and what a cut does to drawdown.",
-    "title_hi": "सेवा से बर्खास्त, क्या ग्रेच्युटी चली गई? धारा 4(6) और सुप्रीम कोर्ट का अजय बाबू फैसला",
-    "summary_hi": "बर्खास्तगी से स्वचालित रूप से ग्रेच्युटी जब्त नहीं होती। धारा 4(6) और सुप्रीम कोर्ट के 2018 के अजय बाबू फैसले ने जब्ती को कैसे सीमित किया है, ग्रेच्युटी पर कर कैसे लगता है, और कटौती का निकासी पर क्या असर होता है।",
-    "why_hi": "कर्मचारी लाभ पर सामान्य कानूनी जानकारी।",
-    "chips_hi": {},
-    "hi_tries": 0,
-    "hi_ver": 2
-  },
-  {
-    "v": 3,
-    "cat": "Finance",
-    "tk": "FINANCE",
-    "title": "When Your Tenant, Buyer or Relative Becomes the Taxman's Agent for an NRI",
-    "summary": "Section 306 of the Income-tax Act 2025 lets the tax officer treat a tenant, buyer or relative paying an NRI as the NRI's agent, but only after a hearing. Here is who is caught and how TDS protects you.",
-    "source": "Oquilia",
-    "published": "2026-11-16T09:05:51.464000+00:00",
-    "ago": "1h",
-    "impact": "Neutral",
-    "why": "Tax rule clarification for NRI transactions.",
-    "url": "https://www.oquilia.com/news/oquilia-research-tenant-or-buyer-as-agent-of-nri-section-306",
-    "chips": {},
-    "trend": [
-      0.5,
-      0.55,
-      0.45,
-      0.5,
-      0.47,
-      0.52,
-      0.5
-    ],
-    "color": "B7791F",
-    "premium": false,
-    "verbatim": false,
-    "src_title": "When Your Tenant, Buyer or Relative Becomes the Taxman's 'Agent' for an NRI: Section 306 of the Income-tax Act 2025",
-    "src_summary": "Section 306 of the Income-tax Act 2025 lets the tax officer treat a tenant, buyer or relative paying an NRI as the NRI's agent, but only after a hearing. Here is who is caught and how TDS protects you.",
-    "title_hi": "जब आपका किराएदार, खरीदार या रिश्तेदार एनआरआई के लिए टैक्समैन का ' एजेंट' बन जाता है",
-    "summary_hi": "Income-tax Act 2025 की धारा 306 टैक्स अधिकारी को एनआरआई को भुगतान करने वाले किराएदार, खरीदार या रिश्तेदार को एनआरआई का एजेंट मानने की अनुमति देती है, लेकिन केवल सुनवाई के बाद। यहाँ बताया गया है कि कौन पकड़ा जाता है और टीडीएस आपकी कैसे रक्षा करता है।",
-    "why_hi": "एनआरआई लेनदेन के लिए कर नियम स्पष्टीकरण।",
-    "chips_hi": {},
-    "hi_tries": 0,
-    "hi_ver": 2
-  },
-  {
-    "v": 3,
-    "cat": "Finance",
-    "tk": "ORIENTAL",
-    "title": "Oriental Insurance involved in 10 of 34 consumer commission disputes and lost 7",
-    "summary": "Oriental Insurance appeared in 10 of 34 insurer disputes Oquilia reported over a month, more than any other insurer, and policyholders won 7 of them.",
-    "source": "Oquilia",
-    "published": "2026-11-16T06:54:06.094000+00:00",
-    "ago": "4m",
-    "impact": "Negative",
-    "why": "High dispute losses indicate poor claims handling.",
-    "url": "https://www.oquilia.com/news/oriental-insurance-most-frequent-insurer-consumer-commissions-16-november-2026",
-    "chips": {
-      "Disputes": "34",
-      "Oriental disputes": "10",
-      "Lost": "7"
-    },
-    "trend": [
-      0.95,
-      0.85,
-      0.7,
-      0.6,
-      0.4,
-      0.3,
-      0.1
-    ],
-    "color": "9B2C2C",
-    "premium": false,
-    "verbatim": false,
-    "src_title": "Oriental Insurance was the insurer in 10 of 34 consumer commission disputes and lost 7",
-    "src_summary": "Oriental Insurance appeared in 10 of 34 insurer disputes Oquilia reported over a month, more than any other insurer, and policyholders won 7 of them.",
-    "title_hi": "Oriental Insurance 10 उपभोक्ता आयोग विवादों में शामिल थी और 7 हारी",
-    "summary_hi": "Oriental Insurance Oquilia द्वारा एक महीने में रिपोर्ट किए गए 34 बीमाकर्ता विवादों में से 10 में दिखाई दी, जो किसी भी अन्य बीमाकर्ता से अधिक है, और पॉलिसीधारकों ने उनमें से 7 जीते।",
-    "why_hi": "विवादों में अधिक हार खराब दावों के प्रबंधन को दर्शाती है।",
-    "chips_hi": {
-      "विवाद": "34",
-      "Oriental विवाद": "10",
-      "हारे": "7"
-    },
-    "hi_tries": 0,
-    "hi_ver": 2
-  },
-  {
-    "v": 3,
-    "cat": "Companies",
-    "tk": "FUTURE CONSUMER",
-    "title": "Future Consumer says MD tenure ended during insolvency",
-    "summary": "Future Consumer told the NSE its managing director ceased to hold office on 4 November 2026 on completing a fixed tenure, while the company is in insolvency proceedings.",
-    "source": "Oquilia",
-    "published": "2026-11-16T06:46:30.803000+00:00",
-    "ago": "12m",
-    "impact": "Negative",
-    "why": "Insolvency proceedings and leadership departure create uncer",
-    "url": "https://www.oquilia.com/news/future-consumer-managing-director-tenure-ends-during-insolvency",
-    "chips": {
-      "Date": "4 November 2026"
-    },
-    "trend": [
-      0.95,
-      0.85,
-      0.7,
-      0.6,
-      0.4,
-      0.3,
-      0.1
-    ],
-    "color": "9B2C2C",
-    "premium": false,
-    "verbatim": false,
-    "src_title": "Future Consumer says its managing director's tenure ended during insolvency",
-    "src_summary": "Future Consumer told the NSE its managing director ceased to hold office on 4 November 2026 on completing a fixed tenure, while the company is in insolvency proceedings.",
-    "title_hi": "Future Consumer का कहना है कि दिवालियापन के दौरान MD का कार्यकाल समाप्त हुआ",
-    "summary_hi": "Future Consumer ने NSE को बताया कि कंपनी की दिवालियापन प्रक्रिया के बीच 4 November 2026 को निश्चित कार्यकाल पूरा होने पर उसके प्रबंध निदेशक ने पद छोड़ दिया।",
-    "why_hi": "दिवालियापन प्रक्रिया और नेतृत्व बदलाव से अनिश्चितता।",
-    "chips_hi": {
-      "दिनांक": "4 November 2026"
-    },
-    "hi_tries": 0,
-    "hi_ver": 2
-  },
-  {
-    "v": 3,
-    "cat": "Markets",
-    "tk": "COAL INDIA",
-    "title": "Mahanadi Coalfields files RHP for Coal India OFS",
-    "summary": "Coal India says the RHP of its subsidiary Mahanadi Coalfields, dated November 13, was filed with SEBI and the exchanges for an offer for sale of up to 661,836,300 shares.",
-    "source": "Oquilia",
-    "published": "2026-11-16T04:23:48.372000+00:00",
-    "ago": "2h",
-    "impact": "Neutral",
-    "why": "OFS represents share dilution without direct business impact",
-    "url": "https://www.oquilia.com/news/mahanadi-coalfields-files-rhp-coal-india-offer-for-sale",
-    "chips": {
-      "Shares": "66,18,36,300"
-    },
-    "trend": [
-      0.5,
-      0.55,
-      0.45,
-      0.5,
-      0.47,
-      0.52,
-      0.5
-    ],
-    "color": "B7791F",
-    "premium": false,
-    "verbatim": false,
-    "src_title": "Mahanadi Coalfields files RHP for 66.18 crore-share Coal India OFS",
-    "src_summary": "Coal India says the RHP of its subsidiary Mahanadi Coalfields, dated November 13, was filed with SEBI and the exchanges for an offer for sale of up to 661,836,300 shares.",
-    "title_hi": "Mahanadi Coalfields ने Coal India OFS के लिए RHP दाखिल किया",
-    "summary_hi": "Coal India का कहना है कि 13 नवंबर को उसकी सहायक कंपनी Mahanadi Coalfields का RHP, SEBI और एक्सचेंजों में 6,61,83,6300 तक के शेयरों की बिक्री के लिए दाखिल किया गया था।",
-    "why_hi": "OFS से सीधा व्यापारिक प्रभाव नहीं पड़ता।",
-    "chips_hi": {
-      "शेयर": "66,18,36,300"
-    },
-    "hi_tries": 0,
-    "hi_ver": 2
-  },
-  {
-    "v": 3,
-    "cat": "Markets",
-    "tk": "MARKETS",
-    "title": "Kalpataru Projects secures Rs 2,610 crore overseas power order",
-    "summary": "Kalpataru Projects International told the NSE it has received a notification of award for an order worth about Rs 2,610 crore for transmission lines and substations in an international market.",
-    "source": "Oquilia",
-    "published": "2026-11-16T03:46:04.776000+00:00",
-    "ago": "3h",
-    "impact": "Positive",
-    "why": "Secured large international transmission order.",
-    "url": "https://www.oquilia.com/news/kalpataru-projects-secures-rs-2610-crore-overseas-power-order",
-    "chips": {
-      "Order Value": "Rs 2,610 crore"
-    },
-    "trend": [
-      0.1,
-      0.25,
-      0.2,
-      0.5,
-      0.45,
-      0.8,
-      0.95
-    ],
-    "color": "0F766E",
-    "premium": false,
-    "verbatim": false,
-    "src_title": "Kalpataru Projects says it secured Rs 2,610 crore overseas power order",
-    "src_summary": "Kalpataru Projects International told the NSE it has received a notification of award for an order worth about Rs 2,610 crore for transmission lines and substations in an international market.",
-    "title_hi": "Kalpataru Projects ने हासिल किया Rs 2,610 करोड़ का विदेशी पावर ऑर्डर",
-    "summary_hi": "Kalpataru Projects International ने NSE को बताया कि उसे अंतरराष्ट्रीय बाजार में ट्रांसमिशन लाइनों और सबस्टेशनों के लिए लगभग Rs 2,610 करोड़ के ऑर्डर का अवार्ड नोटिफिकेशन मिला है।",
-    "why_hi": "बड़ा अंतरराष्ट्रीय ट्रांसमिशन ऑर्डर मिला।",
-    "chips_hi": {
-      "ऑर्डर मूल्य": "Rs 2,610 करोड़"
-    },
-    "hi_tries": 0,
-    "hi_ver": 2
-  },
-  {
-    "v": 3,
-    "cat": "Finance",
-    "tk": "FINANCE",
-    "title": "ITAT Hyderabad deletes Rs 24.1 lakh tax addition on housing society",
-    "summary": "The Income Tax Appellate Tribunal in Hyderabad deleted a Rs 24,10,110 addition to a co-operative housing society's income, holding the tax officer could not depart from the view accepted a year earlier.",
-    "source": "Oquilia",
-    "published": "2026-11-16T02:36:45.571000+00:00",
-    "ago": "4h",
-    "impact": "Positive",
-    "why": "Tax addition deleted on consistency grounds.",
-    "url": "https://www.oquilia.com/news/itat-hyderabad-deletes-tax-addition-housing-society-consistency",
-    "chips": {
-      "Tax Addition": "Rs 24,10,110"
-    },
-    "trend": [
-      0.1,
-      0.25,
-      0.2,
-      0.5,
-      0.45,
-      0.8,
-      0.95
-    ],
-    "color": "0F766E",
-    "premium": false,
-    "verbatim": false,
-    "src_title": "ITAT Hyderabad deletes Rs 24.1 lakh tax addition on housing society, cites consistency",
-    "src_summary": "The Income Tax Appellate Tribunal in Hyderabad deleted a Rs 24,10,110 addition to a co-operative housing society's income, holding the tax officer could not depart from the view accepted a year earlier.",
-    "hi_tries": 2,
     "hi_ver": 2
   }
 ]
