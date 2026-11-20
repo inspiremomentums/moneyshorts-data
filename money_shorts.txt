@@ -1,6 +1,224 @@
 [
   {
     "v": 3,
+    "cat": "Finance",
+    "tk": "FINANCE",
+    "title": "CGST Faridabad alleges Rs 116.48 crore pan masala cess evasion in Rewari",
+    "summary": "CGST Faridabad says a Rewari pan masala unit ran four undeclared packing machines without registering under the HSNS Cess Act, 2025, and puts the cess not paid at Rs 116.48 crore.",
+    "source": "Oquilia",
+    "published": "2026-11-20T06:34:57.716000+00:00",
+    "ago": "2h",
+    "impact": "Negative",
+    "why": "Cess evasion allegation against manufacturer.",
+    "url": "https://www.oquilia.com/news/cgst-faridabad-alleges-pan-masala-cess-evasion-rewari-one-arrested",
+    "chips": {
+      "Cess Evasion": "Rs 116.48 cr"
+    },
+    "trend": [
+      0.95,
+      0.85,
+      0.7,
+      0.6,
+      0.4,
+      0.3,
+      0.1
+    ],
+    "color": "9B2C2C",
+    "premium": false,
+    "verbatim": false,
+    "src_title": "CGST Faridabad alleges Rs 116.48 crore pan masala cess evasion in Rewari, one arrested",
+    "src_summary": "CGST Faridabad says a Rewari pan masala unit ran four undeclared packing machines without registering under the HSNS Cess Act, 2025, and puts the cess not paid at Rs 116.48 crore.",
+    "hi_tries": 1
+  },
+  {
+    "v": 3,
+    "cat": "Markets",
+    "tk": "HINDUSTAN ZINC",
+    "title": "Hindustan Zinc board approves plan to raise metal capacity",
+    "summary": "Hindustan Zinc told the stock exchanges that its board approved the HZL 2.0 Growth Program on 16 November 2026, with envisaged capital spending of about Rs 80,000 crore over three to five years.",
+    "source": "Oquilia",
+    "published": "2026-11-20T06:16:50.812000+00:00",
+    "ago": "2h",
+    "impact": "Positive",
+    "why": "Capacity expansion plans support long-term growth.",
+    "url": "https://www.oquilia.com/news/hindustan-zinc-board-approves-rs-80000-crore-hzl-2-capacity-plan",
+    "chips": {
+      "Capex": "Rs 80,000 crore",
+      "Capacity": "2 MTPA"
+    },
+    "trend": [
+      0.1,
+      0.25,
+      0.2,
+      0.5,
+      0.45,
+      0.8,
+      0.95
+    ],
+    "color": "0F766E",
+    "premium": false,
+    "verbatim": false,
+    "src_title": "Hindustan Zinc board approves Rs 80,000 crore plan to raise metal capacity to 2 MTPA",
+    "src_summary": "Hindustan Zinc told the stock exchanges that its board approved the HZL 2.0 Growth Program on 16 November 2026, with envisaged capital spending of about Rs 80,000 crore over three to five years.",
+    "hi_tries": 1,
+    "title_hi": "Hindustan Zinc बोर्ड ने मेटल क्षमता बढ़ाने की योजना को मंजूरी दी",
+    "summary_hi": "Hindustan Zinc ने स्टॉक एक्सचेंजों को बताया कि उसके बोर्ड ने 16 नवंबर 2026 को HZL 2.0 ग्रोथ प्रोग्राम को मंजूरी दे दी है, जिसमें तीन से पांच वर्षों में लगभग 80,000 करोड़ रुपये का पूंजीगत खर्च (Capex) अनुमानित है।",
+    "why_hi": "क्षमता विस्तार योजनाएं दीर्घकालिक विकास का समर्थन करती हैं।",
+    "chips_hi": {
+      "Capex": "80,000 करोड़ रुपये",
+      "क्षमता": "2 MTPA"
+    }
+  },
+  {
+    "v": 3,
+    "cat": "Finance",
+    "tk": "FINANCE",
+    "title": "ITAT Delhi quashes retrospective cancellation of school society's charity registration",
+    "summary": "The Income Tax Appellate Tribunal in Delhi quashed orders cancelling a school society's charitable registration from AY 2019-20 and directed renewal of its Section 12A registration and 80G approval.",
+    "source": "Oquilia",
+    "published": "2026-11-20T04:37:25.566000+00:00",
+    "ago": "4h",
+    "impact": "Neutral",
+    "why": "Tax order relief for school society",
+    "url": "https://www.oquilia.com/news/itat-delhi-quashes-retrospective-cancellation-school-society-charity",
+    "chips": {
+      "Assessment Year": "2019-20"
+    },
+    "trend": [
+      0.5,
+      0.55,
+      0.45,
+      0.5,
+      0.47,
+      0.52,
+      0.5
+    ],
+    "color": "B7791F",
+    "premium": false,
+    "verbatim": false,
+    "src_title": "ITAT Delhi quashes retrospective cancellation of school society's charity registration",
+    "src_summary": "The Income Tax Appellate Tribunal in Delhi quashed orders cancelling a school society's charitable registration from AY 2019-20 and directed renewal of its Section 12A registration and 80G approval.",
+    "hi_tries": 1
+  },
+  {
+    "v": 3,
+    "cat": "Markets",
+    "tk": "JUPITER WAGONS",
+    "title": "Jupiter Wagons says it won repeat order worth over Rs 128 crore from JSW (South) Rail",
+    "summary": "Jupiter Wagons Limited said in a filing with the National Stock Exchange that it received a letter of intent from JSW (South) Rail Logistics for 5 rakes with wagons, worth over Rs 128 crore.",
+    "source": "Oquilia",
+    "published": "2026-11-20T03:46:27.609000+00:00",
+    "ago": "4h",
+    "impact": "Positive",
+    "why": "New order worth over Rs 128 crore.",
+    "url": "https://www.oquilia.com/news/jupiter-wagons-repeat-order-jsw-south-rail-logistics",
+    "chips": {
+      "Order Value": "Rs 128 crore",
+      "Rakes": "5"
+    },
+    "trend": [
+      0.1,
+      0.25,
+      0.2,
+      0.5,
+      0.45,
+      0.8,
+      0.95
+    ],
+    "color": "0F766E",
+    "premium": false,
+    "verbatim": false,
+    "src_title": "Jupiter Wagons says it won repeat order worth over Rs 128 crore from JSW (South) Rail",
+    "src_summary": "Jupiter Wagons Limited said in a filing with the National Stock Exchange that it received a letter of intent from JSW (South) Rail Logistics for 5 rakes with wagons, worth over Rs 128 crore.",
+    "title_hi": "Jupiter Wagons ने JSW (South) Rail से 128 करोड़ रुपये से अधिक का रिपीट ऑर्डर मिलने की बात कही",
+    "summary_hi": "Jupiter Wagons Limited ने National Stock Exchange को दी गई जानकारी में बताया कि उसे JSW (South) Rail Logistics से वैगन वाले 5 रेक के लिए 128 करोड़ रुपये से अधिक का इरादा पत्र (LOI) मिला है।",
+    "why_hi": "128 करोड़ रुपये से अधिक का नया ऑर्डर।",
+    "chips_hi": {
+      "ऑर्डर मूल्य": "Rs 128 करोड़",
+      "रेक": "5"
+    }
+  },
+  {
+    "v": 3,
+    "cat": "Markets",
+    "tk": "MARKETS",
+    "title": "Pre-market: Nifty 50 at 25,514.30 after autos lead a 1.14% Thursday rise",
+    "summary": "The Nifty 50 closed at 25,514.30 on Thursday, 19 November, up 1.14% at its day's high, as Nifty Auto rose 4.4% and 1,563 NSE stocks advanced against 1,164 declines.",
+    "source": "Oquilia",
+    "published": "2026-11-20T02:33:57.264000+00:00",
+    "ago": "6h",
+    "impact": "Positive",
+    "why": "Market rose with strong auto sector gains.",
+    "url": "https://www.oquilia.com/news/nifty-50-pre-market-20-november-2026",
+    "chips": {
+      "Nifty 50": "25,514.30",
+      "Rise": "1.14%",
+      "Nifty Auto": "4.4%"
+    },
+    "trend": [
+      0.1,
+      0.25,
+      0.2,
+      0.5,
+      0.45,
+      0.8,
+      0.95
+    ],
+    "color": "0F766E",
+    "premium": false,
+    "verbatim": false,
+    "src_title": "Pre-market: Nifty 50 at 25,514.30 after autos lead a 1.14% Thursday rise",
+    "src_summary": "The Nifty 50 closed at 25,514.30 on Thursday, 19 November, up 1.14% at its day's high, as Nifty Auto rose 4.4% and 1,563 NSE stocks advanced against 1,164 declines.",
+    "title_hi": "Pre-market: Nifty 50 25,514.30 पर, गुरुवार को ऑटो शेयरों की तेजी से बाजार 1.14% बढ़ा",
+    "summary_hi": "Nifty 50 गुरुवार, 19 नवंबर को अपने दिन के उच्चतम स्तर पर 1.14% की बढ़त के साथ 25,514.30 पर बंद हुआ, क्योंकि Nifty Auto 4.4% बढ़ा और NSE पर 1,563 शेयर चढ़े जबकि 1,164 में गिरावट आई।",
+    "why_hi": "ऑटो सेक्टर की तेजी से बाजार बढ़ा।",
+    "chips_hi": {
+      "Nifty 50": "25,514.30",
+      "बढ़त": "1.14%",
+      "Nifty Auto": "4.4%"
+    }
+  },
+  {
+    "v": 3,
+    "cat": "Finance",
+    "tk": "FINANCE",
+    "title": "Income-tax Act 2025 Lets Resident Authors Deduct Up to Rs 3 Lakh of Royalty",
+    "summary": "Section 151 of the Income-tax Act 2025 lets resident authors deduct book royalty up to Rs 3 lakh in the old regime, subject to a 15% sales test, a payer certificate and a six-month rule.",
+    "source": "Oquilia",
+    "published": "2026-11-20T00:41:11.024000+00:00",
+    "ago": "8h",
+    "impact": "Positive",
+    "why": "Tax deduction benefits resident authors.",
+    "url": "https://www.oquilia.com/news/oquilia-research-author-royalty-deduction-section-151-rs-3-lakh",
+    "chips": {
+      "Royalty Deduction Li": "Rs 3 Lakh",
+      "Sales Test": "15%"
+    },
+    "trend": [
+      0.1,
+      0.25,
+      0.2,
+      0.5,
+      0.45,
+      0.8,
+      0.95
+    ],
+    "color": "0F766E",
+    "premium": false,
+    "verbatim": false,
+    "src_title": "Writing a Book? Section 151 of the Income-tax Act 2025 Lets Resident Authors Deduct Up to Rs 3 Lakh of Royalty",
+    "src_summary": "Section 151 of the Income-tax Act 2025 lets resident authors deduct book royalty up to Rs 3 lakh in the old regime, subject to a 15% sales test, a payer certificate and a six-month rule.",
+    "hi_tries": 1,
+    "title_hi": "Income-tax Act 2025 रेजिडेंट लेखकों को 3 लाख रुपये तक की रॉयल्टी काटने की अनुमति देता है",
+    "summary_hi": "Income-tax Act 2025 की धारा 151 रेजिडेंट लेखकों को पुरानी व्यवस्था में 3 लाख रुपये तक की बुक रॉयल्टी काटने की अनुमति देती है, जो 15% बिक्री परीक्षण, एक भुगतानकर्ता प्रमाण पत्र और छह महीने के नियम के अधीन है।",
+    "why_hi": "कर कटौती रेजिडेंट लेखकों को लाभ पहुंचाती है।",
+    "chips_hi": {
+      "रॉयल्टी कटौती सीमा": "Rs 3 Lakh",
+      "बिक्री परीक्षण": "15%"
+    }
+  },
+  {
+    "v": 3,
     "cat": "Markets",
     "tk": "MARKETS",
     "title": "Nifty 50 ends 1.14% higher at 25,514.30 as auto stocks surge 4.4%",
@@ -37,7 +255,9 @@
       "Nifty 50": "25,514.30",
       "बदलाव": "1.14%",
       "ऑटो": "4.40%"
-    }
+    },
+    "hi_tries": 0,
+    "hi_ver": 2
   },
   {
     "v": 3,
@@ -75,7 +295,9 @@
     "chips_hi": {
       "दावा राशि": "Rs 213.43 करोड़",
       "तारीख": "17 Nov 2026"
-    }
+    },
+    "hi_tries": 0,
+    "hi_ver": 2
   },
   {
     "v": 3,
@@ -111,7 +333,9 @@
     "why_hi": "दिवालियापन की स्वीकृति गंभीर वित्तीय संकट को दर्शाती है।",
     "chips_hi": {
       "लोन": "90 crore रुपये"
-    }
+    },
+    "hi_tries": 0,
+    "hi_ver": 2
   },
   {
     "v": 3,
@@ -147,7 +371,9 @@
     "why_hi": "कंपनी परिसमापन का सामना कर रही है।",
     "chips_hi": {
       "तारीख": "18 नवंबर 2026"
-    }
+    },
+    "hi_tries": 0,
+    "hi_ver": 2
   },
   {
     "v": 3,
@@ -179,7 +405,8 @@
     "verbatim": false,
     "src_title": "EPFO board approves systematic withdrawals and cuts PF minimum balance to 10%",
     "src_summary": "EPFO's Central Board of Trustees approved a Systematic Withdrawal Plan for retiring members and cut the minimum PF balance from 25% to 10%, the Labour Ministry said on 19 November 2026.",
-    "hi_tries": 1
+    "hi_tries": 1,
+    "hi_ver": 2
   },
   {
     "v": 3,
@@ -210,13 +437,14 @@
     "verbatim": false,
     "src_title": "NCLT Ahmedabad admits Transstadia Holdings into insolvency; claims due by 1 December",
     "src_summary": "The NCLT's Ahmedabad bench has admitted Transstadia Holdings Private Limited into insolvency, according to a public announcement, and creditors must file claims by 1 December 2026.",
-    "hi_tries": 1,
+    "hi_tries": 0,
     "title_hi": "NCLT अहमदाबाद ने Transstadia Holdings को दिवालियापन में स्वीकार किया; 1 December तक दावे देय हैं",
     "summary_hi": "एक सार्वजनिक घोषणा के अनुसार, NCLT की अहमदाबाद पीठ ने Transstadia Holdings Private Limited को दिवालियापन में स्वीकार कर लिया है, और लेनदारों को 1 December 2026 तक अपने दावे प्रस्तुत करने होंगे।",
     "why_hi": "कंपनी दिवालियापन की कार्यवाही का सामना कर रही है।",
     "chips_hi": {
       "अंतिम तिथि": "1 December 2026"
-    }
+    },
+    "hi_ver": 2
   },
   {
     "v": 3,
@@ -252,7 +480,9 @@
     "why_hi": "हिस्सेदारी बिक्री के बाद प्रबंधन में बदलाव।",
     "chips_hi": {
       "हिस्सेदारी": "12%"
-    }
+    },
+    "hi_tries": 0,
+    "hi_ver": 2
   },
   {
     "v": 3,
@@ -283,7 +513,8 @@
     "verbatim": false,
     "src_title": "NHAI says insurance renewal SMS alerts carry no challans or penalties at toll plazas",
     "src_summary": "NHAI said on 19 November 2026 that SMS alerts on vehicle insurance renewal sent to some highway users are part of a test of an awareness initiative and bring no challans or toll plaza penalties.",
-    "hi_tries": 1
+    "hi_tries": 1,
+    "hi_ver": 2
   },
   {
     "v": 3,
@@ -319,7 +550,9 @@
     "why_hi": "पेंशन रोकने के अधिकारों पर कानूनी स्पष्टीकरण",
     "chips_hi": {
       "तारीख": "14 August 2013"
-    }
+    },
+    "hi_tries": 0,
+    "hi_ver": 2
   },
   {
     "v": 3,
@@ -351,7 +584,15 @@
     "verbatim": false,
     "src_title": "NRI Working for a Foreign Employer During a Long India Visit? Section 9(3) Can Make That Salary Taxable in India",
     "src_summary": "Section 9(3) of the Income-tax Act, 2025 treats salary for work done in India as Indian-source, even if a foreign employer pays it abroad. How NRIs apportion it, compute tax and claim treaty relief.",
-    "hi_tries": 1
+    "hi_tries": 1,
+    "hi_ver": 2,
+    "title_hi": "विदेशी नियोक्ता के लिए काम करने वाला एनआरआई भारत की लंबी यात्रा पर? धारा 9(3) इस वेतन को भारत में कर योग्य बना सकती है",
+    "summary_hi": "आयकर अधिनियम, 2025 की धारा 9(3) भारत में किए गए काम के वेतन को भारतीय स्रोत मानती है, भले ही कोई विदेशी नियोक्ता इसका भुगतान विदेश में करे। एनआरआई कैसे इसका निर्धारण करते हैं, कर की गणना करते हैं और संधि राहत का दावा करते हैं।",
+    "why_hi": "एनआरआई पर संभावित कर का बोझ बढ़ाता है।",
+    "chips_hi": {
+      "अिनियम": "Income-tax Act, 2025",
+      "धारा": "9(3)"
+    }
   },
   {
     "v": 3,
@@ -494,7 +735,7 @@
     "verbatim": false,
     "src_title": "ITAT Jaipur: wrong clause in Form 10AB no ground to reject trust's tax registration",
     "src_summary": "The Income Tax Appellate Tribunal, Jaipur, set aside the rejection of a charitable trust's 12AB registration and 80G approval, holding the tax officer must decide them on merits.",
-    "hi_tries": 1,
+    "hi_tries": 2,
     "hi_ver": 2
   },
   {
@@ -1273,240 +1514,6 @@
     "why_hi": "संपत्ति अधिग्रहण से विनिर्माण क्षमता का विस्तार हो सकता है।",
     "chips_hi": {
       "सौदा मूल्य": "Rs 49.75 crore"
-    },
-    "hi_tries": 0,
-    "hi_ver": 2
-  },
-  {
-    "v": 3,
-    "cat": "Companies",
-    "tk": "COMPANIES",
-    "title": "Carysil's Group CFO and executive director resigns",
-    "summary": "Carysil Limited said in a filing with the National Stock Exchange that its executive director and group chief financial officer has ceased to hold office from 16 November 2026.",
-    "source": "Oquilia",
-    "published": "2026-11-17T05:46:07.803000+00:00",
-    "ago": "39m",
-    "impact": "Negative",
-    "why": "Key management departure creates leadership uncertainty.",
-    "url": "https://www.oquilia.com/news/carysil-group-cfo-executive-director-resigns-nse-filing",
-    "chips": {
-      "Resignation Date": "16 November 2026"
-    },
-    "trend": [
-      0.95,
-      0.85,
-      0.7,
-      0.6,
-      0.4,
-      0.3,
-      0.1
-    ],
-    "color": "9B2C2C",
-    "premium": false,
-    "verbatim": false,
-    "src_title": "Carysil's Group CFO and executive director resigns, company says in NSE filing",
-    "src_summary": "Carysil Limited said in a filing with the National Stock Exchange that its executive director and group chief financial officer has ceased to hold office from 16 November 2026.",
-    "title_hi": "Carysil के ग्रुप CFO और कार्यकारी निदेशक ने दिया इस्तीफा",
-    "summary_hi": "Carysil Limited ने नेशनल स्टॉक एक्सचेंज को दी गई फाइलिंग में कहा कि उसके कार्यकारी निदेशक और ग्रुप चीफ फाइनेंशियल ऑफिसर ने 16 नवंबर 2026 से पद छोड़ दिया है।",
-    "why_hi": "प्रमुख प्रबंधन के जाने से अनिश्चितता।",
-    "chips_hi": {
-      "इस्तीफा तिथि": "16 नवंबर 2026"
-    },
-    "hi_tries": 0,
-    "hi_ver": 2
-  },
-  {
-    "v": 3,
-    "cat": "IPO",
-    "tk": "COAL INDIA",
-    "title": "Mahanadi Coalfields sets Rs 129-136 band for Coal India-led OFS IPO",
-    "summary": "Coal India's subsidiary Mahanadi Coalfields has set a Rs 129-136 price band for its offer for sale of up to 66.18 crore shares, open from November 19 to 23, 2026.",
-    "source": "Oquilia",
-    "published": "2026-11-17T04:24:09.399000+00:00",
-    "ago": "2h",
-    "impact": "Neutral",
-    "why": "OFS launch by subsidiary",
-    "url": "https://www.oquilia.com/news/mahanadi-coalfields-ipo-price-band-rs-129-136",
-    "chips": {
-      "Price Band": "Rs 129-136",
-      "Shares": "66.18 crore"
-    },
-    "trend": [
-      0.5,
-      0.55,
-      0.45,
-      0.5,
-      0.47,
-      0.52,
-      0.5
-    ],
-    "color": "B7791F",
-    "premium": false,
-    "verbatim": false,
-    "src_title": "Mahanadi Coalfields sets Rs 129-136 band for Coal India-led OFS IPO",
-    "src_summary": "Coal India's subsidiary Mahanadi Coalfields has set a Rs 129-136 price band for its offer for sale of up to 66.18 crore shares, open from November 19 to 23, 2026.",
-    "hi_tries": 0,
-    "title_hi": "महानदी कोलफील्ड्स ने Coal India-led OFS IPO के लिए 129-136 रुपये का दायरा तय किया",
-    "summary_hi": "Coal India की सहायक कंपनी महानदी कोलफील्ड्स ने 19 से 23 नवंबर, 2026 तक खुलने वाले अपने 66.18 करोड़ तक के शेयरों की बिक्री के ऑफर के लिए 129-136 रुपये का मूल्य दायरा तय किया है।",
-    "why_hi": "सहायक कंपनी द्वारा OFS लॉन्च",
-    "chips_hi": {
-      "मूल्य दायरा": "Rs 129-136",
-      "शेयर": "66.18 crore"
-    },
-    "hi_ver": 2
-  },
-  {
-    "v": 3,
-    "cat": "Markets",
-    "tk": "AEGIS LOGISTICS",
-    "title": "Aegis Logistics allots 2.89 crore shares in Rs 3,500 crore QIP at Rs 1,210",
-    "summary": "Aegis Logistics said in a filing with the National Stock Exchange that its fund raising committee approved allotment of 2,89,25,619 shares to 33 institutional buyers at Rs 1,210 a share, totalling Rs 3,500 crore.",
-    "source": "Oquilia",
-    "published": "2026-11-17T03:46:44.519000+00:00",
-    "ago": "2h",
-    "impact": "Neutral",
-    "why": "Fundraising through QIP is capital dilution.",
-    "url": "https://www.oquilia.com/news/aegis-logistics-allots-shares-rs-3500-crore-qip-rs-1210-per-share",
-    "chips": {
-      "Shares": "2.89 crore",
-      "QIP Size": "Rs 3,500 crore",
-      "Issue Price": "Rs 1,210"
-    },
-    "trend": [
-      0.5,
-      0.55,
-      0.45,
-      0.5,
-      0.47,
-      0.52,
-      0.5
-    ],
-    "color": "B7791F",
-    "premium": false,
-    "verbatim": false,
-    "src_title": "Aegis Logistics allots 2.89 crore shares in Rs 3,500 crore QIP at Rs 1,210",
-    "src_summary": "Aegis Logistics said in a filing with the National Stock Exchange that its fund raising committee approved allotment of 2,89,25,619 shares to 33 institutional buyers at Rs 1,210 a share, totalling Rs 3,500 crore.",
-    "title_hi": "Aegis Logistics ने 3,500 करोड़ रुपये के QIP में 1,210 रुपये पर 2.89 करोड़ शेयर आवंटित किए",
-    "summary_hi": "Aegis Logistics ने नेशनल स्टॉक एक्सचेंज को दी गई जानकारी में बताया कि उसकी फंड जुटाने वाली समिति ने 33 संस्थागत खरीदारों को 1,210 रुपये प्रति शेयर के भाव पर 2,89,25,619 शेयरों के आवंटन को मंजूरी दे दी है, जो कुल 3,500 करोड़ रुपये है।",
-    "why_hi": "QIP के जरिए फंड जुटाना पूंजी का डाइल्यूशन है।",
-    "chips_hi": {
-      "शेयर": "2.89 करोड़",
-      "QIP आकार": "Rs 3,500 crore",
-      "मूल्य": "Rs 1,210"
-    },
-    "hi_tries": 0,
-    "hi_ver": 2
-  },
-  {
-    "v": 3,
-    "cat": "Markets",
-    "tk": "BAJAJ FINANCE",
-    "title": "Bajaj Finance closes QIP, allocates shares at Rs 1,025 each",
-    "summary": "Bajaj Finance said in a filing with the National Stock Exchange that its board committee closed the qualified institutions placement on 16 November 2026 at an issue price of Rs 1,025 per share.",
-    "source": "Oquilia",
-    "published": "2026-11-17T03:46:41.367000+00:00",
-    "ago": "2h",
-    "impact": "Neutral",
-    "why": "Capital raise completed through QIP.",
-    "url": "https://www.oquilia.com/news/bajaj-finance-closes-qip-allocates-114146341-shares-rs-1025-each",
-    "chips": {
-      "Issue Price": "Rs 1,025",
-      "Shares Allocated": "114,146,341"
-    },
-    "trend": [
-      0.5,
-      0.55,
-      0.45,
-      0.5,
-      0.47,
-      0.52,
-      0.5
-    ],
-    "color": "B7791F",
-    "premium": false,
-    "verbatim": false,
-    "src_title": "Bajaj Finance closes QIP, allocates 114,146,341 shares at Rs 1,025 each",
-    "src_summary": "Bajaj Finance said in a filing with the National Stock Exchange that its board committee closed the qualified institutions placement on 16 November 2026 at an issue price of Rs 1,025 per share.",
-    "title_hi": "Bajaj Finance ने QIP बंद किया, 1,025 रुपये प्रति शेयर पर आवंटन",
-    "summary_hi": "Bajaj Finance ने National Stock Exchange को दी गई जानकारी में बताया कि उसकी बोर्ड समिति ने 16 November 2026 को 1,025 रुपये प्रति शेयर के इश्यू प्राइस पर क्वालिफाइड इंस्टीटutions प्लेसमेंट बंद कर दिया।",
-    "why_hi": "QIP के जरिए पूंजी जुटाई गई।",
-    "chips_hi": {
-      "इश्यू प्राइस": "Rs 1,025",
-      "शेयर आवंटित": "114,146,341"
-    },
-    "hi_tries": 0,
-    "hi_ver": 2
-  },
-  {
-    "v": 3,
-    "cat": "Finance",
-    "tk": "INDIAN BANK",
-    "title": "Calcutta High Court declines to order Indian Bank to fix borrower's CIBIL record",
-    "summary": "The Calcutta High Court dismissed a company's plea to remove a 'Loss' tag from its CIBIL report, holding that its dispute with Indian Bank over a one-time settlement belongs before the DRT.",
-    "source": "Oquilia",
-    "published": "2026-11-17T03:36:47.377000+00:00",
-    "ago": "2h",
-    "impact": "Neutral",
-    "why": "Court ruling on routine banking dispute.",
-    "url": "https://www.oquilia.com/news/calcutta-high-court-indian-bank-cibil-loss-classification-ots",
-    "chips": {},
-    "trend": [
-      0.5,
-      0.55,
-      0.45,
-      0.5,
-      0.47,
-      0.52,
-      0.5
-    ],
-    "color": "B7791F",
-    "premium": false,
-    "verbatim": false,
-    "src_title": "Calcutta High Court declines to order Indian Bank to fix borrower's CIBIL record",
-    "src_summary": "The Calcutta High Court dismissed a company's plea to remove a 'Loss' tag from its CIBIL report, holding that its dispute with Indian Bank over a one-time settlement belongs before the DRT.",
-    "title_hi": "Calcutta High Court ने borrower के CIBIL record को ठीक करने के Indian Bank को आदेश देने से किया इनकार",
-    "summary_hi": "Calcutta High Court ने CIBIL report से 'Loss' tag हटाने की कंपनी की याचिका खारिज कर दी, यह कहते हुए कि Indian Bank के साथ one-time settlement पर इसका विवाद DRT के समक्ष होना चाहिए।",
-    "why_hi": "नियमित बैंकिंग विवाद पर अदालत का फैसला।",
-    "chips_hi": {},
-    "hi_tries": 0,
-    "hi_ver": 2
-  },
-  {
-    "v": 3,
-    "cat": "Markets",
-    "tk": "MARKETS",
-    "title": "Nifty 50 at 25,291 after Monday gain as midcaps and smallcaps slip",
-    "summary": "The Nifty 50 closed Monday at 25,291.1, up 146.8 points, but 1,937 stocks fell against 792 that rose as midcaps lost 0.51% and smallcaps 1.1%.",
-    "source": "Oquilia",
-    "published": "2026-11-17T02:33:17.550000+00:00",
-    "ago": "27m",
-    "impact": "Neutral",
-    "why": "Broad market trend shows mixed sentiment.",
-    "url": "https://www.oquilia.com/news/nifty-50-pre-market-17-november-2026",
-    "chips": {
-      "Nifty 50": "25,291.1",
-      "Gain": "146.8 points"
-    },
-    "trend": [
-      0.5,
-      0.55,
-      0.45,
-      0.5,
-      0.47,
-      0.52,
-      0.5
-    ],
-    "color": "B7791F",
-    "premium": false,
-    "verbatim": false,
-    "src_title": "Pre-market: Nifty 50 at 25,291 after Monday gain as midcaps and smallcaps slip",
-    "src_summary": "The Nifty 50 closed Monday at 25,291.1, up 146.8 points, but 1,937 stocks fell against 792 that rose as midcaps lost 0.51% and smallcaps 1.1%.",
-    "title_hi": "सोमवार की बढ़त के बाद Nifty 50 25,291 पर, जबकि मिडकैप और स्मॉलकैप गिरे",
-    "summary_hi": "Nifty 50 सोमवार को 25,291.1 पर बंद हुआ, जो 146.8 अंक ऊपर था, लेकिन 1,937 शेयर गिरे जबकि 792 चढ़े क्योंकि मिडकैप में 0.51% और स्मॉलकैप में 1.1% की गिरावट आई।",
-    "why_hi": "व्यापक बाजार रुख मिश्रित भावना दिखाता है।",
-    "chips_hi": {
-      "Nifty 50": "25,291.1",
-      "बढ़त": "146.8 अंक"
     },
     "hi_tries": 0,
     "hi_ver": 2
