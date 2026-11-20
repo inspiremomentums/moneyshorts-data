@@ -3,6 +3,359 @@
     "v": 3,
     "cat": "Finance",
     "tk": "FINANCE",
+    "title": "IRDAI fines Star Health Rs 2 crore over rejected claims",
+    "summary": "IRDAI has imposed a Rs 2 crore penalty on Star Health and Allied Insurance after finding that it rejected health claims, including COVID-19 claims, on untenable grounds and made unsupported deductions.",
+    "source": "Oquilia",
+    "published": "2026-11-20T15:34:15.628000+00:00",
+    "ago": "2h",
+    "impact": "Negative",
+    "why": "Penalty imposed for rejecting health claims.",
+    "url": "https://www.oquilia.com/news/irdai-fines-star-health-rs-2-crore-claims-rejected-untenable-grounds",
+    "chips": {
+      "Penalty": "Rs 2 crore"
+    },
+    "trend": [
+      0.95,
+      0.85,
+      0.7,
+      0.6,
+      0.4,
+      0.3,
+      0.1
+    ],
+    "color": "9B2C2C",
+    "premium": false,
+    "verbatim": false,
+    "src_title": "IRDAI fines Star Health Rs 2 crore, finds claims rejected on untenable grounds",
+    "src_summary": "IRDAI has imposed a Rs 2 crore penalty on Star Health and Allied Insurance after finding that it rejected health claims, including COVID-19 claims, on untenable grounds and made unsupported deductions.",
+    "title_hi": "IRDAI ने Star Health पर 2 करोड़ रुपये का जुर्माना लगाया",
+    "summary_hi": "IRDAI ने Star Health and Allied Insurance पर 2 करोड़ रुपये का जुर्माना लगाया है क्योंकि उसने पाया कि कंपनी ने COVID-19 दावों सहित स्वास्थ्य दावों को अनुचित आधार पर खारिज किया और अप्रमाणित कटौतियां कीं।",
+    "why_hi": "दावों को खारिज करने पर जुर्माना लगा।",
+    "chips_hi": {
+      "जुर्माना": "2 करोड़ रुपये"
+    }
+  },
+  {
+    "v": 3,
+    "cat": "Markets",
+    "tk": "MARKETS",
+    "title": "Nifty 50 rises 1.12% to 25,800.60 as private banks lead",
+    "summary": "The Nifty 50 closed at 25,800.60 on 20 November 2026, up 286.30 points or 1.12%, but breadth was weak: 1,046 NSE stocks advanced, 1,682 declined and 32 were unchanged.",
+    "source": "Oquilia",
+    "published": "2026-11-20T13:38:35.544000+00:00",
+    "ago": "4h",
+    "impact": "Positive",
+    "why": "Nifty 50 index rose 1.12%",
+    "url": "https://www.oquilia.com/news/stock-market-today-nifty-50-closing-20-november-2026",
+    "chips": {
+      "Nifty 50": "25,800.60",
+      "Gain": "1.12%"
+    },
+    "trend": [
+      0.1,
+      0.25,
+      0.2,
+      0.5,
+      0.45,
+      0.8,
+      0.95
+    ],
+    "color": "0F766E",
+    "premium": false,
+    "verbatim": false,
+    "src_title": "Nifty 50 rises 1.12% to 25,800.60 as private banks lead, smallcaps slip",
+    "src_summary": "The Nifty 50 closed at 25,800.60 on 20 November 2026, up 286.30 points or 1.12%, but breadth was weak: 1,046 NSE stocks advanced, 1,682 declined and 32 were unchanged.",
+    "title_hi": "Nifty 50 प्राइवेट बैंकों के नेतृत्व में 1.12% बढ़कर 25,800.60 पर पहुंचा",
+    "summary_hi": "Nifty 50 20 नवंबर 2026 को 25,800.60 पर बंद हुआ, जो 286.30 अंक या 1.12% ऊपर है, लेकिन ब्रेड्थ कमजोर थी: 1,046 NSE स्टॉक बढ़े, 1,682 गिरे और 32 अपरिवर्तित रहे।",
+    "why_hi": "Nifty 50 इंडेक्स 1.12% बढ़ा",
+    "chips_hi": {
+      "Nifty 50": "25,800.60",
+      "बढ़त": "1.12%"
+    }
+  },
+  {
+    "v": 3,
+    "cat": "Companies",
+    "tk": "COMPANIES",
+    "title": "NCLT Chandigarh admits Anuraj Real Estates into insolvency over hotel loans",
+    "summary": "The NCLT's Chandigarh bench has admitted Anuraj Real Estates Private Limited into insolvency on an asset reconstruction company's petition claiming a default of Rs 26,39,95,909.",
+    "source": "Oquilia",
+    "published": "2026-11-20T13:37:55.241000+00:00",
+    "ago": "4h",
+    "impact": "Negative",
+    "why": "Company admitted into insolvency over debt default.",
+    "url": "https://www.oquilia.com/news/nclt-chandigarh-admits-anuraj-real-estates-insolvency-hotel-loans",
+    "chips": {
+      "Default": "Rs 26,39,95,909"
+    },
+    "trend": [
+      0.95,
+      0.85,
+      0.7,
+      0.6,
+      0.4,
+      0.3,
+      0.1
+    ],
+    "color": "9B2C2C",
+    "premium": false,
+    "verbatim": false,
+    "src_title": "NCLT Chandigarh admits Anuraj Real Estates into insolvency over hotel loans",
+    "src_summary": "The NCLT's Chandigarh bench has admitted Anuraj Real Estates Private Limited into insolvency on an asset reconstruction company's petition claiming a default of Rs 26,39,95,909.",
+    "hi_tries": 1
+  },
+  {
+    "v": 3,
+    "cat": "Companies",
+    "tk": "COMPANIES",
+    "title": "NCLT Chandigarh admits Syska Miterr into insolvency on bank petition",
+    "summary": "The NCLT's Chandigarh bench has admitted Syska Miterr Private Limited into insolvency on a bank's petition claiming a default of Rs 22,79,17,222.34, rejecting the company's objections.",
+    "source": "Oquilia",
+    "published": "2026-11-20T13:37:08.584000+00:00",
+    "ago": "4h",
+    "impact": "Negative",
+    "why": "Insolvency admission indicates severe financial distress.",
+    "url": "https://www.oquilia.com/news/nclt-chandigarh-admits-syska-miterr-insolvency-bank-petition",
+    "chips": {
+      "Default": "Rs 22,79,17,222.34"
+    },
+    "trend": [
+      0.95,
+      0.85,
+      0.7,
+      0.6,
+      0.4,
+      0.3,
+      0.1
+    ],
+    "color": "9B2C2C",
+    "premium": false,
+    "verbatim": false,
+    "src_title": "NCLT Chandigarh admits Syska Miterr into insolvency on bank's petition",
+    "src_summary": "The NCLT's Chandigarh bench has admitted Syska Miterr Private Limited into insolvency on a bank's petition claiming a default of Rs 22,79,17,222.34, rejecting the company's objections.",
+    "title_hi": "NCLT चंडीगढ़ ने बैंक की याचिका पर Syska Miterr को दिवालिया घोषित किया",
+    "summary_hi": "NCLT की चंडीगढ़ बेंच ने एक बैंक की याचिका पर Syska Miterr प्राइवेट लिमिटेड को दिवालिया प्रक्रिया में स्वीकार कर लिया है, जिसमें 22,79,17,222.34 रुपये के डिफॉल्ट का दावा किया गया था, और कंपनी की आपत्तियों को खारिज कर दिया।",
+    "why_hi": "दिवालिया प्रक्रिया से गंभीर वित्तीय संकट झलकता है।",
+    "chips_hi": {
+      "डिफ़ॉल्ट": "Rs 22,79,17,222.34"
+    }
+  },
+  {
+    "v": 3,
+    "cat": "Companies",
+    "tk": "COMPANIES",
+    "title": "NCLT Ahmedabad admits Unique Intertrade into insolvency on its own plea",
+    "summary": "The NCLT's Ahmedabad bench has admitted Unique Intertrade Private Limited into insolvency on its own application, after it disclosed defaults on Bank of Baroda loans and income tax dues.",
+    "source": "Oquilia",
+    "published": "2026-11-20T13:36:18.861000+00:00",
+    "ago": "4h",
+    "impact": "Negative",
+    "why": "Company faces insolvency proceedings after defaulting on due",
+    "url": "https://www.oquilia.com/news/nclt-ahmedabad-admits-unique-intertrade-insolvency-own-plea",
+    "chips": {},
+    "trend": [
+      0.95,
+      0.85,
+      0.7,
+      0.6,
+      0.4,
+      0.3,
+      0.1
+    ],
+    "color": "9B2C2C",
+    "premium": false,
+    "verbatim": false,
+    "src_title": "NCLT Ahmedabad admits Unique Intertrade into insolvency on its own plea",
+    "src_summary": "The NCLT's Ahmedabad bench has admitted Unique Intertrade Private Limited into insolvency on its own application, after it disclosed defaults on Bank of Baroda loans and income tax dues.",
+    "title_hi": "NCLT अहमदाबाद ने Unique Intertrade को स्वतः याचिका पर दिवालिया प्रक्रिया में स्वीकार किया",
+    "summary_hi": "NCLT की अहमदाबाद बेंच ने Unique Intertrade Private Limited को बैंक ऑफ बड़ौदा के लोन और आयकर बकाया में डिफॉल्ट का खुलासा करने के बाद, उसके अपने आवेदन पर दिवालिया प्रक्रिया में स्वीकार कर लिया है।",
+    "why_hi": "डिफॉल्ट के बाद कंपनी दिवालिया प्रक्रिया का सामना कर रही है।",
+    "chips_hi": {}
+  },
+  {
+    "v": 3,
+    "cat": "Companies",
+    "tk": "COMPANIES",
+    "title": "NCLT Ahmedabad admits Mclay Ceramic into insolvency over unpaid transport dues",
+    "summary": "The NCLT's Ahmedabad bench has admitted Mclay Ceramic Private Limited into insolvency on an operational creditor's petition over dues of Rs 2,24,72,908, by an order of 19 November 2026.",
+    "source": "Oquilia",
+    "published": "2026-11-20T13:35:39.789000+00:00",
+    "ago": "4h",
+    "impact": "Negative",
+    "why": "Insolvency admission indicates severe financial distress.",
+    "url": "https://www.oquilia.com/news/nclt-ahmedabad-admits-mclay-ceramic-insolvency-unpaid-transport-dues",
+    "chips": {
+      "Dues": "Rs 2,24,72,908"
+    },
+    "trend": [
+      0.95,
+      0.85,
+      0.7,
+      0.6,
+      0.4,
+      0.3,
+      0.1
+    ],
+    "color": "9B2C2C",
+    "premium": false,
+    "verbatim": false,
+    "src_title": "NCLT Ahmedabad admits Mclay Ceramic into insolvency over unpaid transport dues",
+    "src_summary": "The NCLT's Ahmedabad bench has admitted Mclay Ceramic Private Limited into insolvency on an operational creditor's petition over dues of Rs 2,24,72,908, by an order of 19 November 2026.",
+    "title_hi": "NCLT अहमदाबाद ने बकाया परिवहन शुल्क पर Mclay Ceramic को दिवालिया घोषित किया",
+    "summary_hi": "NCLT की अहमदाबाद पीठ ने 19 नवंबर 2026 के एक आदेश द्वारा, Rs 2,24,72,908 के बकाया पर एक परिचालन लेनदार की याचिका पर Mclay Ceramic Private Limited को दिवालिया प्रक्रिया में स्वीकार कर लिया है।",
+    "why_hi": "दिवालिया प्रक्रिया में जाना गंभीर वित्तीय संकट दर्शाता है।",
+    "chips_hi": {
+      "बकाया": "Rs 2,24,72,908"
+    }
+  },
+  {
+    "v": 3,
+    "cat": "Finance",
+    "tk": "FINANCE",
+    "title": "GSTN adds Metro Rail as a transport mode in the E-Way Bill system",
+    "summary": "The GST Network has added Metro Rail as a mode of transport in the E-Way Bill system, following a notification that took effect on 1 November 2026.",
+    "source": "Oquilia",
+    "published": "2026-11-20T13:34:50.751000+00:00",
+    "ago": "4h",
+    "impact": "Neutral",
+    "why": "Operational update for logistics",
+    "url": "https://www.oquilia.com/news/gstn-adds-metro-rail-transport-mode-e-way-bill-system",
+    "chips": {
+      "Effective date": "1 November 2026"
+    },
+    "trend": [
+      0.5,
+      0.55,
+      0.45,
+      0.5,
+      0.47,
+      0.52,
+      0.5
+    ],
+    "color": "B7791F",
+    "premium": false,
+    "verbatim": false,
+    "src_title": "GSTN adds Metro Rail as a transport mode in the E-Way Bill system",
+    "src_summary": "The GST Network has added Metro Rail as a mode of transport in the E-Way Bill system, following a notification that took effect on 1 November 2026.",
+    "title_hi": "GSTN ने E-Way Bill सिस्टम में Metro Rail को परिवहन माध्यम के रूप में जोड़ा",
+    "summary_hi": "GST नेटवर्क ने 1 नवंबर 2026 से प्रभावी एक अधिसूचना के बाद E-Way Bill सिस्टम में परिवहन के एक माध्यम के रूप में Metro Rail को जोड़ दिया है।",
+    "why_hi": "लॉजिस्टिक्स के लिए परिचालन अपडेट",
+    "chips_hi": {
+      "प्रभावी तिथि": "1 नवंबर 2026"
+    }
+  },
+  {
+    "v": 3,
+    "cat": "Finance",
+    "tk": "FINANCE",
+    "title": "IRDAI fines Star Health Rs 2 crore over Covid claim rejections and deductions",
+    "summary": "IRDAI has imposed penalties of Rs 2 crore on Star Health and Allied Insurance, finding it rejected Covid claims and made claim deductions against its own policy terms.",
+    "source": "Oquilia",
+    "published": "2026-11-20T13:34:14.661000+00:00",
+    "ago": "4h",
+    "impact": "Negative",
+    "why": "Penalty imposed for rejecting Covid claims.",
+    "url": "https://www.oquilia.com/news/irdai-fines-star-health-rs-2-crore-covid-claim-rejections-deductions",
+    "chips": {
+      "Penalty": "Rs 2 crore"
+    },
+    "trend": [
+      0.95,
+      0.85,
+      0.7,
+      0.6,
+      0.4,
+      0.3,
+      0.1
+    ],
+    "color": "9B2C2C",
+    "premium": false,
+    "verbatim": false,
+    "src_title": "IRDAI fines Star Health Rs 2 crore over Covid claim rejections and deductions",
+    "src_summary": "IRDAI has imposed penalties of Rs 2 crore on Star Health and Allied Insurance, finding it rejected Covid claims and made claim deductions against its own policy terms.",
+    "title_hi": "IRDAI ने Covid दावों को खारिज करने पर Star Health पर 2 करोड़ रुपये का जुर्माना लगाया",
+    "summary_hi": "IRDAI ने Star Health and Allied Insurance पर 2 करोड़ रुपये का जुर्माना लगाया है, क्योंकि उसने Covid दावों को खारिज किया और अपनी पॉलिसी शर्तों के खिलाफ दावे में कटौती की।",
+    "why_hi": "Covid दावे खारिज करने पर जुर्माना।",
+    "chips_hi": {
+      "जुर्माना": "2 करोड़ रुपये"
+    }
+  },
+  {
+    "v": 3,
+    "cat": "Finance",
+    "tk": "FINANCE",
+    "title": "Employer wants back excess salary after you retire? Five situations Rafiq Masih says recovery is not allowed",
+    "summary": "The Supreme Court's 18 December 2014 Rafiq Masih judgment lists five situations where an employer cannot recover excess pay, including from retirees. What it means, the 2016 exception and a drawdown example.",
+    "source": "Oquilia",
+    "published": "2026-11-20T10:33:42.830000+00:00",
+    "ago": "7h",
+    "impact": "Neutral",
+    "why": "Explains legal guidelines on salary recovery.",
+    "url": "https://www.oquilia.com/news/oquilia-research-excess-pay-recovery-from-retirees-rafiq-masih-five-situations",
+    "chips": {
+      "Judgment date": "18 December 2014"
+    },
+    "trend": [
+      0.5,
+      0.55,
+      0.45,
+      0.5,
+      0.47,
+      0.52,
+      0.5
+    ],
+    "color": "B7791F",
+    "premium": false,
+    "verbatim": false,
+    "src_title": "Employer wants back excess salary after you retire? The five situations Rafiq Masih says recovery is not allowed",
+    "src_summary": "The Supreme Court's 18 December 2014 Rafiq Masih judgment lists five situations where an employer cannot recover excess pay, including from retirees. What it means, the 2016 exception and a drawdown example.",
+    "title_hi": "एम्प्लॉयर रिटायरमेंट के बाद ज़्यादा सैलरी वापस मांग रहा है? पाँच स्थितियां जहाँ Rafiq Masih जजमेंट रिकवरी की अनुमति नहीं देता",
+    "summary_hi": "Supreme Court के 18 December 2014 के Rafiq Masih जजमेंट में पांच ऐसी स्थितियां बताई गई हैं जहाँ एम्प्लॉयर ज़्यादा वेतन वापस नहीं ले सकता, जिसमें रिटायर हुए लोग भी शामिल हैं। इसका अर्थ, 2016 का अपवाद और एक ड्रॉडाउन उदाहरण।",
+    "why_hi": "वेतन रिकवरी पर कानूनी दिशा-निर्देश बताता है।",
+    "chips_hi": {
+      "जजमेंट तिथि": "18 December 2014"
+    }
+  },
+  {
+    "v": 3,
+    "cat": "Companies",
+    "tk": "ARHAM",
+    "title": "Arham Technologies says statutory auditor Badhan & Co. has resigned",
+    "summary": "Arham Technologies said in an NSE filing that its statutory auditor, Badhan & Co., resigned from 14 November 2026. The board has recommended a replacement firm for shareholder approval.",
+    "source": "Oquilia",
+    "published": "2026-11-20T09:46:02.200000+00:00",
+    "ago": "8h",
+    "impact": "Neutral",
+    "why": "Auditor resignation without stated adverse impact.",
+    "url": "https://www.oquilia.com/news/arham-technologies-statutory-auditor-badhan-resigns",
+    "chips": {
+      "Resignation Date": "14 November 2026"
+    },
+    "trend": [
+      0.5,
+      0.55,
+      0.45,
+      0.5,
+      0.47,
+      0.52,
+      0.5
+    ],
+    "color": "B7791F",
+    "premium": false,
+    "verbatim": false,
+    "src_title": "Arham Technologies says statutory auditor Badhan & Co. has resigned",
+    "src_summary": "Arham Technologies said in an NSE filing that its statutory auditor, Badhan & Co., resigned from 14 November 2026. The board has recommended a replacement firm for shareholder approval.",
+    "title_hi": "Arham Technologies का कहना है कि वैधानिक लेखा परीक्षक Badhan & Co. ने इस्तीफा दे दिया है",
+    "summary_hi": "Arham Technologies ने एक NSE फाइलिंग में कहा कि उसके वैधानिक लेखा परीक्षक, Badhan & Co. ने 14 नवंबर 2026 से इस्तीफा दे दिया है। बोर्ड ने शेयरधारक की मंजूरी के लिए एक प्रतिस्थापन फर्म की सिफारिश की है।",
+    "why_hi": "लेखा परीक्षक का इस्तीफा, तटस्थ प्रभाव।",
+    "chips_hi": {
+      "इस्तीफे की तारीख": "14 नवंबर 2026"
+    }
+  },
+  {
+    "v": 3,
+    "cat": "Finance",
+    "tk": "FINANCE",
     "title": "CGST Faridabad alleges Rs 116.48 crore pan masala cess evasion in Rewari",
     "summary": "CGST Faridabad says a Rewari pan masala unit ran four undeclared packing machines without registering under the HSNS Cess Act, 2025, and puts the cess not paid at Rs 116.48 crore.",
     "source": "Oquilia",
@@ -28,7 +381,8 @@
     "verbatim": false,
     "src_title": "CGST Faridabad alleges Rs 116.48 crore pan masala cess evasion in Rewari, one arrested",
     "src_summary": "CGST Faridabad says a Rewari pan masala unit ran four undeclared packing machines without registering under the HSNS Cess Act, 2025, and puts the cess not paid at Rs 116.48 crore.",
-    "hi_tries": 1
+    "hi_tries": 1,
+    "hi_ver": 2
   },
   {
     "v": 3,
@@ -60,14 +414,15 @@
     "verbatim": false,
     "src_title": "Hindustan Zinc board approves Rs 80,000 crore plan to raise metal capacity to 2 MTPA",
     "src_summary": "Hindustan Zinc told the stock exchanges that its board approved the HZL 2.0 Growth Program on 16 November 2026, with envisaged capital spending of about Rs 80,000 crore over three to five years.",
-    "hi_tries": 1,
+    "hi_tries": 0,
     "title_hi": "Hindustan Zinc बोर्ड ने मेटल क्षमता बढ़ाने की योजना को मंजूरी दी",
     "summary_hi": "Hindustan Zinc ने स्टॉक एक्सचेंजों को बताया कि उसके बोर्ड ने 16 नवंबर 2026 को HZL 2.0 ग्रोथ प्रोग्राम को मंजूरी दे दी है, जिसमें तीन से पांच वर्षों में लगभग 80,000 करोड़ रुपये का पूंजीगत खर्च (Capex) अनुमानित है।",
     "why_hi": "क्षमता विस्तार योजनाएं दीर्घकालिक विकास का समर्थन करती हैं।",
     "chips_hi": {
       "Capex": "80,000 करोड़ रुपये",
       "क्षमता": "2 MTPA"
-    }
+    },
+    "hi_ver": 2
   },
   {
     "v": 3,
@@ -98,7 +453,8 @@
     "verbatim": false,
     "src_title": "ITAT Delhi quashes retrospective cancellation of school society's charity registration",
     "src_summary": "The Income Tax Appellate Tribunal in Delhi quashed orders cancelling a school society's charitable registration from AY 2019-20 and directed renewal of its Section 12A registration and 80G approval.",
-    "hi_tries": 1
+    "hi_tries": 1,
+    "hi_ver": 2
   },
   {
     "v": 3,
@@ -136,7 +492,9 @@
     "chips_hi": {
       "ऑर्डर मूल्य": "Rs 128 करोड़",
       "रेक": "5"
-    }
+    },
+    "hi_tries": 0,
+    "hi_ver": 2
   },
   {
     "v": 3,
@@ -176,7 +534,9 @@
       "Nifty 50": "25,514.30",
       "बढ़त": "1.14%",
       "Nifty Auto": "4.4%"
-    }
+    },
+    "hi_tries": 0,
+    "hi_ver": 2
   },
   {
     "v": 3,
@@ -208,14 +568,15 @@
     "verbatim": false,
     "src_title": "Writing a Book? Section 151 of the Income-tax Act 2025 Lets Resident Authors Deduct Up to Rs 3 Lakh of Royalty",
     "src_summary": "Section 151 of the Income-tax Act 2025 lets resident authors deduct book royalty up to Rs 3 lakh in the old regime, subject to a 15% sales test, a payer certificate and a six-month rule.",
-    "hi_tries": 1,
+    "hi_tries": 0,
     "title_hi": "Income-tax Act 2025 रेजिडेंट लेखकों को 3 लाख रुपये तक की रॉयल्टी काटने की अनुमति देता है",
     "summary_hi": "Income-tax Act 2025 की धारा 151 रेजिडेंट लेखकों को पुरानी व्यवस्था में 3 लाख रुपये तक की बुक रॉयल्टी काटने की अनुमति देती है, जो 15% बिक्री परीक्षण, एक भुगतानकर्ता प्रमाण पत्र और छह महीने के नियम के अधीन है।",
     "why_hi": "कर कटौती रेजिडेंट लेखकों को लाभ पहुंचाती है।",
     "chips_hi": {
       "रॉयल्टी कटौती सीमा": "Rs 3 Lakh",
       "बिक्री परीक्षण": "15%"
-    }
+    },
+    "hi_ver": 2
   },
   {
     "v": 3,
@@ -405,7 +766,7 @@
     "verbatim": false,
     "src_title": "EPFO board approves systematic withdrawals and cuts PF minimum balance to 10%",
     "src_summary": "EPFO's Central Board of Trustees approved a Systematic Withdrawal Plan for retiring members and cut the minimum PF balance from 25% to 10%, the Labour Ministry said on 19 November 2026.",
-    "hi_tries": 1,
+    "hi_tries": 2,
     "hi_ver": 2
   },
   {
@@ -513,7 +874,7 @@
     "verbatim": false,
     "src_title": "NHAI says insurance renewal SMS alerts carry no challans or penalties at toll plazas",
     "src_summary": "NHAI said on 19 November 2026 that SMS alerts on vehicle insurance renewal sent to some highway users are part of a test of an awareness initiative and bring no challans or toll plaza penalties.",
-    "hi_tries": 1,
+    "hi_tries": 2,
     "hi_ver": 2
   },
   {
@@ -1124,398 +1485,6 @@
     "summary_hi": "Income-tax Act, 2025 की Section 217 एक लौट रहे NRI को पहले रेजिडेंट रिटर्न में घोषणा करके, विदेशी मुद्रा में खरीदे गए पब्लिक-कंपनी डिबेंचर, डिपॉजिट और G-sec पर 20% इन्वेस्टमेंट-इनकम रेट बनाए रखने की अनुमति देती है।",
     "why_hi": "लौट रहे NRI के लिए टैक्स नियम।",
     "chips_hi": {},
-    "hi_ver": 2
-  },
-  {
-    "v": 3,
-    "cat": "Markets",
-    "tk": "COAL INDIA",
-    "title": "Mahanadi Coalfields files RHP; Coal India offer for sale opens November 19",
-    "summary": "Mahanadi Coalfields' red herring prospectus sets out an offer for sale of up to 66.18 crore shares by Coal India, with bidding from November 19 to November 23, 2026.",
-    "source": "Oquilia",
-    "published": "2026-11-18T04:24:01.614000+00:00",
-    "ago": "1h",
-    "impact": "Neutral",
-    "why": "Offer for sale of existing shares.",
-    "url": "https://www.oquilia.com/news/mahanadi-coalfields-rhp-filed-ipo-opens-november-19",
-    "chips": {
-      "Shares": "66.18 crore",
-      "Start Date": "November 19"
-    },
-    "trend": [
-      0.5,
-      0.55,
-      0.45,
-      0.5,
-      0.47,
-      0.52,
-      0.5
-    ],
-    "color": "B7791F",
-    "premium": false,
-    "verbatim": false,
-    "src_title": "Mahanadi Coalfields files RHP; Coal India offer for sale opens November 19",
-    "src_summary": "Mahanadi Coalfields' red herring prospectus sets out an offer for sale of up to 66.18 crore shares by Coal India, with bidding from November 19 to November 23, 2026.",
-    "title_hi": "Mahanadi Coalfields ने RHP दाखिल किया; Coal India की बिक्री के लिए पेशकश 19 नवंबर को खुलेगी",
-    "summary_hi": "Mahanadi Coalfields के रेड हेरिंग प्रॉस्पेक्टस में Coal India द्वारा 66.18 करोड़ तक के शेयरों की बिक्री की पेशकश निर्धारित की गई है, जिसमें 19 नवंबर से 23 नवंबर 2026 तक बोली लगाई जाएगी।",
-    "why_hi": "मौजूदा शेयरों की बिक्री की पेशकश।",
-    "chips_hi": {
-      "शेयर": "66.18 करोड़",
-      "प्रारंभ तिथि": "19 नवंबर"
-    },
-    "hi_tries": 0,
-    "hi_ver": 2
-  },
-  {
-    "v": 3,
-    "cat": "Markets",
-    "tk": "MARKETS",
-    "title": "ACME Solar unit signs 150 MW hybrid power deal with NTPC at Rs 3.21 a unit",
-    "summary": "ACME Solar Holdings said in a filing with the National Stock Exchange that its subsidiary signed a power purchase agreement with NTPC for a 150 MW hybrid project at a tariff of Rs 3.21 per unit.",
-    "source": "Oquilia",
-    "published": "2026-11-18T03:45:55.124000+00:00",
-    "ago": "2h",
-    "impact": "Positive",
-    "why": "Secured a new power purchase agreement.",
-    "url": "https://www.oquilia.com/news/acme-solar-unit-signs-150-mw-hybrid-power-deal-with-ntpc",
-    "chips": {
-      "Capacity": "150 MW",
-      "Tariff": "Rs 3.21/unit"
-    },
-    "trend": [
-      0.1,
-      0.25,
-      0.2,
-      0.5,
-      0.45,
-      0.8,
-      0.95
-    ],
-    "color": "0F766E",
-    "premium": false,
-    "verbatim": false,
-    "src_title": "ACME Solar unit signs 150 MW hybrid power deal with NTPC at Rs 3.21 a unit",
-    "src_summary": "ACME Solar Holdings said in a filing with the National Stock Exchange that its subsidiary signed a power purchase agreement with NTPC for a 150 MW hybrid project at a tariff of Rs 3.21 per unit.",
-    "title_hi": "ACME Solar unit ने NTPC के साथ 150 MW हाइब्रिड पावर डील Rs 3.21 प्रति यूनिट पर साइन की",
-    "summary_hi": "ACME Solar Holdings ने National Stock Exchange को दी गई फाइलिंग में कहा कि उसकी subsidiary ने NTPC के साथ 150 MW हाइब्रिड प्रोजेक्ट के लिए Rs 3.21 प्रति यूनिट टैरिफ पर पावर परचेस समझौता साइन किया है।",
-    "why_hi": "नया पावर परचेस समझौता हासिल हुआ।",
-    "chips_hi": {
-      "क्षमता": "150 MW",
-      "टैरिफ": "Rs 3.21/unit"
-    },
-    "hi_tries": 0,
-    "hi_ver": 2
-  },
-  {
-    "v": 3,
-    "cat": "Markets",
-    "tk": "MARKETS",
-    "title": "Pre-market: Nifty 50 stands at 25,387.4 after bank-led gain",
-    "summary": "The Nifty 50 closed at 25,387.4 on Tuesday, 17 November, up 96.3 points or 0.38%, as Nifty Bank rose 1.13% while declines (1,404) outnumbered advances (1,318).",
-    "source": "Oquilia",
-    "published": "2026-11-18T02:33:17.952000+00:00",
-    "ago": "3h",
-    "impact": "Neutral",
-    "why": "Routine market update with mixed breadth.",
-    "url": "https://www.oquilia.com/news/nifty-50-pre-market-18-november-2026",
-    "chips": {
-      "Nifty 50": "25,387.4",
-      "Gain": "0.38%",
-      "Nifty Bank": "1.13%"
-    },
-    "trend": [
-      0.5,
-      0.55,
-      0.45,
-      0.5,
-      0.47,
-      0.52,
-      0.5
-    ],
-    "color": "B7791F",
-    "premium": false,
-    "verbatim": false,
-    "src_title": "Pre-market: Nifty 50 stands at 25,387.4 after a bank-led gain on Tuesday",
-    "src_summary": "The Nifty 50 closed at 25,387.4 on Tuesday, 17 November, up 96.3 points or 0.38%, as Nifty Bank rose 1.13% while declines (1,404) outnumbered advances (1,318).",
-    "title_hi": "प्री-मार्केट: बैंक-प्रेरित तेजी के बाद Nifty 50 25,387.4 पर है",
-    "summary_hi": "Nifty 50 मंगलवार, 17 नवंबर को 96.3 अंक या 0.38% की बढ़त के साथ 25,387.4 पर बंद हुआ, क्योंकि Nifty Bank 1.13% बढ़ा जबकि गिरावट वाले शेयर (1,404) बढ़त वाले शेयरों (1,318) से अधिक थे।",
-    "why_hi": "मिश्रित बाजार अपडेट।",
-    "chips_hi": {
-      "Nifty 50": "25,387.4",
-      "बढ़ت": "0.38%",
-      "Nifty Bank": "1.13%"
-    },
-    "hi_tries": 0,
-    "hi_ver": 2
-  },
-  {
-    "v": 3,
-    "cat": "Finance",
-    "tk": "FINANCE",
-    "title": "Sold Farmland? Section 83 of the Income-tax Act 2025 Exempts Gain If New Agricultural Land Bought Within Two Years",
-    "summary": "Section 83 of the Income-tax Act 2025, successor to section 54B, exempts capital gains on farmland sold by an individual or HUF if the gain is reinvested in agricultural land within two years.",
-    "source": "Oquilia",
-    "published": "2026-11-18T00:40:50.403000+00:00",
-    "ago": "1h",
-    "impact": "Neutral",
-    "why": "No direct fundamental impact on companies.",
-    "url": "https://www.oquilia.com/news/oquilia-research-farmland-sale-capital-gains-reinvest-section-83-2025-act",
-    "chips": {
-      "Section": "83"
-    },
-    "trend": [
-      0.5,
-      0.55,
-      0.45,
-      0.5,
-      0.47,
-      0.52,
-      0.5
-    ],
-    "color": "B7791F",
-    "premium": false,
-    "verbatim": false,
-    "src_title": "Sold Farmland? Section 83 of the Income-tax Act 2025 Exempts the Gain if You Buy New Agricultural Land Within Two Years",
-    "src_summary": "Section 83 of the Income-tax Act 2025, successor to section 54B, exempts capital gains on farmland sold by an individual or HUF if the gain is reinvested in agricultural land within two years.",
-    "title_hi": "कृषि भूमि बेची? Income-tax Act 2025 का Section 83 दो साल के भीतर नई कृषि भूमि खरीदने पर लाभ छूट देता है",
-    "summary_hi": "Income-tax Act 2025 का Section 83, जो section 54B का उत्तराधिकारी है, किसी व्यक्ति या HUF द्वारा बेची गई कृषि भूमि पर कैपिटल गेन को छूट देता है यदि लाभ को दो साल के भीतर कृषि भूमि में पुनर्निवेश किया जाता है।",
-    "why_hi": "कंपनियों पर कोई सीधा प्रभाव नहीं।",
-    "chips_hi": {
-      "सेक्शन": "83"
-    },
-    "hi_tries": 0,
-    "hi_ver": 2
-  },
-  {
-    "v": 3,
-    "cat": "Markets",
-    "tk": "MARKETS",
-    "title": "Nifty 50 ends 0.38% higher at 25,387.40 as banks lead and smallcaps slip",
-    "summary": "The Nifty 50 closed at 25,387.40, up 96.30 points or 0.38%, led by Nifty Bank's 1.13% gain, while 1,404 NSE stocks declined against 1,318 that advanced.",
-    "source": "Oquilia",
-    "published": "2026-11-17T13:39:06.362000+00:00",
-    "ago": "12h",
-    "impact": "Neutral",
-    "why": "Routine market close with mixed sectoral movement.",
-    "url": "https://www.oquilia.com/news/stock-market-today-nifty-50-closing-17-november-2026",
-    "chips": {
-      "Nifty 50": "25,387.40",
-      "Change": "+0.38%"
-    },
-    "trend": [
-      0.5,
-      0.55,
-      0.45,
-      0.5,
-      0.47,
-      0.52,
-      0.5
-    ],
-    "color": "B7791F",
-    "premium": false,
-    "verbatim": false,
-    "src_title": "Nifty 50 ends 0.38% higher at 25,387.40 as banks lead and smallcaps slip",
-    "src_summary": "The Nifty 50 closed at 25,387.40, up 96.30 points or 0.38%, led by Nifty Bank's 1.13% gain, while 1,404 NSE stocks declined against 1,318 that advanced.",
-    "title_hi": "Nifty 50 0.38% की बढ़त के साथ 25,387.40 पर बंद, बैंकों की अगुवाई और स्मॉलकैप में गिरावट",
-    "summary_hi": "Nifty 50 96.30 अंक या 0.38% की बढ़त के साथ 25,387.40 पर बंद हुआ, जिसकी अगुवाई Nifty Bank के 1.13% लाभ ने की, जबकि 1,404 NSE शेयर 1,318 बढ़त वाले शेयरों के मुकाबले गिरे।",
-    "why_hi": "मिश्रित क्षेत्रीय हलचल के साथ सामान्य बाजार बंद।",
-    "chips_hi": {
-      "Nifty 50": "25,387.40",
-      "बदलाव": "+0.38%"
-    },
-    "hi_tries": 0,
-    "hi_ver": 2
-  },
-  {
-    "v": 3,
-    "cat": "Finance",
-    "tk": "FINANCE",
-    "title": "GSTN: e-invoicing for reverse-charge self-invoices mandatory from 1 January 2027",
-    "summary": "The GST Network said e-invoicing will apply to reverse-charge self-invoices on supplies from unregistered persons and on imported services from 1 January 2027, with voluntary use from 15 December 2026.",
-    "source": "Oquilia",
-    "published": "2026-11-17T13:34:14.893000+00:00",
-    "ago": "12h",
-    "impact": "Neutral",
-    "why": "Compliance update with no direct financial impact.",
-    "url": "https://www.oquilia.com/news/gstn-e-invoicing-reverse-charge-self-invoices-mandatory-january-2027",
-    "chips": {
-      "Date": "1 January 2027",
-      "Voluntary Date": "15 December 2026"
-    },
-    "trend": [
-      0.5,
-      0.55,
-      0.45,
-      0.5,
-      0.47,
-      0.52,
-      0.5
-    ],
-    "color": "B7791F",
-    "premium": false,
-    "verbatim": false,
-    "src_title": "GSTN: e-invoicing for reverse-charge self-invoices mandatory from 1 January 2027",
-    "src_summary": "The GST Network said e-invoicing will apply to reverse-charge self-invoices on supplies from unregistered persons and on imported services from 1 January 2027, with voluntary use from 15 December 2026.",
-    "title_hi": "GSTN: 1 जनवरी 2027 से रिवर्स-चार्ज सेल्फ-इनवॉइस के लिए e-invoicing अनिवार्य",
-    "summary_hi": "जीएसटी नेटवर्क ने कहा कि 1 जनवरी 2027 से बिना पंजीकृत व्यक्तियों की आपूर्ति और आयातित सेवाओं पर रिवर्स-चार्ज सेल्फ-इनवॉइस के लिए e-invoicing लागू होगी, जबकि 15 दिसंबर 2026 से इसका स्वैच्छिक उपयोग शुरू होगा।",
-    "why_hi": "अनुपालन अपडेट जिसका प्रत्यक्ष वित्तीय प्रभाव नहीं है।",
-    "chips_hi": {
-      "तारीख": "1 जनवरी 2027",
-      "स्वैच्छिक तारीख": "15 दिसंबर 2026"
-    },
-    "hi_tries": 0,
-    "hi_ver": 2
-  },
-  {
-    "v": 3,
-    "cat": "Finance",
-    "tk": "FINANCE",
-    "title": "Supreme Court's 2022 ruling backdated private school teachers' gratuity to April 1997",
-    "summary": "The Supreme Court on 29 August 2022 upheld gratuity for private school teachers from 3 April 1997. Who qualifies, how it is calculated and taxed, and a worked Rs 9 lakh drawdown.",
-    "source": "Oquilia",
-    "published": "2026-11-17T10:35:09.796000+00:00",
-    "ago": "15h",
-    "impact": "Negative",
-    "why": "Increased financial liability for private schools.",
-    "url": "https://www.oquilia.com/news/oquilia-research-private-school-teachers-gratuity-2009-amendment-independent-schools-federation",
-    "chips": {
-      "Date": "3 April 1997",
-      "Amount": "Rs 9 lakh"
-    },
-    "trend": [
-      0.95,
-      0.85,
-      0.7,
-      0.6,
-      0.4,
-      0.3,
-      0.1
-    ],
-    "color": "9B2C2C",
-    "premium": false,
-    "verbatim": false,
-    "src_title": "Private school teachers and gratuity: how the Supreme Court's 2022 Independent Schools Federation ruling backdated the right to April 1997",
-    "src_summary": "The Supreme Court on 29 August 2022 upheld gratuity for private school teachers from 3 April 1997. Who qualifies, how it is calculated and taxed, and a worked Rs 9 lakh drawdown.",
-    "title_hi": "Supreme Court के 2022 के फैसले ने प्राइवेट स्कूलों के शिक्षकों की ग्रेच्युटी अप्रैल 1997 से पीछे की तारीख से लागू की",
-    "summary_hi": "Supreme Court ने 29 August 2022 को 3 April 1997 से प्राइवेट स्कूल के शिक्षकों के लिए ग्रेच्युटी को बरकरार रखा। कौन योग्य है, इसकी गणना और कर निर्धारण कैसे होता है, और Rs 9 lakh की निकासी का उदाहरण।",
-    "why_hi": "प्राइवेट स्कूलों पर बढ़ी वित्तीय देनदारी।",
-    "chips_hi": {
-      "तारीख": "3 April 1997",
-      "राशि": "Rs 9 lakh"
-    },
-    "hi_tries": 0,
-    "hi_ver": 2
-  },
-  {
-    "v": 3,
-    "cat": "Finance",
-    "tk": "FINANCE",
-    "title": "The NRI Who Need Not File a Return: Section 216 Exemption Explained",
-    "summary": "Section 216 of the Income-tax Act, 2025 lets an NRI skip the return if income is only investment income or long-term gains from foreign exchange assets, with TDS deducted. Here is when it applies.",
-    "source": "Oquilia",
-    "published": "2026-11-17T09:07:43.217000+00:00",
-    "ago": "1h",
-    "impact": "Neutral",
-    "why": "Tax exemption rule update for NRIs.",
-    "url": "https://www.oquilia.com/news/oquilia-research-nri-no-return-needed-investment-income-section-216",
-    "chips": {},
-    "trend": [
-      0.5,
-      0.55,
-      0.45,
-      0.5,
-      0.47,
-      0.52,
-      0.5
-    ],
-    "color": "B7791F",
-    "premium": false,
-    "verbatim": false,
-    "src_title": "The NRI Who Need Not File a Return: Section 216's Exemption for Investment Income and Long-Term Gains Fully Taxed at Source",
-    "src_summary": "Section 216 of the Income-tax Act, 2025 lets an NRI skip the return if income is only investment income or long-term gains from foreign exchange assets, with TDS deducted. Here is when it applies.",
-    "hi_tries": 1,
-    "hi_ver": 2,
-    "title_hi": "वह NRI जिन्हें रिटर्न दाखिल करने की आवश्यकता नहीं है: Section 216 छूट की व्याख्या",
-    "summary_hi": "Income-tax Act, 2025 का Section 216 एक NRI को रिटर्न दाखिल करने से छूट देता है यदि आय केवल निवेश आय या विदेशी मुद्रा परिसंपत्तियों से दीर्घकालिक लाभ है, जिस पर TDS काटा गया है। यहाँ बताया गया है कि यह कब लागू होता है।",
-    "why_hi": "NRI के लिए कर छूट नियम अपडेट।",
-    "chips_hi": {}
-  },
-  {
-    "v": 3,
-    "cat": "Companies",
-    "tk": "COMPANIES",
-    "title": "Operational creditors had 9 of 26 companies admitted to insolvency over Rs 41.24 crore",
-    "summary": "Suppliers and other operational creditors brought 9 of 26 insolvency admissions in a month, with claims of Rs 41.24 crore against Rs 727.78 crore in 11 lender cases.",
-    "source": "Oquilia",
-    "published": "2026-11-17T06:53:11.962000+00:00",
-    "ago": "1h",
-    "impact": "Neutral",
-    "why": "Insolvency data reporting",
-    "url": "https://www.oquilia.com/news/operational-creditors-9-of-26-insolvency-admissions-17-november-2026",
-    "chips": {
-      "Admissions": "9 of 26",
-      "Claims": "Rs 41.24 crore"
-    },
-    "trend": [
-      0.5,
-      0.55,
-      0.45,
-      0.5,
-      0.47,
-      0.52,
-      0.5
-    ],
-    "color": "B7791F",
-    "premium": false,
-    "verbatim": false,
-    "src_title": "Operational creditors had 9 of 26 companies admitted to insolvency over Rs 41.24 crore",
-    "src_summary": "Suppliers and other operational creditors brought 9 of 26 insolvency admissions in a month, with claims of Rs 41.24 crore against Rs 727.78 crore in 11 lender cases.",
-    "title_hi": "Operational creditors ने 41.24 करोड़ रुपये के लिए 26 में से 9 कंपनियों को दिवालिया घोषित किया",
-    "summary_hi": "आपूर्तिकर्ताओं और अन्य operational creditors ने एक महीने में 26 में से 9 insolvency admissions किए, जिसमें 11 lender cases में 727.78 करोड़ रुपये के मुकाबले 41.24 करोड़ रुपये के दावे शामिल हैं।",
-    "why_hi": "दिवालियापन डेटा रिपोर्टिंग",
-    "chips_hi": {
-      "Admissions": "9 of 26",
-      "Claims": "Rs 41.24 crore"
-    },
-    "hi_tries": 0,
-    "hi_ver": 2
-  },
-  {
-    "v": 3,
-    "cat": "Markets",
-    "tk": "DIXON",
-    "title": "Dixon Technologies signs deal to buy Vimal Plast assets for up to Rs 49.75 crore",
-    "summary": "Dixon Technologies said in a filing with the National Stock Exchange that it signed an asset purchase agreement with Vimal Plast (India) Private Limited, for up to Rs 49.75 crore before taxes.",
-    "source": "Oquilia",
-    "published": "2026-11-17T06:46:03.346000+00:00",
-    "ago": "1h",
-    "impact": "Positive",
-    "why": "Asset acquisition can expand manufacturing capabilities.",
-    "url": "https://www.oquilia.com/news/dixon-technologies-asset-purchase-vimal-plast-49-75-crore",
-    "chips": {
-      "Deal Value": "Rs 49.75 crore"
-    },
-    "trend": [
-      0.1,
-      0.25,
-      0.2,
-      0.5,
-      0.45,
-      0.8,
-      0.95
-    ],
-    "color": "0F766E",
-    "premium": false,
-    "verbatim": false,
-    "src_title": "Dixon Technologies signs deal to buy Vimal Plast assets for up to Rs 49.75 crore",
-    "src_summary": "Dixon Technologies said in a filing with the National Stock Exchange that it signed an asset purchase agreement with Vimal Plast (India) Private Limited, for up to Rs 49.75 crore before taxes.",
-    "title_hi": "Dixon Technologies ने Rs 49.75 करोड़ तक में Vimal Plast की संपत्ति खरीदने का सौदा किया",
-    "summary_hi": "Dixon Technologies ने नेशनल स्टॉक एक्सचेंज को दी गई जानकारी में बताया कि उसने Vimal Plast (India) Private Limited के साथ टैक्स से पहले Rs 49.75 करोड़ तक के संपत्ति खरीद समझौते पर हस्ताक्षर किए हैं।",
-    "why_hi": "संपत्ति अधिग्रहण से विनिर्माण क्षमता का विस्तार हो सकता है।",
-    "chips_hi": {
-      "सौदा मूल्य": "Rs 49.75 crore"
-    },
-    "hi_tries": 0,
     "hi_ver": 2
   }
 ]
