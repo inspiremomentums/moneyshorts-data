@@ -2,6 +2,157 @@
   {
     "v": 3,
     "cat": "Finance",
+    "tk": "UNITED INDIA",
+    "title": "NCDRC rejects United India Insurance's denial of 2010 factory fire claim",
+    "summary": "The National Consumer Disputes Redressal Commission held that a 2010 factory fire was accidental and directed United India Insurance to assess the loss and inform the policyholder within three months.",
+    "source": "Oquilia",
+    "published": "2026-11-21T05:36:56.626000+00:00",
+    "ago": "2h",
+    "impact": "Neutral",
+    "why": "Old claim dispute without major financial impact.",
+    "url": "https://www.oquilia.com/news/ncdrc-united-india-insurance-factory-fire-claim-rejection-unsustainable",
+    "chips": {
+      "Claim Year": "2010"
+    },
+    "trend": [
+      0.5,
+      0.55,
+      0.45,
+      0.5,
+      0.47,
+      0.52,
+      0.5
+    ],
+    "color": "B7791F",
+    "premium": false,
+    "verbatim": false,
+    "src_title": "NCDRC rejects United India Insurance's denial of 2010 factory fire claim",
+    "src_summary": "The National Consumer Disputes Redressal Commission held that a 2010 factory fire was accidental and directed United India Insurance to assess the loss and inform the policyholder within three months.",
+    "title_hi": "NCDRC ने United India Insurance के 2010 के फैक्ट्री आग के दावे को खारिज करने का फैसला ठुकराया",
+    "summary_hi": "राष्ट्रीय उपभोक्ता विवाद निवारण आयोग ने माना कि 2010 की फैक्ट्री की आग एक दुर्घटना थी और United India Insurance को निर्देश दिया कि वह नुकसान का आकलन करे और तीन महीने के भीतर पॉलिसीधारक को सूचित करे।",
+    "why_hi": "पुराना दावा विवाद बिना बड़े वित्तीय प्रभाव के।",
+    "chips_hi": {
+      "दावा वर्ष": "2010"
+    }
+  },
+  {
+    "v": 3,
+    "cat": "Markets",
+    "tk": "MARKETS",
+    "title": "Stock market this week: Nifty 50 gains 2.61% as hospitals, banks lead; smallcaps slip",
+    "summary": "The Nifty 50 rose 2.61% to 25,800.60 in the week to 20 November 2026 as Nifty Bank gained 5.90%, but 1,902 NSE stocks fell against 723 that rose and smallcaps lost 1.08%.",
+    "source": "Oquilia",
+    "published": "2026-11-21T04:40:30.750000+00:00",
+    "ago": "3h",
+    "impact": "Neutral",
+    "why": "Mixed market trends with gains and losses.",
+    "url": "https://www.oquilia.com/news/stock-market-this-week-20-november-2026",
+    "chips": {
+      "Nifty 50": "2.61%",
+      "Nifty Bank": "5.90%",
+      "Smallcaps": "-1.08%"
+    },
+    "trend": [
+      0.5,
+      0.55,
+      0.45,
+      0.5,
+      0.47,
+      0.52,
+      0.5
+    ],
+    "color": "B7791F",
+    "premium": false,
+    "verbatim": false,
+    "src_title": "Stock market this week: Nifty 50 gains 2.61% as hospitals, banks lead; smallcaps slip",
+    "src_summary": "The Nifty 50 rose 2.61% to 25,800.60 in the week to 20 November 2026 as Nifty Bank gained 5.90%, but 1,902 NSE stocks fell against 723 that rose and smallcaps lost 1.08%.",
+    "title_hi": "स्टॉक मार्केट इस हफ्ते: अस्पतालों और बैंकों की अगुवाई से Nifty 50 में 2.61% की तेजी, स्मॉलकैप गिरे",
+    "summary_hi": "20 नवंबर 2026 को समाप्त हफ्ते में Nifty 50 2.61% बढ़कर 25,800.60 पर पहुंच गया क्योंकि Nifty Bank में 5.90% की तेजी आई, लेकिन 723 शेयरों के मुकाबले 1,902 NSE शेयर गिरे और स्मॉलकैप में 1.08% की गिरावट आई।",
+    "why_hi": "मिश्रित बाजार रुझान",
+    "chips_hi": {
+      "Nifty 50": "2.61%",
+      "Nifty Bank": "5.90%",
+      "स्मॉलकैप": "-1.08%"
+    }
+  },
+  {
+    "v": 3,
+    "cat": "IPO",
+    "tk": "FOODLINK F&B",
+    "title": "Foodlink F&B Holdings files RHP for IPO with Rs 192 crore fresh issue",
+    "summary": "Foodlink F&B Holdings (India) has filed its red herring prospectus for an IPO of a Rs 192 crore fresh issue plus an offer for sale of up to 88.35 lakh shares, per SEBI filings.",
+    "source": "Oquilia",
+    "published": "2026-11-21T04:26:36.633000+00:00",
+    "ago": "4h",
+    "impact": "Neutral",
+    "why": "IPO filing does not impact current fundamentals.",
+    "url": "https://www.oquilia.com/news/foodlink-fandb-holdings-files-rhp-ipo-rs-192-crore-fresh-issue",
+    "chips": {
+      "Fresh Issue": "Rs 192 crore",
+      "OFS": "88.35 lakh shares"
+    },
+    "trend": [
+      0.5,
+      0.55,
+      0.45,
+      0.5,
+      0.47,
+      0.52,
+      0.5
+    ],
+    "color": "B7791F",
+    "premium": false,
+    "verbatim": false,
+    "src_title": "Foodlink F&B Holdings files RHP for IPO with Rs 192 crore fresh issue",
+    "src_summary": "Foodlink F&B Holdings (India) has filed its red herring prospectus for an IPO of a Rs 192 crore fresh issue plus an offer for sale of up to 88.35 lakh shares, per SEBI filings.",
+    "title_hi": "Foodlink F&B Holdings ने Rs 192 करोड़ के फ्रेश इश्यू के साथ IPO के लिए RHP दाखिल किया",
+    "summary_hi": "Foodlink F&B Holdings (India) ने SEBI फाइलिंग के अनुसार, Rs 192 करोड़ के फ्रेश इश्यू और 88.35 लाख शेयरों तक की बिक्री के ऑफर (OFS) के लिए IPO का रेड हring प्रॉस्पेक्टस दाखिल किया है।",
+    "why_hi": "IPO फाइलिंग से मौजूदा फंडामेंटल्स पर असर नहीं पड़ता।",
+    "chips_hi": {
+      "फ्रेश इश्यू": "Rs 192 करोड़",
+      "OFS": "88.35 लाख शेयर"
+    }
+  },
+  {
+    "v": 3,
+    "cat": "Finance",
+    "tk": "FINANCE",
+    "title": "Buying property from an NRI? From 1 Oct 2026 individual buyers can report TDS in Form 141 Schedule E",
+    "summary": "CBDT's Fifth Amendment Rules let resident individuals and HUFs buying property from a non-resident report section 393(2) TDS in new Schedule E of Form 141 from 1 October 2026.",
+    "source": "Oquilia",
+    "published": "2026-11-21T00:42:15.279000+00:00",
+    "ago": "7h",
+    "impact": "Neutral",
+    "why": "Procedural tax reporting change with no financial impact.",
+    "url": "https://www.oquilia.com/news/oquilia-research-tds-nri-property-sale-resident-buyer-form-141-schedule-e",
+    "chips": {
+      "Effective Date": "1 Oct 2026"
+    },
+    "trend": [
+      0.5,
+      0.55,
+      0.45,
+      0.5,
+      0.47,
+      0.52,
+      0.5
+    ],
+    "color": "B7791F",
+    "premium": false,
+    "verbatim": false,
+    "src_title": "Buying property from an NRI? From 1 Oct 2026 individual buyers can report TDS in Form 141 Schedule E",
+    "src_summary": "CBDT's Fifth Amendment Rules let resident individuals and HUFs buying property from a non-resident report section 393(2) TDS in new Schedule E of Form 141 from 1 October 2026.",
+    "hi_tries": 1,
+    "title_hi": "क्या आप NRI से प्रॉपर्टी खरीद रहे हैं? 1 October 2026 से व्यक्तिगत खरीदार Form 141 Schedule E में TDS रिपोर्ट कर सकेंगे",
+    "summary_hi": "CBDT के फिफ्थ एशेलॉन रूल्स के तहत गैर-निवासी से प्रॉपर्टी खरीदने वाले निवासी व्यक्ति और HUF, 1 October 2026 से Form 141 के नए Schedule E में section 393(2) TDS रिपोर्ट कर सकेंगे।",
+    "why_hi": "यह एक प्रक्रियात्मक टैक्स रिपोर्टिंग बदलाव है जिसका कोई वित्तीय प्रभाव नहीं है।",
+    "chips_hi": {
+      "प्रभावी तिथि": "1 Oct 2026"
+    }
+  },
+  {
+    "v": 3,
+    "cat": "Finance",
     "tk": "FINANCE",
     "title": "IRDAI fines Star Health Rs 2 crore over rejected claims",
     "summary": "IRDAI has imposed a Rs 2 crore penalty on Star Health and Allied Insurance after finding that it rejected health claims, including COVID-19 claims, on untenable grounds and made unsupported deductions.",
@@ -33,7 +184,9 @@
     "why_hi": "दावों को खारिज करने पर जुर्माना लगा।",
     "chips_hi": {
       "जुर्माना": "2 करोड़ रुपये"
-    }
+    },
+    "hi_tries": 0,
+    "hi_ver": 2
   },
   {
     "v": 3,
@@ -71,7 +224,9 @@
     "chips_hi": {
       "Nifty 50": "25,800.60",
       "बढ़त": "1.12%"
-    }
+    },
+    "hi_tries": 0,
+    "hi_ver": 2
   },
   {
     "v": 3,
@@ -102,7 +257,8 @@
     "verbatim": false,
     "src_title": "NCLT Chandigarh admits Anuraj Real Estates into insolvency over hotel loans",
     "src_summary": "The NCLT's Chandigarh bench has admitted Anuraj Real Estates Private Limited into insolvency on an asset reconstruction company's petition claiming a default of Rs 26,39,95,909.",
-    "hi_tries": 1
+    "hi_tries": 1,
+    "hi_ver": 2
   },
   {
     "v": 3,
@@ -138,7 +294,9 @@
     "why_hi": "दिवालिया प्रक्रिया से गंभीर वित्तीय संकट झलकता है।",
     "chips_hi": {
       "डिफ़ॉल्ट": "Rs 22,79,17,222.34"
-    }
+    },
+    "hi_tries": 0,
+    "hi_ver": 2
   },
   {
     "v": 3,
@@ -170,7 +328,9 @@
     "title_hi": "NCLT अहमदाबाद ने Unique Intertrade को स्वतः याचिका पर दिवालिया प्रक्रिया में स्वीकार किया",
     "summary_hi": "NCLT की अहमदाबाद बेंच ने Unique Intertrade Private Limited को बैंक ऑफ बड़ौदा के लोन और आयकर बकाया में डिफॉल्ट का खुलासा करने के बाद, उसके अपने आवेदन पर दिवालिया प्रक्रिया में स्वीकार कर लिया है।",
     "why_hi": "डिफॉल्ट के बाद कंपनी दिवालिया प्रक्रिया का सामना कर रही है।",
-    "chips_hi": {}
+    "chips_hi": {},
+    "hi_tries": 0,
+    "hi_ver": 2
   },
   {
     "v": 3,
@@ -206,7 +366,9 @@
     "why_hi": "दिवालिया प्रक्रिया में जाना गंभीर वित्तीय संकट दर्शाता है।",
     "chips_hi": {
       "बकाया": "Rs 2,24,72,908"
-    }
+    },
+    "hi_tries": 0,
+    "hi_ver": 2
   },
   {
     "v": 3,
@@ -242,7 +404,9 @@
     "why_hi": "लॉजिस्टिक्स के लिए परिचालन अपडेट",
     "chips_hi": {
       "प्रभावी तिथि": "1 नवंबर 2026"
-    }
+    },
+    "hi_tries": 0,
+    "hi_ver": 2
   },
   {
     "v": 3,
@@ -278,7 +442,9 @@
     "why_hi": "Covid दावे खारिज करने पर जुर्माना।",
     "chips_hi": {
       "जुर्माना": "2 करोड़ रुपये"
-    }
+    },
+    "hi_tries": 0,
+    "hi_ver": 2
   },
   {
     "v": 3,
@@ -314,7 +480,9 @@
     "why_hi": "वेतन रिकवरी पर कानूनी दिशा-निर्देश बताता है।",
     "chips_hi": {
       "जजमेंट तिथि": "18 December 2014"
-    }
+    },
+    "hi_tries": 0,
+    "hi_ver": 2
   },
   {
     "v": 3,
@@ -350,7 +518,40 @@
     "why_hi": "लेखा परीक्षक का इस्तीफा, तटस्थ प्रभाव।",
     "chips_hi": {
       "इस्तीफे की तारीख": "14 नवंबर 2026"
-    }
+    },
+    "hi_tries": 0,
+    "hi_ver": 2
+  },
+  {
+    "v": 3,
+    "cat": "Finance",
+    "tk": "FINANCE",
+    "title": "Foreign spouse of NRI or OCI can buy one property jointly in India",
+    "summary": "RBI's FAQ lets a foreign spouse who is not an NRI or OCI buy one Indian property, jointly only, excluding farmland, under Rule 25 of the NDI Rules, 2019. Tax and repatriation explained.",
+    "source": "Oquilia",
+    "published": "2026-11-20T09:06:24.697000+00:00",
+    "ago": "23h",
+    "impact": "Neutral",
+    "why": "Regulatory clarification on real estate rules.",
+    "url": "https://www.oquilia.com/news/oquilia-research-foreign-spouse-of-nri-oci-joint-property-rule-25-ndi",
+    "chips": {
+      "Rule": "Rule 25"
+    },
+    "trend": [
+      0.5,
+      0.55,
+      0.45,
+      0.5,
+      0.47,
+      0.52,
+      0.5
+    ],
+    "color": "B7791F",
+    "premium": false,
+    "verbatim": false,
+    "src_title": "Foreign spouse of an NRI or OCI: buying one property jointly in India under Rule 25 of the NDI Rules",
+    "src_summary": "RBI's FAQ lets a foreign spouse who is not an NRI or OCI buy one Indian property, jointly only, excluding farmland, under Rule 25 of the NDI Rules, 2019. Tax and repatriation explained.",
+    "hi_tries": 1
   },
   {
     "v": 3,
@@ -381,7 +582,7 @@
     "verbatim": false,
     "src_title": "CGST Faridabad alleges Rs 116.48 crore pan masala cess evasion in Rewari, one arrested",
     "src_summary": "CGST Faridabad says a Rewari pan masala unit ran four undeclared packing machines without registering under the HSNS Cess Act, 2025, and puts the cess not paid at Rs 116.48 crore.",
-    "hi_tries": 1,
+    "hi_tries": 2,
     "hi_ver": 2
   },
   {
@@ -453,7 +654,7 @@
     "verbatim": false,
     "src_title": "ITAT Delhi quashes retrospective cancellation of school society's charity registration",
     "src_summary": "The Income Tax Appellate Tribunal in Delhi quashed orders cancelling a school society's charitable registration from AY 2019-20 and directed renewal of its Section 12A registration and 80G approval.",
-    "hi_tries": 1,
+    "hi_tries": 2,
     "hi_ver": 2
   },
   {
@@ -1299,192 +1500,6 @@
       "तारीख": "18 Nov 2026"
     },
     "hi_tries": 0,
-    "hi_ver": 2
-  },
-  {
-    "v": 3,
-    "cat": "Markets",
-    "tk": "MARKETS",
-    "title": "Nifty 50 ends 0.63% lower at 25,227.95 as consumer durables slide 3.13%",
-    "summary": "The Nifty 50 closed at 25,227.95 on 18 November 2026, down 159.45 points or 0.63%, as 2,035 NSE stocks declined against 693 that advanced and 28 were unchanged.",
-    "source": "Oquilia",
-    "published": "2026-11-18T13:38:35.490000+00:00",
-    "ago": "48m",
-    "impact": "Negative",
-    "why": "Broad market decline led by consumer durables.",
-    "url": "https://www.oquilia.com/news/stock-market-today-nifty-50-closing-18-november-2026",
-    "chips": {
-      "Nifty 50": "25,227.95",
-      "Decline": "0.63%",
-      "Consumer durables": "-3.13%"
-    },
-    "trend": [
-      0.95,
-      0.85,
-      0.7,
-      0.6,
-      0.4,
-      0.3,
-      0.1
-    ],
-    "color": "9B2C2C",
-    "premium": false,
-    "verbatim": false,
-    "src_title": "Nifty 50 ends 0.63% lower at 25,227.95 as consumer durables slide 3.13%",
-    "src_summary": "The Nifty 50 closed at 25,227.95 on 18 November 2026, down 159.45 points or 0.63%, as 2,035 NSE stocks declined against 693 that advanced and 28 were unchanged.",
-    "title_hi": "Nifty 50, 0.63% की गिरावट के साथ 25,227.95 पर बंद हुआ, कंज्यूमर ड्यूरेबल्स में 3.13% की गिरावट",
-    "summary_hi": "Nifty 50, 18 नवंबर 2026 को 25,227.95 पर बंद हुआ, जो 159.45 अंक या 0.63% की गिरावट है, क्योंकि 2,035 NSE शेयर गिरे जबकि 693 चढ़े और 28 अपरिवर्तित रहे।",
-    "why_hi": "कंज्यूमर ड्यूरेबल्स की अगुवाई में व्यापक बाजार में गिरावट।",
-    "chips_hi": {
-      "Nifty 50": "25,227.95",
-      "गिरावट": "0.63%",
-      "कंज्यूमर ड्यूरेबल्स": "-3.13%"
-    },
-    "hi_tries": 0,
-    "hi_ver": 2
-  },
-  {
-    "v": 3,
-    "cat": "Companies",
-    "tk": "IFCI",
-    "title": "IFCI says Delhi High Court recorded SFIO stand of no action against it",
-    "summary": "IFCI said in a filing with the National Stock Exchange that the Delhi High Court recorded SFIO's stand that its investigation report did not recommend any action against IFCI.",
-    "source": "Oquilia",
-    "published": "2026-11-18T12:46:25.999000+00:00",
-    "ago": "1h",
-    "impact": "Positive",
-    "why": "No action recommended by SFIO.",
-    "url": "https://www.oquilia.com/news/ifci-delhi-high-court-records-sfio-stand-no-action-against-it",
-    "chips": {},
-    "trend": [
-      0.1,
-      0.25,
-      0.2,
-      0.5,
-      0.45,
-      0.8,
-      0.95
-    ],
-    "color": "0F766E",
-    "premium": false,
-    "verbatim": false,
-    "src_title": "IFCI says Delhi High Court recorded SFIO stand of no action against it",
-    "src_summary": "IFCI said in a filing with the National Stock Exchange that the Delhi High Court recorded SFIO's stand that its investigation report did not recommend any action against IFCI.",
-    "hi_tries": 2,
-    "hi_ver": 2
-  },
-  {
-    "v": 3,
-    "cat": "Markets",
-    "tk": "MARKETS",
-    "title": "Finance Ministry: public sector banks' H1 net profit rises 16.9% to Rs 1,09,540 crore",
-    "summary": "Public sector banks earned an aggregate net profit of Rs 1,09,540 crore in the half-year to 30 September 2026, up 16.9% from a year earlier, the Ministry of Finance said.",
-    "source": "Oquilia",
-    "published": "2026-11-18T11:35:07.110000+00:00",
-    "ago": "2h",
-    "impact": "Positive",
-    "why": "Higher net profit growth reported for public sector banks.",
-    "url": "https://www.oquilia.com/news/public-sector-banks-h1-net-profit-rises-16-9-percent",
-    "chips": {
-      "H1 Net Profit": "Rs 1,09,540 crore",
-      "Growth": "16.9%"
-    },
-    "trend": [
-      0.1,
-      0.25,
-      0.2,
-      0.5,
-      0.45,
-      0.8,
-      0.95
-    ],
-    "color": "0F766E",
-    "premium": false,
-    "verbatim": false,
-    "src_title": "Finance Ministry: public sector banks' H1 net profit rises 16.9% to Rs 1,09,540 crore",
-    "src_summary": "Public sector banks earned an aggregate net profit of Rs 1,09,540 crore in the half-year to 30 September 2026, up 16.9% from a year earlier, the Ministry of Finance said.",
-    "title_hi": "Finance Ministry ने बताया, public sector banks का H1 net profit 16.9% बढ़कर Rs 1,09,540 crore हुआ",
-    "summary_hi": "Finance Ministry ने कहा कि 30 September 2026 को समाप्त छमाही में public sector banks का कुल net profit एक साल पहले की तुलना में 16.9% बढ़कर Rs 1,09,540 crore हो गया।",
-    "why_hi": "Public sector banks का net profit बढ़ा।",
-    "chips_hi": {
-      "H1 Net Profit": "Rs 1,09,540 crore",
-      "Growth": "16.9%"
-    },
-    "hi_tries": 0,
-    "hi_ver": 2
-  },
-  {
-    "v": 3,
-    "cat": "Finance",
-    "tk": "FINANCE",
-    "title": "Late PF deposits and Section 14B damages: why the Supreme Court said intent does not matter",
-    "summary": "The Supreme Court held on 23 February 2022 that any delay in EPF deposits attracts Section 14B damages without proof of intent. What it means for members, tax and drawdown.",
-    "source": "Oquilia",
-    "published": "2026-11-18T10:33:56.998000+00:00",
-    "ago": "3h",
-    "impact": "Negative",
-    "why": "Increases liabilities for delayed PF deposits.",
-    "url": "https://www.oquilia.com/news/oquilia-research-epf-section-14b-damages-late-pf-deposit-horticulture-station",
-    "chips": {
-      "Date": "23 February 2022",
-      "Section": "14B"
-    },
-    "trend": [
-      0.95,
-      0.85,
-      0.7,
-      0.6,
-      0.4,
-      0.3,
-      0.1
-    ],
-    "color": "9B2C2C",
-    "premium": false,
-    "verbatim": false,
-    "src_title": "Late PF deposits and Section 14B damages: why the Supreme Court said an employer's intent does not matter",
-    "src_summary": "The Supreme Court held on 23 February 2022 that any delay in EPF deposits attracts Section 14B damages without proof of intent. What it means for members, tax and drawdown.",
-    "title_hi": "देर से PF जमा और Section 14B नुकसान: सुप्रीम कोर्ट ने क्यों कहा कि इरादे से फर्क नहीं पड़ता",
-    "summary_hi": "सुप्रीम कोर्ट ने 23 फरवरी 2022 को फैसला सुनाया कि EPF जमा में किसी भी देरी पर बिना इरादे के प्रमाण के Section 14B के तहत हर्जाना लगता है। सदस्यों, टैक्स और निकासी के लिए इसके मायने।",
-    "why_hi": "देर से PF जमा पर देनदारी बढ़ती है।",
-    "chips_hi": {
-      "तारीख": "23 फरवरी 2022",
-      "धारा": "14B"
-    },
-    "hi_tries": 0,
-    "hi_ver": 2
-  },
-  {
-    "v": 3,
-    "cat": "Finance",
-    "tk": "FINANCE",
-    "title": "Section 217 Lets Returning NRIs Keep Investment-Income Regime on Old Assets Until Sale",
-    "summary": "Section 217 of the Income-tax Act, 2025 lets a returning NRI keep the 20% investment-income rate on public-company debentures, deposits and G-secs bought in foreign exchange, by declaration in the first resident return.",
-    "source": "Oquilia",
-    "published": "2026-11-18T09:06:33.172000+00:00",
-    "ago": "5h",
-    "impact": "Neutral",
-    "why": "Tax rule for returning NRIs.",
-    "url": "https://www.oquilia.com/news/oquilia-research-returning-nri-keep-concessional-tax-foreign-exchange-assets-section-217",
-    "chips": {},
-    "trend": [
-      0.5,
-      0.55,
-      0.45,
-      0.5,
-      0.47,
-      0.52,
-      0.5
-    ],
-    "color": "B7791F",
-    "premium": false,
-    "verbatim": false,
-    "src_title": "Returned to India for Good? Section 217 Lets You Keep the NRI Investment-Income Regime on Old Foreign-Exchange Assets Until You Sell",
-    "src_summary": "Section 217 of the Income-tax Act, 2025 lets a returning NRI keep the 20% investment-income rate on public-company debentures, deposits and G-secs bought in foreign exchange, by declaration in the first resident return.",
-    "hi_tries": 0,
-    "title_hi": "Section 217 लौट रहे NRI को बिक्री तक पुराने एसेट्स पर इन्वेस्टमेंट-इनकम रेजिम बनाए रखने की अनुमति देती है",
-    "summary_hi": "Income-tax Act, 2025 की Section 217 एक लौट रहे NRI को पहले रेजिडेंट रिटर्न में घोषणा करके, विदेशी मुद्रा में खरीदे गए पब्लिक-कंपनी डिबेंचर, डिपॉजिट और G-sec पर 20% इन्वेस्टमेंट-इनकम रेट बनाए रखने की अनुमति देती है।",
-    "why_hi": "लौट रहे NRI के लिए टैक्स नियम।",
-    "chips_hi": {},
     "hi_ver": 2
   }
 ]

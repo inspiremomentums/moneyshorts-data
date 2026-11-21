@@ -2,8 +2,8 @@
   "source": "World Bank",
   "licence": "CC BY 4.0",
   "attribution": "The World Bank: World Development Indicators (CC BY 4.0). Not endorsed by The World Bank.",
-  "updated": "2026-11-20T17:56:40.461148+00:00",
-  "complete": false,
+  "updated": "2026-11-21T08:27:49.032726+00:00",
+  "complete": true,
   "items": [
     {
       "id": "NY.GDP.MKTP.KD.ZG",
