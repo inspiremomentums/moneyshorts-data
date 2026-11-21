@@ -2,6 +2,74 @@
   {
     "v": 3,
     "cat": "Finance",
+    "tk": "FINANCE",
+    "title": "Supreme Court universality test for PF wages",
+    "summary": "The Supreme Court held on 28 February 2019 that allowances paid to all employees across the board are basic wages for PF. What the universality test means for your EPF and EPS.",
+    "source": "Oquilia",
+    "published": "2026-11-21T10:33:27.933000+00:00",
+    "ago": "6h",
+    "impact": "Negative",
+    "why": "Higher PF contributions may reduce take-home pay.",
+    "url": "https://www.oquilia.com/news/oquilia-research-pf-basic-wages-special-allowance-universality-test-vivekananda-vidyamandir",
+    "chips": {
+      "Date": "28 February 2019"
+    },
+    "trend": [
+      0.95,
+      0.85,
+      0.7,
+      0.6,
+      0.4,
+      0.3,
+      0.1
+    ],
+    "color": "9B2C2C",
+    "premium": false,
+    "verbatim": false,
+    "src_title": "Is your special allowance part of PF wages? The Supreme Court's universality test in the Vivekananda Vidyamandir and Surya Roshni appeals",
+    "src_summary": "The Supreme Court held on 28 February 2019 that allowances paid to all employees across the board are basic wages for PF. What the universality test means for your EPF and EPS.",
+    "hi_tries": 1
+  },
+  {
+    "v": 3,
+    "cat": "Finance",
+    "tk": "FINANCE",
+    "title": "RBI forex FAQ clarifies resident payment of NRI relative hospital bills in rupees",
+    "summary": "RBI's forex FAQ (as on November 28, 2025) says a resident paying an NRI close relative's medical bills in India may be covered under FEMA 14(R)/2016-RB. What it means for tax and cash.",
+    "source": "Oquilia",
+    "published": "2026-11-21T09:04:50.247000+00:00",
+    "ago": "7h",
+    "impact": "Neutral",
+    "why": "Clarifies existing FEMA medical payment rules",
+    "url": "https://www.oquilia.com/news/oquilia-research-resident-paying-nri-relative-medical-bills-stay-in-india-fema",
+    "chips": {
+      "Date": "November 28, 2025"
+    },
+    "trend": [
+      0.5,
+      0.55,
+      0.45,
+      0.5,
+      0.47,
+      0.52,
+      0.5
+    ],
+    "color": "B7791F",
+    "premium": false,
+    "verbatim": false,
+    "src_title": "Can a resident pay an NRI relative's hospital bills and stay in India in rupees? What RBI's forex FAQ says",
+    "src_summary": "RBI's forex FAQ (as on November 28, 2025) says a resident paying an NRI close relative's medical bills in India may be covered under FEMA 14(R)/2016-RB. What it means for tax and cash.",
+    "hi_tries": 1,
+    "title_hi": "RBI forex FAQ ने निवासी द्वारा NRI रिश्तेदार के अस्पताल के बिलों का रुपये में भुगतान करने पर स्थिति स्पष्ट की",
+    "summary_hi": "RBI के forex FAQ (28 नवंबर 2025 के अनुसार) के अनुसार, भारत में किसी NRI करीबी रिश्तेदार के मेडिकल बिलों का भुगतान करने वाला निवासी FEMA 14(R)/2016-RB के तहत कवर हो सकता है। टैक्स और नकदी के लिए इसका क्या अर्थ है।",
+    "why_hi": "मौजूदा FEMA मेडिकल भुगतान नियमों को स्पष्ट करता है",
+    "chips_hi": {
+      "दिनांक": "28 नवंबर 2025"
+    }
+  },
+  {
+    "v": 3,
+    "cat": "Finance",
     "tk": "UNITED INDIA",
     "title": "NCDRC rejects United India Insurance's denial of 2010 factory fire claim",
     "summary": "The National Consumer Disputes Redressal Commission held that a 2010 factory fire was accidental and directed United India Insurance to assess the loss and inform the policyholder within three months.",
@@ -33,7 +101,9 @@
     "why_hi": "पुराना दावा विवाद बिना बड़े वित्तीय प्रभाव के।",
     "chips_hi": {
       "दावा वर्ष": "2010"
-    }
+    },
+    "hi_tries": 0,
+    "hi_ver": 2
   },
   {
     "v": 3,
@@ -73,7 +143,9 @@
       "Nifty 50": "2.61%",
       "Nifty Bank": "5.90%",
       "स्मॉलकैप": "-1.08%"
-    }
+    },
+    "hi_tries": 0,
+    "hi_ver": 2
   },
   {
     "v": 3,
@@ -111,7 +183,9 @@
     "chips_hi": {
       "फ्रेश इश्यू": "Rs 192 करोड़",
       "OFS": "88.35 लाख शेयर"
-    }
+    },
+    "hi_tries": 0,
+    "hi_ver": 2
   },
   {
     "v": 3,
@@ -142,13 +216,14 @@
     "verbatim": false,
     "src_title": "Buying property from an NRI? From 1 Oct 2026 individual buyers can report TDS in Form 141 Schedule E",
     "src_summary": "CBDT's Fifth Amendment Rules let resident individuals and HUFs buying property from a non-resident report section 393(2) TDS in new Schedule E of Form 141 from 1 October 2026.",
-    "hi_tries": 1,
+    "hi_tries": 0,
     "title_hi": "क्या आप NRI से प्रॉपर्टी खरीद रहे हैं? 1 October 2026 से व्यक्तिगत खरीदार Form 141 Schedule E में TDS रिपोर्ट कर सकेंगे",
     "summary_hi": "CBDT के फिफ्थ एशेलॉन रूल्स के तहत गैर-निवासी से प्रॉपर्टी खरीदने वाले निवासी व्यक्ति और HUF, 1 October 2026 से Form 141 के नए Schedule E में section 393(2) TDS रिपोर्ट कर सकेंगे।",
     "why_hi": "यह एक प्रक्रियात्मक टैक्स रिपोर्टिंग बदलाव है जिसका कोई वित्तीय प्रभाव नहीं है।",
     "chips_hi": {
       "प्रभावी तिथि": "1 Oct 2026"
-    }
+    },
+    "hi_ver": 2
   },
   {
     "v": 3,
@@ -257,7 +332,7 @@
     "verbatim": false,
     "src_title": "NCLT Chandigarh admits Anuraj Real Estates into insolvency over hotel loans",
     "src_summary": "The NCLT's Chandigarh bench has admitted Anuraj Real Estates Private Limited into insolvency on an asset reconstruction company's petition claiming a default of Rs 26,39,95,909.",
-    "hi_tries": 1,
+    "hi_tries": 2,
     "hi_ver": 2
   },
   {
@@ -551,7 +626,8 @@
     "verbatim": false,
     "src_title": "Foreign spouse of an NRI or OCI: buying one property jointly in India under Rule 25 of the NDI Rules",
     "src_summary": "RBI's FAQ lets a foreign spouse who is not an NRI or OCI buy one Indian property, jointly only, excluding farmland, under Rule 25 of the NDI Rules, 2019. Tax and repatriation explained.",
-    "hi_tries": 1
+    "hi_tries": 1,
+    "hi_ver": 2
   },
   {
     "v": 3,
@@ -1416,88 +1492,6 @@
     "chips_hi": {
       "धारा": "157",
       "एक्ट": "Income-tax Act 2025"
-    },
-    "hi_tries": 0,
-    "hi_ver": 2
-  },
-  {
-    "v": 3,
-    "cat": "Companies",
-    "tk": "COMPUAGE INFOCOM",
-    "title": "NCLT orders liquidation of Compuage Infocom after no plan won approval",
-    "summary": "Compuage Infocom told the National Stock Exchange that the NCLT's Mumbai bench ordered its liquidation on 18 November 2026, as no resolution plan got the 66% creditor vote.",
-    "source": "Oquilia",
-    "published": "2026-11-18T17:46:36.047000+00:00",
-    "ago": "15h",
-    "impact": "Negative",
-    "why": "Company is facing liquidation after resolution failure.",
-    "url": "https://www.oquilia.com/news/nclt-orders-liquidation-compuage-infocom-no-resolution-plan-approved",
-    "chips": {
-      "Liquidation Date": "18 November 2026",
-      "Creditor Vote Requir": "66%"
-    },
-    "trend": [
-      0.95,
-      0.85,
-      0.7,
-      0.6,
-      0.4,
-      0.3,
-      0.1
-    ],
-    "color": "9B2C2C",
-    "premium": false,
-    "verbatim": false,
-    "src_title": "NCLT orders liquidation of Compuage Infocom after no plan won approval",
-    "src_summary": "Compuage Infocom told the National Stock Exchange that the NCLT's Mumbai bench ordered its liquidation on 18 November 2026, as no resolution plan got the 66% creditor vote.",
-    "title_hi": "NCLT ने Compuage Infocom के liquidation का आदेश दिया",
-    "summary_hi": "Compuage Infocom ने National Stock Exchange को बताया कि NCLT की मुंबई बेंच ने 18 November 2026 को इसके liquidation का आदेश दिया, क्योंकि किसी भी resolution plan को 66% लेनदारों का वोट नहीं मिला।",
-    "why_hi": "संक समाधान विफल होने पर कंपनी का परिसमापन।",
-    "chips_hi": {
-      "Liquidation की तारीख": "18 November 2026",
-      "आवश्यक लेनदार वोट": "66%"
-    },
-    "hi_tries": 0,
-    "hi_ver": 2
-  },
-  {
-    "v": 3,
-    "cat": "Markets",
-    "tk": "MARKETS",
-    "title": "Jio Financial invests Rs 123 crore in Jio BlackRock JV",
-    "summary": "Jio Financial Services said in an NSE filing that it subscribed to 12.3 crore shares of Jio BlackRock Asset Management, its 50:50 joint venture, for Rs 123 crore on 18 November 2026.",
-    "source": "Oquilia",
-    "published": "2026-11-18T13:45:50.198000+00:00",
-    "ago": "39m",
-    "impact": "Positive",
-    "why": "Investment in joint venture growth",
-    "url": "https://www.oquilia.com/news/jio-financial-invests-rs-123-crore-jio-blackrock-asset-management",
-    "chips": {
-      "Investment": "Rs 123 crore",
-      "Shares": "12.3 crore",
-      "Date": "18 Nov 2026"
-    },
-    "trend": [
-      0.1,
-      0.25,
-      0.2,
-      0.5,
-      0.45,
-      0.8,
-      0.95
-    ],
-    "color": "0F766E",
-    "premium": false,
-    "verbatim": false,
-    "src_title": "Jio Financial invests Rs 123 crore in Jio BlackRock asset manager JV",
-    "src_summary": "Jio Financial Services said in an NSE filing that it subscribed to 12.3 crore shares of Jio BlackRock Asset Management, its 50:50 joint venture, for Rs 123 crore on 18 November 2026.",
-    "title_hi": "Jio Financial ने Jio BlackRock JV में 123 करोड़ रुपये का निवेश किया",
-    "summary_hi": "Jio Financial Services ने NSE फाइलिंग में कहा कि उसने 18 नवंबर 2026 को 123 करोड़ रुपये में अपने 50:50 संयुक्त उद्यम Jio BlackRock Asset Management के 12.3 करोड़ शेयर खरीदे।",
-    "why_hi": "संयुक्त उद्यम वृद्धि में निवेश",
-    "chips_hi": {
-      "निवेश": "Rs 123 crore",
-      "शेयर": "12.3 crore",
-      "तारीख": "18 Nov 2026"
     },
     "hi_tries": 0,
     "hi_ver": 2
