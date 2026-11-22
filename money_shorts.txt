@@ -1,6 +1,151 @@
 [
   {
     "v": 3,
+    "cat": "Companies",
+    "tk": "APL APOLLO",
+    "title": "APL Apollo to buy Tata Steel units in cash deals",
+    "summary": "APL Apollo Tubes told the National Stock Exchange its board approved buying Tata Steel Colors for Rs 16,300 crore and Tata Steel's tubes business for Rs 11,700 crore, both in cash.",
+    "source": "Oquilia",
+    "published": "2026-11-22T14:46:21.814000+00:00",
+    "ago": "2h",
+    "impact": "Positive",
+    "why": "Expansion through major cash acquisitions.",
+    "url": "https://www.oquilia.com/news/apl-apollo-to-buy-tata-steel-tubes-business-and-colors",
+    "chips": {
+      "Colors deal": "Rs 16,300 cr",
+      "Tubes deal": "Rs 11,700 cr"
+    },
+    "trend": [
+      0.1,
+      0.25,
+      0.2,
+      0.5,
+      0.45,
+      0.8,
+      0.95
+    ],
+    "color": "0F766E",
+    "premium": false,
+    "verbatim": false,
+    "src_title": "APL Apollo to buy Tata Steel's tubes unit and Colors in two cash deals",
+    "src_summary": "APL Apollo Tubes told the National Stock Exchange its board approved buying Tata Steel Colors for Rs 16,300 crore and Tata Steel's tubes business for Rs 11,700 crore, both in cash.",
+    "title_hi": "APL Apollo नकद सौदों में Tata Steel यूनिट्स खरीदेगी",
+    "summary_hi": "APL Apollo Tubes ने National Stock Exchange को बताया कि उसके बोर्ड ने Rs 16,300 crore में Tata Steel Colors और Rs 11,700 crore में Tata Steel के ट्यूब बिजनेस को खरीदने की मंजूरी दे दी है, दोनों सौदे नकद में होंगे।",
+    "why_hi": "नकद अधिग्रहण के जरिए बड़ा विस्तार।",
+    "chips_hi": {
+      "Colors सौदा": "Rs 16,300 cr",
+      "Tubes सौदा": "Rs 11,700 cr"
+    }
+  },
+  {
+    "v": 3,
+    "cat": "Finance",
+    "tk": "FINANCE",
+    "title": "SCSS after maturity: repeat three-year extensions, Form-4 window and early closure cost",
+    "summary": "Since November 2023 an SCSS account can be extended in three-year blocks any number of times. How the Form-4 window works, which rate applies, the 1% early-closure cost and the tax on interest.",
+    "source": "Oquilia",
+    "published": "2026-11-22T10:33:33.670000+00:00",
+    "ago": "6h",
+    "impact": "Neutral",
+    "why": "Informational guide on scheme rules.",
+    "url": "https://www.oquilia.com/news/oquilia-research-scss-unlimited-three-year-extension-form-4-sb-order-22-2023",
+    "chips": {
+      "Extension": "3 years",
+      "Early closure cost": "1%"
+    },
+    "trend": [
+      0.5,
+      0.55,
+      0.45,
+      0.5,
+      0.47,
+      0.52,
+      0.5
+    ],
+    "color": "B7791F",
+    "premium": false,
+    "verbatim": false,
+    "src_title": "SCSS after maturity: repeat three-year extensions, the Form-4 window and the 1% cost of closing an extended account early",
+    "src_summary": "Since November 2023 an SCSS account can be extended in three-year blocks any number of times. How the Form-4 window works, which rate applies, the 1% early-closure cost and the tax on interest.",
+    "hi_tries": 1,
+    "title_hi": "परिपक्वता के बाद SCSS: तीन-साल के बार-बार विस्तार, Form-4 विंडो और समय से पहले बंद करने की लागत",
+    "summary_hi": "नवंबर 2023 से SCSS खाते को अनगिनत बार तीन-साल के ब्लॉकों में बढ़ाया जा सकता है। जानिए Form-4 विंडो कैसे काम करती है, कौन सी दर लागू होती है, 1% समय से पहले बंद करने की लागत और ब्याज पर कर।",
+    "why_hi": "स्कीम के नियमों पर सूचनात्मक गाइड।",
+    "chips_hi": {
+      "विस्तार": "3 साल",
+      "समय से पहले बंद करने": "1%"
+    }
+  },
+  {
+    "v": 3,
+    "cat": "Finance",
+    "tk": "FINANCE",
+    "title": "RBI's May 2026 framework for third-party outward remittance platforms",
+    "summary": "RBI's A.P. (DIR Series) Circular No. 10 of May 13, 2026 ends case-by-case approval for remittance apps and lists what every screen and invoice must show a person sending money abroad.",
+    "source": "Oquilia",
+    "published": "2026-11-22T09:06:10.476000+00:00",
+    "ago": "8h",
+    "impact": "Neutral",
+    "why": "Regulatory update for remittance platforms",
+    "url": "https://www.oquilia.com/news/oquilia-research-rbi-ap-dir-10-2026-remittance-apps-third-party-framework",
+    "chips": {
+      "Circular": "No. 10",
+      "Date": "May 13, 2026"
+    },
+    "trend": [
+      0.5,
+      0.55,
+      0.45,
+      0.5,
+      0.47,
+      0.52,
+      0.5
+    ],
+    "color": "B7791F",
+    "premium": false,
+    "verbatim": false,
+    "src_title": "Sending money abroad through an app: RBI's May 2026 framework for third-party outward remittance platforms",
+    "src_summary": "RBI's A.P. (DIR Series) Circular No. 10 of May 13, 2026 ends case-by-case approval for remittance apps and lists what every screen and invoice must show a person sending money abroad.",
+    "hi_tries": 1
+  },
+  {
+    "v": 3,
+    "cat": "Markets",
+    "tk": "MARKETS",
+    "title": "RailTel wins Rs 27.03 crore Andhra Pradesh legal AI platform order",
+    "summary": "RailTel Corporation of India said in a filing with the National Stock Exchange that it received a Letter of Acceptance from Andhra Pradesh Technology Services, with an estimated size of Rs 27.03 crore.",
+    "source": "Oquilia",
+    "published": "2026-11-22T08:46:10.791000+00:00",
+    "ago": "8h",
+    "impact": "Positive",
+    "why": "New order wins boost revenue growth.",
+    "url": "https://www.oquilia.com/news/railtel-wins-rs-27-crore-andhra-pradesh-legal-ai-platform-order",
+    "chips": {
+      "Order Value": "Rs 27.03 crore"
+    },
+    "trend": [
+      0.1,
+      0.25,
+      0.2,
+      0.5,
+      0.45,
+      0.8,
+      0.95
+    ],
+    "color": "0F766E",
+    "premium": false,
+    "verbatim": false,
+    "src_title": "RailTel wins Rs 27.03 crore Andhra Pradesh legal AI platform order",
+    "src_summary": "RailTel Corporation of India said in a filing with the National Stock Exchange that it received a Letter of Acceptance from Andhra Pradesh Technology Services, with an estimated size of Rs 27.03 crore.",
+    "title_hi": "RailTel को मिला Rs 27.03 करोड़ का आंध्र प्रदेश कानूनी AI प्लेटफॉर्म ऑर्डर",
+    "summary_hi": "RailTel Corporation of India ने नेशनल स्टॉक एक्सचेंज को दी गई जानकारी में बताया कि उसे Andhra Pradesh Technology Services से एक लेटर ऑफ एक्सेप्टेंस मिला है, जिसका अनुमानित आकार Rs 27.03 करोड़ है।",
+    "why_hi": "नया ऑर्डर मिलने से आय बढ़ेगी।",
+    "chips_hi": {
+      "ऑर्डर मूल्य": "Rs 27.03 करोड़"
+    }
+  },
+  {
+    "v": 3,
     "cat": "Finance",
     "tk": "FINANCE",
     "title": "ITAT rules land acquisition interest is not income from other sources for a family",
@@ -33,7 +178,9 @@
     "why_hi": "भूमि अधिग्रहण ब्याज पर कर राहत।",
     "chips_hi": {
       "दिनांक": "19 नवंबर 2026"
-    }
+    },
+    "hi_tries": 0,
+    "hi_ver": 2
   },
   {
     "v": 3,
@@ -66,7 +213,7 @@
     "verbatim": false,
     "src_title": "Rule 189A: the new conditions for merging two registered charitable trusts without tax, and Form 112A",
     "src_summary": "CBDT's new rule 189A sets 12 conditions for merging two registered charitable trusts with similar objects, a 5-year objects lock and a one-month deadline to file Form 112A.",
-    "hi_tries": 1,
+    "hi_tries": 0,
     "title_hi": "Rule 189A: बिना टैक्स के दो रजिस्टर्ड चैरिटेबल ट्रस्टों के विलय के लिए नई शर्तें",
     "summary_hi": "CBDT का नया Rule 189A समान उद्देश्यों वाले दो रजिस्टर्ड चैरिटेबल ट्रस्टों के विलय के लिए 12 शर्तें तय करता है, जिसमें 5 साल का ऑब्जेक्ट्स लॉक और Form 112A दाखिल करने के लिए एक महीने की समय सीमा शामिल है।",
     "why_hi": "चैरिटेबल ट्रस्टों के लिए टैक्स नियम अपडेट।",
@@ -74,7 +221,8 @@
       "Rule": "189A",
       "Lock": "5-year",
       "Form": "112A"
-    }
+    },
+    "hi_ver": 2
   },
   {
     "v": 3,
@@ -1353,150 +1501,6 @@
       "प्रभावी तिथि": "30 नवंबर 2026"
     },
     "hi_tries": 0,
-    "hi_ver": 2
-  },
-  {
-    "v": 3,
-    "cat": "Markets",
-    "tk": "MARKETS",
-    "title": "NBCC says it won work orders worth Rs 84.87 crore from Ravenshaw University",
-    "summary": "NBCC (India) said in a filing with the National Stock Exchange that it has been awarded work orders of about Rs 84.87 crore, excluding GST, by Ravenshaw University in Cuttack, Odisha.",
-    "source": "Oquilia",
-    "published": "2026-11-19T06:46:09.658000+00:00",
-    "ago": "2h",
-    "impact": "Positive",
-    "why": "New work orders boost order book.",
-    "url": "https://www.oquilia.com/news/nbcc-work-orders-rs-84-87-crore-ravenshaw-university",
-    "chips": {
-      "Order Value": "Rs 84.87 crore"
-    },
-    "trend": [
-      0.1,
-      0.25,
-      0.2,
-      0.5,
-      0.45,
-      0.8,
-      0.95
-    ],
-    "color": "0F766E",
-    "premium": false,
-    "verbatim": false,
-    "src_title": "NBCC says it won work orders worth Rs 84.87 crore from Ravenshaw University",
-    "src_summary": "NBCC (India) said in a filing with the National Stock Exchange that it has been awarded work orders of about Rs 84.87 crore, excluding GST, by Ravenshaw University in Cuttack, Odisha.",
-    "title_hi": "NBCC ने कहा कि उसे Ravenshaw University से 84.87 करोड़ रुपये के वर्क ऑर्डर मिले",
-    "summary_hi": "NBCC (India) ने नेशनल स्टॉक एक्सचेंज को दी गई जानकारी में बताया कि उसे कटक, ओडिशा स्थित Ravenshaw University से जीएसटी को छोड़कर लगभग 84.87 करोड़ रुपये के वर्क ऑर्डर मिले हैं।",
-    "why_hi": "नए वर्क ऑर्डर से ऑर्डर बुक बढ़ी।",
-    "chips_hi": {
-      "ऑर्डर मूल्य": "Rs 84.87 crore"
-    },
-    "hi_tries": 0,
-    "hi_ver": 2
-  },
-  {
-    "v": 3,
-    "cat": "Finance",
-    "tk": "BANK OF BARODA",
-    "title": "Telangana High Court restores Bank of Baroda auction, says 30-day notice was met",
-    "summary": "The Telangana High Court set aside a DRAT order that had cancelled a Bank of Baroda auction, holding the bank gave the 30-day notice of sale the SARFAESI rules require.",
-    "source": "Oquilia",
-    "published": "2026-11-19T05:38:03.540000+00:00",
-    "ago": "3h",
-    "impact": "Positive",
-    "why": "Auction restored in bank's favor.",
-    "url": "https://www.oquilia.com/news/telangana-high-court-restores-bank-of-baroda-auction-30-day-notice",
-    "chips": {
-      "Notice Period": "30-day"
-    },
-    "trend": [
-      0.1,
-      0.25,
-      0.2,
-      0.5,
-      0.45,
-      0.8,
-      0.95
-    ],
-    "color": "0F766E",
-    "premium": false,
-    "verbatim": false,
-    "src_title": "Telangana High Court restores Bank of Baroda auction, says 30-day notice was met",
-    "src_summary": "The Telangana High Court set aside a DRAT order that had cancelled a Bank of Baroda auction, holding the bank gave the 30-day notice of sale the SARFAESI rules require.",
-    "hi_tries": 0,
-    "title_hi": "तेलंगाना हाई कोर्ट ने Bank of Baroda की नीलामी बहाल की, कहा 30-day का नोटिस पूरा किया गया था",
-    "summary_hi": "तेलंगाना हाई कोर्ट ने DRAT के उस आदेश को रद्द कर दिया जिसमें Bank of Baroda की एक नीलामी को रद्द कर दिया गया था, और यह माना कि बैंक ने SARFAESI नियमों के अनुसार बिक्री का 30-day का नोटिस दिया था।",
-    "why_hi": "बैंक के पक्ष में नीलामी बहाल की गई।",
-    "chips_hi": {
-      "नोटिस अवधि": "30-day"
-    },
-    "hi_ver": 2
-  },
-  {
-    "v": 3,
-    "cat": "Finance",
-    "tk": "FINANCE",
-    "title": "ITAT Jaipur: wrong clause in Form 10AB no ground to reject trust tax registration",
-    "summary": "The Income Tax Appellate Tribunal, Jaipur, set aside the rejection of a charitable trust's 12AB registration and 80G approval, holding the tax officer must decide them on merits.",
-    "source": "Oquilia",
-    "published": "2026-11-19T04:35:21.405000+00:00",
-    "ago": "4h",
-    "impact": "Neutral",
-    "why": "Procedural tax ruling without financial impact.",
-    "url": "https://www.oquilia.com/news/itat-jaipur-wrong-clause-form-10ab-trust-registration",
-    "chips": {},
-    "trend": [
-      0.5,
-      0.55,
-      0.45,
-      0.5,
-      0.47,
-      0.52,
-      0.5
-    ],
-    "color": "B7791F",
-    "premium": false,
-    "verbatim": false,
-    "src_title": "ITAT Jaipur: wrong clause in Form 10AB no ground to reject trust's tax registration",
-    "src_summary": "The Income Tax Appellate Tribunal, Jaipur, set aside the rejection of a charitable trust's 12AB registration and 80G approval, holding the tax officer must decide them on merits.",
-    "hi_tries": 2,
-    "hi_ver": 2
-  },
-  {
-    "v": 3,
-    "cat": "IPO",
-    "tk": "COAL INDIA",
-    "title": "Mahanadi Coalfields IPO opens as Coal India offers 66.18 crore shares",
-    "summary": "Mahanadi Coalfields' IPO, an offer for sale of up to 661,836,300 shares by Coal India, is open from November 19 to 23, 2026, per its RHP filed with SEBI.",
-    "source": "Oquilia",
-    "published": "2026-11-19T04:24:33.408000+00:00",
-    "ago": "4h",
-    "impact": "Neutral",
-    "why": "Subsidiary share sale does not impact fundamentals.",
-    "url": "https://www.oquilia.com/news/mahanadi-coalfields-ipo-opens-coal-india-offer-for-sale",
-    "chips": {
-      "Shares": "66.18 crore"
-    },
-    "trend": [
-      0.5,
-      0.55,
-      0.45,
-      0.5,
-      0.47,
-      0.52,
-      0.5
-    ],
-    "color": "B7791F",
-    "premium": false,
-    "verbatim": false,
-    "src_title": "Mahanadi Coalfields IPO opens as Coal India offers 66.18 crore shares",
-    "src_summary": "Mahanadi Coalfields' IPO, an offer for sale of up to 661,836,300 shares by Coal India, is open from November 19 to 23, 2026, per its RHP filed with SEBI.",
-    "hi_tries": 0,
-    "title_hi": "महानदी कोलफील्ड्स IPO खुला, क्योंकि Coal India ने 66.18 करोड़ शेयर पेश किए",
-    "summary_hi": "SEBI के पास दाखिल RHP के अनुसार, Coal India द्वारा 66,18,36,300 शेयरों तक की बिक्री का प्रस्ताव महानदी कोलफील्ड्स का IPO 19 से 23 नवंबर, 2026 तक खुला है।",
-    "why_hi": "सहायक कंपनी की शेयर बिक्री बुनियादी बातों को प्रभावित नहीं करती है।",
-    "chips_hi": {
-      "शेयर": "66.18 करोड़"
-    },
     "hi_ver": 2
   }
 ]
