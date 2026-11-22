@@ -3,6 +3,83 @@
     "v": 3,
     "cat": "Finance",
     "tk": "FINANCE",
+    "title": "ITAT rules land acquisition interest is not income from other sources for a family",
+    "summary": "The ITAT Delhi bench held on 19 November 2026 that interest an HUF received under Section 28 of the Land Acquisition Act could not be taxed as income from other sources.",
+    "source": "Oquilia",
+    "published": "2026-11-22T02:34:53.692000+00:00",
+    "ago": "5h",
+    "impact": "Positive",
+    "why": "Tax relief on land acquisition interest.",
+    "url": "https://www.oquilia.com/news/itat-land-acquisition-interest-not-income-from-other-sources",
+    "chips": {
+      "Date": "19 November 2026"
+    },
+    "trend": [
+      0.1,
+      0.25,
+      0.2,
+      0.5,
+      0.45,
+      0.8,
+      0.95
+    ],
+    "color": "0F766E",
+    "premium": false,
+    "verbatim": false,
+    "src_title": "ITAT rules land acquisition interest is not income from other sources for a family",
+    "src_summary": "The ITAT Delhi bench held on 19 November 2026 that interest an HUF received under Section 28 of the Land Acquisition Act could not be taxed as income from other sources.",
+    "title_hi": "आईटीएटी का फैसला, भूमि अधिग्रहण पर मिलने वाला ब्याज परिवार के लिए अन्य स्रोतों से आय नहीं है",
+    "summary_hi": "आईटीएटी की दिल्ली पीठ ने 19 नवंबर 2026 को फैसला सुनाया कि भूमि अधिग्रहण अधिनियम की धारा 28 के तहत एक एचयूएफ को मिले ब्याज पर अन्य स्रोतों से आय के रूप में कर नहीं लगाया जा सकता है।",
+    "why_hi": "भूमि अधिग्रहण ब्याज पर कर राहत।",
+    "chips_hi": {
+      "दिनांक": "19 नवंबर 2026"
+    }
+  },
+  {
+    "v": 3,
+    "cat": "Finance",
+    "tk": "FINANCE",
+    "title": "Rule 189A: new conditions for merging two registered charitable trusts without tax",
+    "summary": "CBDT's new rule 189A sets 12 conditions for merging two registered charitable trusts with similar objects, a 5-year objects lock and a one-month deadline to file Form 112A.",
+    "source": "Oquilia",
+    "published": "2026-11-22T00:40:40.479000+00:00",
+    "ago": "7h",
+    "impact": "Neutral",
+    "why": "Tax rule update for charitable trusts.",
+    "url": "https://www.oquilia.com/news/oquilia-research-rule-189a-merger-of-charitable-trusts-form-112a",
+    "chips": {
+      "Rule": "189A",
+      "Lock": "5-year",
+      "Form": "112A"
+    },
+    "trend": [
+      0.5,
+      0.55,
+      0.45,
+      0.5,
+      0.47,
+      0.52,
+      0.5
+    ],
+    "color": "B7791F",
+    "premium": false,
+    "verbatim": false,
+    "src_title": "Rule 189A: the new conditions for merging two registered charitable trusts without tax, and Form 112A",
+    "src_summary": "CBDT's new rule 189A sets 12 conditions for merging two registered charitable trusts with similar objects, a 5-year objects lock and a one-month deadline to file Form 112A.",
+    "hi_tries": 1,
+    "title_hi": "Rule 189A: बिना टैक्स के दो रजिस्टर्ड चैरिटेबल ट्रस्टों के विलय के लिए नई शर्तें",
+    "summary_hi": "CBDT का नया Rule 189A समान उद्देश्यों वाले दो रजिस्टर्ड चैरिटेबल ट्रस्टों के विलय के लिए 12 शर्तें तय करता है, जिसमें 5 साल का ऑब्जेक्ट्स लॉक और Form 112A दाखिल करने के लिए एक महीने की समय सीमा शामिल है।",
+    "why_hi": "चैरिटेबल ट्रस्टों के लिए टैक्स नियम अपडेट।",
+    "chips_hi": {
+      "Rule": "189A",
+      "Lock": "5-year",
+      "Form": "112A"
+    }
+  },
+  {
+    "v": 3,
+    "cat": "Finance",
+    "tk": "FINANCE",
     "title": "Supreme Court universality test for PF wages",
     "summary": "The Supreme Court held on 28 February 2019 that allowances paid to all employees across the board are basic wages for PF. What the universality test means for your EPF and EPS.",
     "source": "Oquilia",
@@ -28,7 +105,14 @@
     "verbatim": false,
     "src_title": "Is your special allowance part of PF wages? The Supreme Court's universality test in the Vivekananda Vidyamandir and Surya Roshni appeals",
     "src_summary": "The Supreme Court held on 28 February 2019 that allowances paid to all employees across the board are basic wages for PF. What the universality test means for your EPF and EPS.",
-    "hi_tries": 1
+    "hi_tries": 1,
+    "hi_ver": 2,
+    "title_hi": "पीएफ वेतन के लिए सुप्रीम कोर्ट का सार्वभौमिकता परीक्षण",
+    "summary_hi": "सु सुप्रीम कोर्ट ने 28 फरवरी 2019 को यह फैसला सुनाया कि सभी कर्मचारियों को मिलने वाले भत्ते पीएफ के लिए मूल वेतन हैं। आपके EPF और EPS के लिए सार्वभौमिकता परीक्षण का क्या अर्थ है।",
+    "why_hi": "उच्च पीएफ योगदान से टेक-होम वेतन कम हो सकता है।",
+    "chips_hi": {
+      "तारीख": "28 फरवरी 2019"
+    }
   },
   {
     "v": 3,
@@ -59,13 +143,14 @@
     "verbatim": false,
     "src_title": "Can a resident pay an NRI relative's hospital bills and stay in India in rupees? What RBI's forex FAQ says",
     "src_summary": "RBI's forex FAQ (as on November 28, 2025) says a resident paying an NRI close relative's medical bills in India may be covered under FEMA 14(R)/2016-RB. What it means for tax and cash.",
-    "hi_tries": 1,
+    "hi_tries": 0,
     "title_hi": "RBI forex FAQ ने निवासी द्वारा NRI रिश्तेदार के अस्पताल के बिलों का रुपये में भुगतान करने पर स्थिति स्पष्ट की",
     "summary_hi": "RBI के forex FAQ (28 नवंबर 2025 के अनुसार) के अनुसार, भारत में किसी NRI करीबी रिश्तेदार के मेडिकल बिलों का भुगतान करने वाला निवासी FEMA 14(R)/2016-RB के तहत कवर हो सकता है। टैक्स और नकदी के लिए इसका क्या अर्थ है।",
     "why_hi": "मौजूदा FEMA मेडिकल भुगतान नियमों को स्पष्ट करता है",
     "chips_hi": {
       "दिनांक": "28 नवंबर 2025"
-    }
+    },
+    "hi_ver": 2
   },
   {
     "v": 3,
@@ -626,7 +711,7 @@
     "verbatim": false,
     "src_title": "Foreign spouse of an NRI or OCI: buying one property jointly in India under Rule 25 of the NDI Rules",
     "src_summary": "RBI's FAQ lets a foreign spouse who is not an NRI or OCI buy one Indian property, jointly only, excluding farmland, under Rule 25 of the NDI Rules, 2019. Tax and repatriation explained.",
-    "hi_tries": 1,
+    "hi_tries": 2,
     "hi_ver": 2
   },
   {
@@ -1412,88 +1497,6 @@
     "chips_hi": {
       "शेयर": "66.18 करोड़"
     },
-    "hi_ver": 2
-  },
-  {
-    "v": 3,
-    "cat": "Markets",
-    "tk": "MARKETS",
-    "title": "Pre-market: Nifty 50 at 25,227.95 after midcaps lead Wednesday's broad slide",
-    "summary": "The Nifty 50 closed at 25,227.95 on Wednesday, 18 November, down 159.45 points or 0.63%, as 2,035 NSE stocks fell against 693 that rose and midcaps lost 1.22%.",
-    "source": "Oquilia",
-    "published": "2026-11-19T02:33:31.759000+00:00",
-    "ago": "6h",
-    "impact": "Neutral",
-    "why": "Market wide indices closed lower.",
-    "url": "https://www.oquilia.com/news/nifty-50-pre-market-19-november-2026",
-    "chips": {
-      "Nifty 50": "25,227.95",
-      "Decline": "0.63%",
-      "Midcaps loss": "1.22%"
-    },
-    "trend": [
-      0.5,
-      0.55,
-      0.45,
-      0.5,
-      0.47,
-      0.52,
-      0.5
-    ],
-    "color": "B7791F",
-    "premium": false,
-    "verbatim": false,
-    "src_title": "Pre-market: Nifty 50 at 25,227.95 after midcaps lead Wednesday's broad slide",
-    "src_summary": "The Nifty 50 closed at 25,227.95 on Wednesday, 18 November, down 159.45 points or 0.63%, as 2,035 NSE stocks fell against 693 that rose and midcaps lost 1.22%.",
-    "title_hi": "प्री-मार्केट: बुधवार की बड़ी गिरावट के बाद Nifty 50, 25,227.95 पर",
-    "summary_hi": "Nifty 50 बुधवार, 18 नवंबर को 25,227.95 पर बंद हुआ, जो 159.45 अंक या 0.63% नीचे है, क्योंकि 2,035 NSE शेयर गिरे जबकि 693 चढ़े और midcaps में 1.22% की गिरावट आई।",
-    "why_hi": "व्यापक बाजार सूचकांक नीचे बंद हुए।",
-    "chips_hi": {
-      "Nifty 50": "25,227.95",
-      "गिरावट": "0.63%",
-      "Midcaps नुकसान": "1.22%"
-    },
-    "hi_tries": 0,
-    "hi_ver": 2
-  },
-  {
-    "v": 3,
-    "cat": "Finance",
-    "tk": "FINANCE",
-    "title": "Claiming Relief Under Section 157 of the Income-tax Act 2025 for Salary or Family-Pension Arrears",
-    "summary": "Section 157 of the Income-tax Act 2025, successor to section 89, gives relief when salary or family-pension arrears push you into a higher slab. How it is computed, with a worked example.",
-    "source": "Oquilia",
-    "published": "2026-11-19T00:40:54.927000+00:00",
-    "ago": "8h",
-    "impact": "Neutral",
-    "why": "Tax relief provision update for individuals.",
-    "url": "https://www.oquilia.com/news/oquilia-research-arrears-salary-relief-section-157-income-tax-act-2025",
-    "chips": {
-      "Section": "157",
-      "Act": "Income-tax Act 2025"
-    },
-    "trend": [
-      0.5,
-      0.55,
-      0.45,
-      0.5,
-      0.47,
-      0.52,
-      0.5
-    ],
-    "color": "B7791F",
-    "premium": false,
-    "verbatim": false,
-    "src_title": "Got Salary Arrears or Family-Pension Arrears in One Year? Claiming Relief Under Section 157 of the Income-tax Act 2025",
-    "src_summary": "Section 157 of the Income-tax Act 2025, successor to section 89, gives relief when salary or family-pension arrears push you into a higher slab. How it is computed, with a worked example.",
-    "title_hi": "सैलरी या फैमिली-पेंशन एरियर पर Income-tax Act 2025 की धारा 157 के तहत राहत का दावा करना",
-    "summary_hi": "Income-tax Act 2025 की धारा 157, जो धारा 89 की उत्तराधिकारी है, सैलरी या फैमिली-पेंशन एरियर के उच्च स्लैब में जाने पर राहत देती है। इसकी गणना कैसे होती है, एक उदाहरण के साथ।",
-    "why_hi": "व्यक्तियों के लिए कर राहत प्रावधान।",
-    "chips_hi": {
-      "धारा": "157",
-      "एक्ट": "Income-tax Act 2025"
-    },
-    "hi_tries": 0,
     "hi_ver": 2
   }
 ]
