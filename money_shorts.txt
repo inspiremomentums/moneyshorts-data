@@ -1,6 +1,363 @@
 [
   {
     "v": 3,
+    "cat": "Companies",
+    "tk": "GSM FOILS",
+    "title": "GSM Foils says statutory auditor M N C A & Associates has resigned",
+    "summary": "GSM Foils Limited disclosed to the National Stock Exchange that its statutory auditor resigned, citing uncertainty after a fire incident involving the company's managing director, as the auditor's letter says.",
+    "source": "Oquilia",
+    "published": "2026-11-23T14:47:30.105000+00:00",
+    "ago": "6h",
+    "impact": "Negative",
+    "why": "Auditor resignation creates governance and compliance concer",
+    "url": "https://www.oquilia.com/news/gsm-foils-statutory-auditor-resigns-nse-filing",
+    "chips": {},
+    "trend": [
+      0.95,
+      0.85,
+      0.7,
+      0.6,
+      0.4,
+      0.3,
+      0.1
+    ],
+    "color": "9B2C2C",
+    "premium": false,
+    "verbatim": false,
+    "src_title": "GSM Foils says statutory auditor M N C A & Associates has resigned",
+    "src_summary": "GSM Foils Limited disclosed to the National Stock Exchange that its statutory auditor resigned, citing uncertainty after a fire incident involving the company's managing director, as the auditor's letter says.",
+    "title_hi": "GSM Foils ने कहा कि वैधानिक लेखा परीक्षक M N C A & Associates ने इस्तीफा दे दिया है",
+    "summary_hi": "GSM Foils Limited ने नेशनल स्टॉक एक्सचेंज को बताया कि इसके वैधानिक लेखा परीक्षक ने इस्तीफा दे दिया है, लेखा परीक्षक के पत्र के अनुसार कंपनी के प्रबंध निदेशक से जुड़ी आग की घटना के बाद अनिश्चितता का हवाला दिया गया है।",
+    "why_hi": "लेखा परीक्षक के इस्तीफे से चिंताएं बढ़ीं।",
+    "chips_hi": {}
+  },
+  {
+    "v": 3,
+    "cat": "Companies",
+    "tk": "COMPANIES",
+    "title": "TBO Tek says its chief financial officer has resigned, effective 31 January 2027",
+    "summary": "TBO Tek Limited told the National Stock Exchange on 23 November 2026 that its chief financial officer has resigned to pursue external career opportunities and will be relieved on 31 January 2027.",
+    "source": "Oquilia",
+    "published": "2026-11-23T14:47:27.086000+00:00",
+    "ago": "6h",
+    "impact": "Neutral",
+    "why": "CFO resignation is a routine management change.",
+    "url": "https://www.oquilia.com/news/tbo-tek-chief-financial-officer-resigns-nse-filing",
+    "chips": {
+      "Effective Date": "31 January 2027"
+    },
+    "trend": [
+      0.5,
+      0.55,
+      0.45,
+      0.5,
+      0.47,
+      0.52,
+      0.5
+    ],
+    "color": "B7791F",
+    "premium": false,
+    "verbatim": false,
+    "src_title": "TBO Tek says its chief financial officer has resigned, effective 31 January 2027",
+    "src_summary": "TBO Tek Limited told the National Stock Exchange on 23 November 2026 that its chief financial officer has resigned to pursue external career opportunities and will be relieved on 31 January 2027.",
+    "title_hi": "TBO Tek का कहना है कि उनके मुख्य वित्तीय अधिकारी ने 31 जनवरी 2027 से प्रभावी इस्तीफा दे दिया है",
+    "summary_hi": "TBO Tek Limited ने 23 नवंबर 2026 को National Stock Exchange को बताया कि उनके मुख्य वित्तीय अधिकारी ने बाहरी करियर के अवसरों को आगे बढ़ाने के लिए इस्तीफा दे दिया है और उन्हें 31 जनवरी 2027 को कार्यमुक्त किया जाएगा।",
+    "why_hi": "CFO का इस्तीफा एक नियमित प्रबंधन बदलाव है।",
+    "chips_hi": {
+      "प्रभावी तिथि": "31 जनवरी 2027"
+    }
+  },
+  {
+    "v": 3,
+    "cat": "Markets",
+    "tk": "MARKETS",
+    "title": "Nifty 50 falls 1.75% to 25,349.65 as Nifty Bank drops 3.17%",
+    "summary": "The Nifty 50 closed at 25,349.65 on 23 November 2026, down 450.95 points or 1.75%, as 1,997 NSE stocks declined and 748 advanced. Nifty Bank fell 3.17%.",
+    "source": "Oquilia",
+    "published": "2026-11-23T13:38:58.262000+00:00",
+    "ago": "7h",
+    "impact": "Negative",
+    "why": "Market indices declined sharply.",
+    "url": "https://www.oquilia.com/news/stock-market-today-nifty-50-closing-23-november-2026",
+    "chips": {
+      "Nifty 50": "25,349.65",
+      "Decline": "1.75%",
+      "Nifty Bank": "3.17%"
+    },
+    "trend": [
+      0.95,
+      0.85,
+      0.7,
+      0.6,
+      0.4,
+      0.3,
+      0.1
+    ],
+    "color": "9B2C2C",
+    "premium": false,
+    "verbatim": false,
+    "src_title": "Nifty 50 falls 1.75% to 25,349.65 as Nifty Bank drops 3.17%",
+    "src_summary": "The Nifty 50 closed at 25,349.65 on 23 November 2026, down 450.95 points or 1.75%, as 1,997 NSE stocks declined and 748 advanced. Nifty Bank fell 3.17%.",
+    "title_hi": "Nifty 50 में 1.75% की गिरावट, यह 25,349.65 पर बंद हुआ और Nifty Bank 3.17% गिरा",
+    "summary_hi": "Nifty 50 23 नवंबर 2026 को 25,349.65 पर बंद हुआ, जो 450.95 अंक या 1.75% की गिरावट के साथ था, क्योंकि 1,997 NSE शेयर गिरे और 748 चढ़े। Nifty Bank 3.17% गिरा।",
+    "why_hi": "मार्केट इंडेक्स में भारी गिरावट।",
+    "chips_hi": {
+      "Nifty 50": "25,349.65",
+      "गिरावट": "1.75%",
+      "Nifty Bank": "3.17%"
+    }
+  },
+  {
+    "v": 3,
+    "cat": "Companies",
+    "tk": "COMPANIES",
+    "title": "Jalandhar's Anuraj Real Estates enters insolvency; creditors must claim by 2 December",
+    "summary": "Anuraj Real Estates Private Limited of Jalandhar entered insolvency on 18 November 2026 on an order of the NCLT Chandigarh bench, per an IBBI public announcement. Claims are due by 2 December 2026.",
+    "source": "Oquilia",
+    "published": "2026-11-23T13:37:43.598000+00:00",
+    "ago": "8h",
+    "impact": "Negative",
+    "why": "Company has entered insolvency proceedings.",
+    "url": "https://www.oquilia.com/news/anuraj-real-estates-jalandhar-insolvency-claims-deadline",
+    "chips": {
+      "Deadline": "2 December 2026"
+    },
+    "trend": [
+      0.95,
+      0.85,
+      0.7,
+      0.6,
+      0.4,
+      0.3,
+      0.1
+    ],
+    "color": "9B2C2C",
+    "premium": false,
+    "verbatim": false,
+    "src_title": "Jalandhar's Anuraj Real Estates enters insolvency; creditors must claim by 2 December",
+    "src_summary": "Anuraj Real Estates Private Limited of Jalandhar entered insolvency on 18 November 2026 on an order of the NCLT Chandigarh bench, per an IBBI public announcement. Claims are due by 2 December 2026.",
+    "title_hi": "Jalandhar की Anuraj Real Estates दिवालिया प्रक्रिया में दाखिल; लेनदारों को 2 December तक दावा करना होगा",
+    "summary_hi": "Jalandhar की Anuraj Real Estates Private Limited IBBI सार्वजनिक घोषणा के अनुसार, NCLT चंडीगढ़ बेंच के आदेश पर 18 November 2026 को दिवालिया प्रक्रिया में दाखिल हुई। दावे 2 December 2026 तक देय हैं।",
+    "why_hi": "कंपनी दिवालिया प्रक्रिया में प्रवेश कर चुकी है।",
+    "chips_hi": {
+      "अंतिम तिथि": "2 December 2026"
+    }
+  },
+  {
+    "v": 3,
+    "cat": "Companies",
+    "tk": "COMPANIES",
+    "title": "NCLT Mumbai admits Shirdi Panel Industries to insolvency",
+    "summary": "The NCLT's Mumbai bench admitted Shirdi Panel Industries Limited into insolvency on 16 November 2026, holding that an assigned invoice and agreed interest count towards the Rs 1 crore threshold.",
+    "source": "Oquilia",
+    "published": "2026-11-23T13:36:41.386000+00:00",
+    "ago": "8h",
+    "impact": "Negative",
+    "why": "Insolvency admission indicates severe financial distress.",
+    "url": "https://www.oquilia.com/news/nclt-mumbai-admits-shirdi-panel-industries-insolvency-supplier-plea",
+    "chips": {
+      "Date": "16 November 2026",
+      "Threshold": "Rs 1 crore"
+    },
+    "trend": [
+      0.95,
+      0.85,
+      0.7,
+      0.6,
+      0.4,
+      0.3,
+      0.1
+    ],
+    "color": "9B2C2C",
+    "premium": false,
+    "verbatim": false,
+    "src_title": "NCLT Mumbai admits Shirdi Panel Industries to insolvency on supplier's plea",
+    "src_summary": "The NCLT's Mumbai bench admitted Shirdi Panel Industries Limited into insolvency on 16 November 2026, holding that an assigned invoice and agreed interest count towards the Rs 1 crore threshold.",
+    "title_hi": "NCLT मुंबई ने Shirdi Panel Industries को दिवालिया प्रक्रिया में स्वीकार किया",
+    "summary_hi": "NCLT की मुंबई पीठ ने 16 November 2026 को Shirdi Panel Industries Limited को दिवालिया प्रक्रिया में स्वीकार किया, यह मानते हुए कि एक असाइन किया गया चालान और सहमत ब्याज 1 करोड़ रुपये की सीमा में गिने जाते हैं।",
+    "why_hi": "दिवालिया प्रक्रिया स्वीकार करना गंभीर वित्तीय संकट को दर्शाता है।",
+    "chips_hi": {
+      "तारीख": "16 November 2026",
+      "सीमा": "1 करोड़ रुपये"
+    }
+  },
+  {
+    "v": 3,
+    "cat": "Companies",
+    "tk": "COMPANIES",
+    "title": "NCLT admits Hind Industries to insolvency as guarantor on Central Bank plea",
+    "summary": "The NCLT's Allahabad bench on 18 November 2026 admitted Hind Industries Ltd into insolvency as a corporate guarantor, on Central Bank of India's petition over a claimed default of Rs 36.50 crore.",
+    "source": "Oquilia",
+    "published": "2026-11-23T13:35:18.790000+00:00",
+    "ago": "8h",
+    "impact": "Negative",
+    "why": "Insolvency admission proceedings initiated against the firm.",
+    "url": "https://www.oquilia.com/news/nclt-admits-hind-industries-insolvency-guarantor-central-bank-of-india",
+    "chips": {
+      "Default": "Rs 36.50 crore",
+      "Date": "18 November 2026"
+    },
+    "trend": [
+      0.95,
+      0.85,
+      0.7,
+      0.6,
+      0.4,
+      0.3,
+      0.1
+    ],
+    "color": "9B2C2C",
+    "premium": false,
+    "verbatim": false,
+    "src_title": "NCLT admits Hind Industries to insolvency as guarantor on Central Bank plea",
+    "src_summary": "The NCLT's Allahabad bench on 18 November 2026 admitted Hind Industries Ltd into insolvency as a corporate guarantor, on Central Bank of India's petition over a claimed default of Rs 36.50 crore.",
+    "title_hi": "Central Bank की याचिका पर NCLT ने Hind Industries को गारंटर के तौर पर दिवालिया प्रक्रिया में स्वीकार किया",
+    "summary_hi": "NCLT की इलाहाबाद बेंच ने 18 नवंबर 2026 को Central Bank of India की याचिका पर Hind Industries Ltd को 36.50 करोड़ रुपये के कथित डिफॉल्ट पर कॉर्पोरेट गारंटर के रूप में दिवालिया प्रक्रिया में स्वीकार किया।",
+    "why_hi": "फर्म के खिलाफ दिवालिया कार्यवाही शुरू।",
+    "chips_hi": {
+      "डिफॉल्ट": "36.50 करोड़ रुपये",
+      "तारीख": "18 नवंबर 2026"
+    }
+  },
+  {
+    "v": 3,
+    "cat": "Companies",
+    "tk": "MONOPOLY",
+    "title": "NCLT Mumbai admits Monopoly Innovations to insolvency on ICICI Bank plea",
+    "summary": "The NCLT's Mumbai bench admitted Monopoly Innovations Limited into insolvency on 20 November 2026 on ICICI Bank's petition over a claimed default of about Rs 2.98 crore on emergency credit line loans.",
+    "source": "Oquilia",
+    "published": "2026-11-23T13:34:30.454000+00:00",
+    "ago": "8h",
+    "impact": "Neutral",
+    "why": "Insolvency admission of a small private company.",
+    "url": "https://www.oquilia.com/news/nclt-mumbai-admits-monopoly-innovations-insolvency-icici-bank",
+    "chips": {
+      "Default": "Rs 2.98 crore"
+    },
+    "trend": [
+      0.5,
+      0.55,
+      0.45,
+      0.5,
+      0.47,
+      0.52,
+      0.5
+    ],
+    "color": "B7791F",
+    "premium": false,
+    "verbatim": false,
+    "src_title": "NCLT Mumbai admits Monopoly Innovations to insolvency on ICICI Bank plea",
+    "src_summary": "The NCLT's Mumbai bench admitted Monopoly Innovations Limited into insolvency on 20 November 2026 on ICICI Bank's petition over a claimed default of about Rs 2.98 crore on emergency credit line loans.",
+    "title_hi": "NCLT मुंबई ने ICICI बैंक की याचिका पर Monopoly Innovations को दिवालिया घोषित किया",
+    "summary_hi": "NCLT की मुंबई बेंच ने 20 नवंबर 2026 को ICICI Bank की याचिका पर Monopoly Innovations Limited को आपातकालीन क्रेडिट लाइन लोन पर लगभग 2.98 करोड़ रुपये के कथित डिफॉल्ट पर दिवालिया प्रक्रिया में स्वीकार कर लिया।",
+    "why_hi": "छोटी प्राइवेट कंपनी दिवालिया प्रक्रिया में शामिल।",
+    "chips_hi": {
+      "डिफॉल्ट": "Rs 2.98 crore"
+    }
+  },
+  {
+    "v": 3,
+    "cat": "Companies",
+    "tk": "COMPANIES",
+    "title": "NCLT Ahmedabad admits Mclay Ceramic into insolvency; claims due by 3 December",
+    "summary": "The NCLT's Ahmedabad Bench admitted Mclay Ceramic Private Limited into insolvency from 19 November 2026, an IBBI announcement says; creditors must file claims by 3 December 2026.",
+    "source": "Oquilia",
+    "published": "2026-11-23T12:35:53.038000+00:00",
+    "ago": "9h",
+    "impact": "Negative",
+    "why": "Company admitted into insolvency proceedings.",
+    "url": "https://www.oquilia.com/news/nclt-ahmedabad-admits-mclay-ceramic-insolvency-claims-deadline",
+    "chips": {
+      "Deadline": "3 December 2026",
+      "Date": "19 November 2026"
+    },
+    "trend": [
+      0.95,
+      0.85,
+      0.7,
+      0.6,
+      0.4,
+      0.3,
+      0.1
+    ],
+    "color": "9B2C2C",
+    "premium": false,
+    "verbatim": false,
+    "src_title": "NCLT Ahmedabad admits Mclay Ceramic into insolvency; claims due by 3 December",
+    "src_summary": "The NCLT's Ahmedabad Bench admitted Mclay Ceramic Private Limited into insolvency from 19 November 2026, an IBBI announcement says; creditors must file claims by 3 December 2026.",
+    "title_hi": "NCLT अहमदाबाद ने Mclay Ceramic को दिवालिया प्रक्रिया में स्वीकार किया",
+    "summary_hi": "NCLT की अहमदाबाद बेंच ने 19 नवंबर 2026 से Mclay Ceramic Private Limited को दिवालिया प्रक्रिया में स्वीकार कर लिया है, एक IBBI घोषणा के अनुसार; लेनदारों को 3 दिसंबर 2026 तक दावे दाखिल करने होंगे।",
+    "why_hi": "कंपनी दिवालिया प्रक्रिया में स्वीकार की गई।",
+    "chips_hi": {
+      "अंतिम तिथि": "3 December 2026",
+      "दिनांक": "19 November 2026"
+    }
+  },
+  {
+    "v": 3,
+    "cat": "Finance",
+    "tk": "FINANCE",
+    "title": "RBI sets Rs 1 crore minimum investment in bank securitisation notes from April 2027",
+    "summary": "RBI said on 23 November 2026 that securitisation notes issued under its commercial bank rules must be in demat form, with a minimum ticket size of Rs 1 crore per investor from 1 April 2027.",
+    "source": "Oquilia",
+    "published": "2026-11-23T12:35:15.160000+00:00",
+    "ago": "9h",
+    "impact": "Neutral",
+    "why": "Regulatory change for commercial banks.",
+    "url": "https://www.oquilia.com/news/rbi-rs-1-crore-minimum-ticket-size-bank-securitisation-notes",
+    "chips": {
+      "Minimum Investment": "Rs 1 crore",
+      "Effective Date": "1 April 2027"
+    },
+    "trend": [
+      0.5,
+      0.55,
+      0.45,
+      0.5,
+      0.47,
+      0.52,
+      0.5
+    ],
+    "color": "B7791F",
+    "premium": false,
+    "verbatim": false,
+    "src_title": "RBI sets Rs 1 crore minimum investment in bank securitisation notes from April 2027",
+    "src_summary": "RBI said on 23 November 2026 that securitisation notes issued under its commercial bank rules must be in demat form, with a minimum ticket size of Rs 1 crore per investor from 1 April 2027.",
+    "hi_tries": 1
+  },
+  {
+    "v": 3,
+    "cat": "Finance",
+    "tk": "FINANCE",
+    "title": "RBI proposes more customer control over digital banking channels to curb fraud",
+    "summary": "RBI has issued draft rules to give bank customers greater control over how digital payment channels are used and to widen what counts as negligence by a bank. Comments are open until 14 December 2026.",
+    "source": "Oquilia",
+    "published": "2026-11-23T11:35:18.928000+00:00",
+    "ago": "10h",
+    "impact": "Neutral",
+    "why": "Draft rules to enhance digital safety.",
+    "url": "https://www.oquilia.com/news/rbi-draft-preventive-safeguards-electronic-banking-transactions",
+    "chips": {
+      "Deadline": "14 December 2026"
+    },
+    "trend": [
+      0.5,
+      0.55,
+      0.45,
+      0.5,
+      0.47,
+      0.52,
+      0.5
+    ],
+    "color": "B7791F",
+    "premium": false,
+    "verbatim": false,
+    "src_title": "RBI proposes more customer control over digital banking channels to curb fraud",
+    "src_summary": "RBI has issued draft rules to give bank customers greater control over how digital payment channels are used and to widen what counts as negligence by a bank. Comments are open until 14 December 2026.",
+    "hi_tries": 1
+  },
+  {
+    "v": 3,
     "cat": "Finance",
     "tk": "FINANCE",
     "title": "RFC or RFC(D)? The two foreign currency accounts a returning NRI can keep in India, and what may be credited to each",
@@ -28,7 +385,8 @@
     "verbatim": false,
     "src_title": "RFC or RFC(D)? The two foreign currency accounts a returning NRI can keep in India, and what may be credited to each",
     "src_summary": "RBI's January 2025 FAQ lets a returning NRI hold RFC and RFC(D) accounts. What each may receive, how NRE and FCNR(B) balances move across, and how the interest is taxed.",
-    "hi_tries": 1
+    "hi_tries": 1,
+    "hi_ver": 2
   },
   {
     "v": 3,
@@ -66,7 +424,9 @@
     "chips_hi": {
       "हारे विवाद": "8 में से 7",
       "सबसे बड़ा क्लेम": "Rs 87.33 लाख"
-    }
+    },
+    "hi_tries": 0,
+    "hi_ver": 2
   },
   {
     "v": 3,
@@ -104,7 +464,9 @@
     "chips_hi": {
       "Buyback आकार": "700 करोड़ रुपये",
       "अधिकतम कीमत": "1,850 रुपये"
-    }
+    },
+    "hi_tries": 0,
+    "hi_ver": 2
   },
   {
     "v": 3,
@@ -136,7 +498,8 @@
     "verbatim": false,
     "src_title": "EPFO board cuts minimum PF balance to 10%, approves monthly withdrawal plan",
     "src_summary": "EPFO's Central Board of Trustees cut the minimum PF balance from 25% to 10%, cut the wait for final withdrawal to 2 months, and approved a Systematic Withdrawal Plan, the Labour Ministry said.",
-    "hi_tries": 1
+    "hi_tries": 1,
+    "hi_ver": 2
   },
   {
     "v": 3,
@@ -165,7 +528,8 @@
     "verbatim": false,
     "src_title": "ITAT Delhi quashes retrospective cancellation of school society's 12A registration",
     "src_summary": "The Delhi bench of the Income Tax Appellate Tribunal held the tax department had no power to cancel a school society's charitable registration retrospectively, and ordered renewal.",
-    "hi_tries": 1
+    "hi_tries": 1,
+    "hi_ver": 2
   },
   {
     "v": 3,
@@ -203,7 +567,9 @@
     "chips_hi": {
       "Nifty 50": "25,800.6",
       "बढ़त": "1.12%"
-    }
+    },
+    "hi_tries": 0,
+    "hi_ver": 2
   },
   {
     "v": 3,
@@ -243,7 +609,9 @@
       "योजना": "FAST-DS 2026",
       "तारीख": "31 मार्च 2026",
       "सुरक्षित क्षेत्र": "20%"
-    }
+    },
+    "hi_tries": 0,
+    "hi_ver": 2
   },
   {
     "v": 3,
@@ -355,7 +723,7 @@
     "verbatim": false,
     "src_title": "Sending money abroad through an app: RBI's May 2026 framework for third-party outward remittance platforms",
     "src_summary": "RBI's A.P. (DIR Series) Circular No. 10 of May 13, 2026 ends case-by-case approval for remittance apps and lists what every screen and invoice must show a person sending money abroad.",
-    "hi_tries": 1,
+    "hi_tries": 2,
     "hi_ver": 2
   },
   {
@@ -1112,390 +1480,6 @@
     "src_title": "Foreign spouse of an NRI or OCI: buying one property jointly in India under Rule 25 of the NDI Rules",
     "src_summary": "RBI's FAQ lets a foreign spouse who is not an NRI or OCI buy one Indian property, jointly only, excluding farmland, under Rule 25 of the NDI Rules, 2019. Tax and repatriation explained.",
     "hi_tries": 2,
-    "hi_ver": 2
-  },
-  {
-    "v": 3,
-    "cat": "Finance",
-    "tk": "FINANCE",
-    "title": "CGST Faridabad alleges Rs 116.48 crore pan masala cess evasion in Rewari",
-    "summary": "CGST Faridabad says a Rewari pan masala unit ran four undeclared packing machines without registering under the HSNS Cess Act, 2025, and puts the cess not paid at Rs 116.48 crore.",
-    "source": "Oquilia",
-    "published": "2026-11-20T06:34:57.716000+00:00",
-    "ago": "2h",
-    "impact": "Negative",
-    "why": "Cess evasion allegation against manufacturer.",
-    "url": "https://www.oquilia.com/news/cgst-faridabad-alleges-pan-masala-cess-evasion-rewari-one-arrested",
-    "chips": {
-      "Cess Evasion": "Rs 116.48 cr"
-    },
-    "trend": [
-      0.95,
-      0.85,
-      0.7,
-      0.6,
-      0.4,
-      0.3,
-      0.1
-    ],
-    "color": "9B2C2C",
-    "premium": false,
-    "verbatim": false,
-    "src_title": "CGST Faridabad alleges Rs 116.48 crore pan masala cess evasion in Rewari, one arrested",
-    "src_summary": "CGST Faridabad says a Rewari pan masala unit ran four undeclared packing machines without registering under the HSNS Cess Act, 2025, and puts the cess not paid at Rs 116.48 crore.",
-    "hi_tries": 2,
-    "hi_ver": 2
-  },
-  {
-    "v": 3,
-    "cat": "Markets",
-    "tk": "HINDUSTAN ZINC",
-    "title": "Hindustan Zinc board approves plan to raise metal capacity",
-    "summary": "Hindustan Zinc told the stock exchanges that its board approved the HZL 2.0 Growth Program on 16 November 2026, with envisaged capital spending of about Rs 80,000 crore over three to five years.",
-    "source": "Oquilia",
-    "published": "2026-11-20T06:16:50.812000+00:00",
-    "ago": "2h",
-    "impact": "Positive",
-    "why": "Capacity expansion plans support long-term growth.",
-    "url": "https://www.oquilia.com/news/hindustan-zinc-board-approves-rs-80000-crore-hzl-2-capacity-plan",
-    "chips": {
-      "Capex": "Rs 80,000 crore",
-      "Capacity": "2 MTPA"
-    },
-    "trend": [
-      0.1,
-      0.25,
-      0.2,
-      0.5,
-      0.45,
-      0.8,
-      0.95
-    ],
-    "color": "0F766E",
-    "premium": false,
-    "verbatim": false,
-    "src_title": "Hindustan Zinc board approves Rs 80,000 crore plan to raise metal capacity to 2 MTPA",
-    "src_summary": "Hindustan Zinc told the stock exchanges that its board approved the HZL 2.0 Growth Program on 16 November 2026, with envisaged capital spending of about Rs 80,000 crore over three to five years.",
-    "hi_tries": 0,
-    "title_hi": "Hindustan Zinc बोर्ड ने मेटल क्षमता बढ़ाने की योजना को मंजूरी दी",
-    "summary_hi": "Hindustan Zinc ने स्टॉक एक्सचेंजों को बताया कि उसके बोर्ड ने 16 नवंबर 2026 को HZL 2.0 ग्रोथ प्रोग्राम को मंजूरी दे दी है, जिसमें तीन से पांच वर्षों में लगभग 80,000 करोड़ रुपये का पूंजीगत खर्च (Capex) अनुमानित है।",
-    "why_hi": "क्षमता विस्तार योजनाएं दीर्घकालिक विकास का समर्थन करती हैं।",
-    "chips_hi": {
-      "Capex": "80,000 करोड़ रुपये",
-      "क्षमता": "2 MTPA"
-    },
-    "hi_ver": 2
-  },
-  {
-    "v": 3,
-    "cat": "Finance",
-    "tk": "FINANCE",
-    "title": "ITAT Delhi quashes retrospective cancellation of school society's charity registration",
-    "summary": "The Income Tax Appellate Tribunal in Delhi quashed orders cancelling a school society's charitable registration from AY 2019-20 and directed renewal of its Section 12A registration and 80G approval.",
-    "source": "Oquilia",
-    "published": "2026-11-20T04:37:25.566000+00:00",
-    "ago": "4h",
-    "impact": "Neutral",
-    "why": "Tax order relief for school society",
-    "url": "https://www.oquilia.com/news/itat-delhi-quashes-retrospective-cancellation-school-society-charity",
-    "chips": {
-      "Assessment Year": "2019-20"
-    },
-    "trend": [
-      0.5,
-      0.55,
-      0.45,
-      0.5,
-      0.47,
-      0.52,
-      0.5
-    ],
-    "color": "B7791F",
-    "premium": false,
-    "verbatim": false,
-    "src_title": "ITAT Delhi quashes retrospective cancellation of school society's charity registration",
-    "src_summary": "The Income Tax Appellate Tribunal in Delhi quashed orders cancelling a school society's charitable registration from AY 2019-20 and directed renewal of its Section 12A registration and 80G approval.",
-    "hi_tries": 2,
-    "hi_ver": 2
-  },
-  {
-    "v": 3,
-    "cat": "Markets",
-    "tk": "JUPITER WAGONS",
-    "title": "Jupiter Wagons says it won repeat order worth over Rs 128 crore from JSW (South) Rail",
-    "summary": "Jupiter Wagons Limited said in a filing with the National Stock Exchange that it received a letter of intent from JSW (South) Rail Logistics for 5 rakes with wagons, worth over Rs 128 crore.",
-    "source": "Oquilia",
-    "published": "2026-11-20T03:46:27.609000+00:00",
-    "ago": "4h",
-    "impact": "Positive",
-    "why": "New order worth over Rs 128 crore.",
-    "url": "https://www.oquilia.com/news/jupiter-wagons-repeat-order-jsw-south-rail-logistics",
-    "chips": {
-      "Order Value": "Rs 128 crore",
-      "Rakes": "5"
-    },
-    "trend": [
-      0.1,
-      0.25,
-      0.2,
-      0.5,
-      0.45,
-      0.8,
-      0.95
-    ],
-    "color": "0F766E",
-    "premium": false,
-    "verbatim": false,
-    "src_title": "Jupiter Wagons says it won repeat order worth over Rs 128 crore from JSW (South) Rail",
-    "src_summary": "Jupiter Wagons Limited said in a filing with the National Stock Exchange that it received a letter of intent from JSW (South) Rail Logistics for 5 rakes with wagons, worth over Rs 128 crore.",
-    "title_hi": "Jupiter Wagons ने JSW (South) Rail से 128 करोड़ रुपये से अधिक का रिपीट ऑर्डर मिलने की बात कही",
-    "summary_hi": "Jupiter Wagons Limited ने National Stock Exchange को दी गई जानकारी में बताया कि उसे JSW (South) Rail Logistics से वैगन वाले 5 रेक के लिए 128 करोड़ रुपये से अधिक का इरादा पत्र (LOI) मिला है।",
-    "why_hi": "128 करोड़ रुपये से अधिक का नया ऑर्डर।",
-    "chips_hi": {
-      "ऑर्डर मूल्य": "Rs 128 करोड़",
-      "रेक": "5"
-    },
-    "hi_tries": 0,
-    "hi_ver": 2
-  },
-  {
-    "v": 3,
-    "cat": "Markets",
-    "tk": "MARKETS",
-    "title": "Pre-market: Nifty 50 at 25,514.30 after autos lead a 1.14% Thursday rise",
-    "summary": "The Nifty 50 closed at 25,514.30 on Thursday, 19 November, up 1.14% at its day's high, as Nifty Auto rose 4.4% and 1,563 NSE stocks advanced against 1,164 declines.",
-    "source": "Oquilia",
-    "published": "2026-11-20T02:33:57.264000+00:00",
-    "ago": "6h",
-    "impact": "Positive",
-    "why": "Market rose with strong auto sector gains.",
-    "url": "https://www.oquilia.com/news/nifty-50-pre-market-20-november-2026",
-    "chips": {
-      "Nifty 50": "25,514.30",
-      "Rise": "1.14%",
-      "Nifty Auto": "4.4%"
-    },
-    "trend": [
-      0.1,
-      0.25,
-      0.2,
-      0.5,
-      0.45,
-      0.8,
-      0.95
-    ],
-    "color": "0F766E",
-    "premium": false,
-    "verbatim": false,
-    "src_title": "Pre-market: Nifty 50 at 25,514.30 after autos lead a 1.14% Thursday rise",
-    "src_summary": "The Nifty 50 closed at 25,514.30 on Thursday, 19 November, up 1.14% at its day's high, as Nifty Auto rose 4.4% and 1,563 NSE stocks advanced against 1,164 declines.",
-    "title_hi": "Pre-market: Nifty 50 25,514.30 पर, गुरुवार को ऑटो शेयरों की तेजी से बाजार 1.14% बढ़ा",
-    "summary_hi": "Nifty 50 गुरुवार, 19 नवंबर को अपने दिन के उच्चतम स्तर पर 1.14% की बढ़त के साथ 25,514.30 पर बंद हुआ, क्योंकि Nifty Auto 4.4% बढ़ा और NSE पर 1,563 शेयर चढ़े जबकि 1,164 में गिरावट आई।",
-    "why_hi": "ऑटो सेक्टर की तेजी से बाजार बढ़ा।",
-    "chips_hi": {
-      "Nifty 50": "25,514.30",
-      "बढ़त": "1.14%",
-      "Nifty Auto": "4.4%"
-    },
-    "hi_tries": 0,
-    "hi_ver": 2
-  },
-  {
-    "v": 3,
-    "cat": "Finance",
-    "tk": "FINANCE",
-    "title": "Income-tax Act 2025 Lets Resident Authors Deduct Up to Rs 3 Lakh of Royalty",
-    "summary": "Section 151 of the Income-tax Act 2025 lets resident authors deduct book royalty up to Rs 3 lakh in the old regime, subject to a 15% sales test, a payer certificate and a six-month rule.",
-    "source": "Oquilia",
-    "published": "2026-11-20T00:41:11.024000+00:00",
-    "ago": "8h",
-    "impact": "Positive",
-    "why": "Tax deduction benefits resident authors.",
-    "url": "https://www.oquilia.com/news/oquilia-research-author-royalty-deduction-section-151-rs-3-lakh",
-    "chips": {
-      "Royalty Deduction Li": "Rs 3 Lakh",
-      "Sales Test": "15%"
-    },
-    "trend": [
-      0.1,
-      0.25,
-      0.2,
-      0.5,
-      0.45,
-      0.8,
-      0.95
-    ],
-    "color": "0F766E",
-    "premium": false,
-    "verbatim": false,
-    "src_title": "Writing a Book? Section 151 of the Income-tax Act 2025 Lets Resident Authors Deduct Up to Rs 3 Lakh of Royalty",
-    "src_summary": "Section 151 of the Income-tax Act 2025 lets resident authors deduct book royalty up to Rs 3 lakh in the old regime, subject to a 15% sales test, a payer certificate and a six-month rule.",
-    "hi_tries": 0,
-    "title_hi": "Income-tax Act 2025 रेजिडेंट लेखकों को 3 लाख रुपये तक की रॉयल्टी काटने की अनुमति देता है",
-    "summary_hi": "Income-tax Act 2025 की धारा 151 रेजिडेंट लेखकों को पुरानी व्यवस्था में 3 लाख रुपये तक की बुक रॉयल्टी काटने की अनुमति देती है, जो 15% बिक्री परीक्षण, एक भुगतानकर्ता प्रमाण पत्र और छह महीने के नियम के अधीन है।",
-    "why_hi": "कर कटौती रेजिडेंट लेखकों को लाभ पहुंचाती है।",
-    "chips_hi": {
-      "रॉयल्टी कटौती सीमा": "Rs 3 Lakh",
-      "बिक्री परीक्षण": "15%"
-    },
-    "hi_ver": 2
-  },
-  {
-    "v": 3,
-    "cat": "Markets",
-    "tk": "MARKETS",
-    "title": "Nifty 50 ends 1.14% higher at 25,514.30 as auto stocks surge 4.4%",
-    "summary": "The Nifty 50 closed at 25,514.30 on 19 November 2026, up 286.35 points or 1.14%, as Nifty Auto rose 4.40%. 1,563 NSE stocks advanced and 1,164 declined.",
-    "source": "Oquilia",
-    "published": "2026-11-19T13:38:28.822000+00:00",
-    "ago": "4h",
-    "impact": "Positive",
-    "why": "Market indices and auto stocks rose.",
-    "url": "https://www.oquilia.com/news/stock-market-today-nifty-50-closing-19-november-2026",
-    "chips": {
-      "Nifty 50": "25,514.30",
-      "Change": "1.14%",
-      "Auto": "4.40%"
-    },
-    "trend": [
-      0.1,
-      0.25,
-      0.2,
-      0.5,
-      0.45,
-      0.8,
-      0.95
-    ],
-    "color": "0F766E",
-    "premium": false,
-    "verbatim": false,
-    "src_title": "Nifty 50 ends 1.14% higher at 25,514.30 as auto stocks surge 4.4%",
-    "src_summary": "The Nifty 50 closed at 25,514.30 on 19 November 2026, up 286.35 points or 1.14%, as Nifty Auto rose 4.40%. 1,563 NSE stocks advanced and 1,164 declined.",
-    "title_hi": "Nifty 50 1.14% की बढ़त के साथ 25,514.30 पर बंद, ऑटो शेयर 4.4% उछले",
-    "summary_hi": "Nifty 50, 19 नवंबर 2026 को 286.35 अंक या 1.14% की तेजी के साथ 25,514.30 पर बंद हुआ, क्योंकि Nifty Auto 4.40% बढ़ा। NSE के 1,563 शेयर चढ़े और 1,164 गिरे।",
-    "why_hi": "बाजार सूचकांक और ऑटो शेयर बढ़े।",
-    "chips_hi": {
-      "Nifty 50": "25,514.30",
-      "बदलाव": "1.14%",
-      "ऑटो": "4.40%"
-    },
-    "hi_tries": 0,
-    "hi_ver": 2
-  },
-  {
-    "v": 3,
-    "cat": "Companies",
-    "tk": "TRANSSTADIA",
-    "title": "NCLT admits Transstadia Holdings into insolvency on Bank of India's claim",
-    "summary": "The NCLT's Ahmedabad bench on 17 November 2026 admitted Transstadia Holdings into insolvency as guarantor of a stadium project's loans, on Bank of India's claim of Rs 213.43 crore.",
-    "source": "Oquilia",
-    "published": "2026-11-19T13:37:51.527000+00:00",
-    "ago": "4h",
-    "impact": "Negative",
-    "why": "Insolvency admission proceedings initiated by NCLT",
-    "url": "https://www.oquilia.com/news/nclt-admits-transstadia-holdings-insolvency-bank-of-india-claim",
-    "chips": {
-      "Claim Amount": "Rs 213.43 crore",
-      "Date": "17 Nov 2026"
-    },
-    "trend": [
-      0.95,
-      0.85,
-      0.7,
-      0.6,
-      0.4,
-      0.3,
-      0.1
-    ],
-    "color": "9B2C2C",
-    "premium": false,
-    "verbatim": false,
-    "src_title": "NCLT admits Transstadia Holdings into insolvency on Bank of India's Rs 213 crore claim",
-    "src_summary": "The NCLT's Ahmedabad bench on 17 November 2026 admitted Transstadia Holdings into insolvency as guarantor of a stadium project's loans, on Bank of India's claim of Rs 213.43 crore.",
-    "title_hi": "NCLT ने Bank of India के दावे पर Transstadia Holdings को दिवालिया प्रक्रिया में स्वीकार किया",
-    "summary_hi": "NCLT की अहमदाबाद बेंच ने 17 November 2026 को Bank of India के 213.43 करोड़ रुपये के दावे पर, स्टेडियम प्रोजेक्ट के लोन के गारंटर के रूप में Transstadia Holdings को दिवालिया प्रक्रिया में स्वीकार कर लिया।",
-    "why_hi": "NCLT द्वारा दिवालिया प्रक्रिया शुरू की गई",
-    "chips_hi": {
-      "दावा राशि": "Rs 213.43 करोड़",
-      "तारीख": "17 Nov 2026"
-    },
-    "hi_tries": 0,
-    "hi_ver": 2
-  },
-  {
-    "v": 3,
-    "cat": "Companies",
-    "tk": "COMPANIES",
-    "title": "NCLT Ahmedabad admits Tiaan Consumer into insolvency over Rs 90 crore loan",
-    "summary": "The NCLT's Ahmedabad bench on 17 November 2026 admitted Tiaan Consumer Limited into insolvency on a lender's petition, finding a default on a Rs 90 crore loan that the company had disputed.",
-    "source": "Oquilia",
-    "published": "2026-11-19T13:37:16.611000+00:00",
-    "ago": "4h",
-    "impact": "Negative",
-    "why": "Insolvency admission indicates severe financial distress.",
-    "url": "https://www.oquilia.com/news/nclt-ahmedabad-admits-tiaan-consumer-into-insolvency",
-    "chips": {
-      "Loan": "Rs 90 crore"
-    },
-    "trend": [
-      0.95,
-      0.85,
-      0.7,
-      0.6,
-      0.4,
-      0.3,
-      0.1
-    ],
-    "color": "9B2C2C",
-    "premium": false,
-    "verbatim": true,
-    "src_title": "NCLT Ahmedabad admits Tiaan Consumer into insolvency over Rs 90 crore loan",
-    "src_summary": "The NCLT's Ahmedabad bench on 17 November 2026 admitted Tiaan Consumer Limited into insolvency on a lender's petition, finding a default on a Rs 90 crore loan that the company had disputed.",
-    "title_hi": "NCLT अहमदाबाद ने 90 करोड़ रुपये के लोन पर Tiaan Consumer को दिवालिया घोषित किया",
-    "summary_hi": "NCLT की अहमदाबाद पीठ ने 17 November 2026 को एक ऋणदाता की याचिका पर Tiaan Consumer Limited को दिवालिया घोषित कर दिया, क्योंकि कंपनी द्वारा विवादित 90 करोड़ रुपये के लोन पर चूक पाई गई।",
-    "why_hi": "दिवालियापन की स्वीकृति गंभीर वित्तीय संकट को दर्शाती है।",
-    "chips_hi": {
-      "लोन": "90 crore रुपये"
-    },
-    "hi_tries": 0,
-    "hi_ver": 2
-  },
-  {
-    "v": 3,
-    "cat": "Companies",
-    "tk": "H'RECK ENGINEERS",
-    "title": "NCLT Mumbai orders liquidation of H'Reck Engineers",
-    "summary": "The NCLT's Mumbai bench on 18 November 2026 ordered H'Reck Engineers Private Limited into liquidation, holding that no resolution plan was approved before its insolvency period expired.",
-    "source": "Oquilia",
-    "published": "2026-11-19T13:36:42.798000+00:00",
-    "ago": "4h",
-    "impact": "Negative",
-    "why": "Company is facing liquidation.",
-    "url": "https://www.oquilia.com/news/nclt-mumbai-orders-liquidation-of-hreck-engineers",
-    "chips": {
-      "Date": "18 November 2026"
-    },
-    "trend": [
-      0.95,
-      0.85,
-      0.7,
-      0.6,
-      0.4,
-      0.3,
-      0.1
-    ],
-    "color": "9B2C2C",
-    "premium": false,
-    "verbatim": false,
-    "src_title": "NCLT Mumbai orders liquidation of H'Reck Engineers after creditors reject plan",
-    "src_summary": "The NCLT's Mumbai bench on 18 November 2026 ordered H'Reck Engineers Private Limited into liquidation, holding that no resolution plan was approved before its insolvency period expired.",
-    "title_hi": "NCLT मुंबई ने H'Reck Engineers के समापन का आदेश दिया",
-    "summary_hi": "NCLT की मुंबई पीठ ने 18 नवंबर 2026 को H'Reck Engineers Private Limited को परिसमापन में भेजने का आदेश दिया, यह मानते हुए कि दिवाला अवधि समाप्त होने से पहले कोई समाधान योजना स्वीकृत नहीं की गई थी।",
-    "why_hi": "कंपनी परिसमापन का सामना कर रही है।",
-    "chips_hi": {
-      "तारीख": "18 नवंबर 2026"
-    },
-    "hi_tries": 0,
     "hi_ver": 2
   }
 ]
