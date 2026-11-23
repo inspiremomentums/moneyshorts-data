@@ -1,6 +1,252 @@
 [
   {
     "v": 3,
+    "cat": "Finance",
+    "tk": "FINANCE",
+    "title": "RFC or RFC(D)? The two foreign currency accounts a returning NRI can keep in India, and what may be credited to each",
+    "summary": "RBI's January 2025 FAQ lets a returning NRI hold RFC and RFC(D) accounts. What each may receive, how NRE and FCNR(B) balances move across, and how the interest is taxed.",
+    "source": "Oquilia",
+    "published": "2026-11-23T09:05:19.073000+00:00",
+    "ago": "15m",
+    "impact": "Neutral",
+    "why": "Informational guide on NRI foreign currency accounts.",
+    "url": "https://www.oquilia.com/news/oquilia-research-rfc-vs-rfc-d-account-returning-nri-permitted-credits",
+    "chips": {
+      "Timeline": "January 2025"
+    },
+    "trend": [
+      0.5,
+      0.55,
+      0.45,
+      0.5,
+      0.47,
+      0.52,
+      0.5
+    ],
+    "color": "B7791F",
+    "premium": false,
+    "verbatim": false,
+    "src_title": "RFC or RFC(D)? The two foreign currency accounts a returning NRI can keep in India, and what may be credited to each",
+    "src_summary": "RBI's January 2025 FAQ lets a returning NRI hold RFC and RFC(D) accounts. What each may receive, how NRE and FCNR(B) balances move across, and how the interest is taxed.",
+    "hi_tries": 1
+  },
+  {
+    "v": 3,
+    "cat": "Finance",
+    "tk": "UNITED INDIA",
+    "title": "United India Insurance lost 7 of 8 claim disputes",
+    "summary": "Policyholders won 7 of the 8 consumer commission orders against United India Insurance in a month, including both fire claims of Rs 87.33 lakh and Rs 77.45 lakh.",
+    "source": "Oquilia",
+    "published": "2026-11-23T06:52:12.338000+00:00",
+    "ago": "2h",
+    "impact": "Negative",
+    "why": "Lost multiple consumer commission claim disputes.",
+    "url": "https://www.oquilia.com/news/united-india-insurance-lost-7-of-8-consumer-commission-orders-23-november-2026",
+    "chips": {
+      "Lost Disputes": "7 of 8",
+      "Largest Claim": "Rs 87.33 lakh"
+    },
+    "trend": [
+      0.95,
+      0.85,
+      0.7,
+      0.6,
+      0.4,
+      0.3,
+      0.1
+    ],
+    "color": "9B2C2C",
+    "premium": false,
+    "verbatim": false,
+    "src_title": "United India Insurance lost 7 of 8 claim disputes, including the 2 largest at Rs 87.33 lakh",
+    "src_summary": "Policyholders won 7 of the 8 consumer commission orders against United India Insurance in a month, including both fire claims of Rs 87.33 lakh and Rs 77.45 lakh.",
+    "title_hi": "United India Insurance ने 8 में से 7 क्लेम विवाद हारे",
+    "summary_hi": "Policyholders ने एक महीने में United India Insurance के खिलाफ 8 में से 7 consumer commission order जीते, जिसमें Rs 87.33 लाख और Rs 77.45 लाख के दोनों fire claims शामिल हैं।",
+    "why_hi": "कई consumer commission क्लेम विवाद हारे।",
+    "chips_hi": {
+      "हारे विवाद": "8 में से 7",
+      "सबसे बड़ा क्लेम": "Rs 87.33 लाख"
+    }
+  },
+  {
+    "v": 3,
+    "cat": "Markets",
+    "tk": "DALMIA BHARAT",
+    "title": "Dalmia Bharat board approves share buyback of up to Rs 700 crore",
+    "summary": "Dalmia Bharat said in a filing with the National Stock Exchange that its board approved an open-market buyback of equity shares worth up to Rs 700 crore at a price of up to Rs 1,850 each.",
+    "source": "Oquilia",
+    "published": "2026-11-23T06:46:22.321000+00:00",
+    "ago": "2h",
+    "impact": "Positive",
+    "why": "Share buyback announced at premium price",
+    "url": "https://www.oquilia.com/news/dalmia-bharat-board-approves-share-buyback-rs-700-crore",
+    "chips": {
+      "Buyback size": "Rs 700 crore",
+      "Max price": "Rs 1,850"
+    },
+    "trend": [
+      0.1,
+      0.25,
+      0.2,
+      0.5,
+      0.45,
+      0.8,
+      0.95
+    ],
+    "color": "0F766E",
+    "premium": false,
+    "verbatim": false,
+    "src_title": "Dalmia Bharat board approves share buyback of up to Rs 700 crore",
+    "src_summary": "Dalmia Bharat said in a filing with the National Stock Exchange that its board approved an open-market buyback of equity shares worth up to Rs 700 crore at a price of up to Rs 1,850 each.",
+    "title_hi": "Dalmia Bharat board ने 700 करोड़ रुपये तक के शेयर buyback को दी मंजूरी",
+    "summary_hi": "Dalmia Bharat ने National Stock Exchange को दी गई जानकारी में बताया कि उसके board ने 1,850 रुपये प्रति शेयर तक की कीमत पर 700 करोड़ रुपये तक के equity shares के open-market buyback को मंजूरी दे दी है।",
+    "why_hi": "शेयर buyback की घोषणा",
+    "chips_hi": {
+      "Buyback आकार": "700 करोड़ रुपये",
+      "अधिकतम कीमत": "1,850 रुपये"
+    }
+  },
+  {
+    "v": 3,
+    "cat": "Finance",
+    "tk": "EPFO",
+    "title": "EPFO board cuts minimum PF balance to 10%, approves monthly withdrawal plan",
+    "summary": "EPFO's Central Board of Trustees cut the minimum PF balance from 25% to 10%, cut the wait for final withdrawal to 2 months, and approved a Systematic Withdrawal Plan, the Labour Ministry said.",
+    "source": "Oquilia",
+    "published": "2026-11-23T03:16:12.881000+00:00",
+    "ago": "6h",
+    "impact": "Positive",
+    "why": "Eases fund access and improves liquidity.",
+    "url": "https://www.oquilia.com/news/epfo-board-cuts-minimum-pf-balance-approves-systematic-withdrawal-plan",
+    "chips": {
+      "Min PF balance": "10%",
+      "Withdrawal wait": "2 months"
+    },
+    "trend": [
+      0.1,
+      0.25,
+      0.2,
+      0.5,
+      0.45,
+      0.8,
+      0.95
+    ],
+    "color": "0F766E",
+    "premium": false,
+    "verbatim": false,
+    "src_title": "EPFO board cuts minimum PF balance to 10%, approves monthly withdrawal plan",
+    "src_summary": "EPFO's Central Board of Trustees cut the minimum PF balance from 25% to 10%, cut the wait for final withdrawal to 2 months, and approved a Systematic Withdrawal Plan, the Labour Ministry said.",
+    "hi_tries": 1
+  },
+  {
+    "v": 3,
+    "cat": "Finance",
+    "tk": "FINANCE",
+    "title": "ITAT Delhi quashes retrospective cancellation of school society's 12A registration",
+    "summary": "The Delhi bench of the Income Tax Appellate Tribunal held the tax department had no power to cancel a school society's charitable registration retrospectively, and ordered renewal.",
+    "source": "Oquilia",
+    "published": "2026-11-23T02:35:15.956000+00:00",
+    "ago": "6h",
+    "impact": "Neutral",
+    "why": "Tax ruling for a school society.",
+    "url": "https://www.oquilia.com/news/itat-delhi-quashes-retrospective-cancellation-school-society-12a-registration",
+    "chips": {},
+    "trend": [
+      0.5,
+      0.55,
+      0.45,
+      0.5,
+      0.47,
+      0.52,
+      0.5
+    ],
+    "color": "B7791F",
+    "premium": false,
+    "verbatim": false,
+    "src_title": "ITAT Delhi quashes retrospective cancellation of school society's 12A registration",
+    "src_summary": "The Delhi bench of the Income Tax Appellate Tribunal held the tax department had no power to cancel a school society's charitable registration retrospectively, and ordered renewal.",
+    "hi_tries": 1
+  },
+  {
+    "v": 3,
+    "cat": "Markets",
+    "tk": "MARKETS",
+    "title": "Nifty 50 starts the week at 25,800.6 after Friday rise",
+    "summary": "The Nifty 50 closed at 25,800.6 on Friday, 20 November, up 1.12%, led by Nifty Bank's 2.49% gain, but 1,682 NSE stocks fell against 1,046 that rose.",
+    "source": "Oquilia",
+    "published": "2026-11-23T02:33:53.211000+00:00",
+    "ago": "6h",
+    "impact": "Neutral",
+    "why": "General market movement without specific fundamentals.",
+    "url": "https://www.oquilia.com/news/nifty-50-pre-market-23-november-2026",
+    "chips": {
+      "Nifty 50": "25,800.6",
+      "Gain": "1.12%"
+    },
+    "trend": [
+      0.5,
+      0.55,
+      0.45,
+      0.5,
+      0.47,
+      0.52,
+      0.5
+    ],
+    "color": "B7791F",
+    "premium": false,
+    "verbatim": false,
+    "src_title": "Pre-market: Nifty 50 starts the week at 25,800.6 after a 1.12% Friday rise",
+    "src_summary": "The Nifty 50 closed at 25,800.6 on Friday, 20 November, up 1.12%, led by Nifty Bank's 2.49% gain, but 1,682 NSE stocks fell against 1,046 that rose.",
+    "title_hi": "शुक्रवार की तेजी के बाद Nifty 50 ने 25,800.6 पर की हफ्ते की शुरुआत",
+    "summary_hi": "Nifty 50 शुक्रवार, 20 नवंबर को 1.12% बढ़कर 25,800.6 पर बंद हुआ, जिसका नेतृत्व Nifty Bank की 2.49% बढ़त ने किया, लेकिन 1,046 शेयरों के मुकाबले 1,682 NSE शेयर गिरे।",
+    "why_hi": "सामान्य बाजार गतिविधि।",
+    "chips_hi": {
+      "Nifty 50": "25,800.6",
+      "बढ़त": "1.12%"
+    }
+  },
+  {
+    "v": 3,
+    "cat": "Finance",
+    "tk": "FINANCE",
+    "title": "Foreign Assets of Small Taxpayers Disclosure Scheme 2026: asset valuation and 20% variance safe zone",
+    "summary": "FAST-DS 2026 values every foreign asset as on 31 March 2026 and protects declarations if the tax department's value differs by up to 20%. Rule-by-rule guide with worked examples.",
+    "source": "Oquilia",
+    "published": "2026-11-23T00:41:23.553000+00:00",
+    "ago": "8h",
+    "impact": "Neutral",
+    "why": "Tax disclosure scheme details for small taxpayers.",
+    "url": "https://www.oquilia.com/news/oquilia-research-fast-ds-2026-foreign-asset-valuation-rules-20-percent-variance",
+    "chips": {
+      "Scheme": "FAST-DS 2026",
+      "Date": "31 March 2026",
+      "Safe zone": "20%"
+    },
+    "trend": [
+      0.5,
+      0.55,
+      0.45,
+      0.5,
+      0.47,
+      0.52,
+      0.5
+    ],
+    "color": "B7791F",
+    "premium": false,
+    "verbatim": false,
+    "src_title": "Foreign Assets of Small Taxpayers Disclosure Scheme 2026: how assets are valued and the 20% variance safe zone",
+    "src_summary": "FAST-DS 2026 values every foreign asset as on 31 March 2026 and protects declarations if the tax department's value differs by up to 20%. Rule-by-rule guide with worked examples.",
+    "title_hi": "Foreign Assets of Small Taxpayers Disclosure Scheme 2026: संपत्तियों का मूल्यांकन और 20% अंतर सुरक्षित क्षेत्र",
+    "summary_hi": "FAST-DS 2026 के तहत 31 मार्च 2026 की स्थिति के अनुसार हर विदेशी संपत्ति का मूल्यांकन किया जाता है और यदि कर विभाग का मूल्य 20% तक भिन्न होता है तो घोषणाओं की सुरक्षा की जाती है।",
+    "why_hi": "छोटे करदाताओं के लिए कर प्रकटीकरण योजना विवरण।",
+    "chips_hi": {
+      "योजना": "FAST-DS 2026",
+      "तारीख": "31 मार्च 2026",
+      "सुरक्षित क्षेत्र": "20%"
+    }
+  },
+  {
+    "v": 3,
     "cat": "Companies",
     "tk": "APL APOLLO",
     "title": "APL Apollo to buy Tata Steel units in cash deals",
@@ -35,7 +281,9 @@
     "chips_hi": {
       "Colors सौदा": "Rs 16,300 cr",
       "Tubes सौदा": "Rs 11,700 cr"
-    }
+    },
+    "hi_tries": 0,
+    "hi_ver": 2
   },
   {
     "v": 3,
@@ -67,14 +315,15 @@
     "verbatim": false,
     "src_title": "SCSS after maturity: repeat three-year extensions, the Form-4 window and the 1% cost of closing an extended account early",
     "src_summary": "Since November 2023 an SCSS account can be extended in three-year blocks any number of times. How the Form-4 window works, which rate applies, the 1% early-closure cost and the tax on interest.",
-    "hi_tries": 1,
+    "hi_tries": 0,
     "title_hi": "परिपक्वता के बाद SCSS: तीन-साल के बार-बार विस्तार, Form-4 विंडो और समय से पहले बंद करने की लागत",
     "summary_hi": "नवंबर 2023 से SCSS खाते को अनगिनत बार तीन-साल के ब्लॉकों में बढ़ाया जा सकता है। जानिए Form-4 विंडो कैसे काम करती है, कौन सी दर लागू होती है, 1% समय से पहले बंद करने की लागत और ब्याज पर कर।",
     "why_hi": "स्कीम के नियमों पर सूचनात्मक गाइड।",
     "chips_hi": {
       "विस्तार": "3 साल",
       "समय से पहले बंद करने": "1%"
-    }
+    },
+    "hi_ver": 2
   },
   {
     "v": 3,
@@ -106,7 +355,8 @@
     "verbatim": false,
     "src_title": "Sending money abroad through an app: RBI's May 2026 framework for third-party outward remittance platforms",
     "src_summary": "RBI's A.P. (DIR Series) Circular No. 10 of May 13, 2026 ends case-by-case approval for remittance apps and lists what every screen and invoice must show a person sending money abroad.",
-    "hi_tries": 1
+    "hi_tries": 1,
+    "hi_ver": 2
   },
   {
     "v": 3,
@@ -142,7 +392,9 @@
     "why_hi": "नया ऑर्डर मिलने से आय बढ़ेगी।",
     "chips_hi": {
       "ऑर्डर मूल्य": "Rs 27.03 करोड़"
-    }
+    },
+    "hi_tries": 0,
+    "hi_ver": 2
   },
   {
     "v": 3,
@@ -1242,263 +1494,6 @@
     "why_hi": "कंपनी परिसमापन का सामना कर रही है।",
     "chips_hi": {
       "तारीख": "18 नवंबर 2026"
-    },
-    "hi_tries": 0,
-    "hi_ver": 2
-  },
-  {
-    "v": 3,
-    "cat": "Finance",
-    "tk": "FINANCE",
-    "title": "EPFO board approves systematic withdrawals and cuts PF minimum balance to 10%",
-    "summary": "EPFO's Central Board of Trustees approved a Systematic Withdrawal Plan for retiring members and cut the minimum PF balance from 25% to 10%, the Labour Ministry said on 19 November 2026.",
-    "source": "Oquilia",
-    "published": "2026-11-19T12:35:24.669000+00:00",
-    "ago": "5h",
-    "impact": "Neutral",
-    "why": "Policy update with unclear fundamental impact.",
-    "url": "https://www.oquilia.com/news/epfo-board-approves-systematic-withdrawal-plan-pf-minimum-balance-10",
-    "chips": {
-      "New PF Balance": "10%",
-      "Old PF Balance": "25%"
-    },
-    "trend": [
-      0.5,
-      0.55,
-      0.45,
-      0.5,
-      0.47,
-      0.52,
-      0.5
-    ],
-    "color": "B7791F",
-    "premium": false,
-    "verbatim": false,
-    "src_title": "EPFO board approves systematic withdrawals and cuts PF minimum balance to 10%",
-    "src_summary": "EPFO's Central Board of Trustees approved a Systematic Withdrawal Plan for retiring members and cut the minimum PF balance from 25% to 10%, the Labour Ministry said on 19 November 2026.",
-    "hi_tries": 2,
-    "hi_ver": 2
-  },
-  {
-    "v": 3,
-    "cat": "Companies",
-    "tk": "COMPANIES",
-    "title": "NCLT Ahmedabad admits Transstadia Holdings into insolvency; claims due by 1 December",
-    "summary": "The NCLT's Ahmedabad bench has admitted Transstadia Holdings Private Limited into insolvency, according to a public announcement, and creditors must file claims by 1 December 2026.",
-    "source": "Oquilia",
-    "published": "2026-11-19T12:34:52.904000+00:00",
-    "ago": "5h",
-    "impact": "Negative",
-    "why": "Company faces insolvency proceedings.",
-    "url": "https://www.oquilia.com/news/nclt-ahmedabad-admits-transstadia-holdings-insolvency-claims",
-    "chips": {
-      "Deadline": "1 December 2026"
-    },
-    "trend": [
-      0.95,
-      0.85,
-      0.7,
-      0.6,
-      0.4,
-      0.3,
-      0.1
-    ],
-    "color": "9B2C2C",
-    "premium": false,
-    "verbatim": false,
-    "src_title": "NCLT Ahmedabad admits Transstadia Holdings into insolvency; claims due by 1 December",
-    "src_summary": "The NCLT's Ahmedabad bench has admitted Transstadia Holdings Private Limited into insolvency, according to a public announcement, and creditors must file claims by 1 December 2026.",
-    "hi_tries": 0,
-    "title_hi": "NCLT अहमदाबाद ने Transstadia Holdings को दिवालियापन में स्वीकार किया; 1 December तक दावे देय हैं",
-    "summary_hi": "एक सार्वजनिक घोषणा के अनुसार, NCLT की अहमदाबाद पीठ ने Transstadia Holdings Private Limited को दिवालियापन में स्वीकार कर लिया है, और लेनदारों को 1 December 2026 तक अपने दावे प्रस्तुत करने होंगे।",
-    "why_hi": "कंपनी दिवालियापन की कार्यवाही का सामना कर रही है।",
-    "chips_hi": {
-      "अंतिम तिथि": "1 December 2026"
-    },
-    "hi_ver": 2
-  },
-  {
-    "v": 3,
-    "cat": "Companies",
-    "tk": "COMPANIES",
-    "title": "G-TEC Jainx Education joint managing director resigns after share sale",
-    "summary": "G-TEC Jainx Education Limited said in a filing with the National Stock Exchange that its joint managing director resigned on 19 November 2026, after agreeing to sell a 12% stake.",
-    "source": "Oquilia",
-    "published": "2026-11-19T11:46:17.838000+00:00",
-    "ago": "6h",
-    "impact": "Neutral",
-    "why": "Management change after stake sale.",
-    "url": "https://www.oquilia.com/news/g-tec-jainx-education-joint-managing-director-resigns-share-sale",
-    "chips": {
-      "Stake sold": "12%"
-    },
-    "trend": [
-      0.5,
-      0.55,
-      0.45,
-      0.5,
-      0.47,
-      0.52,
-      0.5
-    ],
-    "color": "B7791F",
-    "premium": false,
-    "verbatim": false,
-    "src_title": "G-TEC Jainx Education joint managing director resigns after share sale",
-    "src_summary": "G-TEC Jainx Education Limited said in a filing with the National Stock Exchange that its joint managing director resigned on 19 November 2026, after agreeing to sell a 12% stake.",
-    "title_hi": "G-TEC Jainx Education के संयुक्त प्रबंध निदेशक ने शेयर बिक्री के बाद दिया इस्तीफा",
-    "summary_hi": "G-TEC Jainx Education Limited ने नेशनल स्टॉक एक्सचेंज को दी गई फाइलिंग में कहा कि उसके संयुक्त प्रबंध निदेशक ने 19 November 2026 को 12% हिस्सेदारी बेचने पर सहमति जताने के बाद इस्तीफा दे दिया।",
-    "why_hi": "हिस्सेदारी बिक्री के बाद प्रबंधन में बदलाव।",
-    "chips_hi": {
-      "हिस्सेदारी": "12%"
-    },
-    "hi_tries": 0,
-    "hi_ver": 2
-  },
-  {
-    "v": 3,
-    "cat": "Finance",
-    "tk": "FINANCE",
-    "title": "NHAI says insurance renewal SMS alerts carry no challans or penalties at toll plazas",
-    "summary": "NHAI said on 19 November 2026 that SMS alerts on vehicle insurance renewal sent to some highway users are part of a test of an awareness initiative and bring no challans or toll plaza penalties.",
-    "source": "Oquilia",
-    "published": "2026-11-19T10:34:21.857000+00:00",
-    "ago": "8h",
-    "impact": "Neutral",
-    "why": "Only a test alert, no financial impact.",
-    "url": "https://www.oquilia.com/news/nhai-insurance-renewal-sms-alerts-no-challans-toll-plazas",
-    "chips": {
-      "Date": "19 November 2026"
-    },
-    "trend": [
-      0.5,
-      0.55,
-      0.45,
-      0.5,
-      0.47,
-      0.52,
-      0.5
-    ],
-    "color": "B7791F",
-    "premium": false,
-    "verbatim": false,
-    "src_title": "NHAI says insurance renewal SMS alerts carry no challans or penalties at toll plazas",
-    "src_summary": "NHAI said on 19 November 2026 that SMS alerts on vehicle insurance renewal sent to some highway users are part of a test of an awareness initiative and bring no challans or toll plaza penalties.",
-    "hi_tries": 2,
-    "hi_ver": 2
-  },
-  {
-    "v": 3,
-    "cat": "Finance",
-    "tk": "FINANCE",
-    "title": "Can a government withhold pension or gratuity while a case is pending? Supreme Court answers in Jitendra Kumar Srivastava",
-    "summary": "The Supreme Court held on 14 August 2013 that without a pension rule allowing it, a State cannot withhold pension, gratuity or leave encashment during a pending inquiry. Tax and costs explained.",
-    "source": "Oquilia",
-    "published": "2026-11-19T10:33:58.589000+00:00",
-    "ago": "8h",
-    "impact": "Neutral",
-    "why": "Legal clarification on pension withholding rights.",
-    "url": "https://www.oquilia.com/news/oquilia-research-pension-withheld-pending-inquiry-article-300a-jitendra-srivastava",
-    "chips": {
-      "Date": "14 August 2013"
-    },
-    "trend": [
-      0.5,
-      0.55,
-      0.45,
-      0.5,
-      0.47,
-      0.52,
-      0.5
-    ],
-    "color": "B7791F",
-    "premium": false,
-    "verbatim": false,
-    "src_title": "Can a government withhold pension or gratuity while a case is pending? The Supreme Court's Article 300A answer in Jitendra Kumar Srivastava",
-    "src_summary": "The Supreme Court held on 14 August 2013 that without a pension rule allowing it, a State cannot withhold pension, gratuity or leave encashment during a pending inquiry. Tax and costs explained.",
-    "title_hi": "क्या मामला लंबित रहने पर सरकार पेंशन या ग्रेच्युटी रोक सकती है? Jitendra Kumar Srivastava मामले में सुप्रीम कोर्ट का जवाब",
-    "summary_hi": "सुप्रीम कोर्ट ने 14 अगस्त 2013 को फैसला सुनाया कि पेंशन नियम के बिना, कोई राज्य लंबित जांच के दौरान पेंशन, ग्रेच्युटी या छुट्टी का नकदीकरण नहीं रोक सकता है। कर और लागत स्पष्ट की गई।",
-    "why_hi": "पेंशन रोकने के अधिकारों पर कानूनी स्पष्टीकरण",
-    "chips_hi": {
-      "तारीख": "14 August 2013"
-    },
-    "hi_tries": 0,
-    "hi_ver": 2
-  },
-  {
-    "v": 3,
-    "cat": "Finance",
-    "tk": "FINANCE",
-    "title": "NRI Working for a Foreign Employer During a Long India Visit? Section 9(3) Can Make That Salary Taxable in India",
-    "summary": "Section 9(3) of the Income-tax Act, 2025 treats salary for work done in India as Indian-source, even if a foreign employer pays it abroad. How NRIs apportion it, compute tax and claim treaty relief.",
-    "source": "Oquilia",
-    "published": "2026-11-19T09:06:54.336000+00:00",
-    "ago": "9h",
-    "impact": "Negative",
-    "why": "Increases potential tax burden for NRIs.",
-    "url": "https://www.oquilia.com/news/oquilia-research-nri-working-remotely-from-india-salary-deemed-accrual-section-9",
-    "chips": {
-      "Act": "Income-tax Act, 2025",
-      "Section": "9(3)"
-    },
-    "trend": [
-      0.95,
-      0.85,
-      0.7,
-      0.6,
-      0.4,
-      0.3,
-      0.1
-    ],
-    "color": "9B2C2C",
-    "premium": false,
-    "verbatim": false,
-    "src_title": "NRI Working for a Foreign Employer During a Long India Visit? Section 9(3) Can Make That Salary Taxable in India",
-    "src_summary": "Section 9(3) of the Income-tax Act, 2025 treats salary for work done in India as Indian-source, even if a foreign employer pays it abroad. How NRIs apportion it, compute tax and claim treaty relief.",
-    "hi_tries": 1,
-    "hi_ver": 2,
-    "title_hi": "विदेशी नियोक्ता के लिए काम करने वाला एनआरआई भारत की लंबी यात्रा पर? धारा 9(3) इस वेतन को भारत में कर योग्य बना सकती है",
-    "summary_hi": "आयकर अधिनियम, 2025 की धारा 9(3) भारत में किए गए काम के वेतन को भारतीय स्रोत मानती है, भले ही कोई विदेशी नियोक्ता इसका भुगतान विदेश में करे। एनआरआई कैसे इसका निर्धारण करते हैं, कर की गणना करते हैं और संधि राहत का दावा करते हैं।",
-    "why_hi": "एनआरआई पर संभावित कर का बोझ बढ़ाता है।",
-    "chips_hi": {
-      "अिनियम": "Income-tax Act, 2025",
-      "धारा": "9(3)"
-    }
-  },
-  {
-    "v": 3,
-    "cat": "Companies",
-    "tk": "JUBILANT",
-    "title": "Jubilant Ingrevia says its chief financial officer has resigned",
-    "summary": "Jubilant Ingrevia said in a filing with the National Stock Exchange that its chief financial officer has resigned, effective close of business on 30 November 2026, citing a better opportunity.",
-    "source": "Oquilia",
-    "published": "2026-11-19T06:46:12.972000+00:00",
-    "ago": "2h",
-    "impact": "Neutral",
-    "why": "CFO resignation due to better opportunity.",
-    "url": "https://www.oquilia.com/news/jubilant-ingrevia-chief-financial-officer-resigns",
-    "chips": {
-      "Effective Date": "30 November 2026"
-    },
-    "trend": [
-      0.5,
-      0.55,
-      0.45,
-      0.5,
-      0.47,
-      0.52,
-      0.5
-    ],
-    "color": "B7791F",
-    "premium": false,
-    "verbatim": false,
-    "src_title": "Jubilant Ingrevia says its chief financial officer has resigned, effective 30 November",
-    "src_summary": "Jubilant Ingrevia said in a filing with the National Stock Exchange that its chief financial officer has resigned, effective close of business on 30 November 2026, citing a better opportunity.",
-    "title_hi": "Jubilant Ingrevia ने कहा कि उसके मुख्य वित्तीय अधिकारी ने इस्तीफा दे दिया है",
-    "summary_hi": "Jubilant Ingrevia ने National Stock Exchange को दी गई एक फाइलिंग में कहा कि उसके मुख्य वित्तीय अधिकारी ने बेहतर अवसर का हवाला देते हुए 30 नवंबर 2026 को कारोबार बंद होने पर इस्तीफा दे दिया है।",
-    "why_hi": "बेहतर अवसर के कारण CFO का इस्तीफा।",
-    "chips_hi": {
-      "प्रभावी तिथि": "30 नवंबर 2026"
     },
     "hi_tries": 0,
     "hi_ver": 2
