@@ -35,7 +35,9 @@
     "chips_hi": {
       "डिफ़ॉल्ट": "Rs 1,606.89 crore",
       "कुल": "Rs 2,574.62 crore"
-    }
+    },
+    "hi_tries": 0,
+    "hi_ver": 2
   },
   {
     "v": 3,
@@ -71,7 +73,9 @@
     "why_hi": "कॉ कॉर्पोरेट कार्यालय में DRI की तलाशी।",
     "chips_hi": {
       "तारीख": "23 नवंबर 2026"
-    }
+    },
+    "hi_tries": 0,
+    "hi_ver": 2
   },
   {
     "v": 3,
@@ -102,7 +106,8 @@
     "verbatim": false,
     "src_title": "NSE shut on 24 November for Prakash Gurpurb Sri Guru Nanak Dev; next holiday is 25 December",
     "src_summary": "The National Stock Exchange is closed for trading on Tuesday, 24 November 2026, for Prakash Gurpurb Sri Guru Nanak Dev, as set out in its 2026 holiday circulars. The last weekday holiday of the year is Christmas.",
-    "hi_tries": 1
+    "hi_tries": 1,
+    "hi_ver": 2
   },
   {
     "v": 3,
@@ -134,14 +139,15 @@
     "verbatim": false,
     "src_title": "Clean Max to sell 26% of new unit to GACL, invest up to Rs 214.49 crore",
     "src_summary": "Clean Max Enviro Energy Solutions said in an NSE filing that its board approved selling a 26% stake in Clean Max Gangotri to Gujarat Alkalies and Chemicals.",
-    "hi_tries": 1,
+    "hi_tries": 0,
     "title_hi": "Clean Max GACL को अपनी नई यूनिट का 26% बेचेगा, 214.49 करोड़ रुपये तक का निवेश करेगा",
     "summary_hi": "Clean Max Enviro Energy Solutions ने एक NSE फाइलिंग में कहा कि उसके बोर्ड ने Clean Max Gangotri में 26% हिस्सेदारी Gujarat Alkalies and Chemicals को बेचने की मंजूरी दे दी है।",
     "why_hi": "रणनीतिक हिस्सेदारी की बिक्री और नियोजित निवेश।",
     "chips_hi": {
       "हिस्सेदारी": "26%",
       "निवेश": "Rs 214.49 crore"
-    }
+    },
+    "hi_ver": 2
   },
   {
     "v": 3,
@@ -173,14 +179,15 @@
     "verbatim": false,
     "src_title": "Matangi Rubber files RHP; IPO of 72.77 lakh shares opens December 1",
     "src_summary": "Matangi Rubber's RHP dated November 20, 2026 sets an IPO of up to 72,76,981 shares, a fresh issue plus an offer for sale, open from December 1 to 3 for listing on BSE and NSE.",
-    "hi_tries": 1,
+    "hi_tries": 0,
     "title_hi": "Matangi Rubber ने IPO के लिए RHP दाखिल किया, 1 दिसंबर को खुलेगा",
     "summary_hi": "20 नवंबर 2026 के Matangi Rubber के RHP में 72,76,981 शेयरों तक के IPO की बात कही गई है, जिसमें फ्रेश इश्यू और ऑफर फॉर सेल शामिल है। यह BSE और NSE पर लिस्टिंग के लिए 1 से 3 दिसंबर तक खुला रहेगा।",
     "why_hi": "IPO दाखिल करना एक मानक कॉर्पोरेट कार्रवाई है।",
     "chips_hi": {
       "शेयर": "72,76,981",
       "खुलता है": "December 1"
-    }
+    },
+    "hi_ver": 2
   },
   {
     "v": 3,
@@ -220,7 +227,9 @@
       "Nifty 50": "25,349.65",
       "गिरावट": "1.75%",
       "बैंक गिरावट": "3.17%"
-    }
+    },
+    "hi_tries": 0,
+    "hi_ver": 2
   },
   {
     "v": 3,
@@ -251,13 +260,14 @@
     "verbatim": false,
     "src_title": "Received a Form 121 nil-tax declaration? How deductors file it by the 7th and build the 26-character UIN",
     "src_summary": "Deductors holding Form 121 nil-tax declarations must file them quarterly by the 7th of the following month, with a 26-character UIN per declarant. Step-by-step guide.",
-    "hi_tries": 1,
+    "hi_tries": 0,
     "title_hi": "Form 121 nil-tax declaration मिला? deductors इसे 7th तक कैसे दाखिल करें और UIN कैसे बनाएं",
     "summary_hi": "Form 121 nil-tax declarations रखने वाले deductors को उन्हें अगले महीने की 7th तक त्रैमासिक (quarterly) आधार पर दाखिल करना होगा, जिसमें प्रत्येक declarant के लिए 26-character का UIN होगा। स्टेप-बाय-स्टेप गाइड।",
     "why_hi": "Procedural tax filing update with no fundamental impact.",
     "chips_hi": {
       "डadline": "7th"
-    }
+    },
+    "hi_ver": 2
   },
   {
     "v": 3,
@@ -599,7 +609,7 @@
     "verbatim": false,
     "src_title": "RBI sets Rs 1 crore minimum investment in bank securitisation notes from April 2027",
     "src_summary": "RBI said on 23 November 2026 that securitisation notes issued under its commercial bank rules must be in demat form, with a minimum ticket size of Rs 1 crore per investor from 1 April 2027.",
-    "hi_tries": 1,
+    "hi_tries": 2,
     "hi_ver": 2
   },
   {
@@ -631,7 +641,7 @@
     "verbatim": false,
     "src_title": "RBI proposes more customer control over digital banking channels to curb fraud",
     "src_summary": "RBI has issued draft rules to give bank customers greater control over how digital payment channels are used and to widen what counts as negligence by a bank. Comments are open until 14 December 2026.",
-    "hi_tries": 1,
+    "hi_tries": 2,
     "hi_ver": 2
   },
   {
@@ -668,7 +678,9 @@
     "why_hi": "स्वतंत्र निदेशक का नियमित इस्तीफा।",
     "chips_hi": {
       "इस्तीफा तिथि": "23 नवंबर 2026"
-    }
+    },
+    "hi_tries": 0,
+    "hi_ver": 2
   },
   {
     "v": 3,
@@ -700,7 +712,8 @@
     "verbatim": true,
     "src_title": "Leaving UPS for NPS: the one-time, one-way switch, its deadlines and what happens to the extra 4% government contribution",
     "src_summary": "PFRDA's UPS FAQ lets Central Government staff revert to NPS once, up to 12 months before superannuation. The 4% gap is credited, but the assured payout is lost. Rules, tax and a worked drawdown.",
-    "hi_tries": 1
+    "hi_tries": 1,
+    "hi_ver": 2
   },
   {
     "v": 3,
