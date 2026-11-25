@@ -1,6 +1,218 @@
 [
   {
     "v": 3,
+    "cat": "Earnings",
+    "tk": "SIEMENS ENERGY",
+    "title": "Siemens Energy India Q4 net profit rises 81.5% to Rs 652.5 crore",
+    "summary": "Siemens Energy India said in its NSE filing that net profit for the quarter ended 30 September 2026 rose 81.5% to Rs 652.5 crore, and recommended a Rs 12 per share dividend.",
+    "source": "Oquilia",
+    "published": "2026-11-25T15:46:55.389000+00:00",
+    "ago": "6h",
+    "impact": "Positive",
+    "why": "Strong profit growth and dividend recommendation.",
+    "url": "https://www.oquilia.com/news/siemens-energy-india-q4-results-net-profit-rises-81-percent",
+    "chips": {
+      "Net Profit Rise": "81.5%",
+      "Net Profit": "Rs 652.5 crore",
+      "Dividend": "Rs 12 per share"
+    },
+    "trend": [
+      0.1,
+      0.25,
+      0.2,
+      0.5,
+      0.45,
+      0.8,
+      0.95
+    ],
+    "color": "0F766E",
+    "premium": false,
+    "verbatim": false,
+    "src_title": "Siemens Energy India Q4 results: net profit rises 81.5% to Rs 652.5 crore",
+    "src_summary": "Siemens Energy India said in its NSE filing that net profit for the quarter ended 30 September 2026 rose 81.5% to Rs 652.5 crore, and recommended a Rs 12 per share dividend.",
+    "title_hi": "Siemens Energy India का Q4 शुद्ध लाभ 81.5% बढ़कर 652.5 करोड़ रुपये हुआ",
+    "summary_hi": "Siemens Energy India ने अपने NSE फाइलिंग में कहा कि 30 सितंबर 2026 को समाप्त तिमाही के लिए शुद्ध लाभ 81.5% बढ़कर 652.5 करोड़ रुपये हो गया, और प्रति शेयर 12 रुपये के लाभांश की सिफारिश की।",
+    "why_hi": "मजबूत लाभ वृद्धि और लाभांश सिफारिश।",
+    "chips_hi": {
+      "शुद्ध लाभ वृद्धि": "81.5%",
+      "शुद्ध लाभ": "652.5 करोड़ रुपये",
+      "लाभांश": "12 रुपये प्रति शेयर"
+    }
+  },
+  {
+    "v": 3,
+    "cat": "Markets",
+    "tk": "MARKETS",
+    "title": "Nifty 50 ends 1.85% higher at 25,819.25 as FMCG leads and smallcaps slip",
+    "summary": "The Nifty 50 rose 469.60 points or 1.85% to close at 25,819.25 on 25 November 2026, but declines beat advances on NSE by 1,560 to 1,183, with 31 unchanged.",
+    "source": "Oquilia",
+    "published": "2026-11-25T13:38:53.870000+00:00",
+    "ago": "9h",
+    "impact": "Positive",
+    "why": "Nifty 50 index rose significantly.",
+    "url": "https://www.oquilia.com/news/stock-market-today-nifty-50-closing-25-november-2026",
+    "chips": {
+      "Nifty 50": "25,819.25",
+      "Gain": "1.85%",
+      "Points": "469.60"
+    },
+    "trend": [
+      0.1,
+      0.25,
+      0.2,
+      0.5,
+      0.45,
+      0.8,
+      0.95
+    ],
+    "color": "0F766E",
+    "premium": false,
+    "verbatim": false,
+    "src_title": "Nifty 50 ends 1.85% higher at 25,819.25 as FMCG leads and smallcaps slip",
+    "src_summary": "The Nifty 50 rose 469.60 points or 1.85% to close at 25,819.25 on 25 November 2026, but declines beat advances on NSE by 1,560 to 1,183, with 31 unchanged.",
+    "title_hi": "Nifty 50 ने 1.85% बढ़कर 25,819.25 पर बंद किया, FMCG आगे और स्मॉलकैप गिरे",
+    "summary_hi": "Nifty 50 25 नवंबर 2026 को 469.60 अंक या 1.85% बढ़कर 25,819.25 पर बंद हुआ, लेकिन NSE पर बढ़त के मुकाबले गिरावट वाले शेयर 1,560 से 1,183 रहे, और 31 अपरिवर्तित रहे।",
+    "why_hi": "Nifty 50 इंडेक्स में भारी बढ़त।",
+    "chips_hi": {
+      "Nifty 50": "25,819.25",
+      "बढ़त": "1.85%",
+      "अंक": "469.60"
+    }
+  },
+  {
+    "v": 3,
+    "cat": "Companies",
+    "tk": "COMPANIES",
+    "title": "NCLT Ahmedabad lets Rasna exit insolvency after Rs 71.27 lakh settlement",
+    "summary": "The NCLT Ahmedabad bench on 17 November 2026 allowed the insolvency process against Rasna Private Limited to be withdrawn after it settled an operational creditor's claim of Rs 71,27,442.",
+    "source": "Oquilia",
+    "published": "2026-11-25T13:37:38.189000+00:00",
+    "ago": "9h",
+    "impact": "Positive",
+    "why": "Insolvency withdrawal relieves financial distress.",
+    "url": "https://www.oquilia.com/news/nclt-ahmedabad-lets-rasna-exit-insolvency-after-settlement",
+    "chips": {
+      "Settlement": "Rs 71.27 lakh",
+      "Date": "17 Nov 2026"
+    },
+    "trend": [
+      0.1,
+      0.25,
+      0.2,
+      0.5,
+      0.45,
+      0.8,
+      0.95
+    ],
+    "color": "0F766E",
+    "premium": false,
+    "verbatim": false,
+    "src_title": "NCLT Ahmedabad lets Rasna exit insolvency after Rs 71.27 lakh settlement with creditor",
+    "src_summary": "The NCLT Ahmedabad bench on 17 November 2026 allowed the insolvency process against Rasna Private Limited to be withdrawn after it settled an operational creditor's claim of Rs 71,27,442.",
+    "hi_tries": 1
+  },
+  {
+    "v": 3,
+    "cat": "Companies",
+    "tk": "SULABH",
+    "title": "NCLT Mumbai admits Sulabh Pharmaceutical into insolvency",
+    "summary": "The NCLT Mumbai bench admitted Sulabh Pharmaceutical Pvt. Ltd. into the corporate insolvency resolution process on 23 November 2026, on the company's own plea over Rs 17.40 crore of debt.",
+    "source": "Oquilia",
+    "published": "2026-11-25T13:35:27.101000+00:00",
+    "ago": "9h",
+    "impact": "Negative",
+    "why": "Company admitted into insolvency over debt.",
+    "url": "https://www.oquilia.com/news/nclt-mumbai-admits-sulabh-pharmaceutical-into-insolvency",
+    "chips": {
+      "Debt": "Rs 17.40 crore",
+      "Date": "23 November 2026"
+    },
+    "trend": [
+      0.95,
+      0.85,
+      0.7,
+      0.6,
+      0.4,
+      0.3,
+      0.1
+    ],
+    "color": "9B2C2C",
+    "premium": false,
+    "verbatim": false,
+    "src_title": "NCLT Mumbai admits Sulabh Pharmaceutical into insolvency on its own application",
+    "src_summary": "The NCLT Mumbai bench admitted Sulabh Pharmaceutical Pvt. Ltd. into the corporate insolvency resolution process on 23 November 2026, on the company's own plea over Rs 17.40 crore of debt.",
+    "title_hi": "NCLT मुंबई ने Sulabh Pharmaceutical को दिवालियापन में स्वीकार किया",
+    "summary_hi": "NCLT मुंबई बेंच ने 23 नवंबर 2026 को 17.40 करोड़ रुपये के कर्ज पर कंपनी की खुद की याचिका पर Sulabh Pharmaceutical Pvt. Ltd. को कॉर् कॉर्पोरेट दिवालियापन समाधान प्रक्रिया में स्वीकार कर लिया।",
+    "why_hi": "कंपनी कर्ज के कारण दिवालियापन में स्वीकार।",
+    "chips_hi": {
+      "कर्ज": "Rs 17.40 crore",
+      "तारीख": "23 November 2026"
+    }
+  },
+  {
+    "v": 3,
+    "cat": "Markets",
+    "tk": "MARKETS",
+    "title": "Zimbabwe's Lithium Ore Export Ban Stays in Force in January 2026",
+    "summary": "Zimbabwe's 2022 ban on exports of unprocessed lithium ore remains in force in January 2026, requiring buyers that previously sourced raw ore from the country to either source processed material or look to other countries for raw ore. The ban was introduced in 2022 and was still in force in January 2026, according to a data brief dated Nov. 25, 2026. Under the rule, raw lithium ore mined in Zimbabwe cannot be shipped abroad without first being processed domestically. Buyers who previously imported unprocessed ore directly from Zimbabwe must now either secure processed lithium material or look to other countries for raw ore. Morocco has introduced a separate requirement, also in force in January 2026, under which shipments of refined copper, copper alloys and aluminum ingots leaving the country must receive government export licenses before they can ship, adding a regulatory approval step for buyers of those metals. A handful of other figures bear on how concentrated the supply of related materials remains. China produced 79% of the world's tungsten in 2025, a material used in cutting tools, drill bits and electronics. China also accounted for 75% of world vanadium production and 80% of world tellurium production in 2025, according to the same set of figures. Indonesia produced 67% of the world's nickel in 2025, a material used in stainless steel and in rechargeable batteries for electric vehicles. On the import side, the United States relied on imports for 100% of its apparent tantalum consumption in 2025 and 100% of its apparent rubidium consumption in 2025. Tantalum is used in capacitors found in smartphones, laptops and medical devices, while rubidium is used in atomic clocks, research instruments and certain specialty glass. The United States also relied on imports for 92% of its apparent bismuth consumption in 2025, a material used in pharmaceuticals, low melting alloys and as a replacement for lead in some applications. Reserve figures for related materials also point to where supply could originate in coming years. India held 650,000 thousand metric dry tons of bauxite reserves in 2025, the ore used to produce aluminum. Kazakhstan held 20,000,000 metric tons of asbestos reserves in 2025, while countries outside the leading named reserve holders accounted for 200,000 tons of caesium reserves in 2025. Both the Zimbabwe lithium ore ban and the Morocco export licensing requirement are listed as being in force as of January 2026, with no additional implementation or review dates given for either measure. This story was written by AI and published automatically after automated accuracy, compliance and risk checks; it was not reviewed by a human editor before publication. Figures come from public data as of the dates shown and may contain errors. It is general financial information, not investment advice: verify figures against primary sources before relying on them. Originally reported by Capital Data Wire: https://capitaldatawire.com/stories/zimbabwe-s-lithium-ore-export-ban-stays-in-force-in-january-2026",
+    "source": "Capital Data Wire",
+    "published": "2026-11-25T12:51:53+00:00",
+    "ago": "9h",
+    "impact": "Neutral",
+    "why": "Export ban remains unchanged.",
+    "url": "https://capitaldatawire.com/stories/zimbabwe-s-lithium-ore-export-ban-stays-in-force-in-january-2026",
+    "chips": {
+      "Tungsten share": "79%",
+      "Nickel share": "67%",
+      "Bauxite reserves": "650,000 thousand met"
+    },
+    "trend": [
+      0.5,
+      0.55,
+      0.45,
+      0.5,
+      0.47,
+      0.52,
+      0.5
+    ],
+    "color": "B7791F",
+    "premium": false,
+    "verbatim": true,
+    "src_title": "Zimbabwe's Lithium Ore Export Ban Stays in Force in January 2026",
+    "src_summary": "Zimbabwe's 2022 ban on exports of unprocessed lithium ore remains in force in January 2026, requiring buyers that previously sourced raw ore from the country to either source processed material or look to other countries for raw ore. The ban was introduced in 2022 and was still in force in January 2026, according to a data brief dated Nov. 25, 2026. Under the rule, raw lithium ore mined in Zimbabwe cannot be shipped abroad without first being processed domestically. Buyers who previously imported unprocessed ore directly from Zimbabwe must now either secure processed lithium material or look t",
+    "hi_tries": 1
+  },
+  {
+    "v": 3,
+    "cat": "Finance",
+    "tk": "FINANCE",
+    "title": "UPS and discipline: what dismissal, compulsory retirement or a pending inquiry does to the assured payout",
+    "summary": "PFRDA's UPS FAQs: dismissal forfeits the assured payout, penal compulsory retirement pays two-thirds to full, and a pending inquiry means a lump sum until exoneration.",
+    "source": "Oquilia",
+    "published": "2026-11-25T10:33:42.652000+00:00",
+    "ago": "12h",
+    "impact": "Neutral",
+    "why": "Explains pension rules for disciplinary actions.",
+    "url": "https://www.oquilia.com/news/oquilia-research-ups-dismissal-compulsory-retirement-pending-proceedings-payout",
+    "chips": {},
+    "trend": [
+      0.5,
+      0.55,
+      0.45,
+      0.5,
+      0.47,
+      0.52,
+      0.5
+    ],
+    "color": "B7791F",
+    "premium": false,
+    "verbatim": false,
+    "src_title": "UPS and discipline: what dismissal, compulsory retirement or a pending inquiry does to the assured payout",
+    "src_summary": "PFRDA's UPS FAQs: dismissal forfeits the assured payout, penal compulsory retirement pays two-thirds to full, and a pending inquiry means a lump sum until exoneration.",
+    "hi_tries": 1
+  },
+  {
+    "v": 3,
     "cat": "Companies",
     "tk": "IL&FS",
     "title": "IL&FS Transportation Networks discloses default on Rs 75 crore NCDs",
@@ -29,14 +241,15 @@
     "verbatim": false,
     "src_title": "IL&FS Transportation Networks discloses default on Rs 75 crore NCDs",
     "src_summary": "IL&FS Transportation Networks told the National Stock Exchange it could not pay interest and part principal due on 25 November 2026 on a Rs 75 crore debenture series, citing NCLAT orders.",
-    "hi_tries": 1,
+    "hi_tries": 0,
     "title_hi": "IL&FS Transportation Networks ने 75 करोड़ रुपये के NCDs पर डिफॉल्ट की जानकारी दी",
     "summary_hi": "NCLAT के आदेशों का हवाला देते हुए IL&FS Transportation Networks ने नेशनल स्टॉक एक्सचेंज को बताया कि वह 75 करोड़ रुपये की डिबेंचर सीरीज़ पर 25 नवंबर 2026 को देय ब्याज और आंशिक मूलधन का भुगतान नहीं कर सका।",
     "why_hi": "कंपनी ने ऋण के ब्याज और मूलधन पर डिफॉल्ट किया।",
     "chips_hi": {
       "NCD डिफॉल्ट": "75 करोड़ रुपये",
       "देय तिथि": "25 नवंबर 2026"
-    }
+    },
+    "hi_ver": 2
   },
   {
     "v": 3,
@@ -67,7 +280,8 @@
     "verbatim": false,
     "src_title": "Inherited money stuck in India: how a non-resident widow, widower or foreign-citizen heir remits it under FEMA 13(R)",
     "src_summary": "RBI's Remittance of Assets rules let a non-resident widow, widower or foreign-citizen heir remit up to USD 1 million a financial year of inherited money. Who qualifies, tax and RBI approval.",
-    "hi_tries": 1
+    "hi_tries": 1,
+    "hi_ver": 2
   },
   {
     "v": 3,
@@ -105,7 +319,9 @@
     "chips_hi": {
       "फाइलिंग तिथि": "25 November 2026",
       "इस्तीफा तिथि": "24 November 2026"
-    }
+    },
+    "hi_tries": 0,
+    "hi_ver": 2
   },
   {
     "v": 3,
@@ -145,7 +361,9 @@
       "Tubes कारोबार": "Rs 11,700 crore",
       "Tata Steel Colors": "Rs 16,300 crore",
       "ओपन ऑफर": "Rs 2,301.40"
-    }
+    },
+    "hi_tries": 0,
+    "hi_ver": 2
   },
   {
     "v": 3,
@@ -181,7 +399,9 @@
     "why_hi": "CFO का इस्तीफा एक नियमित कॉर्पोरेट बदलाव है।",
     "chips_hi": {
       "तारीख": "24 November 2026"
-    }
+    },
+    "hi_tries": 0,
+    "hi_ver": 2
   },
   {
     "v": 3,
@@ -219,7 +439,9 @@
     "chips_hi": {
       "शेयर": "2,70,00,000",
       "खुलने की तिथि": "2 December"
-    }
+    },
+    "hi_tries": 0,
+    "hi_ver": 2
   },
   {
     "v": 3,
@@ -255,7 +477,9 @@
     "why_hi": "191.23 करोड़ रुपये की टैक्स मांग रद्द।",
     "chips_hi": {
       "टैक्स मांग": "Rs 191.23 cr"
-    }
+    },
+    "hi_tries": 0,
+    "hi_ver": 2
   },
   {
     "v": 3,
@@ -295,7 +519,9 @@
       "Nifty 50": "25,349.65",
       "गिरावट": "1.75%",
       "Nifty Bank": "3.17%"
-    }
+    },
+    "hi_tries": 0,
+    "hi_ver": 2
   },
   {
     "v": 3,
@@ -335,7 +561,9 @@
       "Notification": "141/2026",
       "Date": "1 April 2026",
       "Form": "Form 1(N)"
-    }
+    },
+    "hi_tries": 0,
+    "hi_ver": 2
   },
   {
     "v": 3,
@@ -1264,237 +1492,6 @@
     "chips_hi": {
       "Nifty 50": "25,800.6",
       "बढ़त": "1.12%"
-    },
-    "hi_tries": 0,
-    "hi_ver": 2
-  },
-  {
-    "v": 3,
-    "cat": "Finance",
-    "tk": "FINANCE",
-    "title": "Foreign Assets of Small Taxpayers Disclosure Scheme 2026: asset valuation and 20% variance safe zone",
-    "summary": "FAST-DS 2026 values every foreign asset as on 31 March 2026 and protects declarations if the tax department's value differs by up to 20%. Rule-by-rule guide with worked examples.",
-    "source": "Oquilia",
-    "published": "2026-11-23T00:41:23.553000+00:00",
-    "ago": "8h",
-    "impact": "Neutral",
-    "why": "Tax disclosure scheme details for small taxpayers.",
-    "url": "https://www.oquilia.com/news/oquilia-research-fast-ds-2026-foreign-asset-valuation-rules-20-percent-variance",
-    "chips": {
-      "Scheme": "FAST-DS 2026",
-      "Date": "31 March 2026",
-      "Safe zone": "20%"
-    },
-    "trend": [
-      0.5,
-      0.55,
-      0.45,
-      0.5,
-      0.47,
-      0.52,
-      0.5
-    ],
-    "color": "B7791F",
-    "premium": false,
-    "verbatim": false,
-    "src_title": "Foreign Assets of Small Taxpayers Disclosure Scheme 2026: how assets are valued and the 20% variance safe zone",
-    "src_summary": "FAST-DS 2026 values every foreign asset as on 31 March 2026 and protects declarations if the tax department's value differs by up to 20%. Rule-by-rule guide with worked examples.",
-    "title_hi": "Foreign Assets of Small Taxpayers Disclosure Scheme 2026: संपत्तियों का मूल्यांकन और 20% अंतर सुरक्षित क्षेत्र",
-    "summary_hi": "FAST-DS 2026 के तहत 31 मार्च 2026 की स्थिति के अनुसार हर विदेशी संपत्ति का मूल्यांकन किया जाता है और यदि कर विभाग का मूल्य 20% तक भिन्न होता है तो घोषणाओं की सुरक्षा की जाती है।",
-    "why_hi": "छोटे करदाताओं के लिए कर प्रकटीकरण योजना विवरण।",
-    "chips_hi": {
-      "योजना": "FAST-DS 2026",
-      "तारीख": "31 मार्च 2026",
-      "सुरक्षित क्षेत्र": "20%"
-    },
-    "hi_tries": 0,
-    "hi_ver": 2
-  },
-  {
-    "v": 3,
-    "cat": "Companies",
-    "tk": "APL APOLLO",
-    "title": "APL Apollo to buy Tata Steel units in cash deals",
-    "summary": "APL Apollo Tubes told the National Stock Exchange its board approved buying Tata Steel Colors for Rs 16,300 crore and Tata Steel's tubes business for Rs 11,700 crore, both in cash.",
-    "source": "Oquilia",
-    "published": "2026-11-22T14:46:21.814000+00:00",
-    "ago": "2h",
-    "impact": "Positive",
-    "why": "Expansion through major cash acquisitions.",
-    "url": "https://www.oquilia.com/news/apl-apollo-to-buy-tata-steel-tubes-business-and-colors",
-    "chips": {
-      "Colors deal": "Rs 16,300 cr",
-      "Tubes deal": "Rs 11,700 cr"
-    },
-    "trend": [
-      0.1,
-      0.25,
-      0.2,
-      0.5,
-      0.45,
-      0.8,
-      0.95
-    ],
-    "color": "0F766E",
-    "premium": false,
-    "verbatim": false,
-    "src_title": "APL Apollo to buy Tata Steel's tubes unit and Colors in two cash deals",
-    "src_summary": "APL Apollo Tubes told the National Stock Exchange its board approved buying Tata Steel Colors for Rs 16,300 crore and Tata Steel's tubes business for Rs 11,700 crore, both in cash.",
-    "title_hi": "APL Apollo नकद सौदों में Tata Steel यूनिट्स खरीदेगी",
-    "summary_hi": "APL Apollo Tubes ने National Stock Exchange को बताया कि उसके बोर्ड ने Rs 16,300 crore में Tata Steel Colors और Rs 11,700 crore में Tata Steel के ट्यूब बिजनेस को खरीदने की मंजूरी दे दी है, दोनों सौदे नकद में होंगे।",
-    "why_hi": "नकद अधिग्रहण के जरिए बड़ा विस्तार।",
-    "chips_hi": {
-      "Colors सौदा": "Rs 16,300 cr",
-      "Tubes सौदा": "Rs 11,700 cr"
-    },
-    "hi_tries": 0,
-    "hi_ver": 2
-  },
-  {
-    "v": 3,
-    "cat": "Finance",
-    "tk": "FINANCE",
-    "title": "SCSS after maturity: repeat three-year extensions, Form-4 window and early closure cost",
-    "summary": "Since November 2023 an SCSS account can be extended in three-year blocks any number of times. How the Form-4 window works, which rate applies, the 1% early-closure cost and the tax on interest.",
-    "source": "Oquilia",
-    "published": "2026-11-22T10:33:33.670000+00:00",
-    "ago": "6h",
-    "impact": "Neutral",
-    "why": "Informational guide on scheme rules.",
-    "url": "https://www.oquilia.com/news/oquilia-research-scss-unlimited-three-year-extension-form-4-sb-order-22-2023",
-    "chips": {
-      "Extension": "3 years",
-      "Early closure cost": "1%"
-    },
-    "trend": [
-      0.5,
-      0.55,
-      0.45,
-      0.5,
-      0.47,
-      0.52,
-      0.5
-    ],
-    "color": "B7791F",
-    "premium": false,
-    "verbatim": false,
-    "src_title": "SCSS after maturity: repeat three-year extensions, the Form-4 window and the 1% cost of closing an extended account early",
-    "src_summary": "Since November 2023 an SCSS account can be extended in three-year blocks any number of times. How the Form-4 window works, which rate applies, the 1% early-closure cost and the tax on interest.",
-    "hi_tries": 0,
-    "title_hi": "परिपक्वता के बाद SCSS: तीन-साल के बार-बार विस्तार, Form-4 विंडो और समय से पहले बंद करने की लागत",
-    "summary_hi": "नवंबर 2023 से SCSS खाते को अनगिनत बार तीन-साल के ब्लॉकों में बढ़ाया जा सकता है। जानिए Form-4 विंडो कैसे काम करती है, कौन सी दर लागू होती है, 1% समय से पहले बंद करने की लागत और ब्याज पर कर।",
-    "why_hi": "स्कीम के नियमों पर सूचनात्मक गाइड।",
-    "chips_hi": {
-      "विस्तार": "3 साल",
-      "समय से पहले बंद करने": "1%"
-    },
-    "hi_ver": 2
-  },
-  {
-    "v": 3,
-    "cat": "Finance",
-    "tk": "FINANCE",
-    "title": "RBI's May 2026 framework for third-party outward remittance platforms",
-    "summary": "RBI's A.P. (DIR Series) Circular No. 10 of May 13, 2026 ends case-by-case approval for remittance apps and lists what every screen and invoice must show a person sending money abroad.",
-    "source": "Oquilia",
-    "published": "2026-11-22T09:06:10.476000+00:00",
-    "ago": "8h",
-    "impact": "Neutral",
-    "why": "Regulatory update for remittance platforms",
-    "url": "https://www.oquilia.com/news/oquilia-research-rbi-ap-dir-10-2026-remittance-apps-third-party-framework",
-    "chips": {
-      "Circular": "No. 10",
-      "Date": "May 13, 2026"
-    },
-    "trend": [
-      0.5,
-      0.55,
-      0.45,
-      0.5,
-      0.47,
-      0.52,
-      0.5
-    ],
-    "color": "B7791F",
-    "premium": false,
-    "verbatim": false,
-    "src_title": "Sending money abroad through an app: RBI's May 2026 framework for third-party outward remittance platforms",
-    "src_summary": "RBI's A.P. (DIR Series) Circular No. 10 of May 13, 2026 ends case-by-case approval for remittance apps and lists what every screen and invoice must show a person sending money abroad.",
-    "hi_tries": 2,
-    "hi_ver": 2
-  },
-  {
-    "v": 3,
-    "cat": "Markets",
-    "tk": "MARKETS",
-    "title": "RailTel wins Rs 27.03 crore Andhra Pradesh legal AI platform order",
-    "summary": "RailTel Corporation of India said in a filing with the National Stock Exchange that it received a Letter of Acceptance from Andhra Pradesh Technology Services, with an estimated size of Rs 27.03 crore.",
-    "source": "Oquilia",
-    "published": "2026-11-22T08:46:10.791000+00:00",
-    "ago": "8h",
-    "impact": "Positive",
-    "why": "New order wins boost revenue growth.",
-    "url": "https://www.oquilia.com/news/railtel-wins-rs-27-crore-andhra-pradesh-legal-ai-platform-order",
-    "chips": {
-      "Order Value": "Rs 27.03 crore"
-    },
-    "trend": [
-      0.1,
-      0.25,
-      0.2,
-      0.5,
-      0.45,
-      0.8,
-      0.95
-    ],
-    "color": "0F766E",
-    "premium": false,
-    "verbatim": false,
-    "src_title": "RailTel wins Rs 27.03 crore Andhra Pradesh legal AI platform order",
-    "src_summary": "RailTel Corporation of India said in a filing with the National Stock Exchange that it received a Letter of Acceptance from Andhra Pradesh Technology Services, with an estimated size of Rs 27.03 crore.",
-    "title_hi": "RailTel को मिला Rs 27.03 करोड़ का आंध्र प्रदेश कानूनी AI प्लेटफॉर्म ऑर्डर",
-    "summary_hi": "RailTel Corporation of India ने नेशनल स्टॉक एक्सचेंज को दी गई जानकारी में बताया कि उसे Andhra Pradesh Technology Services से एक लेटर ऑफ एक्सेप्टेंस मिला है, जिसका अनुमानित आकार Rs 27.03 करोड़ है।",
-    "why_hi": "नया ऑर्डर मिलने से आय बढ़ेगी।",
-    "chips_hi": {
-      "ऑर्डर मूल्य": "Rs 27.03 करोड़"
-    },
-    "hi_tries": 0,
-    "hi_ver": 2
-  },
-  {
-    "v": 3,
-    "cat": "Finance",
-    "tk": "FINANCE",
-    "title": "ITAT rules land acquisition interest is not income from other sources for a family",
-    "summary": "The ITAT Delhi bench held on 19 November 2026 that interest an HUF received under Section 28 of the Land Acquisition Act could not be taxed as income from other sources.",
-    "source": "Oquilia",
-    "published": "2026-11-22T02:34:53.692000+00:00",
-    "ago": "5h",
-    "impact": "Positive",
-    "why": "Tax relief on land acquisition interest.",
-    "url": "https://www.oquilia.com/news/itat-land-acquisition-interest-not-income-from-other-sources",
-    "chips": {
-      "Date": "19 November 2026"
-    },
-    "trend": [
-      0.1,
-      0.25,
-      0.2,
-      0.5,
-      0.45,
-      0.8,
-      0.95
-    ],
-    "color": "0F766E",
-    "premium": false,
-    "verbatim": false,
-    "src_title": "ITAT rules land acquisition interest is not income from other sources for a family",
-    "src_summary": "The ITAT Delhi bench held on 19 November 2026 that interest an HUF received under Section 28 of the Land Acquisition Act could not be taxed as income from other sources.",
-    "title_hi": "आईटीएटी का फैसला, भूमि अधिग्रहण पर मिलने वाला ब्याज परिवार के लिए अन्य स्रोतों से आय नहीं है",
-    "summary_hi": "आईटीएटी की दिल्ली पीठ ने 19 नवंबर 2026 को फैसला सुनाया कि भूमि अधिग्रहण अधिनियम की धारा 28 के तहत एक एचयूएफ को मिले ब्याज पर अन्य स्रोतों से आय के रूप में कर नहीं लगाया जा सकता है।",
-    "why_hi": "भूमि अधिग्रहण ब्याज पर कर राहत।",
-    "chips_hi": {
-      "दिनांक": "19 नवंबर 2026"
     },
     "hi_tries": 0,
     "hi_ver": 2
