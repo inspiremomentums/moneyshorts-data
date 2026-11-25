@@ -2,6 +2,344 @@
   {
     "v": 3,
     "cat": "Companies",
+    "tk": "IL&FS",
+    "title": "IL&FS Transportation Networks discloses default on Rs 75 crore NCDs",
+    "summary": "IL&FS Transportation Networks told the National Stock Exchange it could not pay interest and part principal due on 25 November 2026 on a Rs 75 crore debenture series, citing NCLAT orders.",
+    "source": "Oquilia",
+    "published": "2026-11-25T09:46:10.414000+00:00",
+    "ago": "14m",
+    "impact": "Negative",
+    "why": "Company defaulted on debt interest and principal.",
+    "url": "https://www.oquilia.com/news/il-fs-transportation-networks-discloses-ncd-default",
+    "chips": {
+      "NCD default": "Rs 75 crore",
+      "Due date": "25 November 2026"
+    },
+    "trend": [
+      0.95,
+      0.85,
+      0.7,
+      0.6,
+      0.4,
+      0.3,
+      0.1
+    ],
+    "color": "9B2C2C",
+    "premium": false,
+    "verbatim": false,
+    "src_title": "IL&FS Transportation Networks discloses default on Rs 75 crore NCDs",
+    "src_summary": "IL&FS Transportation Networks told the National Stock Exchange it could not pay interest and part principal due on 25 November 2026 on a Rs 75 crore debenture series, citing NCLAT orders.",
+    "hi_tries": 1,
+    "title_hi": "IL&FS Transportation Networks ने 75 करोड़ रुपये के NCDs पर डिफॉल्ट की जानकारी दी",
+    "summary_hi": "NCLAT के आदेशों का हवाला देते हुए IL&FS Transportation Networks ने नेशनल स्टॉक एक्सचेंज को बताया कि वह 75 करोड़ रुपये की डिबेंचर सीरीज़ पर 25 नवंबर 2026 को देय ब्याज और आंशिक मूलधन का भुगतान नहीं कर सका।",
+    "why_hi": "कंपनी ने ऋण के ब्याज और मूलधन पर डिफॉल्ट किया।",
+    "chips_hi": {
+      "NCD डिफॉल्ट": "75 करोड़ रुपये",
+      "देय तिथि": "25 नवंबर 2026"
+    }
+  },
+  {
+    "v": 3,
+    "cat": "Finance",
+    "tk": "FINANCE",
+    "title": "Inherited money stuck in India: how a non-resident widow, widower or foreign-citizen heir remits it under FEMA 13(R)",
+    "summary": "RBI's Remittance of Assets rules let a non-resident widow, widower or foreign-citizen heir remit up to USD 1 million a financial year of inherited money. Who qualifies, tax and RBI approval.",
+    "source": "Oquilia",
+    "published": "2026-11-25T09:05:49.573000+00:00",
+    "ago": "56m",
+    "impact": "Neutral",
+    "why": "Explains existing RBI remittance rules.",
+    "url": "https://www.oquilia.com/news/oquilia-research-remittance-of-assets-inherited-by-non-resident-widow-foreign-heir",
+    "chips": {
+      "Limit": "USD 1 million"
+    },
+    "trend": [
+      0.5,
+      0.55,
+      0.45,
+      0.5,
+      0.47,
+      0.52,
+      0.5
+    ],
+    "color": "B7791F",
+    "premium": false,
+    "verbatim": false,
+    "src_title": "Inherited money stuck in India: how a non-resident widow, widower or foreign-citizen heir remits it under FEMA 13(R)",
+    "src_summary": "RBI's Remittance of Assets rules let a non-resident widow, widower or foreign-citizen heir remit up to USD 1 million a financial year of inherited money. Who qualifies, tax and RBI approval.",
+    "hi_tries": 1
+  },
+  {
+    "v": 3,
+    "cat": "Companies",
+    "tk": "COMPANIES",
+    "title": "Bharat Road Network says its Group CEO has resigned",
+    "summary": "Bharat Road Network Limited said in a filing with the National Stock Exchange on 25 November 2026 that its Group Chief Executive Officer resigned from 24 November 2026.",
+    "source": "Oquilia",
+    "published": "2026-11-25T08:46:23.345000+00:00",
+    "ago": "1h",
+    "impact": "Neutral",
+    "why": "Management changes have unclear fundamental impact.",
+    "url": "https://www.oquilia.com/news/bharat-road-network-group-ceo-resigns-personal-reasons",
+    "chips": {
+      "Filing Date": "25 November 2026",
+      "Resignation Date": "24 November 2026"
+    },
+    "trend": [
+      0.5,
+      0.55,
+      0.45,
+      0.5,
+      0.47,
+      0.52,
+      0.5
+    ],
+    "color": "B7791F",
+    "premium": false,
+    "verbatim": false,
+    "src_title": "Bharat Road Network says its Group CEO has resigned, citing personal reasons",
+    "src_summary": "Bharat Road Network Limited said in a filing with the National Stock Exchange on 25 November 2026 that its Group Chief Executive Officer resigned from 24 November 2026.",
+    "title_hi": "Bharat Road Network ने कहा कि उसके Group CEO ने इस्तीफा दे दिया है",
+    "summary_hi": "Bharat Road Network Limited ने 25 November 2026 को National Stock Exchange को दी गई एक फाइलिंग में कहा कि उसके Group Chief Executive Officer ने 24 November 2026 से इस्तीफा दे दिया है।",
+    "why_hi": "प्रबंधन बदलाव का प्रभाव स्पष्ट नहीं है।",
+    "chips_hi": {
+      "फाइलिंग तिथि": "25 November 2026",
+      "इस्तीफा तिथि": "24 November 2026"
+    }
+  },
+  {
+    "v": 3,
+    "cat": "Companies",
+    "tk": "COMPANIES",
+    "title": "APL Apollo to buy Tata Steel units, open offer at Rs 2,301.40",
+    "summary": "APL Apollo Tubes disclosed deals to buy Tata Steel's tubes business for Rs 11,700 crore and Tata Steel Colors for Rs 16,300 crore, while Tata Steel is to acquire control through a stake purchase and an open offer.",
+    "source": "Oquilia",
+    "published": "2026-11-25T06:17:09.094000+00:00",
+    "ago": "3h",
+    "impact": "Positive",
+    "why": "Strategic business acquisition to expand operations.",
+    "url": "https://www.oquilia.com/news/apl-apollo-tata-steel-tubes-business-tata-steel-colors-open-offer",
+    "chips": {
+      "Tubes business": "Rs 11,700 crore",
+      "Tata Steel Colors": "Rs 16,300 crore",
+      "Open offer": "Rs 2,301.40"
+    },
+    "trend": [
+      0.1,
+      0.25,
+      0.2,
+      0.5,
+      0.45,
+      0.8,
+      0.95
+    ],
+    "color": "0F766E",
+    "premium": false,
+    "verbatim": false,
+    "src_title": "APL Apollo to buy Tata Steel tubes unit, Tata Steel Colors; open offer at Rs 2,301.40",
+    "src_summary": "APL Apollo Tubes disclosed deals to buy Tata Steel's tubes business for Rs 11,700 crore and Tata Steel Colors for Rs 16,300 crore, while Tata Steel is to acquire control through a stake purchase and an open offer.",
+    "title_hi": "APL Apollo Tata Steel units को खरीदेगा, Rs 2,301.40 पर ओपन ऑफर",
+    "summary_hi": "APL Apollo Tubes ने Tata Steel के tubes कारोबार को Rs 11,700 crore में और Tata Steel Colors को Rs 16,300 crore में खरीदने के सौदों का खुलासा किया, जबकि Tata Steel हिस्सेदारी खरीद और ओपन ऑफर के जरिए नियंत्रण हासिल करेगी।",
+    "why_hi": "रणनीतिक व्यावसायिक अधिग्रहण से संचालन का विस्तार।",
+    "chips_hi": {
+      "Tubes कारोबार": "Rs 11,700 crore",
+      "Tata Steel Colors": "Rs 16,300 crore",
+      "ओपन ऑफर": "Rs 2,301.40"
+    }
+  },
+  {
+    "v": 3,
+    "cat": "Companies",
+    "tk": "COMPANIES",
+    "title": "Canara HSBC Life says its chief financial officer has resigned",
+    "summary": "Canara HSBC Life Insurance told the National Stock Exchange that its chief financial officer ceased to hold the post at the close of business on 24 November 2026 after resigning.",
+    "source": "Oquilia",
+    "published": "2026-11-25T05:46:15.656000+00:00",
+    "ago": "4h",
+    "impact": "Neutral",
+    "why": "CFO resignation is a routine corporate change.",
+    "url": "https://www.oquilia.com/news/canara-hsbc-life-chief-financial-officer-resigns",
+    "chips": {
+      "Date": "24 November 2026"
+    },
+    "trend": [
+      0.5,
+      0.55,
+      0.45,
+      0.5,
+      0.47,
+      0.52,
+      0.5
+    ],
+    "color": "B7791F",
+    "premium": false,
+    "verbatim": false,
+    "src_title": "Canara HSBC Life says its chief financial officer has resigned",
+    "src_summary": "Canara HSBC Life Insurance told the National Stock Exchange that its chief financial officer ceased to hold the post at the close of business on 24 November 2026 after resigning.",
+    "title_hi": "Canara HSBC Life ने कहा कि उसके मुख्य वित्तीय अधिकारी ने इस्तीफा दे दिया है",
+    "summary_hi": "Canara HSBC Life Insurance ने National Stock Exchange को बताया कि इस्तीफा देने के बाद इसके मुख्य वित्तीय अधिकारी ने 24 November 2026 को कारोबार बंद होने के समय से अपना पद छोड़ दिया।",
+    "why_hi": "CFO का इस्तीफा एक नियमित कॉर्पोरेट बदलाव है।",
+    "chips_hi": {
+      "तारीख": "24 November 2026"
+    }
+  },
+  {
+    "v": 3,
+    "cat": "IPO",
+    "tk": "MONOMARK",
+    "title": "Monomark Engineering files RHP for IPO",
+    "summary": "Monomark Engineering (India) has filed its RHP with SEBI for a fresh issue of up to 2,70,00,000 shares, open from December 2 to 4, 2026, with the price band yet to be set.",
+    "source": "Oquilia",
+    "published": "2026-11-25T04:24:28.983000+00:00",
+    "ago": "5h",
+    "impact": "Neutral",
+    "why": "IPO details filed, price band pending.",
+    "url": "https://www.oquilia.com/news/monomark-engineering-files-rhp-ipo-opens-december-2",
+    "chips": {
+      "Shares": "2,70,00,000",
+      "Open Date": "December 2"
+    },
+    "trend": [
+      0.5,
+      0.55,
+      0.45,
+      0.5,
+      0.47,
+      0.52,
+      0.5
+    ],
+    "color": "B7791F",
+    "premium": false,
+    "verbatim": false,
+    "src_title": "Monomark Engineering files RHP for 2.7 crore-share IPO opening December 2",
+    "src_summary": "Monomark Engineering (India) has filed its RHP with SEBI for a fresh issue of up to 2,70,00,000 shares, open from December 2 to 4, 2026, with the price band yet to be set.",
+    "title_hi": "Monomark Engineering ने IPO के लिए RHP दाखिल किया",
+    "summary_hi": "Monomark Engineering (India) ने SEBI के पास 2,70,00,000 तक नए शेयरों के इश्यू के लिए RHP दाखिल किया है, जो 2 दिसंबर से 4 दिसंबर 2026 तक खुलेगा, और मूल्य दायरा अभी तय होना बाकी है।",
+    "why_hi": "IPO विवरण दाखिल, मूल्य दायरा बाकी।",
+    "chips_hi": {
+      "शेयर": "2,70,00,000",
+      "खुलने की तिथि": "2 December"
+    }
+  },
+  {
+    "v": 3,
+    "cat": "Markets",
+    "tk": "VALECHA",
+    "title": "Valecha Engineering says tax appeals officer set aside Rs 191.23 crore demand",
+    "summary": "Valecha Engineering told the National Stock Exchange that a Commissioner of Income Tax (Appeals) set aside an assessment order and a Rs 191.23 crore tax demand for 2024-25.",
+    "source": "Oquilia",
+    "published": "2026-11-25T03:46:33.606000+00:00",
+    "ago": "6h",
+    "impact": "Positive",
+    "why": "Tax demand of Rs 191.23 crore set aside.",
+    "url": "https://www.oquilia.com/news/valecha-engineering-tax-appeals-order-sets-aside-rs-191-crore-demand",
+    "chips": {
+      "Tax demand": "Rs 191.23 cr"
+    },
+    "trend": [
+      0.1,
+      0.25,
+      0.2,
+      0.5,
+      0.45,
+      0.8,
+      0.95
+    ],
+    "color": "0F766E",
+    "premium": false,
+    "verbatim": false,
+    "src_title": "Valecha Engineering says tax appeals officer set aside Rs 191.23 crore demand",
+    "src_summary": "Valecha Engineering told the National Stock Exchange that a Commissioner of Income Tax (Appeals) set aside an assessment order and a Rs 191.23 crore tax demand for 2024-25.",
+    "title_hi": "Valecha Engineering ने कहा कि टैक्स अपील अधिकारी ने 191.23 करोड़ रुपये की मांग को रद्द किया",
+    "summary_hi": "Valecha Engineering ने National Stock Exchange को बताया कि कमिश्नर ऑफ इनकम टैक्स (अपिल्स) ने 2024-25 के लिए असेसमेंट ऑर्डर और 191.23 करोड़ रुपये की टैक्स मांग को रद्द कर दिया है।",
+    "why_hi": "191.23 करोड़ रुपये की टैक्स मांग रद्द।",
+    "chips_hi": {
+      "टैक्स मांग": "Rs 191.23 cr"
+    }
+  },
+  {
+    "v": 3,
+    "cat": "Markets",
+    "tk": "MARKETS",
+    "title": "Nifty 50 at 25,349.65 after 1.75% bank-led fall on Monday",
+    "summary": "The Nifty 50 closed Monday, 23 November at 25,349.65, down 1.75%, as Nifty Bank fell 3.17% and 1,997 NSE stocks declined against 748 that advanced.",
+    "source": "Oquilia",
+    "published": "2026-11-25T02:33:49.838000+00:00",
+    "ago": "7h",
+    "impact": "Negative",
+    "why": "Broad market decline led by banking stocks.",
+    "url": "https://www.oquilia.com/news/nifty-50-pre-market-25-november-2026",
+    "chips": {
+      "Nifty 50": "25,349.65",
+      "Decline": "1.75%",
+      "Nifty Bank": "3.17%"
+    },
+    "trend": [
+      0.95,
+      0.85,
+      0.7,
+      0.6,
+      0.4,
+      0.3,
+      0.1
+    ],
+    "color": "9B2C2C",
+    "premium": false,
+    "verbatim": false,
+    "src_title": "Pre-market: Nifty 50 at 25,349.65 after a 1.75% bank-led fall on Monday",
+    "src_summary": "The Nifty 50 closed Monday, 23 November at 25,349.65, down 1.75%, as Nifty Bank fell 3.17% and 1,997 NSE stocks declined against 748 that advanced.",
+    "title_hi": "सोमवार को बैंक के नेतृत्व में 1.75% की गिरावट के बाद Nifty 50, 25,349.65 पर",
+    "summary_hi": "Nifty 50 सोमवार, 23 नवंबर को 1.75% गिरकर 25,349.65 पर बंद हुआ, क्योंकि Nifty Bank 3.17% गिरा और 1,997 NSE शेयर 748 की तुलना में गिरे, जो बढ़े थे।",
+    "why_hi": "बैंकिंग शेयरों के नेतृत्व में व्यापक बाजार गिरावट।",
+    "chips_hi": {
+      "Nifty 50": "25,349.65",
+      "गिरावट": "1.75%",
+      "Nifty Bank": "3.17%"
+    }
+  },
+  {
+    "v": 3,
+    "cat": "Finance",
+    "tk": "FINANCE",
+    "title": "Notification 141/2026: no TDS on dividends between IFSC aircraft-leasing units, via Form 1(N)",
+    "summary": "CBDT Notification 141/2026 removes TDS under section 393(1) on dividends between IFSC aircraft-leasing units from 1 April 2026, if the payee first gives the payer a Form 1(N).",
+    "source": "Oquilia",
+    "published": "2026-11-25T00:40:44.483000+00:00",
+    "ago": "9h",
+    "impact": "Positive",
+    "why": "Removes TDS on dividends for IFSC units.",
+    "url": "https://www.oquilia.com/news/oquilia-research-form-1n-ifsc-aircraft-leasing-dividend-no-tds-notification-141-2026",
+    "chips": {
+      "Notification": "141/2026",
+      "Date": "1 April 2026",
+      "Form": "Form 1(N)"
+    },
+    "trend": [
+      0.1,
+      0.25,
+      0.2,
+      0.5,
+      0.45,
+      0.8,
+      0.95
+    ],
+    "color": "0F766E",
+    "premium": false,
+    "verbatim": false,
+    "src_title": "Notification 141/2026: no TDS on dividends between IFSC aircraft-leasing units, via Form 1(N)",
+    "src_summary": "CBDT Notification 141/2026 removes TDS under section 393(1) on dividends between IFSC aircraft-leasing units from 1 April 2026, if the payee first gives the payer a Form 1(N).",
+    "title_hi": "Notification 141/2026: IFSC aircraft-leasing units के बीच डिविडेंड पर फॉर्म 1(N) के जरिए कोई TDS नहीं",
+    "summary_hi": "CBDT Notification 141/2026 1 April 2026 से IFSC aircraft-leasing units के बीच डिविडेंड पर section 393(1) के तहत TDS हटाता है, यदि payee पहले payer को Form 1(N) दे देता है।",
+    "why_hi": "IFSC units के लिए डिविडेंड पर TDS हटाता है",
+    "chips_hi": {
+      "Notification": "141/2026",
+      "Date": "1 April 2026",
+      "Form": "Form 1(N)"
+    }
+  },
+  {
+    "v": 3,
+    "cat": "Companies",
     "tk": "COMPANIES",
     "title": "3 companies that sought their own insolvency stated Rs 1,606.89 crore of Rs 2,574.62 crore",
     "summary": "Just 3 of 34 companies admitted to insolvency in a month applied themselves, yet they stated Rs 1,606.89 crore in default, more than all 16 lender cases combined.",
@@ -106,7 +444,7 @@
     "verbatim": false,
     "src_title": "NSE shut on 24 November for Prakash Gurpurb Sri Guru Nanak Dev; next holiday is 25 December",
     "src_summary": "The National Stock Exchange is closed for trading on Tuesday, 24 November 2026, for Prakash Gurpurb Sri Guru Nanak Dev, as set out in its 2026 holiday circulars. The last weekday holiday of the year is Christmas.",
-    "hi_tries": 1,
+    "hi_tries": 2,
     "hi_ver": 2
   },
   {
@@ -712,7 +1050,7 @@
     "verbatim": true,
     "src_title": "Leaving UPS for NPS: the one-time, one-way switch, its deadlines and what happens to the extra 4% government contribution",
     "src_summary": "PFRDA's UPS FAQ lets Central Government staff revert to NPS once, up to 12 months before superannuation. The 4% gap is credited, but the assured payout is lost. Rules, tax and a worked drawdown.",
-    "hi_tries": 1,
+    "hi_tries": 2,
     "hi_ver": 2
   },
   {
@@ -1157,360 +1495,6 @@
     "why_hi": "भूमि अधिग्रहण ब्याज पर कर राहत।",
     "chips_hi": {
       "दिनांक": "19 नवंबर 2026"
-    },
-    "hi_tries": 0,
-    "hi_ver": 2
-  },
-  {
-    "v": 3,
-    "cat": "Finance",
-    "tk": "FINANCE",
-    "title": "Rule 189A: new conditions for merging two registered charitable trusts without tax",
-    "summary": "CBDT's new rule 189A sets 12 conditions for merging two registered charitable trusts with similar objects, a 5-year objects lock and a one-month deadline to file Form 112A.",
-    "source": "Oquilia",
-    "published": "2026-11-22T00:40:40.479000+00:00",
-    "ago": "7h",
-    "impact": "Neutral",
-    "why": "Tax rule update for charitable trusts.",
-    "url": "https://www.oquilia.com/news/oquilia-research-rule-189a-merger-of-charitable-trusts-form-112a",
-    "chips": {
-      "Rule": "189A",
-      "Lock": "5-year",
-      "Form": "112A"
-    },
-    "trend": [
-      0.5,
-      0.55,
-      0.45,
-      0.5,
-      0.47,
-      0.52,
-      0.5
-    ],
-    "color": "B7791F",
-    "premium": false,
-    "verbatim": false,
-    "src_title": "Rule 189A: the new conditions for merging two registered charitable trusts without tax, and Form 112A",
-    "src_summary": "CBDT's new rule 189A sets 12 conditions for merging two registered charitable trusts with similar objects, a 5-year objects lock and a one-month deadline to file Form 112A.",
-    "hi_tries": 0,
-    "title_hi": "Rule 189A: बिना टैक्स के दो रजिस्टर्ड चैरिटेबल ट्रस्टों के विलय के लिए नई शर्तें",
-    "summary_hi": "CBDT का नया Rule 189A समान उद्देश्यों वाले दो रजिस्टर्ड चैरिटेबल ट्रस्टों के विलय के लिए 12 शर्तें तय करता है, जिसमें 5 साल का ऑब्जेक्ट्स लॉक और Form 112A दाखिल करने के लिए एक महीने की समय सीमा शामिल है।",
-    "why_hi": "चैरिटेबल ट्रस्टों के लिए टैक्स नियम अपडेट।",
-    "chips_hi": {
-      "Rule": "189A",
-      "Lock": "5-year",
-      "Form": "112A"
-    },
-    "hi_ver": 2
-  },
-  {
-    "v": 3,
-    "cat": "Finance",
-    "tk": "FINANCE",
-    "title": "Supreme Court universality test for PF wages",
-    "summary": "The Supreme Court held on 28 February 2019 that allowances paid to all employees across the board are basic wages for PF. What the universality test means for your EPF and EPS.",
-    "source": "Oquilia",
-    "published": "2026-11-21T10:33:27.933000+00:00",
-    "ago": "6h",
-    "impact": "Negative",
-    "why": "Higher PF contributions may reduce take-home pay.",
-    "url": "https://www.oquilia.com/news/oquilia-research-pf-basic-wages-special-allowance-universality-test-vivekananda-vidyamandir",
-    "chips": {
-      "Date": "28 February 2019"
-    },
-    "trend": [
-      0.95,
-      0.85,
-      0.7,
-      0.6,
-      0.4,
-      0.3,
-      0.1
-    ],
-    "color": "9B2C2C",
-    "premium": false,
-    "verbatim": false,
-    "src_title": "Is your special allowance part of PF wages? The Supreme Court's universality test in the Vivekananda Vidyamandir and Surya Roshni appeals",
-    "src_summary": "The Supreme Court held on 28 February 2019 that allowances paid to all employees across the board are basic wages for PF. What the universality test means for your EPF and EPS.",
-    "hi_tries": 1,
-    "hi_ver": 2,
-    "title_hi": "पीएफ वेतन के लिए सुप्रीम कोर्ट का सार्वभौमिकता परीक्षण",
-    "summary_hi": "सु सुप्रीम कोर्ट ने 28 फरवरी 2019 को यह फैसला सुनाया कि सभी कर्मचारियों को मिलने वाले भत्ते पीएफ के लिए मूल वेतन हैं। आपके EPF और EPS के लिए सार्वभौमिकता परीक्षण का क्या अर्थ है।",
-    "why_hi": "उच्च पीएफ योगदान से टेक-होम वेतन कम हो सकता है।",
-    "chips_hi": {
-      "तारीख": "28 फरवरी 2019"
-    }
-  },
-  {
-    "v": 3,
-    "cat": "Finance",
-    "tk": "FINANCE",
-    "title": "RBI forex FAQ clarifies resident payment of NRI relative hospital bills in rupees",
-    "summary": "RBI's forex FAQ (as on November 28, 2025) says a resident paying an NRI close relative's medical bills in India may be covered under FEMA 14(R)/2016-RB. What it means for tax and cash.",
-    "source": "Oquilia",
-    "published": "2026-11-21T09:04:50.247000+00:00",
-    "ago": "7h",
-    "impact": "Neutral",
-    "why": "Clarifies existing FEMA medical payment rules",
-    "url": "https://www.oquilia.com/news/oquilia-research-resident-paying-nri-relative-medical-bills-stay-in-india-fema",
-    "chips": {
-      "Date": "November 28, 2025"
-    },
-    "trend": [
-      0.5,
-      0.55,
-      0.45,
-      0.5,
-      0.47,
-      0.52,
-      0.5
-    ],
-    "color": "B7791F",
-    "premium": false,
-    "verbatim": false,
-    "src_title": "Can a resident pay an NRI relative's hospital bills and stay in India in rupees? What RBI's forex FAQ says",
-    "src_summary": "RBI's forex FAQ (as on November 28, 2025) says a resident paying an NRI close relative's medical bills in India may be covered under FEMA 14(R)/2016-RB. What it means for tax and cash.",
-    "hi_tries": 0,
-    "title_hi": "RBI forex FAQ ने निवासी द्वारा NRI रिश्तेदार के अस्पताल के बिलों का रुपये में भुगतान करने पर स्थिति स्पष्ट की",
-    "summary_hi": "RBI के forex FAQ (28 नवंबर 2025 के अनुसार) के अनुसार, भारत में किसी NRI करीबी रिश्तेदार के मेडिकल बिलों का भुगतान करने वाला निवासी FEMA 14(R)/2016-RB के तहत कवर हो सकता है। टैक्स और नकदी के लिए इसका क्या अर्थ है।",
-    "why_hi": "मौजूदा FEMA मेडिकल भुगतान नियमों को स्पष्ट करता है",
-    "chips_hi": {
-      "दिनांक": "28 नवंबर 2025"
-    },
-    "hi_ver": 2
-  },
-  {
-    "v": 3,
-    "cat": "Finance",
-    "tk": "UNITED INDIA",
-    "title": "NCDRC rejects United India Insurance's denial of 2010 factory fire claim",
-    "summary": "The National Consumer Disputes Redressal Commission held that a 2010 factory fire was accidental and directed United India Insurance to assess the loss and inform the policyholder within three months.",
-    "source": "Oquilia",
-    "published": "2026-11-21T05:36:56.626000+00:00",
-    "ago": "2h",
-    "impact": "Neutral",
-    "why": "Old claim dispute without major financial impact.",
-    "url": "https://www.oquilia.com/news/ncdrc-united-india-insurance-factory-fire-claim-rejection-unsustainable",
-    "chips": {
-      "Claim Year": "2010"
-    },
-    "trend": [
-      0.5,
-      0.55,
-      0.45,
-      0.5,
-      0.47,
-      0.52,
-      0.5
-    ],
-    "color": "B7791F",
-    "premium": false,
-    "verbatim": false,
-    "src_title": "NCDRC rejects United India Insurance's denial of 2010 factory fire claim",
-    "src_summary": "The National Consumer Disputes Redressal Commission held that a 2010 factory fire was accidental and directed United India Insurance to assess the loss and inform the policyholder within three months.",
-    "title_hi": "NCDRC ने United India Insurance के 2010 के फैक्ट्री आग के दावे को खारिज करने का फैसला ठुकराया",
-    "summary_hi": "राष्ट्रीय उपभोक्ता विवाद निवारण आयोग ने माना कि 2010 की फैक्ट्री की आग एक दुर्घटना थी और United India Insurance को निर्देश दिया कि वह नुकसान का आकलन करे और तीन महीने के भीतर पॉलिसीधारक को सूचित करे।",
-    "why_hi": "पुराना दावा विवाद बिना बड़े वित्तीय प्रभाव के।",
-    "chips_hi": {
-      "दावा वर्ष": "2010"
-    },
-    "hi_tries": 0,
-    "hi_ver": 2
-  },
-  {
-    "v": 3,
-    "cat": "Markets",
-    "tk": "MARKETS",
-    "title": "Stock market this week: Nifty 50 gains 2.61% as hospitals, banks lead; smallcaps slip",
-    "summary": "The Nifty 50 rose 2.61% to 25,800.60 in the week to 20 November 2026 as Nifty Bank gained 5.90%, but 1,902 NSE stocks fell against 723 that rose and smallcaps lost 1.08%.",
-    "source": "Oquilia",
-    "published": "2026-11-21T04:40:30.750000+00:00",
-    "ago": "3h",
-    "impact": "Neutral",
-    "why": "Mixed market trends with gains and losses.",
-    "url": "https://www.oquilia.com/news/stock-market-this-week-20-november-2026",
-    "chips": {
-      "Nifty 50": "2.61%",
-      "Nifty Bank": "5.90%",
-      "Smallcaps": "-1.08%"
-    },
-    "trend": [
-      0.5,
-      0.55,
-      0.45,
-      0.5,
-      0.47,
-      0.52,
-      0.5
-    ],
-    "color": "B7791F",
-    "premium": false,
-    "verbatim": false,
-    "src_title": "Stock market this week: Nifty 50 gains 2.61% as hospitals, banks lead; smallcaps slip",
-    "src_summary": "The Nifty 50 rose 2.61% to 25,800.60 in the week to 20 November 2026 as Nifty Bank gained 5.90%, but 1,902 NSE stocks fell against 723 that rose and smallcaps lost 1.08%.",
-    "title_hi": "स्टॉक मार्केट इस हफ्ते: अस्पतालों और बैंकों की अगुवाई से Nifty 50 में 2.61% की तेजी, स्मॉलकैप गिरे",
-    "summary_hi": "20 नवंबर 2026 को समाप्त हफ्ते में Nifty 50 2.61% बढ़कर 25,800.60 पर पहुंच गया क्योंकि Nifty Bank में 5.90% की तेजी आई, लेकिन 723 शेयरों के मुकाबले 1,902 NSE शेयर गिरे और स्मॉलकैप में 1.08% की गिरावट आई।",
-    "why_hi": "मिश्रित बाजार रुझान",
-    "chips_hi": {
-      "Nifty 50": "2.61%",
-      "Nifty Bank": "5.90%",
-      "स्मॉलकैप": "-1.08%"
-    },
-    "hi_tries": 0,
-    "hi_ver": 2
-  },
-  {
-    "v": 3,
-    "cat": "IPO",
-    "tk": "FOODLINK F&B",
-    "title": "Foodlink F&B Holdings files RHP for IPO with Rs 192 crore fresh issue",
-    "summary": "Foodlink F&B Holdings (India) has filed its red herring prospectus for an IPO of a Rs 192 crore fresh issue plus an offer for sale of up to 88.35 lakh shares, per SEBI filings.",
-    "source": "Oquilia",
-    "published": "2026-11-21T04:26:36.633000+00:00",
-    "ago": "4h",
-    "impact": "Neutral",
-    "why": "IPO filing does not impact current fundamentals.",
-    "url": "https://www.oquilia.com/news/foodlink-fandb-holdings-files-rhp-ipo-rs-192-crore-fresh-issue",
-    "chips": {
-      "Fresh Issue": "Rs 192 crore",
-      "OFS": "88.35 lakh shares"
-    },
-    "trend": [
-      0.5,
-      0.55,
-      0.45,
-      0.5,
-      0.47,
-      0.52,
-      0.5
-    ],
-    "color": "B7791F",
-    "premium": false,
-    "verbatim": false,
-    "src_title": "Foodlink F&B Holdings files RHP for IPO with Rs 192 crore fresh issue",
-    "src_summary": "Foodlink F&B Holdings (India) has filed its red herring prospectus for an IPO of a Rs 192 crore fresh issue plus an offer for sale of up to 88.35 lakh shares, per SEBI filings.",
-    "title_hi": "Foodlink F&B Holdings ने Rs 192 करोड़ के फ्रेश इश्यू के साथ IPO के लिए RHP दाखिल किया",
-    "summary_hi": "Foodlink F&B Holdings (India) ने SEBI फाइलिंग के अनुसार, Rs 192 करोड़ के फ्रेश इश्यू और 88.35 लाख शेयरों तक की बिक्री के ऑफर (OFS) के लिए IPO का रेड हring प्रॉस्पेक्टस दाखिल किया है।",
-    "why_hi": "IPO फाइलिंग से मौजूदा फंडामेंटल्स पर असर नहीं पड़ता।",
-    "chips_hi": {
-      "फ्रेश इश्यू": "Rs 192 करोड़",
-      "OFS": "88.35 लाख शेयर"
-    },
-    "hi_tries": 0,
-    "hi_ver": 2
-  },
-  {
-    "v": 3,
-    "cat": "Finance",
-    "tk": "FINANCE",
-    "title": "Buying property from an NRI? From 1 Oct 2026 individual buyers can report TDS in Form 141 Schedule E",
-    "summary": "CBDT's Fifth Amendment Rules let resident individuals and HUFs buying property from a non-resident report section 393(2) TDS in new Schedule E of Form 141 from 1 October 2026.",
-    "source": "Oquilia",
-    "published": "2026-11-21T00:42:15.279000+00:00",
-    "ago": "7h",
-    "impact": "Neutral",
-    "why": "Procedural tax reporting change with no financial impact.",
-    "url": "https://www.oquilia.com/news/oquilia-research-tds-nri-property-sale-resident-buyer-form-141-schedule-e",
-    "chips": {
-      "Effective Date": "1 Oct 2026"
-    },
-    "trend": [
-      0.5,
-      0.55,
-      0.45,
-      0.5,
-      0.47,
-      0.52,
-      0.5
-    ],
-    "color": "B7791F",
-    "premium": false,
-    "verbatim": false,
-    "src_title": "Buying property from an NRI? From 1 Oct 2026 individual buyers can report TDS in Form 141 Schedule E",
-    "src_summary": "CBDT's Fifth Amendment Rules let resident individuals and HUFs buying property from a non-resident report section 393(2) TDS in new Schedule E of Form 141 from 1 October 2026.",
-    "hi_tries": 0,
-    "title_hi": "क्या आप NRI से प्रॉपर्टी खरीद रहे हैं? 1 October 2026 से व्यक्तिगत खरीदार Form 141 Schedule E में TDS रिपोर्ट कर सकेंगे",
-    "summary_hi": "CBDT के फिफ्थ एशेलॉन रूल्स के तहत गैर-निवासी से प्रॉपर्टी खरीदने वाले निवासी व्यक्ति और HUF, 1 October 2026 से Form 141 के नए Schedule E में section 393(2) TDS रिपोर्ट कर सकेंगे।",
-    "why_hi": "यह एक प्रक्रियात्मक टैक्स रिपोर्टिंग बदलाव है जिसका कोई वित्तीय प्रभाव नहीं है।",
-    "chips_hi": {
-      "प्रभावी तिथि": "1 Oct 2026"
-    },
-    "hi_ver": 2
-  },
-  {
-    "v": 3,
-    "cat": "Finance",
-    "tk": "FINANCE",
-    "title": "IRDAI fines Star Health Rs 2 crore over rejected claims",
-    "summary": "IRDAI has imposed a Rs 2 crore penalty on Star Health and Allied Insurance after finding that it rejected health claims, including COVID-19 claims, on untenable grounds and made unsupported deductions.",
-    "source": "Oquilia",
-    "published": "2026-11-20T15:34:15.628000+00:00",
-    "ago": "2h",
-    "impact": "Negative",
-    "why": "Penalty imposed for rejecting health claims.",
-    "url": "https://www.oquilia.com/news/irdai-fines-star-health-rs-2-crore-claims-rejected-untenable-grounds",
-    "chips": {
-      "Penalty": "Rs 2 crore"
-    },
-    "trend": [
-      0.95,
-      0.85,
-      0.7,
-      0.6,
-      0.4,
-      0.3,
-      0.1
-    ],
-    "color": "9B2C2C",
-    "premium": false,
-    "verbatim": false,
-    "src_title": "IRDAI fines Star Health Rs 2 crore, finds claims rejected on untenable grounds",
-    "src_summary": "IRDAI has imposed a Rs 2 crore penalty on Star Health and Allied Insurance after finding that it rejected health claims, including COVID-19 claims, on untenable grounds and made unsupported deductions.",
-    "title_hi": "IRDAI ने Star Health पर 2 करोड़ रुपये का जुर्माना लगाया",
-    "summary_hi": "IRDAI ने Star Health and Allied Insurance पर 2 करोड़ रुपये का जुर्माना लगाया है क्योंकि उसने पाया कि कंपनी ने COVID-19 दावों सहित स्वास्थ्य दावों को अनुचित आधार पर खारिज किया और अप्रमाणित कटौतियां कीं।",
-    "why_hi": "दावों को खारिज करने पर जुर्माना लगा।",
-    "chips_hi": {
-      "जुर्माना": "2 करोड़ रुपये"
-    },
-    "hi_tries": 0,
-    "hi_ver": 2
-  },
-  {
-    "v": 3,
-    "cat": "Markets",
-    "tk": "MARKETS",
-    "title": "Nifty 50 rises 1.12% to 25,800.60 as private banks lead",
-    "summary": "The Nifty 50 closed at 25,800.60 on 20 November 2026, up 286.30 points or 1.12%, but breadth was weak: 1,046 NSE stocks advanced, 1,682 declined and 32 were unchanged.",
-    "source": "Oquilia",
-    "published": "2026-11-20T13:38:35.544000+00:00",
-    "ago": "4h",
-    "impact": "Positive",
-    "why": "Nifty 50 index rose 1.12%",
-    "url": "https://www.oquilia.com/news/stock-market-today-nifty-50-closing-20-november-2026",
-    "chips": {
-      "Nifty 50": "25,800.60",
-      "Gain": "1.12%"
-    },
-    "trend": [
-      0.1,
-      0.25,
-      0.2,
-      0.5,
-      0.45,
-      0.8,
-      0.95
-    ],
-    "color": "0F766E",
-    "premium": false,
-    "verbatim": false,
-    "src_title": "Nifty 50 rises 1.12% to 25,800.60 as private banks lead, smallcaps slip",
-    "src_summary": "The Nifty 50 closed at 25,800.60 on 20 November 2026, up 286.30 points or 1.12%, but breadth was weak: 1,046 NSE stocks advanced, 1,682 declined and 32 were unchanged.",
-    "title_hi": "Nifty 50 प्राइवेट बैंकों के नेतृत्व में 1.12% बढ़कर 25,800.60 पर पहुंचा",
-    "summary_hi": "Nifty 50 20 नवंबर 2026 को 25,800.60 पर बंद हुआ, जो 286.30 अंक या 1.12% ऊपर है, लेकिन ब्रेड्थ कमजोर थी: 1,046 NSE स्टॉक बढ़े, 1,682 गिरे और 32 अपरिवर्तित रहे।",
-    "why_hi": "Nifty 50 इंडेक्स 1.12% बढ़ा",
-    "chips_hi": {
-      "Nifty 50": "25,800.60",
-      "बढ़त": "1.12%"
     },
     "hi_tries": 0,
     "hi_ver": 2
