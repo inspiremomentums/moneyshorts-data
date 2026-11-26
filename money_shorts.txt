@@ -1,6 +1,179 @@
 [
   {
     "v": 3,
+    "cat": "Finance",
+    "tk": "FINANCE",
+    "title": "Lending rupees to an NRI relative: seven LRS conditions",
+    "summary": "RBI's LRS FAQ lets a resident lend rupees interest-free to an NRI or PIO close relative: one-year minimum term, credit to NRO, no remittance abroad, within USD 2,50,000 a year.",
+    "source": "Oquilia",
+    "published": "2026-11-26T09:05:05.747000+00:00",
+    "ago": "39m",
+    "impact": "Neutral",
+    "why": "Regulatory guidelines for resident rupee loans to NRIs.",
+    "url": "https://www.oquilia.com/news/oquilia-research-interest-free-rupee-loan-resident-to-nri-relative-lrs-conditions",
+    "chips": {
+      "Limit": "USD 2,50,000"
+    },
+    "trend": [
+      0.5,
+      0.55,
+      0.45,
+      0.5,
+      0.47,
+      0.52,
+      0.5
+    ],
+    "color": "B7791F",
+    "premium": false,
+    "verbatim": false,
+    "src_title": "Lending rupees to an NRI son or sister: the seven LRS conditions for an interest-free loan credited to the NRO account",
+    "src_summary": "RBI's LRS FAQ lets a resident lend rupees interest-free to an NRI or PIO close relative: one-year minimum term, credit to NRO, no remittance abroad, within USD 2,50,000 a year.",
+    "hi_tries": 1
+  },
+  {
+    "v": 3,
+    "cat": "Markets",
+    "tk": "MARKETS",
+    "title": "SEBI eases KYC for investors: name change via PAN and Aadhaar, portable KYC records",
+    "summary": "SEBI has changed its KYC rules so investors can change their name with PAN and Aadhaar alone and reuse verified KYC records across brokers and mutual funds, from 24 December 2026.",
+    "source": "Oquilia",
+    "published": "2026-11-26T06:35:17.103000+00:00",
+    "ago": "3h",
+    "impact": "Positive",
+    "why": "Reduces compliance friction for investors.",
+    "url": "https://www.oquilia.com/news/sebi-eases-kyc-name-change-pan-aadhaar-portable-kyc-records",
+    "chips": {
+      "Effective Date": "24 December 2026"
+    },
+    "trend": [
+      0.1,
+      0.25,
+      0.2,
+      0.5,
+      0.45,
+      0.8,
+      0.95
+    ],
+    "color": "0F766E",
+    "premium": false,
+    "verbatim": false,
+    "src_title": "SEBI eases KYC for investors: name change via PAN and Aadhaar, portable KYC records",
+    "src_summary": "SEBI has changed its KYC rules so investors can change their name with PAN and Aadhaar alone and reuse verified KYC records across brokers and mutual funds, from 24 December 2026.",
+    "title_hi": "SEBI ने निवेशकों के लिए PAN और Aadhaar के जरिए नाम बदलने और पोर्टेबल रिकॉर्ड के साथ KYC आसान किया",
+    "summary_hi": "SEBI ने KYC नियमों में बदलाव किया है ताकि निवेशक 24 दिसंबर 2026 से केवल PAN और Aadhaar के साथ अपना नाम बदल सकें और सत्यापित KYC रिकॉर्ड को ब्रोकरों तथा म्यूचुअल फंडों में दोबारा इस्तेमाल कर सकें।",
+    "why_hi": "निवेशकों के लिए अनुपालन में आसानी।",
+    "chips_hi": {
+      "प्रभावी तिथि": "24 दिसंबर 2026"
+    }
+  },
+  {
+    "v": 3,
+    "cat": "Markets",
+    "tk": "MARKETS",
+    "title": "Pre-market: Nifty 50 at 25,819 after a 1.85% gain on narrow breadth",
+    "summary": "The Nifty 50 closed at 25,819.25 on Wednesday, up 1.85%, but 1,560 stocks fell against 1,183 that rose and the NIFTY Smallcap 100 slipped 0.44%.",
+    "source": "Oquilia",
+    "published": "2026-11-26T02:33:35.289000+00:00",
+    "ago": "7h",
+    "impact": "Neutral",
+    "why": "Mixed market breadth despite index gains.",
+    "url": "https://www.oquilia.com/news/nifty-50-pre-market-26-november-2026",
+    "chips": {
+      "Nifty 50": "25,819.25",
+      "Gain": "1.85%"
+    },
+    "trend": [
+      0.5,
+      0.55,
+      0.45,
+      0.5,
+      0.47,
+      0.52,
+      0.5
+    ],
+    "color": "B7791F",
+    "premium": false,
+    "verbatim": false,
+    "src_title": "Pre-market: Nifty 50 at 25,819 after a 1.85% gain on narrow breadth",
+    "src_summary": "The Nifty 50 closed at 25,819.25 on Wednesday, up 1.85%, but 1,560 stocks fell against 1,183 that rose and the NIFTY Smallcap 100 slipped 0.44%.",
+    "title_hi": "Pre-market: narrow breadth पर 1.85% बढ़त के बाद Nifty 50 25,819 पर",
+    "summary_hi": "Nifty 50 बुधवार को 25,819.25 पर बंद हुआ, जो 1.85% ऊपर था, लेकिन 1,183 शेयरों के मुकाबले 1,560 शेयर गिरे और NIFTY Smallcap 100 0.44% फिसल गया।",
+    "why_hi": "इंडेक्स लाभ के बावजूद मिश्रित बाजार।",
+    "chips_hi": {
+      "Nifty 50": "25,819.25",
+      "बढ़ت": "1.85%"
+    }
+  },
+  {
+    "v": 3,
+    "cat": "Companies",
+    "tk": "ESPO DEVELOPERS",
+    "title": "NCLAT stays insolvency process against ESPO Developers in Omkara ARC case",
+    "summary": "The NCLAT has stayed the insolvency process of ESPO Developers that the NCLT started on Omkara Assets Reconstruction's plea, saying the debt and default are not free from substantial doubt.",
+    "source": "Oquilia",
+    "published": "2026-11-26T01:35:44.302000+00:00",
+    "ago": "8h",
+    "impact": "Positive",
+    "why": "Insolvency process stayed by NCLAT",
+    "url": "https://www.oquilia.com/news/nclat-stays-insolvency-espo-developers-omkara-arc",
+    "chips": {},
+    "trend": [
+      0.1,
+      0.25,
+      0.2,
+      0.5,
+      0.45,
+      0.8,
+      0.95
+    ],
+    "color": "0F766E",
+    "premium": false,
+    "verbatim": false,
+    "src_title": "NCLAT stays insolvency process against ESPO Developers in Omkara ARC case",
+    "src_summary": "The NCLAT has stayed the insolvency process of ESPO Developers that the NCLT started on Omkara Assets Reconstruction's plea, saying the debt and default are not free from substantial doubt.",
+    "title_hi": "Omkara ARC मामले में NCLAT ने ESPO Developers के खिलाफ दिवाला प्रक्रिया पर रोक लगाई",
+    "summary_hi": "NCLAT ने Omkara Assets Reconstruction की याचिका पर NCLT द्वारा शुरू की गई ESPO Developers की दिवाला प्रक्रिया पर रोक लगा दी है, यह कहते हुए कि ऋण और डिफ़ॉल्ट में काफी संदेह है।",
+    "why_hi": "NCLAT द्वारा दिवाला प्रक्रिया पर रोक",
+    "chips_hi": {}
+  },
+  {
+    "v": 3,
+    "cat": "Finance",
+    "tk": "FINANCE",
+    "title": "Form 2 under the new Act: how infra funds and PSUs apply to get a zero coupon bond notified",
+    "summary": "Form 2 lets infrastructure capital companies, funds, debt funds and PSUs seek Gazette notification of a zero coupon bond under section 2(112), at least three months before issue, DSC only.",
+    "source": "Oquilia",
+    "published": "2026-11-26T00:41:11.180000+00:00",
+    "ago": "9h",
+    "impact": "Neutral",
+    "why": "Regulatory process update with no direct financial impact.",
+    "url": "https://www.oquilia.com/news/oquilia-research-form-2-zero-coupon-bond-notification-section-2-112",
+    "chips": {
+      "Section": "2(112)"
+    },
+    "trend": [
+      0.5,
+      0.55,
+      0.45,
+      0.5,
+      0.47,
+      0.52,
+      0.5
+    ],
+    "color": "B7791F",
+    "premium": false,
+    "verbatim": false,
+    "src_title": "Form 2 under the new Act: how infra funds and PSUs apply to get a zero coupon bond notified under section 2(112)",
+    "src_summary": "Form 2 lets infrastructure capital companies, funds, debt funds and PSUs seek Gazette notification of a zero coupon bond under section 2(112), at least three months before issue, DSC only.",
+    "title_hi": "नए अधिनियम के तहत Form 2: इंफ्रा फंड और PSU ज़ीरो कूपन बॉन्ड अधिसूचित कराने के लिए कैसे आवेदन करते हैं",
+    "summary_hi": "Form 2 इंफ्रास्ट्रक्चर कैपिटल कंपनियों, फंड्स, डेट फंड्स और PSU को जारी होने से कम से कम तीन महीने पहले, केवल DSC के माध्यम से धारा 2(112) के तहत ज़ीरो कूपन बॉन्ड की गजट अधिसूचना मांगने की अनुमति देता है।",
+    "why_hi": "नियामक प्रक्रिया अपडेट।",
+    "chips_hi": {
+      "धारा": "2(112)"
+    }
+  },
+  {
+    "v": 3,
     "cat": "Earnings",
     "tk": "SIEMENS ENERGY",
     "title": "Siemens Energy India Q4 net profit rises 81.5% to Rs 652.5 crore",
@@ -37,7 +210,9 @@
       "शुद्ध लाभ वृद्धि": "81.5%",
       "शुद्ध लाभ": "652.5 करोड़ रुपये",
       "लाभांश": "12 रुपये प्रति शेयर"
-    }
+    },
+    "hi_tries": 0,
+    "hi_ver": 2
   },
   {
     "v": 3,
@@ -77,7 +252,9 @@
       "Nifty 50": "25,819.25",
       "बढ़त": "1.85%",
       "अंक": "469.60"
-    }
+    },
+    "hi_tries": 0,
+    "hi_ver": 2
   },
   {
     "v": 3,
@@ -109,7 +286,15 @@
     "verbatim": false,
     "src_title": "NCLT Ahmedabad lets Rasna exit insolvency after Rs 71.27 lakh settlement with creditor",
     "src_summary": "The NCLT Ahmedabad bench on 17 November 2026 allowed the insolvency process against Rasna Private Limited to be withdrawn after it settled an operational creditor's claim of Rs 71,27,442.",
-    "hi_tries": 1
+    "hi_tries": 1,
+    "hi_ver": 2,
+    "title_hi": "NCLT अहमदाबाद ने 71.27 लाख रुपये के समझौते के बाद Rasna को दिवालियापन से बाहर निकलने की अनुमति दी",
+    "summary_hi": "NCLT अहमदाबाद बेंच ने 17 नवंबर 2026 को Rasna Private Limited के खिलाफ दिवालियापन की प्रक्रिया को वापस लेने की अनुमति दे दी, क्योंकि उसने एक ऑपरेशनल लेनदार के 71,27,442 रुपये के दावे का निपटारा कर दिया था।",
+    "why_hi": "दिवालियापन वापस लेने से वित्तीय संकट कम होता है।",
+    "chips_hi": {
+      "समझौता": "71.27 लाख रुपये",
+      "तारीख": "17 नव 2026"
+    }
   },
   {
     "v": 3,
@@ -147,7 +332,9 @@
     "chips_hi": {
       "कर्ज": "Rs 17.40 crore",
       "तारीख": "23 November 2026"
-    }
+    },
+    "hi_tries": 0,
+    "hi_ver": 2
   },
   {
     "v": 3,
@@ -180,7 +367,8 @@
     "verbatim": true,
     "src_title": "Zimbabwe's Lithium Ore Export Ban Stays in Force in January 2026",
     "src_summary": "Zimbabwe's 2022 ban on exports of unprocessed lithium ore remains in force in January 2026, requiring buyers that previously sourced raw ore from the country to either source processed material or look to other countries for raw ore. The ban was introduced in 2022 and was still in force in January 2026, according to a data brief dated Nov. 25, 2026. Under the rule, raw lithium ore mined in Zimbabwe cannot be shipped abroad without first being processed domestically. Buyers who previously imported unprocessed ore directly from Zimbabwe must now either secure processed lithium material or look t",
-    "hi_tries": 1
+    "hi_tries": 1,
+    "hi_ver": 2
   },
   {
     "v": 3,
@@ -209,7 +397,8 @@
     "verbatim": false,
     "src_title": "UPS and discipline: what dismissal, compulsory retirement or a pending inquiry does to the assured payout",
     "src_summary": "PFRDA's UPS FAQs: dismissal forfeits the assured payout, penal compulsory retirement pays two-thirds to full, and a pending inquiry means a lump sum until exoneration.",
-    "hi_tries": 1
+    "hi_tries": 1,
+    "hi_ver": 2
   },
   {
     "v": 3,
@@ -280,7 +469,7 @@
     "verbatim": false,
     "src_title": "Inherited money stuck in India: how a non-resident widow, widower or foreign-citizen heir remits it under FEMA 13(R)",
     "src_summary": "RBI's Remittance of Assets rules let a non-resident widow, widower or foreign-citizen heir remit up to USD 1 million a financial year of inherited money. Who qualifies, tax and RBI approval.",
-    "hi_tries": 1,
+    "hi_tries": 2,
     "hi_ver": 2
   },
   {
@@ -1311,189 +1500,6 @@
     "src_title": "RFC or RFC(D)? The two foreign currency accounts a returning NRI can keep in India, and what may be credited to each",
     "src_summary": "RBI's January 2025 FAQ lets a returning NRI hold RFC and RFC(D) accounts. What each may receive, how NRE and FCNR(B) balances move across, and how the interest is taxed.",
     "hi_tries": 2,
-    "hi_ver": 2
-  },
-  {
-    "v": 3,
-    "cat": "Finance",
-    "tk": "UNITED INDIA",
-    "title": "United India Insurance lost 7 of 8 claim disputes",
-    "summary": "Policyholders won 7 of the 8 consumer commission orders against United India Insurance in a month, including both fire claims of Rs 87.33 lakh and Rs 77.45 lakh.",
-    "source": "Oquilia",
-    "published": "2026-11-23T06:52:12.338000+00:00",
-    "ago": "2h",
-    "impact": "Negative",
-    "why": "Lost multiple consumer commission claim disputes.",
-    "url": "https://www.oquilia.com/news/united-india-insurance-lost-7-of-8-consumer-commission-orders-23-november-2026",
-    "chips": {
-      "Lost Disputes": "7 of 8",
-      "Largest Claim": "Rs 87.33 lakh"
-    },
-    "trend": [
-      0.95,
-      0.85,
-      0.7,
-      0.6,
-      0.4,
-      0.3,
-      0.1
-    ],
-    "color": "9B2C2C",
-    "premium": false,
-    "verbatim": false,
-    "src_title": "United India Insurance lost 7 of 8 claim disputes, including the 2 largest at Rs 87.33 lakh",
-    "src_summary": "Policyholders won 7 of the 8 consumer commission orders against United India Insurance in a month, including both fire claims of Rs 87.33 lakh and Rs 77.45 lakh.",
-    "title_hi": "United India Insurance ने 8 में से 7 क्लेम विवाद हारे",
-    "summary_hi": "Policyholders ने एक महीने में United India Insurance के खिलाफ 8 में से 7 consumer commission order जीते, जिसमें Rs 87.33 लाख और Rs 77.45 लाख के दोनों fire claims शामिल हैं।",
-    "why_hi": "कई consumer commission क्लेम विवाद हारे।",
-    "chips_hi": {
-      "हारे विवाद": "8 में से 7",
-      "सबसे बड़ा क्लेम": "Rs 87.33 लाख"
-    },
-    "hi_tries": 0,
-    "hi_ver": 2
-  },
-  {
-    "v": 3,
-    "cat": "Markets",
-    "tk": "DALMIA BHARAT",
-    "title": "Dalmia Bharat board approves share buyback of up to Rs 700 crore",
-    "summary": "Dalmia Bharat said in a filing with the National Stock Exchange that its board approved an open-market buyback of equity shares worth up to Rs 700 crore at a price of up to Rs 1,850 each.",
-    "source": "Oquilia",
-    "published": "2026-11-23T06:46:22.321000+00:00",
-    "ago": "2h",
-    "impact": "Positive",
-    "why": "Share buyback announced at premium price",
-    "url": "https://www.oquilia.com/news/dalmia-bharat-board-approves-share-buyback-rs-700-crore",
-    "chips": {
-      "Buyback size": "Rs 700 crore",
-      "Max price": "Rs 1,850"
-    },
-    "trend": [
-      0.1,
-      0.25,
-      0.2,
-      0.5,
-      0.45,
-      0.8,
-      0.95
-    ],
-    "color": "0F766E",
-    "premium": false,
-    "verbatim": false,
-    "src_title": "Dalmia Bharat board approves share buyback of up to Rs 700 crore",
-    "src_summary": "Dalmia Bharat said in a filing with the National Stock Exchange that its board approved an open-market buyback of equity shares worth up to Rs 700 crore at a price of up to Rs 1,850 each.",
-    "title_hi": "Dalmia Bharat board ने 700 करोड़ रुपये तक के शेयर buyback को दी मंजूरी",
-    "summary_hi": "Dalmia Bharat ने National Stock Exchange को दी गई जानकारी में बताया कि उसके board ने 1,850 रुपये प्रति शेयर तक की कीमत पर 700 करोड़ रुपये तक के equity shares के open-market buyback को मंजूरी दे दी है।",
-    "why_hi": "शेयर buyback की घोषणा",
-    "chips_hi": {
-      "Buyback आकार": "700 करोड़ रुपये",
-      "अधिकतम कीमत": "1,850 रुपये"
-    },
-    "hi_tries": 0,
-    "hi_ver": 2
-  },
-  {
-    "v": 3,
-    "cat": "Finance",
-    "tk": "EPFO",
-    "title": "EPFO board cuts minimum PF balance to 10%, approves monthly withdrawal plan",
-    "summary": "EPFO's Central Board of Trustees cut the minimum PF balance from 25% to 10%, cut the wait for final withdrawal to 2 months, and approved a Systematic Withdrawal Plan, the Labour Ministry said.",
-    "source": "Oquilia",
-    "published": "2026-11-23T03:16:12.881000+00:00",
-    "ago": "6h",
-    "impact": "Positive",
-    "why": "Eases fund access and improves liquidity.",
-    "url": "https://www.oquilia.com/news/epfo-board-cuts-minimum-pf-balance-approves-systematic-withdrawal-plan",
-    "chips": {
-      "Min PF balance": "10%",
-      "Withdrawal wait": "2 months"
-    },
-    "trend": [
-      0.1,
-      0.25,
-      0.2,
-      0.5,
-      0.45,
-      0.8,
-      0.95
-    ],
-    "color": "0F766E",
-    "premium": false,
-    "verbatim": false,
-    "src_title": "EPFO board cuts minimum PF balance to 10%, approves monthly withdrawal plan",
-    "src_summary": "EPFO's Central Board of Trustees cut the minimum PF balance from 25% to 10%, cut the wait for final withdrawal to 2 months, and approved a Systematic Withdrawal Plan, the Labour Ministry said.",
-    "hi_tries": 2,
-    "hi_ver": 2
-  },
-  {
-    "v": 3,
-    "cat": "Finance",
-    "tk": "FINANCE",
-    "title": "ITAT Delhi quashes retrospective cancellation of school society's 12A registration",
-    "summary": "The Delhi bench of the Income Tax Appellate Tribunal held the tax department had no power to cancel a school society's charitable registration retrospectively, and ordered renewal.",
-    "source": "Oquilia",
-    "published": "2026-11-23T02:35:15.956000+00:00",
-    "ago": "6h",
-    "impact": "Neutral",
-    "why": "Tax ruling for a school society.",
-    "url": "https://www.oquilia.com/news/itat-delhi-quashes-retrospective-cancellation-school-society-12a-registration",
-    "chips": {},
-    "trend": [
-      0.5,
-      0.55,
-      0.45,
-      0.5,
-      0.47,
-      0.52,
-      0.5
-    ],
-    "color": "B7791F",
-    "premium": false,
-    "verbatim": false,
-    "src_title": "ITAT Delhi quashes retrospective cancellation of school society's 12A registration",
-    "src_summary": "The Delhi bench of the Income Tax Appellate Tribunal held the tax department had no power to cancel a school society's charitable registration retrospectively, and ordered renewal.",
-    "hi_tries": 2,
-    "hi_ver": 2
-  },
-  {
-    "v": 3,
-    "cat": "Markets",
-    "tk": "MARKETS",
-    "title": "Nifty 50 starts the week at 25,800.6 after Friday rise",
-    "summary": "The Nifty 50 closed at 25,800.6 on Friday, 20 November, up 1.12%, led by Nifty Bank's 2.49% gain, but 1,682 NSE stocks fell against 1,046 that rose.",
-    "source": "Oquilia",
-    "published": "2026-11-23T02:33:53.211000+00:00",
-    "ago": "6h",
-    "impact": "Neutral",
-    "why": "General market movement without specific fundamentals.",
-    "url": "https://www.oquilia.com/news/nifty-50-pre-market-23-november-2026",
-    "chips": {
-      "Nifty 50": "25,800.6",
-      "Gain": "1.12%"
-    },
-    "trend": [
-      0.5,
-      0.55,
-      0.45,
-      0.5,
-      0.47,
-      0.52,
-      0.5
-    ],
-    "color": "B7791F",
-    "premium": false,
-    "verbatim": false,
-    "src_title": "Pre-market: Nifty 50 starts the week at 25,800.6 after a 1.12% Friday rise",
-    "src_summary": "The Nifty 50 closed at 25,800.6 on Friday, 20 November, up 1.12%, led by Nifty Bank's 2.49% gain, but 1,682 NSE stocks fell against 1,046 that rose.",
-    "title_hi": "शुक्रवार की तेजी के बाद Nifty 50 ने 25,800.6 पर की हफ्ते की शुरुआत",
-    "summary_hi": "Nifty 50 शुक्रवार, 20 नवंबर को 1.12% बढ़कर 25,800.6 पर बंद हुआ, जिसका नेतृत्व Nifty Bank की 2.49% बढ़त ने किया, लेकिन 1,046 शेयरों के मुकाबले 1,682 NSE शेयर गिरे।",
-    "why_hi": "सामान्य बाजार गतिविधि।",
-    "chips_hi": {
-      "Nifty 50": "25,800.6",
-      "बढ़त": "1.12%"
-    },
-    "hi_tries": 0,
     "hi_ver": 2
   }
 ]
