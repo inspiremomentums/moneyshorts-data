@@ -1,6 +1,318 @@
 [
   {
     "v": 3,
+    "cat": "Markets",
+    "tk": "TATA MOTORS",
+    "title": "Tata Motors says Automobile Corporation of Goa is now its subsidiary",
+    "summary": "Tata Motors said in an NSE filing that its stake in Automobile Corporation of Goa rose from 48.98% to 50.17% after the company's buyback, making it a subsidiary.",
+    "source": "Oquilia",
+    "published": "2026-11-26T15:46:00.857000+00:00",
+    "ago": "6h",
+    "impact": "Neutral",
+    "why": "Stake increase via buyback is routine.",
+    "url": "https://www.oquilia.com/news/tata-motors-automobile-corporation-of-goa-becomes-subsidiary",
+    "chips": {
+      "New stake": "50.17%",
+      "Prior stake": "48.98%"
+    },
+    "trend": [
+      0.5,
+      0.55,
+      0.45,
+      0.5,
+      0.47,
+      0.52,
+      0.5
+    ],
+    "color": "B7791F",
+    "premium": false,
+    "verbatim": false,
+    "src_title": "Tata Motors says Automobile Corporation of Goa is now its subsidiary",
+    "src_summary": "Tata Motors said in an NSE filing that its stake in Automobile Corporation of Goa rose from 48.98% to 50.17% after the company's buyback, making it a subsidiary.",
+    "title_hi": "Tata Motors ने कहा Automobile Corporation of Goa अब इसकी सहायक कंपनी है",
+    "summary_hi": "Tata Motors ने NSE फाइलिंग में कहा कि कंपनी के बायबैक के बाद Automobile Corporation of Goa में इसकी हिस्सेदारी 48.98% से बढ़कर 50.17% हो गई, जिससे यह सहायक कंपनी बन गई।",
+    "why_hi": "बायबैक से हिस्सेदारी बढ़ना एक सामान्य प्रक्रिया है।",
+    "chips_hi": {
+      "नई हिस्सेदारी": "50.17%",
+      "पुरानी हिस्सेदारी": "48.98%"
+    }
+  },
+  {
+    "v": 3,
+    "cat": "Finance",
+    "tk": "FINANCE",
+    "title": "GSTN revamps refund form RFD-01 from 1 December 2026, adds two refund categories",
+    "summary": "The GST Network said a revised refund application, FORM GST RFD-01, goes live on the GST portal on 1 December 2026, with two new refund categories and new statement columns.",
+    "source": "Oquilia",
+    "published": "2026-11-26T15:34:15.655000+00:00",
+    "ago": "6h",
+    "impact": "Neutral",
+    "why": "Administrative update for GST refunds.",
+    "url": "https://www.oquilia.com/news/gstn-revamps-refund-form-rfd-01-two-new-refund-categories",
+    "chips": {
+      "Date": "1 December 2026",
+      "Form": "RFD-01"
+    },
+    "trend": [
+      0.5,
+      0.55,
+      0.45,
+      0.5,
+      0.47,
+      0.52,
+      0.5
+    ],
+    "color": "B7791F",
+    "premium": false,
+    "verbatim": false,
+    "src_title": "GSTN revamps refund form RFD-01 from 1 December 2026, adds two refund categories",
+    "src_summary": "The GST Network said a revised refund application, FORM GST RFD-01, goes live on the GST portal on 1 December 2026, with two new refund categories and new statement columns.",
+    "hi_tries": 1
+  },
+  {
+    "v": 3,
+    "cat": "Markets",
+    "tk": "MARKETS",
+    "title": "Nifty 50 ends 0.25% higher at 25,884.50 as Nifty IT jumps 3.66%",
+    "summary": "The Nifty 50 closed at 25,884.50 on 26 November 2026, up 65.25 points or 0.25%, as 1,497 NSE stocks advanced and 1,244 declined; Nifty IT rose 3.66%.",
+    "source": "Oquilia",
+    "published": "2026-11-26T13:38:45.041000+00:00",
+    "ago": "8h",
+    "impact": "Positive",
+    "why": "Market indices closed higher with IT gains.",
+    "url": "https://www.oquilia.com/news/stock-market-today-nifty-50-closing-26-november-2026",
+    "chips": {
+      "Nifty 50": "25,884.50",
+      "Change": "0.25%",
+      "Nifty IT": "3.66%"
+    },
+    "trend": [
+      0.1,
+      0.25,
+      0.2,
+      0.5,
+      0.45,
+      0.8,
+      0.95
+    ],
+    "color": "0F766E",
+    "premium": false,
+    "verbatim": false,
+    "src_title": "Nifty 50 ends 0.25% higher at 25,884.50 as Nifty IT jumps 3.66%",
+    "src_summary": "The Nifty 50 closed at 25,884.50 on 26 November 2026, up 65.25 points or 0.25%, as 1,497 NSE stocks advanced and 1,244 declined; Nifty IT rose 3.66%.",
+    "title_hi": "Nifty 50 0.25% की बढ़त के साथ 25,884.50 पर बंद, Nifty IT में 3.66% की तेजी",
+    "summary_hi": "Nifty 50 26 नवंबर 2026 को 65.25 अंक या 0.25% बढ़कर 25,884.50 पर बंद हुआ, क्योंकि NSE के 1,497 शेयर चढ़े और 1,244 गिरे; Nifty IT 3.66% चढ़ा।",
+    "why_hi": "IT तेजी के साथ बाजार बढ़त पर बंद।",
+    "chips_hi": {
+      "Nifty 50": "25,884.50",
+      "बदलाव": "0.25%",
+      "Nifty IT": "3.66%"
+    }
+  },
+  {
+    "v": 3,
+    "cat": "Companies",
+    "tk": "COMPANIES",
+    "title": "NCLT Mumbai admits Neelamber Agrotech into insolvency over invoice-finance loan",
+    "summary": "The Mumbai bench of the National Company Law Tribunal has admitted Neelamber Agrotech Private Limited into insolvency, holding that an unpaid invoice-financing loan is a financial debt.",
+    "source": "Oquilia",
+    "published": "2026-11-26T13:36:14.503000+00:00",
+    "ago": "8h",
+    "impact": "Negative",
+    "why": "Insolvency admission pressures company fundamentals.",
+    "url": "https://www.oquilia.com/news/nclt-mumbai-admits-neelamber-agrotech-into-insolvency-invoice-finance",
+    "chips": {},
+    "trend": [
+      0.95,
+      0.85,
+      0.7,
+      0.6,
+      0.4,
+      0.3,
+      0.1
+    ],
+    "color": "9B2C2C",
+    "premium": false,
+    "verbatim": false,
+    "src_title": "NCLT Mumbai admits Neelamber Agrotech into insolvency over invoice-finance loan",
+    "src_summary": "The Mumbai bench of the National Company Law Tribunal has admitted Neelamber Agrotech Private Limited into insolvency, holding that an unpaid invoice-financing loan is a financial debt.",
+    "title_hi": "NCLT Mumbai ने Neelamber Agrotech को इनवॉल्वेंसी लोन पर दिवालिया प्रक्रिया में स्वीकार किया",
+    "summary_hi": "National Company Law Tribunal की मुंबई बेंच ने Neelamber Agrotech Private Limited को दिवालिया प्रक्रिया में स्वीकार कर लिया है, यह मानते हुए कि एक unpaid invoice-financing लोन एक वित्तीय कर्ज है।",
+    "why_hi": "दिवालिया प्रक्रिया से फंडामेंटल्स पर दबाव।",
+    "chips_hi": {}
+  },
+  {
+    "v": 3,
+    "cat": "Companies",
+    "tk": "ENKI GLASS",
+    "title": "NCLT Mumbai admits Enki Glass Industry into insolvency",
+    "summary": "The Mumbai bench of the National Company Law Tribunal has admitted Enki Glass Industry Private Limited into insolvency, holding that it defaulted on a lender's dues of Rs 18.73 crore.",
+    "source": "Oquilia",
+    "published": "2026-11-26T13:35:34.923000+00:00",
+    "ago": "8h",
+    "impact": "Negative",
+    "why": "Insolvency admission indicates severe financial distress.",
+    "url": "https://www.oquilia.com/news/nclt-mumbai-admits-enki-glass-industry-into-insolvency",
+    "chips": {
+      "Default Dues": "Rs 18.73 crore"
+    },
+    "trend": [
+      0.95,
+      0.85,
+      0.7,
+      0.6,
+      0.4,
+      0.3,
+      0.1
+    ],
+    "color": "9B2C2C",
+    "premium": false,
+    "verbatim": false,
+    "src_title": "NCLT Mumbai admits Enki Glass Industry into insolvency after settlement default",
+    "src_summary": "The Mumbai bench of the National Company Law Tribunal has admitted Enki Glass Industry Private Limited into insolvency, holding that it defaulted on a lender's dues of Rs 18.73 crore.",
+    "title_hi": "NCLT मुंबई ने Enki Glass Industry को दिवालिया प्रक्रिया में स्वीकार किया",
+    "summary_hi": "National Company Law Tribunal की मुंबई पीठ ने Enki Glass Industry Private Limited को दिवालिया प्रक्रिया में स्वीकार कर लिया है, यह मानते हुए कि इसने एक ऋणदाता के 18.73 करोड़ रुपये के बकाया का भुगतान नहीं किया है।",
+    "why_hi": "दिवालिया प्रक्रिया से गंभीर वित्तीय संकट झलकता है।",
+    "chips_hi": {
+      "बकाया राशि": "Rs 18.73 crore"
+    }
+  },
+  {
+    "v": 3,
+    "cat": "Companies",
+    "tk": "ANUH PHARMA",
+    "title": "Anuh Pharma discloses Maharashtra GST search at offices and plants",
+    "summary": "Anuh Pharma said in an NSE filing that Maharashtra GST officials began an inspection and search at its offices and plants on 26 November 2026. It expects no material impact.",
+    "source": "Oquilia",
+    "published": "2026-11-26T12:46:32.741000+00:00",
+    "ago": "9h",
+    "impact": "Negative",
+    "why": "GST search at offices and plants",
+    "url": "https://www.oquilia.com/news/anuh-pharma-discloses-maharashtra-gst-search-offices-plants",
+    "chips": {
+      "Date": "26 November 2026"
+    },
+    "trend": [
+      0.95,
+      0.85,
+      0.7,
+      0.6,
+      0.4,
+      0.3,
+      0.1
+    ],
+    "color": "9B2C2C",
+    "premium": false,
+    "verbatim": false,
+    "src_title": "Anuh Pharma discloses Maharashtra GST search at its offices and plants",
+    "src_summary": "Anuh Pharma said in an NSE filing that Maharashtra GST officials began an inspection and search at its offices and plants on 26 November 2026. It expects no material impact.",
+    "title_hi": "Anuh Pharma ने दफ्तरों और प्लांटों पर महाराष्ट्र GST सर्च की जानकारी दी",
+    "summary_hi": "Anuh Pharma ने एक NSE फाइलिंग में कहा कि महाराष्ट्र GST अधिकारियों ने 26 नवंबर 2026 को उसके दफ्तरों और प्लांटों पर निरीक्षण और तलाशी शुरू की। कंपनी को किसी बड़े असर की उम्मीद नहीं है।",
+    "why_hi": "दफ्तरों और प्लांटों पर GST सर्च",
+    "chips_hi": {
+      "तारीख": "26 नवंबर 2026"
+    }
+  },
+  {
+    "v": 3,
+    "cat": "Markets",
+    "tk": "MARKETS",
+    "title": "SEBI passes interim order against Le Lavoir and 14 others over alleged price rigging",
+    "summary": "SEBI has passed an ex-parte interim order against BSE-listed Le Lavoir Limited and 14 others, saying it prima facie found a scheme to manipulate the company's share price.",
+    "source": "Oquilia",
+    "published": "2026-11-26T12:35:21.432000+00:00",
+    "ago": "9h",
+    "impact": "Negative",
+    "why": "SEBI order over alleged price rigging.",
+    "url": "https://www.oquilia.com/news/sebi-interim-order-le-lavoir-price-manipulation",
+    "chips": {},
+    "trend": [
+      0.95,
+      0.85,
+      0.7,
+      0.6,
+      0.4,
+      0.3,
+      0.1
+    ],
+    "color": "9B2C2C",
+    "premium": false,
+    "verbatim": false,
+    "src_title": "SEBI passes interim order against Le Lavoir and 14 others over alleged price rigging",
+    "src_summary": "SEBI has passed an ex-parte interim order against BSE-listed Le Lavoir Limited and 14 others, saying it prima facie found a scheme to manipulate the company's share price.",
+    "title_hi": "SEBI ने कथित मूल्य हेराफेरी पर Le Lavoir और 14 अन्य के खिलाफ अंतरिम आदेश पारित किया",
+    "summary_hi": "SEBI ने BSE-सूचीबद्ध Le Lavoir Limited और 14 अन्य के खिलाफ एक पक्षीय अंतरिम आदेश पारित किया है, जिसमें कहा गया है कि उसे प्रथम दृष्टя कंपनी के शेयर मूल्य में हेराफेरी करने की योजना मिली है।",
+    "why_hi": "कथित मूल्य हेराफेरी पर SEBI आदेश।",
+    "chips_hi": {}
+  },
+  {
+    "v": 3,
+    "cat": "Finance",
+    "tk": "FINANCE",
+    "title": "IRDAI panel forms two study groups on health insurance claim transparency",
+    "summary": "An IRDAI sub-committee on health insurance has formed two study groups to propose standard claim metrics, common reasons for rejections and deductions, and real-time tracking of claims.",
+    "source": "Oquilia",
+    "published": "2026-11-26T10:36:09.259000+00:00",
+    "ago": "11h",
+    "impact": "Neutral",
+    "why": "Regulatory study on health insurance claims.",
+    "url": "https://www.oquilia.com/news/irdai-study-groups-health-insurance-claim-transparency",
+    "chips": {},
+    "trend": [
+      0.5,
+      0.55,
+      0.45,
+      0.5,
+      0.47,
+      0.52,
+      0.5
+    ],
+    "color": "B7791F",
+    "premium": false,
+    "verbatim": false,
+    "src_title": "IRDAI panel forms two study groups on health insurance claim transparency",
+    "src_summary": "An IRDAI sub-committee on health insurance has formed two study groups to propose standard claim metrics, common reasons for rejections and deductions, and real-time tracking of claims.",
+    "hi_tries": 1
+  },
+  {
+    "v": 3,
+    "cat": "Finance",
+    "tk": "ONGC",
+    "title": "Supreme Court on penal rent deduction from gratuity in ONGC v. Warrier",
+    "summary": "In ONGC v. Warrier (2005), the Supreme Court let ONGC take a retiree's entire Rs 1 lakh gratuity for loan dues and penal rent, because a statutory rule allowed it. What it means for you.",
+    "source": "Oquilia",
+    "published": "2026-11-26T10:33:43.745000+00:00",
+    "ago": "11h",
+    "impact": "Neutral",
+    "why": "Legal precedent on retirement dues and penal rent.",
+    "url": "https://www.oquilia.com/news/oquilia-research-gratuity-deduction-penal-rent-retiree-quarters-ongc-warrier",
+    "chips": {
+      "Gratuity": "Rs 1 lakh"
+    },
+    "trend": [
+      0.5,
+      0.55,
+      0.45,
+      0.5,
+      0.47,
+      0.52,
+      0.5
+    ],
+    "color": "B7791F",
+    "premium": false,
+    "verbatim": false,
+    "src_title": "Overstayed the company flat after retirement? When penal rent can be deducted from gratuity, per the Supreme Court in ONGC v. Warrier",
+    "src_summary": "In ONGC v. Warrier (2005), the Supreme Court let ONGC take a retiree's entire Rs 1 lakh gratuity for loan dues and penal rent, because a statutory rule allowed it. What it means for you.",
+    "hi_tries": 1,
+    "title_hi": "ONGC v. Warrier मामले में ग्रेच्युटी से दंडात्मक किराए की कटौती पर सुप्रीम कोर्ट",
+    "summary_hi": "ONGC v. Warrier (2005) में, सुप्रीम कोर्ट ने ONGC को लोन बकाया और दंडात्मक किराए के लिए एक सेवानिवृत्त कर्मचारी की पूरी Rs 1 lakh ग्रेच्युटी लेने की अनुमति दी, क्योंकि एक वैधानिक नियम इसकी अनुमति देता था। इसका आपके लिए क्या अर्थ है।",
+    "why_hi": "सेवानिवृत्ति बकाया और दंडात्मक किराए पर कानूनी मिसाल।",
+    "chips_hi": {
+      "ग्रेच्युटी": "Rs 1 lakh"
+    }
+  },
+  {
+    "v": 3,
     "cat": "Finance",
     "tk": "FINANCE",
     "title": "Lending rupees to an NRI relative: seven LRS conditions",
@@ -28,7 +340,8 @@
     "verbatim": false,
     "src_title": "Lending rupees to an NRI son or sister: the seven LRS conditions for an interest-free loan credited to the NRO account",
     "src_summary": "RBI's LRS FAQ lets a resident lend rupees interest-free to an NRI or PIO close relative: one-year minimum term, credit to NRO, no remittance abroad, within USD 2,50,000 a year.",
-    "hi_tries": 1
+    "hi_tries": 1,
+    "hi_ver": 2
   },
   {
     "v": 3,
@@ -64,7 +377,9 @@
     "why_hi": "निवेशकों के लिए अनुपालन में आसानी।",
     "chips_hi": {
       "प्रभावी तिथि": "24 दिसंबर 2026"
-    }
+    },
+    "hi_tries": 0,
+    "hi_ver": 2
   },
   {
     "v": 3,
@@ -102,7 +417,9 @@
     "chips_hi": {
       "Nifty 50": "25,819.25",
       "बढ़ت": "1.85%"
-    }
+    },
+    "hi_tries": 0,
+    "hi_ver": 2
   },
   {
     "v": 3,
@@ -134,7 +451,9 @@
     "title_hi": "Omkara ARC मामले में NCLAT ने ESPO Developers के खिलाफ दिवाला प्रक्रिया पर रोक लगाई",
     "summary_hi": "NCLAT ने Omkara Assets Reconstruction की याचिका पर NCLT द्वारा शुरू की गई ESPO Developers की दिवाला प्रक्रिया पर रोक लगा दी है, यह कहते हुए कि ऋण और डिफ़ॉल्ट में काफी संदेह है।",
     "why_hi": "NCLAT द्वारा दिवाला प्रक्रिया पर रोक",
-    "chips_hi": {}
+    "chips_hi": {},
+    "hi_tries": 0,
+    "hi_ver": 2
   },
   {
     "v": 3,
@@ -170,7 +489,9 @@
     "why_hi": "नियामक प्रक्रिया अपडेट।",
     "chips_hi": {
       "धारा": "2(112)"
-    }
+    },
+    "hi_tries": 0,
+    "hi_ver": 2
   },
   {
     "v": 3,
@@ -367,7 +688,7 @@
     "verbatim": true,
     "src_title": "Zimbabwe's Lithium Ore Export Ban Stays in Force in January 2026",
     "src_summary": "Zimbabwe's 2022 ban on exports of unprocessed lithium ore remains in force in January 2026, requiring buyers that previously sourced raw ore from the country to either source processed material or look to other countries for raw ore. The ban was introduced in 2022 and was still in force in January 2026, according to a data brief dated Nov. 25, 2026. Under the rule, raw lithium ore mined in Zimbabwe cannot be shipped abroad without first being processed domestically. Buyers who previously imported unprocessed ore directly from Zimbabwe must now either secure processed lithium material or look t",
-    "hi_tries": 1,
+    "hi_tries": 2,
     "hi_ver": 2
   },
   {
@@ -397,7 +718,7 @@
     "verbatim": false,
     "src_title": "UPS and discipline: what dismissal, compulsory retirement or a pending inquiry does to the assured payout",
     "src_summary": "PFRDA's UPS FAQs: dismissal forfeits the assured payout, penal compulsory retirement pays two-thirds to full, and a pending inquiry means a lump sum until exoneration.",
-    "hi_tries": 1,
+    "hi_tries": 2,
     "hi_ver": 2
   },
   {
@@ -1174,332 +1495,6 @@
       "अंतिम तिथि": "2 December 2026"
     },
     "hi_tries": 0,
-    "hi_ver": 2
-  },
-  {
-    "v": 3,
-    "cat": "Companies",
-    "tk": "COMPANIES",
-    "title": "NCLT Mumbai admits Shirdi Panel Industries to insolvency",
-    "summary": "The NCLT's Mumbai bench admitted Shirdi Panel Industries Limited into insolvency on 16 November 2026, holding that an assigned invoice and agreed interest count towards the Rs 1 crore threshold.",
-    "source": "Oquilia",
-    "published": "2026-11-23T13:36:41.386000+00:00",
-    "ago": "8h",
-    "impact": "Negative",
-    "why": "Insolvency admission indicates severe financial distress.",
-    "url": "https://www.oquilia.com/news/nclt-mumbai-admits-shirdi-panel-industries-insolvency-supplier-plea",
-    "chips": {
-      "Date": "16 November 2026",
-      "Threshold": "Rs 1 crore"
-    },
-    "trend": [
-      0.95,
-      0.85,
-      0.7,
-      0.6,
-      0.4,
-      0.3,
-      0.1
-    ],
-    "color": "9B2C2C",
-    "premium": false,
-    "verbatim": false,
-    "src_title": "NCLT Mumbai admits Shirdi Panel Industries to insolvency on supplier's plea",
-    "src_summary": "The NCLT's Mumbai bench admitted Shirdi Panel Industries Limited into insolvency on 16 November 2026, holding that an assigned invoice and agreed interest count towards the Rs 1 crore threshold.",
-    "title_hi": "NCLT मुंबई ने Shirdi Panel Industries को दिवालिया प्रक्रिया में स्वीकार किया",
-    "summary_hi": "NCLT की मुंबई पीठ ने 16 November 2026 को Shirdi Panel Industries Limited को दिवालिया प्रक्रिया में स्वीकार किया, यह मानते हुए कि एक असाइन किया गया चालान और सहमत ब्याज 1 करोड़ रुपये की सीमा में गिने जाते हैं।",
-    "why_hi": "दिवालिया प्रक्रिया स्वीकार करना गंभीर वित्तीय संकट को दर्शाता है।",
-    "chips_hi": {
-      "तारीख": "16 November 2026",
-      "सीमा": "1 करोड़ रुपये"
-    },
-    "hi_tries": 0,
-    "hi_ver": 2
-  },
-  {
-    "v": 3,
-    "cat": "Companies",
-    "tk": "COMPANIES",
-    "title": "NCLT admits Hind Industries to insolvency as guarantor on Central Bank plea",
-    "summary": "The NCLT's Allahabad bench on 18 November 2026 admitted Hind Industries Ltd into insolvency as a corporate guarantor, on Central Bank of India's petition over a claimed default of Rs 36.50 crore.",
-    "source": "Oquilia",
-    "published": "2026-11-23T13:35:18.790000+00:00",
-    "ago": "8h",
-    "impact": "Negative",
-    "why": "Insolvency admission proceedings initiated against the firm.",
-    "url": "https://www.oquilia.com/news/nclt-admits-hind-industries-insolvency-guarantor-central-bank-of-india",
-    "chips": {
-      "Default": "Rs 36.50 crore",
-      "Date": "18 November 2026"
-    },
-    "trend": [
-      0.95,
-      0.85,
-      0.7,
-      0.6,
-      0.4,
-      0.3,
-      0.1
-    ],
-    "color": "9B2C2C",
-    "premium": false,
-    "verbatim": false,
-    "src_title": "NCLT admits Hind Industries to insolvency as guarantor on Central Bank plea",
-    "src_summary": "The NCLT's Allahabad bench on 18 November 2026 admitted Hind Industries Ltd into insolvency as a corporate guarantor, on Central Bank of India's petition over a claimed default of Rs 36.50 crore.",
-    "title_hi": "Central Bank की याचिका पर NCLT ने Hind Industries को गारंटर के तौर पर दिवालिया प्रक्रिया में स्वीकार किया",
-    "summary_hi": "NCLT की इलाहाबाद बेंच ने 18 नवंबर 2026 को Central Bank of India की याचिका पर Hind Industries Ltd को 36.50 करोड़ रुपये के कथित डिफॉल्ट पर कॉर्पोरेट गारंटर के रूप में दिवालिया प्रक्रिया में स्वीकार किया।",
-    "why_hi": "फर्म के खिलाफ दिवालिया कार्यवाही शुरू।",
-    "chips_hi": {
-      "डिफॉल्ट": "36.50 करोड़ रुपये",
-      "तारीख": "18 नवंबर 2026"
-    },
-    "hi_tries": 0,
-    "hi_ver": 2
-  },
-  {
-    "v": 3,
-    "cat": "Companies",
-    "tk": "MONOPOLY",
-    "title": "NCLT Mumbai admits Monopoly Innovations to insolvency on ICICI Bank plea",
-    "summary": "The NCLT's Mumbai bench admitted Monopoly Innovations Limited into insolvency on 20 November 2026 on ICICI Bank's petition over a claimed default of about Rs 2.98 crore on emergency credit line loans.",
-    "source": "Oquilia",
-    "published": "2026-11-23T13:34:30.454000+00:00",
-    "ago": "8h",
-    "impact": "Neutral",
-    "why": "Insolvency admission of a small private company.",
-    "url": "https://www.oquilia.com/news/nclt-mumbai-admits-monopoly-innovations-insolvency-icici-bank",
-    "chips": {
-      "Default": "Rs 2.98 crore"
-    },
-    "trend": [
-      0.5,
-      0.55,
-      0.45,
-      0.5,
-      0.47,
-      0.52,
-      0.5
-    ],
-    "color": "B7791F",
-    "premium": false,
-    "verbatim": false,
-    "src_title": "NCLT Mumbai admits Monopoly Innovations to insolvency on ICICI Bank plea",
-    "src_summary": "The NCLT's Mumbai bench admitted Monopoly Innovations Limited into insolvency on 20 November 2026 on ICICI Bank's petition over a claimed default of about Rs 2.98 crore on emergency credit line loans.",
-    "title_hi": "NCLT मुंबई ने ICICI बैंक की याचिका पर Monopoly Innovations को दिवालिया घोषित किया",
-    "summary_hi": "NCLT की मुंबई बेंच ने 20 नवंबर 2026 को ICICI Bank की याचिका पर Monopoly Innovations Limited को आपातकालीन क्रेडिट लाइन लोन पर लगभग 2.98 करोड़ रुपये के कथित डिफॉल्ट पर दिवालिया प्रक्रिया में स्वीकार कर लिया।",
-    "why_hi": "छोटी प्राइवेट कंपनी दिवालिया प्रक्रिया में शामिल।",
-    "chips_hi": {
-      "डिफॉल्ट": "Rs 2.98 crore"
-    },
-    "hi_tries": 0,
-    "hi_ver": 2
-  },
-  {
-    "v": 3,
-    "cat": "Companies",
-    "tk": "COMPANIES",
-    "title": "NCLT Ahmedabad admits Mclay Ceramic into insolvency; claims due by 3 December",
-    "summary": "The NCLT's Ahmedabad Bench admitted Mclay Ceramic Private Limited into insolvency from 19 November 2026, an IBBI announcement says; creditors must file claims by 3 December 2026.",
-    "source": "Oquilia",
-    "published": "2026-11-23T12:35:53.038000+00:00",
-    "ago": "9h",
-    "impact": "Negative",
-    "why": "Company admitted into insolvency proceedings.",
-    "url": "https://www.oquilia.com/news/nclt-ahmedabad-admits-mclay-ceramic-insolvency-claims-deadline",
-    "chips": {
-      "Deadline": "3 December 2026",
-      "Date": "19 November 2026"
-    },
-    "trend": [
-      0.95,
-      0.85,
-      0.7,
-      0.6,
-      0.4,
-      0.3,
-      0.1
-    ],
-    "color": "9B2C2C",
-    "premium": false,
-    "verbatim": false,
-    "src_title": "NCLT Ahmedabad admits Mclay Ceramic into insolvency; claims due by 3 December",
-    "src_summary": "The NCLT's Ahmedabad Bench admitted Mclay Ceramic Private Limited into insolvency from 19 November 2026, an IBBI announcement says; creditors must file claims by 3 December 2026.",
-    "title_hi": "NCLT अहमदाबाद ने Mclay Ceramic को दिवालिया प्रक्रिया में स्वीकार किया",
-    "summary_hi": "NCLT की अहमदाबाद बेंच ने 19 नवंबर 2026 से Mclay Ceramic Private Limited को दिवालिया प्रक्रिया में स्वीकार कर लिया है, एक IBBI घोषणा के अनुसार; लेनदारों को 3 दिसंबर 2026 तक दावे दाखिल करने होंगे।",
-    "why_hi": "कंपनी दिवालिया प्रक्रिया में स्वीकार की गई।",
-    "chips_hi": {
-      "अंतिम तिथि": "3 December 2026",
-      "दिनांक": "19 November 2026"
-    },
-    "hi_tries": 0,
-    "hi_ver": 2
-  },
-  {
-    "v": 3,
-    "cat": "Finance",
-    "tk": "FINANCE",
-    "title": "RBI sets Rs 1 crore minimum investment in bank securitisation notes from April 2027",
-    "summary": "RBI said on 23 November 2026 that securitisation notes issued under its commercial bank rules must be in demat form, with a minimum ticket size of Rs 1 crore per investor from 1 April 2027.",
-    "source": "Oquilia",
-    "published": "2026-11-23T12:35:15.160000+00:00",
-    "ago": "9h",
-    "impact": "Neutral",
-    "why": "Regulatory change for commercial banks.",
-    "url": "https://www.oquilia.com/news/rbi-rs-1-crore-minimum-ticket-size-bank-securitisation-notes",
-    "chips": {
-      "Minimum Investment": "Rs 1 crore",
-      "Effective Date": "1 April 2027"
-    },
-    "trend": [
-      0.5,
-      0.55,
-      0.45,
-      0.5,
-      0.47,
-      0.52,
-      0.5
-    ],
-    "color": "B7791F",
-    "premium": false,
-    "verbatim": false,
-    "src_title": "RBI sets Rs 1 crore minimum investment in bank securitisation notes from April 2027",
-    "src_summary": "RBI said on 23 November 2026 that securitisation notes issued under its commercial bank rules must be in demat form, with a minimum ticket size of Rs 1 crore per investor from 1 April 2027.",
-    "hi_tries": 2,
-    "hi_ver": 2
-  },
-  {
-    "v": 3,
-    "cat": "Finance",
-    "tk": "FINANCE",
-    "title": "RBI proposes more customer control over digital banking channels to curb fraud",
-    "summary": "RBI has issued draft rules to give bank customers greater control over how digital payment channels are used and to widen what counts as negligence by a bank. Comments are open until 14 December 2026.",
-    "source": "Oquilia",
-    "published": "2026-11-23T11:35:18.928000+00:00",
-    "ago": "10h",
-    "impact": "Neutral",
-    "why": "Draft rules to enhance digital safety.",
-    "url": "https://www.oquilia.com/news/rbi-draft-preventive-safeguards-electronic-banking-transactions",
-    "chips": {
-      "Deadline": "14 December 2026"
-    },
-    "trend": [
-      0.5,
-      0.55,
-      0.45,
-      0.5,
-      0.47,
-      0.52,
-      0.5
-    ],
-    "color": "B7791F",
-    "premium": false,
-    "verbatim": false,
-    "src_title": "RBI proposes more customer control over digital banking channels to curb fraud",
-    "src_summary": "RBI has issued draft rules to give bank customers greater control over how digital payment channels are used and to widen what counts as negligence by a bank. Comments are open until 14 December 2026.",
-    "hi_tries": 2,
-    "hi_ver": 2
-  },
-  {
-    "v": 3,
-    "cat": "Companies",
-    "tk": "GREENLEAF",
-    "title": "Greenleaf Envirotech says independent director has resigned",
-    "summary": "Greenleaf Envirotech told the National Stock Exchange that an independent director resigned on 23 November 2026, citing other professional commitments, and left two board committees.",
-    "source": "Oquilia",
-    "published": "2026-11-23T10:46:52.383000+00:00",
-    "ago": "1d",
-    "impact": "Neutral",
-    "why": "Routine resignation of an independent director.",
-    "url": "https://www.oquilia.com/news/greenleaf-envirotech-independent-director-resigns-other-commitments",
-    "chips": {
-      "Resignation Date": "23 November 2026"
-    },
-    "trend": [
-      0.5,
-      0.55,
-      0.45,
-      0.5,
-      0.47,
-      0.52,
-      0.5
-    ],
-    "color": "B7791F",
-    "premium": false,
-    "verbatim": false,
-    "src_title": "Greenleaf Envirotech says independent director has resigned, citing other commitments",
-    "src_summary": "Greenleaf Envirotech told the National Stock Exchange that an independent director resigned on 23 November 2026, citing other professional commitments, and left two board committees.",
-    "title_hi": "Greenleaf Envirotech ने कहा कि स्वतंत्र निदेशक ने इस्तीफा दिया है",
-    "summary_hi": "Greenleaf Envirotech ने नेशनल स्टॉक एक्सचेंज को बताया कि अन्य व्यावसायिक प्रतिबद्धताओं का हवाला देते हुए एक स्वतंत्र निदेशक ने 23 नवंबर 2026 को इस्तीफा दे दिया और दो बोर्ड समितियों को छोड़ दिया।",
-    "why_hi": "स्वतंत्र निदेशक का नियमित इस्तीफा।",
-    "chips_hi": {
-      "इस्तीफा तिथि": "23 नवंबर 2026"
-    },
-    "hi_tries": 0,
-    "hi_ver": 2
-  },
-  {
-    "v": 3,
-    "cat": "Finance",
-    "tk": "FINANCE",
-    "title": "Leaving UPS for NPS: the one-time, one-way switch, its deadlines and what happens to the extra 4% government contribution",
-    "summary": "PFRDA's UPS FAQ lets Central Government staff revert to NPS once, up to 12 months before superannuation. The 4% gap is credited, but the assured payout is lost. Rules, tax and a worked drawdown.",
-    "source": "Oquilia",
-    "published": "2026-11-23T10:33:56.588000+00:00",
-    "ago": "1d",
-    "impact": "Neutral",
-    "why": "Policy update for government employee pension options.",
-    "url": "https://www.oquilia.com/news/oquilia-research-ups-to-nps-one-time-one-way-switch-rule-11-timelines",
-    "chips": {
-      "Contribution": "4%",
-      "Deadline": "12 months"
-    },
-    "trend": [
-      0.5,
-      0.55,
-      0.45,
-      0.5,
-      0.47,
-      0.52,
-      0.5
-    ],
-    "color": "B7791F",
-    "premium": false,
-    "verbatim": true,
-    "src_title": "Leaving UPS for NPS: the one-time, one-way switch, its deadlines and what happens to the extra 4% government contribution",
-    "src_summary": "PFRDA's UPS FAQ lets Central Government staff revert to NPS once, up to 12 months before superannuation. The 4% gap is credited, but the assured payout is lost. Rules, tax and a worked drawdown.",
-    "hi_tries": 2,
-    "hi_ver": 2
-  },
-  {
-    "v": 3,
-    "cat": "Finance",
-    "tk": "FINANCE",
-    "title": "RFC or RFC(D)? The two foreign currency accounts a returning NRI can keep in India, and what may be credited to each",
-    "summary": "RBI's January 2025 FAQ lets a returning NRI hold RFC and RFC(D) accounts. What each may receive, how NRE and FCNR(B) balances move across, and how the interest is taxed.",
-    "source": "Oquilia",
-    "published": "2026-11-23T09:05:19.073000+00:00",
-    "ago": "15m",
-    "impact": "Neutral",
-    "why": "Informational guide on NRI foreign currency accounts.",
-    "url": "https://www.oquilia.com/news/oquilia-research-rfc-vs-rfc-d-account-returning-nri-permitted-credits",
-    "chips": {
-      "Timeline": "January 2025"
-    },
-    "trend": [
-      0.5,
-      0.55,
-      0.45,
-      0.5,
-      0.47,
-      0.52,
-      0.5
-    ],
-    "color": "B7791F",
-    "premium": false,
-    "verbatim": false,
-    "src_title": "RFC or RFC(D)? The two foreign currency accounts a returning NRI can keep in India, and what may be credited to each",
-    "src_summary": "RBI's January 2025 FAQ lets a returning NRI hold RFC and RFC(D) accounts. What each may receive, how NRE and FCNR(B) balances move across, and how the interest is taxed.",
-    "hi_tries": 2,
     "hi_ver": 2
   }
 ]
