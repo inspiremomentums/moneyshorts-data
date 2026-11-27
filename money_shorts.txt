@@ -1,6 +1,236 @@
 [
   {
     "v": 3,
+    "cat": "Finance",
+    "tk": "FINANCE",
+    "title": "Form 41 under the Income Tax Act, 2025: how a non-resident furnishes DTAA details online",
+    "summary": "Form 41 under the Income-tax Act, 2025 is how a non-resident furnishes DTAA relief details online. What the e-Filing manual requires, the NR ID route without a PAN, and the 16 steps.",
+    "source": "Oquilia",
+    "published": "2026-11-27T09:05:35.258000+00:00",
+    "ago": "44m",
+    "impact": "Neutral",
+    "why": "Procedural tax guidelines update for non-residents.",
+    "url": "https://www.oquilia.com/news/oquilia-research-form-41-income-tax-act-2025-dtaa-relief-nr-id-filing",
+    "chips": {
+      "Act": "Income Tax Act, 2025",
+      "Form": "Form 41",
+      "Steps": "16 steps"
+    },
+    "trend": [
+      0.5,
+      0.55,
+      0.45,
+      0.5,
+      0.47,
+      0.52,
+      0.5
+    ],
+    "color": "B7791F",
+    "premium": false,
+    "verbatim": false,
+    "src_title": "Form 41 under the Income Tax Act, 2025: how a non-resident furnishes DTAA details online, including without a PAN",
+    "src_summary": "Form 41 under the Income-tax Act, 2025 is how a non-resident furnishes DTAA relief details online. What the e-Filing manual requires, the NR ID route without a PAN, and the 16 steps.",
+    "title_hi": "Income Tax Act, 2025 के तहत Form 41: एक गैर-निवासी ऑनलाइन DTAA विवरण कैसे प्रस्तुत करता है",
+    "summary_hi": "Income Tax Act, 2025 के तहत Form 41 वह तरीका है जिससे एक गैर-निवासी ऑनलाइन DTAA राहत विवरण प्रस्तुत करता है। ई-फाइलिंग मैनुअल क्या मांगता है, PAN के बिना NR ID रूट, और 16 चरण।",
+    "why_hi": "गैर-निवासियों के लिए प्रक्रियात्मक कर दिशा-निर्देश।",
+    "chips_hi": {
+      "Act": "Income Tax Act, 2025",
+      "Form": "Form 41",
+      "Steps": "16 steps"
+    }
+  },
+  {
+    "v": 3,
+    "cat": "Markets",
+    "tk": "MARKETS",
+    "title": "Shyam Metalics unit takes 95.15% of Ramsarup Industries in Rs 98 crore allotment",
+    "summary": "Shyam Metalics and Energy said in an NSE filing that its subsidiary was allotted shares worth Rs 98 crore in Ramsarup Industries, lifting the group's stake in the step-down subsidiary to 98.06%.",
+    "source": "Oquilia",
+    "published": "2026-11-27T05:46:15.541000+00:00",
+    "ago": "4h",
+    "impact": "Positive",
+    "why": "Subsidiary stake increased via share allotment",
+    "url": "https://www.oquilia.com/news/shyam-metalics-unit-ramsarup-industries-rs-98-crore-allotment",
+    "chips": {
+      "Stake": "95.15%",
+      "Amount": "Rs 98 crore",
+      "Total Stake": "98.06%"
+    },
+    "trend": [
+      0.1,
+      0.25,
+      0.2,
+      0.5,
+      0.45,
+      0.8,
+      0.95
+    ],
+    "color": "0F766E",
+    "premium": false,
+    "verbatim": false,
+    "src_title": "Shyam Metalics unit takes 95.15% of Ramsarup Industries in Rs 98 crore allotment",
+    "src_summary": "Shyam Metalics and Energy said in an NSE filing that its subsidiary was allotted shares worth Rs 98 crore in Ramsarup Industries, lifting the group's stake in the step-down subsidiary to 98.06%.",
+    "title_hi": "Shyam Metalics unit ने Rs 98 crore के allotment में Ramsarup Industries का 95.15% हिस्सा लिया",
+    "summary_hi": "Shyam Metalics and Energy ने NSE filing में कहा कि उसकी subsidiary को Ramsarup Industries में Rs 98 crore के shares allotment किए गए, जिससे step-down subsidiary में group की हिस्सेदारी बढ़कर 98.06% हो गई।",
+    "why_hi": "शेयर आवंटन के जरिए सहायक कंपनी की हिस्सेदारी बढ़ी",
+    "chips_hi": {
+      "हिस्सेदारी": "95.15%",
+      "राशि": "Rs 98 crore",
+      "कुल हिस्सेदारी": "98.06%"
+    }
+  },
+  {
+    "v": 3,
+    "cat": "IPO",
+    "tk": "MAHANADI",
+    "title": "Mahanadi Coalfields lists today after Rs 8,981 crore IPO priced at Rs 136",
+    "summary": "Coal India's Odisha unit priced its offer for sale at Rs 136, the top of the Rs 129-136 band, per the prospectus filed with SEBI. Shares are set to list on November 27.",
+    "source": "Oquilia",
+    "published": "2026-11-27T04:24:50.687000+00:00",
+    "ago": "5h",
+    "impact": "Positive",
+    "why": "Successful IPO listing aids Coal India.",
+    "url": "https://www.oquilia.com/news/mahanadi-coalfields-ipo-priced-rs-136-listing-nse-bse",
+    "chips": {
+      "IPO Size": "Rs 8,981 crore",
+      "Price": "Rs 136"
+    },
+    "trend": [
+      0.1,
+      0.25,
+      0.2,
+      0.5,
+      0.45,
+      0.8,
+      0.95
+    ],
+    "color": "0F766E",
+    "premium": false,
+    "verbatim": false,
+    "src_title": "Mahanadi Coalfields lists today after Rs 8,981 crore IPO priced at Rs 136",
+    "src_summary": "Coal India's Odisha unit priced its offer for sale at Rs 136, the top of the Rs 129-136 band, per the prospectus filed with SEBI. Shares are set to list on November 27.",
+    "title_hi": "Mahanadi Coalfields लिस्ट आज Rs 8,981 करोड़ IPO के बाद Rs 136 पर priced",
+    "summary_hi": "Coal India की ओडिशा यूनिट ने SEBI में दाखिल प्रॉस्पेक्टस के अनुसार अपना ऑफर फॉर सेल Rs 136 पर प्राइस किया, जो Rs 129-136 के बैंड का ऊपरी स्तर है। शेयर 27 नवंबर को लिस्ट होने वाले हैं।",
+    "why_hi": "सफल IPO लिस्टिंग से Coal India को फायदा।",
+    "chips_hi": {
+      "IPO साइज़": "Rs 8,981 करोड़",
+      "कीमत": "Rs 136"
+    }
+  },
+  {
+    "v": 3,
+    "cat": "Finance",
+    "tk": "FINANCE",
+    "title": "ITAT Jaipur allows Bundi co-op bank's Rs 1.4 crore gratuity deduction for LIC scheme",
+    "summary": "The Income Tax Appellate Tribunal allowed The Bundi Central Cooperative Bank to deduct Rs 1,39,90,419 paid to LIC for staff gratuity, though the scheme's approval came later.",
+    "source": "Oquilia",
+    "published": "2026-11-27T02:35:44.784000+00:00",
+    "ago": "7h",
+    "impact": "Positive",
+    "why": "Tax deduction allowed for gratuity payment.",
+    "url": "https://www.oquilia.com/news/itat-jaipur-allows-bundi-co-op-bank-gratuity-deduction-lic-scheme",
+    "chips": {
+      "Gratuity deduction": "Rs 1,39,90,419"
+    },
+    "trend": [
+      0.1,
+      0.25,
+      0.2,
+      0.5,
+      0.45,
+      0.8,
+      0.95
+    ],
+    "color": "0F766E",
+    "premium": false,
+    "verbatim": false,
+    "src_title": "ITAT Jaipur allows Bundi co-op bank's Rs 1.4 crore gratuity deduction for LIC scheme",
+    "src_summary": "The Income Tax Appellate Tribunal allowed The Bundi Central Cooperative Bank to deduct Rs 1,39,90,419 paid to LIC for staff gratuity, though the scheme's approval came later.",
+    "hi_tries": 1
+  },
+  {
+    "v": 3,
+    "cat": "Markets",
+    "tk": "MARKETS",
+    "title": "Nifty 50 at 25,884.5 after IT stocks lead gains",
+    "summary": "The Nifty 50 closed at 25,884.5 on Thursday, up 0.25%, as Nifty IT rose 3.66%, India VIX fell 4.73% and 1,497 stocks advanced against 1,244 decliners on NSE.",
+    "source": "Oquilia",
+    "published": "2026-11-27T02:33:32.323000+00:00",
+    "ago": "7h",
+    "impact": "Positive",
+    "why": "Market indices and IT stocks rose.",
+    "url": "https://www.oquilia.com/news/nifty-50-pre-market-27-november-2026",
+    "chips": {
+      "Nifty 50": "25,884.5",
+      "Gain": "0.25%",
+      "Nifty IT": "3.66%"
+    },
+    "trend": [
+      0.1,
+      0.25,
+      0.2,
+      0.5,
+      0.45,
+      0.8,
+      0.95
+    ],
+    "color": "0F766E",
+    "premium": false,
+    "verbatim": false,
+    "src_title": "Pre-market: Nifty 50 at 25,884.5 after IT stocks lead a Thursday gain",
+    "src_summary": "The Nifty 50 closed at 25,884.5 on Thursday, up 0.25%, as Nifty IT rose 3.66%, India VIX fell 4.73% and 1,497 stocks advanced against 1,244 decliners on NSE.",
+    "title_hi": "IT शेयरों की तेजी के बाद Nifty 50 25,884.5 पर",
+    "summary_hi": "गुरुवार को Nifty 50 0.25% बढ़कर 25,884.5 पर बंद हुआ, क्योंकि Nifty IT 3.66% चढ़ा, India VIX 4.73% गिरा और NSE पर 1,497 शेयर चढ़े जबकि 1,244 गिरे।",
+    "why_hi": "बाजार के सूचकांक और IT शेयर बढ़े।",
+    "chips_hi": {
+      "Nifty 50": "25,884.5",
+      "बढ़त": "0.25%",
+      "Nifty IT": "3.66%"
+    }
+  },
+  {
+    "v": 3,
+    "cat": "Finance",
+    "tk": "FINANCE",
+    "title": "Form 19: notification of semiconductor wafer fab as specified business under section 46 deduction",
+    "summary": "Form No. 19 gets a semiconductor wafer fab notified under section 46(11)(d)(xiii) of the Income-tax Act, 2025. Rule 36(6) conditions, the five panels, a worked example and common mistakes.",
+    "source": "Oquilia",
+    "published": "2026-11-27T00:47:56.298000+00:00",
+    "ago": "9h",
+    "impact": "Positive",
+    "why": "Tax deduction benefits semiconductor wafer fabs.",
+    "url": "https://www.oquilia.com/news/oquilia-research-form-19-semiconductor-wafer-unit-specified-business-section-46",
+    "chips": {
+      "Form": "19",
+      "Section": "46(11)(d)(xiii)",
+      "Rule": "36(6)"
+    },
+    "trend": [
+      0.1,
+      0.25,
+      0.2,
+      0.5,
+      0.45,
+      0.8,
+      0.95
+    ],
+    "color": "0F766E",
+    "premium": false,
+    "verbatim": false,
+    "src_title": "Form 19: how a semiconductor wafer fab gets notified as a specified business for the section 46 deduction",
+    "src_summary": "Form No. 19 gets a semiconductor wafer fab notified under section 46(11)(d)(xiii) of the Income-tax Act, 2025. Rule 36(6) conditions, the five panels, a worked example and common mistakes.",
+    "hi_tries": 1,
+    "title_hi": "फॉर्म 19: सेक्शन 46 कटौती के तहत निर्दिष्ट व्यवसाय के रूप में सेमीकंडक्टर वेफर फैब की अधिसूचना",
+    "summary_hi": "फॉर्म नंबर 19 इनकम-टैक्स एक्ट, 2025 के सेक्शन 46(11)(d)(xiii) के तहत सेमीकंडक्टर वेफर फैब को अधिसूचित करता है। रूल 36(6) की शर्तें, पांच पैनल, एक हल किया गया उदाहरण और आम गलतियाँ।",
+    "why_hi": "टैक्स कटौती से सेमीकंडक्टर वेफर फैब को लाभ होता है।",
+    "chips_hi": {
+      "फॉर्म": "19",
+      "सेक्शन": "46(11)(d)(xiii)",
+      "रूल": "36(6)"
+    }
+  },
+  {
+    "v": 3,
     "cat": "Markets",
     "tk": "TATA MOTORS",
     "title": "Tata Motors says Automobile Corporation of Goa is now its subsidiary",
@@ -35,7 +265,9 @@
     "chips_hi": {
       "नई हिस्सेदारी": "50.17%",
       "पुरानी हिस्सेदारी": "48.98%"
-    }
+    },
+    "hi_tries": 0,
+    "hi_ver": 2
   },
   {
     "v": 3,
@@ -67,7 +299,15 @@
     "verbatim": false,
     "src_title": "GSTN revamps refund form RFD-01 from 1 December 2026, adds two refund categories",
     "src_summary": "The GST Network said a revised refund application, FORM GST RFD-01, goes live on the GST portal on 1 December 2026, with two new refund categories and new statement columns.",
-    "hi_tries": 1
+    "hi_tries": 1,
+    "hi_ver": 2,
+    "title_hi": "GSTN ने 1 December 2026 से रिफंड फॉर्म RFD-01 को बदला, दो नई रिफंड श्रेणियां जोड़ीं",
+    "summary_hi": "GST नेटवर्क ने कहा कि संशोधित रिफंड आवेदन, FORM GST RFD-01, 1 December 2026 को GST पोर्टल पर लाइव होगा, जिसमें दो नई रिफंड श्रेणियां और नए स्टेटमेंट कॉलम होंगे।",
+    "why_hi": "GST रिफंड के लिए प्रशासनिक अपडेट।",
+    "chips_hi": {
+      "तारीख": "1 December 2026",
+      "फॉर्म": "RFD-01"
+    }
   },
   {
     "v": 3,
@@ -107,7 +347,9 @@
       "Nifty 50": "25,884.50",
       "बदलाव": "0.25%",
       "Nifty IT": "3.66%"
-    }
+    },
+    "hi_tries": 0,
+    "hi_ver": 2
   },
   {
     "v": 3,
@@ -139,7 +381,9 @@
     "title_hi": "NCLT Mumbai ने Neelamber Agrotech को इनवॉल्वेंसी लोन पर दिवालिया प्रक्रिया में स्वीकार किया",
     "summary_hi": "National Company Law Tribunal की मुंबई बेंच ने Neelamber Agrotech Private Limited को दिवालिया प्रक्रिया में स्वीकार कर लिया है, यह मानते हुए कि एक unpaid invoice-financing लोन एक वित्तीय कर्ज है।",
     "why_hi": "दिवालिया प्रक्रिया से फंडामेंटल्स पर दबाव।",
-    "chips_hi": {}
+    "chips_hi": {},
+    "hi_tries": 0,
+    "hi_ver": 2
   },
   {
     "v": 3,
@@ -175,7 +419,9 @@
     "why_hi": "दिवालिया प्रक्रिया से गंभीर वित्तीय संकट झलकता है।",
     "chips_hi": {
       "बकाया राशि": "Rs 18.73 crore"
-    }
+    },
+    "hi_tries": 0,
+    "hi_ver": 2
   },
   {
     "v": 3,
@@ -211,7 +457,9 @@
     "why_hi": "दफ्तरों और प्लांटों पर GST सर्च",
     "chips_hi": {
       "तारीख": "26 नवंबर 2026"
-    }
+    },
+    "hi_tries": 0,
+    "hi_ver": 2
   },
   {
     "v": 3,
@@ -243,7 +491,9 @@
     "title_hi": "SEBI ने कथित मूल्य हेराफेरी पर Le Lavoir और 14 अन्य के खिलाफ अंतरिम आदेश पारित किया",
     "summary_hi": "SEBI ने BSE-सूचीबद्ध Le Lavoir Limited और 14 अन्य के खिलाफ एक पक्षीय अंतरिम आदेश पारित किया है, जिसमें कहा गया है कि उसे प्रथम दृष्टя कंपनी के शेयर मूल्य में हेराफेरी करने की योजना मिली है।",
     "why_hi": "कथित मूल्य हेराफेरी पर SEBI आदेश।",
-    "chips_hi": {}
+    "chips_hi": {},
+    "hi_tries": 0,
+    "hi_ver": 2
   },
   {
     "v": 3,
@@ -272,7 +522,8 @@
     "verbatim": false,
     "src_title": "IRDAI panel forms two study groups on health insurance claim transparency",
     "src_summary": "An IRDAI sub-committee on health insurance has formed two study groups to propose standard claim metrics, common reasons for rejections and deductions, and real-time tracking of claims.",
-    "hi_tries": 1
+    "hi_tries": 1,
+    "hi_ver": 2
   },
   {
     "v": 3,
@@ -303,13 +554,14 @@
     "verbatim": false,
     "src_title": "Overstayed the company flat after retirement? When penal rent can be deducted from gratuity, per the Supreme Court in ONGC v. Warrier",
     "src_summary": "In ONGC v. Warrier (2005), the Supreme Court let ONGC take a retiree's entire Rs 1 lakh gratuity for loan dues and penal rent, because a statutory rule allowed it. What it means for you.",
-    "hi_tries": 1,
+    "hi_tries": 0,
     "title_hi": "ONGC v. Warrier मामले में ग्रेच्युटी से दंडात्मक किराए की कटौती पर सुप्रीम कोर्ट",
     "summary_hi": "ONGC v. Warrier (2005) में, सुप्रीम कोर्ट ने ONGC को लोन बकाया और दंडात्मक किराए के लिए एक सेवानिवृत्त कर्मचारी की पूरी Rs 1 lakh ग्रेच्युटी लेने की अनुमति दी, क्योंकि एक वैधानिक नियम इसकी अनुमति देता था। इसका आपके लिए क्या अर्थ है।",
     "why_hi": "सेवानिवृत्ति बकाया और दंडात्मक किराए पर कानूनी मिसाल।",
     "chips_hi": {
       "ग्रेच्युटी": "Rs 1 lakh"
-    }
+    },
+    "hi_ver": 2
   },
   {
     "v": 3,
@@ -340,7 +592,7 @@
     "verbatim": false,
     "src_title": "Lending rupees to an NRI son or sister: the seven LRS conditions for an interest-free loan credited to the NRO account",
     "src_summary": "RBI's LRS FAQ lets a resident lend rupees interest-free to an NRI or PIO close relative: one-year minimum term, credit to NRO, no remittance abroad, within USD 2,50,000 a year.",
-    "hi_tries": 1,
+    "hi_tries": 2,
     "hi_ver": 2
   },
   {
@@ -1263,238 +1515,6 @@
       "शेयर": "72,76,981",
       "खुलता है": "December 1"
     },
-    "hi_ver": 2
-  },
-  {
-    "v": 3,
-    "cat": "Markets",
-    "tk": "MARKETS",
-    "title": "Nifty 50 at 25,349.65 after banks drag it 1.75% lower on Monday",
-    "summary": "The Nifty 50 closed at 25,349.65 on Monday, down 1.75%, as Nifty Bank lost 3.17% and 1,997 stocks fell against 748 that rose. Nifty IT gained 1.69%.",
-    "source": "Oquilia",
-    "published": "2026-11-24T02:33:54.839000+00:00",
-    "ago": "8h",
-    "impact": "Negative",
-    "why": "Market indices fell due to bank losses.",
-    "url": "https://www.oquilia.com/news/nifty-50-pre-market-24-november-2026",
-    "chips": {
-      "Nifty 50": "25,349.65",
-      "Decline": "1.75%",
-      "Bank drop": "3.17%"
-    },
-    "trend": [
-      0.95,
-      0.85,
-      0.7,
-      0.6,
-      0.4,
-      0.3,
-      0.1
-    ],
-    "color": "9B2C2C",
-    "premium": false,
-    "verbatim": false,
-    "src_title": "Pre-market: Nifty 50 at 25,349.65 after banks drag it 1.75% lower on Monday",
-    "src_summary": "The Nifty 50 closed at 25,349.65 on Monday, down 1.75%, as Nifty Bank lost 3.17% and 1,997 stocks fell against 748 that rose. Nifty IT gained 1.69%.",
-    "title_hi": "सोमवार को बैंकों की गिरावट से Nifty 50 गिरकर 25,349.65 पर बंद हुआ",
-    "summary_hi": "सोमवार को Nifty 50 1.75% गिरकर 25,349.65 पर बंद हुआ, क्योंकि Nifty Bank में 3.17% की गिरावट आई और 1,997 शेयर गिरे जबकि 748 बढ़े। Nifty IT में 1.69% की बढ़त हुई।",
-    "why_hi": "बैंकों के नुकसान से बाजार सूचकांक गिरे।",
-    "chips_hi": {
-      "Nifty 50": "25,349.65",
-      "गिरावट": "1.75%",
-      "बैंक गिरावट": "3.17%"
-    },
-    "hi_tries": 0,
-    "hi_ver": 2
-  },
-  {
-    "v": 3,
-    "cat": "Finance",
-    "tk": "FINANCE",
-    "title": "Received a Form 121 nil-tax declaration? How deductors file it by the 7th and build the UIN",
-    "summary": "Deductors holding Form 121 nil-tax declarations must file them quarterly by the 7th of the following month, with a 26-character UIN per declarant. Step-by-step guide.",
-    "source": "Oquilia",
-    "published": "2026-11-24T00:40:22.364000+00:00",
-    "ago": "10h",
-    "impact": "Neutral",
-    "why": "Procedural tax filing update with no fundamental impact.",
-    "url": "https://www.oquilia.com/news/oquilia-research-form-121-deductor-quarterly-filing-uin-26-character",
-    "chips": {
-      "Deadline": "7th"
-    },
-    "trend": [
-      0.5,
-      0.55,
-      0.45,
-      0.5,
-      0.47,
-      0.52,
-      0.5
-    ],
-    "color": "B7791F",
-    "premium": false,
-    "verbatim": false,
-    "src_title": "Received a Form 121 nil-tax declaration? How deductors file it by the 7th and build the 26-character UIN",
-    "src_summary": "Deductors holding Form 121 nil-tax declarations must file them quarterly by the 7th of the following month, with a 26-character UIN per declarant. Step-by-step guide.",
-    "hi_tries": 0,
-    "title_hi": "Form 121 nil-tax declaration मिला? deductors इसे 7th तक कैसे दाखिल करें और UIN कैसे बनाएं",
-    "summary_hi": "Form 121 nil-tax declarations रखने वाले deductors को उन्हें अगले महीने की 7th तक त्रैमासिक (quarterly) आधार पर दाखिल करना होगा, जिसमें प्रत्येक declarant के लिए 26-character का UIN होगा। स्टेप-बाय-स्टेप गाइड।",
-    "why_hi": "Procedural tax filing update with no fundamental impact.",
-    "chips_hi": {
-      "डadline": "7th"
-    },
-    "hi_ver": 2
-  },
-  {
-    "v": 3,
-    "cat": "Companies",
-    "tk": "GSM FOILS",
-    "title": "GSM Foils says statutory auditor M N C A & Associates has resigned",
-    "summary": "GSM Foils Limited disclosed to the National Stock Exchange that its statutory auditor resigned, citing uncertainty after a fire incident involving the company's managing director, as the auditor's letter says.",
-    "source": "Oquilia",
-    "published": "2026-11-23T14:47:30.105000+00:00",
-    "ago": "6h",
-    "impact": "Negative",
-    "why": "Auditor resignation creates governance and compliance concer",
-    "url": "https://www.oquilia.com/news/gsm-foils-statutory-auditor-resigns-nse-filing",
-    "chips": {},
-    "trend": [
-      0.95,
-      0.85,
-      0.7,
-      0.6,
-      0.4,
-      0.3,
-      0.1
-    ],
-    "color": "9B2C2C",
-    "premium": false,
-    "verbatim": false,
-    "src_title": "GSM Foils says statutory auditor M N C A & Associates has resigned",
-    "src_summary": "GSM Foils Limited disclosed to the National Stock Exchange that its statutory auditor resigned, citing uncertainty after a fire incident involving the company's managing director, as the auditor's letter says.",
-    "title_hi": "GSM Foils ने कहा कि वैधानिक लेखा परीक्षक M N C A & Associates ने इस्तीफा दे दिया है",
-    "summary_hi": "GSM Foils Limited ने नेशनल स्टॉक एक्सचेंज को बताया कि इसके वैधानिक लेखा परीक्षक ने इस्तीफा दे दिया है, लेखा परीक्षक के पत्र के अनुसार कंपनी के प्रबंध निदेशक से जुड़ी आग की घटना के बाद अनिश्चितता का हवाला दिया गया है।",
-    "why_hi": "लेखा परीक्षक के इस्तीफे से चिंताएं बढ़ीं।",
-    "chips_hi": {},
-    "hi_tries": 0,
-    "hi_ver": 2
-  },
-  {
-    "v": 3,
-    "cat": "Companies",
-    "tk": "COMPANIES",
-    "title": "TBO Tek says its chief financial officer has resigned, effective 31 January 2027",
-    "summary": "TBO Tek Limited told the National Stock Exchange on 23 November 2026 that its chief financial officer has resigned to pursue external career opportunities and will be relieved on 31 January 2027.",
-    "source": "Oquilia",
-    "published": "2026-11-23T14:47:27.086000+00:00",
-    "ago": "6h",
-    "impact": "Neutral",
-    "why": "CFO resignation is a routine management change.",
-    "url": "https://www.oquilia.com/news/tbo-tek-chief-financial-officer-resigns-nse-filing",
-    "chips": {
-      "Effective Date": "31 January 2027"
-    },
-    "trend": [
-      0.5,
-      0.55,
-      0.45,
-      0.5,
-      0.47,
-      0.52,
-      0.5
-    ],
-    "color": "B7791F",
-    "premium": false,
-    "verbatim": false,
-    "src_title": "TBO Tek says its chief financial officer has resigned, effective 31 January 2027",
-    "src_summary": "TBO Tek Limited told the National Stock Exchange on 23 November 2026 that its chief financial officer has resigned to pursue external career opportunities and will be relieved on 31 January 2027.",
-    "title_hi": "TBO Tek का कहना है कि उनके मुख्य वित्तीय अधिकारी ने 31 जनवरी 2027 से प्रभावी इस्तीफा दे दिया है",
-    "summary_hi": "TBO Tek Limited ने 23 नवंबर 2026 को National Stock Exchange को बताया कि उनके मुख्य वित्तीय अधिकारी ने बाहरी करियर के अवसरों को आगे बढ़ाने के लिए इस्तीफा दे दिया है और उन्हें 31 जनवरी 2027 को कार्यमुक्त किया जाएगा।",
-    "why_hi": "CFO का इस्तीफा एक नियमित प्रबंधन बदलाव है।",
-    "chips_hi": {
-      "प्रभावी तिथि": "31 जनवरी 2027"
-    },
-    "hi_tries": 0,
-    "hi_ver": 2
-  },
-  {
-    "v": 3,
-    "cat": "Markets",
-    "tk": "MARKETS",
-    "title": "Nifty 50 falls 1.75% to 25,349.65 as Nifty Bank drops 3.17%",
-    "summary": "The Nifty 50 closed at 25,349.65 on 23 November 2026, down 450.95 points or 1.75%, as 1,997 NSE stocks declined and 748 advanced. Nifty Bank fell 3.17%.",
-    "source": "Oquilia",
-    "published": "2026-11-23T13:38:58.262000+00:00",
-    "ago": "7h",
-    "impact": "Negative",
-    "why": "Market indices declined sharply.",
-    "url": "https://www.oquilia.com/news/stock-market-today-nifty-50-closing-23-november-2026",
-    "chips": {
-      "Nifty 50": "25,349.65",
-      "Decline": "1.75%",
-      "Nifty Bank": "3.17%"
-    },
-    "trend": [
-      0.95,
-      0.85,
-      0.7,
-      0.6,
-      0.4,
-      0.3,
-      0.1
-    ],
-    "color": "9B2C2C",
-    "premium": false,
-    "verbatim": false,
-    "src_title": "Nifty 50 falls 1.75% to 25,349.65 as Nifty Bank drops 3.17%",
-    "src_summary": "The Nifty 50 closed at 25,349.65 on 23 November 2026, down 450.95 points or 1.75%, as 1,997 NSE stocks declined and 748 advanced. Nifty Bank fell 3.17%.",
-    "title_hi": "Nifty 50 में 1.75% की गिरावट, यह 25,349.65 पर बंद हुआ और Nifty Bank 3.17% गिरा",
-    "summary_hi": "Nifty 50 23 नवंबर 2026 को 25,349.65 पर बंद हुआ, जो 450.95 अंक या 1.75% की गिरावट के साथ था, क्योंकि 1,997 NSE शेयर गिरे और 748 चढ़े। Nifty Bank 3.17% गिरा।",
-    "why_hi": "मार्केट इंडेक्स में भारी गिरावट।",
-    "chips_hi": {
-      "Nifty 50": "25,349.65",
-      "गिरावट": "1.75%",
-      "Nifty Bank": "3.17%"
-    },
-    "hi_tries": 0,
-    "hi_ver": 2
-  },
-  {
-    "v": 3,
-    "cat": "Companies",
-    "tk": "COMPANIES",
-    "title": "Jalandhar's Anuraj Real Estates enters insolvency; creditors must claim by 2 December",
-    "summary": "Anuraj Real Estates Private Limited of Jalandhar entered insolvency on 18 November 2026 on an order of the NCLT Chandigarh bench, per an IBBI public announcement. Claims are due by 2 December 2026.",
-    "source": "Oquilia",
-    "published": "2026-11-23T13:37:43.598000+00:00",
-    "ago": "8h",
-    "impact": "Negative",
-    "why": "Company has entered insolvency proceedings.",
-    "url": "https://www.oquilia.com/news/anuraj-real-estates-jalandhar-insolvency-claims-deadline",
-    "chips": {
-      "Deadline": "2 December 2026"
-    },
-    "trend": [
-      0.95,
-      0.85,
-      0.7,
-      0.6,
-      0.4,
-      0.3,
-      0.1
-    ],
-    "color": "9B2C2C",
-    "premium": false,
-    "verbatim": false,
-    "src_title": "Jalandhar's Anuraj Real Estates enters insolvency; creditors must claim by 2 December",
-    "src_summary": "Anuraj Real Estates Private Limited of Jalandhar entered insolvency on 18 November 2026 on an order of the NCLT Chandigarh bench, per an IBBI public announcement. Claims are due by 2 December 2026.",
-    "title_hi": "Jalandhar की Anuraj Real Estates दिवालिया प्रक्रिया में दाखिल; लेनदारों को 2 December तक दावा करना होगा",
-    "summary_hi": "Jalandhar की Anuraj Real Estates Private Limited IBBI सार्वजनिक घोषणा के अनुसार, NCLT चंडीगढ़ बेंच के आदेश पर 18 November 2026 को दिवालिया प्रक्रिया में दाखिल हुई। दावे 2 December 2026 तक देय हैं।",
-    "why_hi": "कंपनी दिवालिया प्रक्रिया में प्रवेश कर चुकी है।",
-    "chips_hi": {
-      "अंतिम तिथि": "2 December 2026"
-    },
-    "hi_tries": 0,
     "hi_ver": 2
   }
 ]
