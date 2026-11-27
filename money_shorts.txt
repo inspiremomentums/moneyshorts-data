@@ -1,6 +1,261 @@
 [
   {
     "v": 3,
+    "cat": "Markets",
+    "tk": "MARKETS",
+    "title": "Nifty 50 ends 1.07% lower at 25,607.20 as IT slides",
+    "summary": "The Nifty 50 closed at 25,607.20 on 27 November 2026, down 277.30 points or 1.07%, while 1,566 NSE stocks advanced against 1,181 that declined.",
+    "source": "Oquilia",
+    "published": "2026-11-27T13:38:31.560000+00:00",
+    "ago": "8h",
+    "impact": "Neutral",
+    "why": "Market index movement with mixed sector trends.",
+    "url": "https://www.oquilia.com/news/stock-market-today-nifty-50-closing-27-november-2026",
+    "chips": {
+      "Nifty 50": "25,607.20",
+      "Decline": "1.07%"
+    },
+    "trend": [
+      0.5,
+      0.55,
+      0.45,
+      0.5,
+      0.47,
+      0.52,
+      0.5
+    ],
+    "color": "B7791F",
+    "premium": false,
+    "verbatim": false,
+    "src_title": "Nifty 50 ends 1.07% lower at 25,607.20 as IT slides and smallcaps gain",
+    "src_summary": "The Nifty 50 closed at 25,607.20 on 27 November 2026, down 277.30 points or 1.07%, while 1,566 NSE stocks advanced against 1,181 that declined.",
+    "title_hi": "Nifty 50, IT शेयरों में गिरावट के साथ 25,607.20 पर 1.07% गिरकर बंद हुआ",
+    "summary_hi": "Nifty 50 27 नवंबर 2026 को 25,607.20 पर बंद हुआ, जो 277.30 अंक या 1.07% नीचे था, जबकि 1,566 NSE शेयरों में तेजी आई और 1,181 में गिरावट आई।",
+    "why_hi": "मिश्रित सेक्टर रुझानों के साथ बाजार सूचकांक गति।",
+    "chips_hi": {
+      "Nifty 50": "25,607.20",
+      "गिरावट": "1.07%"
+    }
+  },
+  {
+    "v": 3,
+    "cat": "Companies",
+    "tk": "TURNREST",
+    "title": "NCLT sends back Rs 11 crore plan for Turnrest Resources",
+    "summary": "The NCLT's Ahmedabad bench on 25 November 2026 sent a Rs 11 crore resolution plan for Turnrest Resources back to creditors, citing gaps in valuation and financial information.",
+    "source": "Oquilia",
+    "published": "2026-11-27T13:37:34.269000+00:00",
+    "ago": "8h",
+    "impact": "Neutral",
+    "why": "Resolution plan sent back for review",
+    "url": "https://www.oquilia.com/news/nclt-sends-back-turnrest-resources-resolution-plan-creditors",
+    "chips": {
+      "Plan Value": "Rs 11 crore",
+      "Claims": "Rs 227.57 crore"
+    },
+    "trend": [
+      0.5,
+      0.55,
+      0.45,
+      0.5,
+      0.47,
+      0.52,
+      0.5
+    ],
+    "color": "B7791F",
+    "premium": false,
+    "verbatim": false,
+    "src_title": "NCLT sends back Rs 11 crore plan for Turnrest Resources against Rs 227.57 crore claims",
+    "src_summary": "The NCLT's Ahmedabad bench on 25 November 2026 sent a Rs 11 crore resolution plan for Turnrest Resources back to creditors, citing gaps in valuation and financial information.",
+    "title_hi": "NCLT ने Turnrest Resources के लिए 11 करोड़ रुपये की योजना वापस भेजी",
+    "summary_hi": "NCLT की अहमदाबाद बेंच ने 25 नवंबर 2026 को मूल्यांकन और वित्तीय जानकारी में कमियों का हवाला देते हुए Turnrest Resources के लिए 11 करोड़ रुपये की समाधान योजना लेनदारों को वापस भेज दी।",
+    "why_hi": "समाधान योजना समीक्षा के लिए वापस भेजी गई",
+    "chips_hi": {
+      "योजना मूल्य": "Rs 11 crore",
+      "दावे": "Rs 227.57 crore"
+    }
+  },
+  {
+    "v": 3,
+    "cat": "Companies",
+    "tk": "MIRADOR",
+    "title": "NCLT admits Thane developer Mirador Construction into insolvency",
+    "summary": "The NCLT's Mumbai bench admitted Mirador Construction into insolvency on 26 November 2026 on a petition by 15 investors who said Rs 6,58,66,874 was due under 21% interest agreements.",
+    "source": "Oquilia",
+    "published": "2026-11-27T13:36:55.022000+00:00",
+    "ago": "8h",
+    "impact": "Negative",
+    "why": "Insolvency admission negatively impacts the developer.",
+    "url": "https://www.oquilia.com/news/nclt-admits-mirador-construction-insolvency-investors-plea",
+    "chips": {
+      "Investors": "15",
+      "Amount Due": "Rs 6,58,66,874",
+      "Interest": "21%"
+    },
+    "trend": [
+      0.95,
+      0.85,
+      0.7,
+      0.6,
+      0.4,
+      0.3,
+      0.1
+    ],
+    "color": "9B2C2C",
+    "premium": false,
+    "verbatim": false,
+    "src_title": "NCLT admits Thane developer Mirador Construction into insolvency on investors' plea",
+    "src_summary": "The NCLT's Mumbai bench admitted Mirador Construction into insolvency on 26 November 2026 on a petition by 15 investors who said Rs 6,58,66,874 was due under 21% interest agreements.",
+    "title_hi": "NCLT ने ठाणे के डेवलपर Mirador Construction को दिवालिया प्रक्रिया में स्वीकार किया",
+    "summary_hi": "NCLT की मुंबई बेंच ने 26 नवंबर 2026 को 15 निवेशकों की याचिका पर Mirador Construction को दिवालिया प्रक्रिया में स्वीकार किया, जिन्होंने कहा था कि 21% ब्याज समझौतों के तहत 6,58,66,874 रुपये बकाया थे।",
+    "why_hi": "दिवालिया प्रक्रिया स्वीकार होने से डेवलपर पर नकारात्मक प्रभाव।",
+    "chips_hi": {
+      "निवेशक": "15",
+      "बकाया राशि": "Rs 6,58,66,874",
+      "ब्याज": "21%"
+    }
+  },
+  {
+    "v": 3,
+    "cat": "Companies",
+    "tk": "BOMBAY RAYON",
+    "title": "NCLT approves KVN Enterprises' resolution plan for Bombay Rayon Clothing",
+    "summary": "The NCLT's Mumbai bench approved KVN Enterprises LLP's resolution plan for Bombay Rayon Clothing Limited on 26 November 2026, after creditors backed it with 100% of the vote.",
+    "source": "Oquilia",
+    "published": "2026-11-27T13:35:35.618000+00:00",
+    "ago": "8h",
+    "impact": "Positive",
+    "why": "Resolution plan approved by NCLT.",
+    "url": "https://www.oquilia.com/news/nclt-approves-kvn-enterprises-resolution-plan-bombay-rayon-clothing",
+    "chips": {
+      "Vote": "100%",
+      "Date": "26 November 2026"
+    },
+    "trend": [
+      0.1,
+      0.25,
+      0.2,
+      0.5,
+      0.45,
+      0.8,
+      0.95
+    ],
+    "color": "0F766E",
+    "premium": false,
+    "verbatim": false,
+    "src_title": "NCLT approves KVN Enterprises' resolution plan for Bombay Rayon Clothing",
+    "src_summary": "The NCLT's Mumbai bench approved KVN Enterprises LLP's resolution plan for Bombay Rayon Clothing Limited on 26 November 2026, after creditors backed it with 100% of the vote.",
+    "title_hi": "NCLT ने Bombay Rayon Clothing के लिए KVN Enterprises की समाधान योजना को मंजूरी दी",
+    "summary_hi": "NCLT की मुंबई बेंच ने 26 November 2026 को 100% वोट के साथ लेनदारों के समर्थन के बाद Bombay Rayon Clothing Limited के लिए KVN Enterprises LLP की समाधान योजना को मंजूरी दी।",
+    "why_hi": "NCLT द्वारा समाधान योजना मंजूर।",
+    "chips_hi": {
+      "वोट": "100%",
+      "तारीख": "26 November 2026"
+    }
+  },
+  {
+    "v": 3,
+    "cat": "Companies",
+    "tk": "SI GROUP-INDIA",
+    "title": "NCLT admits SI Group-India into insolvency over Rs 2.92 crore phenol dues",
+    "summary": "The NCLT's Mumbai bench admitted SI Group-India Private Limited into insolvency on 26 November 2026, rejecting its plea that US sanctions stopped it paying a chemicals supplier.",
+    "source": "Oquilia",
+    "published": "2026-11-27T13:34:58.906000+00:00",
+    "ago": "8h",
+    "impact": "Negative",
+    "why": "Company admitted into insolvency over dues.",
+    "url": "https://www.oquilia.com/news/nclt-admits-si-group-india-insolvency-phenol-dues-us-sanctions",
+    "chips": {
+      "Dues": "Rs 2.92 crore"
+    },
+    "trend": [
+      0.95,
+      0.85,
+      0.7,
+      0.6,
+      0.4,
+      0.3,
+      0.1
+    ],
+    "color": "9B2C2C",
+    "premium": false,
+    "verbatim": false,
+    "src_title": "NCLT admits SI Group-India into insolvency over Rs 2.92 crore phenol dues",
+    "src_summary": "The NCLT's Mumbai bench admitted SI Group-India Private Limited into insolvency on 26 November 2026, rejecting its plea that US sanctions stopped it paying a chemicals supplier.",
+    "title_hi": "NCLT ने 2.92 करोड़ रुपये के फिनोल बकाए पर SI Group-India को दिवालिया प्रक्रिया में स्वीकार किया",
+    "summary_hi": "NCLT की मुंबई बेंच ने 26 नवंबर 2026 को SI Group-India Private Limited को दिवालिया प्रक्रिया में स्वीकार कर लिया, और इसके उस दावे को खारिज कर दिया कि अमेरिकी प्रतिबंधों के कारण यह केमिकल सप्लायर का भुगतान नहीं कर सका।",
+    "why_hi": "बकाए के कारण कंपनी दिवालिया प्रक्रिया में शामिल।",
+    "chips_hi": {
+      "बकाया": "Rs 2.92 करोड़"
+    }
+  },
+  {
+    "v": 3,
+    "cat": "Markets",
+    "tk": "MARKETS",
+    "title": "SEBI lets FPIs trade physically settled non-farm commodity derivatives from June 2027",
+    "summary": "SEBI has allowed foreign portfolio investors to trade physically settled non-agricultural commodity derivatives, with rules that make them exit before the delivery period, from 1 June 2027.",
+    "source": "Oquilia",
+    "published": "2026-11-27T12:35:46.462000+00:00",
+    "ago": "9h",
+    "impact": "Neutral",
+    "why": "Long-term policy change with delayed implementation.",
+    "url": "https://www.oquilia.com/news/sebi-allows-fpis-physically-settled-non-farm-commodity-derivatives",
+    "chips": {
+      "Date": "1 June 2027"
+    },
+    "trend": [
+      0.5,
+      0.55,
+      0.45,
+      0.5,
+      0.47,
+      0.52,
+      0.5
+    ],
+    "color": "B7791F",
+    "premium": false,
+    "verbatim": false,
+    "src_title": "SEBI lets FPIs trade physically settled non-farm commodity derivatives from June 2027",
+    "src_summary": "SEBI has allowed foreign portfolio investors to trade physically settled non-agricultural commodity derivatives, with rules that make them exit before the delivery period, from 1 June 2027.",
+    "title_hi": "SEBI ने जून 2027 से FPIs को फिजिकली सेटल्ड नॉन-फार्म कमोडिटी डेरिवेटिव्स में ट्रेड करने की अनुमति दी",
+    "summary_hi": "SEBI ने फॉरेन पोर्टफोलियो इन्वेस्टर्स को फिजिकली सेटल्ड नॉन-एग्रीकल्चरल कमोडिटी डेरिवेटिव्स में ट्रेड करने की अनुमति दी है, जिसमें ऐसे नियम हैं जो उन्हें 1 जून 2027 से डिलीवरी अवधि से पहले बाहर निकलने के लिए कहते हैं।",
+    "why_hi": "देरी से लागू होने वाला नीतिगत बदलाव।",
+    "chips_hi": {
+      "तारीख": "1 June 2027"
+    }
+  },
+  {
+    "v": 3,
+    "cat": "Companies",
+    "tk": "SEPC",
+    "title": "SEPC says independent director resigned citing professional commitments",
+    "summary": "SEPC Limited said in a filing with the National Stock Exchange that a non-executive independent director has resigned, citing additional professional commitments.",
+    "source": "Oquilia",
+    "published": "2026-11-27T10:45:58.917000+00:00",
+    "ago": "11h",
+    "impact": "Neutral",
+    "why": "Routine independent director resignation without business im",
+    "url": "https://www.oquilia.com/news/sepc-independent-director-resigns-professional-commitments",
+    "chips": {},
+    "trend": [
+      0.5,
+      0.55,
+      0.45,
+      0.5,
+      0.47,
+      0.52,
+      0.5
+    ],
+    "color": "B7791F",
+    "premium": false,
+    "verbatim": false,
+    "src_title": "SEPC says independent director resigned citing professional commitments",
+    "src_summary": "SEPC Limited said in a filing with the National Stock Exchange that a non-executive independent director has resigned, citing additional professional commitments.",
+    "hi_tries": 1
+  },
+  {
+    "v": 3,
     "cat": "Finance",
     "tk": "FINANCE",
     "title": "Form 41 under the Income Tax Act, 2025: how a non-resident furnishes DTAA details online",
@@ -37,7 +292,9 @@
       "Act": "Income Tax Act, 2025",
       "Form": "Form 41",
       "Steps": "16 steps"
-    }
+    },
+    "hi_tries": 0,
+    "hi_ver": 2
   },
   {
     "v": 3,
@@ -77,7 +334,9 @@
       "हिस्सेदारी": "95.15%",
       "राशि": "Rs 98 crore",
       "कुल हिस्सेदारी": "98.06%"
-    }
+    },
+    "hi_tries": 0,
+    "hi_ver": 2
   },
   {
     "v": 3,
@@ -115,7 +374,9 @@
     "chips_hi": {
       "IPO साइज़": "Rs 8,981 करोड़",
       "कीमत": "Rs 136"
-    }
+    },
+    "hi_tries": 0,
+    "hi_ver": 2
   },
   {
     "v": 3,
@@ -146,7 +407,8 @@
     "verbatim": false,
     "src_title": "ITAT Jaipur allows Bundi co-op bank's Rs 1.4 crore gratuity deduction for LIC scheme",
     "src_summary": "The Income Tax Appellate Tribunal allowed The Bundi Central Cooperative Bank to deduct Rs 1,39,90,419 paid to LIC for staff gratuity, though the scheme's approval came later.",
-    "hi_tries": 1
+    "hi_tries": 1,
+    "hi_ver": 2
   },
   {
     "v": 3,
@@ -186,7 +448,9 @@
       "Nifty 50": "25,884.5",
       "बढ़त": "0.25%",
       "Nifty IT": "3.66%"
-    }
+    },
+    "hi_tries": 0,
+    "hi_ver": 2
   },
   {
     "v": 3,
@@ -219,7 +483,7 @@
     "verbatim": false,
     "src_title": "Form 19: how a semiconductor wafer fab gets notified as a specified business for the section 46 deduction",
     "src_summary": "Form No. 19 gets a semiconductor wafer fab notified under section 46(11)(d)(xiii) of the Income-tax Act, 2025. Rule 36(6) conditions, the five panels, a worked example and common mistakes.",
-    "hi_tries": 1,
+    "hi_tries": 0,
     "title_hi": "फॉर्म 19: सेक्शन 46 कटौती के तहत निर्दिष्ट व्यवसाय के रूप में सेमीकंडक्टर वेफर फैब की अधिसूचना",
     "summary_hi": "फॉर्म नंबर 19 इनकम-टैक्स एक्ट, 2025 के सेक्शन 46(11)(d)(xiii) के तहत सेमीकंडक्टर वेफर फैब को अधिसूचित करता है। रूल 36(6) की शर्तें, पांच पैनल, एक हल किया गया उदाहरण और आम गलतियाँ।",
     "why_hi": "टैक्स कटौती से सेमीकंडक्टर वेफर फैब को लाभ होता है।",
@@ -227,7 +491,8 @@
       "फॉर्म": "19",
       "सेक्शन": "46(11)(d)(xiii)",
       "रूल": "36(6)"
-    }
+    },
+    "hi_ver": 2
   },
   {
     "v": 3,
@@ -522,7 +787,7 @@
     "verbatim": false,
     "src_title": "IRDAI panel forms two study groups on health insurance claim transparency",
     "src_summary": "An IRDAI sub-committee on health insurance has formed two study groups to propose standard claim metrics, common reasons for rejections and deductions, and real-time tracking of claims.",
-    "hi_tries": 1,
+    "hi_tries": 2,
     "hi_ver": 2
   },
   {
@@ -1241,280 +1506,6 @@
       "टैक्स मांग": "Rs 191.23 cr"
     },
     "hi_tries": 0,
-    "hi_ver": 2
-  },
-  {
-    "v": 3,
-    "cat": "Markets",
-    "tk": "MARKETS",
-    "title": "Nifty 50 at 25,349.65 after 1.75% bank-led fall on Monday",
-    "summary": "The Nifty 50 closed Monday, 23 November at 25,349.65, down 1.75%, as Nifty Bank fell 3.17% and 1,997 NSE stocks declined against 748 that advanced.",
-    "source": "Oquilia",
-    "published": "2026-11-25T02:33:49.838000+00:00",
-    "ago": "7h",
-    "impact": "Negative",
-    "why": "Broad market decline led by banking stocks.",
-    "url": "https://www.oquilia.com/news/nifty-50-pre-market-25-november-2026",
-    "chips": {
-      "Nifty 50": "25,349.65",
-      "Decline": "1.75%",
-      "Nifty Bank": "3.17%"
-    },
-    "trend": [
-      0.95,
-      0.85,
-      0.7,
-      0.6,
-      0.4,
-      0.3,
-      0.1
-    ],
-    "color": "9B2C2C",
-    "premium": false,
-    "verbatim": false,
-    "src_title": "Pre-market: Nifty 50 at 25,349.65 after a 1.75% bank-led fall on Monday",
-    "src_summary": "The Nifty 50 closed Monday, 23 November at 25,349.65, down 1.75%, as Nifty Bank fell 3.17% and 1,997 NSE stocks declined against 748 that advanced.",
-    "title_hi": "सोमवार को बैंक के नेतृत्व में 1.75% की गिरावट के बाद Nifty 50, 25,349.65 पर",
-    "summary_hi": "Nifty 50 सोमवार, 23 नवंबर को 1.75% गिरकर 25,349.65 पर बंद हुआ, क्योंकि Nifty Bank 3.17% गिरा और 1,997 NSE शेयर 748 की तुलना में गिरे, जो बढ़े थे।",
-    "why_hi": "बैंकिंग शेयरों के नेतृत्व में व्यापक बाजार गिरावट।",
-    "chips_hi": {
-      "Nifty 50": "25,349.65",
-      "गिरावट": "1.75%",
-      "Nifty Bank": "3.17%"
-    },
-    "hi_tries": 0,
-    "hi_ver": 2
-  },
-  {
-    "v": 3,
-    "cat": "Finance",
-    "tk": "FINANCE",
-    "title": "Notification 141/2026: no TDS on dividends between IFSC aircraft-leasing units, via Form 1(N)",
-    "summary": "CBDT Notification 141/2026 removes TDS under section 393(1) on dividends between IFSC aircraft-leasing units from 1 April 2026, if the payee first gives the payer a Form 1(N).",
-    "source": "Oquilia",
-    "published": "2026-11-25T00:40:44.483000+00:00",
-    "ago": "9h",
-    "impact": "Positive",
-    "why": "Removes TDS on dividends for IFSC units.",
-    "url": "https://www.oquilia.com/news/oquilia-research-form-1n-ifsc-aircraft-leasing-dividend-no-tds-notification-141-2026",
-    "chips": {
-      "Notification": "141/2026",
-      "Date": "1 April 2026",
-      "Form": "Form 1(N)"
-    },
-    "trend": [
-      0.1,
-      0.25,
-      0.2,
-      0.5,
-      0.45,
-      0.8,
-      0.95
-    ],
-    "color": "0F766E",
-    "premium": false,
-    "verbatim": false,
-    "src_title": "Notification 141/2026: no TDS on dividends between IFSC aircraft-leasing units, via Form 1(N)",
-    "src_summary": "CBDT Notification 141/2026 removes TDS under section 393(1) on dividends between IFSC aircraft-leasing units from 1 April 2026, if the payee first gives the payer a Form 1(N).",
-    "title_hi": "Notification 141/2026: IFSC aircraft-leasing units के बीच डिविडेंड पर फॉर्म 1(N) के जरिए कोई TDS नहीं",
-    "summary_hi": "CBDT Notification 141/2026 1 April 2026 से IFSC aircraft-leasing units के बीच डिविडेंड पर section 393(1) के तहत TDS हटाता है, यदि payee पहले payer को Form 1(N) दे देता है।",
-    "why_hi": "IFSC units के लिए डिविडेंड पर TDS हटाता है",
-    "chips_hi": {
-      "Notification": "141/2026",
-      "Date": "1 April 2026",
-      "Form": "Form 1(N)"
-    },
-    "hi_tries": 0,
-    "hi_ver": 2
-  },
-  {
-    "v": 3,
-    "cat": "Companies",
-    "tk": "COMPANIES",
-    "title": "3 companies that sought their own insolvency stated Rs 1,606.89 crore of Rs 2,574.62 crore",
-    "summary": "Just 3 of 34 companies admitted to insolvency in a month applied themselves, yet they stated Rs 1,606.89 crore in default, more than all 16 lender cases combined.",
-    "source": "Oquilia",
-    "published": "2026-11-24T06:53:18.196000+00:00",
-    "ago": "4h",
-    "impact": "Neutral",
-    "why": "Insolvency data shows high debtor default amounts.",
-    "url": "https://www.oquilia.com/news/self-filed-insolvencies-held-most-of-defaulted-debt-24-november-2026",
-    "chips": {
-      "Default": "Rs 1,606.89 crore",
-      "Total": "Rs 2,574.62 crore"
-    },
-    "trend": [
-      0.5,
-      0.55,
-      0.45,
-      0.5,
-      0.47,
-      0.52,
-      0.5
-    ],
-    "color": "B7791F",
-    "premium": false,
-    "verbatim": false,
-    "src_title": "3 companies that sought their own insolvency stated Rs 1,606.89 crore of Rs 2,574.62 crore",
-    "src_summary": "Just 3 of 34 companies admitted to insolvency in a month applied themselves, yet they stated Rs 1,606.89 crore in default, more than all 16 lender cases combined.",
-    "title_hi": "3 कंपनियों ने अपनी दिवालिया प्रक्रिया मांगी, 2,574.62 करोड़ रुपये में से 1,606.89 करोड़ रुपये बताए",
-    "summary_hi": "एक महीने में दिवालिया घोषित 34 कंपनियों में से सिर्फ 3 ने खुद आवेदन किया, फिर भी उन्होंने 1,606.89 करोड़ रुपये के डिफ़ॉल्ट का दावा किया, जो सभी 16 ऋणदाता मामलों से अधिक है।",
-    "why_hi": "दिवालिया डेटा से अधिक डिफ़ॉल्ट राशि पता चलती है।",
-    "chips_hi": {
-      "डिफ़ॉल्ट": "Rs 1,606.89 crore",
-      "कुल": "Rs 2,574.62 crore"
-    },
-    "hi_tries": 0,
-    "hi_ver": 2
-  },
-  {
-    "v": 3,
-    "cat": "Companies",
-    "tk": "HD FIRE PROTECT",
-    "title": "HD Fire Protect says DRI searched its Thane office over import tariff claim",
-    "summary": "HD Fire Protect told the National Stock Exchange that the Directorate of Revenue Intelligence searched its Thane corporate office on 23 November 2026 in a matter on classification and tariff concession.",
-    "source": "Oquilia",
-    "published": "2026-11-24T06:46:21.255000+00:00",
-    "ago": "4h",
-    "impact": "Negative",
-    "why": "DRI search at corporate office.",
-    "url": "https://www.oquilia.com/news/hd-fire-protect-dri-search-thane-office-import-tariff",
-    "chips": {
-      "Date": "23 November 2026"
-    },
-    "trend": [
-      0.95,
-      0.85,
-      0.7,
-      0.6,
-      0.4,
-      0.3,
-      0.1
-    ],
-    "color": "9B2C2C",
-    "premium": false,
-    "verbatim": false,
-    "src_title": "HD Fire Protect says DRI searched its Thane office over import tariff claim",
-    "src_summary": "HD Fire Protect told the National Stock Exchange that the Directorate of Revenue Intelligence searched its Thane corporate office on 23 November 2026 in a matter on classification and tariff concession.",
-    "title_hi": "HD Fire Protect का कहना है कि DRI ने आयात टैरिफ दावे पर उसके ठाणे कार्यालय की तलाशी ली",
-    "summary_hi": "HD Fire Protect ने नेशनल स्टॉक एक्सचेंज को बताया कि डायरेक्टरेट ऑफ रेवेन्यू इंटेलिजेंस ने वर्गीकरण और टैरिफ छूट के मामले में 23 नवंबर 2026 को उसके ठाणे कॉर्पोरेट कार्यालय की तलाशी ली।",
-    "why_hi": "कॉ कॉर्पोरेट कार्यालय में DRI की तलाशी।",
-    "chips_hi": {
-      "तारीख": "23 नवंबर 2026"
-    },
-    "hi_tries": 0,
-    "hi_ver": 2
-  },
-  {
-    "v": 3,
-    "cat": "Markets",
-    "tk": "MARKETS",
-    "title": "NSE shut on 24 November for Prakash Gurpurb Sri Guru Nanak Dev",
-    "summary": "The National Stock Exchange is closed for trading on Tuesday, 24 November 2026, for Prakash Gurpurb Sri Guru Nanak Dev, as set out in its 2026 holiday circulars. The last weekday holiday of the year is Christmas.",
-    "source": "Oquilia",
-    "published": "2026-11-24T06:16:50.683000+00:00",
-    "ago": "4h",
-    "impact": "Neutral",
-    "why": "Trading holiday has no fundamental impact.",
-    "url": "https://www.oquilia.com/news/nse-market-holiday-guru-nanak-jayanti-24-november-2026",
-    "chips": {
-      "Holiday date": "24 November 2026"
-    },
-    "trend": [
-      0.5,
-      0.55,
-      0.45,
-      0.5,
-      0.47,
-      0.52,
-      0.5
-    ],
-    "color": "B7791F",
-    "premium": false,
-    "verbatim": false,
-    "src_title": "NSE shut on 24 November for Prakash Gurpurb Sri Guru Nanak Dev; next holiday is 25 December",
-    "src_summary": "The National Stock Exchange is closed for trading on Tuesday, 24 November 2026, for Prakash Gurpurb Sri Guru Nanak Dev, as set out in its 2026 holiday circulars. The last weekday holiday of the year is Christmas.",
-    "hi_tries": 2,
-    "hi_ver": 2
-  },
-  {
-    "v": 3,
-    "cat": "Markets",
-    "tk": "CLEAN MAX",
-    "title": "Clean Max to sell 26% of new unit to GACL, invest up to Rs 214.49 crore",
-    "summary": "Clean Max Enviro Energy Solutions said in an NSE filing that its board approved selling a 26% stake in Clean Max Gangotri to Gujarat Alkalies and Chemicals.",
-    "source": "Oquilia",
-    "published": "2026-11-24T05:46:29.134000+00:00",
-    "ago": "5h",
-    "impact": "Neutral",
-    "why": "Strategic stake sale and planned investment.",
-    "url": "https://www.oquilia.com/news/clean-max-sells-26-percent-gangotri-gujarat-alkalies-rs-214-crore",
-    "chips": {
-      "Stake": "26%",
-      "Investment": "Rs 214.49 crore"
-    },
-    "trend": [
-      0.5,
-      0.55,
-      0.45,
-      0.5,
-      0.47,
-      0.52,
-      0.5
-    ],
-    "color": "B7791F",
-    "premium": false,
-    "verbatim": false,
-    "src_title": "Clean Max to sell 26% of new unit to GACL, invest up to Rs 214.49 crore",
-    "src_summary": "Clean Max Enviro Energy Solutions said in an NSE filing that its board approved selling a 26% stake in Clean Max Gangotri to Gujarat Alkalies and Chemicals.",
-    "hi_tries": 0,
-    "title_hi": "Clean Max GACL को अपनी नई यूनिट का 26% बेचेगा, 214.49 करोड़ रुपये तक का निवेश करेगा",
-    "summary_hi": "Clean Max Enviro Energy Solutions ने एक NSE फाइलिंग में कहा कि उसके बोर्ड ने Clean Max Gangotri में 26% हिस्सेदारी Gujarat Alkalies and Chemicals को बेचने की मंजूरी दे दी है।",
-    "why_hi": "रणनीतिक हिस्सेदारी की बिक्री और नियोजित निवेश।",
-    "chips_hi": {
-      "हिस्सेदारी": "26%",
-      "निवेश": "Rs 214.49 crore"
-    },
-    "hi_ver": 2
-  },
-  {
-    "v": 3,
-    "cat": "IPO",
-    "tk": "MATANGI RUBBER",
-    "title": "Matangi Rubber files RHP for IPO opening Dec 1",
-    "summary": "Matangi Rubber's RHP dated November 20, 2026 sets an IPO of up to 72,76,981 shares, a fresh issue plus an offer for sale, open from December 1 to 3 for listing on BSE and NSE.",
-    "source": "Oquilia",
-    "published": "2026-11-24T04:24:17.936000+00:00",
-    "ago": "6h",
-    "impact": "Neutral",
-    "why": "IPO filing is a standard corporate action.",
-    "url": "https://www.oquilia.com/news/matangi-rubber-ipo-rhp-opens-december-1",
-    "chips": {
-      "Shares": "72,76,981",
-      "Opens": "December 1"
-    },
-    "trend": [
-      0.5,
-      0.55,
-      0.45,
-      0.5,
-      0.47,
-      0.52,
-      0.5
-    ],
-    "color": "B7791F",
-    "premium": false,
-    "verbatim": false,
-    "src_title": "Matangi Rubber files RHP; IPO of 72.77 lakh shares opens December 1",
-    "src_summary": "Matangi Rubber's RHP dated November 20, 2026 sets an IPO of up to 72,76,981 shares, a fresh issue plus an offer for sale, open from December 1 to 3 for listing on BSE and NSE.",
-    "hi_tries": 0,
-    "title_hi": "Matangi Rubber ने IPO के लिए RHP दाखिल किया, 1 दिसंबर को खुलेगा",
-    "summary_hi": "20 नवंबर 2026 के Matangi Rubber के RHP में 72,76,981 शेयरों तक के IPO की बात कही गई है, जिसमें फ्रेश इश्यू और ऑफर फॉर सेल शामिल है। यह BSE और NSE पर लिस्टिंग के लिए 1 से 3 दिसंबर तक खुला रहेगा।",
-    "why_hi": "IPO दाखिल करना एक मानक कॉर्पोरेट कार्रवाई है।",
-    "chips_hi": {
-      "शेयर": "72,76,981",
-      "खुलता है": "December 1"
-    },
     "hi_ver": 2
   }
 ]
