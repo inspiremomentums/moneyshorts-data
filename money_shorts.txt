@@ -1,6 +1,219 @@
 [
   {
     "v": 3,
+    "cat": "Finance",
+    "tk": "FINANCE",
+    "title": "Banks closed on 28 November 2026 under RBI holiday rules",
+    "summary": "Banks across India are shut on Saturday, 28 November 2026: under a 2015 government notification, every second and fourth Saturday is a public holiday for banks, the RBI says.",
+    "source": "Oquilia",
+    "published": "2026-11-28T06:17:06.016000+00:00",
+    "ago": "2h",
+    "impact": "Neutral",
+    "why": "Routine bank holiday.",
+    "url": "https://www.oquilia.com/news/banks-closed-28-november-2026-fourth-saturday-rbi-holiday-rules",
+    "chips": {
+      "Date": "28 November 2026"
+    },
+    "trend": [
+      0.5,
+      0.55,
+      0.45,
+      0.5,
+      0.47,
+      0.52,
+      0.5
+    ],
+    "color": "B7791F",
+    "premium": false,
+    "verbatim": false,
+    "src_title": "Banks closed on 28 November 2026, the month's fourth Saturday, under RBI holiday rules",
+    "src_summary": "Banks across India are shut on Saturday, 28 November 2026: under a 2015 government notification, every second and fourth Saturday is a public holiday for banks, the RBI says.",
+    "hi_tries": 1
+  },
+  {
+    "v": 3,
+    "cat": "Companies",
+    "tk": "HERITAGE FOODS",
+    "title": "Heritage Foods CEO resigns for personal reasons, exit on 31 December",
+    "summary": "Heritage Foods said in an NSE filing that its chief executive officer has resigned, citing personal reasons, and will be relieved on 31 December 2026. The filing names no successor.",
+    "source": "Oquilia",
+    "published": "2026-11-28T05:46:38.729000+00:00",
+    "ago": "3h",
+    "impact": "Neutral",
+    "why": "CEO resignation without immediate named successor.",
+    "url": "https://www.oquilia.com/news/heritage-foods-ceo-resigns-personal-reasons-exit-31-december",
+    "chips": {
+      "Exit Date": "31 December 2026"
+    },
+    "trend": [
+      0.5,
+      0.55,
+      0.45,
+      0.5,
+      0.47,
+      0.52,
+      0.5
+    ],
+    "color": "B7791F",
+    "premium": false,
+    "verbatim": false,
+    "src_title": "Heritage Foods CEO resigns for personal reasons, exit on 31 December",
+    "src_summary": "Heritage Foods said in an NSE filing that its chief executive officer has resigned, citing personal reasons, and will be relieved on 31 December 2026. The filing names no successor.",
+    "title_hi": "Heritage Foods के CEO ने व्यक्तिगत कारणों से इस्तीफा दिया, 31 दिसंबर को होंगे कार्यमुक्त",
+    "summary_hi": "Heritage Foods ने NSE को दी गई जानकारी में बताया कि उसके मुख्य कार्यकारी अधिकारी ने व्यक्तिगत कारणों से इस्तीफा दे दिया है और उन्हें 31 दिसंबर 2026 को कार्यमुक्त किया जाएगा। फाइलिंग में किसी उत्तराधिकारी का नाम नहीं है।",
+    "why_hi": "CEO का इस्तीफा, नया उत्तराधिकारी घोषित नहीं।",
+    "chips_hi": {
+      "कार्यमुक्त तिथि": "31 दिसंबर 2026"
+    }
+  },
+  {
+    "v": 3,
+    "cat": "Markets",
+    "tk": "MARKETS",
+    "title": "Stock market this week: Nifty 50 falls 0.75% as IT gains, Nifty Bank drops 2.47%",
+    "summary": "The Nifty 50 fell 0.75% to 25,607.20 in the week to 27 November 2026 as 1,559 NSE stocks declined against 1,056 advances; Nifty IT rose 4.58% while Nifty Bank lost 2.47%.",
+    "source": "Oquilia",
+    "published": "2026-11-28T04:40:27.394000+00:00",
+    "ago": "4h",
+    "impact": "Neutral",
+    "why": "Mixed sectoral movements in the stock market.",
+    "url": "https://www.oquilia.com/news/stock-market-this-week-27-november-2026",
+    "chips": {
+      "Nifty 50": "25,607.20",
+      "Nifty IT": "+4.58%",
+      "Nifty Bank": "-2.47%"
+    },
+    "trend": [
+      0.5,
+      0.55,
+      0.45,
+      0.5,
+      0.47,
+      0.52,
+      0.5
+    ],
+    "color": "B7791F",
+    "premium": false,
+    "verbatim": false,
+    "src_title": "Stock market this week: Nifty 50 falls 0.75% as IT gains, Nifty Bank drops 2.47%",
+    "src_summary": "The Nifty 50 fell 0.75% to 25,607.20 in the week to 27 November 2026 as 1,559 NSE stocks declined against 1,056 advances; Nifty IT rose 4.58% while Nifty Bank lost 2.47%.",
+    "hi_tries": 1,
+    "title_hi": "इस सप्ताह शेयर बाजार: IT में तेजी के बीच Nifty 50 में 0.75% की गिरावट, Nifty Bank 2.47% लुढ़का",
+    "summary_hi": "27 नवंबर 2026 को समाप्त सप्ताह में Nifty 50 0.75% गिरकर 25,607.20 पर आ गया, क्योंकि NSE पर 1,559 शेयरों में गिरावट आई जबकि 1,056 में तेजी रही; Nifty IT 4.58% चढ़ा जबकि Nifty Bank को 2.47% का नुकसान हुआ।",
+    "why_hi": "शेयर बाजार में मिले-जुले क्षेत्रीय उतार-चढ़ाव।",
+    "chips_hi": {
+      "Nifty 50": "25,607.20",
+      "Nifty IT": "+4.58%",
+      "Nifty Bank": "-2.47%"
+    }
+  },
+  {
+    "v": 3,
+    "cat": "Markets",
+    "tk": "KEC",
+    "title": "KEC International says it has won new orders worth Rs 1,407 crore",
+    "summary": "KEC International said in a filing with the National Stock Exchange that it has secured new orders worth Rs 1,407 crore across its transmission, railway and cables businesses.",
+    "source": "Oquilia",
+    "published": "2026-11-28T03:46:23.117000+00:00",
+    "ago": "5h",
+    "impact": "Positive",
+    "why": "Secured new orders worth Rs 1,407 crore.",
+    "url": "https://www.oquilia.com/news/kec-international-new-orders-rs-1407-crore",
+    "chips": {
+      "Order Value": "Rs 1,407 crore"
+    },
+    "trend": [
+      0.1,
+      0.25,
+      0.2,
+      0.5,
+      0.45,
+      0.8,
+      0.95
+    ],
+    "color": "0F766E",
+    "premium": false,
+    "verbatim": false,
+    "src_title": "KEC International says it has won new orders worth Rs 1,407 crore",
+    "src_summary": "KEC International said in a filing with the National Stock Exchange that it has secured new orders worth Rs 1,407 crore across its transmission, railway and cables businesses.",
+    "title_hi": "KEC International का कहना है कि उसे Rs 1,407 करोड़ के नए ऑर्डर मिले हैं",
+    "summary_hi": "KEC International ने National Stock Exchange को दी गई जानकारी में कहा है कि उसने अपने ट्रांसमिशन, रेलवे और केबल व्यवसायों में Rs 1,407 करोड़ के नए ऑर्डर हासिल किए हैं।",
+    "why_hi": "Rs 1,407 करोड़ के नए ऑर्डर मिले।",
+    "chips_hi": {
+      "ऑर्डर मूल्य": "Rs 1,407 करोड़"
+    }
+  },
+  {
+    "v": 3,
+    "cat": "Finance",
+    "tk": "FINANCE",
+    "title": "ITAT Jaipur upholds denial of 12AB and 80G approval to trust without state registration",
+    "summary": "The ITAT Jaipur bench on 26 November 2026 upheld the tax department's refusal of 12AB registration and 80G approval to a charitable trust that did not produce its state trust registration.",
+    "source": "Oquilia",
+    "published": "2026-11-28T02:35:42.576000+00:00",
+    "ago": "6h",
+    "impact": "Neutral",
+    "why": "Tax ruling on a trust.",
+    "url": "https://www.oquilia.com/news/itat-jaipur-upholds-denial-of-12ab-80g-approval-to-trust",
+    "chips": {
+      "Date": "26 November 2026"
+    },
+    "trend": [
+      0.5,
+      0.55,
+      0.45,
+      0.5,
+      0.47,
+      0.52,
+      0.5
+    ],
+    "color": "B7791F",
+    "premium": false,
+    "verbatim": false,
+    "src_title": "ITAT Jaipur upholds denial of 12AB and 80G approval to trust without state registration",
+    "src_summary": "The ITAT Jaipur bench on 26 November 2026 upheld the tax department's refusal of 12AB registration and 80G approval to a charitable trust that did not produce its state trust registration.",
+    "hi_tries": 1
+  },
+  {
+    "v": 3,
+    "cat": "Finance",
+    "tk": "FINANCE",
+    "title": "Paid tax under wrong year or head? E-filing challan correction window is 7 days for year, 30 days for head",
+    "summary": "The e-Filing portal lets PAN holders fix a challan's assessment year within 7 days and its major or minor head within 30 days, once per challan. Conditions, steps and pitfalls.",
+    "source": "Oquilia",
+    "published": "2026-11-28T00:41:18.522000+00:00",
+    "ago": "8h",
+    "impact": "Neutral",
+    "why": "Tax correction process details for taxpayers.",
+    "url": "https://www.oquilia.com/news/oquilia-research-challan-correction-request-e-filing-7-day-30-day-window",
+    "chips": {
+      "Year correction": "7 days",
+      "Head correction": "30 days"
+    },
+    "trend": [
+      0.5,
+      0.55,
+      0.45,
+      0.5,
+      0.47,
+      0.52,
+      0.5
+    ],
+    "color": "B7791F",
+    "premium": false,
+    "verbatim": false,
+    "src_title": "Paid tax under the wrong year or head? The e-filing challan correction window is 7 days for year, 30 days for head",
+    "src_summary": "The e-Filing portal lets PAN holders fix a challan's assessment year within 7 days and its major or minor head within 30 days, once per challan. Conditions, steps and pitfalls.",
+    "title_hi": "गलत वर्ष या हेड के तहत टैक्स भर दिया? ई-फाइलिंग चालान सुधार विंडो वर्ष के लिए 7 दिन और हेड के लिए 30 दिन है",
+    "summary_hi": "ई-फाइलिंग पोर्टल PAN धारकों को प्रति चालान एक बार, चालान के असेसमेंट ईयर को 7 दिनों के भीतर और इसके मेजर या माइनर हेड को 30 दिनों के भीतर ठीक करने की अनुमति देता है। शर्तें, कदम और कमियां।",
+    "why_hi": "करदाताओं के लिए कर सुधार प्रक्रिया विवरण।",
+    "chips_hi": {
+      "वर्ष सुधार": "7 दिन",
+      "हेड सुधार": "30 दिन"
+    }
+  },
+  {
+    "v": 3,
     "cat": "Markets",
     "tk": "MARKETS",
     "title": "Nifty 50 ends 1.07% lower at 25,607.20 as IT slides",
@@ -35,7 +248,9 @@
     "chips_hi": {
       "Nifty 50": "25,607.20",
       "गिरावट": "1.07%"
-    }
+    },
+    "hi_tries": 0,
+    "hi_ver": 2
   },
   {
     "v": 3,
@@ -73,7 +288,9 @@
     "chips_hi": {
       "योजना मूल्य": "Rs 11 crore",
       "दावे": "Rs 227.57 crore"
-    }
+    },
+    "hi_tries": 0,
+    "hi_ver": 2
   },
   {
     "v": 3,
@@ -113,7 +330,9 @@
       "निवेशक": "15",
       "बकाया राशि": "Rs 6,58,66,874",
       "ब्याज": "21%"
-    }
+    },
+    "hi_tries": 0,
+    "hi_ver": 2
   },
   {
     "v": 3,
@@ -151,7 +370,9 @@
     "chips_hi": {
       "वोट": "100%",
       "तारीख": "26 November 2026"
-    }
+    },
+    "hi_tries": 0,
+    "hi_ver": 2
   },
   {
     "v": 3,
@@ -187,7 +408,9 @@
     "why_hi": "बकाए के कारण कंपनी दिवालिया प्रक्रिया में शामिल।",
     "chips_hi": {
       "बकाया": "Rs 2.92 करोड़"
-    }
+    },
+    "hi_tries": 0,
+    "hi_ver": 2
   },
   {
     "v": 3,
@@ -223,7 +446,9 @@
     "why_hi": "देरी से लागू होने वाला नीतिगत बदलाव।",
     "chips_hi": {
       "तारीख": "1 June 2027"
-    }
+    },
+    "hi_tries": 0,
+    "hi_ver": 2
   },
   {
     "v": 3,
@@ -252,7 +477,8 @@
     "verbatim": false,
     "src_title": "SEPC says independent director resigned citing professional commitments",
     "src_summary": "SEPC Limited said in a filing with the National Stock Exchange that a non-executive independent director has resigned, citing additional professional commitments.",
-    "hi_tries": 1
+    "hi_tries": 1,
+    "hi_ver": 2
   },
   {
     "v": 3,
@@ -407,7 +633,7 @@
     "verbatim": false,
     "src_title": "ITAT Jaipur allows Bundi co-op bank's Rs 1.4 crore gratuity deduction for LIC scheme",
     "src_summary": "The Income Tax Appellate Tribunal allowed The Bundi Central Cooperative Bank to deduct Rs 1,39,90,419 paid to LIC for staff gratuity, though the scheme's approval came later.",
-    "hi_tries": 1,
+    "hi_tries": 2,
     "hi_ver": 2
   },
   {
@@ -1276,236 +1502,6 @@
       "NCD डिफॉल्ट": "75 करोड़ रुपये",
       "देय तिथि": "25 नवंबर 2026"
     },
-    "hi_ver": 2
-  },
-  {
-    "v": 3,
-    "cat": "Finance",
-    "tk": "FINANCE",
-    "title": "Inherited money stuck in India: how a non-resident widow, widower or foreign-citizen heir remits it under FEMA 13(R)",
-    "summary": "RBI's Remittance of Assets rules let a non-resident widow, widower or foreign-citizen heir remit up to USD 1 million a financial year of inherited money. Who qualifies, tax and RBI approval.",
-    "source": "Oquilia",
-    "published": "2026-11-25T09:05:49.573000+00:00",
-    "ago": "56m",
-    "impact": "Neutral",
-    "why": "Explains existing RBI remittance rules.",
-    "url": "https://www.oquilia.com/news/oquilia-research-remittance-of-assets-inherited-by-non-resident-widow-foreign-heir",
-    "chips": {
-      "Limit": "USD 1 million"
-    },
-    "trend": [
-      0.5,
-      0.55,
-      0.45,
-      0.5,
-      0.47,
-      0.52,
-      0.5
-    ],
-    "color": "B7791F",
-    "premium": false,
-    "verbatim": false,
-    "src_title": "Inherited money stuck in India: how a non-resident widow, widower or foreign-citizen heir remits it under FEMA 13(R)",
-    "src_summary": "RBI's Remittance of Assets rules let a non-resident widow, widower or foreign-citizen heir remit up to USD 1 million a financial year of inherited money. Who qualifies, tax and RBI approval.",
-    "hi_tries": 2,
-    "hi_ver": 2
-  },
-  {
-    "v": 3,
-    "cat": "Companies",
-    "tk": "COMPANIES",
-    "title": "Bharat Road Network says its Group CEO has resigned",
-    "summary": "Bharat Road Network Limited said in a filing with the National Stock Exchange on 25 November 2026 that its Group Chief Executive Officer resigned from 24 November 2026.",
-    "source": "Oquilia",
-    "published": "2026-11-25T08:46:23.345000+00:00",
-    "ago": "1h",
-    "impact": "Neutral",
-    "why": "Management changes have unclear fundamental impact.",
-    "url": "https://www.oquilia.com/news/bharat-road-network-group-ceo-resigns-personal-reasons",
-    "chips": {
-      "Filing Date": "25 November 2026",
-      "Resignation Date": "24 November 2026"
-    },
-    "trend": [
-      0.5,
-      0.55,
-      0.45,
-      0.5,
-      0.47,
-      0.52,
-      0.5
-    ],
-    "color": "B7791F",
-    "premium": false,
-    "verbatim": false,
-    "src_title": "Bharat Road Network says its Group CEO has resigned, citing personal reasons",
-    "src_summary": "Bharat Road Network Limited said in a filing with the National Stock Exchange on 25 November 2026 that its Group Chief Executive Officer resigned from 24 November 2026.",
-    "title_hi": "Bharat Road Network ने कहा कि उसके Group CEO ने इस्तीफा दे दिया है",
-    "summary_hi": "Bharat Road Network Limited ने 25 November 2026 को National Stock Exchange को दी गई एक फाइलिंग में कहा कि उसके Group Chief Executive Officer ने 24 November 2026 से इस्तीफा दे दिया है।",
-    "why_hi": "प्रबंधन बदलाव का प्रभाव स्पष्ट नहीं है।",
-    "chips_hi": {
-      "फाइलिंग तिथि": "25 November 2026",
-      "इस्तीफा तिथि": "24 November 2026"
-    },
-    "hi_tries": 0,
-    "hi_ver": 2
-  },
-  {
-    "v": 3,
-    "cat": "Companies",
-    "tk": "COMPANIES",
-    "title": "APL Apollo to buy Tata Steel units, open offer at Rs 2,301.40",
-    "summary": "APL Apollo Tubes disclosed deals to buy Tata Steel's tubes business for Rs 11,700 crore and Tata Steel Colors for Rs 16,300 crore, while Tata Steel is to acquire control through a stake purchase and an open offer.",
-    "source": "Oquilia",
-    "published": "2026-11-25T06:17:09.094000+00:00",
-    "ago": "3h",
-    "impact": "Positive",
-    "why": "Strategic business acquisition to expand operations.",
-    "url": "https://www.oquilia.com/news/apl-apollo-tata-steel-tubes-business-tata-steel-colors-open-offer",
-    "chips": {
-      "Tubes business": "Rs 11,700 crore",
-      "Tata Steel Colors": "Rs 16,300 crore",
-      "Open offer": "Rs 2,301.40"
-    },
-    "trend": [
-      0.1,
-      0.25,
-      0.2,
-      0.5,
-      0.45,
-      0.8,
-      0.95
-    ],
-    "color": "0F766E",
-    "premium": false,
-    "verbatim": false,
-    "src_title": "APL Apollo to buy Tata Steel tubes unit, Tata Steel Colors; open offer at Rs 2,301.40",
-    "src_summary": "APL Apollo Tubes disclosed deals to buy Tata Steel's tubes business for Rs 11,700 crore and Tata Steel Colors for Rs 16,300 crore, while Tata Steel is to acquire control through a stake purchase and an open offer.",
-    "title_hi": "APL Apollo Tata Steel units को खरीदेगा, Rs 2,301.40 पर ओपन ऑफर",
-    "summary_hi": "APL Apollo Tubes ने Tata Steel के tubes कारोबार को Rs 11,700 crore में और Tata Steel Colors को Rs 16,300 crore में खरीदने के सौदों का खुलासा किया, जबकि Tata Steel हिस्सेदारी खरीद और ओपन ऑफर के जरिए नियंत्रण हासिल करेगी।",
-    "why_hi": "रणनीतिक व्यावसायिक अधिग्रहण से संचालन का विस्तार।",
-    "chips_hi": {
-      "Tubes कारोबार": "Rs 11,700 crore",
-      "Tata Steel Colors": "Rs 16,300 crore",
-      "ओपन ऑफर": "Rs 2,301.40"
-    },
-    "hi_tries": 0,
-    "hi_ver": 2
-  },
-  {
-    "v": 3,
-    "cat": "Companies",
-    "tk": "COMPANIES",
-    "title": "Canara HSBC Life says its chief financial officer has resigned",
-    "summary": "Canara HSBC Life Insurance told the National Stock Exchange that its chief financial officer ceased to hold the post at the close of business on 24 November 2026 after resigning.",
-    "source": "Oquilia",
-    "published": "2026-11-25T05:46:15.656000+00:00",
-    "ago": "4h",
-    "impact": "Neutral",
-    "why": "CFO resignation is a routine corporate change.",
-    "url": "https://www.oquilia.com/news/canara-hsbc-life-chief-financial-officer-resigns",
-    "chips": {
-      "Date": "24 November 2026"
-    },
-    "trend": [
-      0.5,
-      0.55,
-      0.45,
-      0.5,
-      0.47,
-      0.52,
-      0.5
-    ],
-    "color": "B7791F",
-    "premium": false,
-    "verbatim": false,
-    "src_title": "Canara HSBC Life says its chief financial officer has resigned",
-    "src_summary": "Canara HSBC Life Insurance told the National Stock Exchange that its chief financial officer ceased to hold the post at the close of business on 24 November 2026 after resigning.",
-    "title_hi": "Canara HSBC Life ने कहा कि उसके मुख्य वित्तीय अधिकारी ने इस्तीफा दे दिया है",
-    "summary_hi": "Canara HSBC Life Insurance ने National Stock Exchange को बताया कि इस्तीफा देने के बाद इसके मुख्य वित्तीय अधिकारी ने 24 November 2026 को कारोबार बंद होने के समय से अपना पद छोड़ दिया।",
-    "why_hi": "CFO का इस्तीफा एक नियमित कॉर्पोरेट बदलाव है।",
-    "chips_hi": {
-      "तारीख": "24 November 2026"
-    },
-    "hi_tries": 0,
-    "hi_ver": 2
-  },
-  {
-    "v": 3,
-    "cat": "IPO",
-    "tk": "MONOMARK",
-    "title": "Monomark Engineering files RHP for IPO",
-    "summary": "Monomark Engineering (India) has filed its RHP with SEBI for a fresh issue of up to 2,70,00,000 shares, open from December 2 to 4, 2026, with the price band yet to be set.",
-    "source": "Oquilia",
-    "published": "2026-11-25T04:24:28.983000+00:00",
-    "ago": "5h",
-    "impact": "Neutral",
-    "why": "IPO details filed, price band pending.",
-    "url": "https://www.oquilia.com/news/monomark-engineering-files-rhp-ipo-opens-december-2",
-    "chips": {
-      "Shares": "2,70,00,000",
-      "Open Date": "December 2"
-    },
-    "trend": [
-      0.5,
-      0.55,
-      0.45,
-      0.5,
-      0.47,
-      0.52,
-      0.5
-    ],
-    "color": "B7791F",
-    "premium": false,
-    "verbatim": false,
-    "src_title": "Monomark Engineering files RHP for 2.7 crore-share IPO opening December 2",
-    "src_summary": "Monomark Engineering (India) has filed its RHP with SEBI for a fresh issue of up to 2,70,00,000 shares, open from December 2 to 4, 2026, with the price band yet to be set.",
-    "title_hi": "Monomark Engineering ने IPO के लिए RHP दाखिल किया",
-    "summary_hi": "Monomark Engineering (India) ने SEBI के पास 2,70,00,000 तक नए शेयरों के इश्यू के लिए RHP दाखिल किया है, जो 2 दिसंबर से 4 दिसंबर 2026 तक खुलेगा, और मूल्य दायरा अभी तय होना बाकी है।",
-    "why_hi": "IPO विवरण दाखिल, मूल्य दायरा बाकी।",
-    "chips_hi": {
-      "शेयर": "2,70,00,000",
-      "खुलने की तिथि": "2 December"
-    },
-    "hi_tries": 0,
-    "hi_ver": 2
-  },
-  {
-    "v": 3,
-    "cat": "Markets",
-    "tk": "VALECHA",
-    "title": "Valecha Engineering says tax appeals officer set aside Rs 191.23 crore demand",
-    "summary": "Valecha Engineering told the National Stock Exchange that a Commissioner of Income Tax (Appeals) set aside an assessment order and a Rs 191.23 crore tax demand for 2024-25.",
-    "source": "Oquilia",
-    "published": "2026-11-25T03:46:33.606000+00:00",
-    "ago": "6h",
-    "impact": "Positive",
-    "why": "Tax demand of Rs 191.23 crore set aside.",
-    "url": "https://www.oquilia.com/news/valecha-engineering-tax-appeals-order-sets-aside-rs-191-crore-demand",
-    "chips": {
-      "Tax demand": "Rs 191.23 cr"
-    },
-    "trend": [
-      0.1,
-      0.25,
-      0.2,
-      0.5,
-      0.45,
-      0.8,
-      0.95
-    ],
-    "color": "0F766E",
-    "premium": false,
-    "verbatim": false,
-    "src_title": "Valecha Engineering says tax appeals officer set aside Rs 191.23 crore demand",
-    "src_summary": "Valecha Engineering told the National Stock Exchange that a Commissioner of Income Tax (Appeals) set aside an assessment order and a Rs 191.23 crore tax demand for 2024-25.",
-    "title_hi": "Valecha Engineering ने कहा कि टैक्स अपील अधिकारी ने 191.23 करोड़ रुपये की मांग को रद्द किया",
-    "summary_hi": "Valecha Engineering ने National Stock Exchange को बताया कि कमिश्नर ऑफ इनकम टैक्स (अपिल्स) ने 2024-25 के लिए असेसमेंट ऑर्डर और 191.23 करोड़ रुपये की टैक्स मांग को रद्द कर दिया है।",
-    "why_hi": "191.23 करोड़ रुपये की टैक्स मांग रद्द।",
-    "chips_hi": {
-      "टैक्स मांग": "Rs 191.23 cr"
-    },
-    "hi_tries": 0,
     "hi_ver": 2
   }
 ]
